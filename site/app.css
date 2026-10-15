@@ -366,6 +366,7 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 /* the end of a perek (הדרן עלך...) and the opening words of the next one */
 .seg.hadran { text-align: center; background: var(--gold-soft); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
 .seg.hadran .gemara { font-weight: 700; font-size: 1.15em; }
+.seg.hadran .seg-kind { display: none; }
 .seg.hadran .gemara, .seg.hadran .gemara .part, .colortext .seg.hadran .gemara .part { color: color-mix(in srgb, var(--gold) 70%, var(--ink)); }
 .seg.perek-start { border-top: 3px double color-mix(in srgb, var(--gold) 60%, var(--line)); }
 .daf-page .dseg.hadran { display: block; text-align: center; font-weight: 700; margin: .2em 0; }
