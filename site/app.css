@@ -109,11 +109,13 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 /* ---------- home ---------- */
 
 .home { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 0 16px; }
-.home .levels, .home .today { grid-column: 1 / -1; }
+.home .levels, .home .today, .home .shas { grid-column: 1 / -1; }
+.home .shas { scroll-margin-top: 80px; }
 .today { background: linear-gradient(135deg, var(--accent-soft), var(--card)); }
-.home .go { display: flex; flex-direction: column; align-items: flex-start; }
-.home .go .btn { margin-top: auto; }
-.go-name { font-family: var(--serif); font-size: 22px; font-weight: 700; margin: 0 0 12px; }
+.home .go { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.home .go h2 { margin-bottom: 4px; }
+.go-name, .home .go .muted { margin: 0; }
+.go-name { font-family: var(--serif); font-size: 22px; font-weight: 700; }
 .daf-name { font-family: var(--serif); font-size: 30px; margin: 0 0 14px; font-weight: 700; }
 .amud-btns { display: flex; gap: 12px; flex-wrap: wrap; }
 .level-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }

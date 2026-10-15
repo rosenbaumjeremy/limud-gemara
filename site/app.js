@@ -80,7 +80,7 @@ const T = {
     intermediateD: "הטקסט קודם; ההסבר ורש״י בלחיצה. מסומנות רק המילים החשובות.",
     advancedD: "טקסט ללא ניקוד, רש״י ותוספות, בלי עזרים — ההסבר רק כשמבקשים.",
     continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.",
-    browse: "לבחור מסכת ודף", browseD: "כל הש״ס, מסכת אחר מסכת.", browseBtn: "לבחור",
+    browse: "לבחור מסכת ודף",
     loading: "טוען…", loadFail: "לא הצלחנו לטעון את הטקסט.", openSefaria: "לפתוח בספריא",
     offlineFail: "אין חיבור, והעמוד הזה עוד לא נשמר במכשיר.",
     prev: "הקודם", next: "הבא",
@@ -116,7 +116,7 @@ const T = {
     intermediateD: "Text first; explanation and Rashi on tap. Only the key words are marked.",
     advancedD: "Unvocalized text with Rashi and Tosafot, no aids — explanation only when you ask.",
     continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.",
-    browse: "Choose a tractate and daf", browseD: "All of Shas, tractate by tractate.", browseBtn: "Choose",
+    browse: "Choose a tractate and daf",
     loading: "Loading…", loadFail: "Couldn't load the text.", openSefaria: "Open on Sefaria",
     offlineFail: "You're offline and this amud isn't saved on the device yet.",
     prev: "Previous", next: "Next",
@@ -397,17 +397,15 @@ async function homeView() {
   parts.push(daf);
 
   parts.push(el("section", { class: "card go" },
-    el("h2", {}, t("continue")),
-    P.last ? [el("p", { class: "go-name" }, refName(P.last)),
-      el("a", { class: "btn", href: "#daf/" + toRoute(P.last) }, t("continueBtn"))]
-      : el("p", { class: "muted" }, t("noLast"))));
+    el("div", {}, el("h2", {}, t("continue")),
+      P.last ? el("p", { class: "go-name" }, refName(P.last)) : el("p", { class: "muted" }, t("noLast"))),
+    P.last ? el("a", { class: "btn", href: "#daf/" + toRoute(P.last) }, t("continueBtn")) : null));
 
-  parts.push(el("section", { class: "card go" },
-    el("h2", {}, t("browse")),
-    el("p", { class: "muted" }, t("browseD")),
-    el("a", { class: "btn", href: "#shas" }, t("browseBtn"))));
+  parts.push(shasList());
 
   setView(el("div", { class: "home" }, parts));
+  // "#shas" (the old tab, and the link back from a tractate) opens home at the tractate list
+  if (location.hash === "#shas") $("#shas").scrollIntoView();
 
   try {
     const cal = await getJSON(`${API}/calendars?timezone=${encodeURIComponent(Intl.DateTimeFormat().resolvedOptions().timeZone || "Asia/Jerusalem")}`);
@@ -911,15 +909,18 @@ function shasView(en) {
       el("div", { class: "daf-grid" }, dafs)));
     return;
   }
+  return homeView();
+}
+
+// Every tractate, seder by seder; it sits on the home page under the daf yomi.
+function shasList() {
   const bySeder = new Map();
   for (const m of MASECHTOT) { if (!bySeder.has(m.seder)) bySeder.set(m.seder, []); bySeder.get(m.seder).push(m); }
-  setView(el("section", { class: "shas" }, el("h2", {}, t("shas")),
+  return el("section", { class: "shas", id: "shas" }, el("h2", {}, t("browse")),
     [...bySeder.values()].map(list => el("div", { class: "card seder" },
       el("h3", {}, S.lang === "he" ? list[0].heSeder : list[0].seder),
-      el("div", { class: "mas-list" }, list.map(m => {
-        return el("a", { class: "mas", href: "#shas/" + m.en.replace(/ /g, "_") },
-          el("b", {}, S.lang === "he" ? m.he : m.en));
-      }))))));
+      el("div", { class: "mas-list" }, list.map(m =>
+        el("a", { class: "mas", href: "#shas/" + m.en.replace(/ /g, "_") }, el("b", {}, S.lang === "he" ? m.he : m.en)))))));
 }
 
 // ---------- settings ----------
@@ -957,8 +958,7 @@ function chrome() {
   $("#subtitle").textContent = t("subtitle");
   document.querySelectorAll(".langswitch button").forEach(b => b.classList.toggle("on", b.dataset.lang === S.lang));
   const here = location.hash.split("/")[0] || "#";
-  $("#tabs").replaceChildren(...[["#", "home"], ["#shas", "shas"]].map(([h, k]) =>
-    el("a", { href: h, class: here === h ? "on" : "" }, t(k))));
+  $("#tabs").replaceChildren(el("a", { href: "#", class: here === "#" || here === "#shas" ? "on" : "" }, t("home")));
   $("#settings-btn").setAttribute("aria-label", t("settings"));
 }
 
