@@ -92,9 +92,9 @@ const T = {
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
     sMeforshim: "סיכום הדף",
-    mfOpen: "בספריא",
-    musagim: "מושגים",
-    sumNote: "סיכום שנכתב מתוך מה שיש בספריא. אם מצאת טעות — לבדוק במקור.",
+    rishonim: "ראשונים", acharonim: "אחרונים", mfOpen: "בספריא",
+    musagim: "מושגים", sugyot: "הסוגיות", sumGemara: "הגמרא:", sumHalakha: "להלכה:", sumOther: "שאר הסוגיות בדף",
+    sumNote: "סיכום שנכתב מתוך מה שיש בספריא; כל דעה מקושרת למקורה. אם מצאת טעות — לבדוק במקור.",
     fullOn: "מסך מלא", fullOff: "יציאה ממסך מלא",
     viewLines: "שורה אחר שורה", viewPage: "צורת הדף", printed: "הדף המודפס",
     pageNote: "הגמרא באמצע, רש״י לצד הכריכה ותוספות בצד החיצון, כמו בדפוס וילנא. הסידור מחושב מהטקסט, ולכן השורות אינן זהות לדף המודפס. לחיצה על שורה פותחת את ההסבר שלה.",
@@ -123,9 +123,9 @@ const T = {
     seder: "Seder",
     lastRead: "Last read",
     sMeforshim: "Summary of the daf",
-    mfOpen: "On Sefaria",
-    musagim: "Key terms",
-    sumNote: "A summary written from what Sefaria has. If something looks wrong, check the source.",
+    rishonim: "Rishonim", acharonim: "Acharonim", mfOpen: "On Sefaria",
+    musagim: "Key terms", sugyot: "The sugyot", sumGemara: "The Gemara:", sumHalakha: "Halakha:", sumOther: "Other sugyot on this daf",
+    sumNote: "A summary written from what Sefaria has; every opinion links to its source. If something looks wrong, check the source.",
     fullOn: "Full screen", fullOff: "Exit full screen",
     viewLines: "Line by line", viewPage: "Page view", printed: "Printed page",
     pageNote: "Gemara in the middle, Rashi toward the binding and Tosafot on the outer side, as in the Vilna Shas. The layout is computed from the text, so its lines don't match the printed page. Tap a line for its explanation.",
@@ -745,20 +745,57 @@ function musagSheet(m) {
   $("#sheet").hidden = false;
 }
 
-// ---------- the summary of a daf ----------
+// ---------- the written summary of the Rishonim and Acharonim on a daf ----------
 
-// data/summaries/<Masechet>-<daf>.json, written per daf by the daily routine (ROUTINE.md).
-// The card shows only the summary itself (the user's choice); the file's key terms still
-// mark the words they explain in the Gemara (MUSAGIM).
+// data/summaries/<Masechet>-<daf>.json, written per daf (only some dafim have one).
+// Each topic: the Gemara, the Rishonim, the Acharonim and the halakha, each opinion
+// linked to its source on Sefaria.
 function summaryPanel(ref) {
   const p = parseRef(ref);
   const box = el("section", { class: "card sum", hidden: true });
   getJSON(summaryUrl(ref)).then(d => {
     const L = S.lang === "he" ? "he" : "en";
+    const here = d.topics.filter(tp => tp.amud.includes(p.amud));
+    const other = d.topics.filter(tp => !tp.amud.includes(p.amud));
+    // a topic covers lines [from, to] of its amud, or runs from line `from` of amud a to line `to` of amud b
+    const lines = tp => tp.amud.length > 1
+      ? [[tp.lines[0], tp.amud[0]], [tp.lines[1], tp.amud[1]]]
+      : Array.from({ length: tp.lines[1] - tp.lines[0] + 1 }, (_, k) => [tp.lines[0] + k, tp.amud]);
+    const line = ([n, amud]) => {
+      const label = `${amud === "a" ? (L === "he" ? "ע״א" : "a") : (L === "he" ? "ע״ב" : "b")} ${n}`;
+      return amud === p.amud
+        ? el("button", { type: "button", class: "chip-btn", onclick: () => jumpToLine(n) }, label)
+        : el("span", { class: "chip-btn off" }, label);
+    };
+    const opinion = o => el("li", {},
+      el("b", {}, o.who[L]), " — ", o[L], " ",
+      el("a", { class: "small", href: `https://www.sefaria.org/${encodeURIComponent(o.ref.replace(/ /g, "_"))}`, target: "_blank", rel: "noopener" }, t("mfOpen")));
+    const topic = (tp, open) => el("details", { class: "sum-topic", open },
+      el("summary", {}, tp[L].title),
+      el("div", { class: "sum-lines" }, lines(tp).map(line)),
+      el("p", { class: "sum-gemara" }, el("b", {}, t("sumGemara")), " ", tp[L].gemara),
+      tp.rishonim.length ? [el("h4", {}, t("rishonim")), el("ul", {}, tp.rishonim.map(opinion))] : null,
+      tp.acharonim.length ? [el("h4", {}, t("acharonim")), el("ul", {}, tp.acharonim.map(opinion))] : null,
+      tp[L].halakha ? el("p", { class: "sum-halakha" }, el("b", {}, t("sumHalakha")), " ", tp[L].halakha) : null);
+    // the מושגים and the סוגיות each fold away as a whole; the device remembers which are open
+    const opened = store.get("sumOpen", { musagim: true, sugyot: true });
+    const group = (key, title, kids) => {
+      const g = el("details", { class: "sum-group", open: opened[key] !== false }, el("summary", {}, title), kids);
+      g.addEventListener("toggle", () => { const o = store.get("sumOpen", {}); o[key] = g.open; store.set("sumOpen", o); });
+      return g;
+    };
     box.replaceChildren(
       // the card is called סיכום on every daf, whatever title the file carries
       el("h2", {}, L === "he" ? `סיכום — ${(masechet(p.m) || { he: p.m }).he} ${gem(p.daf)}` : `Summary — ${p.m} ${p.daf}`),
       el("p", {}, d[L].overview),
+      d.musagim && d.musagim.length ? group("musagim", `${t("musagim")} (${d.musagim.length})`,
+        d.musagim.map(m => el("details", { class: "sum-topic" },
+          el("summary", {}, m[L].term),
+          el("div", { class: "sum-lines" }, line([m.line, m.amud])),
+          musagBody(m)))) : null,
+      group("sugyot", `${t("sugyot")} (${d.topics.length})`, [
+        here.map(tp => topic(tp, false)),
+        other.length ? el("details", { class: "sum-other" }, el("summary", {}, t("sumOther")), other.map(tp => topic(tp, false))) : null]),
       el("p", { class: "note" }, t("sumNote")));
     box.hidden = false;
     // on a wide screen the summary becomes a column beside the text (app.css); the page view
@@ -955,6 +992,8 @@ function shasList() {
 }
 
 // ---------- the running summaries of a masechet ----------
+
+// Only each daf's summary (overview), at the user's request; the daf's own card has the rest.
 
 // site/data/summaries/index.json: every daf the routine has summarized (scripts/add_summary.py)
 const sumIndex = () => getJSON("data/summaries/index.json").then(d => d.days);
