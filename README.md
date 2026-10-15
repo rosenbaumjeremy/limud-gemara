@@ -32,7 +32,7 @@ A study companion for the daily daf. It is a static site
   sugya's flow. This is a heuristic, and the page says so.
 - **Aramaic vocabulary.** About 170 common Gemara words and phrases (`scripts/vocab.txt`) are marked
   in the text; tap one for its meaning.
-- **Continue.** The home page opens the last amud you read (kept in `localStorage`, on that device only).
+- **Continue.** A margin on the right of the home page holds the daf yomi and the last 10 amudim opened (kept in `localStorage`, on that device only).
 - **Offline.** `sw.js` saves the site, every amud opened, and the next two days' dafim.
 
 ## Files

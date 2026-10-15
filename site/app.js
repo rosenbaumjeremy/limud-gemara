@@ -74,7 +74,7 @@ const T = {
     title: "לומדים גמרא", subtitle: "דף יומי ללומד",
     home: "בית", shas: "ש״ס",
     dafYomi: "הדף היומי", amudA: "עמוד א", amudB: "עמוד ב",
-    continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.",
+    continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.", recent: "נפתחו לאחרונה",
     browse: "לבחור מסכת ודף",
     loading: "טוען…", loadFail: "לא הצלחנו לטעון את הטקסט.", openSefaria: "לפתוח בספריא",
     offlineFail: "אין חיבור, והעמוד הזה עוד לא נשמר במכשיר.",
@@ -103,7 +103,7 @@ const T = {
     title: "Learning Gemara", subtitle: "The daily daf, explained",
     home: "Home", shas: "Shas",
     dafYomi: "Today's Daf Yomi", amudA: "Amud a", amudB: "Amud b",
-    continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.",
+    continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.", recent: "Recently opened",
     browse: "Choose a tractate and daf",
     loading: "Loading…", loadFail: "Couldn't load the text.", openSefaria: "Open on Sefaria",
     offlineFail: "You're offline and this amud isn't saved on the device yet.",
@@ -396,8 +396,13 @@ async function loadAmud(ref) {
 
 // ---------- where the student stopped ----------
 
-let P = { last: store.get("progress", {}).last || null };
-const saveP = () => store.set("progress", P);
+// the last 10 amudim opened, newest first (older saves kept only the last one)
+const P0 = store.get("progress", {});
+let P = { recent: (P0.recent || (P0.last ? [P0.last] : [])).slice(0, 10) };
+function opened(ref) {
+  P.recent = [ref, ...P.recent.filter(r => r !== ref)].slice(0, 10);
+  store.set("progress", P);
+}
 
 // ---------- views ----------
 
@@ -406,19 +411,17 @@ function setView(...kids) { const v = view(); v.replaceChildren(...kids); window
 const loadingBox = () => el("p", { class: "muted center" }, t("loading"));
 
 async function homeView() {
-  const parts = [];
-
+  // the daf yomi and where the student stopped sit in a margin beside the tractate list
   const daf = el("section", { class: "card today" }, el("h2", {}, t("dafYomi")), loadingBox());
-  parts.push(daf);
+  const [last, ...older] = P.recent;
+  const go = el("section", { class: "card go" },
+    el("h2", {}, t("continue")),
+    last ? [el("p", { class: "go-name" }, refName(last)), el("a", { class: "btn", href: "#daf/" + toRoute(last) }, t("continueBtn"))]
+      : el("p", { class: "muted" }, t("noLast")),
+    older.length ? [el("h3", {}, t("recent")),
+      el("ol", { class: "recent" }, older.map(ref => el("li", {}, el("a", { href: "#daf/" + toRoute(ref) }, refName(ref)))))] : null);
 
-  parts.push(el("section", { class: "card go" },
-    el("div", {}, el("h2", {}, t("continue")),
-      P.last ? el("p", { class: "go-name" }, refName(P.last)) : el("p", { class: "muted" }, t("noLast"))),
-    P.last ? el("a", { class: "btn", href: "#daf/" + toRoute(P.last) }, t("continueBtn")) : null));
-
-  parts.push(shasList());
-
-  setView(el("div", { class: "home" }, parts));
+  setView(el("div", { class: "home" }, el("aside", { class: "home-side" }, daf, go), shasList()));
   // "#shas" (the old tab, and the link back from a tractate) opens home at the tractate list
   if (location.hash === "#shas") $("#shas").scrollIntoView();
 
@@ -465,7 +468,7 @@ async function amudView(ref) {
       navButtons(ref)));
     return;
   }
-  P.last = ref; saveP();
+  opened(ref);
   const sum = S.meforshim ? await getJSON(summaryUrl(ref)).catch(() => null) : null;
   MUSAGIM = ((sum && sum.musagim) || []).filter(m => m.amud === parseRef(ref).amud);
 
