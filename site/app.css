@@ -160,10 +160,6 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 .structured .seg { border-inline-start: 5px solid var(--k); }
 .seg-kind { display: flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; color: var(--k); margin-bottom: 2px; }
 .gemara { font-family: var(--serif); font-size: 23px; line-height: 1.75; margin: 0; }
-.w { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; border-bottom: 2px dotted var(--gold); }
-.w:hover, .w:focus-visible { background: var(--gold-soft); outline: none; }
-.w.t-q { border-bottom-color: var(--k-question); } .w.t-o { border-bottom-color: var(--k-question); }
-.w.t-a { border-bottom-color: var(--k-answer); } .w.t-p { border-bottom-color: var(--k-answer); }
 
 .layer { margin-top: 8px; border-top: 1px dashed var(--line); padding-top: 6px; }
 .layer summary { cursor: pointer; color: var(--accent); font-size: 14px; font-weight: 600; }
@@ -274,7 +270,6 @@ details > summary { cursor: pointer; font-weight: 600; }
 .daf-page .dseg { cursor: pointer; border-radius: 3px; }
 .daf-page .dseg:hover { background: var(--accent-soft); }
 .daf-page .dseg .dot { width: 7px; height: 7px; vertical-align: middle; margin-inline-end: 3px; }
-.daf-page .w { line-height: inherit; }
 .daf-page .cm b { font-weight: 700; }
 .dr-outer .cm b { color: var(--k-baraita); }
 .dr-inner .cm b { color: var(--gold); }
@@ -319,17 +314,19 @@ details > summary { cursor: pointer; font-weight: 600; }
 .sum-other { margin-top: 10px; }
 .sum-other > summary { color: var(--muted); }
 
-/* the summary: above the text on a phone, a column on the left on a tablet or computer */
+/* the side column (summary, words): above the text on a phone, on the left on a tablet or computer */
 .reader-main { display: flex; flex-direction: column; }
-.reader-main > .sum { order: -1; }
+.reader-main > .side { order: -1; }
+.reader-main > .side:empty { display: none; }
 .reader-text { min-width: 0; }
 @media (min-width: 760px) {
   main:has(.reader-main.has-sum) { max-width: 1440px; }
   .reader-main.has-sum { display: grid; grid-template-columns: minmax(0, 1fr) clamp(280px, 30vw, 380px); gap: 20px; align-items: start; }
-  .reader-main.has-sum > .sum { order: 0; position: sticky; top: 76px; max-height: calc(100vh - 92px); overflow: auto; margin: 0; }
+  .reader-main.has-sum > .side { order: 0; position: sticky; top: 76px; max-height: calc(100vh - 92px); overflow: auto; }
+  .reader-main.has-sum > .side > .card:last-child { margin-bottom: 0; }
   /* the page reads left to right in English: put the column first so it is still on the left */
   html[dir="ltr"] .reader-main.has-sum { grid-template-columns: clamp(280px, 30vw, 380px) minmax(0, 1fr); }
-  html[dir="ltr"] .reader-main.has-sum > .sum { order: -1; }
+  html[dir="ltr"] .reader-main.has-sum > .side { order: -1; }
 }
 /* three columns (structure map, text, summary) only where there is room for them */
 @media (min-width: 760px) and (max-width: 1279px) {
@@ -341,6 +338,12 @@ details > summary { cursor: pointer; font-weight: 600; }
 mark.musag { background: var(--gold-soft); color: inherit; border-bottom: 2px solid var(--gold); border-radius: 2px; cursor: pointer; padding: 0 1px; }
 mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card)); }
 .sum-group { margin-top: 14px; }
+.words-card { padding-top: 8px; padding-bottom: 8px; }
+.words-card .sum-group { margin: 0; }
+.words { list-style: none; margin: 8px 0 4px; padding: 0; }
+.words li { padding: 6px 0; line-height: 1.5; }
+.words li + li { border-top: 1px solid var(--line); }
+.words b { font-family: var(--serif); font-size: 18px; }
 .sum-group > summary { color: var(--gold); font-size: 16px; font-weight: 700; padding: 4px 0; border-bottom: 2px solid var(--gold-soft); }
 .musag-src { color: var(--muted); font-size: 15px; }
 .sheet-inner.line h3 { margin: 4px 0 8px; }

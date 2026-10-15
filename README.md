@@ -30,8 +30,8 @@ A study companion for the daily daf. It is a static site
 - **Sugya structure.** Each line is colored by what it does (משנה, ציטוט משנה/ברייתא, מימרא, שאלה/קושיא,
   תירוץ/ראיה), guessed from its key words (`classify` in `app.js`), with a side map of the
   sugya's flow. This is a heuristic, and the page says so.
-- **Aramaic vocabulary.** About 170 common Gemara words and phrases (`scripts/vocab.txt`) are marked
-  in the text; tap one for its meaning.
+- **Aramaic vocabulary.** About 170 common Gemara words and phrases (`scripts/vocab.txt`) found on the amud
+  are listed with their meanings in a dropdown beside the text (not marked in the text itself).
 - **Continue.** A margin on the right of the home page holds the daf yomi and the last 10 amudim opened (kept in `localStorage`, on that device only).
 - **Offline.** `sw.js` saves the site, every amud opened, and the next two days' dafim.
 

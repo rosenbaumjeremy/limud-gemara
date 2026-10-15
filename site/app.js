@@ -86,7 +86,7 @@ const T = {
     q_baraita: "ברייתא מצוטטת", q_baraitaD: "סוגריים סגולים: הגמרא מביאה ברייתא (תנו רבנן, תניא, מיתיבי)",
     settings: "הגדרות", tools: "כלים",
     sExplain: "הסבר מתחת לכל שורה", sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
-    sRashi: "רש״י", sTosafot: "תוספות", sVocab: "סימון מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
+    sRashi: "רש״י", sTosafot: "תוספות", sVocab: "מילים בארמית (רשימה בצד)", words: "מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
@@ -115,7 +115,7 @@ const T = {
     q_baraita: "Quoted baraita", q_baraitaD: "purple brackets: the Gemara quotes a baraita (tanu rabanan, tanya, meitivei)",
     settings: "Settings", tools: "Tools",
     sExplain: "Explanation under each line", sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
-    sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Mark Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
+    sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Aramaic words (list at the side)", words: "Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
@@ -480,14 +480,14 @@ async function amudView(ref) {
 
   if (S.view === "page") {
     const page = dafView(amud, ref);
-    setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [colorKey(), page.el]), navButtons(ref)));
+    setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [colorKey(), page.el], amud.segs), navButtons(ref)));
     page.draw();
     return;
   }
   const segs = el("div", { class: "segs" + (S.structure ? " structured" : "") }, amud.segs.map(seg => segView(seg)));
   linkCommentary(amud, segs);
   const body = el("div", { class: "reader-body" + (S.structure ? "" : " no-flow") }, S.structure ? flowMap(amud) : null, segs);
-  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [S.structure ? null : colorKey(), body]), navButtons(ref)));
+  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [S.structure ? null : colorKey(), body], amud.segs), navButtons(ref)));
 }
 
 // צורת הדף: the amud laid out like the Vilna page (daf-layout.js). Every line of the
@@ -499,7 +499,7 @@ function dafView(amud, ref) {
 
   function nodes() {
     const main = el("span", {}, amud.segs.map(seg => [
-      markMusagim(el("span", { class: "dseg k-" + seg.kind + perekClass(seg), "data-i": seg.i, onclick: e => { if (!e.target.closest(".w")) lineSheet(seg); } },
+      markMusagim(el("span", { class: "dseg k-" + seg.kind + perekClass(seg), "data-i": seg.i, onclick: () => lineSheet(seg) },
         S.structure ? el("span", { class: "dot", title: KINDS[seg.kind][S.lang] }) : null,
         coloredLine(seg)), seg.i), " "]));
     const comments = key => el("span", {}, amud.segs.flatMap(seg => seg[key].map((c, k) => {
@@ -544,9 +544,32 @@ function jumpToLine(n) {
   setTimeout(() => seg.classList.remove("flash-line"), 1600);
 }
 
-// The text, with the daf's summary (if it has one) beside it on a wide screen and above it on a phone.
-function readerMain(ref, text) {
-  return el("div", { class: "reader-main" }, el("div", { class: "reader-text" }, text), S.meforshim ? summaryPanel(ref) : null);
+// The text, with a column beside it on a wide screen (above it on a phone): the Aramaic words
+// of the amud, and the daf's summary if it has one.
+function readerMain(ref, text, segs) {
+  const words = wordsPanel(segs);
+  return el("div", { class: "reader-main" + (words ? " has-sum" : "") }, el("div", { class: "reader-text" }, text),
+    el("div", { class: "side" }, words, S.meforshim ? summaryPanel(ref) : null));
+}
+
+// The known Aramaic words and phrases of the amud, in the order they first come, each with its
+// meaning and a button to the line it is on; one dropdown that the device remembers open or shut.
+function wordsPanel(segs) {
+  if (S.vocab === "off") return null;
+  const seen = new Map();
+  for (const seg of segs) for (const v of seg.vocab)
+    if (!seen.has(v.w) && (S.vocab === "all" || !v.basic)) seen.set(v.w, [v, seg.i + 1]);
+  if (!seen.size) return null;
+  const L = S.lang === "he" ? "he" : "en";
+  const opened = store.get("sumOpen", {});
+  const g = el("details", { class: "sum-group", open: opened.words === true },
+    el("summary", {}, `${t("words")} (${seen.size})`),
+    el("ul", { class: "words" }, [...seen.values()].map(([v, n]) => el("li", {},
+      el("b", { lang: "he" }, S.nikud ? v.v : v.v.replace(NIKUD, "")), " — ",
+      el("span", { lang: L }, v[L]), " ",
+      el("button", { type: "button", class: "chip-btn", onclick: () => jumpToLine(n) }, String(n))))));
+  g.addEventListener("toggle", () => { const o = store.get("sumOpen", {}); o.words = g.open; store.set("sumOpen", o); });
+  return el("section", { class: "card words-card" }, g);
 }
 
 // ---------- musagim: the key terms of the daf, marked in the Gemara ----------
@@ -673,7 +696,7 @@ function linkCommentary(amud, root) {
     comment.addEventListener("click", () => { on(); setTimeout(off, 2500); });
     // in the line view, a click on the words opens the section and shows the comment
     if (folded) words.forEach(w => w.addEventListener("click", e => {
-      if (e.target.closest(".w, mark.musag")) return;
+      if (e.target.closest("mark.musag")) return;
       folded.open = true; on(); setTimeout(off, 2500);
       comment.scrollIntoView({ behavior: "smooth", block: "nearest" });
     }));
@@ -735,7 +758,7 @@ function summaryPanel(ref) {
     const opened = store.get("sumOpen", { musagim: true, sugyot: true });
     const group = (key, title, kids) => {
       const g = el("details", { class: "sum-group", open: opened[key] !== false }, el("summary", {}, title), kids);
-      g.addEventListener("toggle", () => { opened[key] = g.open; store.set("sumOpen", opened); });
+      g.addEventListener("toggle", () => { const o = store.get("sumOpen", {}); o[key] = g.open; store.set("sumOpen", o); });
       return g;
     };
     box.replaceChildren(
@@ -753,7 +776,7 @@ function summaryPanel(ref) {
     box.hidden = false;
     // on a wide screen the summary becomes a column beside the text (app.css); the page view
     // then has less room, so let it lay itself out again
-    if (box.parentElement) box.parentElement.classList.add("has-sum");
+    const main = box.closest(".reader-main"); if (main) main.classList.add("has-sum");
     window.dispatchEvent(new Event("resize"));
   }).catch(() => { /* no summary for this daf */ });
   return box;
@@ -847,40 +870,9 @@ function segView(seg) {
   return art;
 }
 
-// The line of Gemara, with the known Aramaic words as buttons that open their meaning.
-function gemaraLine(txt) {
-  const parts = txt.split(/([\s־]+)/), words = [], seps = [];
-  parts.forEach((p, i) => (i % 2 ? seps : words).push(p));
-  const show = w => S.nikud ? w : w.replace(NIKUD, "");
-  const sep = j => seps[j] == null ? "" : S.nikud ? seps[j] : seps[j].replace("־", " ");
-  const hits = new Map(S.vocab === "off" ? [] : findVocab(words.map(core))
-    .filter(([, , v]) => S.vocab === "all" || !v.basic).map(h => [h[0], h]));
-  const out = [];
-  for (let i = 0; i < words.length;) {
-    const h = hits.get(i);
-    if (h) {
-      const [, n, v] = h;
-      let s = ""; for (let j = i; j < i + n; j++) s += show(words[j]) + (j < i + n - 1 ? sep(j) : "");
-      out.push(el("button", { type: "button", class: "w t-" + v.t, onclick: () => wordSheet(v) }, s));
-      out.push(sep(i + n - 1)); i += n;
-    } else { out.push(show(words[i]) + sep(i)); i++; }
-  }
-  return out;
-}
+// The line of Gemara, with or without nikud (the Aramaic words are listed beside the text, wordsPanel).
+const gemaraLine = txt => S.nikud ? txt : txt.replace(NIKUD, "").replace(/־/g, " ");
 
-const TYPE = { q: ["מילת שאלה", "question word"], o: ["מילת קושיא", "challenge word"], a: ["מילת תירוץ", "answer word"],
-  p: ["מילת ראיה", "proof word"], s: ["מונח", "term"], c: ["מילה שכיחה", "common word"] };
-
-function wordSheet(v) {
-  const sheet = $("#sheet");
-  sheet.replaceChildren(el("div", { class: "sheet-inner" },
-    el("button", { type: "button", class: "iconbtn close", "aria-label": t("close"), onclick: closeSheet }, "✕"),
-    el("p", { class: "word", lang: "he", dir: "rtl" }, v.v),
-    el("p", { class: "tag t-" + v.t }, TYPE[v.t][S.lang === "he" ? 0 : 1]),
-    el("p", { class: "meaning", lang: "he", dir: "rtl" }, v.he),
-    el("p", { class: "meaning en", lang: "en", dir: "ltr" }, v.en)));
-  sheet.hidden = false;
-}
 function closeSheet() { $("#sheet").hidden = true; }
 
 // ---------- Shas browser ----------
