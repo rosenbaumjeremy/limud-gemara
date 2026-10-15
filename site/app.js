@@ -90,7 +90,7 @@ const T = {
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
-    sMeforshim: "סיכום הראשונים והאחרונים",
+    sMeforshim: "סיכום הדף",
     rishonim: "ראשונים", acharonim: "אחרונים", mfOpen: "בספריא",
     musagim: "מושגים", sugyot: "הסוגיות", sumGemara: "הגמרא:", sumHalakha: "להלכה:", sumOther: "שאר הסוגיות בדף",
     sumNote: "סיכום שנכתב מתוך מה שיש בספריא; כל דעה מקושרת למקורה. אם מצאת טעות — לבדוק במקור.",
@@ -119,7 +119,7 @@ const T = {
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
-    sMeforshim: "Summary of the Rishonim and Acharonim",
+    sMeforshim: "Summary of the daf",
     rishonim: "Rishonim", acharonim: "Acharonim", mfOpen: "On Sefaria",
     musagim: "Key terms", sugyot: "The sugyot", sumGemara: "The Gemara:", sumHalakha: "Halakha:", sumOther: "Other sugyot on this daf",
     sumNote: "A summary written from what Sefaria has; every opinion links to its source. If something looks wrong, check the source.",
@@ -781,7 +781,8 @@ function summaryPanel(ref) {
       return g;
     };
     box.replaceChildren(
-      el("h2", {}, d[L].title),
+      // the card is called סיכום on every daf, whatever title the file carries
+      el("h2", {}, L === "he" ? `סיכום — ${(masechet(p.m) || { he: p.m }).he} ${gem(p.daf)}` : `Summary — ${p.m} ${p.daf}`),
       el("p", {}, d[L].overview),
       d.musagim && d.musagim.length ? group("musagim", `${t("musagim")} (${d.musagim.length})`,
         d.musagim.map(m => el("details", { class: "sum-topic" },
