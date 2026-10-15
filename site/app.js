@@ -229,16 +229,18 @@ function classify(txt, mode) {
   const s = txt.replace(/^(גמ׳|גמ'|מתני׳|מתני')\s*/, "").replace(/[״"׳']/g, "");
   const starts = (...w) => w.some(x => new RegExp(`^ו?${x}(\\s|[:,.?!]|$)`).test(s));
   const has = (...w) => w.some(x => new RegExp(`(^|\\s|ו|ד)${x}(\\s|[:,.?!]|$)`).test(s));
-  const asks = /^[^.!]*\?/.test(s);   // the opening sentence is a question
+  const asks = /^[^.!]*\?/.test(s.replace(/\?(?=\s*הוי אומר)/g, ","));   // the opening sentence is a question (not "...? הוי אומר")
   if (starts("מיתיבי", "איתיביה", "איתיבה", "ורמינהו", "רמי", "והתניא", "והתנן", "והא", "מתקיף לה", "מתקיף", "ולטעמיך", "ותסברא", "איני", "פשיטא")) return "question";
   if (starts("תא שמע", "ת״ש", "תש")) return "answer";
+  if (starts("או דלמא", "או דילמא", "אלא מעתה")) return "question";   // the other side of a בעיא; "if so, then..."
   // a quoted mishnah or baraita is bracketed (quoteRanges); the line itself is colored by its role
   if (starts("דתניא", "כדתניא", "דתנן", "כדתנן")) return "answer";
-  if (starts("תנו רבנן", "תר", "תניא", "תנן", "תנינא") || /^ו?(תנא|תני)( נמי)?:/.test(s)) return "statement";
+  if (starts("תנו רבנן", "תר", "תניא", "תנן", "תנינא") || /^ו?(תנא|תני)( נמי)?:/.test(s) || /^ו?דבי [^:?]{1,30} תנא/.test(s)) return "statement";
   if (has("לא קשיא", "הכא במאי עסקינן", "לא צריכא", "חסורי מיחסרא", "תרגמה")) return "answer";
   if (has("תיובתא", "תיקו", "שמע מינה", "והלכתא", "הלכתא")) return "statement";
+  if (starts("אמר לך")) return "answer";   // "the Tanna would tell you..." answers what was just asked
   if (starts("איתמר", "אמר מר", "אמר", "אמרי", "א״ר", "אר")) return "statement";
-  if (starts("לעולם", "אלא", "שאני", "אמר לך", "אי בעית אימא", "איבעית אימא", "דילמא")) return "answer";
+  if (starts("לעולם", "אלא", "שאני", "אי בעית אימא", "איבעית אימא", "דילמא")) return "answer";
   if (has("קשיא", "הכי השתא", "אמאי", "קשיין אהדדי")) return "question";
   if (starts("מעשה", "ההוא", "ההיא", "הוה עובדא")) return "statement";
   if (/^(רב|רבי|רבא|רבה|אביי|שמואל|רבינא|מר)\s[^.:?]*\s(הוה|הוו)\s/.test(s)) return "statement";   // "רב נחמן ... הוו קאזלי"
@@ -248,24 +250,59 @@ function classify(txt, mode) {
   return "plain";
 }
 
-// A question line often carries its answer too ("מאי טעמא? משום ד..."). Split it after
-// each "?" or "!" so only the asking is colored as a question; what follows gets its own kind.
+// A line often carries a question and its answer together ("מאי טעמא? משום ד..."). Split it
+// after each "?" or "!" so only the asking is colored as a question and what follows as the
+// answer. `prev` is how the line before ended: a line that opens by answering a question
+// left open there ("אמר לך: ...", "אמר רבא: ...") is an answer, not a new statement.
 const QUOTES = /^ו?(מיתיבי|איתיביה|איתיבה|ורמינהו|רמי|והתניא|והתנן|והא)(\s|[:,]|$)/;   // a challenge that quotes a source
-function parts(txt, kind) {
-  if (kind !== "question") return [[txt, kind]];
-  let quoting = false;
-  return txt.split(/(?<=[?!])(?=\s)/).map((b, j) => {
+const ASKWORD = /(^|\s)ו?(מנא|מנלן|מנליה|מנלהו|מאי|היכי|היכא|אמאי|למה|מה|מנין|היאך|כיצד|מי|וכי|לימא|ולימא)(\s|[,?]|$)/;
+const REPLY = /^ו?(אמר|אמרי|א״ר|אר)(\s|:)/;   // someone speaks up: after a question, that is the answer
+const CLOSE = /(^|\s)ו?(תיובתא|תיקו|הלכתא|והלכתא|שמע מינה|ש״מ)(\s|[:,.?!]|$)/;
+function pieces(txt) {
+  const out = [];
+  for (const b of txt.split(/(?<=[?!])(?=\s)/)) {
+    // "ילפי מקדשים, וקדשים גופייהו מנלן?" - an answer, then the next question after a comma
+    let cut = -1;
+    if (/\?\s*$/.test(b))
+      for (let i = b.lastIndexOf(", "); i > 0; i = b.lastIndexOf(", ", i - 1)) {
+        const head = b.slice(0, i).replace(NIKUD, ""), tail = b.slice(i + 1).replace(NIKUD, "").trim();
+        if (ASKWORD.test(head)) break;
+        if (/^ו/.test(tail) && ASKWORD.test(tail)) { cut = i + 1; break; }
+      }
+    // "בכור נאכל... למימרא דלשנה דידיה מנינן. מנא הני מילי?" - only the last sentence asks
+    if (cut < 0 && /[?!]\s*$/.test(b)) cut = b.lastIndexOf(". ") + 1;
+    if (cut > 0) out.push(b.slice(0, cut), b.slice(cut)); else out.push(b);
+  }
+  return out;
+}
+function parts(txt, kind, prev) {
+  if (kind === "mishnah" || !txt) return [[txt, kind]];
+  const ps = pieces(txt), out = [];
+  let quoting = false, last = prev, held = [];
+  ps.forEach((b, j) => {
     const s = b.trim().replace(NIKUD, "").replace(/^(גמ׳|גמ')\s*/, "");
     const was = quoting;
     if (j === 0 || QUOTES.test(s)) quoting = QUOTES.test(s);
     // "...אלמא X הוא!" or "מאי לאו...?" closes the challenge; what follows answers it
     if (/!\s*$/.test(b) || /מאי לאו/.test(s)) quoting = false;
-    // "מאי שנא...? ליתני...!" - the exclamation is still part of the challenge
-    if (j === 0 || /[?!]\s*$/.test(b)) return [b, "question"];
-    const k = classify(s, "gemara");
-    // the rest of a quoted baraita is still the challenge; otherwise it is the answer
-    return [b, k !== "plain" ? k : was && quoting ? "question" : "answer"];
+    // "איזוהי שנה...? הוי אומר...", "יכול...? תלמוד לומר..." ask only to answer themselves:
+    // colored like their own answer
+    if (j + 1 < ps.length && /^\s*(הוי אומר|תלמוד לומר|ת״ל)/.test(ps[j + 1].replace(NIKUD, ""))) { out.push([b, null]); held.push(j); return; }
+    let k;
+    if (/\?\s*$/.test(b)) k = "question";
+    // "איפוך אנא!", "והאנן ׳נשר׳ תנן!", "ליתני...!" - an exclamation challenges
+    else if (/!\s*$/.test(b) && !/^ו?(אלא(?! מעתה)|לעולם|לא קשיא|שאני|הכא במאי)(\s|[:,]|$)/.test(s)) k = "question";
+    else k = j === 0 && kind !== "question" ? kind : classify(s, "gemara");
+    if (last === "question" && k !== "question") {
+      // the rest of a quoted baraita is still the challenge; otherwise it is the answer
+      if (k === "plain") k = was && quoting ? "question" : "answer";
+      else if (k === "statement" && REPLY.test(s) && !CLOSE.test(s)) k = "answer";
+    } else if (k === "plain" && last && last !== "mishnah" && (j > 0 || last === "answer")) k = last;   // more of the same answer
+    held.forEach(h => out[h][1] = k); held = [];
+    out.push([b, k]);
+    last = k;
   });
+  return out;
 }
 
 // Where the Gemara quotes a mishnah (תנן) or a baraita (תניא, מיתיבי...): from after the
@@ -300,7 +337,7 @@ const perekClass = seg => seg.hadran ? " hadran" : seg.opening ? " perek-start" 
 // The line of Gemara, colored part by part, with corner brackets around quoted sources
 // (the same marks as the tikkun's half-page corners): gold for a mishnah, purple for a baraita.
 function coloredLine(seg) {
-  const ps = parts(seg.txt, seg.kind), qs = seg.kind === "mishnah" || !(S.structure || S.colorText) ? [] : quoteRanges(seg.txt);
+  const ps = parts(seg.txt, seg.kind, seg.prev), qs = seg.kind === "mishnah" || !(S.structure || S.colorText) ? [] : quoteRanges(seg.txt);
   const cuts = new Set([0, seg.txt.length]);
   let at = 0;
   const spans = ps.map(([txt, k]) => { const p = { a: at, b: at + txt.length, k }; at = p.b; cuts.add(p.a); return p; });
@@ -363,6 +400,14 @@ async function loadAmud(ref) {
       kind: hadran ? "plain" : classify(core0, mode), speaker: mode === "gemara" ? speaker(core0) : null,
       vocab: findVocab(words.map(core)).map(h => h[2]),
     };
+  });
+  // a line that opens by answering the question the line before left open is an answer
+  segs.forEach((s, i) => {
+    const p = segs[i - 1];
+    s.prev = p && !s.hadran ? parts(p.txt, p.kind, p.prev).at(-1)[1] : null;
+    const first = parts(s.txt, s.kind, s.prev).map(x => x[1]);
+    if (s.kind === "plain" && !s.hadran) s.kind = first.find(k => k !== "plain") || "plain";
+    else if (s.kind === "statement" && first[0] === "answer") s.kind = "answer";
   });
   return { ref: base.ref || ref, segs };
 }
