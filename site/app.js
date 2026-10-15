@@ -79,10 +79,8 @@ const T = {
     beginnerD: "הסבר מלא מתחת לכל שורה, ניקוד, מילים בארמית מסומנות, ומפת מבנה הסוגיא.",
     intermediateD: "הטקסט קודם; ההסבר ורש״י בלחיצה. מסומנות רק המילים החשובות.",
     advancedD: "טקסט ללא ניקוד, רש״י ותוספות, בלי עזרים — ההסבר רק כשמבקשים.",
-    reviews: "חזרות להיום", noReviews: "אין חזרות להיום. כל הכבוד!",
-    reviewNote: "חזרה אחרי יום, שבוע וחודש — כך הלימוד נשאר.",
-    stats: "ההתקדמות שלי", amudim: "עמודים שנלמדו", streak: "ימים ברצף",
-    continue: "להמשיך מאיפה שעצרתי", browse: "לבחור מסכת ודף",
+    continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.",
+    browse: "לבחור מסכת ודף", browseD: "כל הש״ס, מסכת אחר מסכת.", browseBtn: "לבחור",
     loading: "טוען…", loadFail: "לא הצלחנו לטעון את הטקסט.", openSefaria: "לפתוח בספריא",
     offlineFail: "אין חיבור, והעמוד הזה עוד לא נשמר במכשיר.",
     prev: "הקודם", next: "הבא",
@@ -97,7 +95,6 @@ const T = {
     sRashi: "רש״י", sTosafot: "תוספות", sVocab: "סימון מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור", reset: "למחוק את ההתקדמות במכשיר",
     resetConfirm: "למחוק את כל ההתקדמות והחזרות במכשיר הזה?",
-    savedNote: "ההתקדמות נשמרת במכשיר הזה בלבד.",
     seder: "סדר", ofTotal: (a, b) => `${a}/${b}`,
     lastRead: "נקרא לאחרונה",
     sMeforshim: "סיכום הראשונים והאחרונים",
@@ -118,10 +115,8 @@ const T = {
     beginnerD: "Full explanation under every line, vowels, Aramaic words marked, and a map of the sugya.",
     intermediateD: "Text first; explanation and Rashi on tap. Only the key words are marked.",
     advancedD: "Unvocalized text with Rashi and Tosafot, no aids — explanation only when you ask.",
-    reviews: "Reviews for today", noReviews: "No reviews due today. Well done!",
-    reviewNote: "Review after a day, a week and a month, so it stays with you.",
-    stats: "My progress", amudim: "amudim learned", streak: "day streak",
-    continue: "Continue where I left off", browse: "Choose a tractate and daf",
+    continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.",
+    browse: "Choose a tractate and daf", browseD: "All of Shas, tractate by tractate.", browseBtn: "Choose",
     loading: "Loading…", loadFail: "Couldn't load the text.", openSefaria: "Open on Sefaria",
     offlineFail: "You're offline and this amud isn't saved on the device yet.",
     prev: "Previous", next: "Next",
@@ -136,7 +131,6 @@ const T = {
     sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Mark Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close", reset: "Erase progress on this device",
     resetConfirm: "Erase all progress and reviews on this device?",
-    savedNote: "Progress is saved on this device only.",
     seder: "Seder", ofTotal: (a, b) => `${a}/${b}`,
     lastRead: "Last read",
     sMeforshim: "Summary of the Rishonim and Acharonim",
@@ -388,12 +382,6 @@ function markReviewed(ref) {
   L.stage++; L.due = L.stage < REVIEW.length ? today(REVIEW[L.stage]) : null;
   activity();
 }
-const dueReviews = () => Object.entries(P.learned).filter(([, L]) => L.due && L.due <= today()).map(([r]) => r);
-function streak() {
-  const set = new Set(P.days); let n = 0, off = set.has(today()) ? 0 : -1;
-  while (set.has(today(off))) { n++; off--; }
-  return n;
-}
 
 // ---------- views ----------
 
@@ -408,20 +396,16 @@ async function homeView() {
   const daf = el("section", { class: "card today" }, el("h2", {}, t("dafYomi")), loadingBox());
   parts.push(daf);
 
-  const due = dueReviews();
-  parts.push(el("section", { class: "card" },
-    el("h2", {}, t("reviews")),
-    due.length ? el("ul", { class: "reviews" }, due.map(r => el("li", {}, el("a", { href: "#daf/" + toRoute(r) }, refName(r)))))
-      : el("p", { class: "muted" }, t("noReviews")),
-    el("p", { class: "note" }, t("reviewNote"))));
+  parts.push(el("section", { class: "card go" },
+    el("h2", {}, t("continue")),
+    P.last ? [el("p", { class: "go-name" }, refName(P.last)),
+      el("a", { class: "btn", href: "#daf/" + toRoute(P.last) }, t("continueBtn"))]
+      : el("p", { class: "muted" }, t("noLast"))));
 
-  parts.push(el("section", { class: "card" },
-    el("h2", {}, t("stats")),
-    el("div", { class: "stats" },
-      stat(Object.keys(P.learned).length, t("amudim")), stat(streak(), t("streak"))),
-    P.last ? el("p", {}, el("a", { href: "#daf/" + toRoute(P.last) }, `${t("continue")}: ${refName(P.last)}`)) : null,
-    el("p", {}, el("a", { href: "#shas" }, t("browse"))),
-    el("p", { class: "note" }, t("savedNote"))));
+  parts.push(el("section", { class: "card go" },
+    el("h2", {}, t("browse")),
+    el("p", { class: "muted" }, t("browseD")),
+    el("a", { class: "btn", href: "#shas" }, t("browseBtn"))));
 
   setView(el("div", { class: "home" }, parts));
 
@@ -443,7 +427,6 @@ async function homeView() {
   }
 }
 
-const stat = (n, label) => el("div", { class: "stat" }, el("b", {}, n), el("span", {}, label));
 
 function levelPicker() {
   return el("section", { class: "card levels" },
