@@ -94,12 +94,9 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
   background: var(--accent); color: var(--card); font: inherit; font-size: 15px; text-decoration: none; cursor: pointer;
 }
 .btn.ghost { background: transparent; color: var(--accent); }
-.btn.done { background: var(--good-soft); border-color: var(--good); color: var(--good); }
 .btn.big { padding: 14px 22px; font-size: 17px; }
 .btn.good { background: var(--good); border-color: var(--good); }
 .btn.bad { background: var(--bad); border-color: var(--bad); }
-.linkbtn { background: none; border: 0; color: var(--bad); font: inherit; cursor: pointer; padding: 0; text-decoration: underline; }
-.chip { font-size: 12px; padding: 1px 8px; border-radius: 99px; background: var(--card); color: var(--good); }
 .row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
 
 .seg-switch { display: inline-flex; flex-wrap: wrap; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; margin-bottom: 12px; }
@@ -109,7 +106,7 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 /* ---------- home ---------- */
 
 .home { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 0 16px; }
-.home .levels, .home .today, .home .shas { grid-column: 1 / -1; }
+.home .today, .home .shas { grid-column: 1 / -1; }
 .home .shas { scroll-margin-top: 80px; }
 .today { background: linear-gradient(135deg, var(--accent-soft), var(--card)); }
 .home .go { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
@@ -118,17 +115,11 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 .go-name { font-family: var(--serif); font-size: 22px; font-weight: 700; }
 .daf-name { font-family: var(--serif); font-size: 30px; margin: 0 0 14px; font-weight: 700; }
 .amud-btns { display: flex; gap: 12px; flex-wrap: wrap; }
-.level-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
-.level { text-align: start; padding: 14px 16px; border: 2px solid var(--line); border-radius: var(--radius); background: var(--card); color: var(--ink); font: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 4px; }
-.level b { font-size: 17px; color: var(--accent); }
-.level span { font-size: 14px; color: var(--muted); }
-.level:hover, .level.on { border-color: var(--accent); }
 
 /* ---------- reader ---------- */
 
 .reader-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
 .reader-head h2 { font-family: var(--serif); font-size: 28px; margin: 0; }
-.reader-actions { display: flex; gap: 8px; flex-wrap: wrap; }
 .reader-body { display: grid; grid-template-columns: 250px 1fr; gap: 20px; align-items: start; }
 .reader-body.no-flow { grid-template-columns: 1fr; }
 @media (max-width: 800px) { .reader-body { grid-template-columns: 1fr; } }
@@ -210,7 +201,6 @@ details > summary { cursor: pointer; font-weight: 600; }
 .dn { grid-column: 1 / -1; text-align: center; font-family: var(--serif); font-weight: 700; }
 .am { text-align: center; text-decoration: none; background: var(--bg); border-radius: 4px; color: var(--muted); font-weight: 700; line-height: 1.6; }
 .am:hover { background: var(--accent-soft); }
-.am.done { background: var(--good); color: var(--card); }
 .am.empty { background: none; }
 
 /* ---------- צורת הדף: the Vilna page layout (daf-layout.js) ----------

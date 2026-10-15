@@ -1,7 +1,7 @@
 "use strict";
 // לומדים גמרא — a study companion for the daily daf. The text and the commentaries come
-// live from Sefaria (cached on the device by sw.js); the student's level, progress and
-// reviews live in localStorage on this device only.
+// live from Sefaria (cached on the device by sw.js); the settings and the last amud opened
+// live in localStorage on this device only.
 
 const API = "https://www.sefaria.org/api";
 const $ = (s, root = document) => root.querySelector(s);
@@ -71,30 +71,23 @@ const core = w => w.replace(NIKUD, "").replace(/[^א-ת]/g, "");
 
 const T = {
   he: {
-    title: "לומדים גמרא", subtitle: "דף יומי ללומד — בכל רמה",
+    title: "לומדים גמרא", subtitle: "דף יומי ללומד",
     home: "בית", shas: "ש״ס",
-    dafYomi: "הדף היומי", amudA: "עמוד א", amudB: "עמוד ב", learned: "✓ נלמד",
-    chooseLevel: "באיזו רמה אתה לומד?", chooseLevelSub: "אפשר לשנות בכל עת בהגדרות (⚙). כל כלי אפשר גם להדליק ולכבות בנפרד.",
-    beginner: "מתחיל", intermediate: "ממשיך", advanced: "מתקדם",
-    beginnerD: "הסבר מלא מתחת לכל שורה, ניקוד, מילים בארמית מסומנות, ומפת מבנה הסוגיא.",
-    intermediateD: "הטקסט קודם; ההסבר ורש״י בלחיצה. מסומנות רק המילים החשובות.",
-    advancedD: "טקסט ללא ניקוד, רש״י ותוספות, בלי עזרים — ההסבר רק כשמבקשים.",
+    dafYomi: "הדף היומי", amudA: "עמוד א", amudB: "עמוד ב",
     continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.",
     browse: "לבחור מסכת ודף",
     loading: "טוען…", loadFail: "לא הצלחנו לטעון את הטקסט.", openSefaria: "לפתוח בספריא",
     offlineFail: "אין חיבור, והעמוד הזה עוד לא נשמר במכשיר.",
     prev: "הקודם", next: "הבא",
-    markLearned: "סיימתי את העמוד", isLearned: "✓ נלמד", markReview: "✓ חזרתי",
     explain: "הסבר", rashi: "רש״י", tosafot: "תוספות",
     flow: "מבנה הסוגיא", flowNote: "סימון אוטומטי לפי מילות המפתח — הצעה, לא פסק.",
     legend: "מה הסימנים אומרים?",
     q_mishnah: "משנה מצוטטת", q_mishnahD: "סוגריים זהובים: הגמרא מביאה משנה (תנן, והתנן)",
     q_baraita: "ברייתא מצוטטת", q_baraitaD: "סוגריים סגולים: הגמרא מביאה ברייתא (תנו רבנן, תניא, מיתיבי)",
-    settings: "הגדרות", level: "רמה", tools: "כלים",
+    settings: "הגדרות", tools: "כלים",
     sExplain: "הסבר מתחת לכל שורה", sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
     sRashi: "רש״י", sTosafot: "תוספות", sVocab: "סימון מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
-    sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור", reset: "למחוק את ההתקדמות במכשיר",
-    resetConfirm: "למחוק את כל ההתקדמות והחזרות במכשיר הזה?",
+    sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
     sMeforshim: "סיכום הראשונים והאחרונים",
@@ -107,30 +100,23 @@ const T = {
     scanCredit: "דפוס וילנא של האלמנה והאחים ראם (1880–1886) · סריקה: הספרייה הלאומית, דרך ספריא · לחיצה מגדילה",
   },
   en: {
-    title: "Learning Gemara", subtitle: "The daily daf, at every level",
+    title: "Learning Gemara", subtitle: "The daily daf, explained",
     home: "Home", shas: "Shas",
-    dafYomi: "Today's Daf Yomi", amudA: "Amud a", amudB: "Amud b", learned: "✓ learned",
-    chooseLevel: "What level are you learning at?", chooseLevelSub: "You can change it any time in Settings (⚙), and switch each tool on or off.",
-    beginner: "Beginner", intermediate: "Intermediate", advanced: "Advanced",
-    beginnerD: "Full explanation under every line, vowels, Aramaic words marked, and a map of the sugya.",
-    intermediateD: "Text first; explanation and Rashi on tap. Only the key words are marked.",
-    advancedD: "Unvocalized text with Rashi and Tosafot, no aids — explanation only when you ask.",
+    dafYomi: "Today's Daf Yomi", amudA: "Amud a", amudB: "Amud b",
     continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.",
     browse: "Choose a tractate and daf",
     loading: "Loading…", loadFail: "Couldn't load the text.", openSefaria: "Open on Sefaria",
     offlineFail: "You're offline and this amud isn't saved on the device yet.",
     prev: "Previous", next: "Next",
-    markLearned: "I finished this amud", isLearned: "✓ learned", markReview: "✓ I reviewed it",
     explain: "Explanation", rashi: "Rashi", tosafot: "Tosafot",
     flow: "Structure of the sugya", flowNote: "Marked automatically from the key words — a guide, not a ruling.",
     legend: "What do the colors mean?",
     q_mishnah: "Quoted mishnah", q_mishnahD: "gold brackets: the Gemara quotes a mishnah (tenan, vehatenan)",
     q_baraita: "Quoted baraita", q_baraitaD: "purple brackets: the Gemara quotes a baraita (tanu rabanan, tanya, meitivei)",
-    settings: "Settings", level: "Level", tools: "Tools",
+    settings: "Settings", tools: "Tools",
     sExplain: "Explanation under each line", sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
     sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Mark Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
-    sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close", reset: "Erase progress on this device",
-    resetConfirm: "Erase all progress and reviews on this device?",
+    sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
     sMeforshim: "Summary of the Rishonim and Acharonim",
@@ -153,15 +139,11 @@ const KINDS = {
   plain:      { he: "המשך",   en: "Continuation", dHe: "המשך הדיון", dEn: "the discussion continues" },
 };
 
-const PRESETS = {
-  beginner:     { explain: "open", rashi: false, tosafot: false, vocab: "all", structure: true,  colorText: true,  nikud: true,  meforshim: false },
-  intermediate: { explain: "tap",  rashi: true,  tosafot: false, vocab: "key", structure: true,  colorText: false, nikud: true,  meforshim: true },
-  advanced:     { explain: "tap",  rashi: true,  tosafot: true,  vocab: "off", structure: false, colorText: false, nikud: false, meforshim: true },
-};
-
-// a setting added after the student chose a level takes that level's default
+// the starting settings; each tool can be switched on or off in the settings (⚙)
+const DEFAULTS = { lang: "he", view: "lines", explain: "open", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true, meforshim: false };
 const SAVED = store.get("settings", {});
-let S = Object.assign({ lang: "he", level: null, view: "lines" }, PRESETS[SAVED.level] || PRESETS.beginner, SAVED);
+delete SAVED.level;   // the levels are gone; what a student set by hand stays
+let S = Object.assign({}, DEFAULTS, SAVED);
 const t = (k, ...a) => { const v = T[S.lang][k]; return typeof v === "function" ? v(...a) : v; };
 const saveSettings = () => store.set("settings", S);
 
@@ -412,21 +394,10 @@ async function loadAmud(ref) {
   return { ref: base.ref || ref, segs };
 }
 
-// ---------- progress, reviews, streak ----------
+// ---------- where the student stopped ----------
 
-const REVIEW = [1, 7, 30];
-let P = Object.assign({ learned: {}, days: [], last: null }, store.get("progress", {}));
+let P = { last: store.get("progress", {}).last || null };
 const saveP = () => store.set("progress", P);
-function activity() { const d = today(); if (!P.days.includes(d)) { P.days.push(d); P.days = P.days.slice(-400); } saveP(); }
-function markLearned(ref) {
-  if (!P.learned[ref]) P.learned[ref] = { first: today(), stage: 0, due: today(REVIEW[0]) };
-  activity();
-}
-function markReviewed(ref) {
-  const L = P.learned[ref]; if (!L) return markLearned(ref);
-  L.stage++; L.due = L.stage < REVIEW.length ? today(REVIEW[L.stage]) : null;
-  activity();
-}
 
 // ---------- views ----------
 
@@ -436,7 +407,6 @@ const loadingBox = () => el("p", { class: "muted center" }, t("loading"));
 
 async function homeView() {
   const parts = [];
-  if (!S.level) parts.push(levelPicker());
 
   const daf = el("section", { class: "card today" }, el("h2", {}, t("dafYomi")), loadingBox());
   parts.push(daf);
@@ -460,8 +430,7 @@ async function homeView() {
       el("p", { class: "daf-name" }, S.lang === "he" ? item.displayValue.he : item.displayValue.en),
       el("div", { class: "amud-btns" }, ["a", "b"].map(a => {
         const ref = `${name}${a}`;
-        return el("a", { class: "btn big" + (P.learned[ref] ? " done" : ""), href: "#daf/" + toRoute(ref) },
-          t(a === "a" ? "amudA" : "amudB"), P.learned[ref] ? el("span", { class: "chip" }, t("learned")) : null);
+        return el("a", { class: "btn big", href: "#daf/" + toRoute(ref) }, t(a === "a" ? "amudA" : "amudB"));
       })));
     prefetchUpcoming();
   } catch (err) {
@@ -471,15 +440,6 @@ async function homeView() {
 }
 
 
-function levelPicker() {
-  return el("section", { class: "card levels" },
-    el("h2", {}, t("chooseLevel")),
-    el("p", { class: "muted" }, t("chooseLevelSub")),
-    el("div", { class: "level-grid" }, ["beginner", "intermediate", "advanced"].map(l =>
-      el("button", { type: "button", class: "level" + (S.level === l ? " on" : ""), onclick: () => { setLevel(l); route(); } },
-        el("b", {}, t(l)), el("span", {}, t(l + "D"))))));
-}
-function setLevel(l) { Object.assign(S, PRESETS[l], { level: l }); saveSettings(); }
 
 // Save the next two days' dafim on the device, so the student can learn offline.
 async function prefetchUpcoming() {
@@ -509,18 +469,7 @@ async function amudView(ref) {
   const sum = S.meforshim ? await getJSON(summaryUrl(ref)).catch(() => null) : null;
   MUSAGIM = ((sum && sum.musagim) || []).filter(m => m.amud === parseRef(ref).amud);
 
-  const L = P.learned[ref];
-  const learnBtn = el("button", { type: "button", class: "btn" + (L ? " done" : "") }, L ? (L.due && L.due <= today() ? t("markReview") : t("isLearned")) : t("markLearned"));
-  learnBtn.addEventListener("click", () => {
-    const L2 = P.learned[ref];
-    if (!L2) markLearned(ref); else if (L2.due && L2.due <= today()) markReviewed(ref); else return;
-    learnBtn.className = "btn done"; learnBtn.textContent = t("isLearned");
-  });
-
-  const head = el("div", { class: "reader-head" },
-    el("h2", {}, refName(ref)),
-    el("div", { class: "reader-actions" },
-      learnBtn));
+  const head = el("div", { class: "reader-head" }, el("h2", {}, refName(ref)));
   const views = el("div", { class: "reader-views" },
     el("div", { class: "seg-switch view-switch" }, [["lines", t("viewLines")], ["page", t("viewPage")]].map(([v, label]) =>
       el("button", { type: "button", class: S.view === v ? "on" : "", onclick: () => { S.view = v; saveSettings(); amudView(ref); } }, label))),
@@ -945,7 +894,7 @@ function shasView(en) {
         ["a", "b"].map(a => {
           const idx = (d - 1) * 2 + (a === "b" ? 1 : 0), ref = `${en} ${d}${a}`;
           if (idx < first || idx > last) return el("span", { class: "am empty" });
-          return el("a", { class: "am" + (P.learned[ref] ? " done" : ""), href: "#daf/" + toRoute(ref), title: refName(ref) }, a === "a" ? "." : ":");
+          return el("a", { class: "am", href: "#daf/" + toRoute(ref), title: refName(ref) }, a === "a" ? "." : ":");
         })));
     }
     setView(el("section", { class: "shas" },
@@ -979,19 +928,10 @@ function settingsView() {
   d.replaceChildren(el("div", { class: "drawer-inner" },
     el("div", { class: "drawer-head" }, el("h2", {}, t("settings")),
       el("button", { type: "button", class: "iconbtn", "aria-label": t("close"), onclick: () => { d.hidden = true; } }, "✕")),
-    el("h3", {}, t("level")),
-    el("div", { class: "seg-switch" }, ["beginner", "intermediate", "advanced"].map(l =>
-      el("button", { type: "button", class: S.level === l ? "on" : "", onclick: () => { setLevel(l); settingsView(); route(); } }, t(l)))),
-    el("p", { class: "muted small" }, S.level ? t(S.level + "D") : ""),
     el("h3", {}, t("tools")),
     el("p", {}, t("sExplain")), radio("explain", [["open", t("sExplainOpen")], ["tap", t("sExplainTap")], ["off", t("sExplainOff")]]),
     el("p", {}, t("sVocab")), radio("vocab", [["all", t("sVocabAll")], ["key", t("sVocabKey")], ["off", t("sVocabOff")]]),
-    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("meforshim", t("sMeforshim")), toggle("nikud", t("sNikud")), toggle("rashi", t("sRashi")), toggle("tosafot", t("sTosafot")),
-    el("hr"),
-    el("button", { type: "button", class: "linkbtn", onclick: () => {
-      if (!confirm(t("resetConfirm"))) return;
-      P = { learned: {}, days: [], last: null }; saveP(); route();
-    } }, t("reset"))));
+    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("meforshim", t("sMeforshim")), toggle("nikud", t("sNikud")), toggle("rashi", t("sRashi")), toggle("tosafot", t("sTosafot"))));
 }
 
 // ---------- shell ----------

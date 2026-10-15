@@ -1,6 +1,6 @@
 # לומדים גמרא — Learning Gemara
 
-A study companion for the daily daf, for beginners through advanced learners. It is a static site
+A study companion for the daily daf. It is a static site
 (`site/`), served by Cloudflare Workers like the other study sites (`wrangler.jsonc`).
 
 ## What it does
@@ -26,21 +26,13 @@ A study companion for the daily daf, for beginners through advanced learners. It
   First one: Bekhorot 27 (2026-10-15).
 - **Printed page.** A button opens Sefaria's scan of the Romm Vilna page (National Library of Israel),
   from `manuscripts.sefaria.org`. The scans aren't saved offline (about 800 KB each).
-- **Three levels**, each a preset of the tools below; every tool can also be switched on or off
-  on its own (⚙):
-  | | explanation | Rashi | Tosafot | Aramaic words marked | sugya structure | nikud |
-  |---|---|---|---|---|---|---|
-  | מתחיל | open | – | – | all | ✓ | ✓ |
-  | ממשיך | on tap | ✓ | – | key words | ✓ | ✓ |
-  | מתקדם | on tap | ✓ | ✓ | – | – | – |
+- **Tools.** Each tool below can be switched on or off on its own (⚙).
 - **Sugya structure.** Each line is colored by what it does (משנה, ציטוט משנה/ברייתא, מימרא, שאלה/קושיא,
   תירוץ/ראיה), guessed from its key words (`classify` in `app.js`), with a side map of the
   sugya's flow. This is a heuristic, and the page says so.
 - **Aramaic vocabulary.** About 170 common Gemara words and phrases (`scripts/vocab.txt`) are marked
   in the text; tap one for its meaning.
-- **Progress.** "I finished this amud" schedules reviews after 1, 7 and 30 days. The home page shows
-  the reviews due and the streak. Progress lives in `localStorage`, on that
-  device only.
+- **Continue.** The home page opens the last amud you read (kept in `localStorage`, on that device only).
 - **Offline.** `sw.js` saves the site, every amud opened, and the next two days' dafim.
 
 ## Files
