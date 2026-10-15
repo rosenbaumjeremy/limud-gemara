@@ -90,6 +90,8 @@ const T = {
     explain: "הסבר", rashi: "רש״י", tosafot: "תוספות",
     flow: "מבנה הסוגיא", flowNote: "סימון אוטומטי לפי מילות המפתח — הצעה, לא פסק.",
     legend: "מה הסימנים אומרים?",
+    q_mishnah: "משנה מצוטטת", q_mishnahD: "סוגריים זהובים: הגמרא מביאה משנה (תנן, והתנן)",
+    q_baraita: "ברייתא מצוטטת", q_baraitaD: "סוגריים סגולים: הגמרא מביאה ברייתא (תנו רבנן, תניא, מיתיבי)",
     settings: "הגדרות", level: "רמה", tools: "כלים",
     sExplain: "הסבר מתחת לכל שורה", sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
     sRashi: "רש״י", sTosafot: "תוספות", sVocab: "סימון מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
@@ -127,6 +129,8 @@ const T = {
     explain: "Explanation", rashi: "Rashi", tosafot: "Tosafot",
     flow: "Structure of the sugya", flowNote: "Marked automatically from the key words — a guide, not a ruling.",
     legend: "What do the colors mean?",
+    q_mishnah: "Quoted mishnah", q_mishnahD: "gold brackets: the Gemara quotes a mishnah (tenan, vehatenan)",
+    q_baraita: "Quoted baraita", q_baraitaD: "purple brackets: the Gemara quotes a baraita (tanu rabanan, tanya, meitivei)",
     settings: "Settings", level: "Level", tools: "Tools",
     sExplain: "Explanation under each line", sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
     sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Mark Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
@@ -149,8 +153,7 @@ const T = {
 // What each line of the sugya is doing. Colors are in app.css (.k-<kind>).
 const KINDS = {
   mishnah:    { he: "משנה",   en: "Mishnah",    dHe: "המשנה שהגמרא דנה בה", dEn: "the Mishnah under discussion" },
-  source:     { he: "ציטוט",  en: "Quoted source", dHe: "הגמרא מביאה משנה או ברייתא", dEn: "the Gemara quotes a mishnah or a baraita" },
-  statement:  { he: "מימרא",  en: "Statement",  dHe: "דברי אמורא, מעשה, או מסקנה (הלכה, תיקו, תיובתא)", dEn: "an Amora's statement, a story, or a conclusion (halakha, unresolved, refuted)" },
+  statement:  { he: "מימרא",  en: "Statement",  dHe: "דברי אמורא או תנא, מעשה, או מסקנה (הלכה, תיקו, תיובתא)", dEn: "a teaching of an Amora or Tanna, a story, or a conclusion (halakha, unresolved, refuted)" },
   question:   { he: "שאלה / קושיא", en: "Question / Challenge", dHe: "הגמרא שואלת (מה, מניין, למה) או מקשה על מה שנאמר", dEn: "the Gemara asks what, why or from where, or challenges what was said" },
   answer:     { he: "תירוץ / ראיה", en: "Answer / Proof", dHe: "יישוב הקושיא, או ראיה ממקור או מפסוק", dEn: "resolving the challenge, or support from a source or a verse" },
   plain:      { he: "המשך",   en: "Continuation", dHe: "המשך הדיון", dEn: "the discussion continues" },
@@ -235,8 +238,9 @@ function classify(txt, mode) {
   const asks = /^[^.!]*\?/.test(s);   // the opening sentence is a question
   if (starts("מיתיבי", "איתיביה", "איתיבה", "ורמינהו", "רמי", "והתניא", "והתנן", "והא", "מתקיף לה", "מתקיף", "ולטעמיך", "ותסברא", "איני", "פשיטא")) return "question";
   if (starts("תא שמע", "ת״ש", "תש")) return "answer";
-  // a quoted mishnah (תנן) or baraita (תניא); the Mishnah under discussion stays "mishnah"
-  if (starts("תנו רבנן", "תר", "תניא", "דתניא", "תנן", "דתנן", "תנינא") || /^ו?(תנא|תני)( נמי)?:/.test(s)) return "source";
+  // a quoted mishnah or baraita is bracketed (quoteRanges); the line itself is colored by its role
+  if (starts("דתניא", "כדתניא", "דתנן", "כדתנן")) return "answer";
+  if (starts("תנו רבנן", "תר", "תניא", "תנן", "תנינא") || /^ו?(תנא|תני)( נמי)?:/.test(s)) return "statement";
   if (has("לא קשיא", "הכא במאי עסקינן", "לא צריכא", "חסורי מיחסרא", "תרגמה")) return "answer";
   if (has("תיובתא", "תיקו", "שמע מינה", "והלכתא", "הלכתא")) return "statement";
   if (starts("איתמר", "אמר מר", "אמר", "אמרי", "א״ר", "אר")) return "statement";
@@ -270,8 +274,52 @@ function parts(txt, kind) {
   });
 }
 
-// The line of Gemara, colored part by part.
-const coloredLine = seg => parts(seg.txt, seg.kind).map(([txt, k]) => el("span", { class: "part k-" + k }, gemaraLine(txt)));
+// Where the Gemara quotes a mishnah (תנן) or a baraita (תניא, מיתיבי...): from after the
+// colon of the opening formula to where the Gemara's own Aramaic picks up again.
+const INTRO = /(?<=^|[.?!:]\s+|\s—\s+|^גמ׳\s+)(ו?(?:כד|ד)?(?:תנו רבנן|ת״ר|תניא|תנן|תנינא|תנא|תני|מיתיבי|איתיביה|איתיבה|ורמינהו|והתניא|והתנן|תא שמע|ת״ש)(?:\s[^:.?!״]{0,40}?)?):\s*/g;
+const BACK = /(?:[.?!]|\s—)(?=\s+ו?(?:מאי|אלמא|קתני|מדקתני|אי אמרת|בשלמא|קשיא|תיובתא|שמע מינה|ש״מ|הכא במאי|תרגמה|לימא|מכלל|תיקו|לא,|אלא|אמרי|אמר רב |אמר רבא|אמר אביי|אמר ליה|הכי קאמר|והא|מי כתיב|ואי|איני|למימרא|היינו|ותו|אמאי)[\s,:.?!])/g;
+function quoteRanges(txt) {
+  let s = "";
+  const map = [];
+  for (let i = 0; i < txt.length; i++) if (!/[֑-ׇ]/.test(txt[i])) { s += txt[i]; map.push(i); }
+  map.push(txt.length);
+  const out = [];
+  INTRO.lastIndex = 0;
+  for (let m; (m = INTRO.exec(s));) {
+    const from = m.index + m[0].length;
+    // "מיתיבי: ״הבקר אור...״" brings a verse, not a mishnah or baraita: no brackets
+    if (s[from] === "״") continue;
+    let to = s.length;
+    BACK.lastIndex = from;
+    const b = BACK.exec(s);
+    if (b) to = b.index + (b[0][0] === " " ? 0 : 1);
+    while (to > from && /\s/.test(s[to - 1])) to--;
+    if (to - from > 3) out.push({ from: map[from], to: map[to], src: /תנן|תנינא/.test(m[1]) ? "mishnah" : "baraita" });
+    INTRO.lastIndex = Math.max(to, m.index + 1);
+  }
+  return out;
+}
+
+// The line of Gemara, colored part by part, with corner brackets around quoted sources
+// (the same marks as the tikkun's half-page corners): gold for a mishnah, purple for a baraita.
+function coloredLine(seg) {
+  const ps = parts(seg.txt, seg.kind), qs = seg.kind === "mishnah" || !(S.structure || S.colorText) ? [] : quoteRanges(seg.txt);
+  const cuts = new Set([0, seg.txt.length]);
+  let at = 0;
+  const spans = ps.map(([txt, k]) => { const p = { a: at, b: at + txt.length, k }; at = p.b; cuts.add(p.a); return p; });
+  qs.forEach(q => { cuts.add(q.from); cuts.add(q.to); });
+  const pos = [...cuts].sort((x, y) => x - y), out = [];
+  const mark = (x, end) => qs.filter(q => (end ? q.to : q.from) === x)
+    .forEach(q => out.push(el("span", { class: `qb ${end ? "close" : "open"} q-${q.src}`, "aria-hidden": "true" })));
+  for (let j = 0; j < pos.length - 1; j++) {
+    const x = pos[j], y = pos[j + 1];
+    mark(x, true); mark(x, false);
+    const k = spans.find(p => p.a <= x && x < p.b).k;
+    out.push(el("span", { class: "part k-" + k }, gemaraLine(seg.txt.slice(x, y))));
+  }
+  mark(seg.txt.length, true);
+  return out;
+}
 
 // "אמר רב יהודה אמר שמואל: ..." -> who said it, and what
 function speaker(txt) {
@@ -725,8 +773,11 @@ function summaryPanel(ref) {
 function colorKey() {
   if (!S.colorText) return null;
   return el("div", { class: "color-key" }, Object.entries(KINDS).filter(([k]) => k !== "plain").map(([k, v]) =>
-    el("span", { class: "k-" + k, title: S.lang === "he" ? v.dHe : v.dEn }, el("span", { class: "dot" }), v[S.lang])));
+    el("span", { class: "k-" + k, title: S.lang === "he" ? v.dHe : v.dEn }, el("span", { class: "dot" }), v[S.lang])),
+    ["mishnah", "baraita"].map(src => el("span", { class: "qkey", title: t("q_" + src + "D") }, bracketIcon(src), t("q_" + src))));
 }
+const bracketIcon = src => el("span", { class: "qicon q-" + src, "aria-hidden": "true" },
+  el("span", { class: "qb open" }), el("span", { class: "qb close" }));
 
 function lineSheet(seg) {
   const html = S.lang === "he" ? (seg.st || seg.en) : (seg.en || seg.st), isHe = html === seg.st;
@@ -775,7 +826,10 @@ function flowMap(amud) {
     el("details", { class: "legend" }, el("summary", {}, t("legend")),
       el("dl", {}, Object.entries(KINDS).map(([k, v]) => [
         el("dt", { class: "k-" + k }, el("span", { class: "dot" }), v[S.lang]),
-        el("dd", {}, S.lang === "he" ? v.dHe : v.dEn)]))),
+        el("dd", {}, S.lang === "he" ? v.dHe : v.dEn)]),
+        ["mishnah", "baraita"].map(src => [
+          el("dt", {}, bracketIcon(src), t("q_" + src)),
+          el("dd", {}, t("q_" + src + "D"))]))),
     el("p", { class: "note" }, t("flowNote")));
 }
 

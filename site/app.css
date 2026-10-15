@@ -17,7 +17,7 @@
 
   /* what each line of the sugya is doing */
   --k-mishnah: #b8924a;
-  --k-source: #7a4fa0;
+  --k-baraita: #7a4fa0;
   --k-statement: #16305c;
   --k-question: #b23a3a;
   --k-answer: #2e7d4f;
@@ -28,7 +28,7 @@
     --bg: #15171c; --card: #1e2128; --ink: #ebe7df; --muted: #a29d94; --line: #343841;
     --accent: #8fb0e8; --accent-soft: #263248; --gold: #d4b06c; --gold-soft: #3a3222;
     --good: #6cc191; --good-soft: #1f3529; --bad: #e88080; --bad-soft: #3d2424;
-    --k-mishnah: #d4b06c; --k-source: #b592d6; --k-statement: #8fb0e8; --k-question: #e88080;
+    --k-mishnah: #d4b06c; --k-baraita: #b592d6; --k-statement: #8fb0e8; --k-question: #e88080;
     --k-answer: #6cc191;
     --k-plain: #6d6a64;
   }
@@ -152,7 +152,7 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 
 .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; display: inline-block; background: var(--k); }
 [class*="k-"] { --k: var(--k-plain); }
-.k-mishnah { --k: var(--k-mishnah); } .k-source { --k: var(--k-source); } .k-statement { --k: var(--k-statement); }
+.k-mishnah { --k: var(--k-mishnah); } .k-statement { --k: var(--k-statement); }
 .k-question { --k: var(--k-question); } .k-answer { --k: var(--k-answer); }
 .k-plain { --k: var(--k-plain); }
 
@@ -173,7 +173,7 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 .rashi .layer-body, .tosafot .layer-body { font-size: 17px; }
 .rashi .layer-body p, .tosafot .layer-body p { margin: 4px 0; }
 .rashi summary { color: var(--gold); }
-.tosafot summary { color: var(--k-source); }
+.tosafot summary { color: var(--k-baraita); }
 
 .amud-nav { display: flex; justify-content: space-between; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
 
@@ -279,7 +279,7 @@ details > summary { cursor: pointer; font-weight: 600; }
 .daf-page .dseg .dot { width: 7px; height: 7px; vertical-align: middle; margin-inline-end: 3px; }
 .daf-page .w { line-height: inherit; }
 .daf-page .cm b { font-weight: 700; }
-.dr-outer .cm b { color: var(--k-source); }
+.dr-outer .cm b { color: var(--k-baraita); }
 .dr-inner .cm b { color: var(--gold); }
 .daf-note { color: var(--muted); font-size: 13px; text-align: center; margin: 12px 0 0; }
 .daf-fallback { display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 16px; }
@@ -354,3 +354,14 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 /* the Gemara words a Rashi or Tosafot explains: a faint dotted line, so you know where to hover */
 .cref { text-decoration: underline dotted rgb(128 128 128 / .55); text-underline-offset: 4px; transition: background .15s; }
 .segs .cref { cursor: pointer; }
+
+/* quoted mishnah / baraita: corner brackets like the tikkun's half-page marks. In RTL the
+   quote opens at the top right and closes at the bottom left. */
+.qb { display: inline-block; width: .45em; height: .85em; border: 0 solid var(--qc); pointer-events: none; }
+.qb.open { border-top-width: 2px; border-right-width: 2px; border-top-right-radius: 4px; vertical-align: text-top; margin-inline-end: 1px; }
+.qb.close { border-bottom-width: 2px; border-left-width: 2px; border-bottom-left-radius: 4px; vertical-align: text-bottom; margin-inline-start: 1px; }
+.q-mishnah { --qc: var(--k-mishnah); } .q-baraita { --qc: var(--k-baraita); }
+.qicon { display: inline-flex; justify-content: space-between; width: 22px; height: 14px; margin-inline-end: 6px; vertical-align: middle; }
+.qicon .qb { height: 10px; }
+.qicon .qb.open { align-self: flex-start; } .qicon .qb.close { align-self: flex-end; }
+.color-key > .qkey { display: inline-flex; align-items: center; font-weight: 600; color: var(--muted); }
