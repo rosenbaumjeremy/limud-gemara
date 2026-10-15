@@ -300,6 +300,9 @@ function quoteRanges(txt) {
   return out;
 }
 
+// The end of one perek (הדרן) and the start of the next stand out from the text around them.
+const perekClass = seg => seg.hadran ? " hadran" : seg.opening ? " perek-start" : "";
+
 // The line of Gemara, colored part by part, with corner brackets around quoted sources
 // (the same marks as the tikkun's half-page corners): gold for a mishnah, purple for a baraita.
 function coloredLine(seg) {
@@ -308,6 +311,8 @@ function coloredLine(seg) {
   let at = 0;
   const spans = ps.map(([txt, k]) => { const p = { a: at, b: at + txt.length, k }; at = p.b; cuts.add(p.a); return p; });
   qs.forEach(q => { cuts.add(q.from); cuts.add(q.to); });
+  const open = seg.opening ? seg.txt.indexOf(seg.opening) : -1;
+  if (open >= 0) { cuts.add(open); cuts.add(open + seg.opening.length); }
   const pos = [...cuts].sort((x, y) => x - y), out = [];
   const mark = (x, end) => qs.filter(q => (end ? q.to : q.from) === x)
     .forEach(q => out.push(el("span", { class: `qb ${end ? "close" : "open"} q-${q.src}`, "aria-hidden": "true" })));
@@ -315,7 +320,8 @@ function coloredLine(seg) {
     const x = pos[j], y = pos[j + 1];
     mark(x, true); mark(x, false);
     const k = spans.find(p => p.a <= x && x < p.b).k;
-    out.push(el("span", { class: "part k-" + k }, gemaraLine(seg.txt.slice(x, y))));
+    const bit = gemaraLine(seg.txt.slice(x, y));
+    out.push(el("span", { class: "part k-" + k }, x === open ? el("strong", { class: "perek-open" }, bit) : bit));
   }
   mark(seg.txt.length, true);
   return out;
@@ -349,12 +355,18 @@ async function loadAmud(ref) {
     if (/MISHNA:/i.test(enHtml) || /^מתני/.test(core0)) mode = "mishnah";
     if (/GEMARA:/i.test(enHtml) || /^גמ/.test(core0)) mode = "gemara";
     const words = core0.split(/[\s־]+/);
+    // Sefaria sets "הדרן עלך..." as a line of its own, and the first words of a perek in <big>
+    // (מתני׳ and גמ׳ are in <big> too, so skip those)
+    const hadran = /^הדרן/.test(core0);
+    const big = (h.match(/<big>.*?<\/big>/g) || []).map(plain).find(b => !/^(מתני|גמ)/.test(b.replace(NIKUD, "")));
+    const opening = !hadran && big && txt.includes(big) ? big : null;
     return {
       // Steinsaltz numbers its paragraphs with a big Hebrew letter ("<big>ב גמרא</big>"); drop it
       i, txt, en: enHtml, st: (st0 && st0.text[i] || "")
         .replace(/(<big>(?:<[^>]+>)*)[א-ת]{1,3}(?:\s+|(?=<))/g, "$1").replace(/<big>(<[^>]+>)*(<\/[^>]+>)*<\/big>\s*/g, ""),
       rashi: list(ra0 && ra0.text[i]), tosafot: list(to0 && to0.text[i]),
-      kind: classify(core0, mode), speaker: mode === "gemara" ? speaker(core0) : null,
+      hadran, opening,
+      kind: hadran ? "plain" : classify(core0, mode), speaker: mode === "gemara" ? speaker(core0) : null,
       vocab: findVocab(words.map(core)).map(h => h[2]),
     };
   });
@@ -509,7 +521,7 @@ function dafView(amud, ref) {
 
   function nodes() {
     const main = el("span", {}, amud.segs.map(seg => [
-      markMusagim(el("span", { class: "dseg k-" + seg.kind, "data-i": seg.i, onclick: e => { if (!e.target.closest(".w")) lineSheet(seg); } },
+      markMusagim(el("span", { class: "dseg k-" + seg.kind + perekClass(seg), "data-i": seg.i, onclick: e => { if (!e.target.closest(".w")) lineSheet(seg); } },
         S.structure ? el("span", { class: "dot", title: KINDS[seg.kind][S.lang] }) : null,
         coloredLine(seg)), seg.i), " "]));
     const comments = key => el("span", {}, amud.segs.flatMap(seg => seg[key].map((c, k) => {
@@ -835,7 +847,7 @@ function flowMap(amud) {
 
 function segView(seg) {
   const k = KINDS[seg.kind];
-  const art = el("article", { class: "seg k-" + seg.kind, id: "s" + seg.i },
+  const art = el("article", { class: "seg k-" + seg.kind + perekClass(seg), id: "s" + seg.i },
     S.structure ? el("div", { class: "seg-kind" }, el("span", { class: "dot" }), k[S.lang]) : null,
     markMusagim(el("p", { class: "gemara", lang: "he", dir: "rtl" }, coloredLine(seg)), seg.i));
 
