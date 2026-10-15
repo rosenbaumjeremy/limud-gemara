@@ -26,7 +26,8 @@ A study companion for the daily daf. It is a static site
   First one: Bekhorot 27 (2026-10-15).
 - **Printed page.** A button opens Sefaria's scan of the Romm Vilna page (National Library of Israel),
   from `manuscripts.sefaria.org`. The scans aren't saved offline (about 800 KB each).
-- **Tools.** Each tool below can be switched on or off on its own (⚙).
+- **Tools.** Each tool below can be switched on or off on its own (⚙). The explanation, Rashi and
+  Tosafot are chosen in a row under "line by line" instead, since only that view shows them.
 - **Sugya structure.** Each line is colored by what it does (משנה, ציטוט משנה/ברייתא, מימרא, שאלה/קושיא,
   תירוץ/ראיה), guessed from its key words (`classify` in `app.js`), with a side map of the
   sugya's flow. This is a heuristic, and the page says so.

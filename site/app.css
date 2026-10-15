@@ -286,6 +286,10 @@ details > summary { cursor: pointer; font-weight: 600; }
 .sheet-inner.line { text-align: start; max-height: 80vh; overflow: auto; }
 .sheet-inner.line .gemara { margin: 6px 0 10px; }
 .reader-views { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 14px; }
+/* under "line by line": the explanation, Rashi and Tosafot */
+.line-opts { display: flex; gap: 8px 10px; align-items: center; flex-wrap: wrap; margin: -4px 0 14px; }
+.line-opts .seg-switch { margin: 0; }
+.line-opts-label { font-size: 14px; color: var(--muted); }
 
 /* the Gemara's own words colored by what each line is doing (setting: colorText).
    Mixed toward the ink color so every color stays readable as body text, in both themes. */

@@ -85,8 +85,8 @@ const T = {
     q_mishnah: "משנה מצוטטת", q_mishnahD: "סוגריים זהובים: הגמרא מביאה משנה (תנן, והתנן)",
     q_baraita: "ברייתא מצוטטת", q_baraitaD: "סוגריים סגולים: הגמרא מביאה ברייתא (תנו רבנן, תניא, מיתיבי)",
     settings: "הגדרות", tools: "כלים",
-    sExplain: "הסבר מתחת לכל שורה", sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
-    sRashi: "רש״י", sTosafot: "תוספות", sVocab: "מילים בארמית (רשימה בצד)", words: "מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
+    sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
+    sVocab: "מילים בארמית (רשימה בצד)", words: "מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
@@ -114,8 +114,8 @@ const T = {
     q_mishnah: "Quoted mishnah", q_mishnahD: "gold brackets: the Gemara quotes a mishnah (tenan, vehatenan)",
     q_baraita: "Quoted baraita", q_baraitaD: "purple brackets: the Gemara quotes a baraita (tanu rabanan, tanya, meitivei)",
     settings: "Settings", tools: "Tools",
-    sExplain: "Explanation under each line", sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
-    sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Aramaic words (list at the side)", words: "Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
+    sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
+    sVocab: "Aramaic words (list at the side)", words: "Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
@@ -484,10 +484,29 @@ async function amudView(ref) {
     page.draw();
     return;
   }
-  const segs = el("div", { class: "segs" + (S.structure ? " structured" : "") }, amud.segs.map(seg => segView(seg)));
-  linkCommentary(amud, segs);
-  const body = el("div", { class: "reader-body" + (S.structure ? "" : " no-flow") }, S.structure ? flowMap(amud) : null, segs);
-  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [S.structure ? null : colorKey(), body], amud.segs), navButtons(ref)));
+  const lineBody = () => {
+    const segs = el("div", { class: "segs" + (S.structure ? " structured" : "") }, amud.segs.map(seg => segView(seg)));
+    linkCommentary(amud, segs);
+    return el("div", { class: "reader-body" + (S.structure ? "" : " no-flow") }, S.structure ? flowMap(amud) : null, segs);
+  };
+  let body = lineBody();
+  // the explanation, Rashi and Tosafot belong to the line-by-line view, so they are chosen here
+  // (not in ⚙); a change redraws the lines in place
+  const redo = () => { const b = lineBody(); body.replaceWith(b); body = b; };
+  const set = (key, val, btns) => { S[key] = val; saveSettings(); btns(); redo(); };
+  const explainBtns = [["open", t("sExplainOpen")], ["tap", t("sExplainTap")], ["off", t("sExplainOff")]].map(([v, label]) =>
+    el("button", { type: "button", "data-v": v, onclick: () => set("explain", v, mark) }, label));
+  const layerBtns = ["rashi", "tosafot"].map(k =>
+    el("button", { type: "button", "data-k": k, onclick: () => set(k, !S[k], mark) }, t(k)));
+  const mark = () => {
+    explainBtns.forEach(b => b.classList.toggle("on", S.explain === b.dataset.v));
+    layerBtns.forEach(b => { b.classList.toggle("on", !!S[b.dataset.k]); b.setAttribute("aria-pressed", String(!!S[b.dataset.k])); });
+  };
+  mark();
+  const opts = el("div", { class: "line-opts" },
+    el("span", { class: "line-opts-label" }, t("explain")), el("div", { class: "seg-switch" }, explainBtns),
+    el("div", { class: "seg-switch" }, layerBtns));
+  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, opts, readerMain(ref, [S.structure ? null : colorKey(), body], amud.segs), navButtons(ref)));
 }
 
 // צורת הדף: the amud laid out like the Vilna page (daf-layout.js). Every line of the
@@ -924,9 +943,8 @@ function settingsView() {
     el("div", { class: "drawer-head" }, el("h2", {}, t("settings")),
       el("button", { type: "button", class: "iconbtn", "aria-label": t("close"), onclick: () => { d.hidden = true; } }, "✕")),
     el("h3", {}, t("tools")),
-    el("p", {}, t("sExplain")), radio("explain", [["open", t("sExplainOpen")], ["tap", t("sExplainTap")], ["off", t("sExplainOff")]]),
     el("p", {}, t("sVocab")), radio("vocab", [["all", t("sVocabAll")], ["key", t("sVocabKey")], ["off", t("sVocabOff")]]),
-    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("meforshim", t("sMeforshim")), toggle("nikud", t("sNikud")), toggle("rashi", t("sRashi")), toggle("tosafot", t("sTosafot"))));
+    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("meforshim", t("sMeforshim")), toggle("nikud", t("sNikud"))));
 }
 
 // ---------- shell ----------
