@@ -783,7 +783,7 @@ function lineSheet(seg) {
   const html = S.lang === "he" ? (seg.st || seg.en) : (seg.en || seg.st), isHe = html === seg.st;
   $("#sheet").replaceChildren(el("div", { class: "sheet-inner line" },
     el("button", { type: "button", class: "iconbtn close", "aria-label": t("close"), onclick: closeSheet }, "✕"),
-    el("p", { class: "seg-kind k-" + seg.kind }, el("span", { class: "dot" }), KINDS[seg.kind][S.lang]),
+    el("p", { class: "seg-kind" }, kindTags(seg)),
     el("p", { class: "gemara", lang: "he", dir: "rtl" }, S.nikud ? seg.txt : seg.txt.replace(NIKUD, "")),
     html ? el("div", { class: "layer-body", lang: isHe ? "he" : "en", dir: isHe ? "rtl" : "ltr" }, clean(html)) : null));
   $("#sheet").hidden = false;
@@ -870,10 +870,17 @@ function flowMap(amud) {
     el("p", { class: "note" }, t("flowNote")));
 }
 
+// A label for every kind of part in the line, in order: a line that asks and answers gets
+// both שאלה / קושיא and תירוץ / ראיה (the same pieces coloredLine colors).
+function kindTags(seg) {
+  const kinds = [...new Set(parts(seg.txt, seg.kind, seg.prev).map(p => p[1]))];
+  const shown = kinds.length > 1 ? kinds.filter(k => k !== "plain") : kinds;
+  return shown.map(k => el("span", { class: "kind-tag k-" + k }, el("span", { class: "dot" }), KINDS[k][S.lang]));
+}
+
 function segView(seg) {
-  const k = KINDS[seg.kind];
   const art = el("article", { class: "seg k-" + seg.kind + perekClass(seg), id: "s" + seg.i },
-    S.structure ? el("div", { class: "seg-kind" }, el("span", { class: "dot" }), k[S.lang]) : null,
+    S.structure ? el("div", { class: "seg-kind" }, kindTags(seg)) : null,
     markMusagim(el("p", { class: "gemara", lang: "he", dir: "rtl" }, coloredLine(seg)), seg.i));
 
   if (S.explain !== "off") {
