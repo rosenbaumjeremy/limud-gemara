@@ -130,6 +130,24 @@ main { max-width: 1100px; margin: 0 auto; padding: 22px 16px 40px; }
 
 .reader-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
 .reader-head h2 { font-family: var(--serif); font-size: 28px; margin: 0; }
+
+/* full screen: the button at the top left of the daf (the end of the line in Hebrew) */
+.fs-btn { display: inline-flex; align-items: center; gap: 6px; margin-inline-start: auto; border: 1px solid var(--line); background: var(--card);
+  color: var(--ink); border-radius: var(--radius); padding: 7px 12px; font: inherit; font-size: 14px; cursor: pointer; }
+.fs-btn:hover { border-color: var(--accent); color: var(--accent); }
+.fs-icon { font-size: 18px; line-height: 1; }
+html[dir="ltr"] .fs-btn { order: -1; margin-inline-start: 0; margin-inline-end: auto; }
+/* in full screen only the text stays; the button pins itself to the top left corner */
+.focus .topbar, .focus .reader-head h2, .focus .reader-views, .focus .line-opts, .focus .side, .focus .flow, .focus .color-key { display: none !important; }
+.focus main, .focus main:has(.reader-main.has-sum) { max-width: none; padding-top: 12px; }
+.focus .reader-main.has-sum { display: block; }
+.focus .reader-body { grid-template-columns: 1fr; }
+.focus .reader-head { margin: 0; }
+.focus .fs-btn { position: fixed; top: max(10px, env(safe-area-inset-top)); left: max(10px, env(safe-area-inset-left)); z-index: 20;
+  box-shadow: 0 2px 10px rgb(0 0 0 / .15); opacity: .85; }
+.focus .fs-btn:hover { opacity: 1; }
+.focus .fs-label { display: none; }
+.focus body { background: var(--card); }
 .reader-body { display: grid; grid-template-columns: 250px 1fr; gap: 20px; align-items: start; }
 .reader-body.no-flow { grid-template-columns: 1fr; }
 @media (max-width: 800px) { .reader-body { grid-template-columns: 1fr; } }

@@ -95,6 +95,7 @@ const T = {
     mfOpen: "בספריא",
     musagim: "מושגים",
     sumNote: "סיכום שנכתב מתוך מה שיש בספריא. אם מצאת טעות — לבדוק במקור.",
+    fullOn: "מסך מלא", fullOff: "יציאה ממסך מלא",
     viewLines: "שורה אחר שורה", viewPage: "צורת הדף", printed: "הדף המודפס",
     pageNote: "הגמרא באמצע, רש״י לצד הכריכה ותוספות בצד החיצון, כמו בדפוס וילנא. הסידור מחושב מהטקסט, ולכן השורות אינן זהות לדף המודפס. לחיצה על שורה פותחת את ההסבר שלה.",
     scanFail: "לא הצלחנו לטעון את סריקת הדף.",
@@ -125,6 +126,7 @@ const T = {
     mfOpen: "On Sefaria",
     musagim: "Key terms",
     sumNote: "A summary written from what Sefaria has. If something looks wrong, check the source.",
+    fullOn: "Full screen", fullOff: "Exit full screen",
     viewLines: "Line by line", viewPage: "Page view", printed: "Printed page",
     pageNote: "Gemara in the middle, Rashi toward the binding and Tosafot on the outer side, as in the Vilna Shas. The layout is computed from the text, so its lines don't match the printed page. Tap a line for its explanation.",
     scanFail: "Couldn't load the page scan.",
@@ -474,7 +476,7 @@ async function amudView(ref) {
   const sum = S.meforshim ? await getJSON(summaryUrl(ref)).catch(() => null) : null;
   MUSAGIM = ((sum && sum.musagim) || []).filter(m => m.amud === parseRef(ref).amud);
 
-  const head = el("div", { class: "reader-head" }, el("h2", {}, refName(ref)));
+  const head = el("div", { class: "reader-head" }, el("h2", {}, refName(ref)), fullButton());
   const views = el("div", { class: "reader-views" },
     el("div", { class: "seg-switch view-switch" }, [["lines", t("viewLines")], ["page", t("viewPage")]].map(([v, label]) =>
       el("button", { type: "button", class: S.view === v ? "on" : "", onclick: () => { S.view = v; saveSettings(); amudView(ref); } }, label))),
@@ -807,6 +809,43 @@ async function scanSheet(ref) {
   box.replaceChildren(box.firstChild, el("p", { class: "seg-kind" }, refName(ref)), img, el("p", { class: "credit" }, t("scanCredit")));
 }
 
+// ---------- full screen: only the daf, in one tap ----------
+
+// The button sits at the top left of the daf. It hides everything but the text (the top bar,
+// the view choices, the side column, the structure map) and, where the browser allows it
+// (iPad, computers; not iPhone), also hides the browser's own bars with the Fullscreen API.
+// The same button, then pinned to the top left corner, brings everything back.
+const isFull = () => document.documentElement.classList.contains("focus");
+const fsElement = () => document.fullscreenElement || document.webkitFullscreenElement;
+function setFull(on) {
+  document.documentElement.classList.toggle("focus", on);
+  const root = document.documentElement;
+  try {
+    if (on && !fsElement()) {
+      const go = root.requestFullscreen || root.webkitRequestFullscreen;
+      if (go) { const p = go.call(root); if (p && p.catch) p.catch(() => {}); }
+    } else if (!on && fsElement()) {
+      const leave = document.exitFullscreen || document.webkitExitFullscreen;
+      if (leave) { const p = leave.call(document); if (p && p.catch) p.catch(() => {}); }
+    }
+  } catch (err) { /* the text-only view still works without the Fullscreen API */ }
+  document.querySelectorAll(".fs-btn").forEach(paintFull);
+  window.dispatchEvent(new Event("resize"));   // the page view lays itself out again
+}
+function paintFull(b) {
+  const label = t(isFull() ? "fullOff" : "fullOn");
+  b.title = label; b.setAttribute("aria-label", label); b.setAttribute("aria-pressed", String(isFull()));
+  b.replaceChildren(el("span", { class: "fs-icon", "aria-hidden": "true" }, isFull() ? "✕" : "⛶"), el("span", { class: "fs-label" }, label));
+}
+function fullButton() {
+  const b = el("button", { type: "button", class: "fs-btn", onclick: () => setFull(!isFull()) });
+  paintFull(b);
+  return b;
+}
+// leaving the browser's full screen (Esc, or the iPad's own control) leaves the text-only view too
+for (const ev of ["fullscreenchange", "webkitfullscreenchange"])
+  document.addEventListener(ev, () => { if (!fsElement() && isFull()) setFull(false); });
+
 function navButtons(ref) {
   const prev = neighbour(ref, -1), next = neighbour(ref, 1);
   return el("nav", { class: "amud-nav" },
@@ -970,6 +1009,7 @@ function route() {
   closeSheet();
   chrome();
   const [name, arg] = location.hash.slice(1).split("/");
+  if (name !== "daf" && isFull()) setFull(false);
   if (name === "daf" && arg) return amudView(fromRoute(decodeURIComponent(arg)));
   if (name === "shas") return shasView(arg && decodeURIComponent(arg).replace(/_/g, " "));
   if (name === "sum" && arg) return sumView(decodeURIComponent(arg).replace(/_/g, " "));
