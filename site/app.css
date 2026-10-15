@@ -203,8 +203,6 @@ details > summary { cursor: pointer; font-weight: 600; }
 .mas { display: flex; flex-direction: column; gap: 3px; padding: 9px 11px; border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; color: var(--ink); }
 .mas:hover { border-color: var(--accent); }
 .mas b { font-family: var(--serif); font-size: 18px; }
-.bar { display: block; height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
-.bar i { display: block; height: 100%; background: var(--good); }
 .daf-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(62px, 1fr)); gap: 6px; }
 .daf { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 4px; }
 .dn { grid-column: 1 / -1; text-align: center; font-family: var(--serif); font-weight: 700; }

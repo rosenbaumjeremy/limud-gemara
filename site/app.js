@@ -95,7 +95,7 @@ const T = {
     sRashi: "רש״י", sTosafot: "תוספות", sVocab: "סימון מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור", reset: "למחוק את ההתקדמות במכשיר",
     resetConfirm: "למחוק את כל ההתקדמות והחזרות במכשיר הזה?",
-    seder: "סדר", ofTotal: (a, b) => `${a}/${b}`,
+    seder: "סדר",
     lastRead: "נקרא לאחרונה",
     sMeforshim: "סיכום הראשונים והאחרונים",
     rishonim: "ראשונים", acharonim: "אחרונים", mfOpen: "בספריא",
@@ -131,7 +131,7 @@ const T = {
     sRashi: "Rashi", sTosafot: "Tosafot", sVocab: "Mark Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close", reset: "Erase progress on this device",
     resetConfirm: "Erase all progress and reviews on this device?",
-    seder: "Seder", ofTotal: (a, b) => `${a}/${b}`,
+    seder: "Seder",
     lastRead: "Last read",
     sMeforshim: "Summary of the Rishonim and Acharonim",
     rishonim: "Rishonim", acharonim: "Acharonim", mfOpen: "On Sefaria",
@@ -917,18 +917,9 @@ function shasView(en) {
     [...bySeder.values()].map(list => el("div", { class: "card seder" },
       el("h3", {}, S.lang === "he" ? list[0].heSeder : list[0].seder),
       el("div", { class: "mas-list" }, list.map(m => {
-        const total = parseRef(`x ${m.last}`).idx - parseRef(`x ${m.first}`).idx + 1;
-        const n = Object.keys(P.learned).filter(r => r.startsWith(m.en + " ")).length;
         return el("a", { class: "mas", href: "#shas/" + m.en.replace(/ /g, "_") },
-          el("b", {}, S.lang === "he" ? m.he : m.en),
-          el("span", { class: "muted small" }, t("ofTotal", n, total)),
-          bar(n / total));
+          el("b", {}, S.lang === "he" ? m.he : m.en));
       }))))));
-}
-
-function bar(frac) {
-  const fill = el("i"); fill.style.width = `${Math.round(frac * 100)}%`;
-  return el("span", { class: "bar" }, fill);
 }
 
 // ---------- settings ----------
