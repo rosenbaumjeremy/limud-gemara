@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>לומדים גמרא — דף יומי ללומד</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#">
+    <img class="mark" src="icon.svg" alt="">
+    <div>
+      <h1 id="title">לומדים גמרא</h1>
+      <p class="sub" id="subtitle"></p>
+    </div>
+  </a>
+  <div class="topbar-actions">
+    <nav class="tabs" id="tabs" aria-label="ניווט"></nav>
+    <div class="langswitch" role="group" aria-label="Language">
+      <button type="button" data-lang="he" class="on">עברית</button>
+      <button type="button" data-lang="en">English</button>
+    </div>
+    <button type="button" class="iconbtn" id="settings-btn" aria-label="הגדרות">⚙</button>
+    <nav class="sitelinks" aria-label="אתרי הלימוד">
+      <a class="homelink" href="https://home-site.dailylearning.workers.dev" rel="noopener" title="לימוד יומי — דף הבית">
+        <img src="icon-home.svg" alt="לימוד יומי — דף הבית">
+      </a>
+    </nav>
+  </div>
+</header>
+
+<main id="view"></main>
+
+<aside id="settings" class="drawer" hidden></aside>
+<div id="sheet" class="sheet" hidden></div>
+
+<script src="daf-layout.js"></script>
+<script src="app.js"></script>
+<script src="offline.js"></script>
+</body>
+</html>

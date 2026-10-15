@@ -1,0 +1,1142 @@
+{
+ "ref": "Bekhorot 27",
+ "date": "2026-10-15",
+ "he": {
+  "title": "בכורות כ״ז — הראשונים והאחרונים",
+  "overview": "הדף עוסק בשני עניינים. עמוד א: טובת ההנאה שיש לבעלים במתנות כהונה, ושורת הקולות של תרומת חוץ לארץ (אין בה משום כהן המסייע, בטלה ברוב, אוכל והולך ואחר כך מפריש, אסורה רק למי שטומאה יוצאה מגופו), שמהן נגזרו דיני החלה שאנו מפרישים היום. עמוד ב: הבכור נאכל ״שנה בשנה״ — שנה של הבכור עצמו, לשני ימים ולילה אחד. הנושאים המרכזיים בראשונים ובאחרונים: פסק הרמב״ם המתיר טובת הנאה גם בבכור ובמתנות, נגד פשט הגמרא; האם ביטול ברוב מתיר גם לזר ומותר לכתחילה; וכמה חלות מפרישים וכיצד בחוץ לארץ."
+ },
+ "en": {
+  "title": "Bekhorot 27: the Rishonim and Acharonim",
+  "overview": "The daf has two subjects. Amud a: the owner's 'benefit of discretion' (tovat hana'ah) over priestly gifts, and the run of leniencies for teruma outside the Land of Israel (no problem of a kohen helping at the threshing floor, nullified in a majority, eat now and separate later, forbidden only to one whose impurity comes from his body), from which the laws of the challah we separate today derive. Amud b: a firstborn animal is eaten 'year by year' (its own year) for two days and one night. The main threads in the Rishonim and Acharonim: the Rambam's ruling permitting tovat hana'ah even for a bechor and other gifts, against the plain Gemara; whether nullification in a majority permits it even to a non-kohen, and even deliberately; and how many challot are separated outside the Land, and how."
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "טובת הנאה לבעלים"
+   ],
+   "he": {
+    "term": "טובת הנאה",
+    "explanation": "הזכות של הבעלים לבחור לאיזה כהן (או לוי, או עני) לתת את המתנה. אין להם בה ממון ממש — המתנה שייכת לכהונה — אבל הבחירה עצמה שווה משהו, ולכן מישהו שרוצה שהמתנה תגיע לנכדו הכהן מוכן לשלם עליה ״דבר מועט״. נחלקו התנאים והאמוראים אם טובת הנאה נחשבת ממון."
+   },
+   "en": {
+    "term": "Tovat hana'ah (benefit of discretion)",
+    "explanation": "The owner's right to choose which kohen (or Levite, or poor person) receives the gift. He owns nothing in it, since the gift belongs to the priesthood, but the choice itself is worth something, so someone who wants it to reach his grandson the kohen will pay 'a small amount' for it. Tannaim and Amoraim dispute whether this counts as money."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27a:1",
+    "quote": "שיכול ליתנה לכהן שירצה ולקבל בה דבר מועט"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "דקדושת הגוף היא"
+   ],
+   "he": {
+    "term": "קדושת הגוף וקדושת דמים",
+    "explanation": "דבר שבקדושת הגוף — הקדושה חלה על החפץ עצמו ואינה יוצאת ממנו בפדיון (כמו תרומה). קדושת דמים — הקדושה חלה על שוויו, ולכן אפשר לפדותו ולהעביר את הקדושה לכסף. לכן בתרומה לא ״יטעו״ לחשוב שנפדתה, ובמתנות כהונה כן."
+   },
+   "en": {
+    "term": "Intrinsic vs. monetary sanctity",
+    "explanation": "Intrinsic sanctity (kedushat haguf) rests on the object itself and cannot be removed by redemption, like teruma. Monetary sanctity (kedushat damim) rests on its value, so it can be redeemed and the sanctity moved to money. So with teruma no one will 'err' and think it was redeemed, but with the priestly gifts they might."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27a:4",
+    "quote": "דכיון דלא מיתחלא שלעולם אין פדיון לתרומה להוציאה לחולין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "כהן המסייע בבית הגרנות"
+   ],
+   "he": {
+    "term": "כהן המסייע בבית הגרנות",
+    "explanation": "כהן או לוי שעוזר לבעל השדה בגורן כדי שיתן לו את התרומה והמעשרות. זה אסור: המתנות נעשות כמו שכר עבודה, והכהן ״מחלל״ אותן; ועל כך נאמר ״שחתם ברית הלוי״. רבא אומר שבתרומת חוץ לארץ, שהיא מדרבנן, אין איסור זה."
+   },
+   "en": {
+    "term": "A kohen who helps at the threshing floor",
+    "explanation": "A kohen or Levite who helps a farmer at his threshing floor so that he will give him the teruma and tithes. This is forbidden: the gifts become a kind of wages and are 'profaned'; of this it says 'you have corrupted the covenant of Levi'. Rava says teruma from outside the Land, which is rabbinic, carries no such prohibition."
+   },
+   "source": {
+    "who": {
+     "he": "ערוך השולחן העתיד",
+     "en": "Arukh HaShulchan HeAtid"
+    },
+    "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 85:9",
+    "quote": "אסור לכהנים ולוים לסייע בבית הגרנות כדי ליטול מתנותיהן וכל המסייע חילל קודש השם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "רבה מבטלה ברוב"
+   ],
+   "he": {
+    "term": "ביטול ברוב — ו״אין מבטלין איסור לכתחילה״",
+    "explanation": "איסור שהתערב בהיתר בטל כשההיתר רוב (ובתרומה של ארץ ישראל — רק באחד ומאה). בדרך כלל אסור לערב איסור בכוונה כדי לבטלו. תרומת חוץ לארץ קלה משני הצדדים: בטלה ברוב פשוט, ורבה ורב הונא אף ביטלו אותה בעצמם."
+   },
+   "en": {
+    "term": "Nullification in a majority, and 'one may not nullify deliberately'",
+    "explanation": "A forbidden item mixed into a permitted majority is nullified (for teruma of the Land, only at one in a hundred). Normally one may not mix it in on purpose to nullify it. Teruma from outside the Land is lenient on both counts: a simple majority suffices, and Rabbah and Rav Huna even nullified it themselves."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27a:6",
+    "quote": "אחד בשנים ולא צריך אחד במאה כמו תרומת הארץ"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "שהטומאה יוצאה עליו מגופו"
+   ],
+   "he": {
+    "term": "טומאה היוצאת מגופו",
+    "explanation": "טומאה שמקורה בגוף האדם עצמו — זב, זבה, נדה, יולדת ובעל קרי — לעומת טומאת מגע (במת, בשרץ או בנבלה). בתרומת חוץ לארץ החמירו רק על אלה, ורק באכילה; לכן מי שטמא מת יכול לאכלה."
+   },
+   "en": {
+    "term": "Impurity that comes from one's own body",
+    "explanation": "Impurity whose source is the person's own body (zav, zavah, niddah, a woman after childbirth, one who had an emission), as opposed to impurity from contact (with a corpse, a creeping creature or a carcass). For teruma outside the Land only these are forbidden, and only to eat it; so one impure from a corpse may eat it."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27a:10",
+    "quote": "כגון זב ובעל קרי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "שקלה לה בריש מסא"
+   ],
+   "he": {
+    "term": "חלת האור וחלת כהן",
+    "explanation": "כשאין כהן שיכול לאכול את החלה, מפרישים מעט ושורפים אותו (״חלת האור״), ומפרישים חלה נוספת לכהן כדי שלא תשתכח תורת חלה. של האור אין לה שיעור, ושל כהן יש לה שיעור. המנהג היום: חלה אחת, כזית, ונשרפת."
+   },
+   "en": {
+    "term": "Challah for the fire and challah for the kohen",
+    "explanation": "When no kohen can eat the challah, a little is separated and burned ('challah of the fire'), and another challah is separated for a kohen so the law of challah is not forgotten. The one for the fire has no set amount; the kohen's does. Today's custom: one challah, a kezayit, burned."
+   },
+   "source": {
+    "who": {
+     "he": "ר״ש משאנץ",
+     "en": "Rash of Sens"
+    },
+    "ref": "Rash MiShantz on Mishnah Challah 4:8:3",
+    "quote": "של אור אין לה שיעור מפני שנשרפת ושל כהן יש לה שיעור מפני שנאכלת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "וכי הזאה יש לנו"
+   ],
+   "he": {
+    "term": "הזאה",
+    "explanation": "טמא מת נטהר רק בהזאת מי חטאת — מים עם אפר פרה אדומה — ביום השלישי והשביעי, ואחר כך טבילה. מאחר שאין אפר פרה, אין לנו דרך להיטהר מטומאת מת, ולכן טבילה לבדה לא תועיל."
+   },
+   "en": {
+    "term": "Sprinkling (haza'ah)",
+    "explanation": "One impure from a corpse becomes pure only by sprinkling with purifying water (water with the ashes of the red heifer) on the third and seventh days, then immersion. Without the ashes there is no way to become pure from corpse impurity, so immersion alone would not help."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27b:1",
+    "quote": "בזמן הזה שיהא צריך להמתין שלישי ושביעי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 4,
+   "anchors": [
+    "שנה שנכנסת בחברתה"
+   ],
+   "he": {
+    "term": "שנה של בכור",
+    "explanation": "השנה שבתוכה יש לאכול את הבכור נמנית מיום לידתו (או מיום שמיני), ולא לפי מניין עולם שמתחיל בתשרי. לכן היא ״נכנסת בחברתה״ — מתחילה בשנה אחת ונגמרת בשנה הבאה."
+   },
+   "en": {
+    "term": "The bechor's own year",
+    "explanation": "The year within which the bechor must be eaten is counted from its birth (or eighth day), not by the calendar year that begins in Tishrei. So it 'runs into the next': it starts in one year and ends in the following one."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 27b:8",
+    "quote": "אין אומרין לכשיבא תשרי שהוא ראש השנה כבר עיברה שנתו אלא נותנין לו י\"ב חדש מיום שנולד"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "טובת הנאה: ״הא לך סלע ותנהו לבן בתי כהן״",
+    "gemara": "הבעלים רשאים לבחור לאיזה כהן לתת, ולכן ישראל מותר לקבל סלע מישראל אחר כדי לתת את התרומה לנכדו הכהן; כהן לכהן — אסור. בתרומה הותר, אבל לא במתנות כהונה: תרומה היא קדושת הגוף ואינה נפדית, ולא יבואו לטעות; מתנות הן קדושת דמים, ויחשבו שנתחללו על ארבעה זוזים וינהגו בהן מנהג חולין.",
+    "halakha": "הרמ״א (יו״ד ס״א:כח): טובת הנאה לבעלים ויכול לתת לכל כהן שירצה, אבל אסור לבעלים לקחת דינר מכהן, ואסור לקחת מישראל כדי לתת את המתנות לבן בתו הכהן."
+   },
+   "en": {
+    "title": "Tovat hana'ah: 'here is a sela, give it to my grandson the kohen'",
+    "gemara": "The owner may choose which kohen receives, so one Israelite may accept a sela from another to give his teruma to the other's grandson, a kohen; between kohanim it is forbidden. This is allowed for teruma but not for the priestly gifts: teruma has intrinsic sanctity and cannot be redeemed, so no one will err; the gifts have monetary sanctity, and people would think they were redeemed for four zuz and treat them as ordinary food.",
+    "halakha": "Rema (YD 61:28): the owner may give to any kohen he likes, but may not take a dinar from a kohen, nor take money from an Israelite to give the gifts to that man's grandson the kohen."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27a:2",
+     "he": "כהן לכהן אסור — נראה כאילו הכהן מוכר לו את התרומה בסלע, והרי זה ככהן המסייע בבית הגרנות.",
+     "en": "Kohen to kohen is forbidden because it looks as if the kohen is selling it the teruma for the sela, like a kohen who helps at the threshing floor."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27a:3",
+     "he": "קושיית ״ותנא מאי טעמא לא קאמר מתנות כהונה״ מוסבת על רישא של הברייתא (הנותן תרומה בשכר), לא על טובת ההנאה — ולכן אין בגמרא חילוק בין תרומה למתנות לעניין טובת הנאה (כך הבינו אותו המהרי״ט אלגאזי והאחרונים בעקבותיו).",
+     "en": "The question 'why didn't the Tanna say priestly gifts' refers to the baraita's first clause (giving teruma as wages), not to tovat hana'ah, so the Gemara draws no distinction between teruma and the gifts for tovat hana'ah (so the Maharit Algazi and later Acharonim read him)."
+    },
+    {
+     "who": {
+      "he": "רש״י (פסחים)",
+      "en": "Rashi (Pesachim)"
+     },
+     "ref": "Rashi on Pesachim 46b:2:1",
+     "he": "טובת הנאה היא הדבר המועט שמקבל מאוהבו של כהן כדי שיתן לו; ובזה נחלקו ר׳ אליעזר ור׳ יהושע אם טובת הנאה ממון.",
+     "en": "Tovat hana'ah is the small sum he receives from a friend of the kohen in return for giving it to him; R. Eliezer and R. Yehoshua dispute whether tovat hana'ah counts as money."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:1:2",
+     "he": "פוסק כגמרא: מותר בתרומות ומעשרות אבל לא בזרוע לחיים וקיבה, שמא ינהגו בהם מנהג חולין ולא יאכלום בגדולה ״כדרך שהמלכים אוכלין״.",
+     "en": "Rules as the Gemara: permitted for terumot and tithes but not for the foreleg, cheeks and maw, lest they be treated as ordinary food and not eaten 'in greatness, as kings eat'."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 50:1",
+     "he": "כל מתנות כהונה צריך לאכלן בגדולה, אפילו זרוע ולחיים — אבל לא תרומה, שאינה בשר.",
+     "en": "All priestly gifts must be eaten 'in greatness', even the foreleg and cheeks, but not teruma, which is not meat."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 12:20",
+     "he": "רשאי ישראל לומר לישראל אחר ״הא לך סלע זו ותן תרומה או בכור או שאר מתנות לפלוני הכהן בן בתי״ — כלומר גם בבכור ובמתנות, ובלבד שהבעלים רצו ממילא לתת לאחד משני הכהנים בחנם.",
+     "en": "An Israelite may say to another, 'here is a sela, give the teruma, or the bechor, or the other gifts to so-and-so the kohen, my grandson', even for the bechor and the gifts, provided the owner meant to give to one of the two kohanim for free anyway."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 331",
+     "he": "מקשה על הרמב״ם: בפרק עד כמה משמע שרק בתרומה ומעשר מותר, אבל בבכור ובזרוע לחיים וקיבה אסור; וגם רק ישראל לישראל ולא כהן לכהן.",
+     "en": "Challenges the Rambam: in our chapter it is permitted only for teruma and tithes, not for the bechor or the foreleg, cheeks and maw; and only Israelite to Israelite, not kohen to kohen."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 331:88:1",
+     "he": "מקור התנאי של הרמב״ם (״כשהיו הבעלים רוצים לתת לאחד משני כהנים בחנם״) בירושלמי דמאי פ״ו, שהעמיד כך את הברייתא כדי שלא תסתור את ר׳ יוחנן.",
+     "en": "The Rambam's condition ('when the owner wanted to give it free to one of two kohanim') comes from Yerushalmi Demai 6, which read the baraita this way so it would not contradict R. Yochanan."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 331:58:1",
+     "he": "קשה על הרמב״ם שהשווה בכור ושאר מתנות לתרומה, והרי הגמרא מחלקת: מתנות שהן קדושת דמים יבואו לנהוג בהן מנהג חולין ולא יאכלום בצלי ובחרדל.",
+     "en": "The Rambam is difficult: he equated the bechor and other gifts with teruma, yet the Gemara distinguishes them. Gifts of monetary sanctity would come to be treated as ordinary food and not eaten roasted with mustard."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 27a:1",
+     "he": "תמה שהכסף משנה ציין את הגמרא כאן כמקור לרמב״ם, ״ונהפוך הוא״. ומיישב: הרמב״ם סמך על המשנה בערכין (כח:) ״אומדין כמה אדם רוצה ליתן בבכור זה ליתנו לבן בתו״, שחולקת על הברייתא, ופסק כמשנה. עוד מעיר שקשה מקידושין, שלא אמרו ״ולטעמיך במתנות״.",
+     "en": "Wonders that the Kesef Mishneh cited this Gemara as the Rambam's source, when 'it is the opposite'. He resolves it: the Rambam relied on the Mishnah in Arakhin 28b ('we assess how much a person would pay to give this bechor to his grandson'), which disagrees with the baraita, and ruled like the Mishnah. He also raises a difficulty from Kiddushin."
+    },
+    {
+     "who": {
+      "he": "ציוני מהר״ן",
+      "en": "Tziunei Maharan"
+     },
+     "ref": "Tziunei Maharan on Mishneh Torah, Heave Offerings 12:20:1",
+     "he": "מביא סמך לרמב״ם מהתוספתא בדמאי (רשב״א אומר: ״אני אף במתנות כן״), מהירושלמי ומהמשנה בערכין; ומהמהרי״ט אלגאזי בשם רבינו גרשום שהחילוק בגמרא אינו נוגע לטובת הנאה כלל.",
+     "en": "Brings support for the Rambam from the Tosefta in Demai (R. Shimon b. Elazar: 'I say the same even for the gifts'), from the Yerushalmi and the Mishnah in Arakhin; and from the Maharit Algazi, citing Rabbeinu Gershom, that the Gemara's distinction has nothing to do with tovat hana'ah."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura II 4:121:1",
+     "he": "למד את הסוגיא ביום א׳ פקודי תרט״ז. הרמב״ם פסק כרשב״א בתוספתא; והגזירה כאן היא רק שמא לא יאכלום ״למשחה״ — וזו מצוות עשה, ואין גוזרים משום עשה אלא משום לאו (מנחות סח), ולכן השמיט הרמב״ם את החילוק.",
+     "en": "He learned the sugya on Sunday of Pekudei 5616. The Rambam ruled like R. Shimon b. Elazar in the Tosefta; the decree here is only lest they not be eaten 'for greatness', a positive commandment, and the Sages decree to protect a prohibition, not a positive command (Menachot 68), so the Rambam left the distinction out."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura IV 3:133:13",
+     "he": "מחלק בין טובת הנאה לתת לאיזה כהן שירצה (מותר גם במתנות) לבין קבלת מחיר (אסור); ותמה על הרמ״א שצירף את דברי הר״ן ורבינו ירוחם, שלדעתו אינם שיטה אחת.",
+     "en": "Distinguishes the right to give to whichever kohen one wishes (allowed even for the gifts) from taking a price for it (forbidden); and questions the Rema for combining the Ran and Rabbeinu Yerucham, which he holds are not one view."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 22:1:10",
+     "he": "מצוות אכילה בגדולה (צלי בחרדל) נוהגת בכל מתנות כהונה שהן בשר; אבל אם נותן לכהן את שוויין במעות, אין חיוב לאכול בגדולה, ולכן לפי סברתו מותר בכך לקבל דמים — ובזה מיישב את הרמב״ם.",
+     "en": "Eating 'in greatness' (roasted, with mustard) applies to all priestly gifts of meat; but if the kohen is given their value in money there is no such obligation, so by his reasoning taking payment is then allowed, and this resolves the Rambam."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Choshen Mishpat 350:13",
+     "he": "מהגמרא כאן מוכח בפשטות שטובת הנאה ממון (נגד הרמב״ם בהלכות גניבה), ולכן לדעתו הוא ספיקא דדינא.",
+     "en": "This Gemara plainly shows that tovat hana'ah is money (against the Rambam in the laws of theft), so in his view the question remains an unresolved doubt."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 85:13",
+     "he": "אין מכאן ראיה שטובת הנאה ממון: גם אם אינה ממון מותר לקבל כסף בעדה — ולכן הגמרא בקידושין ובנדרים לא הביאה ראיה מכאן.",
+     "en": "There is no proof here that tovat hana'ah is money: even if it is not, one may take money for it, which is why the Gemara in Kiddushin and Nedarim did not cite this."
+    },
+    {
+     "who": {
+      "he": "חוות יאיר",
+      "en": "Chavot Yair"
+     },
+     "ref": "Havot Yair 122:8",
+     "he": "לומד מכאן לדיני עדות: הנאה שמגיעה רק לבן בתו נקראת ״טובת הנאה״ בלבד, ודן אם טובת הנאה לקרוב פוסלת עדות.",
+     "en": "Applies this to testimony: a benefit that reaches only his grandson is called mere 'tovat hana'ah', and he discusses whether such a benefit to a relative disqualifies a witness."
+    },
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Naso 11",
+     "he": "מפרש את הפסוק ״ואיש את קדשיו לו יהיו״ (במדבר ה) כרמז לסוגייתנו: לבעלים טובת הנאה, וכהן עצמו אסור לתת טובת הנאה לבעלים.",
+     "en": "Reads the verse 'every man's holy things shall be his' (Num. 5) as alluding to our sugya: the owner has tovat hana'ah, and a kohen himself may not pay the owner for it."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    5
+   ],
+   "he": {
+    "title": "כהן המסייע — בתרומת חוץ לארץ",
+    "gemara": "רבא: תרומת חוץ לארץ אין בה משום כהן המסייע בבית הגרנות. רב חמא נתן אותה לשמשו.",
+    "halakha": "הרמב״ם (ביכורים ה:יב) ובעקבותיו הפוסקים: אין בתרומת חוץ לארץ משום כהן המסייע."
+   },
+   "en": {
+    "title": "A kohen who helps, with teruma from outside the Land",
+    "gemara": "Rava: teruma from outside the Land carries no problem of 'a kohen who helps at the threshing floor'. Rav Chama gave it to his attendant.",
+    "halakha": "Rambam (Bikkurim 5:12) and the codes after him: teruma from outside the Land has no problem of a helping kohen."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27a:5",
+     "he": "רב חמא נתן לשמשו הכהן בשכרו, ולא חשש שייראה כמסייע.",
+     "en": "Rav Chama gave it to his kohen attendant as his wages, without worrying that it would look like paying for help."
+    },
+    {
+     "who": {
+      "he": "תוספות (בבא מציעא)",
+      "en": "Tosafot (Bava Metzia)"
+     },
+     "ref": "Tosafot on Bava Metzia 89a:10:1",
+     "he": "מוכיחים מכאן שחלת חוץ לארץ אינה אלא מדרבנן.",
+     "en": "Prove from here that challah outside the Land is only rabbinic."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 323:6:1",
+     "he": "מלשון רש״י (״יכול ליתנה לכהן המסייע״) משמע שרבא התיר רק לתת לכהן המסייע, אבל הכהן עצמו אולי אסור לסייע כדי לקבל; והרמב״ם כתב בסתם שאין בה משום כהן המסייע.",
+     "en": "Rashi's wording ('one may give it to the helping kohen') implies Rava only permitted giving to such a kohen, while the kohen himself may still not help in order to receive; the Rambam wrote without qualification that there is no such problem."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Heave Offerings 12:18:1",
+     "he": "תמה למה השמיט הרמב״ם בהלכות תרומות את דין רבא (והוא אמנם מובא בסוף פרק ה מהלכות ביכורים).",
+     "en": "Wonders why the Rambam left Rava's ruling out of the laws of teruma (it does appear at the end of chapter 5 of the laws of Bikkurim)."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 323:7:1",
+     "he": "איסור כהן המסייע (״ושחתם ברית הלוי״) הוא משום שמפסידים שאר הכהנים — וזה נאמר רק בתרומה דאורייתא.",
+     "en": "The ban on a helping kohen ('you have corrupted the covenant of Levi') exists because the other kohanim lose out, which applies only to Torah-level teruma."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Forbidden Intercourse 20:3:1",
+     "he": "מתנות חוץ לארץ אינן בגדר ״עבודה״ — ולכן אין בהן משום כהן המסייע, וגם אין צריך בהן כהן מיוחס.",
+     "en": "Gifts outside the Land are not a form of 'service', so there is no problem of a helping kohen, and the kohen need not have proven lineage."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    7
+   ],
+   "he": {
+    "title": "תרומת חוץ לארץ בטלה ברוב",
+    "gemara": "שמואל: תרומת חוץ לארץ בטלה ברוב. רבה היה מבטלה ברוב ואוכלה בימי טומאתו. רב הונא בריה דרב יהושע נתן לוג תרומה בשני לוגי חולין ושתה אחד, ומכאן ואילך נתן אחד ושתה אחד.",
+    "halakha": "רמב״ם (תרומות יג:יא): מותר לבטלה ברוב ואוכלה בימי טומאתו, כולל דרך היין של רב הונא. בשאר איסורי דרבנן אין מבטלים לכתחילה (בית יוסף יו״ד צ״ט)."
+   },
+   "en": {
+    "title": "Teruma from outside the Land is nullified in a majority",
+    "gemara": "Shmuel: teruma from outside the Land is nullified in a majority. Rabbah would nullify it in a majority and eat it while impure. Rav Huna son of Rav Yehoshua would pour one log of teruma wine into two of ordinary wine and drink one, and from then on pour one and drink one.",
+    "halakha": "Rambam (Terumot 13:11): one may nullify it in a majority and eat it while impure, including Rav Huna's wine method. Other rabbinic prohibitions are not nullified deliberately (Beit Yosef YD 99)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27a:6",
+     "he": "ברוב — אחד בשנים, ואין צריך אחד ומאה כתרומת ארץ ישראל. ורבה כהן היה.",
+     "en": "A majority means one in two; one in a hundred is not needed, as for teruma of the Land. And Rabbah was a kohen."
+    },
+    {
+     "who": {
+      "he": "תוספות (יבמות)",
+      "en": "Tosafot (Yevamot)"
+     },
+     "ref": "Tosafot on Yevamot 105a:14:1",
+     "he": "רבה (ולא רבא) הוא שהיה כהן ומבית עלי, כמוכח כאן ״רבה מבטל לה ברוב״; רבא לא היה כהן.",
+     "en": "It was Rabbah (not Rava) who was a kohen of the house of Eli, as shown here ('Rabbah would nullify it'); Rava was not a kohen."
+    },
+    {
+     "who": {
+      "he": "תוספות (מנחות)",
+      "en": "Tosafot (Menachot)"
+     },
+     "ref": "Tosafot on Menachot 67a:11:1",
+     "he": "דלא כרש״י שהתיר לזר אחר ביטול: תרומת ישראל בחוץ לארץ מדמעת, והביטול ברוב מתיר רק לכהן בימי טומאתו.",
+     "en": "Against Rashi, who permitted it to a non-kohen after nullification: an Israelite's teruma outside the Land does create a forbidden mixture, and nullification permits it only to a kohen while impure."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Yevamot 82a:1",
+     "he": "״ואפילו לאכלה זר קאמר״. וכך בכל איסור דרבנן שאין לו עיקר מן התורה (כלאי הכרם בחו״ל, גבינת עכו״ם, בישולי עכו״ם) — בטל ברוב, אלא שאין מבטלים לכתחילה.",
+     "en": "'Even for a non-kohen to eat.' The same holds for every rabbinic prohibition with no Torah root (mixed vineyard outside the Land, gentile cheese, gentile cooking): it is nullified in a majority, but may not be nullified deliberately."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Yevamot 82b:2",
+     "he": "בתרומת חוץ לארץ הקלו יותר משאר איסורים: מבטלים ומערבים אותה אפילו לכתחילה.",
+     "en": "Teruma from outside the Land was made more lenient than other prohibitions: it may be mixed and nullified even deliberately."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Beitzah 2b:2",
+     "he": "מותר לערב ולבטל לכתחילה אפילו אחד בשנים, כמו שרב הונא נתן ״חדא בתרתי״ — אבל רק בדבר שאין לו עיקר מן התורה כלל.",
+     "en": "It may be mixed and nullified deliberately, even one in two, as Rav Huna poured one into two, but only for something with no Torah root at all."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Beitzah 4b:4",
+     "he": "יש אומרים שמבטלים לכתחילה ואפילו ברוב ממש, כתרומת חוץ לארץ, ויש מי שאוסר לערב לכתחילה גם באלו.",
+     "en": "Some say one may nullify deliberately, even in a bare majority, as with teruma from outside the Land; others forbid deliberate mixing even here."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Chullin 98b:7",
+     "he": "תרומה וחלה של חוץ לארץ, שאין להן שום עיקר בתורה, מותר לערבן לכתחילה ולאכלן אפילו זרים.",
+     "en": "Teruma and challah from outside the Land, which have no Torah root at all, may be mixed deliberately and eaten even by non-kohanim."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 385:8",
+     "he": "קולה מיוחדת: אין בכל איסורי התורה ביטול לכתחילה, חוץ מזה ומעצים שנשרו מן הדקל לתוך התנור ביום טוב.",
+     "en": "A unique leniency: no other prohibition allows deliberate nullification, apart from this and wood that fell from a palm into the oven on Yom Tov."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 99:11:1",
+     "he": "מסדר את השיטות: יש מי שמתיר לערב לכתחילה כל איסור דרבנן שאין לו עיקר מן התורה, וסומך על ״תרומת חו״ל מבטלה ברוב״; ויש מי שאוסר, ובתרומת חו״ל הקלו יותר.",
+     "en": "Sets out the views: some permit deliberately mixing any rabbinic prohibition without a Torah root, relying on 'teruma from outside the Land is nullified in a majority'; others forbid it, holding that this teruma was a special leniency."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 323:3:1",
+     "he": "מבאר את הטור: רבה ביטל כדי לאכלה בטומאה היוצאת מגופו (כגון כהן שעדיין לא טבל לקריו); שהרי טומאת מת יש לכולנו, ולענין זר לא דיברה הגמרא.",
+     "en": "Explains the Tur: Rabbah nullified it in order to eat it while impure from his own body (e.g. before immersing from an emission); everyone is impure from the dead anyway, and the Gemara said nothing about a non-kohen."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Biur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 109:8",
+     "he": "דוחה את מי שאמר שבכל דרבנן חד בחד בטל: רק בתרומת חו״ל הקלו; ולר״ש ולתוספות ״מבטלה ברוב״ הוא לכהן בימי טומאתו בלבד, ולזר צריך אחד ומאה.",
+     "en": "Rejects the view that every rabbinic prohibition is nullified one in one: only this teruma was made lenient; and for the Rash and Tosafot, 'nullified in a majority' is only for a kohen while impure, while a non-kohen needs one in a hundred."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 87:19",
+     "he": "דרך היין של הרמב״ם יוצאת מחצה על מחצה, והראב״ד השיגו: ״טועה בזה... וענין זה אסור הוא שהרי הוא מחצה למחצה״.",
+     "en": "The Rambam's wine method works out to half and half, and the Raavad objected: 'he errs here... this is forbidden, for it is half and half'."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on First Fruits and other Gifts to Priests Outside the Sanctuary 5:12:1",
+     "he": "מביא את מרן (הכסף משנה): הרמב״ם התיר בחלה שהתערבה שווה בשווה כר׳ זעירא בירושלמי — אבל רק כשלא נתכוון לבטל; כשמתכוון, צריך רוב כשמואל.",
+     "en": "Quoting the Kesef Mishneh: the Rambam permitted challah mixed half and half, following R. Zeira in the Yerushalmi, but only when one did not intend to nullify; when one intends to, a majority is needed, as Shmuel says."
+    },
+    {
+     "who": {
+      "he": "רב פעלים",
+      "en": "Rav Pe'alim"
+     },
+     "ref": "Responsa Rav Pealim, Volume III, Orach Chayim 25:17",
+     "he": "מקשה על מי שאסר לבטל איסור ביום טוב משום מתקן: התוספות, הר״ן, הרמב״ן והרא״ש סמכו על ביטול ברוב של תרומת חו״ל ביום טוב, ולא חששו לתיקון.",
+     "en": "Challenges those who forbid nullifying a prohibition on Yom Tov as 'fixing' food: Tosafot, the Ran, the Ramban and the Rosh relied on nullifying this teruma on Yom Tov without that concern."
+    },
+    {
+     "who": {
+      "he": "ביאור לספר המצוות לרס״ג",
+      "en": "Commentary on Rasag's Sefer HaMitzvot"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Negative Commandments 76:37",
+     "he": "תמה על השיטה שהביטול מתיר רק לכהן טמא ולא לזר: איסור זרות ואיסור טומאה שווים בעונשם, ומה ההבדל?",
+     "en": "Questions the view that nullification permits it only to an impure kohen and not to a non-kohen: both prohibitions carry the same punishment, so what is the difference?"
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "האם תרומות ומעשרות נוהגות בחוץ לארץ?",
+    "gemara": "כל הסוגיא כאן מניחה שהפרישו תרומה בבבל (רבה, רב הונא, רב טובי בר מתנה).",
+    "halakha": "היום אין מפרישים תרומות ומעשרות בחוץ לארץ, ורק חלה נשארה (מאירי; ר״י)."
+   },
+   "en": {
+    "title": "Do terumot and tithes apply outside the Land at all?",
+    "gemara": "The whole sugya assumes teruma was separated in Babylonia (Rabbah, Rav Huna, Rav Tovi bar Matanah).",
+    "halakha": "Today terumot and tithes are not separated outside the Land; only challah remains (Meiri; Ri)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "תוספות (עבודה זרה)",
+      "en": "Tosafot (Avodah Zarah)"
+     },
+     "ref": "Tosafot on Avodah Zarah 58b:8:2",
+     "he": "סתירה: בחולין (ו:) ובעבודה זרה משמע שחו״ל פטורה ממעשר, וכאן מוכח שחייבת. ר״ת: שם מדובר בדמאי, שבחו״ל פטור. ר׳ דוד ממיילן: שם התירו רק את חומרות ארץ ישראל, אבל ״קולות חו״ל״ שבפרק עד כמה נהגו שם. ומה שאין אנו מפרישים היום — ר״ת: הקרקעות משועבדות לשרים; ר״י: על פי הירושלמי, ״עד שבאו הרובים ובטלום״.",
+     "en": "A contradiction: Chullin 6b and Avodah Zarah imply that outside the Land is exempt from tithes, while here it is clearly obligated. Rabbeinu Tam: there it is demai, which is exempt outside the Land. R. David of Mielen: there they only lifted the Land's stringencies, but the 'leniencies of outside the Land' of our chapter applied. Why we don't separate today: Rabbeinu Tam, because our lands are mortgaged to the lords; the Ri, following the Yerushalmi, 'until the oppressors came and abolished it'."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Avodah Zarah 4:9:1",
+     "he": "מביא את הסתירה ואת תירוץ ר״ת בשם הדמאי.",
+     "en": "Brings the contradiction and Rabbeinu Tam's answer about demai."
+    },
+    {
+     "who": {
+      "he": "תשב״ץ",
+      "en": "Tashbetz"
+     },
+     "ref": "Sefer HaTashbetz, Part III 200:2",
+     "he": "מכאן קושיא על מצוות ישיבת ארץ ישראל: אם גם בחו״ל יש תרומה מדרבנן, מה בין ארץ ישראל לחו״ל בזמן הזה? ומיישב: חו״ל פטורה מדמאי, ונוהגות בה קולות כאוכל והולך; והגאונים: בני בבל רק החמירו על עצמם.",
+     "en": "A question on the mitzvah of living in the Land: if teruma applies rabbinically outside the Land too, what is the difference between them nowadays? He answers: outside the Land is exempt from demai and has leniencies such as 'eat now, separate later'; and the Geonim: the Babylonians were simply strict with themselves."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Biur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 331:5",
+     "he": "מסכם את השיטות (ר״י, ר״ת) ומציין את הסוגיות, ובתוכן ״בבכורות כ״ז א׳ תרומת ח״ל״.",
+     "en": "Summarizes the views (the Ri, Rabbeinu Tam) and lists the sources, including 'Bekhorot 27a, teruma outside the Land'."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    8
+   ],
+   "he": {
+    "title": "״אוכל והולך ואחר כך מפריש״",
+    "gemara": "שמואל: תרומת חוץ לארץ — אוכל והולך ואחר כך מפריש.",
+    "halakha": "טור ושו״ע (או״ח תנ״ז): שכח להפריש חלה ואכל — מפריש על הנותר; ובמצות שנלושו כל אחת לבדה צריך צירוף."
+   },
+   "en": {
+    "title": "'He eats as he goes, and separates afterwards'",
+    "gemara": "Shmuel: teruma from outside the Land: one eats as he goes and separates afterwards.",
+    "halakha": "Tur and Shulchan Arukh (OC 457): if one forgot to separate challah and ate some, he separates from what is left; matzot kneaded separately need to be joined together first."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "תוספות (נדה)",
+      "en": "Tosafot (Niddah)"
+     },
+     "ref": "Tosafot on Niddah 7a:4:1",
+     "he": "אע״פ שאין כאן ״מוקף״ למה שכבר נאכל — זה רק בעיסה שנילושה יחד, שהקלו בתרומת חו״ל.",
+     "en": "Though what was already eaten is not 'adjacent' to what is separated, this only works for dough kneaded together, where they were lenient with teruma from outside the Land."
+    },
+    {
+     "who": {
+      "he": "ספר התרומה",
+      "en": "Sefer HaTerumah"
+     },
+     "ref": "Sefer HaTerumah, Psakim 82:1",
+     "he": "עיסה שנילושה יחד אוכל הכל חוץ ממעט, וקורא לו חלה, ואינו צריך מוקף; אבל לפטור מצות רבות בחלה אחת צריך צירוף.",
+     "en": "With dough kneaded together one eats all but a little and calls it challah, without adjacency; but to exempt many matzot with one challah they must be joined."
+    },
+    {
+     "who": {
+      "he": "תשובות מהר״ם",
+      "en": "Maharam's responsa"
+     },
+     "ref": "Teshuvot Maharam, Prague Edition 445:1",
+     "he": "לחם שאפו ולא הפרישו: אם היה עיסה אחת — אין צריך אפילו צירוף סל, ״דקיי״ל חלת חו״ל אוכל והולך״.",
+     "en": "Bread baked without separating challah: if it was one dough, not even joining in a basket is needed, 'since challah outside the Land, one eats as he goes'."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 52:1",
+     "he": "אוכל והולך — וישייר כדי חלתה, ולא יאכלנה כולה.",
+     "en": "He eats as he goes, but leaves enough for its challah and does not eat it all."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Smag"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 133:1",
+     "he": "בשם ר׳ דוד ממי״ץ: המקומות הפטורים מחומרות הארץ — נוהגות בהם קולות חו״ל, ״כגון אוכל והולך״ וקולות פרק עד כמה.",
+     "en": "In the name of R. David of Metz: places exempt from the Land's stringencies still keep the leniencies of outside the Land, 'such as eating as he goes', the leniencies of our chapter."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Orach Chayim 457:4:1",
+     "he": "בשם המרדכי: בפסח, אם שכח להפריש מערב יום טוב, אין לסמוך על שיור מצה, שהמצות נילושו כל אחת לבדה ואין להן דין זה; אלא יפריש אחת על כולן בצירוף.",
+     "en": "Citing the Mordechai: on Pesach, if one forgot to separate before Yom Tov, one may not rely on leaving over a matzah, since each was kneaded separately; rather one separates one for all of them, joined together."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "טומאה היוצאת מגופו; נדה קוצה חלה; חלה אחת או שתיים",
+    "gemara": "שמואל: תרומת חוץ לארץ אסורה רק למי שטומאה יוצאה מגופו, ורק באכילה, לא בנגיעה. רבינא: לכן נדה מפרישה חלה, וכהן קטן אוכלה; ואם אין כהן קטן — זורקת מעט בתנור, ומפרישה חלה נוספת כדי שלא תשתכח תורת חלה, ואוכלה כהן גדול.",
+    "halakha": "שו״ע (יו״ד שכ״ב:ה) כרמב״ם: חלת חו״ל אסורה רק לבעלי טומאה מגופם, ואחר טבילה מותרת (ויש אומרים שצריך הערב שמש). רמ״א: המנהג להפריש חלה אחת בלבד, כזית, ולשורפה. ובפסח (או״ח תנ״ז:ב, רמ״א): אם יש כהן קטן או גדול שטבל — מותר לאפות את החלה בשבילו."
+   },
+   "en": {
+    "title": "Impurity from one's own body; a niddah separates challah; one challah or two",
+    "gemara": "Shmuel: teruma from outside the Land is forbidden only to one whose impurity comes from his own body, and only to eat, not to touch. Ravina: so a niddah may separate challah and a minor kohen eats it; if there is no minor kohen, she throws a little into the oven, then separates another challah so the law of challah is not forgotten, and an adult kohen eats it.",
+    "halakha": "Shulchan Arukh (YD 322:5), following the Rambam: challah from outside the Land is forbidden only to those impure from their own body, and permitted once they immerse (some require nightfall too). Rema: the custom is to separate one challah only, a kezayit, and burn it. On Pesach (OC 457:2, Rema): if there is a minor kohen, or an adult who has immersed, one may bake the challah for him."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 7:8",
+     "he": "אסורה רק לבעלי קרי, זבים, נדות ויולדות; וכולם שטבלו מותרים אף שלא העריב שמשן; וטמאי מגע — ואפילו טמא מת — אינם צריכים טבילה.",
+     "en": "Forbidden only to those with an emission, zavim, niddot and women after childbirth; all of them may eat once immersed, even before nightfall; and those impure by contact, even from a corpse, need no immersion."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 5:10",
+     "he": "אם יש כהן קטן — בין בסוריא בין בשאר ארצות — מפריש חלה אחת (אחד מארבעים ושמונה) ונאכלת לקטן, ואינו צריך שנייה.",
+     "en": "If there is a minor kohen, in Syria or anywhere else, one separates a single challah (one forty-eighth) for the minor to eat, and no second one is needed."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Niddah 32a:4",
+     "he": "נקט ״כהן קטן״ כי גדול צריך הערב שמש ואינו יכול לאכלה בו ביום; ומכאן שבעיסה שנטמאה ביום טוב אין לאפות חלה אלא אם יש כהן קטן (וכך דעת הרי״ף והרמב״ן).",
+     "en": "It says 'a minor kohen' because an adult needs nightfall and cannot eat it that day; so with dough that became impure on Yom Tov the challah may be baked only if there is a minor kohen (so the Rif and Ramban)."
+    },
+    {
+     "who": {
+      "he": "תוספות (חולין)",
+      "en": "Tosafot (Chullin)"
+     },
+     "ref": "Tosafot on Chullin 104a:9:2",
+     "he": "במקומות הסמוכים לארץ ישראל לעולם מפרישים שתי חלות, שחלתם נראית כחלת הארץ; סוגייתנו (חלה אחת לכהן קטן) היא במקומות הרחוקים כבבל ״וכן לדידן״. ומותרת גם לגדול שטבל לקריו בלי הערב שמש.",
+     "en": "In places near the Land two challot are always separated, since their challah looks like the Land's; our sugya (a single challah for a minor kohen) is about distant places like Babylonia, 'and so for us'. It is also permitted to an adult who immersed, without nightfall."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Chullin 8:4:1",
+     "he": "מבאר את שלוש החלות במשנה ואת ״חלה דידן״ לפי הסוגיא כאן. ולמה נקט כהן קטן, אם גם גדול שטבל מותר? ״לפי שאין שיעור לחלת חוץ לארץ ולפי שדבר מועט הוא״.",
+     "en": "Explains the Mishnah's three kinds of challah and 'our challah' by this sugya. Why a minor kohen, if an immersed adult may eat it too? 'Because challah outside the Land has no set amount, and it is a small thing.'"
+    },
+    {
+     "who": {
+      "he": "רש״י (תשובה)",
+      "en": "Rashi (responsum)"
+     },
+     "ref": "Teshuvot Rashi 186:1",
+     "he": "ביטל מנהג להפריש שתי חלות בברכה בערב פסח, ״שהיא ברכה לבטלה״; מכאן שבמקום שיש כהן קטן מפרישים אחת, ובכל ערי לותיר מפרישים אחת ולשריפה.",
+     "en": "Abolished a custom of separating two challot with blessings on the eve of Pesach, 'a blessing in vain'; from here, where there is a minor kohen one separates one, and in all the towns of Lotir they separate one, for burning."
+    },
+    {
+     "who": {
+      "he": "תוספות (פסחים)",
+      "en": "Tosafot (Pesachim)"
+     },
+     "ref": "Tosafot on Pesachim 46a:14:2",
+     "he": "ר״י: מותר לקרות שם לחלה ביום טוב לפני האפייה, כי היא ראויה לכהן קטן, ואפילו לגדול על ידי ביטול ברוב.",
+     "en": "The Ri: on Yom Tov one may designate the challah before baking, because it is fit for a minor kohen, and even for an adult through nullification in a majority."
+    },
+    {
+     "who": {
+      "he": "מלחמת השם (רמב״ן)",
+      "en": "Milchemet Hashem (Ramban)"
+     },
+     "ref": "Milchemet Hashem on Pesachim 14b:1",
+     "he": "מגן על הרי״ף מול בעל המאור: גדול שעדיין לא טבל אינו ״ראוי עכשיו״, ולא אומרים ״הואיל״ במחוסר מעשה.",
+     "en": "Defends the Rif against the Baal HaMaor: an adult who has not yet immersed is not 'fit now', and 'since it could be' does not apply when an action is still missing."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Smag"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 141:1",
+     "he": "בשם ר״י ברבי אברהם: היום, בגלות אדום ואפילו בבבל, מפרישים חלה אחת בלבד גם כשאין כהן, כי גם בארץ ישראל אין מפרישים היום אלא אחת.",
+     "en": "In the name of R. Yitzchak b. R. Avraham: today, in all the exiles and even in Babylonia, only one challah is separated even without a kohen, since in the Land too only one is separated nowadays."
+    },
+    {
+     "who": {
+      "he": "השגות הרמב״ן",
+      "en": "Ramban's glosses"
+     },
+     "ref": "Hasagot HaRamban on Sefer HaMitzvot, Shorashim 12:2",
+     "he": "ראיה שההפרשה היא מצווה בפני עצמה: על חלה טמאה מברכים, אף שאינה ניתנת לכהן אלא נזרקת לאש, ״כמו שמוזכר בגמרא בכורות״.",
+     "en": "Proof that separating is a mitzvah of its own: one blesses over impure challah even though it goes into the fire and not to a kohen, 'as mentioned in the Gemara in Bekhorot'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהר״ם שיף",
+      "en": "Maharam Schiff"
+     },
+     "ref": "Maharam Schiff on Chullin 104a:11",
+     "he": "״וישר בעיני להנהיג להאכיל לכהן קטן או גדול שטבל, והיכא דליתיה להפריש שנים כבגמרא דבכורות״.",
+     "en": "'It seems right to me to institute feeding it to a minor kohen or an immersed adult, and where there is none, to separate two, as in the Gemara in Bekhorot.'"
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 322:17",
+     "he": "קושיא על הרמב״ם שהצריך תמיד שתי חלות בחו״ל, והרי בגמרא כאן מפורש שאם יש כהן קטן די באחת; ובסעיפים הבאים מיישב לפי שיטת הרמב״ם ומול שיטת התוספות והראב״ד.",
+     "en": "A difficulty for the Rambam, who always required two challot outside the Land, when our Gemara says one suffices if there is a minor kohen; in the following paragraphs he resolves it within the Rambam's view, against Tosafot and the Raavad."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Challah 4:8:2",
+     "he": "למה תיקנו שתי חלות ולא שתי תרומות? כי בחלה יש לחוש יותר שלא תשתכח, שהיא שייכת לכל מי שלש עיסה, ותרומה רק לבעלי קרקעות.",
+     "en": "Why two challot but never two terumot? Challah is more at risk of being forgotten, since it concerns everyone who kneads dough, while teruma concerns only landowners."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Biur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 322:4",
+     "he": "הסוגיא כאן היא בחוץ לארץ הרחוקה מארץ ישראל; ולרמב״ם אין חילוק בכל חוץ לארץ.",
+     "en": "Our sugya is about lands far from the Land of Israel; for the Rambam there is no distinction anywhere outside the Land."
+    },
+    {
+     "who": {
+      "he": "חשק שלמה",
+      "en": "Cheshek Shlomo"
+     },
+     "ref": "Cheshek Shlomo on Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 5:7:1",
+     "he": "תמה על הכסף משנה שציין את סוגייתנו כמקור לתקנת חלה בחו״ל: הגמרא כאן עוסקת רק בחלה השנייה, ״שלא תשתכח״ נתינתה לכהן, ולא בעיקר התקנה.",
+     "en": "Questions the Kesef Mishneh for citing our sugya as the source of challah outside the Land: the Gemara here speaks only of the second challah, so that giving it to a kohen is not forgotten, not of the enactment itself."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:29:7",
+     "he": "חלה שהתערבה היום בטלה ברוב (״תרי דרבנן״), כי חיובה היום אינו אלא ״שלא תשתכח״, כמבואר בבכורות כ״ז.",
+     "en": "Challah mixed in today is nullified in a simple majority (two rabbinic layers), since today's obligation is only 'so it not be forgotten', as in Bekhorot 27."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Mem 64",
+     "he": "״ריש מסא״ — לפי הערוך והתוספות, ״מסא״ היא המרדה שרודים בה את הפת מן התנור, דלא כרש״י.",
+     "en": "'Reish masa': per the Arukh and Tosafot, the masa is the baker's peel used to take bread from the oven, unlike Rashi."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 61:37",
+     "he": "מותר לתת מתנות כהונה גם לכהן קטן, ומביא ראיה מ״ואכיל לה כהן קטן״ כאן.",
+     "en": "Priestly gifts may be given to a minor kohen too, as shown by 'a minor kohen eats it' here."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    11,
+    2
+   ],
+   "he": {
+    "title": "״וכי הזאה יש לנו?״ — טמא מת בתרומת חוץ לארץ",
+    "gemara": "אשה שאלה את רב נחמן ורמי בר חמא אם טמא מת טובל ואוכל תרומת חוץ לארץ; ״וכי הזאה יש לנו?״ רב עמרם הביא בשם רב: טמא מת טובל ואוכל. ולית הלכתא כוותיה — וכן בטמא שרץ.",
+    "halakha": "טמאי מגע, ואפילו טמא מת, אוכלים תרומת וחלת חוץ לארץ בלי טבילה כלל (רמב״ם; שו״ע יו״ד שכ״ב:ה)."
+   },
+   "en": {
+    "title": "'Do we have sprinkling?' One impure from a corpse and teruma outside the Land",
+    "gemara": "A woman asked Rav Nachman and Rami bar Chama whether one impure from a corpse may immerse and eat teruma from outside the Land: 'Do we have sprinkling?' Rav Amram brought in Rav's name: he immerses and eats. The halakha is not like him, and likewise for one impure from a creeping creature.",
+    "halakha": "Those impure by contact, even from a corpse, eat teruma and challah from outside the Land with no immersion at all (Rambam; Shulchan Arukh YD 322:5)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27b:1",
+     "he": "״וכי הזאה יש לנו״ — בזמן הזה, שיצטרך להמתין שלישי ושביעי.",
+     "en": "'Do we have sprinkling' nowadays, that he would need to wait for the third and seventh days?"
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 57:1",
+     "he": "כהן נזהר מטומאת מת, אבל לא מ״חרב הרי הוא כחלל״, אפילו באוהל — ולכן אי אפשר לדרוש ממנו טהרה; טמא מת אוכל תרומה בחו״ל בלי טבילה.",
+     "en": "A kohen guards against corpse impurity, but not against 'a sword is like a corpse', even under a roof, so purity cannot be demanded of him; one impure from a corpse eats teruma outside the Land without immersion."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 251:1",
+     "he": "בארץ העמים לא הייתה הזאה, ״ומה תועיל טבילה״; לא החמירו בחלת חו״ל שלא יוכל לאכלה עד שילך ויזה בארץ ישראל.",
+     "en": "Outside the Land there was no sprinkling, 'so what would immersion help'; they did not make challah outside the Land so strict that one could eat it only after going to the Land to be sprinkled."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Heave Offerings 7:8:4",
+     "he": "״לית הלכתא כוותיה״ — במה שהצריך טבילה; אלא אפילו טבילה לא בעי, כשמואל.",
+     "en": "'The halakha is not like him' as to requiring immersion; rather not even immersion is needed, as Shmuel holds."
+    },
+    {
+     "who": {
+      "he": "שאילת שלום",
+      "en": "Sheilat Shalom"
+     },
+     "ref": "Sheilat Shalom on Sheiltot d'Rav Achai Gaon 119:1",
+     "he": "דן בקשר בין דברי רב לדברי מר זוטרא; לפירש״י ״טובל ואוכל״ פירושו בלי הערב שמש, ואילו התוספות כתבו שאפילו טבילה לא בעי.",
+     "en": "Discusses how Rav's statement connects to Mar Zutra's; per Rashi 'immerses and eats' means without waiting for nightfall, while Tosafot wrote that not even immersion is needed."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 27b:1",
+     "he": "הגהות בלשון התוספות שם (ד״ה וכי הזאה), ובהן שהראיה מנזיר אינה ״מבוררת״.",
+     "en": "Text corrections to Tosafot there (s.v. vechi haza'ah), including that the proof from Nazir is not 'clear-cut'."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Hagahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 27b:1",
+     "he": "תיקון בתוספות: טבול יום דבעל קרי אינו צריך הערב שמש.",
+     "en": "A correction in Tosafot: one who immersed after an emission does not need to wait for nightfall."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    7
+   ],
+   "he": {
+    "title": "בכור נאכל ״שנה בשנה״",
+    "gemara": "הבכור נאכל בתוך שנתו, ומונים לו שנה שלו (״איזוהי שנה שנכנסת בחברתה — שנה של בכור״). דבי רב: ״שנה בשנה״ — יום בשנה זו ויום בשנה הבאה, ומכאן שנאכל לשני ימים ולילה אחד. ורב לומד זאת מהיקש לחזה ושוק של שלמים.",
+    "halakha": "שו״ע (יו״ד ש״ו:ז), כרמב״ם (בכורות א:ח): נאכל בתוך שנתו; תם — מונה מיום שמיני; בעל מום — מיום שנולד, אם ידוע שכלו לו חדשיו."
+   },
+   "en": {
+    "title": "A bechor is eaten 'year by year'",
+    "gemara": "The bechor is eaten within its year, counted from its own birth ('which year runs into the next? The bechor's'). Dvei Rav: 'year by year' means one day in this year and one in the next, so it is eaten for two days and one night. Rav learns this from the comparison to the breast and thigh of a peace offering.",
+    "halakha": "Shulchan Arukh (YD 306:7), following the Rambam (Bechorot 1:8): eaten within its year; an unblemished one counts from the eighth day, a blemished one from birth, if it was known to be full-term."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 27b:8",
+     "he": "נולד בניסן — אין אומרים שבתשרי עברה שנתו; נותנים לו שנים עשר חודש מיום שנולד. ו״רשאי לקיימו״ — חייב הוא (שמא יבוא כהן ויטלנו).",
+     "en": "If born in Nisan, its year does not end at Tishrei; it gets twelve months from birth. And 'may keep it' means must (in case a kohen comes to take it)."
+    },
+    {
+     "who": {
+      "he": "רש״י (דברים)",
+      "en": "Rashi (Deuteronomy)"
+     },
+     "ref": "Rashi on Deuteronomy 15:20:2",
+     "he": "אין משהים אותו יותר על שנתו; ואינו נפסל אחריה, שהוקש למעשר שני; המצווה — בתוך שנתו.",
+     "en": "It may not be kept beyond its year; but it is not disqualified afterwards, being compared to second tithe; the mitzvah is within its year."
+    },
+    {
+     "who": {
+      "he": "תוספות (בבא מציעא)",
+      "en": "Tosafot (Bava Metzia)"
+     },
+     "ref": "Tosafot on Bava Metzia 65a:9:1",
+     "he": "״שנה שנה״ בלי בי״ת (מעשר) פירושו אותה שנה עצמה; ״שנה בשנה״ בבי״ת — הנכנסת לשנה האחרת, ולכן שכר שכיר שנה נפרע בשנה הבאה.",
+     "en": "'Year, year' without the prefix (tithes) means that same year; 'year in year' with it means running into the next, which is why a year's wages are paid the next year."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:2:2",
+     "he": "מביא את הבעיא ״השלמה אין, מיהבא לא״ — נולד בו מום חמישה עשר יום לפני סוף שנתו, משלימים לו חמישה עשר יום אחריה; ומאימתי מונים: תם משעה שנראה להרצאה, בעל מום משעה שנולד.",
+     "en": "Brings the ruling 'it is completed, not extended': if a blemish appeared fifteen days before its year ended, it gets fifteen days after; counting begins for an unblemished one when fit to be offered, for a blemished one at birth."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 27b:9",
+     "he": "קושיא על דבי רב: גם אם נאכל רק ליום ולילה, אם נשחט ביום האחרון של שנתו כבר ״שנה בשנה״! ומיישב: מונים לתם משעת הרצאה, בבוקר היום השמיני, ולכן שנתו נשלמת רק בבוקר שבשנה הבאה.",
+     "en": "A difficulty for Dvei Rav: even if it were eaten for only a day and a night, slaughtering it on its last day would already span 'year in year'! He answers: an unblemished bechor is counted from when it can be offered, the morning of the eighth day, so its year ends only on a morning in the next year."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Deuteronomy 15:19:1",
+     "he": "״שנה בשנה״ בתנ״ך פירושו שנה שלמה מיום אל יום; ודרשת ״שנה הנכנסת בחברתה״ היא ״דרך צחות״, ולחינם נדחקו התוספות.",
+     "en": "In Tanakh 'year by year' means a full year, day to day; 'a year that runs into the next' is 'a play on the words', and Tosafot strained needlessly."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Tzav 16:1",
+     "he": "כלל: ״שנה שנה״ — דווקא באותה שנה; ״שנה בשנה״ — יכול להיכנס משנה לחברתה; ובזה מיושבת קושיית התוספות בבכורות.",
+     "en": "A rule: 'year, year' means within that year only; 'year in year' may run into the next; this settles Tosafot's difficulty in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Bamidbar 18:18:1",
+     "he": "רש״י בפרשת קרח (״לך יהיה — הוסיף הויה אחרת״) פירש אליבא דרב, ובפרשת ראה (״שנה בשנה״) אליבא דבי רב — כמבואר בבכורות כ״ז.",
+     "en": "Rashi in Korach ('it shall be yours — another being added') follows Rav, and in Re'eh ('year by year') follows Dvei Rav, as in Bekhorot 27."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Rosh Hashanah 5b:2",
+     "he": "הרמב״ם פסק כ״אחרים״ שבכור אינו נפסל משנה לחברתה, כי רב יהודה אמר רב סבר כן בבכורות כ״ז, כמו שכתבו התוספות שם.",
+     "en": "The Rambam ruled like 'Acherim', that a bechor is not disqualified after its year, because Rav Yehuda in Rav's name held so in Bekhorot 27, as Tosafot there note."
+    },
+    {
+     "who": {
+      "he": "ציון לנפש חיה",
+      "en": "Tziyyun LeNefesh Chayyah"
+     },
+     "ref": "Tziyyun LeNefesh Chayyah on Rosh Hashanah 4a:2",
+     "he": "מבכורות כ״ז, שדורשים ״שנה בשנה״ לשנתו של בכור ולשני ימים, מוכח שהפסוק אינו נדרש לשיטת בעל המאור לעניין בל תאחר (עובר רק בכל שנה).",
+     "en": "Since Bekhorot 27 reads 'year by year' as the bechor's own year and as two days, the verse cannot also carry the Baal HaMaor's reading for 'do not delay' (transgressing only once a year)."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Repentance 3:2:1",
+     "he": "מקשה: אולי ״יום בשנה זו ויום בשנה זו״ הוא על לילה ראשון של ראש השנה? ומיישב: כל עוד לא קידשו את החודש — בלילה אין מקדשים — אין זו עדיין שנה חדשה.",
+     "en": "Asks: perhaps 'a day in this year and a day in that' could be the first night of Rosh Hashanah? He answers: the month is not sanctified at night, so it is not yet a new year."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers project (Workers Builds): pushing to main deploys.
+  // Static site with no server-side logic - site/ is the finished output.
+  "name": "limud-gemara",
+  "compatibility_date": "2026-10-15",
+  "assets": {
+    "directory": "./site"
+  }
+}

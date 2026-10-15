@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="לומדים גמרא">
+  <circle cx="250" cy="250" r="230" fill="#16305c"/>
+  <circle cx="250" cy="250" r="212" fill="none" stroke="#b8924a" stroke-width="3"/>
+  <!-- a page of Gemara: the text in the middle, Rashi and Tosafot around it -->
+  <rect x="135" y="110" width="230" height="280" rx="10" fill="#faf6ec"/>
+  <g fill="#b8924a">
+    <rect x="155" y="132" width="60" height="9" rx="4"/><rect x="155" y="150" width="60" height="9" rx="4"/>
+    <rect x="155" y="168" width="60" height="9" rx="4"/><rect x="155" y="186" width="60" height="9" rx="4"/>
+    <rect x="155" y="204" width="60" height="9" rx="4"/><rect x="155" y="222" width="60" height="9" rx="4"/>
+    <rect x="155" y="240" width="60" height="9" rx="4"/><rect x="155" y="258" width="60" height="9" rx="4"/>
+    <rect x="285" y="132" width="60" height="9" rx="4"/><rect x="285" y="150" width="60" height="9" rx="4"/>
+    <rect x="285" y="168" width="60" height="9" rx="4"/><rect x="285" y="186" width="60" height="9" rx="4"/>
+    <rect x="285" y="204" width="60" height="9" rx="4"/><rect x="285" y="222" width="60" height="9" rx="4"/>
+    <rect x="285" y="240" width="60" height="9" rx="4"/><rect x="285" y="258" width="60" height="9" rx="4"/>
+    <rect x="155" y="290" width="190" height="9" rx="4"/><rect x="155" y="308" width="190" height="9" rx="4"/>
+    <rect x="155" y="326" width="190" height="9" rx="4"/><rect x="155" y="344" width="190" height="9" rx="4"/>
+  </g>
+  <text x="250" y="212" font-family="'Frank Ruhl Libre','David Libre','David',serif" font-weight="900" font-size="64" fill="#16305c" text-anchor="middle" dominant-baseline="middle">גמ׳</text>
+</svg>

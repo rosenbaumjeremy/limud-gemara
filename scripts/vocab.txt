@@ -1,0 +1,174 @@
+# Common Gemara Aramaic words and phrases. build_vocab.py turns this into site/data/vocab.json.
+# word (unvocalized, as it appears in the text) | vocalized | Hebrew meaning | English meaning | type | basic
+# type: q question, o objection, a answer, p proof, s source/statement term, c common word
+# basic: 1 = a simple word, highlighted in the text only at the beginner level
+מאי | מַאי | מה | what? | q | 1
+מאי טעמא | מַאי טַעְמָא | מה הטעם | what is the reason? | q |
+מנא הני מילי | מְנָא הָנֵי מִילֵּי | מניין הדברים האלה | from where are these words derived? | q |
+מנלן | מְנָלַן | מניין לנו | from where do we know it? | q |
+מנא לן | מְנָא לַן | מניין לנו | from where do we know it? | q |
+היכי דמי | הֵיכִי דָּמֵי | באיזה מקרה מדובר | what are the circumstances? | q |
+היכי | הֵיכִי | איך | how? | q | 1
+היכא | הֵיכָא | איפה | where? | q | 1
+אימת | אֵימַת | מתי | when? | q | 1
+ממאי | מִמַּאי | ממה (מניין) | from where (do you know)? | q |
+למה לי | לְמָה לִי | לשם מה צריך | why do I need it? | q |
+מאי שנא | מַאי שְׁנָא | מה שונה | what is the difference? | q |
+מאי בינייהו | מַאי בֵּינַיְיהוּ | מה ההבדל ביניהם | what is the difference between them? | q |
+במאי קמיפלגי | בְּמַאי קָמִיפַּלְגִי | במה הם חולקים | about what do they disagree? | q |
+איבעיא להו | אִיבַּעְיָא לְהוּ | נשאלה להם שאלה | a question was asked of them | q |
+בעי | בָּעֵי | שואל; צריך | asks; needs | q |
+מאן | מַאן | מי | who? | q | 1
+מאן דאמר | מַאן דְּאָמַר | מי שאומר | the one who says | q |
+מאן תנא | מַאן תַּנָּא | מי התנא (ששנה זאת) | who is the Tanna? | q |
+הא מני | הָא מַנִּי | כשיטת מי זה | whose view is this? | q |
+אמאי | אַמַּאי | מדוע | why? | q |
+אטו | אַטּוּ | וכי | is that to say…? | q |
+מהו | מַהוּ | מה הדין | what is the law? | q |
+תיבעי | תִּיבָּעֵי | יש להסתפק | let it be asked | q |
+מיתיבי | מֵיתִיבִי | מקשים (מברייתא) | they raised an objection | o |
+איתיביה | אֵיתִיבֵיהּ | הקשה לו | he raised an objection to him | o |
+ורמינהו | וּרְמִינְהוּ | ומצביעים על סתירה | and they contrasted (a contradiction) | o |
+קשיא | קַשְׁיָא | קשה | it is difficult | o |
+תיובתא | תְּיוּבְתָּא | הפרכה (תשובה ניצחת) | a conclusive refutation | o |
+והא | וְהָא | והרי | but surely… | o |
+והתניא | וְהָתַנְיָא | והרי שנינו בברייתא | but wasn't it taught in a baraita…? | o |
+והתנן | וְהָתְנַן | והרי שנינו במשנה | but didn't we learn in a mishnah…? | o |
+הכי השתא | הָכִי הַשְׁתָּא | האם זה דומה? | how can you compare? | o |
+מתקיף לה | מַתְקִיף לַהּ | מקשה עליה | he challenged it | o |
+ולטעמיך | וּלְטַעְמִיךְ | ולפי דעתך | and according to your reasoning… | o |
+ותסברא | וְתִסְבְּרָא | וכי תסבור כך? | and can you understand it so? | o |
+איני | אִינִי | האמנם? | is that so? | o |
+פשיטא | פְּשִׁיטָא | פשוט (ולמה צריך לומר?) | it is obvious! | o |
+קשיין אהדדי | קַשְׁיָין אַהֲדָדֵי | קשים זה על זה | they contradict each other | o |
+אי הכי | אִי הָכִי | אם כך | if so | o |
+ותו | וְתוּ | ועוד | and furthermore | o |
+לא קשיא | לָא קַשְׁיָא | אין זה קשה | it is not difficult | a |
+אלא | אֶלָּא | אלא (חזרה מההנחה הקודמת) | rather | a | 1
+לעולם | לְעוֹלָם | באמת | actually, in fact | a |
+אמרי | אָמְרִי | אומרים (בתשובה) | they say (in answer) | a |
+איבעית אימא | אִיבָּעֵית אֵימָא | אם תרצה אמור | if you wish, say | a |
+אי בעית אימא | אִי בָּעֵית אֵימָא | אם תרצה אמור | if you wish, say | a |
+שאני | שָׁאנֵי | שונה | it is different | a |
+כי קאמר | כִּי קָאָמַר | כאשר אמר | when he said it… | a |
+הכא במאי עסקינן | הָכָא בְּמַאי עָסְקִינַן | כאן במה אנו עוסקים | here, with what are we dealing? | a |
+תרגמה | תַּרְגְּמַהּ | פירש אותה | he explained it | a |
+חסורי מיחסרא | חַסּוֹרֵי מִיחַסְּרָא | (המשנה) חסרה | the text is incomplete | a |
+דילמא | דִּילְמָא | שמא | perhaps | a |
+אמר לך | אָמַר לָךְ | יאמר לך | he could say to you | a |
+מי סברת | מִי סָבְרַתְּ | האם סבור אתה | do you think…? | a |
+לא צריכא | לָא צְרִיכָא | אין צורך (אלא במקרה…) | it is needed only for a case where… | a |
+משני | מְשַׁנֵּי | מתרץ | answers | a |
+ניחא | נִיחָא | נוח, מובן | that is fine | a |
+תא שמע | תָּא שְׁמַע | בוא ושמע | come and hear (a proof) | p |
+שמע מינה | שְׁמַע מִינַּהּ | למד ממנה | learn from it (conclusion) | p |
+מסייע ליה | מְסַיַּיע לֵיהּ | מסייע לו | supports him | p |
+תניא נמי הכי | תַּנְיָא נָמֵי הָכִי | גם בברייתא שנויה כך | it was also taught so | p |
+דכתיב | דִּכְתִיב | שכתוב | as it is written | p |
+אמר קרא | אָמַר קְרָא | אמר הפסוק | the verse says | p |
+ילפינן | יָלְפִינַן | לומדים (מפסוק) | we derive | p |
+גמר | גָּמַר | לומד (בגזירה שווה) | derives | p |
+דיקא נמי | דַּיְקָא נָמֵי | מדויק גם כן (בלשון) | it is also precise (in the wording) | p |
+מכלל | מִכְּלָל | מכלל (משתמע) | by implication | p |
+קל וחומר | קַל וָחוֹמֶר | קל וחומר | a fortiori | p |
+גזירה שוה | גְּזֵירָה שָׁוָה | לימוד ממילה זהה | verbal analogy | p |
+אלמא | אַלְמָא | מכאן (מוכח) | evidently | p |
+תנו רבנן | תָּנוּ רַבָּנַן | שנו חכמים (ברייתא) | the Rabbis taught | s |
+תניא | תַּנְיָא | שנויה (ברייתא) | it was taught (in a baraita) | s |
+תנן | תְּנַן | שנינו (במשנה) | we learned (in a mishnah) | s |
+תנא | תָּנָא | שנה; התנא | taught; the Tanna | s |
+אמר מר | אָמַר מָר | אמר החכם | the Master said | s |
+איתמר | אִיתְּמַר | נאמר | it was stated | s |
+אמר ליה | אָמַר לֵיהּ | אמר לו | he said to him | s | 1
+אמרו ליה | אָמְרוּ לֵיהּ | אמרו לו | they said to him | s | 1
+קאמר | קָאָמַר | אומר | is saying | s | 1
+קתני | קָתָנֵי | שונה (המשנה) | (the text) teaches | s |
+קמשמע לן | קָמַשְׁמַע לַן | משמיע לנו | it teaches us | s |
+הלכתא | הִלְכְתָא | הלכה | the halakha is | s |
+סבר | סָבַר | סובר | holds | s |
+ההוא גברא | הַהוּא גַּבְרָא | אדם אחד | a certain man | s |
+ההוא | הַהוּא | אותו | that (one) | s | 1
+תיקו | תֵּיקוּ | (השאלה) תעמוד | let it stand (unresolved) | s |
+גופא | גּוּפָא | (חוזרים) לגוף הדברים | (back to) the matter itself | s |
+רישא | רֵישָׁא | תחילת המשנה | the first clause | s |
+סיפא | סֵיפָא | סוף המשנה | the latter clause | s |
+מציעתא | מְצִיעֲתָא | אמצע המשנה | the middle clause | s |
+קרא | קְרָא | פסוק | a verse | s |
+סלקא דעתך | סָלְקָא דַּעְתָּךְ | עלתה על דעתך | you might have thought | s |
+הוה אמינא | הֲוָה אָמֵינָא | הייתי חושב | I would have thought | s |
+אמינא | אָמֵינָא | הייתי אומר | I would say | s |
+נפקא מינה | נַפְקָא מִינַּהּ | הבדל מעשי | practical difference | s |
+תיפוק ליה | תִּיפּוֹק לֵיהּ | תצא לו (מ…) | let him derive it from… | s |
+ליתני | לִיתְנֵי | ישנה (התנא) | let it teach | s |
+לתני | לִתְנֵי | ישנה (התנא) | let it teach | s |
+כולי עלמא | כּוּלֵּי עָלְמָא | כולם | everyone (agrees) | s |
+פליגי | פְּלִיגִי | חולקים | they disagree | s |
+פליג | פָּלֵיג | חולק | disagrees | s |
+קמיפלגי | קָמִיפַּלְגִי | חולקים | they disagree | s |
+דאורייתא | דְּאוֹרָיְיתָא | מן התורה | by Torah law | s |
+מדאורייתא | מִדְּאוֹרָיְיתָא | מן התורה | by Torah law | s |
+דרבנן | דְּרַבָּנַן | מדברי חכמים | by rabbinic law | s |
+מדרבנן | מִדְּרַבָּנַן | מדברי חכמים | by rabbinic law | s |
+לכתחילה | לְכַתְּחִלָּה | מראש | ab initio, ideally | s |
+בדיעבד | בְּדִיעֲבַד | לאחר מעשה | after the fact | s |
+דוקא | דַּוְקָא | בדיוק | precisely | s |
+לאו דוקא | לָאו דַּוְקָא | לא בדיוק | not precisely | s |
+הוא הדין | הוּא הַדִּין | אותו הדין | the same law applies | s |
+נמי | נָמֵי | גם | also | c | 1
+הכי | הָכִי | כך | so, thus | c | 1
+השתא | הַשְׁתָּא | עכשיו | now | c | 1
+היינו | הַיְינוּ | זהו | that is | c |
+אף על גב | אַף עַל גַּב | אף על פי | even though | c |
+כיון | כֵּיוָן | מאחר ש | since | c | 1
+משום | מִשּׁוּם | בגלל | because of | c | 1
+איכא | אִיכָּא | יש | there is | c | 1
+ליכא | לֵיכָּא | אין | there is not | c | 1
+לית | לֵית | אין | there is not | c | 1
+איכא דאמרי | אִיכָּא דְּאָמְרִי | יש אומרים | some say | c |
+הוה | הֲוָה | היה | was | c | 1
+הוו | הֲווֹ | היו | were | c | 1
+הוי | הָוֵי | הוא, הווה | is | c | 1
+הדר | הֲדַר | חזר | returned; then again | c |
+בעינן | בָּעֵינַן | צריכים אנו | we require | c |
+אית ליה | אִית לֵיהּ | יש לו (סובר) | he holds | c |
+לית ליה | לֵית לֵיהּ | אין לו (אינו סובר) | he does not hold | c |
+אימא | אֵימָא | אמור | say | c | 1
+מילתא | מִילְּתָא | דבר | a matter, a word | c |
+מילי | מִילֵּי | דברים | words, matters | c |
+האי | הַאי | זה | this | c | 1
+הני | הָנֵי | אלו | these | c | 1
+הנך | הָנָךְ | ההם | those | c |
+אידך | אִידַּךְ | האחר | the other | c |
+אינהו | אִינְהוּ | הם | they | c | 1
+איהו | אִיהוּ | הוא | he | c | 1
+אנן | אֲנַן | אנחנו | we | c | 1
+אנא | אֲנָא | אני | I | c | 1
+ליה | לֵיהּ | לו | to him | c | 1
+להו | לְהוּ | להם | to them | c | 1
+לן | לַן | לנו | to us | c | 1
+ביה | בֵּיהּ | בו | in it | c | 1
+מיניה | מִינֵּיהּ | ממנו | from him | c | 1
+מינה | מִינַּהּ | ממנה | from it | c | 1
+גברא | גַּבְרָא | אדם | a man | c | 1
+איתתא | אִיתְּתָא | אישה | a woman | c | 1
+בריה | בְּרֵיהּ | בנו | his son | c | 1
+רבנן | רַבָּנַן | חכמים | the Rabbis | c | 1
+אזל | אֲזַל | הלך | went | c | 1
+אתא | אֲתָא | בא | came | c | 1
+חזי | חֲזִי | ראה; ראוי | see; fit | c | 1
+עביד | עָבֵיד | עושה | does | c | 1
+שרי | שָׁרֵי | מותר | permitted | c | 1
+אסיר | אָסִיר | אסור | forbidden | c | 1
+אי נמי | אִי נָמֵי | או גם | alternatively | c |
+טפי | טְפֵי | יותר | more | c | 1
+פורתא | פּוּרְתָּא | מעט | a little | c | 1
+טובא | טוּבָא | הרבה | much | c | 1
+לאו | לָאו | לא | not | c | 1
+מיהא | מִיהָא | על כל פנים | at any rate | c |
+מיהו | מִיהוּ | אולם | however | c |
+בשלמא | בִּשְׁלָמָא | מובן (לגבי…) | granted, it is understandable | c |
+מכדי | מִכְּדִי | הרי | after all, consider | c |
+אדרבה | אַדְּרַבָּה | להפך | on the contrary | c |
+אגב | אַגַּב | דרך אגב | by the way | c |
+קא | קָא | (מילית ההווה) | (present-tense marker) | c | 1
+זוזי | זוּזֵי | כסף | money | c | 1
