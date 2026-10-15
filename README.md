@@ -16,8 +16,8 @@ A study companion for the daily daf. It is a static site
   layout is computed from the text, so the line breaks don't match the printed page. Tap a line for its
   explanation. When an amud has too little commentary for the shape, it falls back to three columns.
 - **Written summary of the Rishonim and Acharonim.** For a daf that has `site/data/summaries/<Masechet>-<daf>.json`,
-  a card above the text gives each sugya: the Gemara, the Rishonim, the Acharonim and the halakha,
-  in Hebrew and English, each opinion linked to its source. To write one, gather the sources
+  a card beside the text shows its summary (only the summary: the file's sugyot and opinions are
+  not shown, at the user's request), in Hebrew and English. To write one, gather the sources
   with `python scripts/gather_meforshim.py Bekhorot 27` (every Rishon and Acharon Sefaria links to the daf, by line,
   with long pieces cut to the passages citing it). Every `ref` in the summary
   should be one of the gathered refs. The file also holds 5–8 `musagim` (key terms): an explanation,
