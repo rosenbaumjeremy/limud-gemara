@@ -199,9 +199,21 @@ details > summary { cursor: pointer; font-weight: 600; }
 /* ---------- Shas ---------- */
 
 .mas-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
-.mas { display: flex; flex-direction: column; gap: 3px; padding: 9px 11px; border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; color: var(--ink); }
+.mas { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 9px 11px; border: 1px solid var(--line); border-radius: var(--radius); }
 .mas:hover { border-color: var(--accent); }
+.mas-link { color: var(--ink); text-decoration: none; }
+.mas-link::after { content: ""; position: absolute; inset: 0; }   /* the whole box opens the masechet */
 .mas b { font-family: var(--serif); font-size: 18px; }
+/* the small ס (S) button to the masechet's running summaries; its title says what it is */
+.mas-sum { position: relative; z-index: 1; flex: none; width: 26px; height: 26px; display: grid; place-items: center; border-radius: 50%;
+  border: 1px solid var(--gold); background: var(--gold-soft); color: var(--ink); font-family: var(--serif); font-weight: 700; font-size: 15px; text-decoration: none; }
+.mas-sum:hover, .mas-sum:focus-visible { background: var(--gold); color: var(--card); }
+
+/* a masechet's running summaries */
+.sum-day > summary { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; font-size: 20px; font-family: var(--serif); }
+.sum-sugyot { margin: 0 0 14px; padding-inline-start: 18px; }
+.sum-sugyot li { margin: 8px 0; line-height: 1.7; }
+.sum-halakha-line { display: block; color: var(--muted); }
 .daf-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(62px, 1fr)); gap: 6px; }
 .daf { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 4px; }
 .dn { grid-column: 1 / -1; text-align: center; font-family: var(--serif); font-weight: 700; }

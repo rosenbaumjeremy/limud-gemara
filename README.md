@@ -23,7 +23,12 @@ A study companion for the daily daf. It is a static site
   should be one of the gathered refs. The file also holds 5–8 `musagim` (key terms): an explanation,
   the exact words in one line of the Gemara (`anchors`, marked in the text and clickable), and one
   mefaresh with a quote. On a tablet or computer the card sits in a column on the left.
-  First one: Bekhorot 27 (2026-10-15).
+  First one: Bekhorot 27 (2026-10-15). Since 2026-10-16 a cloud routine writes one every day at
+  03:00 Israel time for the Daf Yomi (`ROUTINE.md`: `scripts/add_summary.py --info`, then
+  `gather_meforshim.py`, then `scripts/check_summary.py`, which drops any opinion or key term whose
+  quote isn't in its Sefaria source, then `add_summary.py` files it and updates
+  `site/data/summaries/index.json`). A masechet with summaries gets a small ס (S) button on its box
+  on the home page (its tooltip says סיכום), which opens all of that masechet's summaries in order.
 - **Printed page.** A button opens Sefaria's scan of the Romm Vilna page (National Library of Israel),
   from `manuscripts.sefaria.org`. The scans aren't saved offline (about 800 KB each).
 - **Tools.** Each tool below can be switched on or off on its own (⚙). The explanation, Rashi and

@@ -73,6 +73,7 @@ const T = {
   he: {
     title: "לומדים גמרא", subtitle: "דף יומי ללומד",
     home: "בית", shas: "ש״ס",
+    sumBtn: "ס", sumTip: "סיכום", sumsOf: m => `סיכומי מסכת ${m}`, noSums: "עוד אין סיכומים במסכת הזו.", toDaf: "לדף",
     dafYomi: "הדף היומי", amudA: "עמוד א", amudB: "עמוד ב",
     continue: "להמשיך מאיפה שעצרתי", continueBtn: "להמשיך", noLast: "עוד לא פתחת דף. אפשר להתחיל מהדף היומי.", recent: "נפתחו לאחרונה",
     browse: "לבחור מסכת ודף",
@@ -102,6 +103,7 @@ const T = {
   en: {
     title: "Learning Gemara", subtitle: "The daily daf, explained",
     home: "Home", shas: "Shas",
+    sumBtn: "S", sumTip: "Summary", sumsOf: m => `${m}: summaries`, noSums: "No summaries in this masechet yet.", toDaf: "Open the daf",
     dafYomi: "Today's Daf Yomi", amudA: "Amud a", amudB: "Amud b",
     continue: "Continue where I left off", continueBtn: "Continue", noLast: "You haven't opened a daf yet. Start with today's daf.", recent: "Recently opened",
     browse: "Choose a tractate and daf",
@@ -925,11 +927,54 @@ function shasView(en) {
 function shasList() {
   const bySeder = new Map();
   for (const m of MASECHTOT) { if (!bySeder.has(m.seder)) bySeder.set(m.seder, []); bySeder.get(m.seder).push(m); }
-  return el("section", { class: "shas", id: "shas" }, el("h2", {}, t("browse")),
+  const boxes = new Map();
+  const list = el("section", { class: "shas", id: "shas" }, el("h2", {}, t("browse")),
     [...bySeder.values()].map(list => el("div", { class: "card seder" },
       el("h3", {}, S.lang === "he" ? list[0].heSeder : list[0].seder),
-      el("div", { class: "mas-list" }, list.map(m =>
-        el("a", { class: "mas", href: "#shas/" + m.en.replace(/ /g, "_") }, el("b", {}, S.lang === "he" ? m.he : m.en)))))));
+      el("div", { class: "mas-list" }, list.map(m => {
+        const box = el("div", { class: "mas" },
+          el("a", { class: "mas-link", href: "#shas/" + m.en.replace(/ /g, "_") }, el("b", {}, S.lang === "he" ? m.he : m.en)));
+        boxes.set(m.en, box);
+        return box;
+      })))));
+  // a masechet with written summaries gets a small ס button to its running summaries
+  sumIndex().then(days => new Set(days.map(d => d.masechet)).forEach(en => {
+    const box = boxes.get(en);
+    if (box) box.append(el("a", { class: "mas-sum", href: "#sum/" + en.replace(/ /g, "_"), title: t("sumTip"), "aria-label": t("sumTip") }, t("sumBtn")));
+  })).catch(() => {});
+  return list;
+}
+
+// ---------- the running summaries of a masechet ----------
+
+// site/data/summaries/index.json: every daf the routine has summarized (scripts/add_summary.py)
+const sumIndex = () => getJSON("data/summaries/index.json").then(d => d.days);
+
+async function sumView(en) {
+  const m = masechet(en);
+  if (!m) return homeView();
+  const L = S.lang === "he" ? "he" : "en", name = L === "he" ? m.he : m.en;
+  const box = el("section", { class: "sums" },
+    el("p", {}, el("a", { href: "#shas" }, "‹ " + t("shas"))),
+    el("h2", {}, t("sumsOf", name)), loadingBox());
+  setView(box);
+  const days = (await sumIndex().catch(() => [])).filter(d => d.masechet === en).sort((x, y) => x.daf - y.daf);
+  const all = await Promise.all(days.map(d => getJSON(summaryUrl(`${d.masechet} ${d.daf}a`)).catch(() => null)));
+  if (location.hash.split("/")[0] !== "#sum") return;
+  box.lastChild.remove();
+  if (!days.length) return box.append(el("p", { class: "muted" }, t("noSums")));
+  days.forEach((d, i) => {
+    const s = all[i];
+    if (!s) return;
+    const daf = L === "he" ? `${m.he} ${gem(d.daf)}` : `${m.en} ${d.daf}`;
+    box.append(el("details", { class: "card sum-day", open: true },
+      el("summary", {}, el("b", {}, daf), el("span", { class: "muted small" }, d.date)),
+      el("p", {}, s[L].overview),
+      el("ul", { class: "sum-sugyot" }, s.topics.map(tp => el("li", {},
+        el("b", {}, tp[L].title), " — ", tp[L].gemara,
+        tp[L].halakha ? el("span", { class: "sum-halakha-line" }, " ", el("b", {}, t("sumHalakha")), " ", tp[L].halakha) : null))),
+      el("a", { class: "btn ghost", href: "#daf/" + toRoute(`${d.masechet} ${d.daf}a`) }, t("toDaf"))));
+  });
 }
 
 // ---------- settings ----------
@@ -967,6 +1012,7 @@ function route() {
   const [name, arg] = location.hash.slice(1).split("/");
   if (name === "daf" && arg) return amudView(fromRoute(decodeURIComponent(arg)));
   if (name === "shas") return shasView(arg && decodeURIComponent(arg).replace(/_/g, " "));
+  if (name === "sum" && arg) return sumView(decodeURIComponent(arg).replace(/_/g, " "));
   return homeView();
 }
 

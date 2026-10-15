@@ -43,8 +43,12 @@ seen = set()
 own = {f"Rashi on {masechet}", f"Tosafot on {masechet}", f"Steinsaltz on {masechet}"}
 for amud in "ab":
     ref = f"{masechet.replace(' ', '_')}.{daf}{amud}"
-    data = get(f"https://www.sefaria.org/api/v3/texts/{ref}?version=hebrew")
-    text = data["versions"][0]["text"]
+    try:
+        data = get(f"https://www.sefaria.org/api/v3/texts/{ref}?version=hebrew")
+        text = data["versions"][0]["text"]
+    except Exception:   # the last daf of a masechet may have no amud b
+        if amud == "b": break
+        raise
     he_masechet = data["heIndexTitle"] if "heIndexTitle" in data else data.get("heTitle", "").split(" ")[0]
     per = {}
     for l in get(f"https://www.sefaria.org/api/links/{ref}"):
