@@ -1,0 +1,1624 @@
+{
+ "ref": "Bekhorot 28",
+ "date": "2026-10-16",
+ "he": {
+  "overview": "דף כ״ח עוסק בשלושה נושאים. בעמוד א׳ מסיימת הגמרא את הדרשות ״לך יהיה״ ו״ובשרם״ שמהן למדים שבכור בעל מום ניתן לכהן, ובודקת עד מתי מותר להשהות בכור שנולד בו מום: שנים עשר חודש מלידתו, ושלושים יום משעה שנפל בו המום, והראשונים נחלקים בהסבר ״עד שלא נראה להראותו לחכם״. אחר כך עוברת המשנה לשוחט בכור ואחר כך מראה את מומו, ור׳ יהודה ור׳ מאיר נחלקים אם הדוקין שבעין והמומין שבגוף אסורים מפני שהם משתנים או מפני קנס, ומחלוקת הראשונים היא כמי הלכה. בעמוד ב׳ דנה הגמרא במי שאינו מומחה ונשחט הבכור על פיו (יקבר וישלם רביע לדקה ומחצה לגסה), ומשם עוברת למשנת הדיין שטעה (מה שעשה עשוי וישלם מביתו, ומומחה לבית דין פטור), למעשה ר׳ טרפון בפרה שניטלה האם שלה, ולנוטל שכר לראות בכורות. הראשונים והאחרונים דנים מתי הדין חוזר, מה ההבדל בין שיקול הדעת לדבר משנה, וכיצד נפסקה ההלכה.",
+  "title": "סיכום — בכורות כ״ח"
+ },
+ "en": {
+  "overview": "Daf 28 takes up three subjects. On amud a the Gemara finishes the derivations from 'lecha yihyeh' and 'uvsaram' by which a blemished firstborn is given to the kohen, and asks how long such an animal may be kept: twelve months from its birth, and thirty days from the time the blemish fell on it. The Rishonim differ on how to explain 'until it was seen to be shown to a sage'. The mishnah then moves to one who slaughtered a firstborn and only afterwards showed its blemish: R. Yehuda and R. Meir dispute whether the dukin in the eye and the blemishes of the body are forbidden because they change or as a penalty, and the Rishonim dispute whom the halakha follows. On amud b the Gemara treats one who is not an expert and the firstborn was slaughtered on his word (it is buried and he pays a quarter for small cattle and a half for large), then the mishnah of the judge who erred (what he did stands and he pays from his house; one who is an expert for the court is exempt), the case of R. Tarfon and the cow whose womb was removed, and one who takes wages to examine firstborns. The Rishonim and Acharonim discuss when the judgment is reversed, how a mistake in weighing the matter differs from a mistake in a mishnah, and how the halakha was ruled.",
+  "title": "Summary — Bekhorot 28"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "בדוקין שבעין"
+   ],
+   "he": {
+    "term": "דוקין שבעין",
+    "explanation": "בצל דק, או לובן, שבעין הבהמה. הוא מום שמשתנה מפני צער המיתה, ולכן אם מראים אותו אחרי השחיטה — אסור לכל הדעות, ושאלת הגמרא היא האם כל הדוקין משתנים."
+   },
+   "en": {
+    "term": "Dukin in the eye (a film over the eye)",
+    "explanation": "A thin film or whiteness in the animal's eye. It is a blemish that changes through the pain of death, so if it is shown after slaughter it is forbidden according to all opinions, and the Gemara asks whether all such films change."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28a:13:1",
+    "quote": "טייל\"א כמו הנוטה כדוק שמים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "השבת אבידה לבעלים"
+   ],
+   "he": {
+    "term": "השבת אבידה לבעלים",
+    "explanation": "ההיתר להשהות בכור שנולד בו מום שלושים יום לאחר שנתו, כדי שיימצא כהן שיקבלו; הוא מוסבר כהשבת אבידה לכהן, בעליו האמיתי של הבכור בעל המום."
+   },
+   "en": {
+    "term": "Returning the loss to the owners",
+    "explanation": "The permission to keep a firstborn with a blemish thirty days beyond its year so that a kohen can be found to take it; it is explained as returning a loss to the kohen, who is the true owner of the blemished firstborn."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28a:7:1",
+    "quote": "דשמא אם ביד ישראל הוי האי בכור לא משכח כהן למיתבי ליה ואי שחיט ליה יסריח הבשר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "קנסא קא קניס"
+   ],
+   "he": {
+    "term": "קנסא",
+    "explanation": "עונש שהטילו חכמים, ולא הלכה שנובעת מהמום עצמו. רב נחמן בר יצחק למד ממשנתנו שר׳ מאיר אוסר את הבכור שנשחט שלא על פי מומחה לא מפני בעיה במום אלא כקנס."
+   },
+   "en": {
+    "term": "Kenasa (a penalty)",
+    "explanation": "A penalty imposed by the sages rather than a rule arising from the blemish itself. Rav Nachman bar Yitzchak learned from our mishnah that R. Meir forbids a firstborn slaughtered not on an expert's word not because of a problem with the blemish but as a penalty."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28b:1:2",
+    "quote": "וקנסא קניס גזירה משום דוקין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "לאכחושי סהדי"
+   ],
+   "he": {
+    "term": "לאכחושי סהדי",
+    "explanation": "הנפקא מינה בשאלה אם כל הדוקין משתנים: אם נשחט הבכור שלא על פי מומחה, ועכשיו נראה בו מום קבוע ויש עדים שהמראה היה לו מחיים, האם סומכים על העדים או שהם נחשבים שקרנים."
+   },
+   "en": {
+    "term": "Le'akhoshei sahadei (to discredit witnesses)",
+    "explanation": "The practical difference in the question whether all dukin change: if the firstborn was slaughtered not on an expert's word, a permanent blemish now appears and there are witnesses that the appearance was there while alive, do we rely on the witnesses or are they considered liars."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28b:3:2",
+    "quote": "אם שחטו בלא מומחה והשתא חזינא ליה קבוע וקיימי סהדי דלא נשתנה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 9,
+   "anchors": [
+    "דדאין דינא דגרמי"
+   ],
+   "he": {
+    "term": "דינא דגרמי",
+    "explanation": "החיוב על מי שגורם נזק לממון חבירו בדיבורו, כאשר הדיין חייב על ההפסד שגרם בפסק דינו. ר׳ מאיר מחייב, וזו שאלת הגמרא אם משנת הדיין שטעה היא סתם כר׳ מאיר."
+   },
+   "en": {
+    "term": "Dina d'garmei (liability for a ruling that causes a loss)",
+    "explanation": "Liability for one who causes damage to another's money through his words, as a judge is liable for the loss he caused by his ruling. R. Meir imposes it, and this is why the Gemara asks whether the mishnah of the judge who erred is anonymously like R. Meir."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 28b:15",
+    "quote": "והאי גורם בדבורו לאבד ממון"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 16,
+   "anchors": [
+    "בשיקול הדעת"
+   ],
+   "he": {
+    "term": "שיקול הדעת",
+    "explanation": "טעות בהכרעה בין דעות כשלא נפסקה הלכה: שני תנאים או אמוראים חולקים, והדיין פסק כאחד כשהסוגיה הלכה כאחר. הוא נבדל מטעות בדבר משנה."
+   },
+   "en": {
+    "term": "Shikul hada'at (weighing the matter)",
+    "explanation": "An error of judgment between opinions when no halakha was ruled: two Tannaim or Amoraim disagree and the judge ruled like one when the sugya follows the other. It is distinct from an error in a mishnah."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28b:16:1",
+    "quote": "כגון תרי תנאי או תרי אמוראי דפליגי ולא איתמר הילכתא לא כמר ולא כמר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 14,
+   "anchors": [
+    "מומחה לבית דין"
+   ],
+   "he": {
+    "term": "מומחה לבית דין",
+    "explanation": "דיין מומחה, שפטור מלשלם אם טעה בשיקול הדעת. רש״י מסביר שלא יכול הנידון לטעון נגדו ״למה דנת לי״, כי הוא עצמו אינו בקי בדינים."
+   },
+   "en": {
+    "term": "Mumcheh l'beit din (an expert for the court)",
+    "explanation": "An expert judge, exempt from paying if he erred in weighing the matter. Rashi explains that the litigant cannot argue against him 'why did you judge me', since he himself is not versed in the laws."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 28b:8:1",
+    "quote": "דלא מצי מימר ליה אמאי דיינת ליה הואיל ולא בקי בדיני"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "בכור בעל מום ניתן לכהן: הדרשות ״לך יהיה״ ו״ובשרם״",
+    "gemara": "הגמרא ממשיכה את דברי התנאים בדרשת ״ובשרם יהיה לך״: אחד אומר שמן הפסוק אפשר היה לפרש ״כחזה ושוק של תודה״, ולכן ״לך יהיה״ הוסיף הויה אחרת בבכור; אחר אומר ש״יהיה לך״ מלמד על בכור בעל מום שניתן לכהן, מה שלא מצינו בכל התורה; ואחר דורש ״ובשרם״ — אחד תם ואחד בעל מום; ואחר אומר ש״ובשרם״ נאמר על בכורות כל ישראל.",
+    "halakha": "הרמב״ם (הלכות בכורות א:ג): בכור בעל מום, בין שנולד במומו ובין שנפל בו מום, הרי הוא לכהן, והכהן אוכלו, מוכרו או מאכילו לכל מי שירצה."
+   },
+   "en": {
+    "title": "A blemished firstborn is given to the kohen: the derivations from 'lecha yihyeh' and 'uvsaram'",
+    "gemara": "The Gemara continues the Tannaim's derivations from 'uvsaram yihyeh lach': one says the verse could have been read as 'like the breast and thigh of a thanksgiving offering', so 'lecha yihyeh' adds another period of eating for the firstborn; another says 'yihyeh lach' teaches that a blemished firstborn is given to the kohen, which we do not find anywhere else in the Torah; another reads 'uvsaram' as 'both unblemished and blemished'; and another says 'uvsaram' speaks of the firstborns of all Israel.",
+    "halakha": "Rambam (Firstlings 1:3): a blemished firstborn, whether born with the blemish or blemished later, belongs to the kohen, who may eat it, sell it or feed it to anyone he wishes."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:1:1",
+     "quote": "שני ימים נפקא ליה מיהיה לך",
+     "he": "הדורש את שני הימים לומד אותם מ״יהיה לך״, שמשמע הויה אחרת מלבד זו של חזה ושוק של תודה.",
+     "en": "The one who derives the two days learns them from 'yihyeh lach', which implies another period of being beyond that of the thanksgiving offering's breast and thigh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:3:1",
+     "quote": "שיתננו לכהן אלא מרבויא דהאי יהיה לך נפקא",
+     "he": "״שלא מצינו בכל התורה״ — שבכור בעל מום יינתן לכהן, ולמדים זאת רק מהריבוי ב״יהיה לך״.",
+     "en": "'That we do not find anywhere in the Torah': that a blemished firstborn be given to the kohen; it is learned only from the extension in 'yihyeh lach'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:4:1",
+     "quote": "לשון רבים משמע אחד תם ואחד בעל מום",
+     "he": "הדורש ״ובשרם״ לומד מלשון הרבים שנכללים בו גם תם וגם בעל מום.",
+     "en": "The one who expounds 'uvsaram' learns from the plural that it includes both an unblemished and a blemished firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:4:2",
+     "quote": "לא משמע אלא תמימים והא דנקט לשון רבים דאבכורות דכולהו ישראל קאי",
+     "he": "לדעת הדורש האחר, ״ובשרם״ משמעו תמימים בלבד, ולשון הרבים נאמר משום שהפסוק מדבר בבכורות כל ישראל.",
+     "en": "On the other view 'uvsaram' means only unblemished ones, and the plural is used because the verse speaks of the firstborns of all Israel."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28a:3:1",
+     "quote": "אם הוממו שהמזבח מפסיד חלקו מפסיד גם לכהן אבל בכור אפילו בעל מום דכהן הוא",
+     "he": "ר״י מפרש ״שלא מצינו בכל התורה״ שיינתן לכהן כולו: בחטאת ואשם שנפסלו על המזבח גם הכהן מפסיד, אבל בכור שהוממו — אף בעל מום הוא של הכהן.",
+     "en": "R. Yitzchak explains 'that we do not find in the whole Torah': in a sin-offering or guilt-offering that was blemished, the altar loses its share and the kohen loses too, but a firstborn, even blemished, is still the kohen's."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28a:4:1",
+     "quote": "דקאי אבכור שור וכשב ועז דכתיב לעיל מיניה",
+     "he": "בזבחים מתרץ ר׳ ישמעאל ש״ובשרם״ קאי על בכור שור, כשב ועז שנאמרו לפניו, ושינוי אחר הוא.",
+     "en": "In Zevachim R. Yishmael answers that 'uvsaram' refers to the firstborn ox, sheep and goat written just before it, and that is another resolution."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:2",
+     "quote": "שלא מצינו בכל התורה דבכור בעל מום לכהן אלא מהכא",
+     "he": "בכור בעל מום ניתן לכהן אין לו מקור בתורה אלא מכאן.",
+     "en": "That a blemished firstborn goes to the kohen has no source in the Torah except from here."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:1",
+     "quote": "איכא למימר בחזה ושוק של תודה",
+     "he": "אפשר היה לפרש ״כחזה ושוק״ על חזה ושוק של תודה — שנאכל ליום ולילה בלבד.",
+     "en": "One could have said it means the breast and thigh of the thanksgiving offering, which is eaten for only a day and a night."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:3",
+     "quote": "הרי הוא לכהן אם רצה אוכלו בכל מקום או מוכרו או מאכילו למי שירצה",
+     "he": "בכור בעל מום הוא נכסי כהן, והכהן רשאי לאכלו בכל מקום או למכרו או להאכילו למי שירצה.",
+     "en": "A blemished firstborn is the kohen's property, and he may eat it anywhere, sell it, or feed it to whom he wishes."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 59:1",
+     "quote": "בכור אפילו בעל מום ניתן לכהן",
+     "he": "הוא מביא את הדין כפי שנלמד בדף זה, בד״ה ״שלא״.",
+     "en": "He records this rule as learned on this page, in the dibbur beginning 'she-lo'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Numbers 18:18:1",
+     "quote": "מכאן ילפינן דאף בכור בעל מום ינתן לכהן",
+     "he": "מ״ובשרם יהיה לך״ למדים שגם בכור בעל מום ניתן לכהן.",
+     "en": "From 'uvsaram yihyeh lach' we learn that even a blemished firstborn is given to the kohen."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:18:1",
+     "quote": "לימד על בכור בעל מום שניתן לכהן",
+     "he": "״ובשרם״ — אחד תם ואחד בעל מום; זה מלמד על בכור בעל מום שניתן לכהן.",
+     "en": "'Uvsaram' covers both an unblemished and a blemished firstborn, and teaches that a blemished firstborn is given to the kohen."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Trespass 1:9:1",
+     "quote": "ובשרם תרי משמע לימד על בכור בעל מום שמתנה לכהן",
+     "he": "״ובשרם״ בלשון רבים משמע שני דברים, ולימד על בכור בעל מום שהוא מתנה לכהן.",
+     "en": "'Uvsaram', in the plural, implies two things, and teaches that a blemished firstborn is a gift to the kohen."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 1:19:1",
+     "quote": "דובשרם יהיה לך מיירי בבעל מום דמזה ילפינן דהוא מתנה לכהן",
+     "he": "הוא מזכיר את מה שאמרו בפרק רביעי של בכורות, ש״ובשרם יהיה לך״ מדבר בבעל מום ומזה למדים שהוא מתנה לכהן.",
+     "en": "He recalls what was said in the fourth chapter of Bekhorot, that 'uvsaram yihyeh lach' speaks of a blemished firstborn and from it we learn that it is a gift to the kohen."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    11
+   ],
+   "he": {
+    "title": "כמה זמן מותר להשהות בכור שנולד בו מום: שנה ושלושים יום",
+    "gemara": "המשנה אומרת: נולד מום בתוך שנתו, רשאי לקיימו כל שנים עשר חודש. הגמרא שואלת אם גם אחרי שנתו יש שלושים יום, או שאם נולד המום אחרי שנתו יש רק שלושים יום. הברייתא מלמדת שבזמן הזה, אחרי שנראה להראותו לחכם, נולד מום בתוך שנתו — שנים עשר חודש; אחרי שנתו — אפילו יום אחד לא, אבל מפני השבת אבידה לבעלים רשאי שלושים יום. נשאלת עוד אם שלושים הימים באים אחרי השנה או לפניה; מהברייתא ״נולד לו מום בחמישה עשר יום בתוך שנתו, משלימים לו חמישה עשר יום אחר שנתו״ רוצים להביא ראיה לר׳ אלעזר, שנותנים שלושים יום משעת המום. לדעה אחרת ר׳ אלעזר לומד זאת מ״שנה בשנה״, אך נדחה: ״השלמה — אין, מיהבא — לא״.",
+    "halakha": "השולחן ערוך (יורה דעה שו:ח–ט): נולד מום בתוך שנתו — רשאי לקיימו כל י״ב חודש; נולד בסוף שנתו — שלושים יום מיום שנפל המום, ומשלימים לו אחר שנתו; נולד אחר שנתו — עד שלושים יום ויאכל; בזמן הזה, עד שלא נראה להראותו לחכם, מקיימו שתים ושלוש שנים."
+   },
+   "en": {
+    "title": "How long a firstborn with a blemish may be kept: a year and thirty days",
+    "gemara": "The mishnah says: if a blemish arose within its year, he may keep it the whole twelve months. The Gemara asks whether there are also thirty days after its year, or only thirty days if the blemish arose after its year. The baraita teaches that nowadays, once it is time to show it to a sage, if the blemish arose within its year he may keep it twelve months; after its year, not even one day, but to return the lost item to its owners they said he may keep it thirty days. The Gemara asks further whether the thirty days come after the year or before; from the baraita 'if a blemish arose fifteen days within its year, they complete fifteen days after its year' it tries to support R. Elazar, that thirty days are given from the time of the blemish. In another version R. Elazar derives this from 'shana beshana', but he is refuted: 'completing, yes; giving, no'.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 306:8–9): if a blemish arose within its year he may keep it all twelve months; if at the end of its year, thirty days from the day the blemish fell, completing them after its year; if after its year, only thirty days and it is eaten; nowadays, until it is time to show it to a sage, he may keep it two or three years."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:5:2",
+     "quote": "עד שיהו לו שנים עשר חדש משנולד",
+     "he": "״כל י״ב חדש״ נמנים מלידת הבכור.",
+     "en": "The 'twelve months' are counted from the firstborn's birth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:5:3",
+     "quote": "רשאי לקיימו שלשים יום משנולד המום דלאחר שנתו",
+     "he": "נולד המום אחרי שנתו — מקיימו שלושים יום מלידת המום.",
+     "en": "If the blemish arose after its year, he keeps it thirty days from the birth of the blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:6:2",
+     "quote": "שלא נפל בו מום אחר שנתו",
+     "he": "״עד שלא נראה להראותו לחכם״ פירושו: שלא נפל בו מום אחרי שנתו.",
+     "en": "'Until it was seen to be shown to a sage' means: that no blemish fell on it after its year."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:7:1",
+     "quote": "דשמא אם ביד ישראל הוי האי בכור לא משכח כהן למיתבי ליה ואי שחיט ליה יסריח הבשר",
+     "he": "״השבת אבידה לבעלים״ היא לכהן: אם הבכור ביד ישראל ולא ימצא כהן לתת לו, ואם ישחטנו יסריח הבשר — לכן הותרו שלושים יום.",
+     "en": "'Returning a loss to the owner' is to the kohen: if the firstborn is with an Israelite and he finds no kohen to give it to, and if he slaughters it the meat will spoil — therefore thirty days are permitted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:9:1",
+     "quote": "דלית ליה אלא השלמה כדקתני בברייתא",
+     "he": "אם נולד המום בתוך שנתו אין נותנים לו שלושים אחר שנתו, אלא רק השלמה, כפי שהברייתא אומרת.",
+     "en": "If the blemish arose within its year it is not given thirty days after its year, but only a completion, as the baraita says."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:10:1",
+     "quote": "שלשים יום בשנה חשובין שנה לדברי הכל",
+     "he": "שלושים יום בשנה נחשבים שנה לדברי הכל, כמבואר בראש השנה.",
+     "en": "Thirty days in a year count as a year according to all, as explained in Rosh Hashanah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:11:1",
+     "quote": "מיהבא שלשים יום שלימים לא יהבינן",
+     "he": "״מיהבא — לא״: אין נותנים שלושים יום שלמים.",
+     "en": "'Giving — no': we do not give a full thirty days."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28a:6:1",
+     "quote": "שלא נזדמן לו חכם אחר שנפל בו מום שאין זקוק להוליכו במקום רחוק",
+     "he": "תוספות מקשים על רש״י שאין זה ״רשאי״ אלא ״יקיימנו״, ומפרשים: שלא נזדמן לו חכם אחרי שנפל בו מום, ואינו חייב להוליכו למקום רחוק.",
+     "en": "Tosafot ask against Rashi that this would be 'must keep', not 'may keep', and explain: that no sage was available after the blemish fell, and he need not take it to a distant place."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28a:7:1",
+     "quote": "ואומר רבי דמיירי ביד כהן וא\"צ עכשיו לבשר ונתנו לו חכמים זמן ל' יום אבל ישראל לעולם ממתין עד שימצא כהן",
+     "he": "רבנו תם אומר שהכוונה לבכור שביד כהן שאינו צריך עכשיו לבשר, ובו הותרו שלושים יום; ישראל ממתין תמיד עד שימצא כהן.",
+     "en": "Rabbeinu Tam says it refers to a firstborn in a kohen's hand who does not now need the meat; the sages gave him thirty days. An Israelite always waits until a kohen is found."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:5",
+     "quote": "רשאי לקיימו ל' יום דבין כך ובין כך שמא יבא כהן",
+     "he": "מפני השבת אבידה לבעלים התירו שלושים יום, שאולי יבוא כהן בינתיים.",
+     "en": "For the sake of returning the loss to the owner they allowed thirty days, since a kohen may come in the meantime."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:4",
+     "quote": "קודם שיפול בו מום רשאי לקיימו ב' או ג' שנים אם אין שם כהן",
+     "he": "עד שלא נראה להראותו לחכם — קודם שנפל בו מום — מקיימו שתים או שלוש שנים אם אין שם כהן.",
+     "en": "Until it was to be shown to a sage, that is before a blemish fell on it, he may keep it two or three years if there is no kohen there."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:6",
+     "quote": "אלמא דנותנין לו ל' אחר מומו ולא ל' אחר שנתו",
+     "he": "מהברייתא למדים שנותנים לו שלושים יום אחרי המום ולא שלושים אחרי השנה.",
+     "en": "From the baraita we learn that he is given thirty days after the blemish, not thirty after the year."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:9",
+     "quote": "דלא יהבינן ליה לאחר שנתו כלום",
+     "he": "״השלמה — אין, מיהבא — לא״: אין נותנים לו אחר שנתו כלום.",
+     "en": "'Completing, yes; giving, no': nothing is given to him after its year."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:2:2",
+     "quote": "אמר קרא לפני ה' אלהיך תאכלנו שנה בשנה איזהו שנה שנכנסת בחבירתה הוי אומר זו שנה של בכור",
+     "he": "הרא״ש מביא את הגמרא: ״שנה בשנה״ — איזו שנה שנכנסת בחברתה, זו שנה של בכור.",
+     "en": "The Rosh quotes the Gemara: 'shana beshana' — which year enters into its neighbor? That is the firstborn's year."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:9",
+     "quote": "נולד לו מום בסוף שנתו מותר לקיימו שלשים יום מיום שנפל בו המום",
+     "he": "נולד בו מום בסוף שנתו — מותר לקיימו שלושים יום מיום שנפל בו המום, אף אם הוא מתאחר אחרי שנתו.",
+     "en": "If the blemish arose at the end of its year, he may keep it thirty days from the day it fell, even if that extends past its year."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:11",
+     "quote": "ועד שלא נראה להראותו לחכם רשאי לקיימו שתים ושלש שנים",
+     "he": "עד שלא נראה להראותו לחכם — רשאי לקיימו שתיים ושלוש שנים.",
+     "en": "Until it is time to show it to a sage he may keep it two or three years."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 306",
+     "quote": "ולא יתננו לו מיד כשיולד אלא הבעלים חייבין לטפל בו בבהמה דקה ל' יום ובגסה נ' יום",
+     "he": "הטור: אין נותנים את הבכור לכהן מיד כשנולד, אלא הבעלים חייבים לטפל בו שלושים יום בבהמה דקה וחמישים בגסה.",
+     "en": "The Tur: the firstborn is not given to the kohen immediately at birth, but the owners must care for it thirty days for small cattle and fifty for large."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 306:9",
+     "quote": "ואם נולד בו מום לאחר שנתו מקיימו ל' יום",
+     "he": "נולד בו מום בתוך שנתו — רשאי לקיימו כל י״ב חודש; לאחר שנתו — מקיימו שלושים יום.",
+     "en": "If the blemish arose within its year he may keep it twelve months; after its year, thirty days."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 306:8",
+     "quote": "משלימים לו ט\"ו יום אחר שנתו",
+     "he": "נפל בו מום חמישה עשר יום לפני גמר שנתו — משלימים לו חמישה עשר יום אחר שנתו.",
+     "en": "If a blemish fell fifteen days before the end of its year, they complete fifteen days for him after its year."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 306:16:1",
+     "quote": "ובזמן הזה ישהנו עד שיפול בו מום",
+     "he": "הבית יוסף מציין שהדין ״בזמן הזה ישהנו עד שיפול בו מום״ פשוט בפרק עד כמה.",
+     "en": "The Beit Yosef notes that the rule 'nowadays he keeps it until a blemish falls on it' is plain in the chapter 'Ad Kamah'."
+    },
+    {
+     "who": {
+      "he": "שפתי כהן",
+      "en": "Siftei Kohen"
+     },
+     "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 306:15:1",
+     "quote": "דהיינו שלא נזדמן לו חכם ואין זקוק להוליכו במקום שהחכם שם",
+     "he": "הש״ך: ״עד שלא נראה״ הוא שלא נזדמן לו חכם, ואינו חייב להוליכו למקום החכם (כך כתבו הסמ״ג והתוספות).",
+     "en": "'Until it was seen' means that no sage was available, and he need not take it to the sage's place (so the Smag and Tosafot wrote)."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 1:11:1",
+     "quote": "כל שלא הראהו מותר לקיימו",
+     "he": "מלשון התוספתא (״עד שלא הראהו למומחה״) משמע שכל זמן שלא הראהו מותר לקיימו.",
+     "en": "From the Tosefta's wording, as long as he has not shown it to an expert he may keep it."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28a:5",
+     "quote": "מבואר להדיא כדעת הב\"י ביו\"ד סימן ש\"ו ודלא כהש\"ך",
+     "he": "רש״י ״כל י״ב חדש — משנולד״ מבואר כדעת הב״י ביורה דעה שו, ולא כש״ך, ותמה על הש״ך שהעלים עין מפירוש רש״י.",
+     "en": "Rashi's 'twelve months — from birth' accords with the Beit Yosef in Yoreh De'ah 306 and not with the Shakh, and he wonders how the Shakh overlooked Rashi's words."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28a:2",
+     "quote": "לא שייך זה בנולד לו מום בתוך שנתו שהרי די לו שהות",
+     "he": "רק מפני השבת אבידה התירו שלושים יום, ולכן לא שייך זה כשנולד המום בתוך שנתו, שהרי יש לו די שהות.",
+     "en": "The thirty days were permitted only for returning the loss, so that does not apply when the blemish arose within its year, for he has enough time."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 15:13",
+     "quote": "בין תם בין בע\"מ מותר לאכלו שנה וחדש בתוך שנה שנייה",
+     "he": "לדעתו מן התורה, בין תם ובין בעל מום, מותר לאכלו שנה וחודש בתוך שנה שנייה, וחכמים החמירו מדרבנן.",
+     "en": "In his view, from the Torah both an unblemished and a blemished firstborn may be eaten a year and a month into the second year; the sages made it stricter by their own enactment."
+    },
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Numbers 18:18:1",
+     "quote": "נראה דאסמכתא בעלמא הוא דקרא לא איירי אלא בתם",
+     "he": "הוא מביא את הרא״ם בספר היראים: ההלכה שבכור נאכל בתוך שנתו היא אסמכתא בלבד, שכן הפסוק מדבר רק בתם.",
+     "en": "He cites the Re'em in Sefer Yereim: that a firstborn is eaten within its year is merely an asmakhta, since the verse speaks only of an unblemished one."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    12,
+    4
+   ],
+   "he": {
+    "title": "השוחט את הבכור ואחר כך מראה את מומו: ר׳ יהודה ור׳ מאיר",
+    "gemara": "המשנה: השוחט את הבכור ומראה את מומו — ר׳ יהודה מתיר, ור׳ מאיר אומר: הואיל ונשחט שלא על פי מומחה — אסור. רבה בר בר חנה: בדוקין שבעין הכל מודים שאסור, מפני שהם משתנים; נחלקו במומין שבגוף, ר׳ מאיר גוזר אותם אטו דוקין שבעין, ור׳ יהודה לא גוזר. רב נחמן בר יצחק: ממשנתנו מוכח שר׳ מאיר קנס קנס. הגמרא שואלת אם כל הדוקין משתנים או שיש שמשתנים ויש שלא, ולמה זה נפקא מינה — ״לאכחושי סהדי״; מדברי רבי יאשיה דמן אושא (״בא ואראך״) מוכח שיש משתנים ויש שלא.",
+    "halakha": "השולחן ערוך (יורה דעה שי:א): השוחט את הבכור שלא על פי חכם, אפילו הראהו לחכם אחר כך ומצא בו מום — אסור. הטור מביא מחלוקת בפסק: השאלתות והר״ש בן חפני פסקו כר׳ יהודה, בעל הלכות גדולות והרמב״ם והרא״ש כר׳ מאיר."
+   },
+   "en": {
+    "title": "One who slaughters a firstborn and afterwards shows its blemish: R. Yehuda and R. Meir",
+    "gemara": "The mishnah: one who slaughters a firstborn and shows its blemish — R. Yehuda permits; R. Meir says: since it was slaughtered not on the word of an expert, it is forbidden. Rabbah bar bar Chana: for dukin in the eye all agree it is forbidden, since they change; they dispute only blemishes of the body: R. Meir decrees them because of the dukin in the eye, and R. Yehuda does not decree. Rav Nachman bar Yitzchak: from our mishnah it is evident that R. Meir imposed a penalty. The Gemara asks whether all dukin change or some do and some do not, and what the difference is — 'to discredit witnesses'; from R. Yoshiyah of Usha's words ('come and I will show you') it is evident that some change and some do not.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 310:1): one who slaughters a firstborn without a sage's word, even if he showed it to a sage afterwards and a blemish was found, it is forbidden. The Tur records a dispute in the ruling: the She'iltot and R. Shmuel ben Chofni ruled like R. Yehuda; the Baal Halakhot Gedolot, the Rambam and the Rosh like R. Meir."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:12:1",
+     "quote": "לאחר שחיטה ונמצא קבוע",
+     "he": "״והראה מומו״ — לאחר שחיטה ונמצא מום קבוע.",
+     "en": "'And showed its blemish' — after slaughter and it was found to be a permanent blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:13:1",
+     "quote": "טייל\"א כמו הנוטה כדוק שמים",
+     "he": "דוקין הם ״טייל״א״, כמו ״הנוטה כדוק שמים״.",
+     "en": "Dukin are 'tayla' ('film'), like 'who stretches out the heavens as a dok'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:14:1",
+     "quote": "מפני צער מיתה משתנה העין ואף על גב דהשתא מיתחזי קבוע",
+     "he": "מפני צער המיתה משתנה העין, ואף על פי שעכשיו נראה קבוע, אילו ראהו מחיים היה נראה עובר.",
+     "en": "Because of the pain of death the eye changes, and although now it looks permanent, had he seen it alive it would have looked temporary."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28a:14:3",
+     "quote": "גזירה למומין שבגוף אף על פי שאין משתנין",
+     "he": "״מפני המשתנין״ — מפני דוקין שבעין; גוזרים על מומין שבגוף אף על פי שאינם משתנים.",
+     "en": "'Because of those that change' — because of dukin in the eye; they decree the blemishes of the body too even though they do not change."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:1:2",
+     "quote": "וקנסא קניס גזירה משום דוקין",
+     "he": "ר׳ מאיר לא מצא ברעיה פגם אלא קנס שנשחט שלא על פי מומחה; ואילו היה מדובר בדוקין היה אומר ״הואיל ומשתנין״, ולכן זה קנס וגזירה משום דוקין.",
+     "en": "R. Meir found no defect in it but penalized that it was slaughtered not on the word of an expert; if it were about dukin he would say 'since they change', so it is a penalty and a decree because of dukin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:2:1",
+     "quote": "בדוקין גופייהו איכא דמשתני ואיכא דלא משתני",
+     "he": "השאלה: האם כל הדוקין משתנים, או שבדוקין עצמם יש משתנים ויש שלא, ועם זאת גוזרים על מומי הגוף משום אלה המשתנים.",
+     "en": "The question: do all dukin change, or among the dukin some change and some do not, while the bodily blemishes are decreed because of those that change."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:3:4",
+     "quote": "ושרי לר' יהודה דלא קניס",
+     "he": "אם יש דוקין שלא משתנים, סומכים על העדים, והבכור מותר לר׳ יהודה שאינו קונס.",
+     "en": "If some dukin do not change, we rely on the witnesses, and the firstborn is permitted according to R. Yehuda who does not penalize."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28a:13:1",
+     "quote": "ובשאלתות דרב אחאי פירש דהלכה כמותו דוקא בגזירותיו ולא בקנסא",
+     "he": "בשאלתות דרב אחאי מפרשים שהלכה כר׳ מאיר דווקא בגזירותיו ולא בקנסותיו, וגם סוגיית שמעתין כר׳ יהודה.",
+     "en": "The She'iltot of Rav Achai explain that the halakha follows R. Meir only in his decrees and not in his penalties, and the sugya here also follows R. Yehuda."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:13",
+     "quote": "מראה אותם לאחר שחיטה דברי הכל אסור",
+     "he": "בדוקין שבעין, אם מראה אותם לאחר שחיטה — לדברי הכל אסור, מפני שמשתנים לאחר מיתה.",
+     "en": "With dukin in the eye, if he shows them after slaughter, all agree it is forbidden, since they change after death."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:14",
+     "quote": "דוקין שבעין דקניס מומין שבגוף דלא מישתני אטו שבעין",
+     "he": "ר׳ מאיר קונס מומין שבגוף, שאינם משתנים, מחמת דוקין שבעין.",
+     "en": "R. Meir penalizes bodily blemishes, which do not change, because of dukin in the eye."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28a:12",
+     "quote": "והוי מום קבוע אפילו הכי קניס רבי מאיר דאסור",
+     "he": "אף על פי שהמום עכשיו קבוע, ר׳ מאיר קונס ואוסר, הואיל ולא הראהו לפני שחיטה.",
+     "en": "Although the blemish is now permanent, R. Meir penalizes and forbids it since he did not show it before slaughter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:2",
+     "quote": "ואתו סהדי ואמרי דודאי כי האי גוונא חזיניה קודם שנשחט",
+     "he": "״לאכחושי סהדי״ — כשנראה עכשיו מום קבוע ועדים באים ואומרים שבוודאי ראו אותו כך לפני השחיטה.",
+     "en": "'To discredit witnesses' — when a permanent blemish now appears and witnesses come and say they certainly saw it so before slaughter."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:3:2",
+     "quote": "וכן דעת הרמב\"ן ז\"ל והביא ראיה מדקתני הואיל ונשחט ולא קתני הואיל ושוחטו משמע אפי' שחטו אחר ובהא לא שייך קנסא אלא גזירה",
+     "he": "הרא״ש מביא את הרמב״ן: הראיה שזו גזירה ולא קנס — שהמשנה אומרת ״הואיל ונשחט״ ולא ״הואיל ושוחטו״, וממילא גם כששחטו אחר, ובזה אין קנס.",
+     "en": "The Rosh cites the Ramban: the proof that it is a decree and not a penalty is that the mishnah says 'since it was slaughtered' and not 'since he slaughters it', implying even if another slaughtered it, where a penalty does not apply."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 502:1",
+     "quote": "דקיי\"ל כר' יהודה דר\"מ ור' יהודה הלכה כר' יהודה",
+     "he": "רבינו יצחק בר שמואל: קיימא לן כר׳ יהודה, שהרי בר״מ ור׳ יהודה הלכה כר׳ יהודה.",
+     "en": "R. Yitzchak bar Shmuel: we hold like R. Yehuda, for in a dispute of R. Meir and R. Yehuda the halakha follows R. Yehuda."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:4",
+     "quote": "הואיל ונשחט שלא על פי ממחה הרי זה אסור ויקבר כבכור שמת",
+     "he": "השוחט בכור ואחר כך הראה את מומו, אף על פי שהוא מום גלוי שאינו משתנה בשחיטה — הואיל ונשחט שלא על פי מומחה אסור ויקבר כבכור שמת.",
+     "en": "One who slaughtered a firstborn and afterwards showed its blemish, even a visible blemish that does not change in slaughter, since it was slaughtered not on an expert's word it is forbidden and buried like a firstborn that died."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 310",
+     "quote": "ובעל הלכות פסק כר\"מ וכן כתב הרמב\"ם וכן הוא מסקנת א\"א הרא\"ש",
+     "he": "הטור: בעל הלכות גדולות פסק כר׳ מאיר, וכן כתב הרמב״ם, וכן מסקנת אביו הרא״ש; ואילו השאלתות והר״ש בן חפני פסקו כר׳ יהודה.",
+     "en": "The Tur: the Baal Halakhot Gedolot ruled like R. Meir, the Rambam wrote so, and so is the conclusion of his father the Rosh; whereas the She'iltot and R. Shmuel ben Chofni ruled like R. Yehuda."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 310:1",
+     "quote": "השוחט את הבכור שלא על פי חכם אפי' הראהו לחכם אח\"כ ומצא בו מום אסור",
+     "he": "השוחט בכור שלא על פי חכם, אפילו הראהו אחר כך לחכם ומצא בו מום — אסור, וכן בזמן הזה אם לא הראהו לשלושה בני הכנסת.",
+     "en": "One who slaughters a firstborn without a sage, even if he afterwards showed it to a sage and a blemish was found, it is forbidden; so too nowadays if he did not show it to three members of the synagogue."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 3:4:1",
+     "quote": "פלוגתא דתנאי ופסק כר״מ",
+     "he": "הכסף משנה: זו מחלוקת תנאים והרמב״ם פסק כר׳ מאיר, וכך הרא״ש בשם בעל הלכות גדולות והרמב״ן, משום שהלכה כר׳ מאיר בגזירותיו.",
+     "en": "The Kessef Mishneh: this is a Tannaitic dispute and the Rambam ruled like R. Meir, as did the Rosh in the name of the Baal Halakhot Gedolot and the Ramban, because the halakha follows R. Meir in his decrees."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 310:1:1",
+     "quote": "לאו דוקא גזירה קאמר אלא קנסא הוא כדקא\"ר נחמן בר יצחק",
+     "he": "הב״ח: דעת השאלתות לפסוק כר׳ יהודה, כי לא גזירה אלא קנס, כדברי רב נחמן בר יצחק, ואין הלכה כר׳ מאיר בקנסותיו.",
+     "en": "The Bach: the She'iltot rule like R. Yehuda because it is not a decree but a penalty, as Rav Nachman bar Yitzchak said, and the halakha does not follow R. Meir in his penalties."
+    },
+    {
+     "who": {
+      "he": "תשובות בית חדש",
+      "en": "Teshuvot Bayit Chadash"
+     },
+     "ref": "Teshuvot Bayit Chadash, HaChadashot 60:3",
+     "quote": "ואף לר\"מ גופי' דסבר אסור טעמו משום דגזרינן וקנסינן לי' אטו מומין דמשתנים",
+     "he": "גם ר׳ מאיר עצמו אוסר מפני שגוזרים וקונסים אטו מומין שמשתנים, ולא במקום שהדבר מותר לגמרי.",
+     "en": "Even R. Meir himself forbids because we decree and penalize on account of blemishes that change, not where the matter is entirely permitted."
+    },
+    {
+     "who": {
+      "he": "יד אברהם",
+      "en": "Yad Avraham"
+     },
+     "ref": "Yad Avraham on Shulchan Arukh, Yoreh Deah 18:3",
+     "quote": "דאם לא הראה לחכם ונשחט אסור משום גזירה דגזרינן מומין שבגוף שאין משתנין לאחר שחיטה",
+     "he": "הוא מזכיר שבבכורות כח נאמר שאם לא הראה לחכם ונשחט — אסור משום גזירה, אף שבתחילה התקנה להראות לחכם היתה מפני כבודו.",
+     "en": "He recalls that in Bekhorot 28 it says that if he did not show it to a sage and it was slaughtered, it is forbidden by a decree, even though the original enactment to show it to a sage was for his honor."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    7
+   ],
+   "he": {
+    "title": "מי שאינו מומחה ונשחט הבכור על פיו: קבורה ותשלום רביע וחצי",
+    "gemara": "המשנה: מי שאינו מומחה, וראה את הבכור ונשחט על פיו — יקבר וישלם מביתו. הגמרא שואלת אם זו סתם משנה כר׳ מאיר, ומשיבה: דילמא בדוקין שבעין ודברי הכל. נשנה: משלם רביע לדקה ומחצה לגסה; רב פפא: זה הפסד מרובה וזה מועט; ושואלים: אם כן, לפום פסידא ישלם; רב הונא בר מנוח בשם רב אחא בר איקא: משום גזירת מגדלי בהמה דקה נגעו בה.",
+    "halakha": "השולחן ערוך (יורה דעה שי:ג): מי שאינו מומחה וראה את הבכור ונשחט על פיו — יקבר וישלם מביתו; בארץ ישראל משלם בגסה חצי דמיו ובדקה רביע דמיו, ובחוץ לארץ — חצי דמיו בין בדקה ובין בגסה; ובזמן הזה משלם חצי גם בדקה."
+   },
+   "en": {
+    "title": "One who is not an expert and the firstborn was slaughtered on his word: burial and payment of a quarter or a half",
+    "gemara": "The mishnah: one who is not an expert, who looked at the firstborn and it was slaughtered on his word — it is buried and he pays from his house. The Gemara asks whether this is an anonymous mishnah like R. Meir, and answers: perhaps it is about dukin in the eye, where all agree. A teaching: he pays a quarter for small cattle and a half for large; Rav Pappa: this is a large loss and this a small one; they ask: if so, he should pay according to the loss; Rav Huna bar Manoach in the name of Rav Acha bar Ika: because of the decree on raisers of small cattle they affected it.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 310:3): one who is not an expert and looked at the firstborn and it was slaughtered on his word — it is buried and he pays from his house; in Eretz Yisrael he pays half its value for large cattle and a quarter for small, and outside it half for both; nowadays he pays half even for small."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:5:1",
+     "quote": "דקתני יקבר ואע\"ג דהשתא מיתחזי קבוע",
+     "he": "״לימא תנן סתמא כר׳ מאיר״ — שהרי שנינו ״יקבר״ אף על פי שעכשיו נראה קבוע.",
+     "en": "'Shall we say the mishnah is anonymously like R. Meir' — for we learned 'it is buried' even though it now looks permanent."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:6:1",
+     "quote": "משלם מחצה דממון המוטל בספק הוא",
+     "he": "משלם מחצה — כי הוא ממון המוטל בספק: יש לומר שהפסידו את כולו, ויש לומר שלא הפסידו דבר שאולי המום לא היה מתירו.",
+     "en": "He pays a half because it is money lying in doubt: one can say he caused the whole loss, and one can say he caused nothing, since perhaps the expert would not have permitted it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:7:2",
+     "quote": "משום טורח מגדלי בהמה דקה שיש בה טורח גדול לגדלה",
+     "he": "״גזירת מגדלי בהמה דקה״ — משום הטורח הגדול שבגידולה, ולכן לא נשלם אלא רביע.",
+     "en": "'The decree on raisers of small cattle' — because of the great toil of raising it, so only a quarter is paid."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:7:2",
+     "quote": "קנסוהו חכמים דלא לישקל אלא ריבעא",
+     "he": "לפירוש אחר: מגדלי בהמה דקה עוברים על דברי חכמים (שאין מגדלים בהמה דקה בארץ ישראל), וקנסו אותם שלא יקבלו אלא רביע.",
+     "en": "Another explanation: raisers of small cattle transgress the words of the sages (who forbade raising small cattle in Eretz Yisrael), so they penalized them to receive only a quarter."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28b:6:1",
+     "quote": "ששיערו חכמים דאינו שוה יותר כ\"ז שעומד בספק שעדיין לא הותר",
+     "he": "תוספות חולקים על רש״י: זו תקנת חכמים, וההסבר הוא ששיערו חכמים שהבכור אינו שווה יותר כל עוד הוא עומד בספק שעדיין לא הותר.",
+     "en": "Tosafot disagree with Rashi: it is the sages' enactment, and the explanation is that the sages estimated it is not worth more while it stands in doubt, not yet permitted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28b:7:1",
+     "quote": "שהחמירו עליהם חכמים שלא לגדלם כי אם בחורשין חוץ ליישוב",
+     "he": "״גזירת מגדלי בהמה דקה״ — שהחמירו חכמים שלא לגדלה אלא בחורשים מחוץ ליישוב, וגידולה כרוך בטורח גדול.",
+     "en": "'The decree on raisers of small cattle' — the sages were strict that it may only be raised in woods outside settled areas, and raising it involves great toil."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:7",
+     "quote": "דהוי ממון מוטל בספק הואיל ואיכא דוקין דלא משתני",
+     "he": "יש אומרים שמשלם מחצה ולא יותר משום שהוא ממון מוטל בספק, הואיל ויש דוקין שאינם משתנים.",
+     "en": "Some say he pays a half and no more because it is money lying in doubt, since some dukin do not change."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:12",
+     "quote": "דאסור לגדל בהמה דקה בא\"י",
+     "he": "״לא משום קנס מגדלי בהמה דקה״ — כי אסור לגדל בהמה דקה בארץ ישראל.",
+     "en": "'Not because of the penalty on raisers of small cattle' — for it is forbidden to raise small cattle in Eretz Yisrael."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:13",
+     "quote": "ועסקינן דהאי בכור של בהמת כהן הוא והוא גידל הבהמה דקה",
+     "he": "ועוסקים כאן בבכור של בהמת כהן, והכהן הוא שגידל את הבהמה הדקה.",
+     "en": "We are dealing with the firstborn of a kohen's animal, and he is the one who raised the small animal."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:4:2",
+     "quote": "וכתב הרמב\"ן ז\"ל דבחוצה לארץ משלם אף לדקה מחצה",
+     "he": "הרא״ש מביא את הרמב״ן: בחוץ לארץ משלם מחצה אף לדקה.",
+     "en": "The Rosh cites the Ramban: outside Eretz Yisrael he pays a half even for small cattle."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:4:2",
+     "quote": "התם קנסא הוא דקנסי רבנן דלא ליתי למישרי בוכרא אלא מי שהוא מומחה",
+     "he": "במי שאינו מומחה ורואה את הבכור, זה קנס שקנסו חכמים כדי שלא יתיר בכורות אלא מי שהוא מומחה.",
+     "en": "In the case of one who is not an expert and examines a firstborn, it is a penalty the sages imposed so that only an expert will permit firstborns."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:6",
+     "quote": "מפני שקנסו את בעל הבהמה כדי שלא ישהנה ולא יגדל בהמה דקה בארץ ישראל",
+     "he": "הרמב״ם: לא ישלם את כל דמיו משום שקנסו את בעל הבהמה כדי שלא ישהה ולא יגדל בהמה דקה בארץ ישראל.",
+     "en": "The Rambam: he does not pay its whole value because they penalized the animal's owner so that he would not keep or raise small cattle in Eretz Yisrael."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 310",
+     "quote": "ואם הוא בא\"י משלם בגסה חצי דמיו ובדקה רביע דמיו ובח\"ל בין בדקה בין בגסה חצי דמיו",
+     "he": "הטור: בארץ ישראל משלם בגסה חצי דמיו ובדקה רביע, ובחוץ לארץ — חצי בשניהם.",
+     "en": "The Tur: in Eretz Yisrael he pays half for large and a quarter for small, and outside it half for both."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 310:3",
+     "quote": "הילכך אפי' בא\"י אף בדקה משלם חצי דמים",
+     "he": "הואיל ובזמן הזה אין רוב שדות ארץ ישראל של ישראל ומותר לגדל בהמה דקה, משלם חצי דמים אף בדקה ואף בארץ ישראל.",
+     "en": "Since nowadays most of the fields in Eretz Yisrael are not Jewish-owned and it is permitted to raise small cattle, he pays half even for small cattle, even in Eretz Yisrael."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28b:3",
+     "quote": "דלא רצו חכמים לחלק בין מום למום",
+     "he": "בדברי תוספות ״לא פליג בין מום״ — שחכמים לא רצו לחלק בין מום למום ולומר שבמומין שבגוף ישלם כולו ובדוקין רביע.",
+     "en": "In Tosafot's 'he does not distinguish between blemishes' — the sages did not want to distinguish between one blemish and another, saying that for bodily blemishes he pays all and for dukin a quarter."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28b:1",
+     "quote": "והראב\"ד שם פי' כפי' התוספות",
+     "he": "רש״י ״ל״א קנסוהו חכמים״ — כך פירש הרמב״ם, והראב״ד פירש כתוספות; ואין הכרע מהרא״ש לכך.",
+     "en": "Rashi's 'another version: the sages penalized him' — so the Rambam explained, while the Ra'avad explained like Tosafot; the Rosh gives no decisive support."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    11
+   ],
+   "he": {
+    "title": "הדיין שטעה: מה שעשה עשוי וישלם מביתו",
+    "gemara": "המשנה: דן את הדין, זיכה את החייב וחייב את הזכאי, טימא את הטהור וטיהר את הטמא — מה שעשה עשוי וישלם מביתו; ואם היה מומחה לבית דין — פטור מלשלם. הגמרא: האם זו סתם משנה כר׳ מאיר שדן דינא דגרמי? ר׳ אילעא בשם רב: כגון שנשא ונתן ביד. חייב את הזכאי מובן, אך זיכה את החייב — רבינא: כגון שהיה לו משכון ונטלו ממנו; טימא את הטהור — שאגע בהם שרץ; טיהר את הטמא — שערבן עם פירותיו.",
+    "halakha": "השולחן ערוך (חושן משפט כה:ג): אם נשא ונתן ביד — מה שעשה עשוי וישלם מביתו; אם לא נשא ונתן ביד — יחזור הדין; ובהגהה: ויש אומרים שאפילו לא נשא ונתן ביד מה שעשה עשוי."
+   },
+   "en": {
+    "title": "The judge who erred: what he did stands and he pays from his house",
+    "gemara": "The mishnah: one who judged a case, acquitted the liable and held the innocent liable, declared the pure impure or the impure pure — what he did stands and he pays from his house; and if he was an expert for the court he is exempt. The Gemara: is this an anonymous mishnah like R. Meir, who rules dina d'garmei? R. Il'a in the name of Rav: when he carried out the act himself. Holding the innocent liable is understandable, but how does one acquit the liable? Ravina: where he had a pledge and took it from him; declared the pure impure — by touching it with a sheretz; declared the impure pure — by mixing it with his own produce.",
+    "halakha": "Shulchan Arukh (Choshen Mishpat 25:3): if he carried out the act himself — what he did stands and he pays from his house; if he did not — the judgment is reversed; and in the gloss: some say that even if he did not carry it out himself, what he did stands."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:8:1",
+     "quote": "דלא מצי מימר ליה אמאי דיינת ליה הואיל ולא בקי בדיני",
+     "he": "״מומחה לבית דין פטור״ — כי הנידון אינו יכול לומר לו ״למה דנת לי״, הואיל והוא עצמו אינו בקי בדינים.",
+     "en": "'An expert for the court is exempt' — because the litigant cannot say to him 'why did you judge me', since he himself is not versed in the laws."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:10:1",
+     "quote": "שנטל הוא המעות ממנו בידו ופרעו לבעל דין",
+     "he": "״חייב את הזכאי משכחת נשא ונתן ביד״ — שהוא נטל מהנידון את המעות ופרע אותן לבעל הדין.",
+     "en": "'Holding the innocent liable, it is found as nesa venatan beyad' — he himself took the money from him and paid the other litigant."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:10:3",
+     "quote": "וזה פטר את הלוה ונטל את המשכון מיד המלוה והחזירו ללוה",
+     "he": "״שהיה לו משכון״ — זה פטר את הלווה, נטל את המשכון מיד המלווה והחזירו ללווה.",
+     "en": "'He had a pledge' — this one acquitted the borrower, took the pledge from the lender's hand and returned it to the borrower."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:11:1",
+     "quote": "ונטל שרץ אחד ונגע בהן כדי שלא יהא עוד ספק בהן ויעמיד דבריו",
+     "he": "״דאגע בהו שרץ״ — הביאו לפניו טהרות והוא אמר טמאות וגם נטל שרץ ונגע בהן, כדי לקיים את דבריו.",
+     "en": "'That a sheretz touched them' — pure foods were brought before him, he said they were impure and also took a sheretz and touched them, to establish his words."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:11:2",
+     "quote": "ונטלן הוא עצמו ועירבן עם פירותיו של נשאל",
+     "he": "״שעירבן עם פירותיו״ — אמר טהורות, נטלן הוא ועירבן עם פירות הנשאל, ואחר כך אמר חכם מומחה שטמאות הן וטימא את השאר.",
+     "en": "'That he mixed them with his own produce' — he said they were pure, took them himself and mixed them with the inquirer's produce, and afterwards an expert sage said they were impure and the rest became impure."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28b:8:1",
+     "quote": "אבל מתני' דהכא מיירי כולה ביחיד דקתני סיפא ואם היה מומחה לבית דין",
+     "he": "תוספות מסבירים שהמשנה כולה עוסקת ביחיד, כפי שמוכח מהסיפא ״ואם היה מומחה לבית דין״.",
+     "en": "Tosafot explain that the whole mishnah speaks of an individual, as the last clause shows: 'and if he was an expert for the court'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 28b:9:1",
+     "quote": "תימה דלא דייק הכא מרישא דמי שאינו מומחה ורואה את הבכור ונשחט על פיו",
+     "he": "תוספות תמהים מדוע הגמרא לא דייקה מהרישא ״מי שאינו מומחה ורואה את הבכור ונשחט על פיו״ שהיא כר׳ מאיר.",
+     "en": "Tosafot wonder why the Gemara does not infer from the first clause 'one who is not an expert and examines the firstborn and it is slaughtered on his word', which is like R. Meir."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:15",
+     "quote": "והאי גורם בדבורו לאבד ממון",
+     "he": "״דדאין דינא דגרמי״ — האדם גורם בדיבורו להפסיד ממון.",
+     "en": "'Who rules dina d'garmei' — a person who causes loss of money through his speech."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:16",
+     "quote": "שנטל בידים מזה ונתן לזה",
+     "he": "״שנשא ונתן ביד״ — שנטל בידיים מזה ונתן לזה, ואינו גורם אלא גוזל.",
+     "en": "'That he carried out the act himself' — he took with his own hands from this one and gave to that one, and he is not a mere cause but a robber."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:17",
+     "quote": "כגון שהיה לנתבע משכון בידו של תובע ונטלו הימנו ונתנו לזה",
+     "he": "״שהיה לו משכון״ — שהיה לנתבע משכון ביד התובע, והדיין נטלו ממנו ונתנו לנתבע.",
+     "en": "'He had a pledge' — the defendant had a pledge in the plaintiff's hand and the judge took it and gave it to the defendant."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:19",
+     "quote": "כגון שנטל פירות טמאין ואמר טהורין הן ועירבן בפירות חברו",
+     "he": "״טיהר את הטמא״ — שנטל פירות טמאים, אמר טהורים הם, ועירבן בפירות חברו.",
+     "en": "'Declared the impure pure' — he took impure produce, said it was pure, and mixed it into his friend's produce."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Sanhedrin 6a:1",
+     "quote": "ומשני מתניתין דקבלוה עלייהו",
+     "he": "רבינו חננאל: בסנהדרין הוקשה ממשנתנו על ר׳ אבהו שאמר ששנים שדנו אין דינם דין, והתירוץ: המשנה מדברת כשקיבלוהו עליהם.",
+     "en": "Rabbeinu Chananel: in Sanhedrin our mishnah was raised against R. Abbahu, who said two who judged have no valid judgment, and the answer: the mishnah is where they accepted him upon themselves."
+    },
+    {
+     "who": {
+      "he": "הרי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Sanhedrin 11b:4",
+     "quote": "וקי\"ל כרב חסדא חדא דהכי מסקנא דשמעת'",
+     "he": "הרי״ף: קיימא לן כרב חסדא, משום שזו מסקנת השמועה, ומשום שהמשנה בבכורות הועמדה בנשא ונתן ביד כרב חסדא.",
+     "en": "The Rif: we hold like Rav Chisda, because that is the conclusion of the passage, and because the mishnah in Bekhorot was established as a case of carrying out the act himself, like Rav Chisda."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume IV, Piskei Sanhedrin 80:1",
+     "quote": "ומומחה שטעה בשיקול הדעת אפי' נטל ונתן ביד אין מחזירין אלא פטור מלשלם",
+     "he": "אור זרוע: מומחה שטעה בשיקול הדעת, אפילו נשא ונתן ביד, אין מחזירין את הדין אלא הוא פטור מלשלם.",
+     "en": "Ohr Zarua: an expert who erred in weighing the matter, even if he carried out the act himself, the judgment is not reversed but he is exempt from paying."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 97:1",
+     "quote": "מומחה שלא נטל רשות וקבלוהו בעלי דינין פטור מלשלם",
+     "he": "הסמ״ג: מומחה שלא נטל רשות וקיבלוהו בעלי הדין פטור מלשלם, ואם לא קיבלוהו חייב, והוא שטעה בשיקול הדעת.",
+     "en": "The Smag: an expert who did not take authorization but whom the litigants accepted is exempt from paying, and if they did not accept him he is liable, if he erred in weighing the matter."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Sanhedrin 33a:1",
+     "quote": "ותדע שדבר זה מחלוקת גדולה בין המפרשים",
+     "he": "המאירי: הדין מתי הדיין חוזר ומתי משלם הוא מחלוקת גדולה בין המפרשים, והוא מסדר תחילה את פסק הגדולים.",
+     "en": "The Meiri: when a judge reverses and when he pays is a great dispute among the commentators, and he first sets out the ruling of the great authorities."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Sanhedrin 33a:3",
+     "quote": "וגדולי הפוסקים פסקו כתירוצו של רב חסדא משתי סיבות",
+     "he": "המאירי: גדולי הפוסקים פסקו כתירוצו של רב חסדא משתי סיבות — שהוא האחרון שבתירוצים, ושהעמידו את משנת בכורות בנשא ונתן ביד.",
+     "en": "The Meiri: the great authorities ruled like Rav Chisda's answer for two reasons — it is the last of the answers, and they established the mishnah in Bekhorot as nesa venatan beyad."
+    },
+    {
+     "who": {
+      "he": "הר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Avodah Zarah 1b:15",
+     "quote": "אבל אם טעה בדבר משנה חוזר ומטהר ומתיר כדתנן בבכורות פרק עד כמה",
+     "he": "הר״ן: חכם שטימא אין חברו רשאי לטהר, אבל אם טעה בדבר משנה חוזר ומטהר ומתיר, כדתנן בבכורות פרק עד כמה.",
+     "en": "The Ran: a sage who declared impure, another may not purify, but if he erred in a matter of a mishnah, it is reversed and purified or permitted, as we learned in Bekhorot, chapter 'Ad Kamah'."
+    },
+    {
+     "who": {
+      "he": "הרשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Bava Kamma 100a:2",
+     "quote": "אי אפשר דנימא מה שעשה עשוי ומשלם",
+     "he": "הרשב״א: ב״טיהר את הטמא״ אי אפשר לומר ״מה שעשה עשוי ומשלם״, שאם הפירות טהורים למה ישלם.",
+     "en": "The Rashba: in 'declared the impure pure' one cannot say 'what he did stands and he pays', for if the produce is pure why should he pay."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 6:3",
+     "quote": "אם נשא ונתן ביד מה שעשה עשוי וישלם מביתו אם לא נשא ונתן ביד יחזר הדין",
+     "he": "הרמב״ם: אם נשא ונתן ביד — מה שעשה עשוי וישלם מביתו; אם לא נשא ונתן ביד — יחזור הדין.",
+     "en": "The Rambam: if he carried out the act himself, what he did stands and he pays from his house; if not, the judgment is reversed."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 25",
+     "quote": "דקנס הוא שקנסו חכמים שיתקיים הדין וישלם מביתו",
+     "he": "הטור: זה קנס שקנסו חכמים שיתקיים הדין וישלם הדיין מביתו, ואפילו לא נשא ונתן ביד.",
+     "en": "The Tur: it is a penalty the sages imposed that the judgment stands and he pays from his house, even if he did not carry out the act himself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 25:3",
+     "quote": "אם נשא ונתן ביד מה שעשה עשוי וישלם מביתו ואם לא נשא ונתן ביד יחזור הדין",
+     "he": "שולחן ערוך: אם נשא ונתן ביד, מה שעשה עשוי וישלם מביתו; אם לא — יחזור הדין, ואם אי אפשר להחזיר ישלם מביתו.",
+     "en": "Shulchan Arukh: if he carried out the act himself, what he did stands and he pays from his house; if not, the judgment is reversed, and if it cannot be reversed he pays from his house."
+    },
+    {
+     "who": {
+      "he": "שפתי כהן",
+      "en": "Siftei Kohen"
+     },
+     "ref": "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 25:28:1",
+     "quote": "ואפ\"ה מה שעשה עשוי וישלם מביתו ואין הדין חוזר אע\"פ דאפשר בחזרה",
+     "he": "הש״ך מוכיח שקיימא לן כרב ששת בלא נשא ונתן ביד, ואפילו כך מה שעשה עשוי וישלם מביתו ואין הדין חוזר אף על פי שאפשר להחזיר, כהרא״ש והטור.",
+     "en": "The Shakh shows that we hold like Rav Sheshet even without nesa venatan beyad, and even so what he did stands and he pays from his house and the judgment is not reversed though it could be, like the Rosh and the Tur."
+    },
+    {
+     "who": {
+      "he": "קצות החושן",
+      "en": "Ketzot HaChoshen"
+     },
+     "ref": "Ketzot HaChoshen on Shulchan Arukh, Choshen Mishpat 25:8:1",
+     "quote": "והוא שיטת הרי\"ף והרמב\"ם כר\"ח",
+     "he": "הקצות: הדין שאם לא נשא ונתן ביד חוזר הוא שיטת הרי״ף והרמב״ם כרב חסדא, והרמב״ן חולק על הרי״ף בהבנת ר׳ אילעא.",
+     "en": "The Ketzot: the rule that if he did not carry out the act himself the judgment is reversed is the view of the Rif and the Rambam, like Rav Chisda, and the Ramban disputes the Rif in understanding R. Il'a."
+    },
+    {
+     "who": {
+      "he": "אורים ותומים",
+      "en": "Urim VeTumim"
+     },
+     "ref": "Urim VeTumim, Tumim 25:12",
+     "quote": "ודעת הב\"ח להכריע כדעת הרי\"ף דפוסק כר\"ח דבלי נו\"נ ביד הדין חוזר",
+     "he": "האורים ותומים: הב״ח מכריע כהרי״ף שהדין חוזר בלי נשא ונתן ביד, והש״ך השיג עליו שאין הכרעתו מכרעת נגד גדולי הפוסקים.",
+     "en": "The Urim VeTumim: the Bach decides like the Rif that without nesa venatan beyad the judgment is reversed, and the Shakh objected that his decision does not outweigh the great authorities."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Sanhedrin 33b:2",
+     "quote": "דבטעה בשיקול הדעת מה שעשה עשוי ולכן א\"ש דישלם מביתו כמו שנטל ונתן ביד",
+     "he": "ערוך לנר: בטעה בשיקול הדעת מה שעשה עשוי, ולכן ישלם מביתו כמו שנשא ונתן ביד.",
+     "en": "Arukh LaNer: in an error in weighing the matter what he did stands, and therefore he pays from his house as if he had carried it out himself."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Gittin 53a:6",
+     "quote": "מוקמינן לה בדקבליה עליה",
+     "he": "הפני יהושע: במשנת בכורות אין חשש זה, כי בסנהדרין מעמידים אותה כשקיבלוהו עליהם.",
+     "en": "Penei Yehoshua: in the mishnah of Bekhorot this concern does not apply, since in Sanhedrin we establish it as where they accepted him upon themselves."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Kamma 117b:1",
+     "quote": "דבהדיא מוכח בבכורות דכי מוקים לה רב לההיא מתניתין בשנשא ונתן ביד כי היכי דלא לוקמה כרבי מאיר דדאין דינא דגרמי",
+     "he": "השיטה מקובצת: מפורש בבכורות שרב העמיד את המשנה בנשא ונתן ביד כדי שלא תהיה כר׳ מאיר שדן דינא דגרמי.",
+     "en": "The Shita Mekubetzet: it is explicit in Bekhorot that Rav established the mishnah as nesa venatan beyad so that it should not be like R. Meir, who rules dina d'garmei."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28b:4",
+     "quote": "לא הוצרך לאוקמי בנו\"נ ביד אלא משום הא דמשלם ולאפוקי מדר\"מ",
+     "he": "רש״ש: משמע שלא הוצרך להעמיד בנשא ונתן ביד אלא בגלל ״משלם״, כדי להוציא מדעת ר׳ מאיר; ״מה שעשה עשוי״ מובן גם בלעדיו.",
+     "en": "Rashash: it implies that he needed to establish it as nesa venatan beyad only because of 'he pays', to exclude R. Meir's view; 'what he did stands' is understood even without it."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    16
+   ],
+   "he": {
+    "title": "מעשה ר׳ טרפון בפרה שניטלה האם שלה",
+    "gemara": "המשנה: פרה שניטלה האם שלה, האכילה ר׳ טרפון לכלבים, ובא מעשה לפני חכמים ביבנה והתירוה. תודוס הרופא: אין פרה וחזירה יוצאות מאלכסנדריה של מצרים אלא אחרי שחותכים את האם שלה כדי שלא תלד. אמר ר׳ טרפון: ״הלכה חמורך טרפון״! אמר לו ר׳ עקיבא: אתה מומחה לבית דין, וכל המומחה לבית דין פטור. הגמרא שואלת: ותיפוק ליה שטעה בדבר משנה וחוזר; ומשיבה: חדא ועוד — טעה בדבר משנה חוזר, ואף אם בשיקול הדעת טעית, מומחה אתה וכל מומחה לבית דין פטור.",
+    "halakha": "הרמב״ם (סנהדרין ו:ב) והשולחן ערוך (חושן משפט כה:ב): טעה בשיקול הדעת, אם היה הדיין מומחה ונטל רשות מראש גולה, או שקיבלוהו בעלי הדין, הואיל והוא מומחה חוזר הדין, ואם אי אפשר להחזיר פטור מלשלם."
+   },
+   "en": {
+    "title": "The case of R. Tarfon and the cow whose womb was removed",
+    "gemara": "The mishnah: a cow whose womb was removed, R. Tarfon fed it to dogs, and the case came before the sages at Yavneh, who permitted it. Todos the physician: no cow or sow leaves Alexandria of Egypt without having its womb cut so that it will not give birth. R. Tarfon said: 'Your donkey is gone, Tarfon!' R. Akiva said: you are an expert for the court, and any expert for the court is exempt. The Gemara asks: let him be exempt because he erred in a mishnah and one who erred in a mishnah reverses; and answers: it said 'one and more' — one who erred in a mishnah reverses, and even if you erred in weighing the matter, you are an expert for the court and any such expert is exempt.",
+    "halakha": "Rambam (Sanhedrin 6:2) and Shulchan Arukh (Choshen Mishpat 25:2): if he erred in weighing the matter, and the judge was an expert and took authorization from the Exilarch, or the litigants accepted him, since he is an expert the judgment is reversed, and if it cannot be reversed he is exempt from paying."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:12:2",
+     "quote": "ששאלו לו עליה אם טריפה היא והאכילה לכלבים",
+     "he": "שאלו אותו אם הפרה טריפה, והוא האכילה לכלבים.",
+     "en": "They asked him whether the cow was a treifa, and he fed it to the dogs."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:13:1",
+     "quote": "הילכך לאו טריפה היא",
+     "he": "תודוס אומר שחותכים את האם כדי שפרות וחזירות שלהם לא ילדו במלכות אחרת, ואין הבהמה מתה — ולכן אינה טריפה.",
+     "en": "Todos says they cut the womb so that their cows and pigs will not give birth in another kingdom, and the animal does not die — therefore it is not a treifa."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:14:1",
+     "quote": "הפסדת חמור שתשלמנו לבעל הפרה",
+     "he": "״הלכה חמורך טרפון״ — הפסדת חמור, שתשלם אותו לבעל הפרה.",
+     "en": "'Your donkey is gone' — you lost a donkey, which you will pay to the cow's owner."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:15:1",
+     "quote": "וכיון דאי קיימא פרה הוה מצי למיהדר ביה ולמשרייה",
+     "he": "״ותיפוק ליה״ — אילו הפרה היתה קיימת היה יכול לחזור בו ולהתירה, ונמצא שדבריו כלא היו, והוא שהפסיד לעצמו.",
+     "en": "'Let him be exempt' — had the cow still been there he could have retracted and permitted it, so his words were nothing, and he lost it himself."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:16:1",
+     "quote": "וסוגייא דעלמא כחד מינייהו ואזיל האי ועבד כאידך מה שעשה עשוי ומשלם מביתו",
+     "he": "שיקול הדעת: שני תנאים או אמוראים חולקים ולא נאמרה הלכה כמר או כמר, והסוגיה כאחד מהם והדיין עשה כאחר — מה שעשה עשוי ומשלם מביתו.",
+     "en": "Weighing the matter: two Tannaim or Amoraim disagree and no halakha is stated for either, and the sugya follows one while this one acted like the other — what he did stands and he pays from his house."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:22",
+     "quote": "כלומר שתפרע לו חמורך תחת פרתו שהפסדתו",
+     "he": "״הלכה חמורך טרפון״ — שתפרע לבעלים חמורך תחת הפרה שהפסדת.",
+     "en": "'Your donkey is gone' — that you will pay the owner your donkey in place of the cow you destroyed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:23",
+     "quote": "דפטור מלשלם משום דטועה בדבר משנה חוזר דתנן ניטלה האם שלה כשרה",
+     "he": "״ותיפוק ליה״ — שהוא פטור מלשלם משום שטועה בדבר משנה חוזר, שהרי שנינו שניטלה האם שלה כשרה.",
+     "en": "'Let him be exempt' — that he is exempt from paying because one who errs in a mishnah reverses, for we learned that if its womb was removed it is kosher."
+    },
+    {
+     "who": {
+      "he": "הלכות גדולות",
+      "en": "Halakhot Gedolot"
+     },
+     "ref": "Halakhot Gedolot 61:7",
+     "quote": "שאין נוטלין האם שלה בשביל שלא תלד. וחרותה בידי שמים כשרה",
+     "he": "בה״ג מביא את דברי תודוס מבכורות כח: אין נוטלים את האם שלה בשביל שלא תלד, והיא כשרה.",
+     "en": "The Halakhot Gedolot cites Todos's words from Bekhorot 28b: they take out its womb so that it will not give birth, and it is kosher."
+    },
+    {
+     "who": {
+      "he": "הרי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Sanhedrin 11b:4",
+     "quote": "וקיימא לן נמי כרב ששת דאמר טעה בדבר משנה חוזר",
+     "he": "הרי״ף: קיימא לן גם כרב ששת, שאומר שטעה בדבר משנה חוזר, ובמקומות רבים אמרו ״נעשה כמי שטעה בדבר משנה וחוזר״.",
+     "en": "The Rif: we also hold like Rav Sheshet, who says that one who erred in a mishnah reverses, and in many places they said 'he is treated as one who erred in a mishnah and reverses'."
+    },
+    {
+     "who": {
+      "he": "ספר התשב״ץ",
+      "en": "Sefer HaTashbetz"
+     },
+     "ref": "Sefer HaTashbetz, Part II 9:2",
+     "quote": "לא מצינו דיין שטועה בדינו אע\"פ שמשלם מביתו שהוא פסול לדון",
+     "he": "התשב״ץ: לא מצינו דיין שטעה בדינו, אף שהוא משלם מביתו, שהוא פסול לדון — שהרי אפילו גדולי התנאים טעו, כמו ר׳ טרפון בבכורות.",
+     "en": "The Tashbetz: we do not find that a judge who erred in his judgment, though he pays from his house, is disqualified from judging — since even the greatest Tannaim erred, like R. Tarfon in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 6:2",
+     "quote": "טעה בשקול הדעת כגון דבר שהוא מחלקת תנאים או אמוראים ולא נפסקה הלכה כאחד מהן בפירוש",
+     "he": "הרמב״ם מגדיר: טעות בשקול הדעת היא בדבר שהוא מחלוקת תנאים או אמוראים ולא נפסקה בו הלכה כאחד מהם בפירוש.",
+     "en": "The Rambam defines: an error in weighing the matter is in a matter of dispute among Tannaim or Amoraim in which the halakha was not explicitly ruled like either."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 25:2",
+     "quote": "הואיל והוא מומחה חוזר הדין ואם אי אפשר להחזיר פטור מלשלם",
+     "he": "מומחה שטעה בשיקול הדעת: חוזר הדין, ואם אי אפשר להחזיר פטור מלשלם.",
+     "en": "An expert who erred in weighing the matter: the judgment is reversed, and if it cannot be reversed he is exempt from paying."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Sanhedrin 33a:1",
+     "quote": "דר\"ט ע\"כ לא האכילו בידים לכלבים וכן כתב רש\"י",
+     "he": "ערוך לנר מביא את תוספות ורש״י, שר׳ טרפון לא האכיל את הפרה לכלבים בידיים.",
+     "en": "Arukh LaNer cites Tosafot and Rashi, that R. Tarfon did not feed the cow to the dogs with his own hands."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 28b:1",
+     "quote": "עיין מה שכתב הרב בית חדש בתשובותיו סימן קנ\"ו דמקשה ומשני בזה",
+     "he": "הפתח עינים מפנה לדברי הבית חדש בתשובותיו (סימן קנו) שהקשה והשיב בעניין תודוס הרופא.",
+     "en": "Petach Einayim refers to the Bayit Chadash's responsa (no. 156), who raised a question and answered it on the matter of Todos the physician."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    17
+   ],
+   "he": {
+    "title": "הנוטל שכר לראות בכורות",
+    "gemara": "המשנה: הנוטל שכר להיות רואה את הבכורות — אין שוחטין על פיו, אלא אם כן היה מומחה.",
+    "halakha": "השולחן ערוך (יורה דעה שיב:א): הנוטל שכר להיות רואה בכורות אין שוחטין על פיו אלא אם כן היה מומחה גדול וידעו בו חכמים שאין כמותו, ופסקו לו שכר על הראיה והביקור, ולא יתנו לו שכר על בהמה זו אלא פעם אחת."
+   },
+   "en": {
+    "title": "One who takes wages to examine firstborns",
+    "gemara": "The mishnah: one who takes wages to be an examiner of firstborns — one does not slaughter on his word, unless he was an expert.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 312:1): one who takes wages to be an examiner of firstborns, one does not slaughter on his word unless he was a great expert whom the sages knew had no equal, and they fixed his wage for the examination and inspection, and he is not paid for this animal more than once."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 28b:17:1",
+     "quote": "דלמא משום אגרא קשרי ליה",
+     "he": "״אין שוחטין״ — שמא בגלל השכר קושרים לו (מתירים לו).",
+     "en": "'One does not slaughter' — lest because of the wage they tie it up for him (permit it)."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 28b:24",
+     "quote": "דאיכא למימר בשביל שכר שנוטל מתירו",
+     "he": "״אין שוחטין על פיו״ — כי יש לומר שבשביל השכר שהוא נוטל הוא מתיר.",
+     "en": "'One does not slaughter on his word' — for one can say he permits it because of the wage he takes."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:5:1",
+     "quote": "וכן אילא ביבנה שהתירו לו חכמים ליטול שכר לפי שהכל היו מביאין אליו בכוריהן כל היום והיה צריך להיות בטל מכל מלאכה",
+     "he": "הרא״ש: אילא ביבנה הותר לו ליטול שכר כי כולם הביאו אליו את בכוריהם כל היום והיה צריך להיות בטל מכל מלאכה.",
+     "en": "The Rosh: Ila in Yavneh was permitted to take wages because everyone brought him their firstborns all day and he had to be idle from all work."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:7",
+     "quote": "אין שוחטין על פיו אלא אם כן היה ממחה גדול וידעו בו חכמים שאין כמותו",
+     "he": "הרמב״ם: אין שוחטין על פיו אלא אם כן היה מומחה גדול וידעו בו חכמים שאין כמותו ופסקו לו שכר על הראייה והביקור.",
+     "en": "The Rambam: one does not slaughter on his word unless he was a great expert whom the sages knew had no equal, and they fixed his wage for the examination and inspection."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 312",
+     "quote": "ואדם מוחזק וידוע לכל בכשר והוא שיהיה שכר בטלתו ניכרת",
+     "he": "הטור: צריך שיהיה מומחה, אדם מוחזק וידוע לכל בכשרות, ושיהיה שכר בטלתו ניכר.",
+     "en": "The Tur: he must be an expert, a person established and known to all as upright, and his wage must clearly be payment for his idleness."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 312:1",
+     "quote": "ולא יתנו לו שכר על הבהמה אלא פעם אחת ורואה אותה לעולם כל זמן שמביאין אותה כדי שלא יבא לידי חשד",
+     "he": "לא ישלמו לו שכר על בהמה זו אלא פעם אחת, והוא רואה אותה תמיד כשמביאים אותה, כדי שלא יבוא לידי חשד.",
+     "en": "He is not paid for the animal more than once, and he examines it again whenever it is brought, so that he will not come under suspicion."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 312:1:1",
+     "quote": "ונראה דאתא לאורויי דצריך שיהא מומחה שאין כמותו בעירו וכאילא ביבנה",
+     "he": "הב״ח: נראה שהמשנה באה ללמד שצריך להיות מומחה שאין כמותו בעירו, כאילא ביבנה, ולכן אין שוחטין על פי מי שיש כמותו בלי שכר.",
+     "en": "The Bach: it seems the mishnah comes to teach that he must be an expert with no equal in his town, like Ila in Yavneh, and not slaughter on the word of one who has an equal who takes no wage."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 28b:5",
+     "quote": "קשה דהא משמע אפי' דומיא דאילא דנוטל בין בתם ובין בבע\"מ",
+     "he": "רש״ש מקשה על רש״י (חשש שיקשור): משמע אפילו דומיא דאילא שנוטל בין בתם ובין בבעל מום.",
+     "en": "Rashash asks against Rashi's explanation (the worry that he ties it up): it seems even like Ila, who takes a wage for both an unblemished and a blemished firstborn."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 312:1",
+     "quote": "דילמא משום השכר יתיר אף במום שאינו קבוע אא\"כ היה כאילא שהיה מומחה וחסיד ולא נחשד בכך",
+     "he": "ערוך השולחן מביא את רש״י: אין שוחטין על פיו שמא בגלל השכר יתיר אף במום שאינו קבוע, אלא אם כן היה כאילא, מומחה וחסיד שלא נחשד בכך.",
+     "en": "Arukh HaShulchan cites Rashi: one does not slaughter on his word lest because of the wage he permit even a non-permanent blemish, unless he was like Ila, an expert and pious man not suspected of that."
+    },
+    {
+     "who": {
+      "he": "עין התכלת",
+      "en": "Ein HaTekhelet"
+     },
+     "ref": "Ein HaTekhelet, First Article 30:1",
+     "quote": "כולל נמי שהוא נאמן ומוחזק בכשרות כהאי דבכורות",
+     "he": "עין התכלת: המונח ״מומחה״, מלבד הוראתו שהוא בקי, כולל גם שהוא נאמן ומוחזק בכשרות, כמו בבכורות כח:.",
+     "en": "Ein HaTekhelet: the word 'mumcheh', besides meaning that he is learned, also includes that he is trustworthy and established as upright, as in Bekhorot 28b."
+    }
+   ]
+  }
+ ]
+}
