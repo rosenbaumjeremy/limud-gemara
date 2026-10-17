@@ -1,0 +1,1359 @@
+{
+ "ref": "Bekhorot 29",
+ "date": "2026-10-17",
+ "he": {
+  "overview": "דף כ״ט עוסק בעמוד א׳ בדין הנוטל שכר: הרואה בכורות אילא ביבנה שהותר לו ליטול שכר, ואחר כך המשנה שהנוטל שכר לדון, להעיד, להזות ולקדש — דיניו, עדותו ומימיו בטלים; הגמרא לומדת זאת מ״מה אני בחנם אף אתם בחנם״ ומבחינה בין שכר הזאה וקידוש לשכר הבאה ומילוי, ומסבירה כיצד הכהן עובר בבית הפרס. בעמוד ב׳ מבררת הגמרא את הביטוי ״כפועל בטל של אותה מלאכה״, ובמשניות החדשות עוסקת בדין החשוד על הבכורות, על השביעית ועל מכירת תרומה לשם חולין ובמה אין לוקחים ממנו. הראשונים והאחרונים דנים בשאלות כמה פעמים מותר לרואה בכור ליטול שכר, מהו שכר בטלה מוכח, מה ההבדל בין הזאה וקידוש להבאה ומילוי, איך מפרשים ״כפועל בטל״ לרש״י ולתוספות, ולמה לוקחים עורות עבודים אך לא עורות שאינם עבודים.",
+  "title": "סיכום — בכורות כ״ט"
+ },
+ "en": {
+  "overview": "On amud a, daf 29 deals with taking payment: Eila of Yavneh, who was permitted to take pay for examining firstborns, and then the Mishnah that one who takes pay to judge, testify, sprinkle or sanctify has his judgments, testimony and waters void; the Gemara derives this from 'as I taught for free, so you teach for free', distinguishes pay for sprinkling and sanctifying from pay for bringing and drawing, and explains how the kohen travels through a beit haperas. On amud b the Gemara clarifies 'like an idle worker of that trade', and the new Mishnayot deal with one suspected regarding firstborns, the Sabbatical year, and selling terumah as ordinary produce, and what may not be bought from him. The Rishonim and Acharonim discuss how often the examiner of a firstborn may take pay, what clear idleness pay is, the difference between sprinkling and sanctifying and bringing and drawing, how 'like an idle worker' is explained by Rashi and by Tosafot, and why processed hides may be bought but unprocessed ones may not.",
+  "title": "Summary — Bekhorot 29"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "כאילא ביבנה"
+   ],
+   "he": {
+    "term": "אילא ביבנה",
+    "explanation": "אילא היה רואה בכורות ביבנה, מומחה מוכר שהתירו לו חכמים ליטול שכר על הראייה. המשנה מביאה אותו כדוגמה לרואה בכור שנוטל שכר ובכל זאת שוחטים על פיו, משום שלא חושדים בו."
+   },
+   "en": {
+    "term": "Eila of Yavneh",
+    "explanation": "Eila was the examiner of firstborn animals in Yavneh, a recognised expert whom the Sages permitted to take payment for examining. The Mishnah brings him as the example of an examiner who takes pay and yet whose ruling is relied on, because he is not suspected."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29a:1:1",
+    "quote": "הדר ביבנה דחסיד הוא ולא נחשד בכך"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "מימיו מי מערה",
+    "אפרו אפר מקלה"
+   ],
+   "he": {
+    "term": "מימיו מי מערה, אפרו אפר מקלה",
+    "explanation": "זו תוצאת נטילת שכר על הזאה וקידוש: המים נחשבים כמים רגילים מן המערה והאפר כאפר רגיל, ואין להם כוח טהרה של מי חטאת."
+   },
+   "en": {
+    "term": "'Its water is cave water, its ash is hearth ash'",
+    "explanation": "This is the result of taking payment for sprinkling or sanctifying: the water counts as ordinary cave water and the ash as ordinary ash, without the power of purification of the waters of the sin-offering."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29a:5:3",
+    "quote": "כל אפר קרוי אפר מקלה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "להזות ולקדש"
+   ],
+   "he": {
+    "term": "הזאה וקידוש",
+    "explanation": "הזאה היא הזיית מי חטאת על הטמא. קידוש הוא ערבוב אפר החטאת במים חיים בכלי. אלה שתי הפעולות שאסור ליטול עליהן שכר, בניגוד להבאת האפר ומילוי המים."
+   },
+   "en": {
+    "term": "Hazaah and kiddush (sprinkling and sanctifying)",
+    "explanation": "Hazaah is sprinkling the sin-offering water on the impure person. Kiddush is mixing the ash of the sin-offering into living water in a vessel. These are the two acts for which payment is forbidden, unlike bringing the ash and drawing the water."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29a:5:2",
+    "quote": "לערב אפר חטאת במים חיים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "אתי למיחשדיה"
+   ],
+   "he": {
+    "term": "חשד",
+    "explanation": "הגמרא מסבירה שהיתר לאילא ליטול שכר גם על בהמה תמה נועד למנוע חשד שהוא פוסק ״בעל מום״ רק כדי לקבל שכר. חכמים מתחשבים בחשד הציבור גם כשהפסיקה עצמה נכונה."
+   },
+   "en": {
+    "term": "Suspicion (chashad)",
+    "explanation": "The Gemara explains that Eila was permitted to take pay even for an unblemished animal so that people would not suspect him of ruling 'blemished' only to earn a fee. The Sages take public suspicion into account even when the ruling itself is correct."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 29a:5",
+    "quote": "כי היכי דלשקול ביה אגרא זימנא אחרינא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "לבית הפרס"
+   ],
+   "he": {
+    "term": "בית הפרס",
+    "explanation": "בית הפרס הוא שדה שנחרש בו קבר, שיש בו חשש לעצם כשעורה. טומאתו מדברי חכמים, ולכן הגמרא מתירה לכהן ללכת בו כדי לפרנס את הדיין או העד."
+   },
+   "en": {
+    "term": "Beit haperas",
+    "explanation": "A beit haperas is a field in which a grave was plowed, where a bone the size of a barley grain may be present. Its impurity is rabbinic, which is why the Gemara allows the kohen to walk through it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29b:1:1",
+    "quote": "בית הפרס היינו שדה שנחרש בו קבר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "מנפח אדם בית הפרס"
+   ],
+   "he": {
+    "term": "ניפוח",
+    "explanation": "ניפוח הוא העברת העפר בנשיפה כשהולכים בבית הפרס, כך שאין נוגעים בעצם. זו הדרך שמתיר רב יהודה ללכת בו."
+   },
+   "en": {
+    "term": "Nipuach (blowing the dirt aside)",
+    "explanation": "Nipuach means blowing the dirt aside while walking through a beit haperas, so that one does not touch any bone. This is the way Rav Yehudah permits one to walk there."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29a:13:2",
+    "quote": "וכי מנפח ליה מדחיא מקמיה ולא נגע ביה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "כפועל בטל של אותה מלאכה"
+   ],
+   "he": {
+    "term": "כפועל בטל של אותה מלאכה",
+    "explanation": "אביי מסביר שהשכר שנותנים הוא שכר הבטלה של אותה מלאכה שממנה הוא מתבטל. הראשונים נחלקים אם שמים אותו כמי שיושב בטל לגמרי או כמי שעושה מלאכה קלה."
+   },
+   "en": {
+    "term": "Like an idle worker of that trade",
+    "explanation": "Abaye explains that the pay given is the idleness pay of the very trade from which he is kept. The Rishonim disagree whether he is assessed as sitting wholly idle or as doing some light work."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29b:3:1",
+    "quote": "אם היה נוקב מרגליות שעבודתה נוחה לעשות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 13,
+   "anchors": [
+    "זיקת תרומה"
+   ],
+   "he": {
+    "term": "זיקת תרומה",
+    "explanation": "דבר שיש בו זיקת תרומה הוא דבר שנותנים ממנו תרומה. רבי שמעון אומר שמן החשוד על תרומה אין לוקחים כל דבר כזה, אך מים ומלח מותרים."
+   },
+   "en": {
+    "term": "Zikat terumah (a link to terumah)",
+    "explanation": "A thing with a link to terumah is something from which terumah must be separated. Rabbi Shimon says that from one suspected on terumah one may not buy any such item, though water and salt are permitted."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 29b:13:2",
+    "quote": "כל דבר שנותנין ממנו תרומה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "הרואה בכורות שנוטל שכר: אילא ביבנה",
+    "gemara": "אילא ביבנה הותר לו ליטול ארבע איסרות על בהמה דקה ושש על גסה, בין תם ובין בעל מום. הטעם להבדל הוא שבהמה גסה טרחתה רבה יותר. את השכר על תם התירו כדי שלא יחשדו בו, ואת הדין ש״חד זימנא תקינו ליה רבנן, תרי זימני לא תקינו״ מסבירים שבפעם הראשונה בלבד מותר ליטול.",
+    "halakha": "הרמב״ם (הלכות בכורות ג:ז) והשולחן ערוך (יורה דעה שיב:א): הנוטל שכר לראות בכורות — אין שוחטים על פיו אלא אם כן הוא מומחה גדול, ואין נותנים לו שכר על בהמה אחת אלא פעם אחת, והוא רואה אותה תמיד כשמביאים אותה."
+   },
+   "en": {
+    "title": "An examiner of firstborns who takes pay: Eila of Yavneh",
+    "gemara": "Eila in Yavneh was permitted to take four issars for a small animal and six for a large one, whether unblemished or blemished. The difference is that the large animal takes more effort. Pay for an unblemished animal was allowed so that he would not be suspected, and the rule that the Sages arranged it for him once but not twice means pay may be taken only on the first occasion.",
+    "halakha": "Rambam (Firstlings 3:7) and Shulchan Arukh (Yoreh De'ah 312:1): one who takes pay to examine firstborns is relied on only if he is a great expert, and he is not paid for one animal more than once, but he examines it every time it is brought."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29a:1:1",
+     "quote": "הדר ביבנה דחסיד הוא ולא נחשד בכך",
+     "he": "אילא גר ביבנה והיה חסיד, ולכן לא חשדו בו שיטעה בפסיקה בשביל שכר.",
+     "en": "Eila lived in Yavneh and was pious, so he was not suspected of ruling falsely for the sake of pay."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29a:3:1",
+     "quote": "אמאי שקיל אגרא הא לא מהני ליה מידי",
+     "he": "הגמרא שואלת מדוע הוא נוטל שכר על בהמה שאמר עליה שהמום עובר, הרי לא הועיל לבעלים כלום, ומשיב שאסר אותה עליו.",
+     "en": "The Gemara asks why he takes pay when he says the blemish is temporary, since he has helped the owner in no way and has instead forbidden the animal to him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29a:3",
+     "quote": "גסה נפיש טרחא למיבדקה",
+     "he": "בבהמה גסה יש טרחה רבה יותר בבדיקה, ולכן שכרו גדול יותר.",
+     "en": "A large animal involves more effort to examine, which is why the pay is greater."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29a:6",
+     "quote": "למשקל אגרא בחדא בהמה לא תקינו ליה ולא אתו למיחשדיה",
+     "he": "לא התירו לו ליטול שכר פעם אחר פעם על אותה בהמה, ולכן אין חשד כלפיו.",
+     "en": "They did not permit him to take pay again and again on the same animal, and so there is no suspicion of him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 29a:4:1",
+     "quote": "שלא חייבוהו חכמים לראות פעם אחרת",
+     "he": "תוספות מקשים שייתכן שיחשדו בו שהוא פוסק תם כדי לא לטרוח שוב, ומתרצים שחכמים לא חייבו אותו לראות פעם נוספת, ועוד שלא יחשדו בו שיתיר איסור כדי להינצל מטרחה.",
+     "en": "Tosafot ask whether people might suspect him of ruling 'unblemished' to avoid more effort, and answer that the Sages did not oblige him to examine again, and also that he would never be suspected of permitting a forbidden animal to escape the trouble."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:5:1",
+     "quote": "שהתירו לו חכמים ליטול שכר לפי שהכל היו מביאין אליו בכוריהן כל היום",
+     "he": "הרא״ש מסביר שאילא קיבל שכר כי כולם הביאו אליו בכורות כל היום, והוא נאלץ להיות בטל מכל מלאכה.",
+     "en": "The Rosh explains that Eila was allowed pay because everyone brought him their firstborns all day and he had to be idle from all other work."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:7",
+     "quote": "ולא יטל שכר על בהמה זו חוץ מפעם אחת",
+     "he": "הרמב״ם פוסק שאין נותנים לרואה שכר על אותה בהמה אלא פעם אחת, כדי שלא יבוא לידי חשד.",
+     "en": "The Rambam rules that the examiner is paid for a given animal only once, so that he does not come under suspicion."
+    },
+    {
+     "who": {
+      "he": "הריב״ש",
+      "en": "Rivash"
+     },
+     "ref": "Teshuvot HaRivash 500:1",
+     "quote": "מאחר שמן הכשרות נוטל עזר ולא מן הטרפות",
+     "he": "הריב״ש מביא את אילא כראיה לכך שנטילת שכר רק מן הכשר ולא מן הטריפה מעוררת חשד, ולכן טוב להרחיק את הבודקים מכך.",
+     "en": "The Rivash brings Eila as evidence that taking pay only from kosher animals and not from non-kosher ones raises suspicion, and so the examiners should keep away from it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Firstlings 3:7:1",
+     "quote": "חד זמנא תקנו ליה אגרא תרי זמני לא תיקנו ליה",
+     "he": "בעל קרית ספר מסביר את הרמב״ם לפי הגמרא: בפעם אחת תיקנו לו שכר ובשתי פעמים לא, ולכן אין חשד.",
+     "en": "The Kiryat Sefer explains the Rambam by the Gemara: the Sages arranged pay for him once, not twice, and so there is no suspicion."
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 312:1",
+     "quote": "ולא יתנו לו שכר על הבהמה אלא פעם אחת ורואה אותה לעולם כל זמן שמביאין אותה",
+     "he": "השולחן ערוך פוסק כרמב״ם: שכר רק פעם אחת, והוא רואה את הבהמה בכל פעם שמביאים אותה.",
+     "en": "The Shulchan Arukh rules like the Rambam: pay only once, and he examines the animal each time it is brought."
+    },
+    {
+     "who": {
+      "he": "הדרישה",
+      "en": "Drisha"
+     },
+     "ref": "Drisha, Yoreh De'ah 312:2:1",
+     "quote": "לא החליטו דבריהן דצריך לראות זימני אחריתי",
+     "he": "הדרישה מעיר שהתוספות לא החליטו שצריך לראות את הבהמה בפעם נוספת, ולכן הוא מבין למה הטור מביא זאת בשם הרמב״ם.",
+     "en": "The Drisha notes that Tosafot did not decide that he must examine the animal again, and on that basis he understands why the Tur brings the requirement in the name of the Rambam."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 18:22:1",
+     "quote": "מאחר שמן הכשרות הוא נוטל ולא מן הטריפות",
+     "he": "הבית יוסף מביא את תשובת הריב״ש שלמדה מאילא שנטילת שכר רק מן הכשר ולא מן הטריפה מעוררת חשד.",
+     "en": "The Beit Yosef cites the Rivash, who learned from Eila that taking pay only from what is kosher and not from what is not kosher arouses suspicion."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    6
+   ],
+   "he": {
+    "title": "הנוטל שכר לדון ולהעיד: דיניו בטלים",
+    "gemara": "המשנה קובעת שהנוטל שכרו לדון — דיניו בטלים, להעיד — עדותו בטלה, ולהזות ולקדש — מימיו מי מערה ואפרו אפר מקלה. אם המזה או המקדש כהן והוא עובר בדרך טומאה, מאכילים אותו, משקים וסכים, ואם הוא זקן — מרכיבים אותו על החמור ונותנים לו שכרו כפועל.",
+    "halakha": "השולחן ערוך (חושן משפט ט:ה): הנוטל שכר לדון, כל דיניו בטלים אלא אם כן ידוע שלא נטל שכר; ואם אינו נוטל אלא שכר בטלתו, מותר, והוא שיהיה ניכר ושיקבל משניהם בשווה."
+   },
+   "en": {
+    "title": "One who takes pay to judge or testify: his judgments are void",
+    "gemara": "The Mishnah rules that one who takes pay to judge has his rulings void, to testify has his testimony void, and to sprinkle or sanctify the waters are cave water and the ash is hearth ash. If the sprinkler or sanctifier is a kohen who becomes impure on the way, he is fed, given drink and anointed, and if he is elderly he is put on a donkey and paid like an idle worker.",
+    "halakha": "Shulchan Arukh (Choshen Mishpat 9:5): one who takes pay to judge has all the judgments he gave void unless it is known he took no pay; if he takes only pay for lost work it is permitted, provided it is evident and he takes it equally from both."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:5:1",
+     "quote": "שאני התם דכל עסקיהם היו בזה ולא היו יכולין לעסוק בשום מלאכה",
+     "he": "הרא״ש מסביר שדייני הגזירות בירושלים נטלו שכר מתרומת הלשכה כי כל עיסוקם היה בכך ולא יכלו לעסוק במלאכה.",
+     "en": "The Rosh explains that the judges of decrees in Jerusalem took pay from the chamber's terumah because that was their whole occupation and they could not do any other work."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 23:5",
+     "quote": "תנו לי שכר בטלתי הרי זה מותר",
+     "he": "הרמב״ם מתיר לדיין העוסק במלאכה לבקש שכר בטלה, ובלבד שיהיה ברור שזה שכר הבטלה בלבד ושייטול משניהם בשווה.",
+     "en": "The Rambam permits a judge who is engaged in work to ask for pay for his idleness, provided it is evident that this is only idleness pay and he takes it equally from both."
+    },
+    {
+     "who": {
+      "he": "תשובות הרא״ש",
+      "en": "Teshuvot HaRosh"
+     },
+     "ref": "Teshuvot HaRosh 56:5:2",
+     "quote": "דלא מיקרי שכר בטלה אם לא שעסוק במלאכה ומתבטל ממנה",
+     "he": "הרא״ש בתשובה כותב שאין זה שכר בטלה אלא אם הדיין עוסק במלאכה ומתבטל ממנה, ולא אם סתם יאמר שאולי יזדמן לו רווח.",
+     "en": "The Rosh in a responsum writes that it does not count as idleness pay unless the judge is engaged in a trade and is kept from it, not if he merely says he might otherwise find a profit."
+    },
+    {
+     "who": {
+      "he": "ספר התשב״ץ",
+      "en": "Sefer HaTashbetz"
+     },
+     "ref": "Sefer HaTashbetz, Part I 145:1",
+     "quote": "ואי בטלה דלא מוכחא היא אינו אסור ואם נטלו דינו דין",
+     "he": "התשב״ץ מבחין: שכר בטלה שאינו מוכח אינו אסור מן הדין ודינו קיים, אך מכוער לדיין לעשות כן.",
+     "en": "The Tashbetz distinguishes: idleness pay that is not evident is not forbidden by law and the judgment stands, though it is unseemly for the judge."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Sanhedrin 26b:5",
+     "quote": "והנוטל שכר להעיד יתבאר בבכורות שעדותו בטלה",
+     "he": "המאירי מציין שנטילת שכר להעיד פוסלת עדות, אך יש מפקפקים בשכר בטלה הברור, ומבחין בין עד שכבר ראה לעד שהולך לראות.",
+     "en": "The Meiri notes that taking pay to testify voids the testimony, though some are doubtful about clear idleness pay, and he distinguishes a witness who has already seen from one who goes to see."
+    },
+    {
+     "who": {
+      "he": "ספר יראים",
+      "en": "Sefer Yereim"
+     },
+     "ref": "Sefer Yereim 128:1",
+     "quote": "הנוטל שכרו לדון דיניו בטלים",
+     "he": "ספר יראים מביא את דין המשנה במסגרת האיסור ״שחד לא תקח״ על שופטים.",
+     "en": "Sefer Yereim brings the Mishnah's rule within the prohibition 'you shall not take a bribe' for judges."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 9:5",
+     "quote": "כל דיניו שדן בטלים",
+     "he": "השולחן ערוך פוסק שכל הדינים שדן בטלים, אלא אם כן ידוע שלא נטל שכר באותם דינים.",
+     "en": "The Shulchan Arukh rules that all the cases he judged are void, unless it is known that he took no pay in them."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Choshen Mishpat 9:9:1",
+     "quote": "משמע דלא אותו דין שידוע שנטל בו שכרו הוא בלבד שבטל אלא כל דינים שדן פסולים",
+     "he": "הבית יוסף מביא את הר״ן: מכך שהמשנה אומרת ״דיניו״ ולא ״דינו״, משמע שלא רק הדין שידוע שנטל בו שכר בטל אלא כל הדינים שדן.",
+     "en": "The Beit Yosef cites the Ran: since the Mishnah says 'his judgments' and not 'his judgment', it implies not only the case in which he is known to have taken pay is void but all the cases he judged."
+    },
+    {
+     "who": {
+      "he": "הרמ״א",
+      "en": "Rema"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 34:18",
+     "quote": "כל מי שנוטל שכר להעיד עדותו בטל כמו הנוטל שכר לדון",
+     "he": "הרמ״א פוסק שהנוטל שכר להעיד עדותו בטלה כמו דיין שנוטל שכר.",
+     "en": "The Rema rules that one who takes pay to testify has his testimony void, just as a judge who takes pay."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Chullin 41b:1",
+     "quote": "דכל דינין שדן וכל עדיות שהעיד בטלין",
+     "he": "הרש״ש מביא את דיוק הר״ן מלשון הברייתא שכל הדינים שדן וכל העדויות שהעיד בטלים.",
+     "en": "The Rashash brings the Ran's inference from the wording that all the judgments he gave and all the testimonies he gave are void."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 140:2:1",
+     "quote": "בטילא דמוכח שרי לכתחילה",
+     "he": "בעל העמק שאלה כותב שבשכר בטלה מוכח מותר לדיין לכתחילה, ושכר בטלה שאינו מוכח אסור.",
+     "en": "The Haamek Sheilah writes that clear idleness pay is permitted to a judge from the outset, and idleness pay that is not clear is forbidden."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 1:17:4",
+     "quote": "איירי רק כששמע הטענות ויודע פסק הדין",
+     "he": "בעל תורה תמימה מסביר שדין ״הנוטל שכר לדון דיניו בטלים״ נאמר רק כשכבר שמע את הטענות וידע את פסק הדין.",
+     "en": "The Torah Temimah explains that the rule 'one who takes pay to judge, his judgments are void' applies only once he has heard the claims and knows the ruling."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume IV, Choshen Mishpat 9:25",
+     "quote": "הנוטל שכר להעיד עדותו בטלה",
+     "he": "המשפטי עוזיאל מביא כהלכה פסוקה שהנוטל שכר להעיד עדותו בטלה.",
+     "en": "Mishpetei Uziel cites as settled halakha that one who takes pay to testify has his testimony void."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    8
+   ],
+   "he": {
+    "title": "מנא הני מילי: ״מה אני בחנם אף אתם בחנם״",
+    "gemara": "רב יהודה אמר רב לומד את הדין מהפסוק ״ראה למדתי אתכם חקים ומשפטים כאשר צוני ה׳ אלהי״: מה אני בחנם — אף אתם בחנם. מי שלא מצא מי שילמדנו בחנם — לומד בשכר, שנאמר ״אמת קנה״; ושלא יאמר ״כשם שלמדתי בשכר כך אלמד בשכר״, שנאמר ״ואל תמכור״.",
+    "halakha": "הרמב״ם (הלכות תלמוד תורה א:ז): תורה שבכתב מותר ללמד בשכר במקום שנהגו כך, אבל תורה שבעל פה אסור ללמדה בשכר. השולחן ערוך (יורה דעה רמה:ו): אם נהגו בעיר ללמד בשכר, חייב ללמדו בשכר עד שיקרא תורה שבכתב כולה."
+   },
+   "en": {
+    "title": "Whence do we know this: 'As I taught for free, so you teach for free'",
+    "gemara": "Rav Yehudah in the name of Rav derives the rule from the verse 'See, I have taught you statutes and judgments as the Lord my God commanded me': as I taught for free, so you teach for free. If he cannot find someone to teach him for free, he learns for pay, as it says 'buy truth'; and he may not say 'as I learned for pay I will teach for pay', as it says 'and do not sell it'.",
+    "halakha": "Rambam (Torah Study 1:7): where it is the custom, one may teach the Written Torah for pay, but the Oral Torah may not be taught for pay. Shulchan Arukh (Yoreh De'ah 245:6): if the custom in the town is to pay a teacher, he must teach for pay until the child has read the entire Written Torah."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Proverbs 23:23:1",
+     "quote": "ואם לא תמצא ללמד בחנם למד בשכר",
+     "he": "רש״י על משלי מפרש את ״אמת קנה״ כך: אם לא מצאת ללמוד בחנם, למד בשכר, ואל תאמר שכשם שלמדת בשכר כך תלמד בשכר.",
+     "en": "Rashi on Proverbs explains 'buy truth' thus: if you cannot find someone to teach you for free, learn for pay, and do not say that as you learned for pay so you will teach for pay."
+    },
+    {
+     "who": {
+      "he": "רבנו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29a:7",
+     "quote": "ולקדש. ליתן מים באפר חטאת",
+     "he": "רבנו גרשום מפרש במשנה את ״ולקדש״ כנתינת מים באפר חטאת.",
+     "en": "Rabbeinu Gershom explains 'and to sanctify' in the Mishnah as putting water onto the ash of the sin-offering."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:5:3",
+     "quote": "אם אין לו במה להתפרנס שרי",
+     "he": "הרא״ש כותב שהמנהג ללמוד בשכר מותר אם אין לו במה להתפרנס, ואף אם יש לו כשהוא שכר בטלה מוכח.",
+     "en": "The Rosh writes that the present custom of learning for pay is permitted if he has nothing to live on, and even if he does, when it is clear idleness pay."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Torah Study 1:7",
+     "quote": "אבל תורה שבעל פה אסור ללמדה בשכר",
+     "he": "הרמב״ם מבחין בין תורה שבכתב, שבמקום שנהגו מותר ללמדה בשכר, לתורה שבעל פה שאסור.",
+     "en": "The Rambam distinguishes between the Written Torah, which may be taught for pay where that is the custom, and the Oral Torah, which may not."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 29a:7:1",
+     "quote": "דתרי מילי נינהו",
+     "he": "תוספות מקשים מדוע צריך ״שחד לא תקח״, ומתרצים שהם שני עניינים: שכר טרחה, ושוחד להשתדל לזכות.",
+     "en": "Tosafot ask why 'do not take a bribe' is needed, and answer that these are two separate matters: pay for effort, and a bribe to strive for a favourable ruling."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 68:1",
+     "quote": "אם אין לו להתפרנס נוטל שכר לימוד או שכר בטלה דמוכח",
+     "he": "פסקי תוספות מביאים שאם אין לו להתפרנס מותר ליטול שכר לימוד או שכר בטלה מוכח.",
+     "en": "Piskei Tosafot state that if he has nothing to live on he may take pay for teaching or clear idleness pay."
+    },
+    {
+     "who": {
+      "he": "מגן אבות",
+      "en": "Magen Avot"
+     },
+     "ref": "Magen Avot on Avot 4:5:2",
+     "quote": "ולזה אסרו חכמים ליטול שכר המצות",
+     "he": "מגן אבות מביא שחכמים אסרו ליטול שכר המצוות, וסמכו זאת בבכורות על ״מה אני בחנם״.",
+     "en": "Magen Avot says the Sages forbade taking pay for the commandments, basing it in Bekhorot on 'as I did for free'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 245:6",
+     "quote": "היה מנהג בעיר שלוקח מלמד תינוקות שכר חייב ללמדו בשכר עד שיקרא תורה שבכתב כולה",
+     "he": "השולחן ערוך פוסק שבמקום שהמנהג לשלם למלמד תינוקות, חייב ללמדו בשכר עד שיקרא את כל התורה שבכתב.",
+     "en": "The Shulchan Arukh rules that where the custom is to pay a children's teacher, the father must pay him until the child has read the whole Written Torah."
+    },
+    {
+     "who": {
+      "he": "הטורי זהב",
+      "en": "Turei Zahav"
+     },
+     "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer, Seder HaGet 2",
+     "quote": "גם לימוד אסור בשכר",
+     "he": "הט״ז כותב שגם לימוד אסור בשכר, ומביא זאת מהגמרא בבכורות.",
+     "en": "The Turei Zahav writes that teaching too is forbidden for pay, and brings this from the Gemara in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "הפרישה",
+      "en": "Prisha"
+     },
+     "ref": "Prisha, Yoreh De'ah 246:11:1",
+     "quote": "שהעולם טועין שמפרשין מה אני למדתי אתכם בחנם",
+     "he": "הפרישה מעתיק את פירוש הרא״ש כדי להראות שהפירוש הנפוץ ״מה אני למדתי אתכם בחנם אף אתם תלמדו אחרים בחנם״ אינו מדויק.",
+     "en": "The Prisha copies the Rosh's explanation to show that the common reading 'as I taught you for free, so you teach others for free' is not accurate."
+    },
+    {
+     "who": {
+      "he": "הדרישה",
+      "en": "Drisha"
+     },
+     "ref": "Drisha, Choshen Mishpat 9:1:1",
+     "quote": "דאחד לא נלמד מחבירו",
+     "he": "הדרישה מסביר את תוספות: שכר טרחה ושוחד הם שני דינים שאחד לא נלמד מהשני.",
+     "en": "The Drisha explains Tosafot: pay for effort and a bribe are two rules, neither of which is learned from the other."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 29a:1",
+     "quote": "אמנם התוס' קושטא קאמרי דתרי מילי נינהו",
+     "he": "בעל פתח עינים מקשה על קושיית תוספות שאפשר לראות בזה עשה ולא תעשה, ובכל זאת מסכים שתוספות צודקים שהם שני עניינים.",
+     "en": "The Petach Einayim raises a question on Tosafot's question, but concludes that Tosafot speak truly that these are two separate matters."
+    },
+    {
+     "who": {
+      "he": "נחלת יעקב",
+      "en": "Nachalat Ya'akov"
+     },
+     "ref": "Nachalat Ya'akov on Tractate Derekh Eretz Zuta 4:3:1",
+     "quote": "דדוקא על מדרש אסור ליטול שכר אבל על מקרא מותר",
+     "he": "נחלת יעקב כותב שהאיסור לקחת שכר הוא דווקא על לימוד מדרש, ואילו על מקרא מותר.",
+     "en": "The Nachalat Ya'akov writes that the prohibition on taking pay applies only to teaching midrash, while for Scripture it is permitted."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 4:5:1",
+     "quote": "יכול אף מקרא ותרגום בחנם",
+     "he": "התורה תמימה מביא את הירושלמי ״יכול אף מקרא ותרגום בחנם, תלמוד לומר חקים ומשפטים״ — הדין חל רק על חקים ומשפטים ולא על מקרא ותרגום.",
+     "en": "The Torah Temimah brings the Yerushalmi: 'one might think even Scripture and translation for free; the verse says statutes and judgments', so the rule applies only to statutes and judgments."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    11
+   ],
+   "he": {
+    "title": "הקשיא ממקדש בטהרה: שכר הזאה וקידוש מול שכר הבאה ומילוי",
+    "gemara": "הגמרא מקשה מברייתא שהמקדש אשה במי חטאת ובאפר חטאת — מקודשת, ומשמע ששכר מותר. אביי מתרץ: כאן בשכר הבאה ומילוי, כאן בשכר הזאה וקידוש. הגמרא מוכיחה מהלשון: במשנה ״להזות ולקדש״, ובברייתא ״המקדש במי חטאת ובאפר חטאת״.",
+    "halakha": "הרמב״ם (הלכות פרה אדומה ז:ב): נוטל שכר על הבאת המים ומילוים, אך המקדשים אותם והמזים מהם עושים זאת בחנם."
+   },
+   "en": {
+    "title": "The contradiction with betrothal: pay for sprinkling and sanctifying versus pay for bringing and drawing",
+    "gemara": "The Gemara raises a contradiction from the teaching that one who betroths a woman with the sin-offering water and ash has betrothed her, implying that payment is allowed. Abaye answers: here it is pay for bringing and drawing, there it is pay for sprinkling and sanctifying. The Gemara supports this from the wording: the Mishnah says 'to sprinkle and to sanctify', while the other source says 'one who betroths with the water and ash of the sin-offering'.",
+    "halakha": "Rambam (Red Heifer 7:2): one may take pay for filling and carrying the water, but those who sanctify it and sprinkle from it do so for free."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29a:10:2",
+     "quote": "דאגר טירחיה שקיל ולא הכשר המצוה",
+     "he": "רש״י מסביר שבשכר מילוי המים הוא מקבל שכר טרחה ולא שכר על הכשר המצווה, ולכן מותר.",
+     "en": "Rashi explains that for drawing the water he takes pay for his effort and not for preparing the commandment, and so it is permitted."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29a:10",
+     "quote": "את האשה במי חטאת ואפר חטאת",
+     "he": "רבינו גרשום מפרש שהברייתא מדברת במי שמקדש אשה בהם, ומכאן שאפשר ליהנות מהם.",
+     "en": "Rabbeinu Gershom explains that the source speaks of one who betroths a woman with them, from which we see that one can derive benefit from them."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 29a:9:1",
+     "quote": "דעיקריה נקט משום רישא",
+     "he": "תוספות דוחים את פירוש רש״י ״אף על פי שהוא ישראל״ ומסבירים שהברייתא נקטה לשון זו בגלל הרישא בקידושין.",
+     "en": "Tosafot reject Rashi's reading of 'even though he is a Yisrael' and explain that the source used this wording because of its opening clause in Kiddushin."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Red Heifer 7:2",
+     "quote": "אבל נוטל הוא שכר למלאות המים או להוליכן",
+     "he": "הרמב״ם מתיר ליטול שכר למילוי המים או להולכתם, ואוסר על קידוש והזאה.",
+     "en": "The Rambam permits taking pay for filling the water or carrying it, and forbids it for sanctifying and sprinkling."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Marriage 5:3",
+     "quote": "המקדש בפרות שביעית או באפר פרה אדומה או במים שמלאן לעשותן מי נדה הרי זו מקודשת",
+     "he": "הרמב״ם פוסק שהמקדש אשה באפר פרה אדומה או במים שמילאם לעשות מי נדה — מקודשת.",
+     "en": "The Rambam rules that one who betroths with the ash of the red heifer or water drawn to make purification water has betrothed her."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 399:2",
+     "quote": "אֲבָל הַנּוֹטֵל שָׂכָר עַל הַמִּלּוּי אֵינוֹ פּוֹסֵל",
+     "he": "ספר החינוך כותב ששכר מילוי המים אינו פוסל, בניגוד לשכר על קידוש והזאה.",
+     "en": "Sefer HaChinukh writes that taking pay for drawing the water does not invalidate it, unlike pay for sanctifying or sprinkling."
+    },
+    {
+     "who": {
+      "he": "מגן אבות",
+      "en": "Magen Avot"
+     },
+     "ref": "Magen Avot on Avot 4:5:2",
+     "quote": "אבל שכר הזאה וקדוש אסור שזו מצוה היא",
+     "he": "מגן אבות מנמק: שכר הזאה וקידוש אסור כי זו מצווה, ואילו הבאת האפר ומילוי המים אינם מוטלים עליו.",
+     "en": "Magen Avot gives the reason: pay for sprinkling and sanctifying is forbidden because that is the commandment itself, while bringing the ash and drawing water are not incumbent on him."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Torah Study 3:10:2",
+     "quote": "ועיקר הדבר דגבי הזאה וקדוש שם נעשה המציאות על ידו ובזה אסור לטול שכר",
+     "he": "הצפנת פענח מסביר שבהזאה וקידוש המציאות נעשית על ידו, ולכן אסור ליטול שכר, ובהבאה ומילוי לא נתחדש דבר על ידו.",
+     "en": "The Tzafnat Pa'neach explains that in sprinkling and sanctifying the reality is brought about through him, so pay is forbidden, while in bringing and drawing nothing new is created through him."
+    },
+    {
+     "who": {
+      "he": "שורשי הים",
+      "en": "Shorshei HaYam"
+     },
+     "ref": "Shorshei HaYam on Mishneh Torah, Circumcision 1:9:1",
+     "quote": "כאן בשכר הזאה כאן בשכר הבאת ומילוי",
+     "he": "בעל שורשי הים מציין את הגמרא בבכורות כראיה שהכשר מצווה אינו נחשב גוף המצווה.",
+     "en": "The author of Shorshei HaYam cites the Gemara in Bekhorot as evidence that preparing the commandment is not counted as the commandment itself."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 399:1:2",
+     "quote": "ואם נטל שכר על הקידוש מימיו מי מערה ואפרו אפר מקלה",
+     "he": "המנחת חינוך כותב שאם נטל שכר על הקידוש, מימיו מי מערה ואפרו אפר מקלה, והוא פסול.",
+     "en": "The Minchat Chinukh writes that if he took pay for the sanctifying, the water is cave water and the ash is hearth ash, and it is invalid."
+    },
+    {
+     "who": {
+      "he": "הטורי זהב",
+      "en": "Turei Zahav"
+     },
+     "ref": "Turei Zahav on Shulchan Arukh, Even HaEzer, Seder HaGet 2",
+     "quote": "הוא עצמו הוא המקיים המצוה",
+     "he": "הט״ז מסביר שבהזאה וקידוש בטל המעשה בשכר כי הוא עצמו המקיים את המצווה, ואילו בגט וחליצה הבעל והיבם הם העושים.",
+     "en": "The Turei Zahav explains that in sprinkling and sanctifying the act is void when done for pay because he himself fulfils the commandment, whereas in a get or chalitzah it is the husband or the yavam who does it."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    12,
+    2
+   ],
+   "he": {
+    "title": "הכהן המטמא: בית הפרס, ניפוח ושאר טומאות",
+    "gemara": "הגמרא שואלת: הכהן המוליך עצמו להזות או להעיד, איך הולך? ומשיבה: לבית הפרס דרבנן, דאמר רב יהודה אמר רב — מנפח אדם בית הפרס והולך. רב יהודה בר אמי בשם רב יהודה: בית הפרס שנידש טהור. ועוד תירוץ: בשאר טומאות שלא הוזהר עליהן.",
+    "halakha": "הרמב״ם (הלכות קרבן פסח ו:ח): מי שבא בבית הפרס מנפח והולך, כי טומאת בית הפרס מדבריהם. הרמב״ם (הלכות טומאת אוכלין טז:ט): כהנים ונזירים מותרים להיטמא בשאר טומאות חוץ מטמא מת."
+   },
+   "en": {
+    "title": "The kohen who becomes impure: beit haperas, blowing, and other impurities",
+    "gemara": "The Gemara asks how the kohen himself goes, and answers that it is through a beit haperas, which is rabbinic, as Rav Yehudah said in Rav's name: a person may blow the dirt aside and walk through a beit haperas. Rav Yehudah bar Ami in Rav Yehudah's name adds that a trampled beit haperas is pure. Another answer: through other impurities, against which he was not warned.",
+    "halakha": "Rambam (Paschal Offering 6:8): one who enters a beit haperas blows the dirt aside and walks, since the impurity of a beit haperas is rabbinic. Rambam (Defilement of Foods 16:9): kohanim and nazirites are permitted to become impure with other impurities except for contact with the dead."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29a:13:2",
+     "quote": "דעצם כשעורה מטמא במגע ובמשא ולא באהל",
+     "he": "רש״י מסביר שעצם כשעורה מטמא במגע ובמשא ולא באהל, ולכן מנפחים את העפר ולא נוגעים בו. אך בתרומה אינו יכול לאכול.",
+     "en": "Rashi explains that a barley-sized bone defiles by touch and carrying but not by tent, so he blows the dirt aside and does not touch it. But he still cannot eat terumah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:1:1",
+     "quote": "שאי אפשר לעצם כשעורה שלא יהא נידש ברגל",
+     "he": "רש״י מסביר שבית הפרס שנידש טהור כי עצם כשעורה לא יכול שלא ייפגע בדריסה.",
+     "en": "Rashi explains that a trampled beit haperas is pure because a barley-sized bone cannot help but be broken up by trampling."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:2:1",
+     "quote": "כגון נבילות ושרצים שאינו מוזהר עליהן מליגע",
+     "he": "רש״י מפרש את ״שאר טומאות״ כנבילות ושרצים שאין הכהן מוזהר לא לגעת בהם.",
+     "en": "Rashi explains 'other impurities' as carcasses and creeping things, which a kohen is not warned against touching."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29a:14",
+     "quote": "הני מילי לעושי פסח דלא העמידו דבריהם במקום כרת",
+     "he": "רבינו גרשום מסביר שהניפוח מועיל לעושי פסח שלא העמידו חכמים דבריהם במקום כרת, אבל לתרומה העמידו דבריהם והוא נטמא.",
+     "en": "Rabbeinu Gershom explains that blowing helps for those offering the Pesach, as the Sages did not uphold their words where the penalty is karet, but for terumah they did uphold them and he is impure."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29b:2",
+     "quote": "כגון נבילות ושרצים דאין מוזהרין אלא על טומאת מת בלבד",
+     "he": "רבינו גרשום מסביר שהכהנים מוזהרים רק על טומאת מת.",
+     "en": "Rabbeinu Gershom explains that kohanim are warned only against impurity from the dead."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 29a:13:1",
+     "quote": "משמע על ידי ניפוח שרי לילך להעיד",
+     "he": "תוספות מבינים שעל ידי ניפוח מותר לילך להעיד, ומכל מקום הוא טמא לתרומה, ולכן הדבר קשה על פירוש רבנו תם.",
+     "en": "Tosafot understand that by blowing it is permitted to go and testify, though he is still impure for terumah, which is difficult for Rabbeinu Tam's explanation."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Paschal Offering 6:8",
+     "quote": "שטומאת בית הפרס מדבריהן",
+     "he": "הרמב״ם פוסק שטומאת בית הפרס מדבריהם ולכן מנפח והולך, ולא העמידו דבריהם במקום כרת.",
+     "en": "The Rambam rules that the impurity of a beit haperas is rabbinic, so he blows and walks, and the Sages did not uphold their words where karet applies."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement of Foods 16:9",
+     "quote": "מותרין להתטמא בשאר טומאות חוץ מטמא מת",
+     "he": "הרמב״ם פוסק שכהנים ונזירים מותרים להיטמא בשאר טומאות מלבד טומאת מת.",
+     "en": "The Rambam rules that kohanim and nazirites may become impure with other impurities apart from the impurity of the dead."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Oholot 18:4:6",
+     "quote": "אלמא לא מהניא בדיקתם לתרומה",
+     "he": "ר״ש משאנץ מסביר מהסוגיה שבדיקת בית הפרס אינה מועילה לתרומה, מכיוון שהמשנה אומרת שמטמאים אותו מתרומתו.",
+     "en": "Rash MiShantz infers from this sugya that the examination of a beit haperas does not help for terumah, since the Mishnah says that he is made impure from his terumah."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 69:1",
+     "quote": "או לצאת לקראת מלך ישראל שרי בלא ניפוח",
+     "he": "פסקי תוספות מביאים שכהן ההולך ללמוד, לישא אשה, לדון או לצאת לקראת מלך ישראל מותר בלי ניפוח.",
+     "en": "Piskei Tosafot state that a kohen going to learn, to marry, to litigate or to greet the king of Israel may do so without blowing."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ציוני מהר״ן",
+      "en": "Tziunei Maharan"
+     },
+     "ref": "Tziunei Maharan on Mishneh Torah, Defilement of Foods 16:9:1",
+     "quote": "איהו גופיה היכי אזיל",
+     "he": "ציוני מהר״ן מציין שדין הרמב״ם שכהנים מותרים בשאר טומאות מבוסס על הגמרא כאן, ״איהו גופיה היכי אזיל״ ותירוץ ״בשאר טומאות דלא מזהר עלייהו״.",
+     "en": "Tziunei Maharan notes that the Rambam's rule that kohanim are permitted other impurities rests on the Gemara here, 'how does he himself go' and the answer 'with other impurities against which he is not warned'."
+    },
+    {
+     "who": {
+      "he": "הגהות חדשות על ספר מצוות קטן",
+      "en": "Haggahot Chadashot on Sefer Mitzvot Katan"
+     },
+     "ref": "Haggahot Chadashot on Sefer Mitzvot Katan 89:130",
+     "quote": "ומשמע מדבריהם דלדבר מצוה שרי אף בלא בדיקה",
+     "he": "בעל ההגהות החדשות מביא את הרי״ף, הרא״ש והסמ״ג, ומבין מדבריהם שלדבר מצווה מותר לכהן לטמא בבית הפרס אפילו בלי בדיקה.",
+     "en": "The author of the Haggahot Chadashot cites the Rif, the Rosh and the Semag, and understands that for a matter of a commandment it is permitted for a kohen to become impure in a beit haperas even without examination."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 29a:3",
+     "quote": "אלא מדרבנן מדשרי לכל דבר",
+     "he": "היעב״ץ מתקן את גרסת תוספות כך שיהיה כתוב ״אלא מדרבנן מדשרי לכל דבר״.",
+     "en": "The Ya'avetz emends the text of Tosafot to read 'but only rabbinic, since it is permitted for any purpose'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    3
+   ],
+   "he": {
+    "title": "ונותן לו שכרו כפועל בטל: ״של אותה מלאכה״",
+    "gemara": "המשנה אומרת שהזקן מורכב על החמור ונותנים לו שכרו כפועל. תנא: כפועל בטל. אמר אביי: כפועל בטל של אותה מלאכה, כלומר של אותה מלאכה שממנה מתבטל.",
+    "halakha": "השולחן ערוך (חושן משפט ט:ה): הדיין שיש לו מלאכה ידועה אומר לבעלי הדין ״תנו לי שכר פעולה של אותה מלאכה שאתבטל ממנה״."
+   },
+   "en": {
+    "title": "'And pays him like a worker': 'of that trade'",
+    "gemara": "The Mishnah says the elderly person is put on a donkey and paid like a worker. A Tanna taught 'like an idle worker'. Abaye said: like an idle worker of that trade, meaning the trade from which he is kept.",
+    "halakha": "Shulchan Arukh (Choshen Mishpat 9:5): a judge with a known trade says to the litigants, 'give me the pay of that trade from which I am kept'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:3:1",
+     "quote": "אם היה נוקב מרגליות שעבודתה נוחה לעשות",
+     "he": "רש״י מסביר: אם מלאכתו קלה, כגון נקיבת מרגליות, אינו מפחית מהשכר אלא מעט, ואם קשה כנגרות, נוח לו להתבטל גם בפחות.",
+     "en": "Rashi explains: if the trade is light, such as piercing pearls, he reduces little from his pay, but if it is hard, like carpentry, he is content to be idle for less."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:3:1",
+     "quote": "וכוליה אגרא לא יהיב ליה שהרי אינו עסוק במלאכה קשה אצלו",
+     "he": "רש״י מוסיף שאינו נותן לו את כל השכר, כי אינו עסוק עכשיו במלאכה הקשה.",
+     "en": "Rashi adds that he does not give him the whole wage, since he is not now occupied with the hard work."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 29b:3:1",
+     "quote": "ולא היה לו לפרש שיטול שכר בטלה מאותה מלאכה לעסוק במלאכה קלה כזו",
+     "he": "תוספות חולקים על רש״י: לא היה לו לפרש שיטול שכר בטלה מאותה מלאכה לעסוק במלאכה קלה, כי אז היה מותר לדיין ליטול, אלא שנותנים לו כשיושב בטל לגמרי.",
+     "en": "Tosafot disagree with Rashi: he should not have explained that he takes the pay of that trade in order to do a light task, but that he is given idleness pay as one who sits entirely idle."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29b:3",
+     "quote": "אבל פועל שמלאכתו קשה כגון כתף ודאי ברצון יניח חצי שכירותו",
+     "he": "רבינו גרשום מסביר שפועל שמלאכתו קשה, כגון סבל, מוכן להפחית חצי משכרו כדי להתבטל.",
+     "en": "Rabbeinu Gershom explains that a worker whose trade is hard, such as a porter, is willing to give up half his wage to be idle."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 4:5:3",
+     "quote": "פי' כפועל בטל לגמרי אומדין כמה אדם רוצה ליקח ליבטל ממלאכתו",
+     "he": "הרא״ש מפרש כתוספות: אומדים כמה אדם רוצה לקבל כדי להתבטל לגמרי ממלאכתו הרגילה ולשבת בטל.",
+     "en": "The Rosh explains like Tosafot: we assess how much a person would want to take to be wholly idle from his usual work and sit idle."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Metzia 68a:11:1",
+     "quote": "כיון שמתבטל ממלאכתו יכול ליטול שכר",
+     "he": "תוספות בבבא מציעא כותבים שבבכורות אפשר לפרש כרש״י, שכיון שמתבטל ממלאכתו יכול ליטול שכר.",
+     "en": "Tosafot in Bava Metzia write that in Bekhorot too one can explain like Rashi, that since he is kept from his work he may take pay."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 70:1",
+     "quote": "כפועל בטל שנוטל שכר לפי הביטול",
+     "he": "פסקי תוספות מביאים ששכר פועל בטל הוא לפי הביטול לפי רש״י, ואילו תוספות סבורים שנוטל כדי להתבטל.",
+     "en": "Piskei Tosafot state that the pay of an idle worker is by the loss according to Rashi, whereas Tosafot hold that he takes in order to be idle."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 9:5",
+     "quote": "תנו לי שכר פעולה של אותה מלאכה שאתבטל ממנה",
+     "he": "השולחן ערוך מביא שהדיין אומר לבעלי הדין לתת לו שכר פעולה של אותה מלאכה שהוא מתבטל ממנה.",
+     "en": "The Shulchan Arukh brings that the judge tells the litigants to give him the pay of that trade from which he is kept."
+    },
+    {
+     "who": {
+      "he": "הדרישה",
+      "en": "Drisha"
+     },
+     "ref": "Drisha, Yoreh De'ah 177:1:1",
+     "quote": "אין אומרים לו קבל שכר כמה שתנוח למלאכה זו",
+     "he": "הדרישה מביא את רבנו חננאל שאין אומרים לו לקבל כמה שהיה רוצה להתבטל, אלא כמו השכר הרגיל.",
+     "en": "The Drisha cites Rabbeinu Chananel that we do not tell him to take whatever he would want to rest from this work, but the usual pay."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 140:2:1",
+     "quote": "אבל לכ\"ע אינו נותן לו שכרו משלם ממלאכה הראשונה שבטל ממנה",
+     "he": "בעל העמק שאלה כותב שרש״י ותוספות נחלקו אם רואים אותו כיושב בטל לגמרי או כעושה מלאכה קלה, אך לכולם אינו נותן לו שכרו משלם.",
+     "en": "The Haamek Sheilah writes that Rashi and Tosafot disagree whether we see him as wholly idle or as doing light work, but according to all he is not paid his full wage."
+    },
+    {
+     "who": {
+      "he": "פלפולא חריפתא",
+      "en": "Pilpula Charifta"
+     },
+     "ref": "Pilpula Charifta on Bava Metzia 2:89",
+     "quote": "אינו מפרש כן אלא שאינו נוטל שכר על פעולתו דעכשיו",
+     "he": "הפלפולא חריפתא עוסק בסתירה בדברי הרא״ש ומסביר שבבכורות הוא פירש שאינו נוטל שכר על פעולתו עכשיו.",
+     "en": "The Pilpula Charifta addresses an apparent contradiction in the Rosh and says that in Bekhorot he explained that he takes no pay for his present work."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Bava Metzia 68a:3",
+     "quote": "דהתם כיון שמשלם לו שכרו כנגר ונפח שיהיה הולך בטל לגמרי",
+     "he": "החתם סופר מחלק בין בכורות לאבידה: בבכורות משלם לו כנגר ונפח שהולך בטל לגמרי.",
+     "en": "The Chatam Sofer distinguishes Bekhorot from a lost object: in Bekhorot he is paid as a carpenter or smith who goes entirely idle."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 29b:3",
+     "quote": "ומשמע דאינו מנכה לו את דמי התרומה",
+     "he": "הרש״ש מעיר שמהמשנה משמע שאינו מנכה לו את דמי התרומה שהפסיד.",
+     "en": "The Rashash notes that from the Mishnah it seems he does not deduct the value of the terumah from what he pays him."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    10
+   ],
+   "he": {
+    "title": "החשוד על הבכורות: מה לוקחים ממנו ומה לא",
+    "gemara": "המשנה קובעת שמהחשוד על הבכורות אין לוקחים בשר צבאים ולא עורות שאינם עבודים, ורבי אליעזר מתיר עורות של נקבה ואוסר צמר מלובן וצואי, אבל מתירים טווי ובגדים. הגמרא מסבירה: בשר צבי מתחלף בבשר עגל; עור עבוד לא חשוד שהוא בכור כי לא היה טורח בו; ורבי אליעזר סבור שאפשר להכיר עור נקבה, והתנא קמא אומר שגם זכר יחתוך ויאמר שעכברים אכלוהו.",
+    "halakha": "הרמב״ם (הלכות בכורות ג:ח): החשוד על הבכורות אין לוקחים ממנו בשר צבאים ולא עורות שאינם עבודים אפילו של נקבה, ואין לוקחים צמר; אבל לוקחים טווי, לבדים ועורות עבודים."
+   },
+   "en": {
+    "title": "One suspected regarding firstborns: what may and may not be bought from him",
+    "gemara": "The Mishnah rules that from one suspected regarding firstborns one may not buy deer meat or unprocessed hides; Rabbi Eliezer permits hides of a female and forbids bleached and greasy wool, but spun yarn and cloth are allowed. The Gemara explains: deer meat can be confused with calf meat; he would not have worked a processed hide if it were a firstborn; Rabbi Eliezer holds a female hide can be recognised, and the first Tanna says even a male could be cut and he would say mice ate it.",
+    "halakha": "Rambam (Firstlings 3:8): one suspected regarding firstborns may not be bought from, even deer meat, or unprocessed hides even of a female, or wool; but spun and felted goods and processed hides may be bought."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:4:1",
+     "quote": "כגון החשוד להטיל מום בבכור",
+     "he": "רש״י מפרש שהחשוד על הבכורות הוא החשוד להטיל מום בבכור.",
+     "en": "Rashi explains that one suspected regarding firstborns is one suspected of inflicting a blemish on a firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:4:2",
+     "quote": "שאדום הוא מיחלף בבשר עגל",
+     "he": "בשר צבי אדום ומתחלף בבשר עגל, ולפעמים מוכר עגל בכור תם ואומר שבשר צבי הוא.",
+     "en": "Deer meat is red and is confused with calf meat, and sometimes he sells the meat of an unblemished firstborn calf and says it is deer."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:6:1",
+     "quote": "ומפסדי ליה מינאי ומקפיד על טרחו ואינו מעבדן",
+     "he": "אם עור בכור תם, היה חושש שיפסידוהו הדיינים, ומפני שמקפיד על טרחו אינו מעבד אותו.",
+     "en": "If the hide were of an unblemished firstborn he would worry that the judges would make him lose it, and since he cares about his effort he does not process it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:9:2",
+     "quote": "כיון דטירחא זוטא היא לא קפיד עליה",
+     "he": "רש״י מסביר שצמר מלובן אסור כי הטרחה קטנה ואינו מקפיד עליה.",
+     "en": "Rashi explains that bleached wool is forbidden because the effort is small and he does not care about it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29b:7",
+     "quote": "ואסרוהו עלי ונמצאתי מאבד טורח",
+     "he": "רבינו גרשום מסביר שהוא חושש שיאסרו אותו עליו ויאבד את טרחתו, ולכן לא היה מעבד עור בכור.",
+     "en": "Rabbeinu Gershom explains that he fears they will forbid it to him and he will lose his effort, which is why he would not process a firstborn's hide."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29b:8",
+     "quote": "דכיון דלית בהו מקום זכרות ודאי הוו דנקבה",
+     "he": "לדעת רבי אליעזר, כיון שאין בעור מקום זכרות, ודאי עור נקבה הוא.",
+     "en": "According to Rabbi Eliezer, since the hide has no place of the male organ, it is certainly from a female."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:8",
+     "quote": "שאינו מעבד עור בכור תמים מפני שהוא מפחד לשהותו אצלו",
+     "he": "הרמב״ם מסביר שמוכר עורות עבודים מותר לקנות ממנו, כי אינו מעבד עור בכור תמים מחשש שיישמעו הדיינים.",
+     "en": "The Rambam explains that processed hides may be bought from him, because he does not work the hide of an unblemished firstborn, afraid to keep it with him."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 311",
+     "quote": "שמא יחתוך זכרותו ויאמר שהיא של נקבה",
+     "he": "הטור פוסק כרמב״ם ומסביר שאין לוקחים עורות שאינם עבודים אפילו של נקבה, שמא יחתוך את מקום הזכרות.",
+     "en": "The Tur rules like the Rambam and explains that unprocessed hides are not bought even of a female, lest he cut off the male part and say it is a female's."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 311:1:1",
+     "quote": "שהטעם שלוקחים ממנו עורות עבודים הוא מפני שאינו מעבד עור בכור תמים",
+     "he": "הבית יוסף מביא מהגמרא שהטעם לקחת עורות עבודים הוא שאינו מעבד עור בכור תמים.",
+     "en": "The Beit Yosef brings from the Gemara that the reason hides that are processed may be bought is that he does not process the hide of an unblemished firstborn."
+    },
+    {
+     "who": {
+      "he": "הב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 311:1:1",
+     "quote": "אבל צמר מלובן כיון דטירחא זוטא הוא לא קפיד עליה",
+     "he": "הב״ח כותב שצמר מלובן אסור כי הטרחה קטנה, ואילו עורות עבודים וצמר טווי מותרים כי הטרחה גדולה.",
+     "en": "The Bach writes that bleached wool is forbidden because the effort is small, while processed hides and spun wool are permitted because the effort is great."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 311:1",
+     "quote": "שהוא חשוד למכור בכור לשם חולין",
+     "he": "בערוך השולחן מובא שלפי רש״י הוא חשוד להטיל מום, ולפי הרמב״ם חשוד למכור בכור לשם חולין.",
+     "en": "The Arukh HaShulchan brings that according to Rashi he is suspected of inflicting a blemish, and according to the Rambam of selling a firstborn as ordinary meat."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 39:7:1",
+     "quote": "דבעורות עבודים לא חשדינן דהוי של בכור",
+     "he": "בעל העמק שאלה מביא את הסוגיה כאן כדוגמה לכך שאין חושדים שעור עבוד הוא של בכור.",
+     "en": "The Haamek Sheilah brings this sugya as an example that we do not suspect a processed hide is from a firstborn."
+    },
+    {
+     "who": {
+      "he": "הפרישה",
+      "en": "Prisha"
+     },
+     "ref": "Prisha, Yoreh De'ah 311:1:1",
+     "quote": "ותימה למה שינה לשון התלמוד",
+     "he": "הפרישה תמה מדוע הטור שינה את לשון התלמוד לגבי צמר מלובן וצואי.",
+     "en": "The Prisha wonders why the Tur changed the Talmud's wording regarding bleached and greasy wool."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    15
+   ],
+   "he": {
+    "title": "החשוד על השביעית ועל מכירת תרומה לשם חולין",
+    "gemara": "המשנה קובעת שהחשוד על השביעית — אין לוקחים ממנו פשתן אפילו סרק, אבל לוקחים טווי וארוג. הגמרא מפרשת ארוג כ״תיכי״. ובחשוד למכור תרומה לשם חולין — אין לוקחים אפילו מים ומלח לרבי יהודה, ולרבי שמעון כל שיש בו זיקת תרומה ומעשרות. הגמרא אומרת שרבי שמעון מרבה קרבי דגים שמערבים בהם שמן זית.",
+    "halakha": "הרמב״ם (הלכות שמיטה ויובל ח:יד): החשוד לעשות סחורה בפירות שביעית — אין לוקחים ממנו פשתן אפילו סרוק, אבל לוקחים טווי ושזור."
+   },
+   "en": {
+    "title": "One suspected regarding the Sabbatical year and regarding selling terumah as ordinary produce",
+    "gemara": "The Mishnah says that from one suspected regarding the Sabbatical year one may not buy flax even combed, but one may buy spun and woven goods. The Gemara explains 'woven' as 'tiki'. For one suspected of selling terumah as ordinary produce one may not buy even water and salt, according to Rabbi Yehudah, while Rabbi Shimon says anything with a link to terumah and tithes. The Gemara says Rabbi Shimon includes fish innards in which olive oil is mixed.",
+    "halakha": "Rambam (Sabbatical Year 8:14): one suspected of trading in Sabbatical-year produce may not be bought from regarding flax even combed, but spun and twisted goods may be bought."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:11:1",
+     "quote": "לזרוע או לעשות סחורה בספיחים",
+     "he": "רש״י מפרש שהחשוד על השביעית הוא החשוד לזרוע או לעשות סחורה בספיחים.",
+     "en": "Rashi explains that one suspected regarding the Sabbatical year is suspected of sowing or trading in aftergrowth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 29b:14:1",
+     "quote": "וכיון דאית בהו זיקת תרומה לא זבנינן מיניה",
+     "he": "קרבי דגים שמערבים בהם שמן זית יש בהם זיקת תרומה, ולכן לא קונים ממנו.",
+     "en": "Fish innards in which olive oil is mixed have a link to terumah, and therefore we do not buy from him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 29b:14",
+     "quote": "דהכא ליכא למימר לא טרח למיסרקיה",
+     "he": "רבינו גרשום מסביר שבפשתן סרוק אי אפשר לומר שלא טרח לסרקו, כי הסריקה דבר קל.",
+     "en": "Rabbeinu Gershom explains that for combed flax one cannot say he would not have bothered to comb it, since combing is easy."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:14",
+     "quote": "ואין לוקחין ממנו פשתן אפילו סרוק",
+     "he": "הרמב״ם פוסק שמהחשוד על פירות שביעית אין לוקחים פשתן אפילו סרוק.",
+     "en": "The Rambam rules that from one suspected of trading in Sabbatical-year produce, flax is not bought even if combed."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:8:1",
+     "quote": "והחשוד על הדבר אין לוקחין ממנו כל דבר השייך לאותו ענין שהוא חשוד עליו",
+     "he": "הרא״ש כותב שהחשוד על דבר אין לוקחים ממנו כל דבר השייך לאותו עניין, והוא מביא את המשנה כאן כראיה.",
+     "en": "The Rosh writes that from one suspected of a matter one may not buy anything related to that matter, and brings the Mishnah here as proof."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 119:6:1",
+     "quote": "החשוד לדבר אחד אינו חשוד לדברים אחרים",
+     "he": "הבית יוסף מביא את המשנה בבכורות כמקור לכך שהחשוד לדבר אחד אינו חשוד לדברים אחרים.",
+     "en": "The Beit Yosef brings the Mishnah in Bekhorot as the source that one suspected of one thing is not suspected of others."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Sabbatical Year and the Jubilee 8:16:1",
+     "quote": "ילפינן מינה לחשוד על השביעית",
+     "he": "הכסף משנה כותב שאף שהמשנה מדברת בחשוד למכור תרומה לשם חולין, למדים ממנה לחשוד על השביעית.",
+     "en": "The Kessef Mishneh writes that although the Mishnah speaks of one suspected of selling terumah as ordinary produce, we learn from it regarding one suspected on the Sabbatical year."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Maasrot 5:3:11:1",
+     "quote": "אי בחשד הא תנינן בבכורות דאין לוקחין",
+     "he": "מראה הפנים מסביר שאם מדובר בחשוד, הרי שנינו בבכורות שאין לוקחים.",
+     "en": "The Mareh HaPanim explains that if it is a suspected person, we have already learned in Bekhorot that one does not buy."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Forbidden Foods 9:16:2",
+     "quote": "לאתויי קרבי דגים דמערבי בו שמן זית",
+     "he": "הצפנת פענח מציין שהגמרא בבכורות מרבה קרבי דגים שמערבים בהם שמן זית.",
+     "en": "The Tzafnat Pa'neach notes that the Gemara in Bekhorot includes fish innards in which olive oil is mixed."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 119:10",
+     "quote": "ומבואר להדיא דמאינו חשוד מותר ליקח",
+     "he": "ערוך השולחן מסיק מהמשנה שמי שאינו חשוד מותר לקנות ממנו.",
+     "en": "The Arukh HaShulchan concludes from the Mishnah that from one who is not suspected it is permitted to buy."
+    }
+   ]
+  }
+ ]
+}
