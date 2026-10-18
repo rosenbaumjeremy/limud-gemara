@@ -1,0 +1,1345 @@
+{
+ "ref": "Bekhorot 30",
+ "date": "2026-10-18",
+ "he": {
+  "overview": "הדף עוסק בשני עניינים. עמוד א: סוף הסוגיה על הטבח שמכר חלב אסור כמותר ונקנס שלא ימכור אפילו אגוזים, ומשנת ״החשוד על השביעית אינו חשוד על המעשרות״ וחזרה — עם הקושיות והתירוצים (רבי אילעאי, רבי ינאי) ומחלוקת רבי עקיבא וחכמים (רבי יהודה או רבי מאיר) אם חשוד לדבר אחד חשוד לכל התורה. עמוד ב: דין הגר שנחשד, מי שבא לקבל דברי חבירות ושלבי הקבלה (צנעה, כנפים, טהרות, שלושים יום או שנים עשר חודש), קבלה בפני שלושה, בניו ובני ביתו, תלמיד חכם וזקן, ומעשה בנו של רבי חנינא בן אנטיגנוס. הנושאים המרכזיים בראשונים ובאחרונים: טעם החומרה בין שביעית למעשר, האם החשוד בחמור חשוד בקל, והכרעת הרמב״ם והשולחן ערוך.",
+  "title": "סיכום — בכורות ל׳"
+ },
+ "en": {
+  "overview": "The daf has two subjects. Amud a: the end of the sugya on the butcher who sold forbidden fat as permitted and was fined not to sell even nuts, and the Mishnah 'one suspected on shevi'it is not suspected on ma'aser', with the challenges and answers (Rabbi Ila'i, Rabbi Yannai) and the dispute between Rabbi Akiva and the Sages (Rabbi Yehuda or Rabbi Meir) whether one suspected in one matter is suspected in the whole Torah. Amud b: the convert who is suspected, one who comes to accept chavrut and the stages of acceptance (private conduct, kenafayim, tohorot, thirty days or twelve months), acceptance before three, his sons and household, a Torah scholar and an elder, and the story of the son of Rabbi Chanina ben Antigonus. The main questions the Rishonim and Acharonim take up: why shevi'it and ma'aser differ in severity, whether one suspected on the severe is suspected on the light, and how the Rambam and Shulchan Arukh rule.",
+  "title": "Summary — Bekhorot 30"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "במר דכנתא"
+   ],
+   "he": {
+    "term": "תרבא דאטמא במר דכנתא",
+    "explanation": "״תרבא דאטמא״ הוא חלב אסור — חלב הכליות שעל הירך. ״במר דכנתא״ — מוכרים אותו בחזקת חלב טהור שנקרא כנתא. הטבח שמכר כך נקנס שלא ימכור אפילו אגוזים."
+   },
+   "en": {
+    "term": "Tarba de-atma be-mar de-kenata (forbidden fat as permitted fat)",
+    "explanation": "'Tarba de-atma' is forbidden fat — the fat of the kidneys on the thigh. 'Be-mar de-kenata' means it is sold as presumed permitted fat called kenata. The butcher who did this was fined and forbidden to sell even nuts."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30a:1:2",
+    "quote": "בחזקת חלב טהור הנקרא כנתא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "הֶחָשׁוּד"
+   ],
+   "he": {
+    "term": "חשוד",
+    "explanation": "מי שחשוד על דבר מסוים — שאין סומכים עליו בו. המשנה בודקת האם מי שחשוד בדבר אחד נחשד גם בדבר אחר: שביעית, מעשרות או טהרות."
+   },
+   "en": {
+    "term": "Chashud (a suspect)",
+    "explanation": "One suspected in a particular matter is not relied on in it. The Mishnah examines whether one suspected in one matter is also suspected in another: shevi'it, ma'aser or tohorot."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:15",
+    "quote": "הֶחָשׁוּד עַל הַשְּׁבִיעִית אֵינוֹ חָשׁוּד עַל הַמַּעַשְׂרוֹת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "חוֹמָה"
+   ],
+   "he": {
+    "term": "בעי חומה",
+    "explanation": "מעשר שני נאכל רק בתוך חומת ירושלים, ולכן יש לו חומרה משלו. שביעית אינה צריכה חומה, אך אין לה פדיון — וכל אחד חמור בדרכו."
+   },
+   "en": {
+    "term": "Be'ei chomah (needs a wall)",
+    "explanation": "Second tithe is eaten only within Jerusalem's wall, which is its own severity. Shevi'it needs no wall but has no redemption — each is severe in its own way."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30a:4:1",
+    "quote": "אינו יכול לאכול מעשר שני אלא לפנים מחומת ירושלים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "פִּדְיוֹן"
+   ],
+   "he": {
+    "term": "פדיון",
+    "explanation": "מעשר אפשר לפדות, כלומר להעביר את קדושתו לכסף; שביעית אין לה פדיון, ולכן נחשבת חמורה יותר לעניין זה."
+   },
+   "en": {
+    "term": "Pidyon (redemption)",
+    "explanation": "Ma'aser can be redeemed — its holiness transferred to money; shevi'it has no redemption, so it is considered more severe in this respect."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:15",
+    "quote": "אֵין לָהּ פִּדְיוֹן מַה שֶּׁאֵין כֵּן בְּמַעֲשֵׂר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "סְתִימְתָּאָה"
+   ],
+   "he": {
+    "term": "רבי עקיבא סתימתאה",
+    "explanation": "הכינוי שנתן רבי יוחנן למשנה שאין בה שם אומר — היא דברי רבי עקיבא. רש״י מביא פירוש אחר שהמשנה הסתמית היא רבי מאיר והברייתא רבי נתן, ודוחה אותו."
+   },
+   "en": {
+    "term": "Rabbi Akiva stimta'ah",
+    "explanation": "The label Rabbi Yochanan gave to an anonymous Mishnah — it is Rabbi Akiva's view. Rashi brings another explanation, that an anonymous Mishnah is Rabbi Meir and an anonymous baraita Rabbi Natan, and rejects it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30a:11:4",
+    "quote": "סתם משנה רבי מאיר סתם ברייתא רבי נתן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 4,
+   "anchors": [
+    "דִּבְרֵי חֲבֵירוּת"
+   ],
+   "he": {
+    "term": "דברי חבירות",
+    "explanation": "הקבלה להיות חבר: לא לתת תרומה ומעשר לעם הארץ, לא לעשות טהרות אצלו, לאכול חולין בטהרה ולעשר את שאוכל, מוכר ולוקח."
+   },
+   "en": {
+    "term": "Divrei chavrut (the obligations of a chaver)",
+    "explanation": "Accepting the status of a chaver: not to give terumah and ma'aser to an am ha'aretz, not to prepare tohorot by him, to eat ordinary food in purity, and to tithe what he eats, sells and buys."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30b:4:1",
+    "quote": "שלא יתן תרומה ומעשר לעם הארץ"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "לִכְנָפַיִם"
+   ],
+   "he": {
+    "term": "קבלה לכנפים",
+    "explanation": "השלב הראשון בקבלת חבירות: נטילת ידים לפני אכילה ולפני נגיעה באוכלי תרומה. ורק אחר כך מקבלים לשאר הטהרות."
+   },
+   "en": {
+    "term": "Kabbalah li-kenafayim",
+    "explanation": "The first stage of accepting chavrut: washing the hands before eating and before touching terumah foods. Only afterward is he accepted for the other tohorot."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30b:7:1",
+    "quote": "שיטול ידיו קודם אכילה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 15,
+   "anchors": [
+    "סִילְסוּל"
+   ],
+   "he": {
+    "term": "סילסול",
+    "explanation": "מעלה שנהגו בה כהנים אחרי חורבן בית המקדש — לא למסור טהרות לכל אדם. רש״י מוסיף שרבי חנינא בן אנטיגנוס כהן היה."
+   },
+   "en": {
+    "term": "Sillusul (a distinction/stringency)",
+    "explanation": "A distinction the kohanim adopted after the Temple's destruction — not to hand tohorot to just anyone. Rashi adds that Rabbi Chanina ben Antigonus was a kohen."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 30b:15:2",
+    "quote": "ר' חנינא בן אנטיגנוס כהן היה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "תרבא דאטמא במר דכנתא — קנס הטבח",
+    "gemara": "רבא קנס טבח שהיה מוכר חלב אסור (תרבא דאטמא) כחלב טהור, ״במר דכנתא״, שלא ימכור אפילו אגוזים. רב פפא הקשה: אם כרבי יהודה — ייקנס אפילו במים ומלח. ותירצו: לעולם כרבי שמעון, וקונסים ״באיסורא דגופיה״, שהרי האגוזים מושכים את בני הטבחים לגנוב לו חלב אסור.",
+    "halakha": "החשוד לדבר אחד אינו חשוד לדברים אחרים, אבל כל מה שצריך לאותו דבר חשוד גם עליו; מי שחשוד למכור חלב במקום שומן ומרגיל את הנערים באגוזים — קונסים אותו שלא ימכור אפילו אגוזים (שולחן ערוך יורה דעה קי״ט:ד׳)."
+   },
+   "en": {
+    "title": "Forbidden fat sold as kosher — the butcher's fine",
+    "gemara": "Rava fined a butcher who sold forbidden fat (tarba de-atma) as permitted fat, 'in the manner of kenata', by forbidding him to sell even nuts. Rav Pappa objected: if this is like Rabbi Yehuda, he should be forbidden even water and salt. The answer: it is Rabbi Shimon, and one fines only in a matter tied to the forbidden item itself, since the nuts lure the butchers' sons to steal forbidden fat for him.",
+    "halakha": "One suspected in one matter is not suspected in other matters, but whatever serves that matter he is suspected of too; one suspected of selling forbidden fat in place of permitted fat who lures children with nuts is fined not to sell even nuts (Shulchan Arukh, Yoreh De'ah 119:4)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:1:1",
+     "quote": "חלב הכליות שעל הירך",
+     "he": "מפרש ״תרבא דאטמא״ חלב הכליות שעל הירך.",
+     "en": "Explains 'tarba de-atma' as the fat of the kidneys on the thigh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:1:2",
+     "quote": "בחזקת חלב טהור הנקרא כנתא",
+     "he": "״במר דכנתא״ — מוכר אותו בחזקת חלב טהור הנקרא כנתא.",
+     "en": "'Be-mar de-kenata' means he sells it as presumed permitted fat called kenata."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30a:1:1",
+     "quote": "כך גריס רבינו תם פירוש מר בחילוף של כנתא",
+     "he": "גורס רבינו תם ״במר דכנתא״, ו״מר״ פירושו חילוף של כנתא, כמו ״במר דשחוטה״ ו״במר דפרזלא״.",
+     "en": "Rabbeinu Tam reads 'be-mar de-kenata', where 'mar' means 'in place of' kenata, as in 'be-mar de-shechuta' and 'be-mar de-parzela'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:2",
+     "quote": "כמאן כר' יהודה. דקניס הכל",
+     "he": "״כמאן — כרבי יהודה״, שקונס הכל.",
+     "en": "'Like whom — like Rabbi Yehuda', who fines everything."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:4",
+     "quote": "לעולם כרבי שמעון. דאמר כל שיש בו זיקה",
+     "he": "״לעולם כרבי שמעון״, האומר שקונסים כל שיש בו זיקה, והאגוזים זיקה לאיסור הם.",
+     "en": "'Always Rabbi Shimon', who fines whatever has a connection, and the nuts are a connection to the prohibition."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:2:1",
+     "quote": "דלא קניס אלא במידי דדמי לאיסורא",
+     "he": "רבי שמעון אינו קונס אלא בדבר הדומה לאיסור, ובאיסור עצמו — בדבר שגורם לאיסור, דהיינו אגוזים.",
+     "en": "Rabbi Shimon fines only what resembles the prohibition, and in the prohibition itself, what causes it — namely nuts."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:2:3",
+     "quote": "ומשבש לבני טבחים",
+     "he": "הטבח מטעה את בני הטבחים באגוזים והם מביאים לו חלב שגונבים מאביהם, והוא מוכרו כחלב טהור.",
+     "en": "He misleads the butchers' sons with nuts; they bring him fat stolen from their father, and he sells it as permitted."
+    },
+    {
+     "who": {
+      "he": "הלכות גדולות",
+      "en": "Halakhot Gedolot"
+     },
+     "ref": "Halakhot Gedolot 69:3",
+     "quote": "בהא אפילו רבי שמעון מודה",
+     "he": "מביא את המעשה, ומסיים שבזה אפילו רבי שמעון מודה.",
+     "en": "Cites the episode, noting that in this case even Rabbi Shimon agrees."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 119",
+     "quote": "קנסו אותו שלא למכור אפי' אגוזים",
+     "he": "מביא את מעשה הטבח בבכורות שחשוד היה למכור חלב במקום שומן, וקנסוהו שלא ימכור אפילו אגוזים.",
+     "en": "Cites the Bekhorot case of the butcher suspected of selling fat in place of tallow, fined not to sell even nuts."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 119:4",
+     "quote": "קונסים אותו שלא ימכור אפי' אגוזים",
+     "he": "פוסק את דין הטבח: קונסים אותו שלא ימכור אפילו אגוזים.",
+     "en": "Rules on the butcher: he is fined not to sell even nuts."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30a:1",
+     "quote": "עי' לשון הטוש\"ע ביו\"ד סי' קי\"ט ס\"ד",
+     "he": "מפנה על דברי רש״י ״גרו באמגוזי״ ללשון הטור והשולחן ערוך ביורה דעה קי״ט סעיף ד׳.",
+     "en": "Refers the reader, on Rashi's 'garu be-amgozei', to the wording of the Tur and Shulchan Arukh, Yoreh De'ah 119:4."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 30a:1",
+     "quote": "דלמא רבא כרמ\"ש ס\"ל",
+     "he": "מעיר בהגהה שאפשר שרבא ״לית ליה הני כללי״ — אינו סובר את כללי ההכרעה שהזכיר בין רבי יהודה לרבי שמעון.",
+     "en": "Notes in a gloss that Rava may not hold 'these rules' of deciding between Rabbi Yehuda and Rabbi Shimon."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    6
+   ],
+   "he": {
+    "title": "משנה: החשוד על השביעית ועל המעשר",
+    "gemara": "המשנה: החשוד על השביעית אינו חשוד על המעשרות ולהפך; החשוד על שניהם — חשוד על הטהרות; ויש חשוד על הטהרות ואינו חשוד על אלה. ״זה הכלל: החשוד על דבר — לא דנו ולא מעידו״. הגמרא מסבירה: שביעית אינה צריכה חומה אך אין לה פדיון, ומעשר צריך חומה אך יש לו פדיון — לכל אחד חומרה משלו. והחשוד על שניהם, שהם מן התורה, חשוד כל שכן על דרבנן."
+   },
+   "en": {
+    "title": "Mishnah: one suspected on shevi'it and on ma'aser",
+    "gemara": "The Mishnah: one suspected regarding shevi'it is not suspected regarding ma'aser and vice versa; one suspected on both is suspected regarding tohorot; and one may be suspected on tohorot but not on those. 'This is the rule: one suspected in a matter may neither judge it nor testify to it.' The Gemara explains: shevi'it needs no wall but has no redemption, while ma'aser needs a wall but can be redeemed — each has its own severity. One suspected on both, which are Torah law, is all the more so suspected on rabbinic matters."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:3:1",
+     "quote": "ולוקחין ממנו תבואה בשאר שני שבוע",
+     "he": "אינו חשוד על המעשרות — לוקחים ממנו תבואה בשאר שנות השבוע ואין צריך לעשר ודאי אלא דמאי.",
+     "en": "Not suspected on ma'aser — one buys grain from him in the other years of the cycle and need separate only as for demai."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:4:1",
+     "quote": "אינו יכול לאכול מעשר שני אלא לפנים מחומת ירושלים",
+     "he": "״בעי חומה״ — מעשר שני נאכל רק בתוך חומת ירושלים.",
+     "en": "'Needs a wall' — second tithe may be eaten only inside Jerusalem's wall."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:6",
+     "quote": "למכרו דאסור למכור שביעית",
+     "he": "״החשוד על השביעית״ — חשוד למכרה, שאסור למכור שביעית.",
+     "en": "'Suspected on shevi'it' — suspected of selling it, since shevi'it may not be sold."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:7",
+     "quote": "כיון דמיתסרא ליה לסחורה ולית ליה פדיון",
+     "he": "שביעית חמורה כיוון שהיא אסורה בסחורה ואין לה פדיון.",
+     "en": "Shevi'it is the more severe since it is forbidden for trade and has no redemption."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:8",
+     "quote": "כיון דחשיד אדאורייתא. היינו שביעית ומעשר",
+     "he": "״חשיד אדאורייתא״ היינו שביעית ומעשר; ואם כן כל שכן אדרבנן.",
+     "en": "'Suspected on Torah law' means shevi'it and ma'aser; so all the more so on rabbinic law."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:15",
+     "quote": "אֵין לָהּ פִּדְיוֹן מַה שֶּׁאֵין כֵּן בְּמַעֲשֵׂר",
+     "he": "מעשר טעון הבאת מקום מה שאין כן בשביעית, ושביעית אין לה פדיון מה שאין כן במעשר.",
+     "en": "Ma'aser requires bringing to the place, unlike shevi'it, and shevi'it has no redemption, unlike ma'aser."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:16",
+     "quote": "אֵינוֹ מְטַמֵּא אֲחֵרִים אֶלָּא מִדִּבְרֵי סוֹפְרִים",
+     "he": "החשוד על הטהרות אינו חשוד על מעשר ושביעית, כי האוכל הטמא שמכר כטהור אינו מטמא אחרים אלא מדברי סופרים.",
+     "en": "One suspected on tohorot is not suspected on ma'aser or shevi'it, since the impure food he sold as pure defiles others only by rabbinic law."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:17",
+     "quote": "הֶחָשׁוּד עַל הַדָּבָר דָּנוֹ וּמְעִידוֹ",
+     "he": "חזקה אין אדם חוטא לאחרים — לכן החשוד על הדבר דנו ומעידו, ונאמן על של אחרים.",
+     "en": "A person is presumed not to sin on behalf of others, so one suspected on a matter judges and testifies to it, and is believed regarding others' produce."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tithes 12:17",
+     "quote": "חֲזָקָה אֵין אָדָם חוֹטֵא וְלֹא לוֹ",
+     "he": "חשוד שהעיד על של אחרים נאמן, שחזקה אין אדם חוטא ולא לו.",
+     "en": "A suspect who testifies about others' produce is believed, for a person is presumed not to sin without benefit to himself."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30a:4:1",
+     "quote": "דמיירי בנותן מעשר שני לשם חולין",
+     "he": "רבינו תם מדייק שכל מקום שהוזכר מעשר אצל שביעית מדובר בנותן מעשר שני לשם חולין.",
+     "en": "Rabbeinu Tam infers that wherever ma'aser is mentioned alongside shevi'it, it speaks of giving second tithe as if it were ordinary produce."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חדושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 30a:3",
+     "quote": "ומלת בנותן אינו מיושב",
+     "he": "מעיר על לשון התוספות ״דמיירי בנותן מעשר שני לשם חולין״ שהמילה ״בנותן״ אינה מיושבת, ושהיה ראוי יותר לומר ״במוכר״ כמו למעלה.",
+     "en": "Remarks that in Tosafot's words 'speaks of one giving second tithe as ordinary produce' the word 'banoten' is not settled, and 'bamocher' would fit better, as above."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30a:2",
+     "quote": "וק\"ל הא משקין מטמא מדאורייתא",
+     "he": "מקשה על הרמב״ם שכתב שהאוכל הטמא מטמא אחרים רק מדברי סופרים — והרי משקין מטמאים מדאורייתא.",
+     "en": "Challenges the Rambam's statement that impure food defiles others only rabbinically — liquids defile by Torah law."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30a:3",
+     "quote": "דמיתסרא עלי' לעולם",
+     "he": "מבאר ש״כיון דמיתסרא ליה״ פירושו שנאסרה עליו לעולם ואין לה תקנה בפדיון.",
+     "en": "Explains 'since it is forbidden to him' to mean it is forbidden to him permanently, with no remedy of redemption."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 119:30",
+     "quote": "אינו אלא על פרטי דינים אלו",
+     "he": "מסביר שמה ששנינו בבכורות הוא רק על פרטי הדינים הללו, ואינו נוגע לכל התורה כולה.",
+     "en": "Explains that what the Mishnah in Bekhorot teaches applies only to these particular laws, not to the whole Torah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    9
+   ],
+   "he": {
+    "title": "חשוד על הטהרות — קושיית הברייתא ותירוצי רבי אילעאי ורבי ינאי",
+    "gemara": "המשנה אומרת שיש חשוד על הטהרות ואינו חשוד על שביעית, כי הטהרות דרבנן. הקשו מברייתא: ״נאמן על הטהרות — נאמן על שביעית״, ומכאן שחשוד על הטהרות חשוד על שביעית. רבי אילעאי: המשנה מדברת כשראינוהו נוהג בצנעה בתוך ביתו. רבי ינאי ברבי ישמעאל: חשוד היה על שניהם, קיבל עליו לפני חכמים, ושוב נחשד באחד מהם — אומרים ״מיגו דחשיד אהא חשיד נמי אאידך״.",
+    "halakha": "החשוד על דבר חמור חשוד גם על הקל ממנו בעונש, אלא אם כן חמור בעיני בני אדם שנזהרים בו יותר (ערוך השולחן יורה דעה קי״ט:כ״ו מביא את לשון השולחן ערוך)."
+   },
+   "en": {
+    "title": "Suspected on tohorot — the baraita's challenge and the answers of Rabbi Ila'i and Rabbi Yannai",
+    "gemara": "The Mishnah says one may be suspected on tohorot but not on shevi'it, as tohorot are rabbinic. A baraita is raised: 'one believed on tohorot is believed on shevi'it', implying that one suspected on tohorot is suspected on shevi'it. Rabbi Ila'i: the Mishnah speaks where we saw him observe privately in his own home. Rabbi Yannai son of Rabbi Yishmael: he was suspected on both, accepted both before the sages, and was later suspected on one — we say that since he is suspected on one, he is suspected on the other.",
+    "halakha": "One suspected on a severe prohibition is suspected on a lighter one in punishment, unless it is severe in people's eyes since they are more careful with it (Arukh HaShulchan, Yoreh De'ah 119:26 quotes the Shulchan Arukh)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:7:1",
+     "quote": "דרבנן נינהו שיהא אדם אוכל חולין בטהרה",
+     "he": "הטהרות דרבנן — שיהא אדם אוכל חולין בטהרה.",
+     "en": "Tohorot are rabbinic — that a person eat ordinary food in purity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:8:1",
+     "quote": "כגון שראינוהו שנוהג דין מעשרות ושביעית בצינעא",
+     "he": "תירוץ רבי אילעאי: ראינוהו נוהג דין מעשרות ושביעית בצנעה בתוך ביתו, ואין לומר שבפנים הוא עושה ובפנים לא.",
+     "en": "Rabbi Ila'i's answer: we saw him keep ma'aser and shevi'it privately; since he does it in secret, it is not for show."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:9:1",
+     "quote": "וקביל אתרוייהו שיזהר על שניהם",
+     "he": "רבי ינאי: היה חשוד על שביעית ועל טהרות, וקיבל עליו להיזהר בשניהם.",
+     "en": "Rabbi Yannai: he was suspected on shevi'it and tohorot and accepted to be careful in both."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:9",
+     "quote": "דטהרות אוכלי חולין בטהרה אינו אלא מדרבנן",
+     "he": "הטעם שהמשנה אומרת שיש חשוד על הטהרות ואינו חשוד על שביעית: אכילת חולין בטהרה אינה אלא מדרבנן.",
+     "en": "The reason for the Mishnah: eating ordinary food in purity is only rabbinic."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:10",
+     "quote": "חשוד על הטהרות חשוד נמי אשביעית וקשיא למתני'",
+     "he": "מפרש את הקושיה: מהברייתא, חשוד על הטהרות חשוד גם על שביעית, וקשה למשנה.",
+     "en": "Explains the challenge: from the baraita, one suspected on tohorot is suspected on shevi'it, which contradicts the Mishnah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:13",
+     "quote": "ושוב איחשד אחדא ומש\"ה כיון דתחלה היה חשוד אכולן",
+     "he": "רבי ינאי: מכיוון שבתחילה היה חשוד על כולן, כשנחשד שוב באחד אומרים שחשוד על כולן.",
+     "en": "Rabbi Yannai: since he was originally suspected on all, when he is again suspected on one we say he is suspected on all."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30a:7:1",
+     "quote": "דלגופה לא איצטריך דפשיטא",
+     "he": "״הא חשוד חשוד״ — לגופה לא נצרכה הברייתא, שפשוט שהנאמן על הטהרות נאמן על שביעית כי נוהג כפרושים.",
+     "en": "'Ha chashud chashud' — the baraita was not needed for itself, as it is obvious that one believed on tohorot is believed on shevi'it, since he lives as the Perushim."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30a:8:1",
+     "quote": "משמע דעם הארץ סתמא חשוד אשביעית כמו אטהרות",
+     "he": "מדברי רבי אילעאי משמע שעם הארץ סתם חשוד על שביעית כמו על טהרות, ומקשה מסוגיית גיטין.",
+     "en": "From Rabbi Ila'i it follows that an ordinary am ha'aretz is suspected on shevi'it as on tohorot, and Tosafot raises a difficulty from the sugya in Gittin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חדושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 30a:4",
+     "quote": "אפילו חשוד על הטהרות נאמן על שביעית",
+     "he": "מקשה על קושיית התוספות: אפילו אם אינו פשוט, היה ראוי לשנות חידוש גדול יותר — שאפילו חשוד על הטהרות נאמן על שביעית.",
+     "en": "Questions the Tosafot reading: even if not obvious, the baraita should have taught the greater novelty that even one suspected on tohorot is believed on shevi'it."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 119:26",
+     "quote": "החשוד על איסור חמור חשוד על הקל ממנו בעונש",
+     "he": "מביא את לשון השולחן ערוך וטוען שאין בגמרא אלא איסורים שווים בעונש, וקשה מנין לו לומר שאם הקל חמור בעיני בני אדם אינו חשוד עליו.",
+     "en": "Quotes the Shulchan Arukh and argues the Gemara addresses only prohibitions equal in punishment, asking how the Shulchan Arukh derives the exception for what people treat as severe."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    10,
+    2
+   ],
+   "he": {
+    "title": "דברי רבי עקיבא סתימתאה וחכמים: רבי יהודה ורבי מאיר",
+    "gemara": "רבה בר בר חנה בשם רבי יוחנן: המשנה היא דברי רבי עקיבא סתימתאה, ״אבל חכמים אומרים: חשוד על השביעית חשוד על המעשר״. מי הם חכמים? רבי יהודה, שבמקומו שביעית חמורה (המעשה ב״דיירא בר דיירתא״). לישנא אחרינא: חכמים אומרים חשוד על המעשר חשוד על השביעית — רבי מאיר, ״חשוד לדבר אחד הוי חשוד לכל התורה כולה״. רבי יונה ורבי ירמיה (או רבי יונה ורבי זעירא) חלקו: אחד אמר שחכמים הם רבי יהודה, ואחד אמר רבי מאיר. הברייתא: עם הארץ שקיבל דברי חבירות ונחשד לדבר אחד — לרבי מאיר נחשד לכל התורה, וחכמים אומרים רק לאותו דבר.",
+    "halakha": "עם הארץ שקיבל דברי חבירות ונחשד לדבר אחד אינו חשוד אלא לאותו דבר; כל החשוד לחמור נחשד על הקל, ולקל לא נחשד לחמור (רמב״ם הלכות מטמאי משכב ומושב י׳:ט׳)."
+   },
+   "en": {
+    "title": "Rabbi Akiva's anonymous view and the Sages: Rabbi Yehuda and Rabbi Meir",
+    "gemara": "Rabbah bar bar Chana in Rabbi Yochanan's name: the Mishnah is Rabbi Akiva's anonymous view, 'but the Sages say: one suspected on shevi'it is suspected on ma'aser'. Who are the Sages? Rabbi Yehuda, in whose place shevi'it was treated severely (the story of 'dayara bar dayarta'). A second version: the Sages say one suspected on ma'aser is suspected on shevi'it — Rabbi Meir, who says 'suspected in one matter is suspected in the whole Torah'. Rabbi Yona and Rabbi Yirmeya (or Rabbi Yona and Rabbi Ze'ira) disagreed: one said the Sages are Rabbi Yehuda, the other Rabbi Meir. The baraita: an am ha'aretz who accepted chavrut and was suspected in one matter — Rabbi Meir says suspected in the whole Torah; the Sages say only in that matter.",
+    "halakha": "An am ha'aretz who accepted chavrut and was suspected in one matter is suspected only in that matter; one suspected on the severe is suspected on the lighter, but not the reverse (Rambam, Those Who Defile Bed or Seat 10:9)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:10:1",
+     "quote": "דחשוד על השביעית אינו חשוד על המעשר",
+     "he": "״זו דברי רבי עקיבא״ — המשנה שאומרת שהחשוד על השביעית אינו חשוד על המעשר.",
+     "en": "'This is Rabbi Akiva's view' — the Mishnah that one suspected on shevi'it is not suspected on ma'aser."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:11:1",
+     "quote": "וכיון דחשוד אשביעית כ\"ש אמעשרות",
+     "he": "במקום רבי יהודה שביעית חמורה, וכיוון שחשוד על שביעית — כל שכן על מעשרות.",
+     "en": "In Rabbi Yehuda's place shevi'it was severe, and one suspected on it is all the more so suspected on ma'aser."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30a:11:4",
+     "quote": "סתם משנה רבי מאיר סתם ברייתא רבי נתן",
+     "he": "מביא פירוש שרבי עקיבא סתימתאה כמו ״סתם משנה רבי מאיר, סתם ברייתא רבי נתן — וכולהו אליבא דרבי עקיבא״, ודוחה זאת.",
+     "en": "Brings an explanation that 'Rabbi Akiva stam' is like 'an anonymous Mishnah is Rabbi Meir, an anonymous baraita Rabbi Natan, all in line with Rabbi Akiva', and rejects it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:1:2",
+     "quote": "דאמר לקמן חשוד לדבר אחד חשוד לכל התורה",
+     "he": "״ומאן חכמים — רבי מאיר״, שאומר בהמשך שחשוד לדבר אחד חשוד לכל התורה.",
+     "en": "'Who are the Sages? Rabbi Meir', who says below that one suspected in one matter is suspected in the whole Torah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:14",
+     "quote": "זו דברי ר\"ע סתימתאה הא סתמא דמתני' דתני",
+     "he": "״זו דברי רבי עקיבא סתימתאה״ — סתם המשנה ששנתה שחשוד על השביעית אינו חשוד על המעשרות, רבי עקיבא היא.",
+     "en": "'This is Rabbi Akiva's stam' — the anonymous Mishnah that one suspected on shevi'it is not suspected on ma'aser is Rabbi Akiva."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30a:15",
+     "quote": "ומדחשיד על החמור חשיד נמי אקל",
+     "he": "במקום רבי יהודה שביעית חמורה, ומי שחשוד על החמור חשוד גם על הקל.",
+     "en": "In Rabbi Yehuda's place shevi'it is severe, and one suspected on the severe is suspected on the lighter."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30a:11:1",
+     "quote": "ולכך חשוד אמעשר ותימה",
+     "he": "במקום רבי יהודה שביעית חמורה ולכן חשוד על מעשר; ותמה למה לא יחולל מעשר שני שוה מנה על שוה פרוטה, ומתרץ שלפעמים אין לו פרוטה מזומנת.",
+     "en": "In his place shevi'it was severe, hence suspected on ma'aser; Tosafot wonders why second tithe cannot be redeemed worth a maneh onto a perutah, and answers that sometimes he has no perutah on hand."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30b:2:1",
+     "quote": "לאותו דבר וכיוצא בו ולא אתא אלא לאפוקי בכל התורה כולה",
+     "he": "״אינו נחשד אלא על אותו דבר״ אינו דווקא, אלא על אותו דבר וכיוצא בו, ובא רק לומר שלא בכל התורה.",
+     "en": "'Suspected only in that matter' is not exact: it means that matter and what is like it, coming only to exclude the whole Torah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:9",
+     "quote": "וְכָל הֶחָשׁוּד לֶחָמוּר נֶחְשָׁד עַל הַקַּל",
+     "he": "פוסק כחכמים: אינו חשוד אלא לאותו דבר, וכל החשוד לחמור נחשד על הקל.",
+     "en": "Rules like the Sages: suspected only in that matter, and anyone suspected on the severe is suspected on the lighter."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 119",
+     "quote": "החשוד לדבר חמור חשוד גם לדבר הקל",
+     "he": "החשוד לדבר חמור חשוד גם לדבר הקל, ואפילו אם החמור חמור בעיני בני אדם בלבד.",
+     "en": "One suspected on a severe matter is suspected on a lighter one, even if the severity is only in people's eyes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30a:4",
+     "quote": "נ\"ל דסמיך על מתניתין דספ\"ג דדמאי",
+     "he": "סבור שהגמרא סומכת על המשנה בדמאי פרק ג׳ (״מודה רבי יהודה בנותן לחמותו שביעית״), ואין המעשה אלא להסביר את טעמו.",
+     "en": "Proposes the Gemara relies on the Mishnah in Demai ch. 3 ('Rabbi Yehuda agrees regarding one giving his mother-in-law shevi'it'), the story only serving to explain his reason."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30b:1",
+     "quote": "אין מכאן ראיה שיחלוק ר\"מ על מתניתין",
+     "he": "לתירוץ רבי ינאי אין ראיה מהברייתא שרבי מאיר חולק על המשנה, ומפנה לישוב ברא״ש.",
+     "en": "On Rabbi Yannai's answer there is no proof from the baraita that Rabbi Meir disputes the Mishnah, and he refers to a resolution in the Rosh."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    5
+   ],
+   "he": {
+    "title": "גר וכהן שבאו לקבל — חוץ מדבר אחד אין מקבלין",
+    "gemara": "גר שקיבל דברי תורה ונחשד לדבר אחד הוא חשוד לכל התורה והרי הוא כישראל משומד — ונפקא מינה, שאם קידש קידושיו קידושין. הבא לקבל דברי חבירות חוץ מדבר אחד אין מקבלין אותו, וכן גוי שבא לקבל תורה; רבי יוסי ברבי יהודה: אפילו דקדוק אחד מדברי סופרים. כך גם בן לוי וכהן, דכתיב ״המקריב את דם השלמים״ — כל כהן שאינו מודה בעבודה אין לו חלק בכהונה.",
+    "halakha": "גר שלא בדקו אחריו ומל וטבל בפני שלושה הדיוטות הרי זה גר, ואפילו חזר ועבד עבודה זרה הרי הוא כישראל מומר שקידושיו קידושין (שולחן ערוך יורה דעה רס״ח:י״ב); בן לוי שקיבל כל מצוות לויה חוץ מדבר אחד אין מקבלין אותו עד שיקבל את כולן (רמב״ם הלכות כלי המקדש ג׳:א׳)."
+   },
+   "en": {
+    "title": "A convert, a Levite and a kohen — one who excludes a single matter is not accepted",
+    "gemara": "A convert who accepted the Torah and is suspected in one matter is suspected in the whole Torah and is like a Jewish apostate — with the practical result that if he betroths, the betrothal is valid. One who comes to accept chavrut except for one matter is not accepted; likewise a gentile coming to accept the Torah; Rabbi Yosei son of Rabbi Yehuda: even one detail of the words of the scribes. So too a Levite and a kohen, as it is written 'He who offers the blood of the peace offerings' — a kohen who does not accept the service has no share in the priesthood.",
+    "halakha": "A convert who was not investigated and who circumcised and immersed before three laymen is a convert, and even if he returned to idolatry he is like a Jewish apostate whose betrothal is valid (Shulchan Arukh, Yoreh De'ah 268:12); a Levite who accepted all the Levite commandments except one is not accepted until he accepts them all (Rambam, Vessels of the Sanctuary 3:1)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:1",
+     "quote": "דיורא בת דיורתא. גר בת גיורת",
+     "he": "מפרש ״דיירא בר דיירתא״ — גר בן גיורת.",
+     "en": "Explains 'dayara bar dayarta' as a convert, son of a convert."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:2",
+     "quote": "קדושיו קדושין. ובעיא גט",
+     "he": "״קידושיו קידושין״ — וצריכה גט.",
+     "en": "'His betrothal is betrothal' — and she needs a get."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:3:1",
+     "quote": "ולא אמרינן דליהוי עובד כוכבים גמור",
+     "he": "״כישראל מומר״ — ולא אומרים שיהיה גוי גמור כאילו לא נתגייר.",
+     "en": "'Like a Jewish apostate' — we do not say he is a complete gentile as if he never converted."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 13:17",
+     "quote": "הֲרֵי הוּא כְּיִשְׂרָאֵל מוּמָר שֶׁקִּדּוּשָׁיו קִדּוּשִׁין",
+     "he": "גר שמל וטבל, גם אם חזר ועבד עבודה זרה — הרי הוא כישראל מומר שקידושיו קידושין.",
+     "en": "A convert who circumcised and immersed, even if he returned to idolatry, is like a Jewish apostate whose betrothal is valid."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:3",
+     "quote": "הואיל ואין יכול לעמוד באותו דבר",
+     "he": "״חוץ מדבר אחד אין מקבלין״ — כי אומרים הואיל ואין יכול לעמוד באותו דבר, ודאי לא יעמוד באחרים.",
+     "en": "'Except one matter, not accepted' — since he cannot stand in that matter, he surely cannot stand in the others."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:4:1",
+     "quote": "שלא יתן תרומה ומעשר לעם הארץ",
+     "he": "מפרש דברי חבירות מהתוספתא בדמאי: שלא יתן תרומה ומעשר לעם הארץ, ושיאכל חולין בטהרה, ושיעשר את שאוכל ומוכר ולוקח.",
+     "en": "Explains chavrut from the Tosefta in Demai: not to give terumah and ma'aser to an am ha'aretz, to eat ordinary food in purity, and to tithe what he eats, sells and buys."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:5:1",
+     "quote": "לשורר ולשרת ולהיות שוער",
+     "he": "״דברי לויה״ — לשורר ולשרת ולהיות שוער.",
+     "en": "'Matters of Levitical service' — singing, serving and being a gatekeeper."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:5:2",
+     "quote": "לו תהיה שוק הימין למנה",
+     "he": "״מבני אהרן״ — שינהג כל דין בני אהרן, כגון ״לו תהיה שוק הימין למנה״.",
+     "en": "'Of the sons of Aaron' — that he follow every law of the sons of Aaron, such as 'his shall be the right thigh as a portion'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:1",
+     "quote": "חוּץ מִדָּבָר אֶחָד אֵין מְקַבְּלִין אוֹתוֹ",
+     "he": "בן לוי שקיבל כל מצוות לויה חוץ מדבר אחד — אין מקבלין אותו עד שיקבל את כולן.",
+     "en": "A Levite who accepted all the Levite commandments except one is not accepted until he accepts them all."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 1:1",
+     "quote": "וְכָל כֹּהֵן שֶׁאֵינוֹ מוֹדֶה בָּהֶן אֵין לוֹ חֵלֶק בַּכֹּהֲנִים",
+     "he": "על עשרים וארבע מתנות כהונה נכרתה ברית לאהרן, וכל כהן שאינו מודה בהן אין לו חלק בכהנים ואין נותנים לו מתנה.",
+     "en": "A covenant was made with Aaron over the twenty-four priestly gifts, and a kohen who does not accept them has no share among the priests and is given no gift."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 394:3",
+     "quote": "בן לוי שקבל עליו כל מצות לויה",
+     "he": "מביא את דין בכורות ל׳ ב׳ — בן לוי שקיבל כל מצוות לויה חוץ מדבר אחד אין מקבלין אותו עד שיקבל את כולם.",
+     "en": "Cites the law of Bekhorot 30b: a Levite who accepted all Levite commandments except one is not accepted until he accepts them all."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 268:12",
+     "quote": "ואפילו חזר ועבד אלילים הרי הוא כישראל מומר",
+     "he": "פוסק כרמב״ם: אפילו חזר ועבד אלילים — הרי הוא כישראל מומר שקידושיו קידושין.",
+     "en": "Rules as the Rambam: even if he returned to idols, he is like a Jewish apostate whose betrothal is valid."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Even HaEzer 44:11",
+     "quote": "ולהדיא אמרו בש\"ס",
+     "he": "דוחה את מי שאמר שקידושי המומר תופסים רק מדרבנן, ומביא שהש״ס אמר במפורש בבכורות ל׳ ״אי קדש קדושיו קדושין״.",
+     "en": "Rejects those who say an apostate's betrothal takes effect only rabbinically, and cites the Talmud's explicit statement in Bekhorot 30 that if he betroths, it is valid."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    10
+   ],
+   "he": {
+    "title": "אופן הקבלה: צנעא, כנפים וטהרות, ושיעור הזמן",
+    "gemara": "הבא לקבל דברי חבירות: אם ראינוהו שנוהג בצנעה בתוך ביתו — מקבלין ואחר כך מלמדין; ואם לאו — מלמדין ואחר כך מקבלין. רבי שמעון בן יוחאי: בין כך ובין כך מקבלין והוא לומד כדרכו. מקבלין לכנפים ואחר כך לטהרות; מי שקיבל לטהרות ולא לכנפים — אף לטהרות לא קיבל. עד כמה? בית שמאי: למשקין שלושים יום, לכסות שנים עשר חודש; בית הלל: שניהם שנים עשר חודש — ואחר כך הוכיחו שבית הלל אומרים שלשים לשניהם.",
+    "halakha": "מקבלין אותו תחילה לטהרת הידיים ואחר כך לטהרות; מקבלין אותו וחוששין לו שלושים יום עד שילמד, ואחר כך הוא נאמן על כל הטהרות (רמב״ם הלכות מטמאי משכב ומושב י׳:ב׳)."
+   },
+   "en": {
+    "title": "How acceptance works: private conduct, kenafayim and tohorot, and the time period",
+    "gemara": "One who comes to accept chavrut: if we saw him conduct himself privately in his home — we accept him and then teach him; if not — we teach him and then accept him. Rabbi Shimon bar Yochai: either way we accept him and he learns along the way. We accept for kenafayim and then for tohorot; one who accepted tohorot but not kenafayim has not accepted even tohorot. How long? Beit Shammai: thirty days for liquids, twelve months for garments; Beit Hillel: twelve months for both — and then the Gemara concludes Beit Hillel say thirty days for both.",
+    "halakha": "He is accepted first for purity of the hands and then for tohorot; once accepted he is treated cautiously for thirty days until he learns, and then he is believed on all tohorot (Rambam, Those Who Defile Bed or Seat 10:2)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:6:1",
+     "quote": "שאין לחושדו ולומר לפנים הוא עושה",
+     "he": "״שנוהג בצנעה״ — היה נוהג דין חבירות קודם הקבלה, שאין לחושדו שרק בפנים הוא עושה.",
+     "en": "'Conducts himself privately' — he kept chavrut before accepting it, so we need not suspect that it is for show."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:6:2",
+     "quote": "שנחזיקנו כחבר וכנאמן לכל דבריו",
+     "he": "״מקבלין אותו״ — שנחזיקנו כחבר וכנאמן לכל דבריו.",
+     "en": "'We accept him' — that we regard him as a chaver, believed in all his words."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:7:1",
+     "quote": "שיטול ידיו קודם אכילה",
+     "he": "״לכנפים״ — שיטול ידיו קודם אכילה וקודם שיגע באוכלי תרומה, שידים שניות הן.",
+     "en": "'Kenafayim' — that he wash his hands before eating and before touching terumah foods, as the hands are of second-degree impurity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:7:4",
+     "quote": "אינו יכול לעמוד כל שכן בשאר",
+     "he": "״אף לטהרות לא קיבל״ — כיוון שבנטילת ידים, דבר קל, אינו יכול לעמוד, כל שכן בשאר.",
+     "en": "'Not even tohorot' — since he cannot stand even in washing the hands, a light matter, all the more so in the rest."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:8:2",
+     "quote": "טומאת משקין מדרבנן",
+     "he": "״למשקין שלשים יום״ — מחזיקים אותו נאמן על משקין, שטומאתן מדרבנן.",
+     "en": "'Liquids, thirty days' — he is held reliable regarding liquids, whose impurity is rabbinic."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:8:3",
+     "quote": "בגדי עם הארץ מדרס לפרושים",
+     "he": "״לכסות״ — להחזיק כסותו כחבר, שבגדי עם הארץ מדרס לפרושים.",
+     "en": "'For garments' — to treat his clothing as a chaver's, since the clothes of an am ha'aretz are midras for the Perushim."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:9:1",
+     "quote": "הוה ליה מקולי בית שמאי ומחומרי בית הלל",
+     "he": "אם כן היה צריך לשנות זאת במשנה בעדיות של ״ששה דברים מקולי בית שמאי ומחומרי בית הלל״.",
+     "en": "If so, this should have been taught in the Mishnah in Eduyot listing 'six matters among the leniencies of Beit Shammai and stringencies of Beit Hillel'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:5",
+     "quote": "מקבלין אותו מיד ואח\"כ מלמדין אותו",
+     "he": "אם ראינוהו שנוהג בצנעה — מקבלין אותו מיד ואחר כך מלמדין אותו.",
+     "en": "If we saw him conduct himself privately, we accept him immediately and teach him afterward."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:6",
+     "quote": "לנטילת ידים אם קיבל עליו להזהר",
+     "he": "״מקבלין לכנפים״ — לנטילת ידים, אם קיבל עליו להיזהר שלא לאכול בלא נטילת ידים.",
+     "en": "'Kenafayim' — hand-washing, if he accepted to be careful not to eat without washing his hands."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:8",
+     "quote": "מדלא יכול לעמוד במה שצריך נטילת ידים",
+     "he": "״אף לטהרות לא קיבל״ — שאין סומכין עליו, כי אם אינו יכול לעמוד בנטילת ידים כל שכן בשאר טהרות.",
+     "en": "'Not even tohorot' — we do not rely on him: if he cannot keep hand-washing, all the more so other tohorot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:9",
+     "quote": "כמה חזינן ליה דאיזדהר בטהרה",
+     "he": "״עד כמה מקבלין אותו״ — כמה זמן ראינוהו נזהר בטהרה ומקבלין אותו כנאמן על הטהרות.",
+     "en": "'Until when do we accept him' — how long we have seen him careful in purity, so that he is accepted as believed on tohorot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:11",
+     "quote": "לטהרת בגדים כדאמרינן בגדי עם הארץ מדרס לפרושים",
+     "he": "״לכסות״ — לטהרת בגדים, כמו שאמרו בגדי עם הארץ מדרס לפרושים.",
+     "en": "'For garments' — the purity of clothing, as they said the clothes of an am ha'aretz are midras for the Perushim."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:2",
+     "quote": "חוֹשְׁשִׁין לוֹ כָּל שְׁלֹשִׁים יוֹם",
+     "he": "בקבלתו חוששים לו שלושים יום עד שילמד ויהיה רגיל בטהרות, ואחר כך נאמן על כל הטהרות כשאר החברים.",
+     "en": "When accepted, we are cautious about him for thirty days until he learns and becomes accustomed to tohorot, after which he is believed on all tohorot like other chaverim."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    12
+   ],
+   "he": {
+    "title": "קבלה בפני שלושה חברים — בן חבר, תלמיד חכם וזקן",
+    "gemara": "הבא לקבל דברי חבירות צריך לקבל בפני שלושה חברים; בניו ובני ביתו אינם צריכים. רבן שמעון בן גמליאל: אף בניו ובני ביתו, ״שאינו דומה חבר שקיבל לבן חבר שקיבל״. ברייתא נוספת: אפילו תלמיד חכם צריך לקבל בפני שלושה; זקן ויושב בישיבה אינו צריך, שכבר קיבל משעה שישב; אבא שאול: אף תלמיד חכם אינו צריך, ואחרים מקבלים לפניו.",
+    "halakha": "המקבל דברי חבירות צריך לקבל בפני שלושה חברים, ובניו ובני ביתו אינם צריכים כי הוא מלמדם ומרגילם; זקן ויושב בישיבה אינו צריך לקבל, שכבר קיבל בשעה שישב (רמב״ם הלכות מטמאי משכב ומושב י׳:ד׳–ה׳)."
+   },
+   "en": {
+    "title": "Acceptance before three chaverim — a chaver's son, a Torah scholar and an elder",
+    "gemara": "One who comes to accept chavrut must accept before three chaverim; his sons and household need not. Rabban Shimon ben Gamliel: even his sons and household, 'for a chaver who accepted is not like the son of a chaver who accepted'. Another baraita: even a Torah scholar must accept before three; an elder who sits in the yeshiva need not, for he accepted from the moment he sat; Abba Shaul: even a Torah scholar need not, and others even accept before him.",
+    "halakha": "One who accepts chavrut must accept before three chaverim, and his sons and household need not since he teaches and habituates them; an elder who sits in the yeshiva need not accept, having accepted when he sat (Rambam, Those Who Defile Bed or Seat 10:4–5)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:11:1",
+     "quote": "דבן חבר לא חשיד",
+     "he": "״אינו דומה חבר שקיבל לבן חבר״ — בן חבר אין לו קבלה אלא סרך אביו שנזהר יותר; ולפירוש אחר, התנא קמא אומר שבן חבר לא חשוד.",
+     "en": "'A chaver is not like a chaver's son' — the son has only his father's habit, as the father is more careful; on another reading, the first Tanna says a chaver's son is not suspected."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:12",
+     "quote": "חבר בן עם הארץ לא למד בבית אביו",
+     "he": "מפרש שחבר שהוא בן עם הארץ לא למד בבית אביו וצריך לקבל בפני שלושה, אבל בן חבר שנוהג בבית אביו אינו צריך.",
+     "en": "Explains that a chaver who is the son of an am ha'aretz did not learn in his father's house and must accept before three, whereas a chaver's son who conducts himself in his father's home need not."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:5",
+     "quote": "מִפְּנֵי שֶׁהוּא מְלַמְּדָן וּמַרְגִּילָן בְּדֶרֶךְ טָהֳרָה",
+     "he": "בניו ובני ביתו אינם צריכים לקבל בפני שלושה מפני שהוא מלמדן ומרגילן בדרך טהרה.",
+     "en": "His sons and household need not accept before three because he teaches them and habituates them in the path of purity."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:4",
+     "quote": "זָקֵן וְיוֹשֵׁב בִּישִׁיבָה אֵינוֹ צָרִיךְ לְקַבֵּל",
+     "he": "זקן ויושב בישיבה אינו צריך לקבל, שכבר קיבל בשעה שישב.",
+     "en": "An elder who sits in the yeshiva need not accept, for he accepted when he sat."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tithes 10:1",
+     "quote": "וְצָרִיךְ שֶׁיְּקַבֵּל עָלָיו דְּבָרִים אֵלּוּ בָּרַבִּים",
+     "he": "המקבל להיות נאמן על המעשרות צריך לקבל זאת ברבים, ואחר כך נאמן על פירותיו.",
+     "en": "One who accepts to be believed on ma'aser must accept this publicly, and then he is believed about his produce."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 30b:1",
+     "quote": "אבל זקן יושב בישיבה אין ממנין עד שיקבל",
+     "he": "מסביר שתלמיד חכם אינו נאמן על הטהרות עד שיקבל, אבל זקן יושב בישיבה — שאין ממנים אותו עד שקיבל עליו דברי חבירות — מוחזק שכבר קיבל.",
+     "en": "Explains that a scholar is not believed on tohorot until he accepts, but an elder in the yeshiva, who is not appointed until he accepted chavrut, is presumed to have already accepted."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    13,
+    15
+   ],
+   "he": {
+    "title": "מעשה בבנו של רבי חנינא בן אנטיגנוס",
+    "gemara": "אמר רבי יוחנן: בימי בנו של רבי חנינא בן אנטיגנוס נשנית משנה זו. רבי יהודה ורבי יוסי נסתפק להם דבר בטהרות ושלחו אליו; מצאוהו טועם טהרות, הושיב מתלמידיו אצלם ובעצמו הלך לעיין. רבי יהודה אמר: אביו ביזה תלמידי חכמים, אף הוא מבזה! רבי יוסי: ״כבוד זקן יהא מונח במקומו, אלא מיום שחרב בית המקדש נהגו כהנים סילסול בעצמן, שאין מוסרין את הטהרות לכל אדם״.",
+    "halakha": "תלמידי חכמים בחזקת טהרה ונאמנים ואינם צריכים לקבל דברי חבירות, אבל משחרב בית המקדש נהגו כהנים סילסול בעצמם שלא למסור טהרות אפילו לתלמידי חכמים עד שיקבל עליו דברי חבירות (רמב״ם הלכות מטמאי משכב ומושב י׳:ג׳)."
+   },
+   "en": {
+    "title": "The story of the son of Rabbi Chanina ben Antigonus",
+    "gemara": "Rabbi Yochanan said: this Mishnah was taught in the days of the son of Rabbi Chanina ben Antigonus. Rabbi Yehuda and Rabbi Yosei had a doubt about tohorot and sent to him; they found him handling tohorot, so he seated some of his students with them and went himself to study it. Rabbi Yehuda said: his father disgraced Torah scholars, and he too disgraces them! Rabbi Yosei: 'Let the elder's honor remain in its place; but since the Temple was destroyed, kohanim adopted a distinction for themselves, not to hand over tohorot to just anyone.'",
+    "halakha": "Torah scholars are presumed pure and believed and need not accept chavrut, but since the Temple's destruction kohanim adopted the practice of not handing tohorot even to scholars until the scholar accepts chavrut (Rambam, Those Who Defile Bed or Seat 10:3)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:13:1",
+     "quote": "דאפי' תלמיד חכם צריך לקבל",
+     "he": "״נשנית משנה זו״ — שאפילו תלמיד חכם צריך לקבל.",
+     "en": "'This Mishnah was taught' — that even a Torah scholar must accept."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:13:4",
+     "quote": "מתלמידיו שקיבלו עליהן דברי חבירות",
+     "he": "הושיב בני אדם מתלמידיו שקיבלו עליהם דברי חבירות עם השלוחים והלך לעיין בשאלתם.",
+     "en": "He seated some of his students who had accepted chavrut with the messengers and went to study their question."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:14:1",
+     "quote": "אגב ריתחיה קאמר ולא היא",
+     "he": "דברי רבי יהודה ״אביו של זה ביזה״ נאמרו מתוך כעס ואינם נכונים.",
+     "en": "Rabbi Yehuda's words 'this one's father disgraced' were said in anger and are not correct."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:15:2",
+     "quote": "ר' חנינא בן אנטיגנוס כהן היה",
+     "he": "״סילסול״ — מעלה; ורבי חנינא בן אנטיגנוס כהן היה.",
+     "en": "'Sillusul' — a distinction; and Rabbi Chanina ben Antigonus was a kohen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:13",
+     "quote": "דת\"ח צריך לקבל בפני ג'",
+     "he": "משנה זו נשנתה כשתלמיד חכם צריך לקבל בפני שלושה, כי היה חשוד בטהרותיו אלא אם כן קיבל בפניהם.",
+     "en": "This Mishnah was taught when a Torah scholar had to accept before three, as he was suspect regarding his tohorot unless he accepted before them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:15",
+     "quote": "כבוד זקן יהא מונח במקומו כלומר אל תחשדיה",
+     "he": "כבוד זקן יהא מונח במקומו — כלומר אל תחשדהו שהוא מבזה תלמידי חכמים.",
+     "en": "'Let the elder's honor remain in its place' — that is, do not suspect him of disgracing Torah scholars."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 30b:16",
+     "quote": "אלא מיום שחרב בהמ\"ק נהגו חכמים סילסול חומרא",
+     "he": "מיום שחרב בית המקדש נהגו חכמים סילסול — חומרא.",
+     "en": "Since the Temple's destruction the sages adopted sillusul — a stringency."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 30b:14:1",
+     "quote": "ביזה תלמידים שלנו על הטהרות כמו שעשה בנו",
+     "he": "״אביו של זה ביזה תלמידי חכמים״ — על הטהרות, כמו שעשה בנו.",
+     "en": "'This one's father disgraced Torah scholars' — regarding tohorot, as his son did."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "b",
+   "lines": [
+    16,
+    18
+   ],
+   "he": {
+    "title": "חבר שמת, ואשת חבר ועם הארץ — קבלה בתחילה",
+    "gemara": "חבר שמת — אשתו ובניו ובני ביתו בחזקתם עד שיחשדו; וחצר שמוכרין בה תכלת — בחזקתה עד שתיפסל. אשת עם הארץ שנישאת לחבר, בתו ועבדו — צריכים לקבל בתחילה; אשת חבר שנישאת לעם הארץ וכן בתו ועבדו — אינם צריכים. רבי מאיר: אף הן צריכים, ורבי שמעון בן אלעזר מעיד משמו על אשה שהייתה קומעת תפילין לחבר, ונישאת לעם הארץ וקשרה לו קשרי מוכס.",
+    "halakha": "אשת עם הארץ או בתו שנישאת לחבר, וכן עבדו שנמכר לחבר, צריכים לקבל דברי חבירות כבתחילה; אשת חבר או בתו שנישאת לעם הארץ וכן עבדו אינם צריכים (רמב״ם הלכות מטמאי משכב ומושב י׳:ו׳)."
+   },
+   "en": {
+    "title": "A chaver who died; spouses of a chaver and of an am ha'aretz — acceptance at the outset",
+    "gemara": "A chaver who died — his wife, sons and household remain in their presumption until suspected; and a courtyard where tekhelet is sold remains in its presumption until disqualified. The wife, daughter or slave of an am ha'aretz who married or was sold to a chaver must accept at the outset; the wife, daughter or slave of a chaver who married or was sold to an am ha'aretz need not. Rabbi Meir: they too must accept; Rabbi Shimon ben Elazar reports in his name a woman who tied tefillin on a chaver's arm and, married to an am ha'aretz, tied tax-collector knots for him.",
+    "halakha": "The wife or daughter of an am ha'aretz who married a chaver, and likewise his slave sold to a chaver, must accept chavrut as at the outset; the wife or daughter of a chaver who married an am ha'aretz, and likewise his slave, need not (Rambam, Those Who Defile Bed or Seat 10:6)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:16:1",
+     "quote": "שימכרו בה קלא אילן לשם תכלת",
+     "he": "״בחזקתה עד שתיפסל״ — עד שיתברר שמוכרים בה קלא אילן לשם תכלת.",
+     "en": "'In its presumption until disqualified' — until it is found that they sell kela ilan as tekhelet."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:17:1",
+     "quote": "בתוספתא גרסינן הכי בבתחלה כלומר מתחלה",
+     "he": "בתוספתא גורסים ״בבתחילה״, כלומר קודם שהחזקנוהו בחבירות; ואף שאמרו שבניו ובני ביתו אינם צריכים, כאן שונה כיוון שבשעת הקבלה לא היו אצלו.",
+     "en": "In the Tosefta the reading is 'bevatchila', before we established him as a chaver; and though it was said his sons and household need not accept, here it differs since they were not with him when he accepted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 30b:18:2",
+     "quote": "שיש חותמות למוכסים וכשנותנין להן המכס",
+     "he": "״קשרי מוכס״ — חותמות למוכסים, שכשנותנים להם המכס הם נותנים חותם כדי שלא יתבענו מוכס שני.",
+     "en": "'Tax-collector knots' — seals of tax collectors: when one pays the tax, they give a seal so that a second collector will not demand it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:6",
+     "quote": "אֵין צְרִיכִין לְקַבֵּל דִּבְרֵי חֲבֵרוּת כְּבַתְּחִלָּה",
+     "he": "אשת חבר או בתו שנישאת לעם הארץ וכן עבדו שנמכר לעם הארץ אינם צריכים לקבל דברי חבירות כבתחילה.",
+     "en": "The wife or daughter of a chaver who married an am ha'aretz, and likewise his slave sold to an am ha'aretz, need not accept chavrut as at the outset."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tithes 10:3",
+     "quote": "הֲרֵי הֵן בְּחֶזְקָתָן עַד שֶׁיֵּחָשְׁדוּ",
+     "he": "בת חבר או אשתו שנישאת לעם הארץ הרי הן בחזקתן עד שיחשדו; בנו או עבדו של חבר שהיו למודים אצל עם הארץ צריכים לקבל.",
+     "en": "A chaver's daughter or wife who married an am ha'aretz remains in her presumption until suspected; a chaver's son or slave who were accustomed with an am ha'aretz must accept."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Fringes 2:6",
+     "quote": "הֲרֵי הִיא בְּחֶזְקָתָהּ עַד שֶׁתֵּחָשֵׁד",
+     "he": "חצר שמוכרין בה תכלת ומוחזקת בכשרות — לוקחין ממנה סתם, והרי היא בחזקתה עד שתחשד.",
+     "en": "A courtyard where tekhelet is sold and which is presumed reliable — one buys from it without checking, and it remains presumed until suspected."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Sefer Mitzvot Gadol (Semag)"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 135:1",
+     "quote": "בת עם הארץ או אשתו שנישאת לחבר",
+     "he": "מביא את דין בכורות ל׳: בת עם הארץ או אשתו שנישאת לחבר וכו׳ צריכים לקבל לכתחילה, ובת חבר או אשתו שנישאת לעם הארץ בחזקת נאמנים עד שיחשדו.",
+     "en": "Cites Bekhorot 30: the daughter or wife of an am ha'aretz who married a chaver must accept at the outset, while a chaver's daughter or wife who married an am ha'aretz is presumed reliable until suspected."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 30b:2",
+     "quote": "ולכן יש ליישב גירסת כבתחלה",
+     "he": "מיישב את הגירסה ״כבתחילה״: כמו שבאו מתחילה לקבל עליהם דברי חבירות בלי שקדמה להם קבלת בעליהם.",
+     "en": "Defends the reading 'ke-vatchila': as if they came at the outset to accept chavrut, without a prior acceptance by their spouse."
+    }
+   ]
+  }
+ ]
+}
