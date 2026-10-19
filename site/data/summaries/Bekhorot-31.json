@@ -1,0 +1,1341 @@
+{
+ "ref": "Bekhorot 31",
+ "date": "2026-10-19",
+ "he": {
+  "overview": "דף ל״א עוסק בשלושה נושאים. בעמוד א׳ מסיימים את הסוגיה של מי שחזר בו מחברותו — דעת רבי מאיר, רבי יהודה ורבי שמעון — ובחבר שנעשה גבאי ובמעשה רב הונא בר חייא; ואחר כך הברייתא ״אדם רואה כל הבכורות חוץ משל עצמו״ ומדוע רואה את קדשיו, מעשרותיו וטהרותיו. מתחילים פרק חמישי במשנה ״כל פסולי המוקדשין״, שהנאתם להקדש, חוץ מבכור ומעשר שהנאתם לבעלים. בעמוד ב׳ הגמרא מבררת אימתי ״הנאתן להקדש״, ההבדל בין ״לא תפדה״ בבכור ל״לא יגאל״ במעשר, תירוצו של רב ששת ״מעשר של יתומים״ והסיפור על רבי אידי ״שפתותיו דובבות בקבר״, והמחלוקת אביי–רבא על הבלעה ועל איסור מכירה לאחר שחיטה. הראשונים והאחרונים דנים בפירוש ״חזרו בהן״, בחשד שבראיית בכור עצמו, ובשאלה אם איסור המכירה הוא מדאורייתא או מדרבנן.",
+  "title": "סיכום — בכורות ל״א"
+ },
+ "en": {
+  "overview": "Daf 31 deals with three subjects. On amud a it completes the sugya of one who went back on his commitment to chaverut — Rabbi Meir, Rabbi Yehuda, and Rabbi Shimon — and the chaver who became a tax-collector, with the story of Rav Huna bar Chiyya; then the baraita 'a person may examine any firstling except his own' and why he may examine his own consecrated animals, tithes and purities. The Mishna of the fifth chapter begins, 'all blemished consecrated animals', whose benefit goes to Hekdesh, except firstling and tithe whose benefit goes to the owners. On amud b the Gemara asks when 'their benefit goes to Hekdesh', the difference between 'do not redeem' for the firstling and 'shall not be redeemed' for the tithe, Rav Sheshet's answer of the orphans' tithe and the story of Rabbi Idi and 'his lips murmur in the grave', and the dispute of Abaye and Rava over havla'a and the prohibition of sale after slaughter. The Rishonim and Acharonim discuss the meaning of 'went back', the suspicion in examining one's own firstling, and whether the prohibition of sale is from the Torah or rabbinic.",
+  "title": "Summary — Bekhorot 31"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "במטמוניות",
+    "בפרהסיא"
+   ],
+   "he": {
+    "term": "במטמוניות / בפרהסיא",
+    "explanation": "עשיית דבר בסתר לעומת עשייתו בגלוי לרבים. כאן — אם מי שחזר בו חטא בסתר או בפרהסיא, וממנו תלוי אם מקבלים אותו שוב. נחלקו התנאים והראשונים אם הפרהסיא מכשירה או פוסלת."
+   },
+   "en": {
+    "term": "Bemataminyot / befarhesya (in secret / in public)",
+    "explanation": "Doing something privately as against openly before the public. Here, whether the one who went back sinned in private or in public determines whether he is accepted again. The Tannaim and Rishonim differ on which of the two counts against him."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31a:2:1",
+    "quote": "שלא חיללו שם שמים בפרהסיא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "חבר ונעשה גבאי"
+   ],
+   "he": {
+    "term": "גבאי",
+    "explanation": "מי שממונה מטעם המלך לגבות מס מישראל. חבר שקיבל עליו את דיני הטהרה ושאר דברי החברות ונעשה גבאי — דוחים אותו מחברותו, ושאלת הגמרא היא אם יתקבל שוב כשפורש."
+   },
+   "en": {
+    "term": "Gabbai (tax-collector)",
+    "explanation": "A person appointed by the king to collect tax from Jews. A chaver — one who took on the laws of purity and the other duties of chaverut — who became a gabbai is removed from chaverut, and the question is whether he is taken back if he withdraws."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31a:4:1",
+    "quote": "ממונה למלך לגבות מס מישראל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "ביחיד מומחה"
+   ],
+   "he": {
+    "term": "יחיד מומחה",
+    "explanation": "חכם יחיד שנתמנה ומוסמך להתיר מומי בכורות. הגמרא מעמידה בו את הדין ״אדם רואה כל הבכורות חוץ משל עצמו״, כי בשלושה אין חשש חשד. כל מומחה שהתיר — רק אחרי שניתנה לו רשות."
+   },
+   "en": {
+    "term": "Yachid mumcheh (a single expert)",
+    "explanation": "A single sage appointed and authorized to rule on blemishes of firstlings. The Gemara sets the rule ״a person may examine any firstling except his own״ in his case, because three judges raise no suspicion."
+   },
+   "source": {
+    "who": {
+     "he": "כסף משנה",
+     "en": "Kessef Mishneh"
+    },
+    "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 3:1:3",
+    "quote": "ומוקמינן לה ביחיד מומחה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "מיתשיל"
+   ],
+   "he": {
+    "term": "שאלה על הקדש (התרת הקדש)",
+    "explanation": "פנייה לחכם שיתיר הקדש שהוקדש בטעות או בלי דעת מלאה (״פתח״ או ״חרטה״). משום כך אדם נאמן על קדשיו: אם רצה, היה מתיר אותם בהיתר, ואין לו סיבה לשקר."
+   },
+   "en": {
+    "term": "She'elah (annulment of a consecration)",
+    "explanation": "Asking a sage to release a consecration made in error or without full awareness (via an opening or regret). This is why a person is believed about his own consecrated animals: had he wished, he could have released them permissibly, so he has no reason to lie."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31a:10:1",
+    "quote": "ולפתוח בחרטה דהקדש טעות"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "פסולי המוקדשין"
+   ],
+   "he": {
+    "term": "פסולי המוקדשין",
+    "explanation": "קדשים שנפל בהם מום ופסולים להקרבה. נפדים, ומותר לאכלם כחולין; בגמרא נדון מתי נחשבת הנאתם להקדש."
+   },
+   "en": {
+    "term": "Pesulei hamukdashin",
+    "explanation": "Consecrated animals that developed a blemish and are disqualified from the altar. They are redeemed and may be eaten as ordinary food; the Gemara examines when their benefit counts as Hekdesh's."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31a:14:1",
+    "quote": "קדשים שנפל בהן מום"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "בליטרא"
+   ],
+   "he": {
+    "term": "נשקלין בליטרא",
+    "explanation": "מכירת בשר לפי משקל במידת הליטרא, כדרך הקצבים. בפסולי המוקדשין מותר, כי הרווח להקדש; בבכור ומעשר — לא."
+   },
+   "en": {
+    "term": "Nishkalin belitra",
+    "explanation": "Selling meat by weight in the litra measure, as butchers do. For blemished consecrated animals it is permitted, since the profit goes to Hekdesh; for firstling and tithe it is not."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31a:14:4",
+    "quote": "כדרך שהקצבין מוכרין בשר חולין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "העמדה והערכה"
+   ],
+   "he": {
+    "term": "העמדה והערכה",
+    "explanation": "דין פדיית בהמת הקדש: מעמידים אותה לפני הכהן והוא מעריך. בהמת הקדש נפדית רק מחיים, ולכן שואלת הגמרא איך נשחטים לפני הפדיון."
+   },
+   "en": {
+    "term": "Ha'amada veha'arakha (standing and valuation)",
+    "explanation": "The rule of redeeming a consecrated animal: it is stood before the kohen who values it. A consecrated animal is redeemed only while alive, so the Gemara asks how it can be slaughtered before redemption."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31b:2:3",
+    "quote": "דבהמת הקדש אינה נפדית אלא מחיים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 13,
+   "anchors": [
+    "בהבלעה"
+   ],
+   "he": {
+    "term": "הבלעה",
+    "explanation": "תמחור שבו מגדילים את מחיר הפריט המותר כך שיכלול את מחיר הפריט האסור, כדי להימנע מאיסור מכירה גלוי. כאן — מכירת עור, חלב וגידים ביוקר כדי להבליע בהם את דמי הבשר."
+   },
+   "en": {
+    "term": "Havla'a (blending the price)",
+    "explanation": "Pricing in which the price of the forbidden item is blended into the price of a permitted item, to avoid an overt prohibited sale. Here, selling the hide, fat and sinews dearly so as to blend the price of the meat into them."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 31b:12:2",
+    "quote": "ויבליע לו בהן דמי הבשר"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "מי שחזר בו: האם מקבלים אותו שוב",
+    "gemara": "הברייתא קובעת שכל מי ש״חזרו בהן״ אין מקבלים אותם לעולם, כדעת רבי מאיר. רבי יהודה מחלק: חזרו במטמוניות — אין מקבלים, בפרהסיא — מקבלים. בלשון אחרת ״איכא דאמרי״ הדין הפוך. רבי שמעון ורבי יהושע בן קרחה אומרים שמקבלים בכל אופן, שנאמר ״שובו בנים שובבים״, ורבי יוחנן פוסק כאותו זוג."
+   },
+   "en": {
+    "title": "One who went back on his commitment: is he taken back?",
+    "gemara": "The baraita rules that those who ״went back״ are never accepted again, per Rabbi Meir. Rabbi Yehuda distinguishes: if they went back in secret they are not accepted, if publicly they are. A second version (״some say״) reverses this. Rabbi Shimon and Rabbi Yehoshua ben Korcha say they are accepted either way, from ״Return, rebellious children״, and Rabbi Yochanan rules like that pair."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:1",
+     "quote": "אשת חבר שניסת לעם הארץ ובתו של חבר ועבדו של חבר",
+     "he": "מפרש את ״וכולן״ כאשת חבר שנישאה לעם הארץ, בתו של חבר ועבדו, שרוצים כעת לשוב ולהיות חברים — ואין מקבלים אותם.",
+     "en": "He explains ״all of them״ as a chaver's wife who married an am ha'aretz, a chaver's daughter and his slave, who now want to become chaverim again; they are not accepted."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:3",
+     "quote": "דלא נתפרסם לרבים שלא שמרו טהרות",
+     "he": "בלשון ״איכא דאמרי״: אם במטמוניות לא הקפידו בטהרות — מקבלים אותם, כי לא נתפרסם לרבים שלא שמרו טהרות, והם נחשבים כמו שהיו בתחילה.",
+     "en": "On the ״some say״ version: if they were not careful about purity only in secret they are accepted, since it was not made known to the public that they had not kept purity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:1:1",
+     "quote": "סיפא דהך ברייתא דלעיל היא",
+     "he": "רש״י: ״וכולן שחזרו בהן״ הוא סופה של הברייתא הקודמת, העוסקת במי שבא לקבל דברי חברות חוץ מדבר אחד, ובכהן ולוי המקבלים עליהם חוץ מדבר אחד.",
+     "en": "Rashi: ״And all who went back״ is the end of the preceding baraita, which speaks of one who accepts the words of chaverut except for one thing, and of a kohen or Levite who accepts except for one thing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:2:1",
+     "quote": "שלא חיללו שם שמים בפרהסיא מקבלין אותם",
+     "he": "רש״י: ״עשו דברים במטמוניות״ — שלא חיללו שם שמים בפרהסיא, ולכן מקבלים אותם.",
+     "en": "Rashi: ״They did their deeds in secret״ means they did not desecrate God's name in public, and so they are accepted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31a:1:1",
+     "quote": "וכולן שחזרו בהן כלומר שחזרו לסורם וקלקלו מעשיהם אין מקבלין אותן עולמית",
+     "he": "תוספות מקשים על פירוש רש״י, ומביאים מרבנו תם שהברייתא נסמכת לרישא בתוספתא, ו״חזרו בהן״ פירושו שחזרו לסורם וקלקלו מעשיהם — ואלה אין מקבלים לעולם.",
+     "en": "Tosafot question Rashi's reading and bring Rabbeinu Tam: the baraita continues the opening of the Tosefta, and ״went back״ means they returned to their old ways and spoiled their conduct; these are never accepted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31a:2:1",
+     "quote": "אבל אם לא הכרנו בהם מעולם שעשו דברי חבירות",
+     "he": "בלשון השנייה: מי שהכרנו בו קודם שחזר לסורו שנהג דברי חברות גם בסתר — מקבלים אותו כשישוב; אבל אם לא הכרנו בו מעולם אלא בפרהסיא — אין מקבלים, שהם גונבי דעת הבריות.",
+     "en": "On the second version: one whom we knew to have kept chaverut even in private before he relapsed is accepted when he returns; but one we never knew to have kept it except in public is not accepted, since they deceive people."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Avodah Zarah 7a:8",
+     "quote": "שחזרו מפשעיהם ובאין לעשות תשובה ולקבל דברי חברות",
+     "he": "הריטב״א מביא שלפי פירוש רש״י ״חזרו בהן״ הוא שחזרו מפשעיהם ובאים לעשות תשובה ולקבל דברי חברות, ומציין שהתוספות הקשו עליו.",
+     "en": "Ritva reports that on Rashi's reading ״went back״ means they turned from their transgressions and come to do teshuva and accept the words of chaverut, and notes that Tosafot raised difficulties against it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 268:31",
+     "quote": "ואר\"ת כו' גר שקיבל עליו",
+     "he": "הגר״א ביו״ד רס״ח מפנה לברייתא כאן ולתוספות ד״ה וכולן, שמביאים את דברי ר״ת על גר שקיבל עליו דברי תורה.",
+     "en": "The Vilna Gaon (YD 268) refers to this baraita and to Tosafot s.v. ״vekhulan״, which bring Rabbeinu Tam's remark about a convert who took upon himself the words of Torah."
+    },
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 31a:1",
+     "quote": "לפי פירש\"י ניחא דמייתי גם שעשה עבירות בפרהסיא",
+     "he": "המהרש״א: לפי רש״י מובן הפסוק ״שובו בנים שובבים״ כי מדובר גם במי שעשה עבירות בפרהסיא; אבל לפי התוספות אינו יודע מה ההוכחה מהפסוק.",
+     "en": "Maharsha: on Rashi's reading the verse ״Return, rebellious children״ fits, since it covers also one who sinned publicly; on Tosafot's reading he does not see what the proof from the verse is."
+    },
+    {
+     "who": {
+      "he": "יעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 31a:1",
+     "quote": "נ\"ב מיי' ספ\"ג מהל' תשובה",
+     "he": "יעב״ץ מציין ל״הלכה כאותו הזוג״ את הרמב״ם בסוף פרק ג׳ מהלכות תשובה.",
+     "en": "Ya'avetz notes, at ״the halakha is like that pair״, a reference to the Rambam at the end of chapter 3 of Hilkhot Teshuva."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    6
+   ],
+   "he": {
+    "title": "חבר שנעשה גבאי, ומעשה רב הונא בר חייא",
+    "gemara": "בראשונה: חבר שנעשה גבאי דוחים אותו מחברותו, ואם פירש אין מקבלים אותו; חזרו לומר שהוא ככל אדם. רב הונא בר חייא נעשה גבאי, ורבה ורב יוסף עם ארבע מאות זוגות תלמידים באו אליו והוא קשר להם ארבע מאות כסאות. כששמעו שנעשה גבאי שלחו לו ״זיל לחשיבותיה״, והוא השיב ״הדרי בי״. רב יוסף לא הלך, שנה ״פירש — אין מקבלין אותו״, ורבה הלך, שנה ״פירש — הרי הוא ככל אדם״.",
+    "halakha": "הרמב״ם (הלכות מטמאי משכב ומושב י:ח): חבר שנעשה גבאי למלך או מוכס דוחים אותו מחברותו; פירש ממעשיו הרעים הרי הוא ככל אדם וצריך לקבל דברי חברות כבתחילה."
+   },
+   "en": {
+    "title": "A chaver who became a tax-collector, and the story of Rav Huna bar Chiyya",
+    "gemara": "At first they said: a chaver who became a gabbai is removed from his chaver status and if he withdrew he is not accepted; later they said that if he withdrew he is like any person. Rav Huna bar Chiyya became a gabbai; Rabba, Rav Yosef and four hundred pairs of rabbis came to him and he set up four hundred seats for them. When they heard he had become a gabbai they sent ״let him go to his importance״, and he answered ״I have changed my mind״. Rav Yosef did not go, relying on ״if he withdrew he is not accepted״; Rabba went, relying on ״he is like any person״.",
+    "halakha": "Rambam (Those Who Defile Bed or Seat 10:8): a chaver who became the king's tax-gatherer or customs collector is removed from chaverut; if he withdrew from his evil deeds he is like any person and must accept the words of chaverut as at the start."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:4",
+     "quote": "ונעשה גבאי מוכס",
+     "he": "רבינו גרשום: ״גבאי״ הוא מוכס.",
+     "en": "Rabbeinu Gershom: a ״gabbai״ is a tax-collector (mokhes)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:5:4",
+     "quote": "ילך לחשיבותיה אחר החשיבות שבחר לו להיות מוכס",
+     "he": "רש״י: ״זיל לחשיבותיה״ — שילך אחר החשיבות שבחר לו להיות מוכס, ואנו לא נלך אצלו.",
+     "en": "Rashi: ״Let him go to his importance״ means let him go after the importance he chose for himself in becoming a tax-collector; we will not go to him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:6",
+     "quote": "חלש היה והיו צריכין לבקרו",
+     "he": "רבינו גרשום מביא לצד פירוש רש״י (שצריכים היו לשאול ממנו הלכה) שיש אומרים שרב הונא היה חולה והיו צריכים לבקרו.",
+     "en": "Alongside the reading that they needed to ask him halakha, Rabbeinu Gershom brings a view that Rav Huna was ill and they needed to visit him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Those Who Defile Bed or Seat 10:8",
+     "quote": "פרש ממעשיו הרעים הרי הוא ככל אדם וצריך לקבל דברי חברות כבתחלה",
+     "he": "הרמב״ם פוסק: חבר שנעשה גבאי למלך או מוכס — דוחים אותו מחברותו; פירש ממעשיו הרעים הרי הוא ככל אדם וצריך לקבל דברי חברות כבתחילה.",
+     "en": "Rambam rules: a chaver who became the king's tax-gatherer or a customs collector is removed from chaverut; if he withdrew from his evil deeds he is like any person and must accept the words of chaverut as at the start."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:8:1",
+     "quote": "בסוף פרק עד כמה",
+     "he": "הכסף משנה מציין שמקור דברי הרמב״ם הוא בסוף פרק עד כמה בבכורות.",
+     "en": "Kessef Mishneh notes that the source of the Rambam is at the end of the chapter Ad Kamah in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Demai 2:3:7:1",
+     "quote": "בבבלי בכורות פ\"ד הגירסא חזרו לומר פירש הרי הוא ככל אדם וא\"כ צריך לקבל עליו כבתחילה",
+     "he": "מראה הפנים: בניגוד לתוספתא ולירושלמי, בבבלי הגרסה היא ״הרי הוא ככל אדם״ ולכן צריך לקבל עליו מחדש; והרמב״ם פסק כרבה.",
+     "en": "Mareh HaPanim: unlike the Tosefta and Yerushalmi, the Bavli reads ״he is like any person״, so he must take it upon himself anew; and the Rambam rules like Rabba."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 31a:2",
+     "quote": "דכשנעשה גבאי תכף אבד החברות",
+     "he": "פתח עינים מסביר את רב יוסף: כשנעשה גבאי תכף אבד את החברות, ולכן ביני וביני לא רצה ללכת אליו, וההיתר לקבלו בא רק אחר כך — ורבה הלך.",
+     "en": "Petach Einayim explains Rav Yosef: as soon as he became a gabbai he lost his chaver status, so in the interim Rav Yosef did not want to go to him; Rabba went since now he wished to be accepted."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Those Who Defile Bed or Seat 10:8:1",
+     "quote": "דבדיבור בעלמא סגי דהא רב הונא בר חייא לא אמר אלא הדרי בי…דלא סגי בהדרי בי אלא בעינן שנדע בודאי שחזר בו",
+     "he": "מעשה רקח: מהגמרא נראה שדי בדיבור, שהרי רב הונא אמר רק ״הדרי בי״; אך מלשון הרמב״ם ״פירש ממעשיו הרעים״ משמע שלא די באמירה אלא צריך לדעת בוודאי שחזר בו.",
+     "en": "Maaseh Rokeach: from the Gemara it seems speech alone suffices, since Rav Huna said only ״I have changed my mind״; but the Rambam's words ״withdrew from his evil deeds״ imply that is not enough and we must know for certain that he returned."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 31a:1",
+     "quote": "ולמה נלך אצלו ללמוד ממנו מאחר דאין בידו כלום",
+     "he": "בן יהוידע: מאחר שהלך אחר חשיבות השררה, חכמתו מסתלקת ושב למצבו קודם שלמד תורה — ולמה נלך אליו ללמוד ממנו כשאין בידו כלום.",
+     "en": "Ben Yehoyada: since he went after the importance of authority his wisdom departs and he returns to the time before he learned Torah; why go to learn from him when he has nothing."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    12
+   ],
+   "he": {
+    "title": "כל הבכורות אדם רואה חוץ משל עצמו",
+    "gemara": "אדם רואה כל בכור חוץ משל עצמו, אך רואה את קדשיו ומעשרותיו ונשאל על טהרותיו. הגמרא מקשה: אם מדובר ביחיד — מי מהימן? ואם בשלושה — וכי חשידי? והרי ״מיאנה או חלצה בפניו ישאנה מפני שהוא בית דין״. מתרצת: ביחיד מומחה. בקדשיו — אי בעי מיתשיל עלייהו; במעשרותיו — אי בעי שדי ביה מומא בכוליה עדריה; בטהרותיו — הא חזו ליה בימי טומאתו.",
+    "halakha": "הרמב״ם (בכורות ו:ט): הכול נאמנים על מומי מעשר; ורואה אדם מומי מעשר שלו ומתירו אם היה מומחה. ובשולחן ערוך (אבן העזר יב:ב): החשד הוא ביחיד מומחה, אבל בבית דין לא חשידי."
+   },
+   "en": {
+    "title": "One may examine any firstborn except his own",
+    "gemara": "A person may examine any firstling except his own, yet he may examine his own consecrated animals and tithes, and be asked about his own purities. The Gemara asks: if a single judge, is he believed? If three, are they suspected? Surely, if a woman annulled her marriage or performed chalitza before him he may marry her, since he is a court. It answers: a single expert. For his consecrated animals, he could have had the vow annulled; for his tithes, he could have blemished his whole herd; for purities, they saw him in the days of his impurity.",
+    "halakha": "Rambam (Firstlings 6:9): everyone is believed about the blemishes of a tithe; and one may examine the blemishes of his own tithe and permit it if he is an expert. Shulchan Arukh (EH 12:2): the suspicion applies to a single expert, but a court is not suspected."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:8:1",
+     "quote": "שאין כהן רשאי לראות מום של בכורותיו ולהתירו",
+     "he": "רש״י: ״חוץ משל עצמו״ — שאין כהן רשאי לראות מום של בכורותיו ולהתירו.",
+     "en": "Rashi: ״except his own״ means a kohen may not examine the blemish of his own firstlings and permit them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:10",
+     "quote": "דאינו רואה של עצמו משום חשד",
+     "he": "רבינו גרשום: ״ביחיד מומחה״ — בכך עוסקים, ויחיד אינו רואה את של עצמו משום חשד.",
+     "en": "Rabbeinu Gershom: the case is that of a single expert, who may not examine his own because of suspicion."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:10:1",
+     "quote": "יכול לעשות בהיתר ולישאל לחכם ולפתוח בחרטה",
+     "he": "רש״י: בקדשיו אינו נחשד לומר שהמום קבוע, כי אם רצה יכול לעשות בהיתר — לישאל לחכם ולפתוח בחרטה; אבל בבכור, שלא הוא הקדישו, אי אפשר, ולכן נחשד.",
+     "en": "Rashi: for his consecrated animals he is not suspected of claiming the blemish is permanent, for he could do it permissibly by asking a sage and opening with regret; with a firstling, which he did not consecrate, he cannot, and so he is suspected."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:11:1",
+     "quote": "דאי הוה בעי מעיקרא הוה עביד בהיתירא קודם שיעשר עדרו",
+     "he": "רש״י על מעשרותיו: אינו נחשד, שאילו רצה היה עושה זאת בהיתר מלכתחילה, קודם שיעשר את עדרו.",
+     "en": "Rashi on his tithes: he is not suspected, for had he wished he could have done it permissibly from the start, before tithing his herd."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:14",
+     "quote": "אמרינן מה לו לשקר ונאמן הוא",
+     "he": "רבינו גרשום על טהרותיו: בני ביתו יכולים לשאול אותו על ספק טומאה, ונאמן — שהרי אכלן בימי טומאתו, ומה לו לשקר.",
+     "en": "Rabbeinu Gershom on his purities: his household may ask him about a doubt of impurity and he is believed, since he could have eaten them in the days of impurity — what reason has he to lie."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:12:1",
+     "quote": "ובחולין קמיירי דתרומה טמאה לא חזיא ליה אפילו בימי טומאתו",
+     "he": "רש״י: זה בחולין; אבל תרומה טמאה אינה ראויה לו אפילו בימי טומאתו.",
+     "en": "Rashi: this is about unconsecrated food; impure terumah is not fit for him even in the days of his impurity."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31a:12:1",
+     "quote": "וכי לא יהיה נאמן וכן בשאר כל איסור והיתר",
+     "he": "תוספות מקשים: ובתרומה טמאה שלא ראויה לו — וכי לא יהיה נאמן? וכן בשאר איסור והיתר; ומביאים את ״האי צורבא דרבנן חזי ליה לנפשיה״ בעירובין.",
+     "en": "Tosafot ask: what of impure terumah that is not fit for him — would he not be believed? And likewise in other matters of forbidden and permitted; and they cite ״a young scholar may rule for himself״ in Eruvin."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 72:1",
+     "quote": "בכל איסור והיתר אדם נאמן לראותו לעצמו",
+     "he": "פסקי תוספות: בכל איסור והיתר אדם נאמן לראותו לעצמו (ומפנה לתוספות ד״ה דהא).",
+     "en": "Piskei Tosafot: in any matter of forbidden and permitted a person is believed to examine it for himself (referring to Tosafot s.v. ״deha״)."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:9",
+     "quote": "שאם ירצה יטיל מום בכל עדרו ואחר כך יעשר",
+     "he": "הרמב״ם: אדם רואה מומי מעשר שלו ומתירו אם היה מומחה, שאם ירצה יטיל מום בכל עדרו ואחר כך יעשר ויהיה המעשר בעל מום מתחילה.",
+     "en": "Rambam: a person may examine the blemishes of his own tithe and permit it if he is an expert, for if he wished he could blemish his whole herd and then tithe, so the tithe would be blemished from the start."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 3:1:3",
+     "quote": "ומוקמינן לה ביחיד מומחה דאילו בשלשה יכול להיות אחד מהשלשה דלא חשידי כלום בשבילו",
+     "he": "כסף משנה: מעמידים את הברייתא ביחיד מומחה, שאילו בשלושה אין חשש שאחד מהם יהיה חשוד בשבילו.",
+     "en": "Kessef Mishneh: the baraita is set up as a single expert, for with three none of them is suspected on his account."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Negaim 2:5:3",
+     "quote": "מוקמינן לה בבכורות סוף פ\"ד ביחיד מומחה דאי בתלתא לא חשידי",
+     "he": "תוספות יום טוב: המשנה בנגעים מובאת בסוף פרק ד׳ בבכורות ומעמידים אותה ביחיד מומחה, שאם בשלושה לא חשידי — כמשנה ביבמות.",
+     "en": "Tosafot Yom Tov: the Mishna in Negaim is brought at the end of chapter 4 of Bekhorot and set up as a single expert, since three are not suspected, as in the Mishna in Yevamot."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 312:7",
+     "quote": "דכהנים חשידי על הבכור",
+     "he": "ערוך השולחן: כהנים חשודים על הבכור, והדין הוא ביחיד מומחה; אבל כשמתירים בשלושה — לא חשידי.",
+     "en": "Arukh HaShulchan: kohanim are suspected regarding the firstling, and the law applies to a single expert; when three permit it they are not suspected."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 12:2",
+     "quote": "וה\"מ ביחיד מומחה אבל בי דינא לא חשידי",
+     "he": "השולחן ערוך באבן העזר: האיסור לישא משום חשד הוא ביחיד מומחה, אבל בבית דין לא חשידי, ולכן מי שמיאנה או חלצה בפני בית דין יכול אחד מהם לישא אותה.",
+     "en": "Shulchan Arukh (Even HaEzer): the prohibition to marry because of suspicion holds for a single expert, but a court is not suspected, so one of them may marry a woman who annulled or performed chalitza before the court."
+    },
+    {
+     "who": {
+      "he": "חוות יאיר",
+      "en": "Havot Yair"
+     },
+     "ref": "Havot Yair 122:2",
+     "quote": "וכתבו התוס' תימא ותרומה טמאה דלא חזי' לי' וכי לא יהי' נאמן",
+     "he": "חוות יאיר מביא את המשנה בנגעים, את הסוגיה כאן, ואת קושיית התוספות על תרומה טמאה.",
+     "en": "Havot Yair brings the Mishna in Negaim, the sugya here, and Tosafot's difficulty about impure terumah."
+    },
+    {
+     "who": {
+      "he": "בינת אדם",
+      "en": "Binat Adam"
+     },
+     "ref": "Binat Adam, Shaar Isur Veheter 3:1",
+     "quote": "ומתרץ דבאתחזק איסורא אינו נאמן",
+     "he": "בינת אדם מביא שהר״ש מתרץ את קושיית התוספות: כשאיסור כבר נתחזק — אינו נאמן.",
+     "en": "Binat Adam brings that the Rash answers Tosafot's question: where the prohibition is already established, he is not believed."
+    },
+    {
+     "who": {
+      "he": "יעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 31a:3",
+     "quote": "דרוב מצויין אצל שחיטה מומחין וגם היא מלתא דעבידא לאגלויי",
+     "he": "יעב״ץ על ״צורבא מרבנן חזי לנפשיה״: שם מדובר בהצגת סכין לפני חכם, שהוא רק משום כבודו, כי רוב העומדים אצל שחיטה מומחים והדבר עשוי להתגלות.",
+     "en": "Ya'avetz on ״a young scholar may examine for himself״: there it concerns showing a knife to a sage, which is only for the sage's honor, since most of those present at slaughter are experts and the matter tends to come to light."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    16
+   ],
+   "he": {
+    "title": "המשנה: כל פסולי המוקדשין הנאתן להקדש, חוץ מבכור ומעשר",
+    "gemara": "כל פסולי המוקדשין (קדשים שנפל בהם מום) הנאתן להקדש: נמכרים באיטליז, נשחטים באיטליז ונשקלים בליטרא. חוץ מן הבכור והמעשר שהנאתם לבעלים. ושוקלים מנה כנגד מנה בבכור.",
+    "halakha": "שולחן ערוך (יורה דעה שו:ו): הבכור אינו נמכר במקולין ואינו נשקל בליטרא, ומותר לשקול בו מנה כנגד מנה; חלבו, דמו, גידו וקרניו נמכרים במקולין ונשקלים בליטרא."
+   },
+   "en": {
+    "title": "The Mishna: all blemished consecrated animals benefit the Temple treasury — except firstling and tithe",
+    "gemara": "All blemished consecrated animals, whose benefit goes to the Temple treasury, may be sold in the butcher market, slaughtered there and weighed by the litra, except the firstling and the tithe, whose benefit goes to their owners. And one may weigh a maneh against a maneh for the firstling.",
+    "halakha": "Shulchan Arukh (YD 306:6): the firstling is not sold at the butcher stalls and not weighed by the litra, but one may weigh a maneh against a maneh; its fat, blood, sinews and horns are sold at the stalls and weighed by the litra."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:14:2",
+     "quote": "אם מוכרין אותן ביוקר הנאת הקדש היא",
+     "he": "רש״י: ״הנאתן להקדש״ — אם מוכרים אותם ביוקר, זו הנאת הקדש.",
+     "en": "Rashi: ״their benefit goes to Hekdesh״ means if they are sold at a high price it is a benefit to Hekdesh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:15:2",
+     "quote": "ומשום הנאת הדיוטות לא מזלזלינן בקדשים לנהוג בהן מנהג חולין",
+     "he": "רש״י: בבכור ומעשר ההנאה היא של בעלים הדיוטות, ובשביל הנאת הדיוטות לא מזלזלים בקדשים לנהוג בהם מנהג חולין.",
+     "en": "Rashi: with firstling and tithe the benefit is to lay owners, and for the sake of lay benefit we do not demean consecrated animals by treating them as ordinary."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31a:16:1",
+     "quote": "אם יש לו חתיכת בשר חולין שנשקלה בליטרא יכול לשקול בשר בכור כנגדה",
+     "he": "רש״י: ״מנה כנגד מנה בבכור״ — אם יש לו חתיכת בשר חולין שנשקלה בליטרא, יכול לשקול בשר בכור כנגדה.",
+     "en": "Rashi: ״a maneh against a maneh for a firstling״ — if he has a piece of ordinary meat weighed by the litra, he may weigh firstling meat against it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31a:16",
+     "quote": "אבל בכור הואיל והנאת דמיו לבעלים אין רשאי לזלזל בהן",
+     "he": "רבינו גרשום: בפסולי המוקדשין מותר לזלזל כי שבשוק נמכרים ביוקר ויש רווח להקדש; בבכור, שהנאת דמיו לבעלים, אין רשאי לזלזל, אך יכול לשקול בשר בכור כנגד ליטרא בשר חולין.",
+     "en": "Rabbeinu Gershom: with blemished consecrated animals one may demean them, since in the market they sell high and Hekdesh profits; with a firstling, whose proceeds go to the owner, one may not, though he may weigh firstling meat against a litra of ordinary meat."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31a:15:1",
+     "quote": "אע\"פ שמפרש טעם משום דהנאתן לבעלים על כרחין מדאורייתא היא",
+     "he": "תוספות: אף שהמשנה נותנת טעם — שהנאתן לבעלים — על כרחך הדין מדאורייתא, כפי שמוכח בתמורה ובסנהדרין מדרשת ״בהמתך״.",
+     "en": "Tosafot: although the Mishna gives a reason — that the benefit is the owners' — the law must be from the Torah, as shown in Temurah and Sanhedrin from the derivation of ״your animal״."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:18",
+     "quote": "וכהנים שנמנו עם הבכור מותרין לשקל מנה כנגד מנה",
+     "he": "הרמב״ם: בשר בכור בעל מום מוכרו בבית ולא בשוק, וכהנים שנמנו עליו מותרים לשקול מנה כנגד מנה.",
+     "en": "Rambam: he sells the meat of a blemished firstling at home, not in the market, and kohanim who were counted on it may weigh a maneh against a maneh."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Beitzah 27b:13",
+     "quote": "אלא ישחטנו בביתו וימכרנו בצנעה",
+     "he": "המאירי: בכור ומעשר אין נשחטים באיטליז ואין נשקלים בליטרא, אלא ישחטנו בביתו וימכרנו בצנעה.",
+     "en": "Meiri: firstling and tithe are not slaughtered in the butcher market or weighed by the litra; rather he slaughters at home and sells discreetly."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 306:6",
+     "quote": "אבל אינו נמכר במקולין ואינו נשקל בליטרא ומכל מקום מותר לשקול בו מנה כנגד מנה",
+     "he": "השולחן ערוך: הכהן מוכר את הבכור, אבל אינו נמכר במקולין ואינו נשקל בליטרא, ומותר לשקול בו מנה כנגד מנה; והחלב, הדם, הגידים והקרנים נמכרים במקולין ונשקלים בליטרא.",
+     "en": "Shulchan Arukh: the kohen may sell the firstling, but it is not sold at the butcher stalls nor weighed by the litra, though one may weigh a maneh against a maneh; the fat, blood, sinews and horns are sold at the stalls and weighed by the litra."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 31a:1",
+     "quote": "כגון באומר הרי עלי שור במנה והפרישו ונסתאב והוזל",
+     "he": "הרש״ש מקשה על ״הנאתן להקדש״: גם בפסולי המוקדשין יש מקרים שההנאה לבעלים, כגון האומר ״הרי עלי שור במנה״ שהפרישו ונסתאב והוזל — צריך להשלים את המותר מביתו.",
+     "en": "Rashash asks on ״their benefit goes to Hekdesh״: even among blemished animals there are cases where the benefit is the owner's, such as one who said ״I take upon myself an ox worth a maneh״, set it aside, it became blemished and cheaper — he must make up the difference from his own."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 31a:2",
+     "quote": "גם תם יכול ליתנו לכל כהן שירצה כדמוכח בספ\"ח דערכין",
+     "he": "הרש״ש על ״מנה כנגד מנה בבכור״: גם בכור תם יכול ליתנו לכל כהן שירצה, כמוכח במשנה בסוף פרק ח׳ בערכין.",
+     "en": "Rashash on ״a maneh against a maneh for a firstling״: even an unblemished firstling may be given to whichever kohen he wishes, as is shown in the Mishna at the end of chapter 8 of Arakhin."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Firstlings 1:18:1",
+     "quote": "שלא ישחטנו באיטליז ולא ישקלנו בליטרא וזהו לא תפדה",
+     "he": "קרית ספר: ״לא תפדה״ — שלא ישחטנו באיטליז ולא ישקלנו בליטרא, שבקדושתו הוא לענין זה אפילו בעל מום.",
+     "en": "Kiryat Sefer: ״you shall not redeem״ means he may not slaughter it at the butcher market nor weigh it by the litra; in this respect it retains its sanctity even if blemished."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "אימתי ״הנאתן להקדש״: לפני הפדיון או אחריו",
+    "gemara": "הגמרא שואלת: אם לאחר פדיון — הנאתן של בעלים; ואם לפני פדיון — כיצד נשחטים, והרי צריך העמדה והערכה? מיושב כמאן דאמר קדשי מזבח לא היו בכלל העמדה והערכה, אך לא כמאן דאמר היו. לבסוף: לעולם לאחר פדיון, והנאה להקדש היא מעיקרא — שכיוון שהתיר להם המקדיש למכור באיטליז, הפודה מוסיף בפדיון מתחילה."
+   },
+   "en": {
+    "title": "When does the benefit go to Hekdesh: before or after redemption",
+    "gemara": "The Gemara asks: if after redemption, the benefit is the owners'; if before, how can they be slaughtered, since redemption requires standing and valuation? This works for the view that sacrificial animals were not included in standing and valuation, not for the view that they were. In the end: it is after redemption, and the benefit to Hekdesh is at the outset — because the Sage permits selling them at the butcher market, the redeemer pays more from the beginning."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:2:3",
+     "quote": "דבהמת הקדש אינה נפדית אלא מחיים",
+     "he": "רש״י: ״הא בעי העמדה והערכה״ — בהמת הקדש אינה נפדית אלא מחיים, שנאמר ״והעמיד את הבהמה לפני הכהן והעריך אותה הכהן״.",
+     "en": "Rashi: ״it requires standing and valuation״ — a consecrated animal is redeemed only while alive, as it says ״he shall stand the animal before the kohen and the kohen shall value it״."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:3:1",
+     "quote": "איכא לאוקומי דנפדין ונמכרין לאחר שחיטה",
+     "he": "רש״י: למאן דאמר קדשי מזבח לא היו בכלל העמדה והערכה, אפשר להעמיד שנפדים ונמכרים אחרי שחיטה.",
+     "en": "Rashi: for the view that sacrificial animals were not included in standing and valuation, one can establish that they are redeemed and sold after slaughter."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:4:1",
+     "quote": "איכא הנאה להקדש אי שרית ליה לזבוני באיטליז לאחר פדיון טפי ופריק",
+     "he": "רש״י: כשהבעלים פודים מתחילה מיד ההקדש, יש הנאה להקדש אם התרת לו למכור באיטליז אחרי הפדיון — שהפודה יוסיף ויפדה.",
+     "en": "Rashi: when the owners redeem at the start from Hekdesh there is a benefit to Hekdesh if you permit selling at the butcher market after redemption — he will pay more to redeem."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:3",
+     "quote": "דבשעת פדיונן הוי הנאה להקדש דמוסיף על פדיונן בשכר שיהא רשאי למוכרן באיטליז",
+     "he": "רבינו גרשום: בשעת הפדיון יש הנאה להקדש, כי הפודה מוסיף על פדיונו בשכר זה שיהיה רשאי למוכרן באיטליז.",
+     "en": "Rabbeinu Gershom: at the time of redemption there is a benefit to Hekdesh, since the redeemer adds to the price in return for being allowed to sell in the butcher market."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:1",
+     "quote": "קתני נשחטין אפי' לפני פדיונן ולבתר הכי יכול לפדותן ולא בעו העמדה",
+     "he": "רבינו גרשום: למאן דאמר קדשי מזבח לא היו בכלל העמדה — הברייתא מלמדת שנשחטין אפילו לפני פדיונן ואחר כך פודים, ואין צריכים העמדה.",
+     "en": "Rabbeinu Gershom: on the view that sacrificial animals were not included in standing — the teaching permits slaughter even before redemption, and afterward they can be redeemed without standing."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    7
+   ],
+   "he": {
+    "title": "בכור ומעשר: ״לא תפדה״ מול ״לא יגאל״",
+    "gemara": "בבכור — לא נמכר באיטליז אך בביתו נמכר; אבל מעשר — וכי בביתו נמכר? ברייתא: בבכור נאמר ״לא תפדה״ ונמכר חי, ובמעשר נאמר ״לא יגאל״ ואינו נמכר, לא חי ולא שחוט, לא תם ולא בעל מום.",
+    "halakha": "הרמב״ם (בכורות ו:ה): מעשר בהמה אסור למכרו כשהוא תמים, שנאמר בו ״לא יגאל״ — ואף איסור מכירה במשמע."
+   },
+   "en": {
+    "title": "Firstling and tithe: ״do not redeem״ versus ״shall not be redeemed״",
+    "gemara": "A firstling is not sold in the butcher market but is sold at home; but is a tithe sold at home? A baraita: of the firstling it says ״do not redeem״ and it may be sold alive; of the tithe it says ״shall not be redeemed״ and it may not be sold, neither alive nor slaughtered, neither unblemished nor blemished.",
+    "halakha": "Rambam (Firstlings 6:5): the animal tithe may not be sold while unblemished, as it says of it ״shall not be redeemed״, which includes the prohibition of sale."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:7:1",
+     "quote": "ומשמע בעלים אין פודין אותן אבל נמכר הוא לאחרים משיבא ליד כהן",
+     "he": "רש״י: ״לא תפדה״ משמע שהבעלים אינם פודים אותו, אבל נמכר הוא לאחרים משיבא ליד כהן.",
+     "en": "Rashi: ״do not redeem״ implies that owners do not redeem it, but it may be sold to others once it reaches a kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:7:2",
+     "quote": "ואין נמכר דגמרינן לא יגאל דהכא מלא יגאל כדמפרש לקמן",
+     "he": "רש״י: במעשר ״לא יגאל״ — ואינו נמכר, שלומדים ״לא יגאל״ שכאן מ״לא יגאל״ שבחרמים, כפי שיתבאר בהמשך.",
+     "en": "Rashi: of the tithe, ״shall not be redeemed״ — and it may not be sold, as we learn this ״shall not be redeemed״ from the ״shall not be redeemed״ of devoted things, as explained below."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:4",
+     "quote": "דיליף מחרמים דכתיב בהו לא ימכר ולא יגאל מה להלן מכירה עמו אף כאן מכירה עמו",
+     "he": "רבינו גרשום: במעשר נלמד מחרמים, שנאמר בהם ״לא ימכר ולא יגאל״ — מה להלן מכירה עמו, אף כאן מכירה עמו.",
+     "en": "Rabbeinu Gershom: for the tithe we learn from devoted things, of which it says ״shall not be sold and shall not be redeemed״ — as there sale is included, so here sale is included."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:5",
+     "quote": "מפי השמועה למדו שזה שנאמר לא יגאל אף איסור מכירה במשמע",
+     "he": "הרמב״ם: מפי השמועה למדו שזה שנאמר ״לא יגאל״, אף איסור מכירה במשמע, שאין נגאל ואינו נמכר כלל.",
+     "en": "Rambam: from tradition they learned that ״shall not be redeemed״ includes also the prohibition of sale; it is neither redeemed nor sold at all."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:1:2",
+     "quote": "בכור מוכרין אותו תמים חי ובעל מום חי ושחוט",
+     "he": "הרא״ש מביא את המשנה במעשר שני: בכור מוכרים אותו תמים חי ובעל מום חי ושחוט, ומקדשים בו את האשה.",
+     "en": "Rosh brings the Mishna in Maaser Sheni: a firstling may be sold unblemished alive and blemished alive or slaughtered, and a woman may be betrothed with it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 6:5:1",
+     "quote": "ופירש״י לא יגאל ואינו נמכר דגמרינן מלא יגאל",
+     "he": "הכסף משנה על הרמב״ם: מביא את הברייתא כאן ואת פירוש רש״י ״לא יגאל ואינו נמכר דגמרינן מלא יגאל״.",
+     "en": "Kessef Mishneh on Rambam: brings this baraita and Rashi's explanation that ״shall not be redeemed״ means it is not sold, learned from ״shall not be redeemed״."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 118:1",
+     "quote": "כדי להשוות הלשון עם מה שכתוב גבי חרמים",
+     "he": "המלבי״ם: בבכורות, תמורה ובבא קמא למדו שהוא הדין שאינו נמכר, כי לא כתוב ״לא תפדה״ כבבכור אלא כדי להשוות הלשון עם החרמים — לכלול גם מכירה.",
+     "en": "Malbim: the rabbis learned (Bekhorot, Temurah, Bava Kamma) that it also may not be sold, since the text avoided the wording ״do not redeem״ used for the firstling in order to match the wording used for devoted things — to include sale as well."
+    },
+    {
+     "who": {
+      "he": "יכין",
+      "en": "Yachin"
+     },
+     "ref": "Yachin on Mishnah Temurah 3:39:1",
+     "quote": "אבל במעשר נאמר לא יגאל וגאולה היינו מכירה",
+     "he": "יכין: במעשר נאמר ״לא יגאל״, וגאולה היינו מכירה (בגזירה שווה מחרמים).",
+     "en": "Yachin: of the tithe it says ״shall not be redeemed״, and redemption here means sale (by gezera shava from devoted things)."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    11
+   ],
+   "he": {
+    "title": "תירוצו של רב ששת, רבי אידי ו״שפתותיו דובבות בקבר״",
+    "gemara": "קושיית המשנה במעשר הייתה קשה לרב ששת בערב, ושינה אותה בבוקר מהברייתא: במעשר בהמה של יתומים עוסקים, ומשום השבת אבידה נגעו בה. רבי אידי סרסיה שמע זאת ואמרה בבית המדרש ולא אמרה משמו, ורב ששת כעס: ״מאן דעקץ ליעקציה עקרבא״. ומה נפקא ליה? כי תלמיד חכם שאומרים דבר שמועה מפיו בעולם הזה — שפתותיו דובבות בקבר, כשם שכומר של ענבים מתנענע כשנוגעים בו."
+   },
+   "en": {
+    "title": "Rav Sheshet's answer, Rabbi Idi, and ״his lips murmur in the grave״",
+    "gemara": "The Mishna on the tithe troubled Rav Sheshet in the evening, and in the morning he answered it from a baraita: the case is the tithe of orphans' animals, and the sages touched it for the sake of returning a lost item. Rabbi Idi, his attendant, heard this, said it in the study hall without his name, and Rav Sheshet was enraged: ״Let a scorpion sting whoever stung me״. What did it matter to him? Because when a scholar's teaching is cited in his name in this world, his lips murmur in the grave, as the vat of grapes stirs when touched."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:8:1",
+     "quote": "ופירקה בהשכמת הבקר מברייתא",
+     "he": "רש״י: ״ושנייה בקדמותא מברייתא״ — ופירקה בהשכמת הבוקר מברייתא, ובהמשך מפרש איזו ברייתא.",
+     "en": "Rashi: ״and answered it at dawn from a baraita״ — he resolved it early in the morning from a baraita, and below it explains which."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:6",
+     "quote": "דמטעמ' שלא יפסידו התירו אבל לגדול לא",
+     "he": "רבינו גרשום: במעשר בהמה של יתומים עוסקים, ומשום השבת אבידה — שלא יפסידו התירו, אבל לגדול לא.",
+     "en": "Rabbeinu Gershom: the case is the animal tithe of orphans, and out of concern for returning a loss they permitted it so the orphans not lose, but not for an adult."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:7",
+     "quote": "מפני השבת אבדה ליתומים לא גזרו עליו",
+     "he": "הרמב״ם: מעשר בהמה של יתומים שנשחט במומו מותר למכרו כדרכו, מפני השבת אבדה ליתומים לא גזרו עליו.",
+     "en": "Rambam: the animal tithe of orphans slaughtered with its blemish may be sold in the ordinary way; because of returning a loss to orphans they did not decree against it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31b:8:1",
+     "quote": "אפי' לרבא דשרי לגדול בהבלעה הוצרך רב ששת להעמיד בשל יתומים",
+     "he": "תוספות: אפילו לרבא, שמתיר לגדול בהבלעה, הוצרך רב ששת להעמיד בשל יתומים, כי משמע לו שהמשנה מדברת בלא הבלעה, כפסולי המוקדשין באיטליז.",
+     "en": "Tosafot: even according to Rava, who permits an adult's by way of havla'a, Rav Sheshet had to set the case with orphans, since he understood the Mishna as without havla'a, like blemished consecrated animals in the butcher market."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:9",
+     "quote": "כלומר שעקצני שלא רצה לומר הלכה משמי",
+     "he": "רבינו גרשום: ״מאן עקץ״ — מי שעקצני, שלא רצה לומר הלכה משמי.",
+     "en": "Rabbeinu Gershom: ״whoever stung״ — who stung me by not being willing to say the halakha in my name."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:9:3",
+     "quote": "מי הוא שעקצני ונשכני שלא אמרה משמי",
+     "he": "רש״י: ״מאן דעקץ״ — מי הוא שעקצני ונשכני שלא אמרה משמי, תעקציה עקרבא (שמתא).",
+     "en": "Rashi: ״whoever stung״ — whoever stung and bit me by not saying it in my name, may a scorpion sting him (i.e. a ban)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:10:1",
+     "quote": "נעות והנאה הוא לו שדומה כחי",
+     "he": "רש״י: ״דובבות״ — נעות, והנאה היא לו שדומה כחי.",
+     "en": "Rashi: ״murmuring״ means moving, and it is a pleasure for him, as he seems alive."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:11:1",
+     "quote": "שאוספן בכלי אחד שבעה ימים או שמנה ימים",
+     "he": "רש״י: ״כומר ענבים״ — שאוספן בכלי אחד שבעה או שמונה ימים, כדי שידחקו ויתבשלו.",
+     "en": "Rashi: ״a vat of grapes״ — one gathers them in one vessel for seven or eight days so that they are pressed and ripen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Psalms 61:5:1",
+     "quote": "זכני בעולם הזה ובעולם הבא",
+     "he": "רש״י בתהילים: ״אגורה באהלך עולמים״ — זכני בעולם הזה ובעולם הבא (ומציין בכורות לא:).",
+     "en": "Rashi on Psalms: ״Let me dwell in Your tent forever״ — grant me merit in this world and in the World to Come (citing Bekhorot 31b)."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:11",
+     "quote": "כלומר שאמר הלכה משמו דובבות בעולם הזה ושפתיו דובבות בעולם הבא",
+     "he": "רבינו גרשום: ״אגורה באהלך עולמים״ — מי שאומרים הלכה משמו, שפתיו דובבות בעולם הזה ובעולם הבא.",
+     "en": "Rabbeinu Gershom: ״I will dwell in Your tent forever״ — one in whose name halakha is said has lips murmuring in this world and in the next."
+    },
+    {
+     "who": {
+      "he": "נחלת אבות",
+      "en": "Nachalat Avot"
+     },
+     "ref": "Nachalat Avot on Avot 6:6:66",
+     "quote": "שייחס כל דבר למי למדו בין שיהיה רבו או חכם אחר",
+     "he": "נחלת אבות: צריך לייחס כל דבר למי שלמדו ממנו, בין רבו בין חכם אחר, ומביא את המאמר ביבמות על ״אגורה באהלך עולמים״.",
+     "en": "Nachalat Avot: one must attribute each thing to the one he learned it from, whether his teacher or another sage, and he brings the saying in Yevamot on ״I will dwell in Your tent forever״."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Bekhorot 31b:1",
+     "quote": "דמה שהיו מקפידים הוא דהשומעים סוברים דהאומר ההלכה הוא מדעתו",
+     "he": "מראית העין מביא את הפנים מאירות: ההקפדה היא שהשומעים סוברים שהאומר את ההלכה אומרה מדעתו ואינם מקבלים ממנו, ואם אמר בשם רבותיו היו מקבלים.",
+     "en": "Marit HaAyin brings Panim Meirot: the concern is that the listeners think the speaker says the halakha on his own and do not accept it from him; had he said it in his teachers' names they would accept it."
+    },
+    {
+     "who": {
+      "he": "יעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 31b:1",
+     "quote": "סבר דכ\"ע ידעי שתורתו של רבו ר\"ש היא",
+     "he": "יעב״ץ: רבי אידי סבר שכולם יודעים שתורתו של רבו, רב ששת, היא.",
+     "en": "Ya'avetz: Rabbi Idi assumed everyone knows that this is the teaching of his teacher, Rav Sheshet."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 31b:1",
+     "quote": "עקר ביתא דשכינתא כן הכא כיון שלא אמרה בשמו עקר שמו של רב ששת",
+     "he": "בן יהוידע: על פי הזוהר ״עקרב״ הוא ״עקר ביתא״; וכיון שלא אמרה בשמו, עקר את שמו של רב ששת מבית המדרש.",
+     "en": "Ben Yehoyada: per the Zohar ״akrav״ means ״uprooting the house״; since he did not say it in his name he uprooted Rav Sheshet's name from the study hall."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 31b:2",
+     "quote": "אותו הבל של דברי תורה שאומר החכם משמו בית המדרש הולך ונעשה רוח חיים לשכון על עצמותיו בקבר",
+     "he": "בן יהוידע: ההבל של דברי התורה שאומרים משמו בבית המדרש נעשה רוח חיים השוכנת על עצמותיו בקבר.",
+     "en": "Ben Yehoyada: the breath of Torah words said in his name in the study hall becomes a spirit of life dwelling on his bones in the grave."
+    },
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Bekhorot 31b:2",
+     "quote": "יש לגופו והבלא דגרמי אשר בקבר הנאה זו דשפתותיו ממש דובבות בקבר",
+     "he": "מראית העין: אף שנשמתו במתיבתא דרקיעא, יש לגופו ולהבל העצמות בקבר הנאה זו — ששפתותיו ממש דובבות בקבר.",
+     "en": "Marit HaAyin: even though his soul is in the heavenly academy, his body and the vapor of the bones in the grave have this pleasure — that his lips literally murmur in the grave."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    17
+   ],
+   "he": {
+    "title": "ברייתא: מעשר של יתומים והבלעה — אביי מול רבא",
+    "gemara": "הברייתא: מעשר בהמה של יתומים מוכרין אותו, ומעשר שנשחט מבליעו בעורו, בחלבו, בגידו ובקרניו. אביי: מעשר של יתומים מוכרין בהבלעה. הגמרא מקשה מלולב בשביעית ש״מבליע דמי אתרוג בלולב״ — ומשיבה: התם לא מוכחא מילתא, הכא מוכחא. רבא: אם כן מעשר בהמה פעמיים למה? אלא — של יתומים מוכרין כדרכו, ושל גדול שנשחט מבליעו בעורו, בחלבו, בגידו ובקרניו.",
+    "halakha": "הרמב״ם (בכורות ו:ז–ח): מעשר בהמה של יתומים שנשחט במומו מותר למכרו כדרכו; ושל גדול מותר למכור חלבו, גידיו, עורו ועצמותיו, ואם הבליע דמי הבשר בדמיהם — מותר."
+   },
+   "en": {
+    "title": "The baraita: orphans' tithe and havla'a — Abaye versus Rava",
+    "gemara": "The baraita: the tithe of orphans' animals may be sold, and a tithe that was slaughtered, he blends its price into the hide, fat, sinews and horns. Abaye: the orphans' tithe is sold with havla'a. The Gemara objects from the lulav in the Sabbatical year, where ״he blends the price of the etrog into the lulav״ — and answers: there it is not obvious, here it is obvious. Rava: if so why does it say ״animal tithe״ twice? Rather: orphans' tithe is sold in the ordinary way, and an adult's slaughtered tithe is blended into the hide, fat, sinews and horns.",
+    "halakha": "Rambam (Firstlings 6:7–8): the orphans' animal tithe slaughtered with its blemish may be sold in the ordinary way; for an adult's one may sell the fat, sinews, hide and bones, and if he blended the price of the meat into theirs it is permitted."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:12:2",
+     "quote": "ויבליע לו בהן דמי הבשר",
+     "he": "רש״י: ״מבליעו בחלבו״ — אסור למכור את הבשר, אלא ימכור את העור, החלב והגידים ויבליע בהם את דמי הבשר, ויתן את הבשר במתנה.",
+     "en": "Rashi: ״he blends it into its fat״ — it is forbidden to sell the meat; rather he sells the hide, fat and sinews and blends the price of the meat into them, and gives the meat as a gift."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:14",
+     "quote": "שמוכר לו העור כ\"כ ביוקר כדי שיהו דמי בשר מובלעין לתוכו",
+     "he": "רבינו גרשום: מוכר לו את העור כל כך ביוקר שדמי הבשר מובלעים בתוכו, וכן בחלב, בגיד ובקרניים שמותר למכרם כי אינם בני אכילה.",
+     "en": "Rabbeinu Gershom: he sells him the hide so dearly that the price of the meat is blended into it, and likewise the fat, sinew and horns which may be sold since they are not for eating."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:8",
+     "quote": "ואם הבליע דמי הבשר בדמי העור והחלב והגידין ומכר הכל בהבלעה מותר",
+     "he": "הרמב״ם: מעשר שנשחט במומו מותר למכור חלבו, גידיו, עורו ועצמותיו; ואם הבליע דמי הבשר בדמי העור, החלב והגידים ומכר הכל בהבלעה — מותר.",
+     "en": "Rambam: for a tithe slaughtered with its blemish one may sell its fat, sinews, hide and bones; and if he blended the price of the meat into the price of the hide, fat and sinews and sold all by havla'a, it is permitted."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 8:11",
+     "quote": "מבליע לו דמי אתרוג בדמי לולב",
+     "he": "הרמב״ם: הלוקח לולב מעם הארץ בשביעית נותן לו אתרוג במתנה, ואם לא נתן לו — מבליע לו דמי אתרוג בדמי לולב.",
+     "en": "Rambam: one who buys a lulav from an am ha'aretz in the Sabbatical year gives him an etrog as a gift, and if he did not, he blends the price of the etrog into the price of the lulav."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:16:1",
+     "quote": "הדבר ידוע שאין עור נמכר כולי האי בדמים יקרים",
+     "he": "רש״י: התם לא מוכחא מילתא, שדמי אתרוג קלים; אבל כאן מוכחא מילתא שהוא מוכר את הבשר, שידוע שאין עור נמכר בדמים כה יקרים.",
+     "en": "Rashi: there it is not obvious, since the price of an etrog is small; here it is obvious that he is selling the meat, since it is known that a hide is not sold at such a high price."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:17",
+     "quote": "אבל הכא כי זבין ליה עור בהמה בדמי בשר ובדמי עור מוכחא מילתא",
+     "he": "רבינו גרשום: באתרוג לא מוכחא מילתא; אבל כשמוכר עור בהמה בדמי בשר ועור — מוכחא מילתא, ולכן לגדול אפילו בהבלעה לא.",
+     "en": "Rabbeinu Gershom: with the etrog it is not obvious; but when he sells an animal hide at the price of meat and hide it is obvious, so for an adult not even by havla'a."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31b:12:1",
+     "quote": "חלבו מיהא שרי דכעור חשיב ליה כיון דאסור באכילה לישראל",
+     "he": "תוספות: אף מי שאוסר למנות גוי על הבכור — חלבו מכל מקום מותר, שחשוב כעור כיון שאסור באכילה לישראל; ושמנו של גיד ייתכן שאסור.",
+     "en": "Tosafot: even one who forbids counting a gentile on the firstling permits its fat, since it is treated like the hide given that it is forbidden to a Jew to eat; the oil of the sinew may be forbidden."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 31b:17:1",
+     "quote": "יש מקומות דדייק כי האי גוונא בריש בבא מציעא",
+     "he": "תוספות על ״אם כן מעשר בהמה תרי זמני למה לי״: יש מקומות שמדייק כך, כבבא מציעא, נדרים וסנהדרין, ובמקומות אחרים אינו מדייק — ומיישבים שלא בכל מקום שייך לומר ״פרושי קא מפרש״.",
+     "en": "Tosafot on ״if so why twice״: there are places where the Gemara infers this way, such as Bava Metzia, Nedarim and Sanhedrin, and others where it does not — they explain that it is not everywhere appropriate to say ״it is merely explaining״."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״ם",
+      "en": "Maharsham"
+     },
+     "ref": "Teshuvot Maharsham Volume I 56:3",
+     "quote": "דהיכא דלא מוכחא מלתא שרי בהערמה דהבלעה",
+     "he": "המהרש״ם: מדברי אביי בגמרא מוכח שסבר שהיכא דלא מוכחא מילתא — מותר בהערמה של הבלעה.",
+     "en": "Maharsham: from Abaye's words it is evident that he held that where it is not obvious, havla'a as a stratagem is permitted."
+    },
+    {
+     "who": {
+      "he": "מהרש״ם",
+      "en": "Maharsham"
+     },
+     "ref": "Teshuvot Maharsham Volume I 208:3",
+     "quote": "דבאתרוג שאינו רשאי ללקחו בשביעית מבליע לו דמי אתרוג בלולב",
+     "he": "המהרש״ם מביא מסוכה לט׳: באתרוג שאינו רשאי ללקחו בשביעית — מבליע לו דמי אתרוג בלולב.",
+     "en": "Maharsham brings from Sukkah 39: for the etrog, which one may not buy in the Sabbatical year, he blends the price of the etrog into the lulav."
+    },
+    {
+     "who": {
+      "he": "יצחק ירנן",
+      "en": "Yitzchak Yeranen"
+     },
+     "ref": "Yitzchak Yeranen on Mishneh Torah, Sabbatical Year and the Jubilee 8:11:1",
+     "quote": "משנה בסוכה דף ל\"ט וש\"ס בכורות דף ל\"א",
+     "he": "יצחק ירנן על דין לולב בשביעית: מציין למשנה בסוכה לט׳ ולש״ס בבכורות לא׳.",
+     "en": "Yitzchak Yeranen on the lulav in the Sabbatical year: he cites the Mishna in Sukkah 39 and the Gemara in Bekhorot 31."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    18,
+    20
+   ],
+   "he": {
+    "title": "ראיית רבא: ״והיה הוא ותמורתו… לא יגאל״ — גזירה לאחר שחיטה",
+    "gemara": "רבא למד: ״והיה הוא ותמורתו יהיה קדש לא יגאל״ — אימתי עושה תמורה מחיים, אימתי אינו נגאל מחיים; אבל לאחר שחיטה נגאל. ורבנן גזרו לאחר שחיטה אטו לפני שחיטה — בדבר הנישום מחיים."
+   },
+   "en": {
+    "title": "Rava's proof: ״it and its substitute shall be holy; it shall not be redeemed״ — a decree for after slaughter",
+    "gemara": "Rava derives from ״it and its substitute shall be holy; it shall not be redeemed״: when does it effect a substitute — while alive; when is it not redeemed — while alive; so after slaughter it is redeemed. The rabbis decreed for after slaughter because of before slaughter — in a thing that is valued while alive."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:18:1",
+     "quote": "ומהאי לא יגאל נפקא לן דאינו נמכר",
+     "he": "רש״י: במעשר בהמה כתוב ״והיה הוא ותמורתו״ ומ״לא יגאל״ שבו למדנו שאינו נמכר; ולכן האיסור למכור הוא כעשיית תמורה.",
+     "en": "Rashi: in the animal tithe the verse says ״it and its substitute״ and from its ״shall not be redeemed״ we learn it may not be sold; so the prohibition of sale resembles making a substitute."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:19:1",
+     "quote": "אבל לאחר שחיטה נמכר",
+     "he": "רש״י: אימתי אינו נגאל — לא אמרה תורה אלא מחיים, אבל לאחר שחיטה נמכר.",
+     "en": "Rashi: when is it not redeemed — the Torah said it only while alive, but after slaughter it may be sold."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 31b:20:2",
+     "quote": "נמכר מחיים כגון הבשר שכל חשיבות דבהמה אינו אלא בבשר",
+     "he": "רש״י: ״דבר הנישום״ — הנמכר מחיים, כגון הבשר, שכל חשיבות הבהמה אינה אלא בבשר; בו גזרו רבנן לאחר שחיטה.",
+     "en": "Rashi: ״a thing valued״ — what is sold while alive, such as the meat, since the whole worth of the animal is in its meat; there the rabbis decreed for after slaughter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 31b:20",
+     "quote": "גזרו רבנן לאחר שחיטה דאינו נמכר אטו קודם שחיטה דאסור",
+     "he": "רבינו גרשום: הבשר, שאדם שם מחיים כמה שווה הבכור, גזרו רבנן לאחר שחיטה שאינו נמכר מפני לפני שחיטה, שאסור.",
+     "en": "Rabbeinu Gershom: the meat, whose value a person estimates while the animal is alive — the rabbis decreed that after slaughter it may not be sold because of before slaughter, when it is forbidden."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Zevachim 9a:5:1",
+     "quote": "תימה היכי לקי אחר שחיטה…דלאחר שחיטה מדרבנן",
+     "he": "תוספות בזבחים: תמוה איך לוקים אחר שחיטה על ״לא יגאל״, והרי אמרו בבכורות בפרק כל פסולי המוקדשין שלאחר שחיטה הוא מדרבנן.",
+     "en": "Tosafot in Zevachim: it is puzzling how one is flogged after slaughter for ״shall not be redeemed״, since Bekhorot, in the chapter Kol Pesulei HaMukdashin, says that after slaughter it is rabbinic."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 6:6:1",
+     "quote": "שאסור למוכרו בעל מום ואפילו שחוט",
+     "he": "הכסף משנה מבאר את הרמב״ם שהאיסור למכור מעשר בעל מום ואפילו שחוט הוא מדרבנן, ומביא את ראיית רבא.",
+     "en": "Kessef Mishneh explains the Rambam: the prohibition to sell a blemished tithe, even slaughtered, is rabbinic, and he brings Rava's proof."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Maaser Sheni 1:2:2",
+     "quote": "אבל בפ' כל פסולי המוקדשין מסקינן דגזרה דרבנן היא",
+     "he": "מלאכת שלמה: בירושלמי משמע שהאיסור מדאורייתא, אבל בבבלי בפרק כל פסולי המוקדשין מסקינן שהוא גזרה דרבנן.",
+     "en": "Melekhet Shelomoh: the Yerushalmi implies the prohibition is from the Torah, but in the Bavli, in Kol Pesulei HaMukdashin, we conclude it is a rabbinic decree."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 27:33:5",
+     "quote": "והנה כפי המתבאר מדרשה זו הוי איסור המכירה בשחוט רק מדרבנן",
+     "he": "תורה תמימה: לפי דרשה זו האיסור למכור שחוט הוא רק מדרבנן, אבל האיסור למכור בעל מום חי נראה מדאורייתא.",
+     "en": "Torah Temimah: according to this derivation the prohibition of selling a slaughtered one is only rabbinic, whereas the prohibition of selling a blemished live one appears to be from the Torah."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 6:6:1",
+     "quote": "דמחיים אפילו בע\"מ אסור מדאורייתא",
+     "he": "הר המוריה: מהגמרא נראה שמחיים אפילו בעל מום אסור מדאורייתא, אך מרן כתב שחי תמים אינו נמכר מדאורייתא וחי בעל מום נמכר.",
+     "en": "Har HaMoriyah: from the Gemara it seems that while alive even a blemished one is forbidden by the Torah, but Maran wrote that only an unblemished live one may not be sold from the Torah, while a blemished live one may."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 361:1:1",
+     "quote": "המוכר מעשר עובר בל\"ת ואינו תלוי אם המכירה קיים או לא",
+     "he": "מנחת חינוך: המוכר מעשר עובר בלא תעשה, ואינו תלוי אם המכירה קיימת או לא, כי היא גזירת הכתוב שלא ימכור.",
+     "en": "Minchat Chinukh: one who sells a tithe transgresses a negative commandment, regardless of whether the sale holds, for it is the Torah's decree that he not sell."
+    }
+   ]
+  }
+ ]
+}
