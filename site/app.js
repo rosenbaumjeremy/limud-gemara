@@ -91,7 +91,7 @@ const T = {
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
-    sMeforshim: "סיכום הדף",
+
     rishonim: "ראשונים", acharonim: "אחרונים", mfOpen: "בספריא",
     musagim: "מושגים", sugyot: "הסוגיות", sumGemara: "הגמרא:", sumHalakha: "להלכה:", sumOther: "שאר הסוגיות בדף",
     sumNote: "סיכום שנכתב מתוך מה שיש בספריא; כל דעה מקושרת למקורה. אם מצאת טעות — לבדוק במקור.",
@@ -123,7 +123,7 @@ const T = {
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
-    sMeforshim: "Summary of the daf",
+
     rishonim: "Rishonim", acharonim: "Acharonim", mfOpen: "On Sefaria",
     musagim: "Key terms", sugyot: "The sugyot", sumGemara: "The Gemara:", sumHalakha: "Halakha:", sumOther: "Other sugyot on this daf",
     sumNote: "A summary written from what Sefaria has; every opinion links to its source. If something looks wrong, check the source.",
@@ -146,9 +146,10 @@ const KINDS = {
 };
 
 // the starting settings; each tool can be switched on or off in the settings (⚙)
-const DEFAULTS = { lang: "he", view: "lines", explain: "open", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true, meforshim: false };
+const DEFAULTS = { lang: "he", view: "lines", explain: "open", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true };
 const SAVED = store.get("settings", {});
 delete SAVED.level;   // the levels are gone; what a student set by hand stays
+delete SAVED.meforshim;   // the daf's summary is always shown when there is one
 let S = Object.assign({}, DEFAULTS, SAVED);
 const t = (k, ...a) => { const v = T[S.lang][k]; return typeof v === "function" ? v(...a) : v; };
 const saveSettings = () => store.set("settings", S);
@@ -475,7 +476,7 @@ async function amudView(ref) {
     return;
   }
   opened(ref);
-  const sum = S.meforshim ? await getJSON(summaryUrl(ref)).catch(() => null) : null;
+  const sum = await getJSON(summaryUrl(ref)).catch(() => null);
   MUSAGIM = ((sum && sum.musagim) || []).filter(m => m.amud === parseRef(ref).amud);
 
   const head = el("div", { class: "reader-head" }, el("h2", {}, refName(ref)), fullButton());
@@ -574,7 +575,7 @@ function jumpToLine(n) {
 function readerMain(ref, text, segs) {
   const words = wordsPanel(segs);
   return el("div", { class: "reader-main" + (words ? " has-sum" : "") }, el("div", { class: "reader-text" }, text),
-    el("div", { class: "side" }, foldButton("side"), words, S.meforshim ? summaryPanel(ref) : null));
+    el("div", { class: "side" }, foldButton("side"), words, summaryPanel(ref)));
 }
 
 // The known Aramaic words and phrases of the amud, in the order they first come, each with its
@@ -1063,7 +1064,7 @@ function settingsView() {
       el("button", { type: "button", class: "iconbtn", "aria-label": t("close"), onclick: () => { d.hidden = true; } }, "✕")),
     el("h3", {}, t("tools")),
     el("p", {}, t("sVocab")), radio("vocab", [["all", t("sVocabAll")], ["key", t("sVocabKey")], ["off", t("sVocabOff")]]),
-    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("meforshim", t("sMeforshim")), toggle("nikud", t("sNikud"))));
+    toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("nikud", t("sNikud"))));
 }
 
 // ---------- shell ----------
