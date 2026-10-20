@@ -1,0 +1,1179 @@
+{
+ "ref": "Bekhorot 32",
+ "date": "2026-10-20",
+ "he": {
+  "overview": "הדף עוסק בשני עניינים: בעמוד א — מעשר בהמה של יתומים, ההבלעה בעצמות, והשאלה מנין שמעשר בהמה אינו נמכר (גזירה שוה ״לא יגאל״ מחרמים, ״והעברת״ ופירכות), ודעת רבא על חרמי כהנים; בעמוד ב — דעת רב אשי ש״לא יגאל״ פירושו ״לא ימכר הוא״, ואחר כך משנת מנין ישראל וגוי על בכור בעל מום (בית שמאי ובית הלל, רבי עקיבא). הראשונים נחלקים בגרסת הגמרא (רש״י: ״לא ימכר״; ר״ת: ״לא יגאל״), בטעם ההיתר אחרי שחיטה ובהלכה לגבי בכור בעל מום לגוי.",
+  "title": "סיכום — בכורות ל״ב"
+ },
+ "en": {
+  "overview": "The daf deals with two matters: on amud a, the maaser behemah of orphans, hav'la into the bones, and the question of how we know maaser behemah may not be sold (the gezeira shava 'lo yigael' from cherem, 'veha'avarta', and refutations), together with Rava's view on cherem of kohanim; on amud b, Rav Ashi's view that 'lo yigael' means 'lo yimakher hu', and then the Mishnah on counting an Israelite or a non-Jew on a blemished firstborn (Beit Shammai and Beit Hillel, Rabbi Akiva). The Rishonim differ on the Gemara's reading (Rashi: 'lo yimakher'; Rabbeinu Tam: 'lo yigael'), on the basis of the permission after slaughter, and on the halakha of a blemished firstborn for a non-Jew.",
+  "title": "Summary — Bekhorot 32"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "להבליעו בעצמות"
+   ],
+   "he": {
+    "term": "הבלעה",
+    "explanation": "מכירה של דבר אסור יחד עם דבר מותר בהערכה אחת: הבעלים מוכרים את הבשר בתוך מחיר העצמות או העור. נשאלה שאלה אם מותר להבליע את דמי בשר המעשר בדמי העצמות."
+   },
+   "en": {
+    "term": "Hav'la (blending the price)",
+    "explanation": "Selling a forbidden thing together with a permitted one at one price: the owner sells the meat inside the price of the bones or hide. The question here is whether one may blend the price of the maaser meat into the price of the bones."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 32a:4:1",
+    "quote": "דמי בשר מעשר בהמה של גדול עם דמי העצמות"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "ולא יגאל בחרמים"
+   ],
+   "he": {
+    "term": "גזירה שוה",
+    "explanation": "לימוד מלשון משותפת בשני מקומות: ״לא יגאל״ במעשר ו״ולא יגאל״ בחרמים; ובחרמים כתוב גם ״לא ימכר״, ולכן במעשר ״לא יגאל״ כולל מכירה."
+   },
+   "en": {
+    "term": "Gezeira shava (verbal analogy)",
+    "explanation": "A teaching drawn from a word shared by two places: 'lo yigael' of maaser and 'velo yigael' of cherem; for cherem 'lo yimakher' is also written, so for maaser 'lo yigael' includes sale."
+   },
+   "source": {
+    "who": {
+     "he": "ר״ש משאנץ",
+     "en": "Rash MiShantz"
+    },
+    "ref": "Rash MiShantz on Mishnah Maaser Sheni 1:2:1",
+    "quote": "גמר גאולה גאולה מחרמים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "מפני"
+   ],
+   "he": {
+    "term": "מופנה",
+    "explanation": "פסוק או מילה שאינם נצרכים לעניינם ולכן ״פנויים״ ללמד דבר אחר. כדי ללמוד גזירה שוה צריך שהמילה תהיה מופנית, אחרת אפשר לפרוך."
+   },
+   "en": {
+    "term": "Mufneh (a freed word)",
+    "explanation": "A verse or word not needed for its own subject, hence 'free' to teach something else. To learn a gezeira shava the word must be mufneh, otherwise it can be refuted."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 32a:9:1",
+    "quote": "שצריך שיהו תיבות הללו לא יגאל מופנין לדרשא זו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "איכא למפרך"
+   ],
+   "he": {
+    "term": "פירכא",
+    "explanation": "התנגדות ללימוד: מראים שלדבר שממנו לומדים יש מאפיין מיוחד שאינו בדבר הנלמד, ולכן אי אפשר ללמוד. כאן: ״מה לחרמים שכן חלים על הכל״."
+   },
+   "en": {
+    "term": "Pirkha (refutation)",
+    "explanation": "An objection to a derivation: showing that the source has a special feature the derived case lacks. Here: 'what of cherem, which applies to everything'."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 32a:11:1",
+    "quote": "דאיצטריך לא יגאל דחרמים דממעשר לא גמירי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "קדוש לפניו ולאחריו"
+   ],
+   "he": {
+    "term": "קדוש לפניו ולאחריו",
+    "explanation": "מעשר בהמה קדוש גם אם קרא לבהמה אחרת עשירי: אם קרא לתשיעי עשירי, לעשירי עשירי ולאחד עשר עשירי, שלשתן מקודשים."
+   },
+   "en": {
+    "term": "Holy before and after",
+    "explanation": "Maaser is sanctified even if he mislabeled the animals: if he called the ninth, tenth and eleventh 'tenth', all three are consecrated."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 32a:11:1",
+    "quote": "שאם קרא לעשירי תשיעי ולתשיעי עשירי ולאחד עשר עשירי שלשתן מקודשים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 24,
+   "anchors": [
+    "אי בי בעלים הקדש נינהו"
+   ],
+   "he": {
+    "term": "חרמי כהנים",
+    "explanation": "נדר חרם שנתן אדם לכהנים: כל זמן שהחרם אצל הבעלים הוא הקדש, ומשנתנו לכהן הוא חולין ממון הכהן."
+   },
+   "en": {
+    "term": "Cherem of kohanim",
+    "explanation": "Property devoted to the kohanim: while with the owner it is hekdesh, and once given to a kohen it is ordinary property."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 6:5",
+    "quote": "נתנו לכהן הרי הן כחולין לכל דבריהם"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "הא בעי העמדה והערכה"
+   ],
+   "he": {
+    "term": "העמדה והערכה",
+    "explanation": "הליך של פדיון הקדש: מעמידים את הבהמה לפני הכהן ומעריכים אותה. בבהמה שנשחטה אי אפשר להעמידה."
+   },
+   "en": {
+    "term": "Standing and valuation",
+    "explanation": "The process of redeeming hekdesh: the animal is stood before the kohen and valued. A slaughtered animal cannot be stood."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 32b:2",
+    "quote": "קודם שיגאל ואי אפשר להעמידן שכבר נשחט"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 9,
+   "anchors": [
+    "לא ימנה ישראל עם הכהן"
+   ],
+   "he": {
+    "term": "נמנה על הבכור",
+    "explanation": "הזמנה של אנשים לאכול ממנו עם הכהן. במשנה נחלקו בית שמאי ובית הלל אם ישראל או גוי יכולים להיות בחבורה על בכור בעל מום."
+   },
+   "en": {
+    "term": "Being counted on the firstborn",
+    "explanation": "Inviting people to eat from it with the kohen. The Mishnah has Beit Shammai and Beit Hillel disagreeing on whether an Israelite or a non-Jew may join the group on a blemished firstborn."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 32b:9:1",
+    "quote": "אפי' אם זימן כהן אורח ישראל על הבכור בעל מום לא יאכל עמו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "מעשר בהמה של יתומים: מכירה אחרי שחיטה",
+    "gemara": "דבר שאינו ניתן להיאמד מחיים — לא גזרו בו חכמים, ובמעשר של יתומים העמידו את הדין על דין התורה. רב שמואל בר רב יצחק לומד זאת מהפסוק ״רק בכל אוות נפשך תזבח ואכלת בשר״: איזה דבר אין בו ברכה מחיים אלא אחרי שחיטה? זה מעשר בהמה."
+   },
+   "en": {
+    "title": "Maaser behemah of orphans: selling after slaughter",
+    "gemara": "A thing that cannot be appraised while alive was not covered by the Rabbis' decree, and for orphans the Rabbis left the law as it is in the Torah. Rav Shmuel bar Rav Yitzchak learns this from 'Only in all the desire of your soul you may slaughter and eat meat': what has no blessing while alive but only after slaughter? That is maaser behemah."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:1",
+     "quote": "לא גזרו רבנן לאחר שחיטה",
+     "he": "הגמרא מדברת על העור, שנאמד רק אחרי המיתה. חכמים לא גזרו אחרי שחיטה, שאז נמכר בהבלעה, מחשש שמא ימכרו כך לפני שחיטה.",
+     "en": "The Gemara speaks of the hide, which is appraised only after death. The Rabbis did not decree after slaughter, when it may be sold by hav'la (blending the price), out of concern for sale before slaughter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:2",
+     "quote": "דלא גזרו בהו משום תקנת יתומים",
+     "he": "בעניין יתומים לא גזרו משום תקנת יתומים, אלא העמידו על דין התורה: מחיים אינו נמכר, ואחרי שחיטה נמכר אפילו שלא בהבלעה.",
+     "en": "For orphans they did not decree, for the sake of the orphans' welfare, but left the Torah law: it cannot be sold alive, but after slaughter it may be sold even without hav'la."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:1:1",
+     "quote": "ביתמי משום השבת אבידה אוקמוה אדאורייתא",
+     "he": "לגבי יתומים העמידו על דין התורה משום השבת אבידה, שאחרי שחיטה מוכרים אותו כדרכו.",
+     "en": "For orphans they left the Torah law because of restoring lost property: after slaughter it is sold in the usual way."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:3:3",
+     "quote": "ההוא ברכה מכירה היא",
+     "he": "הברכה שהותרה אחרי שחיטה היא מכירה; ומכאן שאחרי שחיטה נמכר מן התורה, והאיסור במשנה לשחוט הוא מדרבנן.",
+     "en": "The 'blessing' permitted after slaughter is sale; so after slaughter it may be sold by Torah law, and the prohibition on the slaughtered animal is rabbinic."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:3:1",
+     "quote": "מוקמינן בספרי דבפסולי המוקדשין מישתעי",
+     "he": "הספרי מעמיד את הפסוק ״רק בכל אוות נפשך״ בפסולי המוקדשין שנפל בהם מום.",
+     "en": "The Sifrei establishes the verse 'only in all the desire of your soul' as speaking of disqualified consecrated animals."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 137a:1:2",
+     "quote": "אלא אם כן הוי של יתומין",
+     "he": "רש״י בחולין מביא את דברי הברייתא שמעשר אינו נמכר לא חי ולא שחוט, ומוסיף שהחריג הוא מעשר של יתומים.",
+     "en": "Rashi in Chullin cites the baraita that maaser cannot be sold alive or slaughtered, and adds the exception: unless it is the orphans'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:3",
+     "quote": "מחיים אסור למוכרו וליהנות ממנו אלא לאחר שחיטה מותר",
+     "he": "מפרש ״אין בו ברכה מחיים״: מחיים אסור למוכרו וליהנות ממנו, ואחרי שחיטה מותר — והוא מעשר בהמה של יתומים.",
+     "en": "He explains 'no blessing while alive': while alive it is forbidden to sell or benefit from it, after slaughter it is permitted, and this is orphans' maaser behemah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32a:2:1",
+     "quote": "מקרא אחרינא ולא מטעמיה",
+     "he": "רב שמואל בר רב יצחק סובר כרבא אך לומד זאת ממקרא אחר ולא מטעמו.",
+     "en": "Rav Shmuel bar Rav Yitzchak agrees with Rava but from a different verse, not from his reasoning."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 12:15:2",
+     "quote": "רבנן גזרו גם לאחר שחיטה משום גזירה דקודם שחיטה",
+     "he": "מבאר שהגמרא מעמידה את הפסוק במעשר בהמה, וחכמים גזרו גם אחרי שחיטה משום קודם שחיטה, ורק במעשר של יתומים העמידו על דין התורה.",
+     "en": "He explains that the verse is applied to maaser behemah; the Rabbis decreed even after slaughter on account of before slaughter, and only for orphans' maaser did they leave Torah law."
+    },
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Re'eh 12",
+     "quote": "דמעשר בהמה אינו נוהג בשותפות",
+     "he": "מעשר בהמה אינו נוהג בשותפות ואינו נמכר מחיים, ולכן בפסוק אצל חולין ובכור בעל מום כתוב ״יחדיו״ ואצלו לא — רמז שהבעלים אחד.",
+     "en": "Maaser behemah does not apply to partnership and cannot be sold alive; so 'together' is written for chullin and a blemished firstborn but not for maaser — a hint that the owner is one."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 361:1:1",
+     "quote": "מפני הפסד היתומים שייך בתם כמו בע\"מ",
+     "he": "לדעתו, מפני הפסד היתומים הדין של יתומים שייך גם בתם, לא רק בבעל מום.",
+     "en": "In his view, because of the orphans' loss, the law of orphans applies to a perfect animal too, not only a blemished one."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    6
+   ],
+   "he": {
+    "title": "הבלעה בעצמות",
+    "gemara": "נשאלה שאלה: מהו להבליע את דמי הבשר של מעשר בהמה בדמי העצמות? רבי חייא ורבי שמעון ברבי נחלקו, אחד מתיר ואחד אוסר. הגמרא מיישבת שאין מחלוקת: זה בבהמה דקה וזה בגסה, ולדרך אחרת — בשתיהן בגסה, ואחד כמקומו ואחד כמקומו.",
+    "halakha": "הרמב״ם: מעשר בהמה שנשחט במומו מותר למכור חלבו וגידיו ועורו ועצמותיו; אסור למכור רק את הבשר. ואם הבליע את דמי הבשר בדמי העור, החלב, הגידים או העצמות היקרים — מותר."
+   },
+   "en": {
+    "title": "Hav'la into the bones",
+    "gemara": "The question was asked: may one blend the price of the meat of maaser behemah into the price of the bones? Rabbi Chiya and Rabbi Shimon son of Rabbi disagree, one permitting and one forbidding. The Gemara reconciles: one speaks of small cattle, the other large; or both speak of large cattle, each according to his place.",
+    "halakha": "Rambam: maaser behemah that was slaughtered with its blemish — one may sell its fat, sinews, hide and bones; only the meat is forbidden. If one blended the price of the meat into the price of the hide, fat, sinews, or valuable bones, it is permitted."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:4:1",
+     "quote": "דמי בשר מעשר בהמה של גדול עם דמי העצמות",
+     "he": "השאלה היא אם מותר להבליע את דמי בשר מעשר הבהמה של גדול עם דמי העצמות.",
+     "en": "The question is whether one may blend the price of the meat of an adult's maaser behemah with the price of the bones."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:5:2",
+     "quote": "ראויין העצמות לקתתא דנגרי וחציני ומבליעין",
+     "he": "בבהמה גסה העצמות ראויות לקתות של נגרים ולחצים, ולכן מבליעים.",
+     "en": "In large cattle the bones are fit for carpenters' handles and arrows, so one may blend."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:5:1",
+     "quote": "אין העצמות ראויים לכלום ואין מבליעין",
+     "he": "בבהמה דקה העצמות אינן ראויות לכלום ולכן אין מבליעים.",
+     "en": "In small cattle the bones are fit for nothing, so one may not blend."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:6:1",
+     "quote": "באתריה דמר עושין כלים מעצמות",
+     "he": "לפי התירוץ השני, במקומו של האחד עושים כלים מעצמות ומבליעים, ובמקומו של השני אין עושים ואין מבליעים.",
+     "en": "On the second answer, in one master's place they make vessels from bones and so blend; in the other's they do not, and so do not blend."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:5",
+     "quote": "עצמותיה חשובין למלאכה ויכול להבליעו בהן",
+     "he": "בבהמה גסה העצמות חשובות למלאכה ויכול להבליע בהן.",
+     "en": "In large cattle the bones are valuable for craft work and he may blend into them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:6",
+     "quote": "אין מבליעו לא עבדי מיניה חלילין",
+     "he": "במקום שמבליעים עושים מהעצמות חלילים, ובמקום שאין מבליעים אין עושים מהן חלילים.",
+     "en": "Where one may blend they make flutes from the bones; where one may not, they do not."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:8",
+     "quote": "ולא אסרו למכור אלא בשרו בלבד",
+     "he": "פוסק שמעשר בהמה שנשחט במומו מותר למכור כל חלקיו חוץ מבשרו, ובהבלעה מותר למכור הכול.",
+     "en": "He rules that of maaser behemah slaughtered with its blemish every part may be sold except the meat, and by hav'la all may be sold."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 361:1:1",
+     "quote": "שרי למכור ע\"י הבלעה העור והעצמות והגידין",
+     "he": "לדעתו גם לגדול מותר למכור על ידי הבלעה את העור, העצמות והגידים.",
+     "en": "In his view even for an adult it is permitted to sell the hide, bones and sinews through hav'la."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    13
+   ],
+   "he": {
+    "title": "מנין שמעשר אינו נמכר: גזירה שוה ״לא יגאל״ מחרמים",
+    "gemara": "בבכור נאמר ״לא תפדה״ והוא נמכר, ובמעשר נאמר ״לא יגאל״ ואינו נמכר, לא חי ולא שחוט, לא תם ולא בעל מום. רב חיננא בשם רב ורב דימי בשם רבי יוחנן: נאמר ״לא יגאל״ במעשר ונאמר ״ולא יגאל״ בחרמים; כשם שבחרמים מכירה עמו, כך במעשר. רב נחמן בר יצחק שואל: אם הפסוק אינו מופנה אפשר לפרוך — מה לחרמים שכן חלים על הכל; מה למעשר שכן קדוש לפניו ולאחריו; מה לבכור שכן קדושתו מרחם."
+   },
+   "en": {
+    "title": "Why maaser cannot be sold: the gezeira shava 'lo yigael' from cherem",
+    "gemara": "Of a firstborn it says 'you shall not redeem' and it may be sold; of maaser it says 'it shall not be redeemed' and it may not be sold, alive or slaughtered, unblemished or blemished. Rav Chinana in the name of Rav and Rav Dimi in the name of Rabbi Yochanan: 'it shall not be redeemed' is said of maaser and 'and it shall not be redeemed' of cherem; as sale goes with it for cherem, so for maaser. Rav Nachman bar Yitzchak asks: unless the phrase is freed for this, one can refute — what of cherem, which applies to everything; what of maaser, which is holy before and after; what of a firstborn, whose holiness is from the womb."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:7:1",
+     "quote": "דמאי משמע מכירה מלא יגאל",
+     "he": "מקשה: מנין שמשמעות ״לא יגאל״ היא איסור מכירה.",
+     "en": "He asks how 'lo yigael' implies sale."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:8:1",
+     "quote": "לא ימכר ולא יגאל כל חרם קדשים",
+     "he": "בחרמים כתוב ״לא ימכר ולא יגאל״ (ויקרא כז:כח), ומשם הגזירה השוה.",
+     "en": "For cherem it is written 'it shall not be sold and shall not be redeemed' (Lev. 27:28), and from there the gezeira shava."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:9:2",
+     "quote": "חרם חל על כל העדר ומעשר אינו אלא עשירי",
+     "he": "הפירכא: חרמים חלים גם על קדשים ועל כל העדר, ואילו מעשר חל רק על חולין ועל העשירי.",
+     "en": "The refutation: cherem applies even to consecrated animals and to the entire herd, while maaser applies only to unconsecrated animals and only to the tenth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:7",
+     "quote": "מעשר בהמה אינו חל אלא על חולין",
+     "he": "חרמים חלים על קדשי קדשים, קדשים קלים וחולין, ואילו מעשר בהמה אינו חל אלא על חולין.",
+     "en": "Cherem applies to most-holy, lesser-holy and unconsecrated things; maaser behemah applies only to unconsecrated."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:11:1",
+     "quote": "שכן קדש לפניו ולאחריו",
+     "he": "הפירכא ממעשר: מעשר קדוש לפניו ולאחריו — אם קרא לעשירי תשיעי, לתשיעי עשירי ולאחד עשר עשירי, שלשתן מקודשים.",
+     "en": "The refutation from maaser: it is holy before and after — if he called the tenth 'ninth', the ninth 'tenth' and the eleventh 'tenth', all three are consecrated."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:10",
+     "quote": "קרא לתשיעי עשירי ולעשירי עשירי ולאחד עשר עשירי שלשתן מקודשין",
+     "he": "מפרש כמשנה: אם קרא לתשיעי עשירי, לעשירי עשירי ולאחד עשר עשירי — שלשתן מקודשים, מה שאין כן בחרמים.",
+     "en": "He explains per the Mishnah: if he called the ninth, tenth and eleventh 'tenth', all three are consecrated — not so with cherem."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:13:1",
+     "quote": "מה לבכור שכן קדושתו מרחם",
+     "he": "הפירכא מבכור: קדושתו מרחם, ואילו במעשר אין קדושתו מרחם, ולכן צריך ״לא יגאל״ של מעשר.",
+     "en": "The refutation from a firstborn: its holiness is from the womb, but maaser has no such holiness, so maaser needs its own 'lo yigael'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32a:10:1",
+     "quote": "משום דבחרמים כתיב לא ימכר ומוקמינן בהו לא יגאל",
+     "he": "מתרץ למה לא לומדים מהקדש שנפדה: משום שבחרמים כתוב ״לא ימכר״ ומעמידים בו ״לא יגאל״ לפדיון.",
+     "en": "He answers why we do not learn from hekdesh, which is redeemed: because for cherem 'shall not be sold' is written and 'shall not be redeemed' is established for it."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Bava Metzia 47a:2",
+     "quote": "גאולה זו מכירה שנאמר לא יגאל ולא ימכר",
+     "he": "לפי גרסת רבינו תם בבבא מציעא: ״גאולה זו מכירה, שנאמר לא יגאל ולא ימכר״, והוא נלמד בבכורות שמעשר אינו נמכר.",
+     "en": "On Rabbeinu Tam's reading in Bava Metzia: 'redemption means sale, as it says lo yigael and lo yimakher', which is derived in Bekhorot that maaser cannot be sold."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Metzia 47a:14:1",
+     "quote": "גאולה זו מכירה וכן הוא אומר",
+     "he": "מביאים את דברי ר״ת שממעשר בבכורות למדים ״גאולה זו מכירה״.",
+     "en": "They cite Rabbeinu Tam that from the maaser passage in Bekhorot we learn that 'geulah means mekhira'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Zevachim 71b:4:2",
+     "quote": "תנן במעשר נאמר לא יגאל ואינו נמכר לא חי ולא שחוט",
+     "he": "מביא את המשנה והגמרא בבכורות: במעשר נאמר ״לא יגאל״ ואינו נמכר לא חי ולא שחוט, ולומדים ש״לא יגאל״ הוא ״לא ימכר״.",
+     "en": "He cites the Mishnah and Gemara in Bekhorot: of maaser 'lo yigael' is said and it may not be sold alive or slaughtered, and 'lo yigael' is learned to mean 'lo yimakher'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 32a:1",
+     "quote": "על עבדים ושפחות ומטלטלין",
+     "he": "מבאר ״חלים על הכל״ — שחרם חל אף על עבדים, שפחות ומטלטלין, מה שאין כן מעשר שחל רק בבקר וצאן; ורש״י לא פירש כן.",
+     "en": "He explains 'apply to everything': cherem applies even to slaves, maidservants and movables, unlike maaser which applies only to cattle and sheep; Rashi did not explain this way."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 27:33:6",
+     "quote": "נאמר כאן לא יגאל ונאמר בחרמין",
+     "he": "מבאר: נאמר כאן ״לא יגאל״ ונאמר בחרמין ״לא ימכר ולא יגאל״; מה שם מכירה עמו אף כאן.",
+     "en": "He explains: here 'lo yigael' and for cherem 'lo yimakher velo yigael'; as sale goes with it there, so here."
+    },
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Leviticus 27:33:1",
+     "quote": "מפי השמועה למדו שאינו נגאל ואינו נמכר",
+     "he": "מפי השמועה למדו שהמעשר אינו נגאל ואינו נמכר — ״לא יגאל״ משמעו גם איסור מכירה.",
+     "en": "From the oral tradition they learned that maaser is neither redeemed nor sold — 'lo yigael' implies prohibition of sale as well."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Yoreh Deah 196:7",
+     "quote": "שהגמרא פריך מה למעשר שכן הוא קדוש לפניו ולאחריו",
+     "he": "מצטט את הפירכא בגמרא ״מה למעשר שכן קדוש לפניו ולאחריו״ ומפרש כרש״י: כל עוד לא הפריש ולא מנה, אין בו קדושה.",
+     "en": "He cites the Gemara's refutation 'what of maaser, which is holy before and after' and explains per Rashi: as long as he did not separate and count, there is no holiness."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    23
+   ],
+   "he": {
+    "title": "״והעברת״ והיקש: למה צריך ״לא יגאל״ במעשר",
+    "gemara": "אפשר ללמוד ״העברה העברה״ מבכור למעשר, אך עדיין אפשר לפרוך; והגמרא עונה: ״והעברת״ הוא פסוק יתר, ואין משיבים על ההיקש. מדוע לא לומדים בכור ״גאולה גאולה״ מחרמים? מפני שמעשר מופנה ובכור אינו מופנה. ״דנין גאולה מגאולה ואין דנין פדייה מגאולה״, ולמעשר המיעוט ״הוא״ — ״הוא״ ולא בכור."
+   },
+   "en": {
+    "title": "'Veha'avarta' and the hekesh: why maaser needs its own 'lo yigael'",
+    "gemara": "One might learn 'ha'avara ha'avara' from firstborn to maaser, yet that too can be refuted; the Gemara answers that 'veha'avarta' is a superfluous verse, and one cannot refute a hekesh. Why not learn for firstborn 'geulah geulah' from cherem? Because for maaser the phrase is freed for this, and for firstborn it is not. 'We derive geulah from geulah, not pidyon from geulah'; and Scripture excluded, for cherem, 'it' — 'it' and not a firstborn."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:12",
+     "quote": "ואין משיבין על ההיקישא",
+     "he": "״והעברת״ יתיר — היה אפשר לומר ״ונתת״ — ונכתב להיקש, ואין משיבין על ההיקש, ולכן ״לא יגאל״ של מעשר מופנה ללמוד מחרמים.",
+     "en": "'Veha'avarta' is superfluous — it could have said 'and you shall give' — and it was written for a hekesh, which cannot be refuted; so maaser's 'lo yigael' is freed to learn from cherem."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:16:1",
+     "quote": "מופנה לגזירה שוה ללמד העברה העברה על מעשר",
+     "he": "״והעברת״ מופנה לגזירה שוה ללמד ״העברה העברה״ על מעשר, ואין משיבין עליה; לכן ״לא יגאל״ של מעשר מופנה.",
+     "en": "'Veha'avarta' is freed for a gezeira shava to teach 'ha'avara ha'avara' on maaser, which cannot be refuted; so maaser's 'lo yigael' is freed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:13",
+     "quote": "ונילף בכור שלא יהא נמכר העברה העברה ממעשר",
+     "he": "מקשה: נלמד בכור שלא יהא נמכר ב״העברה העברה״ ממעשר, כיוון שמעשר נלמד מחרמים.",
+     "en": "He asks: let us learn that a firstborn may not be sold by 'ha'avara ha'avara' from maaser, since maaser was learned from cherem."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:17:2",
+     "quote": "אבל פדייה דבכור לא מפני",
+     "he": "״גאולה״ של מעשר מופנה, אבל ״פדייה״ של בכור לא מופנה, כי נצרך לגופו וללמד על מעשר ב״העברה״.",
+     "en": "The 'geulah' of maaser is freed, but the 'pidyon' of a firstborn is not, being needed for itself and to teach maaser through 'ha'avara'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:22:1",
+     "quote": "דהא מעשר כבר קים לן דגמרנא ליה גאולה מחרמים",
+     "he": "שואל: נלמד בכור ״העברה״ ממעשר, שהרי למעשר כבר למדנו ״גאולה״ מחרמים.",
+     "en": "He asks: let us learn the firstborn by 'ha'avara' from maaser, as maaser was already learned from cherem by 'geulah'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:23:1",
+     "quote": "ולמעוטי בכור דפדייה כתב ביה",
+     "he": "״הוא״ בחרמים מיעט את הבכור, שבו כתוב ״פדייה״ ולא ״גאולה״.",
+     "en": "'Hu' written for cherem excludes the firstborn, in which 'pidyon' rather than 'geulah' is written."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32a:23:1",
+     "quote": "אית ליה נמי הוא ולא בכור",
+     "he": "תוספות: גם רבא סובר ״הוא ולא בכור״, כמו שנראה בתמורה, שאילולא כן היינו לומדים בכור ״העברה״ ממעשר.",
+     "en": "Tosafot: Rava too holds 'hu and not a firstborn', as seen in Temurah, for otherwise we would learn the firstborn by 'ha'avara' from maaser."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 86:4",
+     "quote": "דאפשר דילפינן העברה העברה מבכור",
+     "he": "מביא שייתכן שלמדים ״העברה העברה״ מבכור במקומות נוספים, כמו בבכורות ובבבא קמא.",
+     "en": "He notes that 'ha'avara ha'avara' may be learned from firstborn elsewhere, such as in Bekhorot and Bava Kamma."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 86:25",
+     "quote": "דלא תפדה דבכור אינו אזהרת לאו",
+     "he": "לפי מסקנת הגמרא ״לא תפדה״ של בכור אינו אזהרת לאו אלא שאינו בתורת פדיון, ולכן אפילו לרבא אין צורך למעט בכור מאיסור מכירה.",
+     "en": "On the Gemara's conclusion the firstborn's 'lo tifdeh' is not a prohibition but means it is not by way of redemption; so even Rava needs no exclusion of a firstborn from the prohibition of sale."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 111:1:2",
+     "quote": "מיעט רחמנא גבי חרמים הוא ולא בכור",
+     "he": "מצטט ״מיעט רחמנא גבי חרמים הוא ולא בכור״ וכותב שבכור נמכר ויש בו ממון בעלים.",
+     "en": "He cites 'Scripture excluded, for cherem, hu and not a firstborn', concluding that a firstborn may be sold and is the owner's property."
+    },
+    {
+     "who": {
+      "he": "עיקר תוספות יום טוב",
+      "en": "Ikar Tosafot Yom Tov"
+     },
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Bekhorot 5:1:5",
+     "quote": "וגמרינן גאולה גאולה מחרמים",
+     "he": "במשנה בבכורות (ה:א) אומר: ״וגמרינן גאולה גאולה מחרמים״ — הגזירה השוה שלמדנו בגמרא.",
+     "en": "On the Mishnah in Bekhorot (5:1) he writes: 'we learn geulah geulah from cherem' — the gezeira shava learned in the Gemara."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    24,
+    1
+   ],
+   "he": {
+    "title": "דעת רבא: ״לא יגאל״ של חרמים — חרמי כהנים",
+    "gemara": "רבא אומר: ״לא יגאל״ של חרמים אינו נצרך, שהרי חרמים או אצל הבעלים — הקדש, או אצל הכהן — חולין. כך שנו: חרמים כל זמן שהם בבית הבעלים — כהקדש לכל דבריהם, נתנם לכהן — כחולין. וכיוון שהפסוק ״לא יגאל״ אינו עניין לחרמים, תנהו עניין למעשר; ואין לומר שעניינו בכור, כי מעשר ״גאולה כמותו״.",
+    "halakha": "הרמב״ם פוסק כברייתא: חרמי כהנים בבית הבעלים הקדש לכל דבריהם, ומשנתנו לכהן — חולין."
+   },
+   "en": {
+    "title": "Rava: the 'lo yigael' of cherem is unneeded — cherem of kohanim",
+    "gemara": "Rava says: the 'lo yigael' of cherem is not needed, for where is cherem? If with its owners — it is hekdesh; if with the kohen — it is chullin. So it was taught: cherem, while in the owners' house, is like hekdesh for all purposes; once given to a kohen it is like chullin. Since the verse 'lo yigael' is not about cherem, assign it to maaser; and one may not assign it to the firstborn, for maaser's 'geulah' is like it.",
+    "halakha": "Rambam rules per the baraita: cherem of kohanim is hekdesh for all matters in the owners' house, and once given to a kohen it is chullin."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:14",
+     "quote": "אי בבעלים הקדש נינהו ואסור לפדות קדשים תמימים",
+     "he": "״לא יגאל״ של חרמים אין צריך, כי אם החרמים אצל הבעלים — הקדש ואסור לפדות קדשים תמימים.",
+     "en": "The 'lo yigael' of cherem is not needed: if cherem is with the owners it is hekdesh, and unblemished consecrated animals may not be redeemed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32a:15",
+     "quote": "נתנן לכהן הרי הן כחולין",
+     "he": "משנתנו לכהן הרי הם כחולין ונמכרים כדרכם.",
+     "en": "Once given to a kohen they are like chullin and are sold in the usual way."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:24:1",
+     "quote": "ולא משום דגמר מבכור אלא מסברא נפקא לן",
+     "he": "רש״י: אין זה משום שנלמד מבכור אלא מסברא שאינו בפדייה.",
+     "en": "Rashi: this is not learned from the firstborn but we derive it by reasoning that it is not subject to redemption."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32a:24:3",
+     "quote": "ויכול למוכרן כהן לכל מי שירצה",
+     "he": "חולין נינהו — ויכול הכהן למוכרם לכל מי שירצה.",
+     "en": "They are chullin — and the kohen may sell them to whomever he wishes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:1:2",
+     "quote": "הרי הקדש בר פדייה שהרי קדשי בדק הבית נפדין",
+     "he": "רש״י מקשה על הגרסה: הקדש הוא בר פדייה, שהרי קדשי בדק הבית נפדים, ולכן הוא מציע לגרוס ״לא ימכר דחרמים לא צריך״.",
+     "en": "Rashi objects to the reading: hekdesh can be redeemed, for bedek ha-bayit sanctities are redeemed; so he proposes the reading 'lo yimakher of cherem is not needed'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32a:24:1",
+     "quote": "ורש\"י גרס לא ימכר משום דדייק",
+     "he": "בספרים כתוב ״לא יגאל״ אך רש״י גורס ״לא ימכר״; ורבינו תם מפרש ״הקדש נינהו״ שאפילו אם נפדו קדושתם עד בואם ליד כהן.",
+     "en": "The books read 'lo yigael' but Rashi reads 'lo yimakher'; Rabbeinu Tam explains 'hekdesh they are' to mean even if redeemed, their sanctity remains until they reach the kohen."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yoma 66a:3:2",
+     "quote": "חרמים כל זמן שהם ביד בעלים הרי הן כהקדש לכל דבריהם ומועלין בהם",
+     "he": "מצטטים את הברייתא: חרמים ביד בעלים הרי הם כהקדש ומועלים בהם.",
+     "en": "They cite the baraita: cherem in the owners' hands is like hekdesh and me'ila applies to it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 6:5",
+     "quote": "נתנו לכהן הרי הן כחולין לכל דבריהם",
+     "he": "פוסק: חרמי כהנים בבית הבעלים הקדש לכל דבריהם, נתנם לכהן — חולין.",
+     "en": "He rules: cherem of kohanim in the owners' house is hekdesh for all matters; given to the kohen, it is chullin."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Negative Commandments 230:1",
+     "quote": "דעיקר הגירסא היא לא ימכר דחרמים לא צריך",
+     "he": "מביא שרש״י גורס ״לא ימכר דחרמים לא צריך״ ואילו ר״ת מקיים את הגרסה ״לא יגאל״, ומציע שהבה״ג והרס״ג נחלקו לפי זה.",
+     "en": "He notes that Rashi reads 'lo yimakher of cherem is not needed' while Rabbeinu Tam keeps 'lo yigael', and suggests the Behag and Rasag differ accordingly."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:14:1",
+     "quote": "ומשבאו ליד כהן הוו כשאר ממונו ויכול למוכרן לכל מי שירצה",
+     "he": "מבאר שחרמים ביד הבעלים כהקדש ומועלים בהם, ומשבאו ליד כהן הם כשאר ממונו ויכול למכרם לכל מי שירצה, מן ״לך יהיה״.",
+     "en": "He explains that cherem in the owner's hands is like hekdesh and me'ila applies; once it reaches the kohen it is like his other property and he may sell it to whomever he wishes, from 'it shall be yours'."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Choshen Mishpat 406:2",
+     "quote": "וחרמי כהנים כל זמן שהם בבית בעלים דינם כהקדש",
+     "he": "פוסק להלכה: חרמי כהנים כל זמן שהם בבית בעלים דינם כהקדש, וכשנמסרו ליד כהן דינם כהדיוט.",
+     "en": "He states the law: cherem of kohanim in the owners' house has the law of hekdesh, and once given to a kohen, that of an ordinary person's property."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Sacrificial Procedure 14:12:2",
+     "quote": "גם חרמי כהנים כל זמן שהם ביד בעלים הקדש הם",
+     "he": "מציין שגם חרמי כהנים כל זמן שהם ביד בעלים הקדש הם, כמו שאמרה הגמרא בבכורות.",
+     "en": "He notes that cherem of kohanim too, while in the owners' hands, is hekdesh, as stated in Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    8
+   ],
+   "he": {
+    "title": "דעת רב אשי: ״לא יגאל״ — ״לא ימכר הוא״",
+    "gemara": "רב אשי אומר: ״לא יגאל״ של מעשר פירושו ״לא יימכר הוא״. הוא לומד מ״והיה הוא ותמורתו יהיה קדש לא יגאל״: מתי עושה תמורה — מחיים; ומתי אינו נגאל — מחיים; אך אחרי שחיטה היה נגאל, והרי נדרשת העמדה והערכה? ואם כן, ״לא יגאל״ פירושו ״לא יימכר״. אם קדשי מזבח לא היו בכלל העמדה והערכה, אומר רב אשי: אם מחיים לא נפדה, קל וחומר שלאחר שחיטה לא יפדה. ולמה לא כתב ״לא ימכר״? כי אז הייתי אומר שלא נמכר אבל נפדה; לכן כתב ״לא יגאל״, שלא נמכר ולא נפדה."
+   },
+   "en": {
+    "title": "Rav Ashi: 'lo yigael' means 'it may not be sold'",
+    "gemara": "Rav Ashi says: maaser's 'lo yigael' means 'it may not be sold'. He learns it from 'it and its substitute shall be holy, it shall not be redeemed': when does it effect a substitution — alive; when is it not redeemed — alive; so after slaughter it would be redeemed, yet that requires standing and valuation! Hence 'lo yigael' means 'it may not be sold'. If sacrificial animals were not subject to standing and valuation, Rav Ashi says: if alive it is not redeemed, then all the more after slaughter it should not be. And why not write 'lo yimakher'? Then I would say it cannot be sold but can be redeemed; so 'lo yigael' was written: it can neither be sold nor redeemed."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32b:2",
+     "quote": "ואי אפשר להעמידן שכבר נשחט",
+     "he": "״והאי בעי העמדה והערכה״ — קודם שיגאל, ואי אפשר להעמידו שכבר נשחט; ולכן ״לא יגאל״ פירושו ״לא ימכר הוא״.",
+     "en": "'It requires standing and valuation' before it is redeemed, and it cannot be stood since it was already slaughtered; so 'lo yigael' means 'lo yimakher hu'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32b:4",
+     "quote": "מי איכא מידי דמחיים כי אלים למיתפס פדיונו לא מיפריק ולאחר שחיטה דלא אלים מיפריק",
+     "he": "רב אשי מוכיח בקל וחומר: מחיים כשחזק לתפוס פדיונו אינו נפדה, ולכן אחרי שחיטה, כשאינו חזק, ודאי לא יפדה — ולכן ״לא יגאל״ פירושו ״לא ימכר״.",
+     "en": "Rav Ashi proves by kal va-chomer: alive, when strong enough to take its redemption-price, it is not redeemed; so after slaughter, when not strong, it surely is not — so 'lo yigael' means 'lo yimakher'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:2:1",
+     "quote": "הא לאחר שחיטה נגאל ותופס את דמיו",
+     "he": "רש״י: ״אימתי אינו נגאל — מחיים״ מוכיח שאחרי שחיטה נגאל ותופס את דמיו.",
+     "en": "Rashi: 'when is it not redeemed — alive' shows that after slaughter it is redeemed and takes its price."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:3:1",
+     "quote": "ומשום דעביד ביה עובדא דחול קאסר ליה רחמנא",
+     "he": "רש״י: ״לא יגאל״ פירושו ״לא ימכר״, ומשום ש״עביד ביה עובדא דחול״ אסרה התורה; מחיים קדושתו חמורה, אחרי שחיטה הוקלה.",
+     "en": "Rashi: 'lo yigael' means 'lo yimakher', and Scripture forbade it because one makes ordinary use of it; alive its holiness is greater, after slaughter it is lighter."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:8:2",
+     "quote": "שמע מינה דלא איזדבוני מיזדבן הוא",
+     "he": "רש״י: מכך שהפסוק הוציא מכירה בלשון ״גאולה״ למדים שלא נמכר ולא נפדה.",
+     "en": "Rashi: from Scripture expressing sale in the word 'geulah' we learn that it cannot be sold or redeemed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Zevachim 9a:5:2",
+     "quote": "דהאי לא יגאל לא ימכר הוא",
+     "he": "רש״י בזבחים: במעשר בהמה כתוב ״יהיה קודש לא יגאל״ ולומדים בבכורות ש״לא יגאל״ פירושו ״לא ימכר הוא״.",
+     "en": "Rashi in Zevachim: of maaser behemah 'it shall be holy, not redeemed' is written, and Bekhorot learns that 'lo yigael' means 'lo yimakher hu'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Zevachim 9a:5:1",
+     "quote": "לאחר שחיטה מדרבנן",
+     "he": "תוספות בזבחים: ״לא יגאל״ אחרי שחיטה הוא מדרבנן, ולכן תימה איך לוקים עליו.",
+     "en": "Tosafot in Zevachim: after slaughter it is only rabbinic, so it is astonishing how one is lashed for it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32b:3:1",
+     "quote": "תימה לוקמה במפרכסת דהרי היא כחיה לכל דבריה",
+     "he": "תוספות: תימה, שיעמידו את ״אחרי שחיטה״ במפרכסת, שהרי היא כחיה; ומתרצים שנגמרה השחיטה כהלכתה ולא חשובה מפרכסת כחיה.",
+     "en": "Tosafot: one might establish 'after slaughter' for a twitching animal, which is like alive; they answer that a completed proper slaughter does not make the twitching animal like a live one."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Negative Commandments 344:1",
+     "quote": "ומקשה ולכתוב רחמנא לא ימכר",
+     "he": "סמ״ג מביא את סוגיית רב אשי: ״ולכתוב רחמנא לא ימכר״ — ותשובתה שלא היה ידוע שאינו נפדה.",
+     "en": "The Semag cites Rav Ashi's passage: 'let the Merciful One write lo yimakher' — answered that then we would not know that it also cannot be redeemed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 6:5:2",
+     "quote": "שהמוכר מעשר לא עשה כלום ולא קנה לוקח",
+     "he": "מסיק מהסוגיה שמי שמכר מעשר לא עשה כלום ולא קנה הלוקח, כמו שבפדיון — דיעבד אינו מועיל.",
+     "en": "He concludes from the passage that whoever sold maaser did nothing and the buyer did not acquire, as with redemption — after the fact it does not work."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 361:1:1",
+     "quote": "המוכר מעשר עובר בל\"ת ואינו תלוי אם המכירה קיים",
+     "he": "המוכר מעשר עובר בלא תעשה ואינו תלוי אם המכירה קיימת — זו גזירת הכתוב.",
+     "en": "One who sells maaser transgresses a negative commandment, regardless of whether the sale stands — it is the Torah's decree."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Negative Commandments 230:3",
+     "quote": "לא ימכר הוא",
+     "he": "מסביר שבמעשר בהמה מסקנת הסוגיה בבכורות היא ״לא ימכר הוא״, והתורה הוציאה זאת בלשון גאולה כדי ללמד שגם פדיון בכלל.",
+     "en": "He explains that for maaser behemah the Gemara in Bekhorot concludes 'lo yimakher hu', and Scripture expressed it as 'geulah' to teach that redemption is included."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    11
+   ],
+   "he": {
+    "title": "מנין ישראל או גוי על בכור בעל מום",
+    "gemara": "במשנה: בית שמאי אומרים — לא ימנה ישראל עם הכהן על הבכור; בית הלל מתירים, ואפילו גוי. הגמרא: המשנה היא כרבי עקיבא, שכן בברייתא בית שמאי מתירים רק חבורה של כהנים, בית הלל אפילו זרים, ורבי עקיבא מתיר אפילו גוי. טעם בית שמאי: ״ובשרם יהיה לך״ — כמו בחזה ושוק כהנים כן וישראל לא.",
+    "halakha": "הרמב״ם והשולחן ערוך: בכור בעל מום מותר לאכול בכל מקום ולהאכיל למי שירצה, אפילו לנכרי."
+   },
+   "en": {
+    "title": "Counting an Israelite or non-Jew on a blemished firstborn",
+    "gemara": "In the Mishnah: Beit Shammai say an Israelite may not be counted with the kohen for a firstborn; Beit Hillel permit it, even a non-Jew. The Gemara: the Mishnah follows Rabbi Akiva, for in the baraita Beit Shammai allow only a group wholly of kohanim, Beit Hillel even strangers, and Rabbi Akiva allows even a non-Jew. Beit Shammai's reason: 'their flesh shall be yours' — as with the breast and thigh, kohanim yes, Israelites no.",
+    "halakha": "Rambam and Shulchan Arukh: a blemished firstborn may be eaten anywhere and fed to whomever one wishes, even to a non-Jew."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 32b:5",
+     "quote": "על הבכור בעל מום לאוכלו עמו",
+     "he": "״לא ימנה ישראל עם הכהן״ — על הבכור בעל מום, לאוכלו עמו.",
+     "en": "'An Israelite may not be counted with the kohen' — on a blemished firstborn, to eat it with him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:9:1",
+     "quote": "אפי' אם זימן כהן אורח ישראל על הבכור בעל מום לא יאכל עמו",
+     "he": "לדעת בית שמאי, אפילו אם הכהן הזמין אורח ישראל על הבכור בעל מום, לא יאכל עמו.",
+     "en": "On Beit Shammai's view, even if the kohen invited an Israelite guest to a blemished firstborn, he may not eat with him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:10:2",
+     "quote": "מני ר' עקיבא היא",
+     "he": "רש״י: המשנה היא כרבי עקיבא, שאומר שבית הלל מתירים אפילו עובד כוכבים.",
+     "en": "Rashi: the Mishnah is Rabbi Akiva, who says Beit Hillel permit even a non-Jew."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 32b:11:1",
+     "quote": "מה בחזה ושוק כהנים אין ישראל לא",
+     "he": "טעם בית שמאי: כמו בחזה ושוק כהנים אין ישראל לא.",
+     "en": "Beit Shammai's reason: as with the breast and thigh, kohanim yes, Israelites no."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 32b:10:1",
+     "quote": "הלכתא כב\"ה דמתניתין",
+     "he": "תוספות בשם ר״י: ההלכה כבית הלל שבמשנה שהתירו אפילו לעובד כוכבים, ולא כבית הלל שבברייתא.",
+     "en": "Tosafot citing the Ri: the halakha follows Beit Hillel of the Mishnah, who permitted even a non-Jew, not Beit Hillel of the baraita."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:2:2",
+     "quote": "נראה דהלכה כב\"ה דמתני' דשריא אפילו עובדי כוכבים",
+     "he": "הרא״ש: ההלכה כבית הלל שבמשנה שהתירו אפילו עובדי כוכבים, כי היא סתם במשנה ומחלוקת בברייתא.",
+     "en": "The Rosh: the halakha follows Beit Hillel of the Mishnah who permitted even non-Jews, since the Mishnah is anonymous and the baraita a dispute."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 504:1",
+     "quote": "מה התם כהנים אין ישראל לא אף הכא כהנים אין ישראל לא",
+     "he": "אור זרוע מביא את טעם בית שמאי: כמו בחזה ושוק כהנים אין ישראל לא, כך בבכור.",
+     "en": "Ohr Zarua cites Beit Shammai's reason: as with the breast and thigh, kohanim yes, Israelites no, so with a firstborn."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Chullin 69b:1",
+     "quote": "כל היכא דשרי לישראל כגון שנפל בו מום שרי אפילו לזמן עליו את הנכרי",
+     "he": "הרשב״א בשם בעלי התוספות: כל היכא שמותר לישראל, כגון שנפל בו מום, מותר אפילו לזמן עליו נכרי, אך לכלבים אסור.",
+     "en": "The Rashba in the name of the Tosafists: wherever it is permitted to an Israelite, such as when a blemish occurred, it is permitted even to invite a non-Jew, but to dogs it is forbidden."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Chullin 25a:9",
+     "quote": "דכל שהוא נאכל לכהן במומו שרי לזמן עליו את העובד כוכבים",
+     "he": "הר״ן: בכל מקום שנאכל לכהן במומו מותר לזמן עליו עובד כוכבים, שהוקש לצבי ואיל; אך טרפה, שאסור לישראל, אסור.",
+     "en": "The Ran: whatever is eaten by the kohen with its blemish may be shared with a non-Jew, being compared to a gazelle and a deer; but a treifa, forbidden to an Israelite, is forbidden."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:3",
+     "quote": "או מאכילו למי שירצה",
+     "he": "הרמב״ם: בכור בעל מום הרי הוא לכהן — אוכלו בכל מקום, מוכרו או מאכילו למי שירצה, אפילו לנכרי.",
+     "en": "Rambam: a blemished firstborn belongs to the kohen — he may eat it anywhere, sell it or feed it to whomever he wishes, even a non-Jew."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 306:5",
+     "quote": "ומאכילו אפילו לעובד כוכבים",
+     "he": "השולחן ערוך: הבכור בזמן הזה ישהנו עד שיפול בו מום ושוחטו על פי מומחה, אוכלו בכל מקום ומאכילו אפילו לעובד כוכבים.",
+     "en": "Shulchan Arukh: the firstborn nowadays is kept until a blemish occurs, slaughtered on an expert's ruling, eaten anywhere and fed even to a non-Jew."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 1:3:4",
+     "quote": "פלוגתא דתנאי ופסק כב\"ה",
+     "he": "הכסף משנה: דברי הרמב״ם ״אפילו לנכרי״ הם במשנה בבכורות, מחלוקת תנאים, והרמב״ם פסק כבית הלל.",
+     "en": "Kessef Mishneh: the Rambam's 'even to a non-Jew' is the Mishnah in Bekhorot, a dispute of Tannaim, and Rambam ruled like Beit Hillel."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:18:4",
+     "quote": "בכור נמנים עליו אפילו זרים",
+     "he": "תורה תמימה: בית הלל — בכור שהומם ושחטו בעליו הכהן, מותר לזמן ישראל לאכול ממנו.",
+     "en": "Torah Temimah: Beit Hillel — a firstborn that was blemished and slaughtered by its owner the kohen, he may invite an Israelite to eat from it."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 1:19:1",
+     "quote": "ב\"ש ילפי מקרא דובשרם יהיה לך כחזה התנופה דלכהנים אין לישראל לא",
+     "he": "אור שמח: בית שמאי למדו מ״ובשרם יהיה לך כחזה התנופה״ — לכהנים כן ולישראל לא.",
+     "en": "Ohr Sameach: Beit Shammai learned from 'their flesh shall be yours like the breast of waving' — for kohanim yes, for Israelites no."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Mishnah Chullin 10:2:1",
+     "quote": "לב\"ה בכורות (ל\"ב ב') במשנה נאכל אפילו לעובד כוכבים",
+     "he": "רש״ש: לבית הלל, במשנה בבכורות נאכל הבכור אפילו לעובד כוכבים.",
+     "en": "Rashash: according to Beit Hillel, in the Mishnah in Bekhorot the firstborn may be eaten even by a non-Jew."
+    }
+   ]
+  }
+ ]
+}
