@@ -464,7 +464,10 @@ async function prefetchUpcoming() {
   }
 }
 
+let shownRef = null;
 async function amudView(ref) {
+  if (ref !== shownRef) resetFolds();   // a new amud; switching views keeps what was folded
+  shownRef = ref;
   setView(loadingBox());
   let amud;
   try { amud = await loadAmud(ref); }
@@ -579,7 +582,7 @@ function readerMain(ref, text, segs) {
 }
 
 // The known Aramaic words and phrases of the amud, in the order they first come, each with its
-// meaning and a button to the line it is on; one dropdown that the device remembers open or shut.
+// meaning and a button to the line it is on; one dropdown, closed when the amud opens.
 function wordsPanel(segs) {
   if (S.vocab === "off") return null;
   const seen = new Map();
@@ -587,14 +590,12 @@ function wordsPanel(segs) {
     if (!seen.has(v.w) && (S.vocab === "all" || !v.basic)) seen.set(v.w, [v, seg.i + 1]);
   if (!seen.size) return null;
   const L = S.lang === "he" ? "he" : "en";
-  const opened = store.get("sumOpen", {});
-  const g = el("details", { class: "sum-group", open: opened.words === true },
+  const g = el("details", { class: "sum-group" },
     el("summary", {}, `${t("words")} (${seen.size})`),
     el("ul", { class: "words" }, [...seen.values()].map(([v, n]) => el("li", {},
       el("b", { lang: "he" }, S.nikud ? v.v : v.v.replace(NIKUD, "")), " — ",
       el("span", { lang: L }, v[L]), " ",
       el("button", { type: "button", class: "chip-btn", onclick: () => jumpToLine(n) }, String(n))))));
-  g.addEventListener("toggle", () => { const o = store.get("sumOpen", {}); o.words = g.open; store.set("sumOpen", o); });
   return el("section", { class: "card words-card" }, g);
 }
 
@@ -780,13 +781,9 @@ function summaryPanel(ref) {
       tp.rishonim.length ? [el("h4", {}, t("rishonim")), el("ul", {}, tp.rishonim.map(opinion))] : null,
       tp.acharonim.length ? [el("h4", {}, t("acharonim")), el("ul", {}, tp.acharonim.map(opinion))] : null,
       tp[L].halakha ? el("p", { class: "sum-halakha" }, el("b", {}, t("sumHalakha")), " ", tp[L].halakha) : null);
-    // the מושגים and the סוגיות each fold away as a whole; the device remembers which are open
-    const opened = store.get("sumOpen", { musagim: true, sugyot: true });
-    const group = (key, title, kids) => {
-      const g = el("details", { class: "sum-group", open: opened[key] !== false }, el("summary", {}, title), kids);
-      g.addEventListener("toggle", () => { const o = store.get("sumOpen", {}); o[key] = g.open; store.set("sumOpen", o); });
-      return g;
-    };
+    // the מושגים and the סוגיות each fold away as a whole, and start closed: on opening a daf
+    // only the summary itself is showing
+    const group = (key, title, kids) => el("details", { class: "sum-group" }, el("summary", {}, title), kids);
     box.replaceChildren(
       // the card is called סיכום on every daf, whatever title the file carries
       el("h2", {}, L === "he" ? `סיכום — ${(masechet(p.m) || { he: p.m }).he} ${gem(p.daf)}` : `Summary — ${p.m} ${p.daf}`),
@@ -889,9 +886,13 @@ for (const ev of ["fullscreenchange", "webkitfullscreenchange"])
 // ---------- the side panels fold into a thin strip (as on the Shnayim LaYom site) ----------
 
 // The summary/words column and the structure map each have a button at their top that folds
-// them away, so on a tablet the daf can take the whole width; the device remembers each one.
+// them away, so on a tablet the daf can take the whole width.
 const FOLDS = ["side", "flow"];
-for (const key of FOLDS) document.documentElement.classList.toggle(key + "-folded", store.get(key + "Folded", false));
+// Every amud opens with the summary column showing and the structure map folded (amudView).
+function resetFolds() {
+  document.documentElement.classList.remove("side-folded");
+  document.documentElement.classList.add("flow-folded");
+}
 const isFolded = key => document.documentElement.classList.contains(key + "-folded");
 function paintFold(b) {
   const key = b.dataset.fold, folded = isFolded(key);
@@ -903,7 +904,6 @@ function foldButton(key) {
   const b = el("button", { type: "button", class: "foldbtn", "data-fold": key, onclick: () => {
     const folded = !isFolded(key);
     document.documentElement.classList.toggle(key + "-folded", folded);
-    store.set(key + "Folded", folded);
     document.querySelectorAll(`.foldbtn[data-fold="${key}"]`).forEach(paintFold);
     window.dispatchEvent(new Event("resize"));   // the page view lays itself out again
   } }, el("span", { class: "fold-label" }), el("span", { class: "arrow", "aria-hidden": "true" }, "❯"));
@@ -1084,7 +1084,7 @@ function route() {
   closeSheet();
   chrome();
   const [name, arg] = location.hash.slice(1).split("/");
-  if (name !== "daf" && isFull()) setFull(false);
+  if (name !== "daf") { shownRef = null; if (isFull()) setFull(false); }
   if (name === "daf" && arg) return amudView(fromRoute(decodeURIComponent(arg)));
   if (name === "shas") return shasView(arg && decodeURIComponent(arg).replace(/_/g, " "));
   if (name === "sum" && arg) return sumView(decodeURIComponent(arg).replace(/_/g, " "));
