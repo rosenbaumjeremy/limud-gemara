@@ -87,7 +87,6 @@ const T = {
     q_baraita: "ברייתא מצוטטת", q_baraitaD: "סוגריים סגולים: הגמרא מביאה ברייתא (תנו רבנן, תניא, מיתיבי)",
     settings: "הגדרות", tools: "כלים",
     sExplainOpen: "פתוח", sExplainTap: "בלחיצה", sExplainOff: "מוסתר",
-    sVocab: "מילים בארמית (רשימה בצד)", words: "מילים בארמית", sVocabAll: "כל המילים", sVocabKey: "רק החשובות", sVocabOff: "ללא",
     sStructure: "מבנה הסוגיא (צבעים)", sColorText: "צביעת הטקסט עצמו לפי המבנה", sNikud: "ניקוד", close: "סגור",
     seder: "סדר",
     lastRead: "נקרא לאחרונה",
@@ -96,7 +95,7 @@ const T = {
     musagim: "מושגים", sugyot: "הסוגיות", sumGemara: "הגמרא:", sumHalakha: "להלכה:", sumOther: "שאר הסוגיות בדף",
     sumNote: "סיכום שנכתב מתוך מה שיש בספריא; כל דעה מקושרת למקורה. אם מצאת טעות — לבדוק במקור.",
     fullOn: "מסך מלא", fullOff: "יציאה ממסך מלא",
-    hideSide: "הסתר סיכום ומילים", showSide: "הצג סיכום ומילים", hideFlow: "הסתר מבנה הסוגיא", showFlow: "הצג מבנה הסוגיא",
+    hideSide: "הסתר סיכום", showSide: "הצג סיכום", hideFlow: "הסתר מבנה הסוגיא", showFlow: "הצג מבנה הסוגיא",
     viewLines: "שורה אחר שורה", viewPage: "צורת הדף", printed: "הדף המודפס",
     pageNote: "הגמרא באמצע, רש״י לצד הכריכה ותוספות בצד החיצון, כמו בדפוס וילנא. הסידור מחושב מהטקסט, ולכן השורות אינן זהות לדף המודפס. לחיצה על שורה פותחת את ההסבר שלה.",
     scanFail: "לא הצלחנו לטעון את סריקת הדף.",
@@ -119,7 +118,6 @@ const T = {
     q_baraita: "Quoted baraita", q_baraitaD: "purple brackets: the Gemara quotes a baraita (tanu rabanan, tanya, meitivei)",
     settings: "Settings", tools: "Tools",
     sExplainOpen: "Open", sExplainTap: "On tap", sExplainOff: "Hidden",
-    sVocab: "Aramaic words (list at the side)", words: "Aramaic words", sVocabAll: "All", sVocabKey: "Key words", sVocabOff: "None",
     sStructure: "Sugya structure (colors)", sColorText: "Color the text itself by structure", sNikud: "Vowels (nikud)", close: "Close",
     seder: "Seder",
     lastRead: "Last read",
@@ -128,7 +126,7 @@ const T = {
     musagim: "Key terms", sugyot: "The sugyot", sumGemara: "The Gemara:", sumHalakha: "Halakha:", sumOther: "Other sugyot on this daf",
     sumNote: "A summary written from what Sefaria has; every opinion links to its source. If something looks wrong, check the source.",
     fullOn: "Full screen", fullOff: "Exit full screen",
-    hideSide: "Hide summary & words", showSide: "Show summary & words", hideFlow: "Hide sugya structure", showFlow: "Show sugya structure",
+    hideSide: "Hide summary", showSide: "Show summary", hideFlow: "Hide sugya structure", showFlow: "Show sugya structure",
     viewLines: "Line by line", viewPage: "Page view", printed: "Printed page",
     pageNote: "Gemara in the middle, Rashi toward the binding and Tosafot on the outer side, as in the Vilna Shas. The layout is computed from the text, so its lines don't match the printed page. Tap a line for its explanation.",
     scanFail: "Couldn't load the page scan.",
@@ -146,20 +144,23 @@ const KINDS = {
 };
 
 // the starting settings; each tool can be switched on or off in the settings (⚙)
-const DEFAULTS = { v: 2, lang: "he", view: "lines", explain: "tap", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true };
+const DEFAULTS = { v: 3, lang: "he", view: "lines", explain: "tap", rashi: false, tosafot: false, structure: true, colorText: true, nikud: true };
 const SAVED = store.get("settings", {});
 delete SAVED.level;   // the levels are gone; what a student set by hand stays
 delete SAVED.meforshim;   // the daf's summary is always shown when there is one
+delete SAVED.vocab;   // the Aramaic word list is gone
 // settings saved before v2 stored every key, so the old "open" explanations came along with any change:
 // start them closed (tap to open) once; a choice made after that is kept
 if (!SAVED.v) delete SAVED.explain;
-let S = Object.assign({}, DEFAULTS, SAVED);
+// v3: Rashi and Tosafot start closed (off) too, the same way
+if (!(SAVED.v >= 3)) { delete SAVED.rashi; delete SAVED.tosafot; }
+let S = Object.assign({}, DEFAULTS, SAVED, { v: DEFAULTS.v });   // saved from now on as this version
 const t = (k, ...a) => { const v = T[S.lang][k]; return typeof v === "function" ? v(...a) : v; };
 const saveSettings = () => store.set("settings", S);
 
 // ---------- data ----------
 
-let MASECHTOT = [], VOCAB = [], VOCAB_BY = new Map();
+let MASECHTOT = [];
 const cache = new Map();
 
 async function getJSON(url) {
@@ -191,28 +192,6 @@ function neighbour(ref, step) {
   if (idx >= first && idx <= last) return `${p.m} ${amudOf(idx)}`;
   const i = MASECHTOT.indexOf(m) + step, o = MASECHTOT[i];
   return o ? `${o.en} ${step > 0 ? o.first : o.last}` : null;
-}
-
-// Every match of a vocab word or phrase in a list of words: [start, length, entry].
-const PREFIXES = ["וד", "וב", "ול", "ומ", "וה", "וכ", "ו", "ד", "ב", "ל", "מ", "ה", "כ"];
-function findVocab(cores) {
-  const hits = [];
-  for (let i = 0; i < cores.length;) {
-    let hit = null;
-    for (let n = 4; n >= 1 && !hit; n--) {
-      if (i + n > cores.length) continue;
-      const rest = cores.slice(i + 1, i + n);
-      let v = VOCAB_BY.get([cores[i], ...rest].join(" "));
-      for (const p of PREFIXES) {
-        if (v) break;
-        if (cores[i].startsWith(p) && cores[i].length - p.length >= (n > 1 ? 2 : 3))
-          v = VOCAB_BY.get([cores[i].slice(p.length), ...rest].join(" "));
-      }
-      if (v) hit = [i, n, v];
-    }
-    if (hit) { hits.push(hit); i += hit[1]; } else i++;
-  }
-  return hits;
 }
 
 // Guess what a line is doing from its opening words and key phrases.
@@ -377,7 +356,6 @@ async function loadAmud(ref) {
     const enHtml = en && en.text[i] || "";
     if (/MISHNA:/i.test(enHtml) || /^מתני/.test(core0)) mode = "mishnah";
     if (/GEMARA:/i.test(enHtml) || /^גמ/.test(core0)) mode = "gemara";
-    const words = core0.split(/[\s־]+/);
     // Sefaria sets "הדרן עלך..." as a line of its own, and the first words of a perek in <big>
     // (מתני׳ and גמ׳ are in <big> too, so skip those)
     const hadran = /^הדרן/.test(core0);
@@ -390,7 +368,6 @@ async function loadAmud(ref) {
       rashi: list(ra0 && ra0.text[i]), tosafot: list(to0 && to0.text[i]),
       hadran, opening,
       kind: hadran ? "plain" : classify(core0, mode), speaker: mode === "gemara" ? speaker(core0) : null,
-      vocab: findVocab(words.map(core)).map(h => h[2]),
     };
   });
   // a line that opens by answering the question the line before left open is an answer
@@ -493,7 +470,7 @@ async function amudView(ref) {
 
   if (S.view === "page") {
     const page = dafView(amud, ref);
-    setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [colorKey(), page.el], amud.segs), navButtons(ref)));
+    setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [colorKey(), page.el]), navButtons(ref)));
     page.draw();
     return;
   }
@@ -519,11 +496,11 @@ async function amudView(ref) {
   const opts = el("div", { class: "line-opts" },
     el("span", { class: "line-opts-label" }, t("explain")), el("div", { class: "seg-switch" }, explainBtns),
     el("div", { class: "seg-switch" }, layerBtns));
-  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, opts, readerMain(ref, [S.structure ? null : colorKey(), body], amud.segs), navButtons(ref)));
+  setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, opts, readerMain(ref, [S.structure ? null : colorKey(), body]), navButtons(ref)));
 }
 
 // צורת הדף: the amud laid out like the Vilna page (daf-layout.js). Every line of the
-// Gemara opens its explanation; the Aramaic words still open their meaning.
+// Gemara opens its explanation.
 function dafView(amud, ref) {
   const page = el("div", { class: "daf-page" });
   const wrap = el("div", { class: "daf-wrap" }, page,
@@ -576,30 +553,10 @@ function jumpToLine(n) {
   setTimeout(() => seg.classList.remove("flash-line"), 1600);
 }
 
-// The text, with a column beside it on a wide screen (above it on a phone): the Aramaic words
-// of the amud, and the daf's summary if it has one.
-function readerMain(ref, text, segs) {
-  const words = wordsPanel(segs);
-  return el("div", { class: "reader-main" + (words ? " has-sum" : "") }, el("div", { class: "reader-text" }, text),
-    el("div", { class: "side" }, foldButton("side"), words, summaryPanel(ref)));
-}
-
-// The known Aramaic words and phrases of the amud, in the order they first come, each with its
-// meaning and a button to the line it is on; one dropdown, closed when the amud opens.
-function wordsPanel(segs) {
-  if (S.vocab === "off") return null;
-  const seen = new Map();
-  for (const seg of segs) for (const v of seg.vocab)
-    if (!seen.has(v.w) && (S.vocab === "all" || !v.basic)) seen.set(v.w, [v, seg.i + 1]);
-  if (!seen.size) return null;
-  const L = S.lang === "he" ? "he" : "en";
-  const g = el("details", { class: "sum-group" },
-    el("summary", {}, `${t("words")} (${seen.size})`),
-    el("ul", { class: "words" }, [...seen.values()].map(([v, n]) => el("li", {},
-      el("b", { lang: "he" }, S.nikud ? v.v : v.v.replace(NIKUD, "")), " — ",
-      el("span", { lang: L }, v[L]), " ",
-      el("button", { type: "button", class: "chip-btn", onclick: () => jumpToLine(n) }, String(n))))));
-  return el("section", { class: "card words-card" }, g);
+// The text, with the daf's summary (if it has one) in a column beside it on a wide screen, above it on a phone.
+function readerMain(ref, text) {
+  return el("div", { class: "reader-main" }, el("div", { class: "reader-text" }, text),
+    el("div", { class: "side" }, foldButton("side"), summaryPanel(ref)));
 }
 
 // ---------- musagim: the key terms of the daf, marked in the Gemara ----------
@@ -970,7 +927,7 @@ function segView(seg) {
   return art;
 }
 
-// The line of Gemara, with or without nikud (the Aramaic words are listed beside the text, wordsPanel).
+// The line of Gemara, with or without nikud.
 const gemaraLine = txt => S.nikud ? txt : txt.replace(NIKUD, "").replace(/־/g, " ");
 
 function closeSheet() { $("#sheet").hidden = true; }
@@ -1058,15 +1015,12 @@ async function sumView(en) {
 
 function settingsView() {
   const d = $("#settings");
-  const radio = (key, opts) => el("div", { class: "seg-switch" }, opts.map(([val, label]) =>
-    el("button", { type: "button", class: S[key] === val ? "on" : "", onclick: () => { S[key] = val; saveSettings(); settingsView(); route(); } }, label)));
   const toggle = (key, label) => el("label", { class: "toggle" },
     el("input", { type: "checkbox", checked: !!S[key], onchange: e => { S[key] = e.target.checked; saveSettings(); route(); } }), label);
   d.replaceChildren(el("div", { class: "drawer-inner" },
     el("div", { class: "drawer-head" }, el("h2", {}, t("settings")),
       el("button", { type: "button", class: "iconbtn", "aria-label": t("close"), onclick: () => { d.hidden = true; } }, "✕")),
     el("h3", {}, t("tools")),
-    el("p", {}, t("sVocab")), radio("vocab", [["all", t("sVocabAll")], ["key", t("sVocabKey")], ["off", t("sVocabOff")]]),
     toggle("structure", t("sStructure")), toggle("colorText", t("sColorText")), toggle("nikud", t("sNikud"))));
 }
 
@@ -1095,8 +1049,7 @@ function route() {
 }
 
 async function start() {
-  [MASECHTOT, VOCAB] = await Promise.all([getJSON("data/masechtot.json"), getJSON("data/vocab.json")]);
-  VOCAB_BY = new Map(VOCAB.map(v => [v.w, v]));
+  MASECHTOT = await getJSON("data/masechtot.json");
   document.querySelectorAll(".langswitch button").forEach(b => b.addEventListener("click", () => {
     S.lang = b.dataset.lang; saveSettings(); route(); if (!$("#settings").hidden) settingsView();
   }));
