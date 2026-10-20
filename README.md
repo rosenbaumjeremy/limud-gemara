@@ -36,8 +36,6 @@ A study companion for the daily daf. It is a static site
 - **Sugya structure.** Each line is colored by what it does (משנה, ציטוט משנה/ברייתא, מימרא, שאלה/קושיא,
   תירוץ/ראיה), guessed from its key words (`classify` in `app.js`), with a side map of the
   sugya's flow. This is a heuristic, and the page says so.
-- **Aramaic vocabulary.** About 170 common Gemara words and phrases (`scripts/vocab.txt`) found on the amud
-  are listed with their meanings in a dropdown beside the text (not marked in the text itself).
 - **Continue.** A margin on the right of the home page holds the daf yomi and the last 10 amudim opened (kept in `localStorage`, on that device only).
 - **Offline.** `sw.js` saves the site, every amud opened, and the next two days' dafim.
 
@@ -45,9 +43,10 @@ A study companion for the daily daf. It is a static site
 
 - `site/app.js`: the whole app (views, Sefaria loading, classifier, summaries and musagim, progress)
 - `site/data/masechtot.json`: Bavli tractates and their first and last amud, built by `scripts/build_masechtot.py`
-- `site/data/vocab.json`: built from `scripts/vocab.txt` by `scripts/build_vocab.py`
+- `site/data/vocab.json`: no longer used by the app (the Aramaic word list was removed on 2026-10-20);
+  built from `scripts/vocab.txt` by `scripts/build_vocab.py`, kept in case it comes back
 - `site/sw.js` + `site/offline.js`: the offline copy (same pattern as the other study sites)
 
-To add words, edit `scripts/vocab.txt` and run `python scripts/build_vocab.py`.
+
 
 Local preview: `python -m http.server 8140 --directory site`
