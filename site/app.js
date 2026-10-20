@@ -146,10 +146,13 @@ const KINDS = {
 };
 
 // the starting settings; each tool can be switched on or off in the settings (⚙)
-const DEFAULTS = { lang: "he", view: "lines", explain: "open", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true };
+const DEFAULTS = { v: 2, lang: "he", view: "lines", explain: "tap", rashi: false, tosafot: false, vocab: "all", structure: true, colorText: true, nikud: true };
 const SAVED = store.get("settings", {});
 delete SAVED.level;   // the levels are gone; what a student set by hand stays
 delete SAVED.meforshim;   // the daf's summary is always shown when there is one
+// settings saved before v2 stored every key, so the old "open" explanations came along with any change:
+// start them closed (tap to open) once; a choice made after that is kept
+if (!SAVED.v) delete SAVED.explain;
 let S = Object.assign({}, DEFAULTS, SAVED);
 const t = (k, ...a) => { const v = T[S.lang][k]; return typeof v === "function" ? v(...a) : v; };
 const saveSettings = () => store.set("settings", S);
