@@ -96,6 +96,7 @@ const T = {
     musagim: "מושגים", sugyot: "הסוגיות", sumGemara: "הגמרא:", sumHalakha: "להלכה:", sumOther: "שאר הסוגיות בדף",
     sumNote: "סיכום שנכתב מתוך מה שיש בספריא; כל דעה מקושרת למקורה. אם מצאת טעות — לבדוק במקור.",
     fullOn: "מסך מלא", fullOff: "יציאה ממסך מלא",
+    hideSide: "הסתר סיכום ומילים", showSide: "הצג סיכום ומילים", hideFlow: "הסתר מבנה הסוגיא", showFlow: "הצג מבנה הסוגיא",
     viewLines: "שורה אחר שורה", viewPage: "צורת הדף", printed: "הדף המודפס",
     pageNote: "הגמרא באמצע, רש״י לצד הכריכה ותוספות בצד החיצון, כמו בדפוס וילנא. הסידור מחושב מהטקסט, ולכן השורות אינן זהות לדף המודפס. לחיצה על שורה פותחת את ההסבר שלה.",
     scanFail: "לא הצלחנו לטעון את סריקת הדף.",
@@ -127,6 +128,7 @@ const T = {
     musagim: "Key terms", sugyot: "The sugyot", sumGemara: "The Gemara:", sumHalakha: "Halakha:", sumOther: "Other sugyot on this daf",
     sumNote: "A summary written from what Sefaria has; every opinion links to its source. If something looks wrong, check the source.",
     fullOn: "Full screen", fullOff: "Exit full screen",
+    hideSide: "Hide summary & words", showSide: "Show summary & words", hideFlow: "Hide sugya structure", showFlow: "Show sugya structure",
     viewLines: "Line by line", viewPage: "Page view", printed: "Printed page",
     pageNote: "Gemara in the middle, Rashi toward the binding and Tosafot on the outer side, as in the Vilna Shas. The layout is computed from the text, so its lines don't match the printed page. Tap a line for its explanation.",
     scanFail: "Couldn't load the page scan.",
@@ -572,7 +574,7 @@ function jumpToLine(n) {
 function readerMain(ref, text, segs) {
   const words = wordsPanel(segs);
   return el("div", { class: "reader-main" + (words ? " has-sum" : "") }, el("div", { class: "reader-text" }, text),
-    el("div", { class: "side" }, words, S.meforshim ? summaryPanel(ref) : null));
+    el("div", { class: "side" }, foldButton("side"), words, S.meforshim ? summaryPanel(ref) : null));
 }
 
 // The known Aramaic words and phrases of the amud, in the order they first come, each with its
@@ -883,6 +885,31 @@ function fullButton() {
 for (const ev of ["fullscreenchange", "webkitfullscreenchange"])
   document.addEventListener(ev, () => { if (!fsElement() && isFull()) setFull(false); });
 
+// ---------- the side panels fold into a thin strip (as on the Shnayim LaYom site) ----------
+
+// The summary/words column and the structure map each have a button at their top that folds
+// them away, so on a tablet the daf can take the whole width; the device remembers each one.
+const FOLDS = ["side", "flow"];
+for (const key of FOLDS) document.documentElement.classList.toggle(key + "-folded", store.get(key + "Folded", false));
+const isFolded = key => document.documentElement.classList.contains(key + "-folded");
+function paintFold(b) {
+  const key = b.dataset.fold, folded = isFolded(key);
+  const label = t((folded ? "show" : "hide") + key[0].toUpperCase() + key.slice(1));
+  b.title = label; b.setAttribute("aria-expanded", String(!folded));
+  b.querySelector(".fold-label").textContent = label;
+}
+function foldButton(key) {
+  const b = el("button", { type: "button", class: "foldbtn", "data-fold": key, onclick: () => {
+    const folded = !isFolded(key);
+    document.documentElement.classList.toggle(key + "-folded", folded);
+    store.set(key + "Folded", folded);
+    document.querySelectorAll(`.foldbtn[data-fold="${key}"]`).forEach(paintFold);
+    window.dispatchEvent(new Event("resize"));   // the page view lays itself out again
+  } }, el("span", { class: "fold-label" }), el("span", { class: "arrow", "aria-hidden": "true" }, "❯"));
+  paintFold(b);
+  return b;
+}
+
 function navButtons(ref) {
   const prev = neighbour(ref, -1), next = neighbour(ref, 1);
   return el("nav", { class: "amud-nav" },
@@ -892,6 +919,7 @@ function navButtons(ref) {
 
 function flowMap(amud) {
   return el("nav", { class: "flow", "aria-label": t("flow") },
+    foldButton("flow"),
     el("h3", {}, t("flow")),
     el("ol", {}, amud.segs.map(seg => el("li", {},
       el("a", { href: "#", class: "k-" + seg.kind, onclick: e => { e.preventDefault(); document.getElementById("s" + seg.i).scrollIntoView({ behavior: "smooth", block: "center" }); } },

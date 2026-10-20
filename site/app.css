@@ -319,14 +319,17 @@ details > summary { cursor: pointer; font-weight: 600; }
 .line-opts .seg-switch { margin: 0; }
 .line-opts-label { font-size: 14px; color: var(--muted); }
 
-/* the Gemara's own words colored by what each line is doing (setting: colorText).
-   Mixed toward the ink color so every color stays readable as body text, in both themes. */
-.colortext .seg .gemara, .colortext .daf-page .dseg { color: color-mix(in srgb, var(--k) 78%, var(--ink)); }
-.colortext .seg.k-plain .gemara, .colortext .daf-page .dseg.k-plain { color: var(--ink); }
-.colortext .seg .gemara .part, .colortext .daf-page .dseg .part { color: color-mix(in srgb, var(--k) 78%, var(--ink)); }
-.colortext .seg .gemara .part.k-plain, .colortext .daf-page .dseg .part.k-plain { color: var(--ink); }
-.color-key { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; margin: 0 0 12px; }
-.color-key > span { display: inline-flex; align-items: center; gap: 5px; color: color-mix(in srgb, var(--k) 78%, var(--ink)); font-weight: 600; }
+/* the Gemara's own words marked by what each line is doing (setting: colorText): the background
+   gets a duller shade of the line's color and the letters stay the ink color, so they read well. */
+.colortext .seg .gemara .part, .colortext .daf-page .dseg .part {
+  background: color-mix(in srgb, var(--k) 30%, color-mix(in srgb, var(--card) 88%, var(--muted)));
+  border-radius: 3px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.colortext .seg .gemara .part.k-plain, .colortext .daf-page .dseg .part.k-plain { background: none; }
+.color-key { display: flex; flex-wrap: wrap; gap: 6px 10px; font-size: 13px; margin: 0 0 12px; }
+.color-key > span { display: inline-flex; align-items: center; gap: 5px; font-weight: 600; }
+.color-key > span[class*="k-"] { padding: 1px 9px; border-radius: 4px; color: var(--ink);
+  background: color-mix(in srgb, var(--k) 30%, color-mix(in srgb, var(--card) 88%, var(--muted))); }
+.color-key > span[class*="k-"] .dot { display: none; }
 
 /* buttons that jump to a line of the Gemara */
 .chip-btn { border: 1px solid var(--line); background: var(--bg); color: var(--accent); border-radius: 99px; padding: 1px 10px; font: inherit; font-size: 13px; cursor: pointer; }
@@ -402,8 +405,47 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 .seg.hadran { text-align: center; background: var(--gold-soft); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
 .seg.hadran .gemara { font-weight: 700; font-size: 1.15em; }
 .seg.hadran .seg-kind { display: none; }
-.seg.hadran .gemara, .seg.hadran .gemara .part, .colortext .seg.hadran .gemara .part { color: color-mix(in srgb, var(--gold) 70%, var(--ink)); }
+.seg.hadran .gemara, .seg.hadran .gemara .part, .colortext .seg.hadran .gemara .part { color: color-mix(in srgb, var(--gold) 70%, var(--ink)); background: none; }
 .seg.perek-start { border-top: 3px double color-mix(in srgb, var(--gold) 60%, var(--line)); }
 .daf-page .dseg.hadran { display: block; text-align: center; font-weight: 700; margin: .2em 0; }
-.daf-page .dseg.hadran, .daf-page .dseg.hadran .part, .colortext .daf-page .dseg.hadran .part { color: color-mix(in srgb, var(--gold) 70%, var(--ink)); }
+.daf-page .dseg.hadran, .daf-page .dseg.hadran .part, .colortext .daf-page .dseg.hadran .part { color: color-mix(in srgb, var(--gold) 70%, var(--ink)); background: none; }
 .perek-open { font-weight: 800; font-size: 1.2em; }
+
+/* ---------- the side panels fold into a thin strip (foldButton in app.js), as on the Shnayim LaYom site ---------- */
+.foldbtn {
+  display: flex; align-items: center; gap: 8px; width: 100%; margin: 0 0 10px;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg);
+  color: var(--accent); font: inherit; font-size: 13px; padding: 6px 10px; cursor: pointer;
+}
+.foldbtn:hover { border-color: var(--accent); }
+/* open: the arrow points ‹ (left), folded: › (right) - in both languages */
+.foldbtn .arrow { margin-inline-start: auto; font-size: 12px; line-height: 1; transform: rotate(180deg); transition: transform .2s; }
+.side-folded .side > .foldbtn .arrow, .flow-folded .flow > .foldbtn .arrow { transform: none; }
+.side > .foldbtn { background: var(--card); }
+/* nothing to show in the column (no words, no summary): no button either */
+.reader-main > .side:not(:has(> .card:not([hidden]))) { display: none; }
+/* folded: only the button is left */
+.side-folded .side > :not(.foldbtn), .flow-folded .flow > :not(.foldbtn) { display: none !important; }
+.side-folded .side > .foldbtn, .flow-folded .flow > .foldbtn { margin: 0; }
+.flow-folded .flow { padding: 0; border: 0; background: none; overflow: visible; }
+/* a column beside the text folds to a 46px strip with its label running down it. The summary
+   column is beside the text from 760px; the structure map from 801px, or from 1280px when the
+   summary column is there too. */
+@media (min-width: 760px) {
+  .side-folded .reader-main.has-sum { grid-template-columns: minmax(0, 1fr) 46px; }
+  html[dir="ltr"].side-folded .reader-main.has-sum { grid-template-columns: 46px minmax(0, 1fr); }
+  .side-folded .reader-main.has-sum > .side > .foldbtn { flex-direction: column; justify-content: flex-start; gap: 6px; padding: 10px 0; }
+  .side-folded .reader-main.has-sum > .side > .foldbtn .fold-label { writing-mode: vertical-rl; }
+}
+@media (min-width: 801px) {
+  .flow-folded .reader-main:not(.has-sum) .reader-body:not(.no-flow) { grid-template-columns: 46px minmax(0, 1fr); }
+  .flow-folded .reader-main:not(.has-sum) .flow > .foldbtn { flex-direction: column; justify-content: flex-start; gap: 6px; padding: 10px 0; }
+  .flow-folded .reader-main:not(.has-sum) .flow > .foldbtn .fold-label { writing-mode: vertical-rl; }
+}
+@media (min-width: 1280px) {
+  .flow-folded .reader-body:not(.no-flow) { grid-template-columns: 46px minmax(0, 1fr); }
+  .flow-folded .flow > .foldbtn { flex-direction: column; justify-content: flex-start; gap: 6px; padding: 10px 0; }
+  .flow-folded .flow > .foldbtn .fold-label { writing-mode: vertical-rl; }
+}
+/* in a strip the arrow sits under the label */
+.side-folded .side > .foldbtn .arrow, .flow-folded .flow > .foldbtn .arrow { margin-inline-start: 0; }
