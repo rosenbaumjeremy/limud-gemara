@@ -465,7 +465,14 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 .vl-big { font-size: var(--fb); font-weight: 700; }
 .vl-t .dh { font-family: "VilnaSquare", var(--serif); font-weight: 700; }
 .vl-mark { display: inline-block; width: 0; height: 0; }
-.vl-page .vw { border-radius: 4px; }
+/* the words fill their line: each takes an equal share of the spare width (the two at the ends
+   half a share, their outer side flush), so the gaps come out as even as justified text and a
+   question's or answer's color runs on through them */
+.vl-line > * { flex: 1 1 auto; text-align: center; }
+.vl-line > :first-child { flex-grow: .5; text-align: start; }
+.vl-line > :last-child { flex-grow: .5; text-align: end; }
+.vl-line > :only-child { flex-grow: 1; text-align: center; }
+.vl-measure .vl-line > * { flex: none; }
 .vl-page .dseg, .vl-page .cm { cursor: pointer; }
 .colortext .vl-page .vw.dseg { background: color-mix(in srgb, var(--k) 16%, color-mix(in srgb, var(--card) 95%, var(--muted))); }
 .colortext .vl-page .vw.dseg.k-plain { background: none; }

@@ -625,6 +625,21 @@ function vilnaView(amud, ref, data) {
   const light = (keys, on) => keys.forEach(k => (groups.get(k) || []).forEach(w => w.classList.toggle("lit", on)));
   const line = (cls, x, w, y, kids) => el("div", { class: "vl-line " + cls, style: `left:${x}px;width:${w}px;--y:${y}px` }, kids);
 
+  // A line of the Gemara often asks and then answers; each word takes the color of its piece
+  // (parts, as in the line view), found by where it falls in its line's text.
+  const total = new Map(), seen = new Map(), cuts = new Map();
+  for (const l of data.lines) if (l.k === "g") for (const id of l.ids) if (id != null) total.set(id, (total.get(id) || 0) + 1);
+  const kindOf = (seg) => {
+    const j = seen.get(seg.i) || 0; seen.set(seg.i, j + 1);
+    if (!cuts.has(seg.i)) {
+      let at = 0;
+      const ps = parts(seg.txt, seg.kind, seg.prev).map(([txt, k]) => [at += txt.replace(NIKUD, "").length, k]);
+      cuts.set(seg.i, ps.map(([end, k]) => [end / at, k]));
+    }
+    const where = (j + 0.5) / total.get(seg.i);
+    return (cuts.get(seg.i).find(([end]) => where <= end) || cuts.get(seg.i).at(-1))[1] || seg.kind;
+  };
+
   for (const h of data.head) page.append(line("vl-h", h.x, h.w, h.y, [h.t].flat().map(w => el("span", {}, w))));
   for (const l of data.lines) {
     const words = l.words.map((w, j) => {
@@ -632,7 +647,7 @@ function vilnaView(amud, ref, data) {
       if (l.k === "g") {
         const seg = id == null ? null : amud.segs[id];
         if (!seg) return el("span", { class: "vw" }, w);        // the catchword
-        const span = el("span", { class: "vw dseg k-" + seg.kind, onclick: () => lineSheet(seg) }, w);
+        const span = el("span", { class: "vw dseg k-" + kindOf(seg), onclick: () => lineSheet(seg) }, w);
         add("g" + id, span);
         span.addEventListener("mouseenter", () => light(["g" + id], true));
         span.addEventListener("mouseleave", () => light(["g" + id], false));
@@ -665,6 +680,7 @@ function vilnaView(amud, ref, data) {
       base[cls] = probe.lastChild.offsetTop;
       probe.remove();
     }
+    page.classList.add("vl-measure");     // the words at their own width, not grown to fill the line
     for (const div of page.querySelectorAll(".vl-line")) {
       const cls = ["vl-big", "vl-h", "vl-g"].find(c => div.classList.contains(c)) || "vl-r";
       const b = cls === "vl-big" ? base[cls] * parseFloat(div.style.getPropertyValue("--fb")) / data.font.g : base[cls];
@@ -677,8 +693,8 @@ function vilnaView(amud, ref, data) {
         div.style.left = `${parseFloat(div.style.left) - (natural - width)}px`;
         div.style.transform = `scaleX(${width / natural})`;
       }
-      if (kids.length === 1) div.style.justifyContent = "center";
     }
+    page.classList.remove("vl-measure");
   }
   function scale() {
     if (!box.isConnected) return window.removeEventListener("resize", scale);
