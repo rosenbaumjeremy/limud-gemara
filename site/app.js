@@ -382,8 +382,10 @@ async function loadAmud(ref) {
   const segs = he.text.map((h, i) => {
     const txt = plain(h), core0 = txt.replace(NIKUD, "");
     const enHtml = en && en.text[i] || "";
-    if (/MISHNA:/i.test(enHtml) || /^מתני/.test(core0)) mode = "mishnah";
-    if (/GEMARA:/i.test(enHtml) || /^גמ/.test(core0)) mode = "gemara";
+    // the daf's own Mishnah opens with the heading מתני׳ (and the Gemara with גמ׳), abbreviated;
+    // "מתני ליה רבי אלעזר לבריה" (he taught it to his son) is the Gemara going on
+    if (/MISHNA:/i.test(enHtml) || /^מתני[׳']/.test(core0)) mode = "mishnah";
+    if (/GEMARA:/i.test(enHtml) || /^גמ[׳']/.test(core0)) mode = "gemara";
     const words = core0.split(/[\s־]+/);
     // Sefaria sets "הדרן עלך..." as a line of its own, and the first words of a perek in <big>
     // (מתני׳ and גמ׳ are in <big> too, so skip those)
