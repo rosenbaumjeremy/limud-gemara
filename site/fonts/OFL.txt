@@ -1,5 +1,5 @@
-Frank Ruhl Libre (FrankRuhlLibre.woff2) and Noto Rashi Hebrew (NotoRashiHebrew.woff2) are both under the SIL Open Font License 1.1.
-Both files are Hebrew subsets made with fontTools. Noto Rashi Hebrew: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew).
+Frank Ruhl Libre (FrankRuhlLibre.woff2) is under the SIL Open Font License 1.1; this file is a Hebrew subset made with fontTools.
+(scripts/fonts also holds Noto Rashi Hebrew, Copyright 2022 The Noto Project Authors, same license, used only to measure word widths.)
 
 Copyright 2015 The Frank Ruhl Libre Project Authors (https://github.com/fontef/frankruhllibre)
 

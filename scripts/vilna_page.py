@@ -534,7 +534,7 @@ def amud_page(masechet, daf, amud, check=False):
 
     # sizes: each kind's letters as high as the print's
     core = lambda k: float(np.median([o["l"]["c1"] - o["l"]["c0"] for o in out_lines if o["k"] == k and not o.get("big")] or [30]))
-    font = {"g": round(core("g") / body_ratio(FONT["g"]), 1), "c": round(np.median([core("r"), core("t")]) / body_ratio(FONT["c"]), 1)}
+    font = {"g": round(core("g") / body_ratio(FONT["g"]), 1), "c": round(np.median([core("r"), core("t")]) / body_ratio(FONT["g"]), 1)}    # Rashi and Tosafot are shown in square letters too
     if head_out:
         hh = float(np.median([h["c1"] - h["c0"] for h in head]))
         font["h"] = round(min(max(hh / body_ratio(FONT["g"]), 1.1 * font["g"]), 1.3 * font["g"]), 1)

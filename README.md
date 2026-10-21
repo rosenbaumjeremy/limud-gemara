@@ -12,8 +12,8 @@ A study companion for the daily daf. It is a static site
 - **צורת הדף (page view).** The reader's second view. For an amud that has
   `site/data/vilna/<Masechet>-<daf><amud>.json`, it is the Vilna page exactly as printed: every line
   of the Gemara, Rashi and Tosafot in its place on the page, with the words of the printed line, the
-  running head, the catchword and Tosafot's big opening words (fonts: Frank Ruhl Libre and Noto
-  Rashi Hebrew, `site/fonts`, OFL). `scripts/vilna_page.py <Masechet> <daf>` makes the file: it
+  running head, the catchword and Tosafot's big opening words, all in square letters (Frank Ruhl
+  Libre, `site/fonts`, OFL; the user chose square letters over Rashi script for the commentary). `scripts/vilna_page.py <Masechet> <daf>` makes the file: it
   straightens Sefaria's scan of the Romm Vilna page, finds each printed line (gutters, letter
   thickness and height tell Gemara from commentary), and splits Sefaria's text (Wikisource for the
   Gemara, whose abbreviations match the print) over those lines by word count, ink width and the

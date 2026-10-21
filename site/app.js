@@ -14,6 +14,8 @@ function el(tag, props, ...kids) {
     if (v == null || v === false) continue;
     if (k === "class") e.className = v;
     else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+    // the CSP (style-src 'self') blocks a style attribute, but not styles set through the CSSOM
+    else if (k === "style") e.style.cssText = v;
     else e.setAttribute(k, v === true ? "" : v);
   }
   for (const k of kids.flat(Infinity)) if (k != null && k !== false) e.append(k instanceof Node ? k : String(k));
@@ -617,11 +619,12 @@ function vilnaView(amud, ref, data) {
   // Each line's baseline goes where the print's is; a line whose words come out wider than the
   // printed line (our font, or Sefaria's spelling) is narrowed to fit.
   async function fit() {
-    try { await Promise.all(["500 40px VilnaSquare", "40px VilnaRashi", "700 40px VilnaSquare"].map(f => document.fonts.load(f, "א"))); }
+    try { await Promise.all(["400 40px VilnaSquare", "500 40px VilnaSquare", "700 40px VilnaSquare"].map(f => document.fonts.load(f, "א"))); }
     catch (err) { /* draw with the fallback fonts */ }
     const base = {};
     for (const cls of ["vl-g", "vl-r", "vl-h", "vl-big"]) {
-      const probe = el("div", { class: "vl-line " + cls, style: "left:0;top:0;--fb:var(--fg)" }, el("span", {}, "מ"), el("i", { class: "vl-mark" }));
+      // a plain block, not the lines' flex row: there the mark would sit at the top, not on the baseline
+      const probe = el("div", { class: "vl-line " + cls, style: "left:0;top:0;display:block;--fb:var(--fg)" }, el("span", {}, "מ"), el("i", { class: "vl-mark" }));
       page.append(probe);
       base[cls] = probe.lastChild.offsetTop;
       probe.remove();
