@@ -414,9 +414,31 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
   color: var(--accent); font: inherit; font-size: 13px; padding: 6px 10px; cursor: pointer;
 }
 .foldbtn:hover { border-color: var(--accent); }
-/* open: the arrow points ‹ (left), folded: › (right) - in both languages */
-.foldbtn .arrow { margin-inline-start: auto; font-size: 12px; line-height: 1; transform: rotate(180deg); transition: transform .2s; }
-.side-folded .side > .foldbtn .arrow, .flow-folded .flow > .foldbtn .arrow { transform: none; }
+/* The arrow (❯, pointing right) points the way the panel goes: open, toward the edge it
+   folds into; folded, back the way it opens. Over the text (a phone, full screen): ▲ open, ▼ folded.
+   Beside the text: the summary is on the left in both languages (‹ open, › folded); the structure
+   map is on the right in Hebrew (› open, ‹ folded) and on the left in English (‹ open, › folded). */
+/* ❯ is a mirrored character: in Hebrew text the browser draws it as ❮. It is set left to right
+   so it always starts out pointing right, and only the rotation turns it. */
+.foldbtn .arrow { margin-inline-start: auto; font-size: 12px; line-height: 1; transform: rotate(-90deg); transition: transform .2s;
+  display: inline-block; direction: ltr; unicode-bidi: isolate; }
+.side-folded .side > .foldbtn .arrow, .flow-folded .flow > .foldbtn .arrow { transform: rotate(90deg); }
+@media (min-width: 760px) {
+  html:not(.focus) .reader-main.has-sum > .side > .foldbtn .arrow { transform: rotate(180deg); }
+  html:not(.focus).side-folded .reader-main.has-sum > .side > .foldbtn .arrow { transform: none; }
+}
+@media (min-width: 801px) {
+  html[dir="rtl"]:not(.focus) .reader-main:not(.has-sum) .flow > .foldbtn .arrow { transform: none; }
+  html[dir="rtl"]:not(.focus).flow-folded .reader-main:not(.has-sum) .flow > .foldbtn .arrow { transform: rotate(180deg); }
+  html[dir="ltr"]:not(.focus) .reader-main:not(.has-sum) .flow > .foldbtn .arrow { transform: rotate(180deg); }
+  html[dir="ltr"]:not(.focus).flow-folded .reader-main:not(.has-sum) .flow > .foldbtn .arrow { transform: none; }
+}
+@media (min-width: 1280px) {
+  html[dir="rtl"]:not(.focus) .flow > .foldbtn .arrow { transform: none; }
+  html[dir="rtl"]:not(.focus).flow-folded .flow > .foldbtn .arrow { transform: rotate(180deg); }
+  html[dir="ltr"]:not(.focus) .flow > .foldbtn .arrow { transform: rotate(180deg); }
+  html[dir="ltr"]:not(.focus).flow-folded .flow > .foldbtn .arrow { transform: none; }
+}
 .side > .foldbtn { background: var(--card); }
 /* nothing to show in the column (no words, no summary): no button either */
 .reader-main > .side:not(:has(> .card:not([hidden]))) { display: none; }
