@@ -52,6 +52,26 @@ def straighten(img):
     return lean(img, best(np.arange(-0.03, 0.0301, 0.001), lean, 0))
 
 
+def ink_of(img):
+    """What is printed: darker than the paper around it. A scan's paper is not even (it can
+    darken toward an edge), so the paper's brightness is measured locally, and the dark edge of
+    the scan itself is left out."""
+    a = np.asarray(img).astype(np.float32)
+    small = a[::8, ::8]
+    # the paper: the bright side of each neighbourhood (text is dark and thin, the paper is most of it)
+    paper = ndimage.percentile_filter(small, 80, size=31)
+    paper = np.kron(paper, np.ones((8, 8), np.float32))[:a.shape[0], :a.shape[1]]
+    ink = a < np.minimum(0.72 * paper, paper - 45)
+    ink = ndimage.binary_opening(ink, np.ones((3, 3)))
+    # the scan's dark edge: huge solid blobs that no letter makes
+    lab, n = ndimage.label(ink)
+    for i, sl in enumerate(ndimage.find_objects(lab)):
+        h, w = sl[0].stop - sl[0].start, sl[1].stop - sl[1].start
+        if h > 0.25 * a.shape[0] or w > 0.5 * a.shape[1]:
+            ink[sl][lab[sl] == i + 1] = False
+    return ink
+
+
 def white_runs(row, minw):
     z = np.diff(np.r_[1, row.astype(int), 1])
     s, e = np.flatnonzero(z == -1), np.flatnonzero(z == 1)
@@ -136,17 +156,21 @@ def strip_lines(ink, x0, x1):
     return out
 
 
-def extent(ink, l, x0, x1, lo, hi):
+def extent(ink, l, x0, x1, lo, hi, stops=None):
     """From the strip, run out to the gutters on both sides. A gutter stays white over this
-    line and the lines above and below it (a word space doesn't); a gap far wider than any
-    word space in the line's own row ends it too."""
+    line and the lines above and below it (a word space doesn't), and lies where the page has
+    one (`stops`: the columns' edges and the page's middle) - a word space can line up with
+    blank in short lines around it; a gap far wider than any word space in the line's own row
+    ends it too."""
     h = l["c1"] - l["c0"]
     win = ink[max(0, l["c0"] - 2 * h):l["c1"] + 2 * h].any(axis=0)
     own = ink[l["c0"]:l["c1"]].any(axis=0)
     xs = np.flatnonzero(own[x0:x1])
     if not len(xs): return None
     a, b = x0 + xs[0], x0 + xs[-1]
-    runs = white_runs(win, 25) + white_runs(own, 300)
+    runs = white_runs(win, 25)
+    if stops: runs = [(s, e) for s, e in runs if any(s - 80 <= x <= e + 80 for x in stops)]
+    runs += white_runs(own, 300)
     left = max([e for s, e in runs if e <= a] + [lo])
     right = min([s for s, e in runs if s > b] + [hi])
     ys = np.flatnonzero(own[left:right])
@@ -184,16 +208,30 @@ def overlap(a, b): return min(a["x1"], b["x1"]) - max(a["x0"], b["x0"])
 def find_lines(ink, col):
     L, R, lR, gL, gR, rL = (col[k] for k in ("L", "R", "lR", "gL", "gR", "rL"))
     m = 15
+    stops = [L, lR, gL, gR, rL, R, (gL + gR) // 2]
     def lines_in(x0, x1, lo, hi):
         out = []
         for ln in strip_lines(ink, x0, x1):
-            ext = extent(ink, ln, x0, x1, lo(ln), hi(ln))
+            ext = extent(ink, ln, x0, x1, lo(ln), hi(ln), stops)
             if ext:
                 ln["x0"], ln["x1"] = ext
                 out.append(ln)
         return out
     # the Gemara column, never crossing its gutters
     gem = sorted(lines_in(gL + m, gR - m, lambda l: gL - 12, lambda l: gR + 12), key=lambda l: l["c0"])
+    # its lines are evenly spaced: two "lines" far closer than that are one (a printed rule or mark
+    # over a line can make it look like two)
+    if len(gem) > 4:
+        pitch = float(np.median(np.diff([l["c0"] for l in gem])))
+        joined = [gem[0]]
+        for l in gem[1:]:
+            k = joined[-1]
+            if l["c0"] - k["c0"] < 0.6 * pitch and l["c1"] - k["c0"] < 1.3 * pitch:
+                k.update(y1=max(k["y1"], l["y1"]), c1=max(k["c1"], l["c1"]), c0=min(k["c0"], l["c0"]),
+                         x0=min(k["x0"], l["x0"]), x1=max(k["x1"], l["x1"]))
+            else:
+                joined.append(l)
+        gem = joined
     for l in gem: l["sw"] = stroke(ink, l)
     # how thick the Gemara's strokes are against the commentary's differs from scan to scan:
     # split this page's lines (the Gemara column's and the side columns') into two groups
@@ -264,11 +302,16 @@ def sort_commentary(ink, col, lines):
     pitch = float(np.median([d for d in np.diff([l["c0"] for l in body]) if d > 20]))
     com = [l for l in com if l["c1"] - l["c0"] > 0.6 * core]       # specks and rules, not lines
     below = [l for l in com if l["c0"] > col["bot"]]
-    for prev, l in zip([None] + below, below):
+    small = lambda l: l["c1"] - l["c0"] < 0.85 * core and l["x1"] - l["x0"] > 0.4 * (R - L)
+    for i, l in enumerate(below):
+        prev = below[i - 1] if i else None
         gap = l["c0"] - (prev["c0"] if prev else col["bot"])
-        if gap > 1.7 * pitch + (0 if prev else 40) or (l["c1"] - l["c0"] < 0.85 * core and l["x1"] - l["x0"] > 0.4 * (R - L)):
+        # the notes: after a wide gap, or set in smaller letters - two rows of them (one thin row
+        # between regular ones is a mark, not the notes)
+        if gap > 1.7 * pitch + (0 if prev else 40) or (small(l) and i + 1 < len(below) and small(below[i + 1])):
             com = [k for k in com if k["c0"] < l["c0"]]
             break
+    com = [k for k in com if not (small(k) and k["c0"] > col["bot"])]
     # two pieces of one row with only a word space between them (wide where a comment ends) are one
     # line; beside the Gemara the column's gutter is far wider than that
     rows = []
@@ -292,7 +335,9 @@ def sort_commentary(ink, col, lines):
     com = [l for l in com if l["side"]]
     for l in com:
         if l["side"] == "B":    # a full line under the page: it goes on with the side still running
-            prev = {s: max([k["c0"] for k in com if k["side"] == s and k["c0"] < l["c0"]], default=-1) for s in "LR"}
+            # (a lone word - a catchword - doesn't count as the side going on)
+            prev = {s: max([k["c0"] for k in com if k["side"] == s and k["c0"] < l["c0"]
+                            and k["x1"] - k["x0"] > 0.15 * (R - L)], default=-1) for s in "LR"}
             l["side"] = "L" if prev["L"] > prev["R"] else "R"
     out = {}
     for s in "LR":
@@ -365,14 +410,14 @@ def drop_markers(ink, l, boxes, core, state):
     return out[::-1]
 
 
-def word_boxes(ink, l, kind, state=None):
+def word_boxes(ink, l, kind, state=None, gap=None):
     """The words of a printed line as (x0, x1), left to right; dots, *, ° and the little
     letters that point to the notes are left out, and in the commentary the note markers."""
     prof = ink[l["y0"]:l["y1"], l["x0"]:l["x1"] + 1].sum(axis=0) > 0
     z = np.diff(np.r_[0, prof.astype(int), 0])
     out = []
     for a, b in zip(np.flatnonzero(z == 1), np.flatnonzero(z == -1)):
-        if out and a - out[-1][1] < (9 if kind == "g" else 10): out[-1][1] = b
+        if out and a - out[-1][1] < (gap or (9 if kind == "g" else 10)): out[-1][1] = b
         else: out.append([a, b])
     out = [(a, b) for a, b in out if b - a >= 8]
     def height(a, b):
@@ -435,12 +480,43 @@ def word_under(ink, last):
 
 def strip_tags(s): return re.sub(r"<[^>]+>", "", s or "")
 
+BIG = "⁣"       # marks a word Sefaria sets in <big> (an invisible separator, never in the text)
+
 def gemara_words(segs):
     out = []
     for i, s in enumerate(segs):
+        # words Sefaria sets in <big> (a perek's or masechet's opening word) are marked
+        s = re.sub(r"<big>(.*?)</big>", lambda m: " ".join(BIG + w for w in strip_tags(m.group(1)).split()), s)
         s = re.sub(r"\((?:[א-ת]+ ){1,2}[א-ת]{1,3},? [א-ת]{1,3}\)", " ", strip_tags(s))   # verses: printed in the margin
-        out += [dict(w=w, s=i) for w in s.split() if re.search(r"[א-ת]", w)]
+        out += [dict(w=w.removeprefix(BIG), s=i, big=w.startswith(BIG)) for w in s.split() if re.search(r"[א-ת]", w)]
     return out
+
+
+def opening_frame(ink, col):
+    """The decorated frame a masechet opens with: tall ornament pieces in the Gemara's column over
+    its first line. Its box, or None."""
+    top, gL, gR = col["top"], col["gL"], col["gR"]
+    y0 = max(0, top - 800)
+    lab, n = ndimage.label(ink[y0:top - 10, gL:gR])
+    tall = [sl for sl in ndimage.find_objects(lab) if sl[0].stop - sl[0].start > 150]
+    if not tall: return None
+    a, b = min(sl[0].start for sl in tall), max(sl[0].stop for sl in tall)
+    inside = [sl for sl in ndimage.find_objects(lab) if sl[0].start >= a - 30 and sl[0].stop <= b + 30]
+    return dict(x0=gL + min(sl[1].start for sl in inside), x1=gL + max(sl[1].stop for sl in inside),
+                c0=y0 + min(sl[0].start for sl in inside), c1=y0 + max(sl[0].stop for sl in inside))
+
+# Sefaria writes references in full; the Vilna page abbreviates them
+ABBREV = {"בבא קמא": 'ב"ק', "בבא מציעא": 'ב"מ', "בבא בתרא": 'ב"ב', "עבודה זרה": 'ע"ז', "ראש השנה": 'ר"ה',
+          "מועד קטן": 'מ"ק'}
+
+def short_refs(c, masechet_he):
+    def one(m):
+        ref = m.group(0)
+        ref = re.sub(r"(\(|\s)" + re.escape(masechet_he) + r"(?=\s+דף)", lambda k: k.group(1), ref)   # this masechet: no name
+        for full, ab in ABBREV.items(): ref = ref.replace(full + " ", ab + " ")
+        return re.sub(r"\(\s+", "(", ref)
+    return re.sub(r"\([^()]*?דף[^()]*\)", one, c)
+
 
 def comment_words(segs, masechet_he):
     out = []
@@ -449,7 +525,7 @@ def comment_words(segs, masechet_he):
             c = strip_tags(c)
             # Sefaria writes "(דברים ט״ו:כ״ב)" where the page has "(דברים טו)", and names the masechet
             c = re.sub(r"\(([^()]*?) ([א-ת״׳]+):[א-ת״׳\-–]+\)", lambda m: f"({m.group(1)} {re.sub('[״׳]', '', m.group(2))})", c)
-            c = c.replace(f"({masechet_he} דף", "(דף")
+            c = short_refs(c, masechet_he)
             dh, sep, rest = c.partition(" - ")
             n = 0
             for part, is_dh in ((dh, True), (rest, False)) if sep else ((c, False),):
@@ -474,14 +550,14 @@ def loss(x, h=0.5):
     x = abs(x)
     return x * x if x < h else 2 * h * x - h * h
 
-def split(lines, words, kind, free_end=False, pre=0, post=0):
+def split(lines, words, kind, free_end=False, pre=0, post=0, bold=1.45):
     """Cut the words into the printed lines: line i gets words[cut[i]:cut[i+1]]. Each line costs
     how far its word count, its ink width, its first and last words' widths, and where its word
     spaces would fall (the line justified to its printed width) are from the print; the cheapest
     split wins. The first `pre` words (the end of the amud before, which the page may carry over)
     and the last `post` words (which the page may leave to the next) may stay off the page."""
     # Tosafot's comments open with a word in big square letters
-    e = np.array([FONT["g"].getlength(w["w"]) * 1.45 if w.get("bold") else FONT[kind].getlength(w["w"]) for w in words])
+    e = np.array([FONT["g"].getlength(w["w"]) * bold if w.get("bold") else FONT[kind].getlength(w["w"]) for w in words])
     E = np.r_[0, np.cumsum(e)]
     N, M = len(words), len(lines)
     if not N or not M: return [0] * (M + 1), 0, 0.0
@@ -509,8 +585,8 @@ def split(lines, words, kind, free_end=False, pre=0, post=0):
                 for k in range(max(1, ni - 6), min(ni + 6, j) + 1):
                     a = j - k
                     if D[i - 1, a] >= INF: continue
-                    c = (D[i - 1, a] + 0.15 * loss(k - ni) + loss((Wi - s * (E[j] - E[a])) / mean)
-                         + loss((fi - s * e[a]) / mean) + loss((li - s * e[j - 1]) / mean))
+                    c = D[i - 1, a] + 0.15 * loss(k - ni) + loss((Wi - s * (E[j] - E[a])) / mean)
+                    c += loss((fi - s * e[a]) / mean) + loss((li - s * e[j - 1]) / mean)
                     if k > 1 and len(Gi):
                         w = s * e[a:j]
                         space = (Si - w.sum()) / (k - 1)
@@ -585,7 +661,7 @@ def amud_page(masechet, daf, amud, check=False):
     if abs(img.width - WIDTH) > 200:
         img = img.resize((WIDTH, round(img.height * WIDTH / img.width)), Image.LANCZOS)
     img = straighten(img)
-    ink = ndimage.binary_opening(np.asarray(img) < 150, np.ones((3, 3)))
+    ink = ink_of(img)
 
     col = columns(ink)
     lines = find_lines(ink, col)
@@ -594,7 +670,30 @@ def amud_page(masechet, daf, amud, check=False):
     for l in gem: l["boxes"] = word_boxes(ink, l, "g")
     for ls in sides.values():
         state = {"core": float(np.median([l["c1"] - l["c0"] for l in ls])) if ls else 30}
-        for l in ls: l["boxes"] = word_boxes(ink, l, "c", state)
+        for l in ls:
+            l["boxes"] = word_boxes(ink, l, "c", state)
+        # a tightly set line can run words together: if its boxes come out much wider than the page's
+        # words usually are, look again with a smaller gap
+        widths = [b - a for l in ls for a, b in l["boxes"]]
+        if widths:
+            usual = float(np.median(widths))
+            for l in ls:
+                ws_ = [b - a for a, b in l["boxes"]]
+                if len(ws_) > 4 and np.median(ws_) > 1.3 * usual:
+                    l["boxes"] = word_boxes(ink, l, "c", dict(state), gap=6)
+        for l in ls:
+            # at the page's outer edge, a narrow box set far apart from the line is a letter of the
+            # margin's notes (עין משפט, מסורת הש״ס), not a word
+            bx = l["boxes"]
+            if len(bx) > 3:
+                gaps = [c[0] - p_[1] for p_, c in zip(bx, bx[1:])]
+                med = float(np.median(gaps))
+                lone = lambda w, g: (w < 0.9 * state["core"] and g > 1.25 * med) or (w < 1.2 * state["core"] and g > 1.6 * med)
+                if lone(bx[0][1] - bx[0][0], gaps[0]) and l["x0"] + bx[0][0] < col["L"] + 30:
+                    bx = bx[1:]
+                if lone(bx[-1][1] - bx[-1][0], gaps[-1]) and l["x0"] + bx[-1][1] > col["R"] - 30:
+                    bx = bx[:-1]
+                l["boxes"] = bx
     # the catchword: the next amud's first word, alone under the last line
     catch = gem.pop() if gem and len(gem[-1]["boxes"]) <= 2 and gem[-1]["x1"] - gem[-1]["x0"] < 0.7 * (col["gR"] - col["gL"]) else None
     if catch is None and gem:
@@ -606,6 +705,14 @@ def amud_page(masechet, daf, amud, check=False):
         return fetch(f"{API}/v3/texts/{name}_on_{route}")
     g_words = gemara_words(text("")["versions"][0]["text"])
     report, out_lines, spill = {}, [], {}
+    # the masechet's first page: its opening word stands in a frame over the Gemara (and the print
+    # leaves out the מתני׳ before it); the Gemara's lines start after it
+    frame = opening_frame(ink, col)
+    if frame and any(w["big"] for w in g_words[:4]):
+        last_big = max(j for j, w in enumerate(g_words[:4]) if w["big"])
+        big = [w for w in g_words[:last_big + 1] if w["big"]]
+        out_lines.append(dict(k="g", l=frame, words=[w["w"] for w in big], ids=[big[0]["s"]], frame=True))
+        g_words = g_words[last_big + 1:]
 
     cuts, end, cost = split(gem, g_words, "g")
     report["gemara"] = (len(gem), len(g_words), cost)
@@ -623,6 +730,10 @@ def amud_page(masechet, daf, amud, check=False):
     # Rashi sits toward the binding: on the right of amud a, the left of amud b
     for name, key, side in (("Rashi", "r", "R" if amud == "a" else "L"), ("Tosafot", "t", "L" if amud == "a" else "R")):
         ls = sides[side]
+        # a lone word under the last line, found as a row of its own, is the catchword
+        lone = None
+        if len(ls) > 2 and len(ls[-1]["boxes"]) == 1 and ls[-1]["x1"] - ls[-1]["x0"] < 0.2 * (col["R"] - col["L"])                 and ls[-1]["c0"] - ls[-2]["c0"] < 2.5 * (ls[-2]["c1"] - ls[-2]["c0"]):
+            lone = ls[-1]; ls = ls[:-1]
         try: data = text(name)["versions"][0]["text"]
         except Exception: data = []
         ws = comment_words(data, masechet_he)
@@ -639,8 +750,33 @@ def amud_page(masechet, daf, amud, check=False):
             pass
         for w in prev: w["c"] = None          # not this amud's: no Gemara line to light up
         ws = prev + ws
+        # a masechet's first page prints its opening word without the מתני׳ before it
+        if frame and ws and re.fullmatch(r"מתני[׳']", ws[0]["w"]) and len(ws) > 1:
+            ws[1]["first"] = True; ws = ws[1:]
         big = None
         if ls and ws and not prev:
+            # an opening word set big inside the first line, two rows tall: the line's first box (at
+            # its right) much taller than the letters; its lower half may have come out as a row
+            f0 = ls[0]
+            core = float(np.median([l["c1"] - l["c0"] for l in ls]))
+            if f0["boxes"]:
+                a, b = f0["boxes"][-1]
+                rows = np.flatnonzero(ink[f0["y0"] - 20:f0["y1"] + int(1.5 * core), f0["x0"] + a:f0["x0"] + b].any(axis=1))
+                tall = rows[-1] - rows[0] if len(rows) else 0
+                if tall > 1.6 * core and b - a > 2 * core:
+                    big = dict(x0=f0["x0"] + a, x1=f0["x0"] + b, c0=f0["y0"] - 20 + int(rows[0]), c1=f0["y0"] - 20 + int(rows[-1]) + 1)
+                    f0["boxes"] = f0["boxes"][:-1]
+                    f0["x1"] = f0["x0"] + (f0["boxes"][-1][1] if f0["boxes"] else a)
+                    # a one-box row under it is its lower half, not a line; the row beside its lower
+                    # half ends before it
+                    if len(ls) > 1 and len(ls[1]["boxes"]) <= 1 and ls[1]["x1"] > big["x0"] and ls[1]["x0"] < big["x1"]:
+                        ls = ls[:1] + ls[2:]
+                    if len(ls) > 1 and ls[1]["c0"] < big["c1"]:
+                        f1 = ls[1]
+                        keep = [(x0, x1) for x0, x1 in f1["boxes"] if f1["x0"] + x1 < big["x0"] - 5]
+                        if keep and len(keep) < len(f1["boxes"]):
+                            f1["boxes"] = keep; f1["x1"] = f1["x0"] + keep[-1][1]
+        if ls and ws and not prev and not big:
             # the commentary may open with a big word over its first two lines, at their right
             f0, f1 = ls[0], ls[1] if len(ls) > 1 else ls[0]
             limit = (col["gL"] + col["gR"]) // 2 if side == "L" and f0["c0"] < col["top"] else col["R"] if side == "R" else col["lR"]
@@ -657,11 +793,15 @@ def amud_page(masechet, daf, amud, check=False):
                         f0["boxes"] = word_boxes(ink, f0, "c")
         start = 1 if big else 0
         for w in ws: w["bold"] = key == "t" and w["first"]
-        cuts, end, cost = split(ls, ws[start:], "c", free_end=True, post=min(80, len(ws) // 3))
+        # how big Tosafot's opening words are printed differs from page to page: the size that fits best
+        tries = [split(ls, ws[start:], "c", free_end=True, post=min(80, len(ws) // 3), bold=f)
+                 for f in ((1.45, 1.8, 2.2, 2.6) if key == "t" else (1.45,))]
+        cuts, end, cost = min(tries, key=lambda t: t[2] - 0.02 * t[1])
         # when the page goes on with this commentary on the next one, the next page's first word
         # stands alone under the last line (the catchword). If the split put it at the end of the
         # last line instead (the closer width says), it comes off that line.
-        catch_c = word_under(ink, ls[end - 1]) if end and cuts[end] - cuts[end - 1] > 1 else None
+        catch_c = (lone if lone and end == len(ls) else
+                   word_under(ink, ls[end - 1]) if end and cuts[end] - cuts[end - 1] > 1 else None)
         if catch_c:
             pos = start + cuts[end]
             width = lambda w: FONT["c"].getlength(w["w"])
@@ -713,7 +853,7 @@ def amud_page(masechet, daf, amud, check=False):
                         dict(x=rest[0][0], w=rest[-1][1] - rest[0][0], y=y1, t=title)]
 
     # sizes: each kind's letters as high as the print's
-    core = lambda k: float(np.median([o["l"]["c1"] - o["l"]["c0"] for o in out_lines if o["k"] == k and not o.get("big")] or [30]))
+    core = lambda k: float(np.median([o["l"]["c1"] - o["l"]["c0"] for o in out_lines if o["k"] == k and not o.get("big") and not o.get("frame")] or [30]))
     font = {"g": round(core("g") / body_ratio(FONT["g"]), 1), "c": round(np.median([core("r"), core("t")]) / body_ratio(FONT["g"]), 1)}    # Rashi and Tosafot are shown in square letters too
     if head_out:
         hh = float(np.median([h["c1"] - h["c0"] for h in head]))
@@ -731,6 +871,7 @@ def amud_page(masechet, daf, amud, check=False):
         l = o["l"]
         line = dict(k=o["k"], x=l["x0"] - X0, w=l["x1"] - l["x0"] + 1, y=l["c1"] - Y0, words=o["words"], ids=o["ids"])
         if o.get("big"): line["big"] = round((l["c1"] - l["c0"]) / body_ratio(FONT["g"]), 1)    # its font size
+        if o.get("frame"): line["frame"] = 1; line["h"] = l["c1"] - l["c0"]
         if o.get("first"): line["first"] = o["first"]
         page["lines"].append(line)
 
