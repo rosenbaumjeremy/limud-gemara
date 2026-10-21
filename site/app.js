@@ -246,7 +246,47 @@ function classify(txt, mode) {
   if (has("מסייע ליה", "תניא נמי הכי", "דיקא נמי")) return "answer";
   if (asks) return "question";
   if (has("דכתיב", "שנאמר", "אמר קרא", "ילפינן")) return "answer";
+  if (/^(גמ׳|גמ')/.test(txt)) return "statement";   // the Gemara opening on the Mishnah
   return "plain";
+}
+
+// Where each line's Mishnah/Gemara mode starts and what it is doing, line by line; `start` is
+// how the amud before ended, so a sentence or a Mishnah running over the page keeps its color.
+function modeOf(mode, core0, enHtml) {
+  // the daf's own Mishnah opens with the heading מתני׳ (and the Gemara with גמ׳), abbreviated;
+  // "מתני ליה רבי אלעזר לבריה" (he taught it to his son) is the Gemara going on
+  // Sefaria's English heads the line "MISHNA:" / "GEMARA:" (capitals, first); "the mishna:"
+  // inside a sentence is the Gemara talking about it
+  const en0 = enHtml.replace(/<[^>]+>/g, "").trim();
+  if (/^MISHNA:/.test(en0) || /^מתני[׳']/.test(core0)) mode = "mishnah";
+  if (/^GEMARA:/.test(en0) || /^גמ[׳']/.test(core0)) mode = "gemara";
+  return mode;
+}
+function settle(segs, startPrev) {
+  // a line that opens by answering the question the line before left open is an answer
+  segs.forEach((s, i) => {
+    const p = segs[i - 1];
+    s.prev = s.hadran ? null : p ? parts(p.txt, p.kind, p.prev).at(-1)[1] : startPrev;
+    const first = parts(s.txt, s.kind, s.prev).map(x => x[1]);
+    if (s.kind === "plain" && !s.hadran) s.kind = first.find(k => k !== "plain") || "plain";
+    else if (s.kind === "statement" && first[0] === "answer") s.kind = "answer";
+  });
+}
+// How an amud ends: its mode and what its last line is doing (for the amud after it).
+async function amudEnd(ref) {
+  const u = ref.replace(/ (\d+[ab])$/, ".$1").replace(/ /g, "_");
+  const base = await getJSON(`${API}/v3/texts/${u}?version=hebrew&version=english`);
+  const he = base.versions.find(v => v.language === "he"), en = base.versions.find(v => v.language === "en");
+  let mode = "gemara";
+  const segs = he.text.map((h, i) => {
+    const txt = plain(h), core0 = txt.replace(NIKUD, "");
+    mode = modeOf(mode, core0, en && en.text[i] || "");
+    const hadran = /^הדרן/.test(core0);
+    return { txt, hadran, kind: hadran ? "plain" : classify(core0, mode) };
+  });
+  settle(segs, null);
+  const last = segs.at(-1);
+  return { mode: last.hadran ? "gemara" : mode, prev: last.hadran ? null : parts(last.txt, last.kind, last.prev).at(-1)[1] };
 }
 
 // A line often carries a question and its answer together ("מאי טעמא? משום ד..."). Split it
@@ -296,7 +336,8 @@ function parts(txt, kind, prev) {
       // the rest of a quoted baraita is still the challenge; otherwise it is the answer
       if (k === "plain") k = was && quoting ? "question" : "answer";
       else if (k === "statement" && REPLY.test(s) && !CLOSE.test(s)) k = "answer";
-    } else if (k === "plain" && last && last !== "mishnah" && (j > 0 || last === "answer")) k = last;   // more of the same answer
+    // more of the same answer, or of a statement going on into the next line (a baraita, a story)
+    } else if (k === "plain" && last && last !== "mishnah" && (j > 0 || last === "answer" || last === "statement")) k = last;
     held.forEach(h => out[h][1] = k); held = [];
     out.push([b, k]);
     last = k;
@@ -367,25 +408,24 @@ function speaker(txt) {
 async function loadAmud(ref) {
   const u = ref.replace(/ (\d+[ab])$/, ".$1").replace(/ /g, "_");
   const opt = url => getJSON(url).catch(() => null);
-  const [base, st, ra, to] = await Promise.all([
+  const before = neighbour(ref, -1);
+  const [base, st, ra, to, end] = await Promise.all([
     getJSON(`${API}/v3/texts/${u}?version=hebrew&version=english`),
     opt(`${API}/v3/texts/Steinsaltz_on_${u}`),
     opt(`${API}/v3/texts/Rashi_on_${u}`),
     opt(`${API}/v3/texts/Tosafot_on_${u}`),
+    before && parseRef(before).m === parseRef(ref).m ? amudEnd(before).catch(() => null) : null,
   ]);
   const ver = (d, lang) => d && (d.versions || []).find(v => v.language === lang);
   const he = ver(base, "he"), en = ver(base, "en");
   if (!he || !Array.isArray(he.text) || !he.text.length) throw new Error("no text");
   const st0 = ver(st, "he"), ra0 = ver(ra, "he"), to0 = ver(to, "he");
   const list = x => Array.isArray(x) ? x.flat(Infinity).filter(Boolean) : x ? [x] : [];
-  let mode = "gemara";
+  let mode = end ? end.mode : "gemara";
   const segs = he.text.map((h, i) => {
     const txt = plain(h), core0 = txt.replace(NIKUD, "");
     const enHtml = en && en.text[i] || "";
-    // the daf's own Mishnah opens with the heading מתני׳ (and the Gemara with גמ׳), abbreviated;
-    // "מתני ליה רבי אלעזר לבריה" (he taught it to his son) is the Gemara going on
-    if (/MISHNA:/i.test(enHtml) || /^מתני[׳']/.test(core0)) mode = "mishnah";
-    if (/GEMARA:/i.test(enHtml) || /^גמ[׳']/.test(core0)) mode = "gemara";
+    mode = modeOf(mode, core0, enHtml);
     const words = core0.split(/[\s־]+/);
     // Sefaria sets "הדרן עלך..." as a line of its own, and the first words of a perek in <big>
     // (מתני׳ and גמ׳ are in <big> too, so skip those)
@@ -402,14 +442,7 @@ async function loadAmud(ref) {
       vocab: findVocab(words.map(core)).map(h => h[2]),
     };
   });
-  // a line that opens by answering the question the line before left open is an answer
-  segs.forEach((s, i) => {
-    const p = segs[i - 1];
-    s.prev = p && !s.hadran ? parts(p.txt, p.kind, p.prev).at(-1)[1] : null;
-    const first = parts(s.txt, s.kind, s.prev).map(x => x[1]);
-    if (s.kind === "plain" && !s.hadran) s.kind = first.find(k => k !== "plain") || "plain";
-    else if (s.kind === "statement" && first[0] === "answer") s.kind = "answer";
-  });
+  settle(segs, end && end.mode === "gemara" ? end.prev : null);
   return { ref: base.ref || ref, segs };
 }
 
