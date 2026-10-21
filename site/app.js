@@ -99,6 +99,7 @@ const T = {
     hideSide: "הסתר סיכום ומילים", showSide: "הצג סיכום ומילים", hideFlow: "הסתר מבנה הסוגיא", showFlow: "הצג מבנה הסוגיא",
     viewLines: "שורה אחר שורה", viewPage: "צורת הדף", printed: "הדף המודפס",
     pageNote: "הגמרא באמצע, רש״י לצד הכריכה ותוספות בצד החיצון, כמו בדפוס וילנא. הסידור מחושב מהטקסט, ולכן השורות אינן זהות לדף המודפס. לחיצה על שורה פותחת את ההסבר שלה.",
+    vilnaNote: "הדף כמו בדפוס וילנא: כל שורה במקומה ובמילים שבדף המודפס (לפי הסריקה; ייתכנו מעט שורות שזזה בהן מילה). הטקסט מספריא. לחיצה על מילה בגמרא פותחת את ההסבר; מעבר על רש״י או תוספות מאיר את כל הדיבור.",
     scanFail: "לא הצלחנו לטעון את סריקת הדף.",
     scanCredit: "דפוס וילנא של האלמנה והאחים ראם (1880–1886) · סריקה: הספרייה הלאומית, דרך ספריא · לחיצה מגדילה",
   },
@@ -131,6 +132,7 @@ const T = {
     hideSide: "Hide summary & words", showSide: "Show summary & words", hideFlow: "Hide sugya structure", showFlow: "Show sugya structure",
     viewLines: "Line by line", viewPage: "Page view", printed: "Printed page",
     pageNote: "Gemara in the middle, Rashi toward the binding and Tosafot on the outer side, as in the Vilna Shas. The layout is computed from the text, so its lines don't match the printed page. Tap a line for its explanation.",
+    vilnaNote: "The page as the Vilna Shas prints it: every line in its place, with the words of the printed line (read from the scan; a few lines may have a word moved). The text is Sefaria's. Tap a Gemara word for its explanation; Rashi and Tosafot light up a whole comment.",
     scanFail: "Couldn't load the page scan.",
     scanCredit: "Romm Vilna edition (1880–1886) · scan: National Library of Israel, via Sefaria · tap to zoom",
   },
@@ -495,7 +497,8 @@ async function amudView(ref) {
     el("button", { type: "button", class: "btn ghost", onclick: () => scanSheet(ref) }, t("printed")));
 
   if (S.view === "page") {
-    const page = dafView(amud, ref);
+    const vilna = await getJSON(vilnaUrl(ref)).catch(() => null);
+    const page = vilna ? vilnaView(amud, ref, vilna) : dafView(amud, ref);
     setView(el("section", { class: "reader" + (S.colorText ? " colortext" : "") }, head, views, readerMain(ref, [colorKey(), page.el], amud.segs), navButtons(ref)));
     page.draw();
     return;
@@ -568,6 +571,86 @@ function dafView(amud, ref) {
     clearTimeout(timer); timer = setTimeout(draw, 200);
   });
   return { el: wrap, draw };
+}
+
+// The page exactly as printed: data/vilna/<Masechet>-<amud>.json, written from Sefaria's scan of
+// the Vilna page by scripts/vilna_page.py, gives every printed line (Gemara "g", Rashi "r",
+// Tosafot "t"), where it sits on the page (in the scan's pixels) and its words. The lines are
+// placed there and their words spread to the line's printed width.
+const vilnaUrl = ref => { const p = parseRef(ref); return `data/vilna/${p.m.replace(/ /g, "_")}-${p.daf}${p.amud}.json`; };
+
+function vilnaView(amud, ref, data) {
+  const page = el("div", { class: "vl-page", style: `width:${data.w}px;height:${data.h}px;--fg:${data.font.g}px;--fc:${data.font.c}px;--fh:${data.font.h || data.font.g}px` });
+  const box = el("div", { class: "vl-box" }, page);
+  const wrap = el("div", { class: "daf-wrap vl-wrap" }, box, el("p", { class: "daf-note" }, t("vilnaNote")));
+  const groups = new Map();       // "g3" or "r-2-0": every word of that Gemara line or comment
+  const add = (key, w) => { if (!groups.has(key)) groups.set(key, []); groups.get(key).push(w); };
+  const light = (keys, on) => keys.forEach(k => (groups.get(k) || []).forEach(w => w.classList.toggle("lit", on)));
+  const line = (cls, x, w, y, kids) => el("div", { class: "vl-line " + cls, style: `left:${x}px;width:${w}px;--y:${y}px` }, kids);
+
+  for (const h of data.head) page.append(line("vl-h", h.x, h.w, h.y, [h.t].flat().map(w => el("span", {}, w))));
+  for (const l of data.lines) {
+    const words = l.words.map((w, j) => {
+      const id = l.ids[j];
+      if (l.k === "g") {
+        const seg = id == null ? null : amud.segs[id];
+        if (!seg) return el("span", { class: "vw" }, w);        // the catchword
+        const span = el("span", { class: "vw dseg k-" + seg.kind, onclick: () => lineSheet(seg) }, w);
+        add("g" + id, span);
+        span.addEventListener("mouseenter", () => light(["g" + id], true));
+        span.addEventListener("mouseleave", () => light(["g" + id], false));
+        return span;
+      }
+      const key = `${l.k}-${id[0]}-${id[1]}`, keys = [key, "g" + id[0]];
+      const span = el("span", { class: "vw cm" + (l.k === "t" && (l.first || []).includes(j) ? " dh" : "") }, w);
+      add(key, span);
+      span.addEventListener("mouseenter", () => light(keys, true));
+      span.addEventListener("mouseleave", () => light(keys, false));
+      span.addEventListener("click", () => { light(keys, true); setTimeout(() => light(keys, false), 2500); });
+      return span;
+    });
+    const div = line("vl-" + l.k, l.x, l.w, l.y, words);
+    if (l.big) { div.classList.add("vl-big"); div.style.setProperty("--fb", l.big + "px"); }
+    page.append(div);
+  }
+
+  // Each line's baseline goes where the print's is; a line whose words come out wider than the
+  // printed line (our font, or Sefaria's spelling) is narrowed to fit.
+  async function fit() {
+    try { await Promise.all(["500 40px VilnaSquare", "40px VilnaRashi", "700 40px VilnaSquare"].map(f => document.fonts.load(f, "א"))); }
+    catch (err) { /* draw with the fallback fonts */ }
+    const base = {};
+    for (const cls of ["vl-g", "vl-r", "vl-h", "vl-big"]) {
+      const probe = el("div", { class: "vl-line " + cls, style: "left:0;top:0;--fb:var(--fg)" }, el("span", {}, "מ"), el("i", { class: "vl-mark" }));
+      page.append(probe);
+      base[cls] = probe.lastChild.offsetTop;
+      probe.remove();
+    }
+    for (const div of page.querySelectorAll(".vl-line")) {
+      const cls = ["vl-big", "vl-h", "vl-g"].find(c => div.classList.contains(c)) || "vl-r";
+      const b = cls === "vl-big" ? base[cls] * parseFloat(div.style.getPropertyValue("--fb")) / data.font.g : base[cls];
+      div.style.top = `calc(var(--y) - ${b}px)`;
+      const kids = [...div.children], gap = parseFloat(getComputedStyle(div).fontSize) * 0.2;
+      const natural = kids.reduce((n, k) => n + k.offsetWidth, 0) + gap * (kids.length - 1);
+      const width = div.clientWidth;
+      if (natural > width) {
+        div.style.width = natural + "px";
+        div.style.left = `${parseFloat(div.style.left) - (natural - width)}px`;
+        div.style.transform = `scaleX(${width / natural})`;
+      }
+      if (kids.length === 1) div.style.justifyContent = "center";
+    }
+  }
+  function scale() {
+    if (!box.isConnected) return window.removeEventListener("resize", scale);
+    // a printed page keeps its shape: on a narrow screen it scrolls sideways rather than shrink past reading
+    const k = Math.max(wrap.clientWidth - 26, 680) / data.w;
+    page.style.transform = `scale(${k})`;
+    box.style.width = data.w * k + "px";
+    box.style.height = data.h * k + "px";
+  }
+  window.addEventListener("resize", scale);
+  return { el: wrap, draw: () => { scale(); fit(); } };
 }
 
 // Scroll to a line of the Gemara (line view or page view) and flash it.

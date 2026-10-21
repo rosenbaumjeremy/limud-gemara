@@ -9,12 +9,25 @@ A study companion for the daily daf. It is a static site
   can open any amud in the Bavli.
 - **Reader.** Each line of the vocalized Aramaic (William Davidson edition) has, under it, the
   Steinsaltz explanation (Hebrew) or the Davidson English, plus Rashi and Tosafot, all from Sefaria's API.
-- **צורת הדף (page view).** The reader's second view lays the amud out like the Vilna Shas: Gemara
-  in the middle, Rashi toward the binding, Tosafot on the outer side. `site/daf-layout.js` is adapted
-  from [daf-renderer](https://github.com/GT-Jewish-DH/daf-renderer) (MIT, Dan Jutan & Shaun
-  Regenbaum), with its styles moved into `app.css` because the CSP blocks injected `<style>`. The
-  layout is computed from the text, so the line breaks don't match the printed page. Tap a line for its
-  explanation. When an amud has too little commentary for the shape, it falls back to three columns.
+- **צורת הדף (page view).** The reader's second view. For an amud that has
+  `site/data/vilna/<Masechet>-<daf><amud>.json`, it is the Vilna page exactly as printed: every line
+  of the Gemara, Rashi and Tosafot in its place on the page, with the words of the printed line, the
+  running head, the catchword and Tosafot's big opening words (fonts: Frank Ruhl Libre and Noto
+  Rashi Hebrew, `site/fonts`, OFL). `scripts/vilna_page.py <Masechet> <daf>` makes the file: it
+  straightens Sefaria's scan of the Romm Vilna page, finds each printed line (gutters, letter
+  thickness and height tell Gemara from commentary), and splits Sefaria's text (Wikisource for the
+  Gemara, whose abbreviations match the print) over those lines by word count, ink width and the
+  widths of each line's first and last words. On Bekhorot 33a it matched all 43 Gemara lines and
+  nearly every Rashi and Tosafot line; where Sefaria's text differs from the print (it spells out
+  references, e.g. "(בכורות דף כח.)" for "(דף כח:)") a word can move to the next line for a line or two.
+  A page that doesn't come out right (an unusual layout, or Sefaria's commentary not matching the
+  printed amud) gets no file, about a third of the amudim tried; the margins (עין משפט, מסורת הש״ס,
+  רבינו גרשום, the notes under the page) are not drawn. Since 2026-10-21 the daily routine makes the
+  day's two files (`ROUTINE.md`, step 1b). An amud without a file falls back to the computed layout:
+  `site/daf-layout.js`, adapted from [daf-renderer](https://github.com/GT-Jewish-DH/daf-renderer) (MIT,
+  Dan Jutan & Shaun Regenbaum), with its styles in `app.css` because the CSP blocks injected
+  `<style>`; its line breaks don't match the printed page, and when an amud has too little
+  commentary for the shape it falls back to three columns. Tap a line for its explanation.
 - **Written summary of the Rishonim and Acharonim.** For a daf that has `site/data/summaries/<Masechet>-<daf>.json`,
   a card above the text gives each sugya: the Gemara, the Rishonim, the Acharonim and the halakha,
   in Hebrew and English, each opinion linked to its source. To write one, gather the sources
@@ -47,6 +60,7 @@ A study companion for the daily daf. It is a static site
 - `site/app.js`: the whole app (views, Sefaria loading, classifier, summaries and musagim, progress)
 - `site/data/masechtot.json`: Bavli tractates and their first and last amud, built by `scripts/build_masechtot.py`
 - `site/data/vocab.json`: built from `scripts/vocab.txt` by `scripts/build_vocab.py`
+- `scripts/vilna_page.py`: the printed page's lines (needs `pip install numpy scipy pillow`)
 - `site/sw.js` + `site/offline.js`: the offline copy (same pattern as the other study sites)
 
 To add words, edit `scripts/vocab.txt` and run `python scripts/build_vocab.py`.

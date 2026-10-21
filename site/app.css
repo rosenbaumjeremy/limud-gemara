@@ -449,3 +449,23 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 }
 /* in a strip the arrow sits under the label */
 .side-folded .side > .foldbtn .arrow, .flow-folded .flow > .foldbtn .arrow { margin-inline-start: 0; }
+
+/* צורת הדף as printed (data/vilna, vilnaView): the page is laid out in the scan's own pixels
+   and scaled to fit; the fonts are Frank Ruhl Libre and Noto Rashi Hebrew (fonts/OFL.txt) */
+@font-face { font-family: "VilnaSquare"; src: url("fonts/FrankRuhlLibre.woff2") format("woff2"); font-weight: 300 900; font-display: swap; }
+@font-face { font-family: "VilnaRashi"; src: url("fonts/NotoRashiHebrew.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+.vl-wrap { padding: 16px 12px; }
+.vl-box { position: relative; margin: 0 auto; overflow: hidden; }
+.vl-page { position: absolute; top: 0; left: 0; transform-origin: 0 0; color: var(--ink); }
+.vl-line { position: absolute; display: flex; justify-content: space-between; direction: rtl;
+  white-space: nowrap; line-height: 1; transform-origin: 100% 50%; }
+.vl-g, .vl-h, .vl-big { font-family: "VilnaSquare", var(--serif); font-weight: 500; font-size: var(--fg); }
+.vl-h { font-size: var(--fh); }
+.vl-r, .vl-t { font-family: "VilnaRashi", var(--serif); font-size: var(--fc); }
+.vl-big { font-size: var(--fb); font-weight: 700; }
+.vl-t .dh { font-family: "VilnaSquare", var(--serif); font-weight: 700; }
+.vl-mark { display: inline-block; width: 0; height: 0; }
+.vl-page .vw { border-radius: 4px; }
+.vl-page .dseg, .vl-page .cm { cursor: pointer; }
+.colortext .vl-page .vw.dseg { background: color-mix(in srgb, var(--k) 16%, color-mix(in srgb, var(--card) 95%, var(--muted))); }
+.colortext .vl-page .vw.dseg.k-plain { background: none; }

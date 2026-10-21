@@ -22,7 +22,7 @@ not there. Nothing you did not read goes in: no opinions of your own, no paraphr
 ## Modes
 
 - **Daily** (the normal run): steps 0–6 for today's date.
-- **Backfill** (when the prompt lists dates): steps 1–4 and 6 for each listed date in turn,
+- **Backfill** (when the prompt lists dates): steps 1–4 (with 1b) and 6 for each listed date in turn,
   one commit per date. No time guard.
 
 ## Step 0 – time guard (daily only)
@@ -38,7 +38,25 @@ year-round. Run `TZ=Asia/Jerusalem date +%H`; if it is `02` or `04`, print
    the masechet (en/he), the `amudim` it has (the last daf of a masechet may have only
    amud a), the `gemara_refs`, the `file` it will be filed under, and `already_published`.
    Study exactly that daf.
-3. If `already_published` is true, print "Already published" and stop.
+3. Make the day's printed page (step 1b) first; then, if `already_published` is true, print
+   "Already published", publish the page (step 6, with only `site/data/vilna` to add) and stop.
+
+## Step 1b – the printed page (צורת הדף)
+
+The site's page view draws each amud line for line as the Vilna Shas prints it, from
+`site/data/vilna/<Masechet>-<daf><amud>.json`. Make the day's two files:
+
+```sh
+pip install -q numpy scipy pillow
+python3 scripts/vilna_page.py "<Masechet>" <daf>
+```
+
+It reads Sefaria's scan of the Vilna page and the texts, and prints one line per amud: for
+the Gemara, Rashi and Tosafot, how many printed lines it found, how many words, and the
+average cost per line (how far the words it put on each line are from the print; under about
+0.6 is a close fit). An amud that isn't there (the last daf of a masechet may have only
+amud a) prints "not made"; that's fine. Don't edit these files by hand. Report the costs in
+the final line; if one is over 1.0, add "check the page" to it.
 
 ## Step 2 – read the Gemara
 
@@ -137,7 +155,7 @@ tool.
 1. `git pull --rebase origin main`.
 2. `python3 scripts/add_summary.py /tmp/summary.json` — writes
    `site/data/summaries/<Masechet>-<daf>.json` and updates `site/data/summaries/index.json`.
-3. `git add site/data/summaries` — nothing else — and commit as
+3. `git add site/data/summaries site/data/vilna` — nothing else — and commit as
    `git -c user.name="Daf Yomi routine" -c user.email="rosenbaum.jeremy@gmail.com" commit -m "Summary: <ref> (<date>)"`.
 4. `git push origin main`; if rejected because main moved, pull --rebase and retry (3 tries).
    If refused for permission, push to `claude/summary-<date>` and say so.
