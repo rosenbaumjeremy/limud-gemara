@@ -54,7 +54,8 @@ python3 scripts/vilna_page.py "<Masechet>" <daf>
 It reads Sefaria's scan of the Vilna page and the texts, and prints one line per amud: for
 the Gemara, Rashi and Tosafot, how many printed lines it found, how many words, and the
 average cost per line (how far the words it put on each line are from the print; under about
-0.6 is a close fit). An amud that isn't there (the last daf of a masechet may have only
+0.7 is a close fit). Run it for amud a before amud b (the one command does): each amud's file
+records how much commentary it left for the next page, and the next amud starts with it. An amud that isn't there (the last daf of a masechet may have only
 amud a) prints "not made"; that's fine. Don't edit these files by hand. Report the costs in
 the final line; if one is over 1.0, add "check the page" to it.
 

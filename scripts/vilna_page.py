@@ -223,8 +223,8 @@ def find_lines(ink, col):
             l["sw"] = stroke(ink, l); lines.append(l)
         elif k.get("kind") != "g":
             k["x0"], k["x1"] = min(k["x0"], l["x0"]), max(k["x1"], l["x1"])    # one line, seen from both sides
-    # beside the Gemara, a thick line in a side column is the Gemara widening into it,
-    # but only where that column has no commentary of its own nearby
+    # beside the Gemara, a thick line in a side column is the Gemara widening into it: once it
+    # widens, that column's commentary has ended, so no thin line of the column comes below it
     core = lambda l: l["c1"] - l["c0"]
     gcore = float(np.median([core(l) for l in lines if l.get("kind") == "g"]))
     ccore = float(np.median([core(l) for l in lines if "kind" not in l] or [gcore * 0.85]))
@@ -234,13 +234,15 @@ def find_lines(ink, col):
         l["kind"] = "c"
         if inside(l) and l["sw"] > sw and tall(l):
             same_side = (lambda k: k["x1"] < gL) if l["x1"] < gL else (lambda k: k["x0"] > gR)
-            if not any(k is not l and same_side(k) and abs(k["c0"] - l["c0"]) < 150 and k["sw"] <= sw
+            if not any(k is not l and same_side(k) and l["c0"] < k["c0"] < bot and k["sw"] <= sw
                        for k in lines if k.get("kind") != "g"):
                 l["kind"] = "g"
     merged = []
     for l in sorted(lines, key=lambda l: (l["c0"], l["x0"])):
         if l["kind"] == "g":
-            k = next((k for k in merged if k["kind"] == "g" and same_row(k, l)), None)
+            # the same row seen twice (once maybe as a thin piece of it) is one line
+            k = next((k for k in merged if k["kind"] == "g" and (same_row(k, l) or (
+                overlap(k, l) > 0 and abs(k["c1"] - l["c1"]) < 0.6 * (k["c1"] - k["c0"])))), None)
             if k: k["x0"], k["x1"] = min(k["x0"], l["x0"]), max(k["x1"], l["x1"]); continue
         merged.append(l)
     return merged
@@ -253,8 +255,10 @@ def sort_commentary(ink, col, lines):
     com = sorted([l for l in lines if l["kind"] == "c"], key=lambda l: l["c0"])
     body = [l for l in com if l["sw"] <= col["sw"] and l["c1"] - l["c0"] > 20 and (l["x0"] < L + 40 or l["x1"] > R - 40)]
     first = min(l["c0"] for l in body)
-    head = [l for l in com if l["c1"] <= first - 15]
-    com = [l for l in com if l["c1"] > first - 15]
+    # the running head: the page's top row, over the first line of commentary
+    top_row = min(l["c0"] for l in com)
+    head = [l for l in com if l["c1"] <= first - 15 and l["c0"] < top_row + 40]
+    com = [l for l in com if l not in head]
     # under the page come the notes: after a gap of over a line and a half, or in smaller letters
     core = float(np.median([l["c1"] - l["c0"] for l in body]))
     pitch = float(np.median([d for d in np.diff([l["c0"] for l in body]) if d > 20]))
@@ -278,6 +282,10 @@ def sort_commentary(ink, col, lines):
         # a side's line reaches its outer edge, or (a short last line) stays on its own side
         a, b = l["x0"] < L + 40, l["x1"] > R - 40
         a, b = a or (not b and l["x1"] < mid - 60), b or (not a and l["x0"] > mid + 60)
+        # over the Gemara, a line that stops short of its edge (a big opening word stands there) still
+        # lies on its own side of the page
+        if not a and not b and l["c0"] < col["top"] and abs((l["x0"] + l["x1"]) / 2 - mid) > 150:
+            a, b = (l["x0"] + l["x1"]) / 2 < mid, (l["x0"] + l["x1"]) / 2 > mid
         # a centred last line under the Gemara goes with the side still running
         if not a and not b and l["c0"] > col["bot"] and l["x0"] < mid < l["x1"]: a = b = True
         l["side"] = "B" if a and b else "L" if a else "R" if b else None
@@ -298,6 +306,14 @@ def sort_commentary(ink, col, lines):
                     l["x0"] = col["rL"] - 15 + int(np.flatnonzero(own[col["rL"] - 15:])[0])
                 if s == "L" and col["lR"] + 20 < l["x1"] < mid - 150:
                     l["x1"] = int(np.flatnonzero(own[:col["lR"] + 15])[-1])
+        # a last line that came out too tall has the row under it (a catchword, a note) stuck to it:
+        # keep only the line, so what's under it can be found
+        if ls and ls[-1]["c1"] - ls[-1]["c0"] > 1.2 * core:
+            l = ls[-1]
+            prof = ink[l["c0"]:l["y1"], l["x0"]:l["x1"]].sum(axis=1).astype(float)
+            lo = int(0.55 * core)
+            cut = l["c0"] + lo + int(np.argmin(prof[lo:]))
+            l["c1"], l["y1"] = min(l["c1"], cut), cut
         out[s] = ls
     return out, head
 
@@ -318,6 +334,51 @@ def word_boxes(ink, l, kind):
     hs = [height(a, b) for a, b in out]
     med = float(np.median(hs)) if hs else 0
     return [(int(a), int(b)) for (a, b), h in zip(out, hs) if h >= 0.62 * med and b - a >= (18 if kind == "g" else 14)]
+
+
+def catchword_under(ink, col, last):
+    """The catchword when it shares its rows with a note printed beside it (so it wasn't found as a
+    line of its own): the letters under the last line that are as thick and tall as the Gemara's."""
+    gL, gR, h = col["gL"], col["gR"], last["c1"] - last["c0"]
+    y0, y1 = last["y1"] + 2, last["y1"] + int(2.5 * h)
+    area = ink[y0:y1, gL - 10:gR + 10]
+    lab, n = ndimage.label(area)
+    if not n: return None
+    depth = ndimage.distance_transform_edt(area)
+    gem_depth = np.percentile(ndimage.distance_transform_edt(ink[last["c0"]:last["c1"], last["x0"]:last["x1"]])
+                              [ink[last["c0"]:last["c1"], last["x0"]:last["x1"]]], 95)
+    thick = ndimage.maximum(depth, lab, range(1, n + 1))
+    keep = [sl for sl, t in zip(ndimage.find_objects(lab), thick)
+            if t >= 0.85 * gem_depth and sl[0].stop - sl[0].start > 0.6 * h]
+    if not keep or len(keep) > 8: return None
+    box = dict(y0=y0 + min(k[0].start for k in keep), y1=y0 + max(k[0].stop for k in keep),
+               x0=gL - 10 + min(k[1].start for k in keep), x1=gL - 10 + max(k[1].stop for k in keep))
+    if box["x1"] - box["x0"] > 0.4 * (gR - gL): return None
+    box["c0"], box["c1"] = box["y0"], box["y1"]
+    return box
+
+
+def word_under(ink, last):
+    """A lone word printed just under a line, at one of its ends or a little past it (a
+    commentary's catchword), as a box, or None."""
+    h, width = last["c1"] - last["c0"], last["x1"] - last["x0"]
+    y0, y1 = last["y1"] + 2, last["c1"] + int(1.6 * h)
+    x0 = max(0, last["x0"] - 150)
+    area = ink[y0:y1, x0:last["x1"] + 150]
+    cols_ = np.flatnonzero(area.any(axis=0))
+    if not len(cols_): return None
+    pieces = []
+    for a in cols_:
+        if pieces and a - pieces[-1][1] < 40: pieces[-1][1] = a
+        else: pieces.append([a, a])
+    # short, and at one end of the line (a note may be printed beside it)
+    lo, hi = last["x0"] - x0, last["x1"] - x0
+    pieces = [p for p in pieces if 0.5 * h < p[1] - p[0] < 0.3 * width and (p[0] < lo + 60 or p[1] > hi - 60)]
+    if len(pieces) != 1: return None
+    a, b = pieces[0]
+    rows = np.flatnonzero(area[:, a:b + 1].any(axis=1))
+    if rows[-1] - rows[0] < 0.6 * h: return None
+    return dict(x0=x0 + int(a), x1=x0 + int(b), c0=y0 + int(rows[0]), c1=y0 + int(rows[-1]) + 1)
 
 
 # ---------- the text ----------
@@ -363,11 +424,14 @@ def loss(x, h=0.5):
     x = abs(x)
     return x * x if x < h else 2 * h * x - h * h
 
-def split(lines, words, kind, free_end=False):
+def split(lines, words, kind, free_end=False, pre=0, post=0):
     """Cut the words into the printed lines: line i gets words[cut[i]:cut[i+1]]. Each line costs
-    how far its word count, its ink width, and its first and last words' widths are from the
-    print; the cheapest split wins."""
-    e = np.array([FONT[kind].getlength(w["w"]) for w in words])
+    how far its word count, its ink width, its first and last words' widths, and where its word
+    spaces would fall (the line justified to its printed width) are from the print; the cheapest
+    split wins. The first `pre` words (the end of the amud before, which the page may carry over)
+    and the last `post` words (which the page may leave to the next) may stay off the page."""
+    # Tosafot's comments open with a word in big square letters
+    e = np.array([FONT["g"].getlength(w["w"]) * 1.45 if w.get("bold") else FONT[kind].getlength(w["w"]) for w in words])
     E = np.r_[0, np.cumsum(e)]
     N, M = len(words), len(lines)
     if not N or not M: return [0] * (M + 1), 0, 0.0
@@ -376,31 +440,49 @@ def split(lines, words, kind, free_end=False):
     # right to left: a line's first word is its rightmost box, its last word its leftmost
     first = [(l["boxes"][-1][1] - l["boxes"][-1][0]) if l["boxes"] else 0 for l in lines]
     last = [(l["boxes"][0][1] - l["boxes"][0][0]) if l["boxes"] else 0 for l in lines]
+    span = [(l["boxes"][-1][1] - l["boxes"][0][0]) if l["boxes"] else 0 for l in lines]
+    # the word spaces' middles, measured from the line's right end
+    gaps = [np.sort([l["boxes"][-1][1] - (b[1] + c[0]) / 2 for b, c in zip(l["boxes"], l["boxes"][1:])])
+            for l in lines]
     s = sum(W) / E[-1]
     INF = 1e18
     for _ in range(3):        # the scale (print px per font unit) is refit from each split
         mean = s * E[-1] / N
         D = np.full((M + 1, N + 1), INF); P = np.zeros((M + 1, N + 1), int)
-        D[0, 0] = 0
+        D[0, :pre + 1] = 0
         for i in range(1, M + 1):
-            ni, Wi, fi, li = n[i - 1], W[i - 1], first[i - 1], last[i - 1]
-            for j in range(1, N + 1):
+            ni, Wi, fi, li, Si, Gi = n[i - 1], W[i - 1], first[i - 1], last[i - 1], span[i - 1], gaps[i - 1]
+            reach = np.flatnonzero(D[i - 1] < INF)
+            if not len(reach): break
+            for j in range(int(reach[0]) + 1, min(N, int(reach[-1]) + ni + 6) + 1):
                 bestc, arg = INF, 0
                 for k in range(max(1, ni - 6), min(ni + 6, j) + 1):
                     a = j - k
                     if D[i - 1, a] >= INF: continue
                     c = (D[i - 1, a] + 0.15 * loss(k - ni) + loss((Wi - s * (E[j] - E[a])) / mean)
                          + loss((fi - s * e[a]) / mean) + loss((li - s * e[j - 1]) / mean))
+                    if k > 1 and len(Gi):
+                        w = s * e[a:j]
+                        space = (Si - w.sum()) / (k - 1)
+                        pred = np.cumsum(w)[:-1] + (np.arange(k - 1) + 0.5) * space
+                        idx = np.clip(np.searchsorted(Gi, pred), 1, len(Gi) - 1) if len(Gi) > 1 else np.zeros(k - 1, int)
+                        d = np.minimum(np.abs(pred - Gi[idx]), np.abs(pred - Gi[idx - 1]) if len(Gi) > 1 else np.inf)
+                        c += 1.5 * float(np.minimum(d / mean, 1.0).mean())
                     if c < bestc: bestc, arg = c, a
                 D[i, j], P[i, j] = bestc, arg
-        end = int(np.argmin(D[:, N])) if free_end else M
-        cuts, j = [N], N
+        # where the page's text ends: after all of it, or a few words short (they go on the next page)
+        # (each word left off costs a little, each found line left empty a lot: those are rare)
+        tail = 0.25 * np.arange(post, -1, -1)
+        rows = range(M + 1) if free_end else [M]
+        end, stop = min(((i, j) for i in rows for j in range(N - post, N + 1)),
+                        key=lambda ij: D[ij[0], ij[1]] + tail[ij[1] - (N - post)] + 2.0 * (M - ij[0]))
+        cuts, j = [stop], stop
         for i in range(end, 0, -1):
             j = P[i, j]; cuts.append(j)
         cuts = cuts[::-1]
-        if end == 0 or D[end, N] >= INF: return cuts, 0, float("inf")     # the words don't fit these lines
-        s = sum(W[:end]) / E[-1]
-    return cuts, end, float(D[end, N]) / max(end, 1)
+        if end == 0 or D[end, stop] >= INF: return cuts, 0, float("inf")     # the words don't fit these lines
+        s = sum(W[:end]) / (E[stop] - E[cuts[0]])
+    return cuts, end, float(D[end, stop]) / max(end, 1)
 
 
 # ---------- one amud ----------
@@ -464,13 +546,15 @@ def amud_page(masechet, daf, amud, check=False):
         for l in ls: l["boxes"] = word_boxes(ink, l, "c")
     # the catchword: the next amud's first word, alone under the last line
     catch = gem.pop() if gem and len(gem[-1]["boxes"]) <= 2 and gem[-1]["x1"] - gem[-1]["x0"] < 0.7 * (col["gR"] - col["gL"]) else None
+    if catch is None and gem:
+        catch = catchword_under(ink, col, gem[-1])
 
     hw, masechet_he = header_words(masechet, daf, amud)
     def text(name):
         if not name: return fetch(f"{API}/v3/texts/{route}?version=hebrew|Wikisource_Talmud_Bavli")
         return fetch(f"{API}/v3/texts/{name}_on_{route}")
     g_words = gemara_words(text("")["versions"][0]["text"])
-    report, out_lines = {}, []
+    report, out_lines, spill = {}, [], {}
 
     cuts, end, cost = split(gem, g_words, "g")
     report["gemara"] = (len(gem), len(g_words), cost)
@@ -492,18 +576,63 @@ def amud_page(masechet, daf, amud, check=False):
         except Exception: data = []
         ws = comment_words(data, masechet_he)
         if not ws or not ls: continue
+        # a page can leave the end of its commentary to the next page; the amud before's file says how
+        # many words it left (its "spill"), and this page starts with them
+        prev_ref = f"{daf}a" if amud == "b" else f"{daf - 1}b"
+        prev = []
+        try:
+            left = json.loads((OUT / f"{masechet.replace(' ', '_')}-{prev_ref}.json").read_text(encoding="utf-8")).get("spill", {}).get(key, 0)
+            if left:
+                prev = comment_words(fetch(f"{API}/v3/texts/{name}_on_{urllib.parse.quote(masechet.replace(' ', '_'))}.{prev_ref}")["versions"][0]["text"], masechet_he)[-left:]
+        except (OSError, ValueError):
+            pass
+        for w in prev: w["c"] = None          # not this amud's: no Gemara line to light up
+        ws = prev + ws
         big = None
-        if ls and ws:
-            # the commentary may open with a big word over its first two lines, right of the first line
-            f0 = ls[0]
+        if ls and ws and not prev:
+            # the commentary may open with a big word over its first two lines, at their right
+            f0, f1 = ls[0], ls[1] if len(ls) > 1 else ls[0]
             limit = (col["gL"] + col["gR"]) // 2 if side == "L" and f0["c0"] < col["top"] else col["R"] if side == "R" else col["lR"]
-            area = ink[f0["c0"] - 30:f0["c1"] + int(1.5 * (f0["c1"] - f0["c0"])), f0["x1"] + 15:limit - 5]
+            xs = min(f0["x1"], f1["x1"]) + 15
+            area = ink[f0["c0"] - 30:f1["c1"], xs:limit + 20]
             if area.size and area.sum() > 0.02 * area.size:
                 rows, cols_ = np.flatnonzero(area.any(axis=1)), np.flatnonzero(area.any(axis=0))
-                big = dict(x0=f0["x1"] + 15 + int(cols_[0]), x1=f0["x1"] + 15 + int(cols_[-1]),
+                box = dict(x0=xs + int(cols_[0]), x1=xs + int(cols_[-1]),
                            c0=f0["c0"] - 30 + int(rows[0]), c1=f0["c0"] - 30 + int(rows[-1]) + 1)
+                if box["c1"] - box["c0"] > 1.3 * (f0["c1"] - f0["c0"]) and stroke(ink, box) > col["sw"]:
+                    big = box
+                    if f0["x1"] > big["x0"]:      # the first line ran into it: it ends before it
+                        f0["x1"] = big["x0"] - 10
+                        f0["boxes"] = word_boxes(ink, f0, "c")
         start = 1 if big else 0
-        cuts, end, cost = split(ls, ws[start:], "c", free_end=True)
+        for w in ws: w["bold"] = key == "t" and w["first"]
+        cuts, end, cost = split(ls, ws[start:], "c", free_end=True, post=min(80, len(ws) // 3))
+        # when the page goes on with this commentary on the next one, the next page's first word
+        # stands alone under the last line (the catchword). If the split put it at the end of the
+        # last line instead (the closer width says), it comes off that line.
+        catch_c = word_under(ink, ls[end - 1]) if end and cuts[end] - cuts[end - 1] > 1 else None
+        if catch_c:
+            pos = start + cuts[end]
+            width = lambda w: FONT["c"].getlength(w["w"])
+            box_w = catch_c["x1"] - catch_c["x0"]
+            line_s = sum(b - a for a, b in ls[end - 1]["boxes"]) / max(1, sum(width(w) for w in ws[start + cuts[end - 1]:pos]))
+            if pos < len(ws):
+                nxt = ws[pos]
+            else:       # all of this amud's commentary is on the page: the catchword is the next amud's
+                nxt_ref = f"{daf}b" if amud == "a" else f"{daf + 1}a"
+                try:
+                    nxt = comment_words(fetch(f"{API}/v3/texts/{name}_on_{urllib.parse.quote(masechet.replace(' ', '_'))}.{nxt_ref}")["versions"][0]["text"], masechet_he)[0]
+                    nxt["c"] = None
+                except Exception:
+                    nxt = None
+            on_line = abs(line_s * width(ws[pos - 1]) - box_w)
+            after = abs(line_s * width(nxt) - box_w) if nxt else float("inf")
+            if on_line < 0.6 * after and pos - 1 > start + cuts[end - 1]:
+                cuts[end] -= 1; pos -= 1; nxt = ws[pos]
+            if nxt:
+                out_lines.append(dict(k=key, l=dict(catch_c, y0=catch_c["c0"], y1=catch_c["c1"]),
+                                      words=[nxt["w"]], ids=[nxt["c"]]))
+        spill[key] = len(ws) - start - cuts[end]
         report[name] = (len(ls), end, len(ws), cost)
         if big:
             out_lines.append(dict(k=key, l=big, words=[ws[0]["w"]], ids=[ws[0]["c"]], big=True))
@@ -545,7 +674,7 @@ def amud_page(masechet, daf, amud, check=False):
     ye = [o["l"]["c1"] for o in out_lines]
     pad = 40
     X0, Y0 = min(xs) - pad, min(ys) - 2 * pad
-    page = dict(ref=ref, w=max(xe) - X0 + pad, h=max(ye) - Y0 + 2 * pad, font=font,
+    page = dict(ref=ref, spill=spill, w=max(xe) - X0 + pad, h=max(ye) - Y0 + 2 * pad, font=font,
                 head=[dict(h, x=h["x"] - X0, y=h["y"] - Y0) for h in head_out], lines=[])
     for o in sorted(out_lines, key=lambda o: (o["l"]["c1"], -o["l"]["x1"])):
         l = o["l"]
@@ -558,7 +687,7 @@ def amud_page(masechet, daf, amud, check=False):
     # an unusual page (the end of a masechet, a page with little commentary) can come out wrong;
     # without a file the site lays the amud out from the text instead
     if check: draw_check(img, page, X0, Y0, Path.cwd() / f"{path.stem}.check.png")
-    bad = [k for k, r in report.items() if r[-1] > (0.8 if k == "gemara" else 1.0)
+    bad = [k for k, r in report.items() if r[-1] > (1.0 if k == "gemara" else 1.2)
            or (k != "gemara" and r[0] - r[1] > max(3, 0.2 * r[0]))]
     if bad or "gemara" not in report:
         path.unlink(missing_ok=True)

@@ -603,6 +603,7 @@ function vilnaView(amud, ref, data) {
         span.addEventListener("mouseleave", () => light(["g" + id], false));
         return span;
       }
+      if (id == null) return el("span", { class: "vw cm" }, w);    // carried over from the amud before
       const key = `${l.k}-${id[0]}-${id[1]}`, keys = [key, "g" + id[0]];
       const span = el("span", { class: "vw cm" + (l.k === "t" && (l.first || []).includes(j) ? " dh" : "") }, w);
       add(key, span);
