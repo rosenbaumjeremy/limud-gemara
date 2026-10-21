@@ -1,0 +1,1415 @@
+{
+ "ref": "Bekhorot 33",
+ "date": "2026-10-21",
+ "he": {
+  "overview": "הדף עוסק ברצף דינים בבכור ובפסולי המוקדשין. בעמוד א׳ נידונה אכילת בכור בעל מום לזרים, לגויים ולנדות לפי בית הלל ובית שמאי, שלושת ה״צבי ואיל״, והברייתא ״אין מרגילין ביום טוב ובבכור״. בעמוד ב׳ מסיימת הגמרא את בירור טעמי האיסור (בזיון קדשים וגזירת עדרים), ועוברת למשנה בבכור שאחזו דם ולמחלוקת רבי יהודה, חכמים ורבי שמעון, ומקשרת אותה לחבית של תרומה ולמחלוקת הפסוקים ״כל מום לא יהיה בו״. הראשונים והאחרונים דנים בקל וחומר של בית הלל, בפירוש ״צבי ואיל״ של רבנו תם, בפסק הרמב״ם המתיר להרגיל בבכור אל מול הטור והשולחן ערוך, ובהלכה כרבי שמעון בדבר שאין מתכוין.",
+  "title": "סיכום — בכורות ל״ג"
+ },
+ "en": {
+  "overview": "The daf deals with a series of laws about the firstborn and disqualified consecrated animals. On amud a, the Gemara discusses eating a blemished firstborn by non-priests, gentiles and menstruants according to Beit Hillel and Beit Shammai, the three occurrences of 'gazelle and deer', and the baraita 'one may not hold the hide whole on a festival or for a firstborn'. On amud b, it completes its inquiry into the reasons for that prohibition (disrespect to sacred items and the flocks decree), then turns to the mishnah about a firstborn seized by blood and the dispute of Rabbi Yehudah, the Sages and Rabbi Shimon, linking it to the barrel of terumah and to the verse dispute over 'any blemish shall not be in it'. The Rishonim and Acharonim discuss Beit Hillel's kal vachomer, Rabbeinu Tam's explanation of 'gazelle and deer', the Rambam's permission to hold the hide whole of a firstborn against the Tur and Shulchan Arukh, and the ruling like Rabbi Shimon on an unintended result.",
+  "title": "Summary — Bekhorot 33"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 12,
+   "anchors": [
+    "בפסולי המוקדשין"
+   ],
+   "he": {
+    "term": "פסולי המוקדשין",
+    "explanation": "קדשים שנפל בהם מום ונפסלו מהקרבה. הם נפדים ויוצאים לחולין לאכילה, אך כל עוד לא נפדו, וגם אחר כך בדינים מסוימים, נשארת בהם קדושה. הגמרא בוחנת כאן אם יש בהם בזיון קדשים בהפשטת העור."
+   },
+   "en": {
+    "term": "Pesulei hamukdashin (disqualified consecrated animals)",
+    "explanation": "Consecrated animals that developed a blemish and are disqualified from the altar. They can be redeemed and eaten as ordinary food, but some sanctity remains, and the Gemara here asks whether flaying their hide whole shows disrespect to sacred items."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33a:12:2",
+    "quote": "אע\"פ שנפדו ושחטן לאכילה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 12,
+   "anchors": [
+    "אין מרגילין"
+   ],
+   "he": {
+    "term": "אין מרגילין",
+    "explanation": "איסור להפשיט בהמה שלמה דרך רגליה כדי להוציא את העור שלם, כגון לעשות ממנו מפוח לנפחים או נוד. הדבר נאסר ביום טוב בגלל הטירחה, ובבכור ובפסולי המוקדשין בגלל בזיון קדשים וגזירה."
+   },
+   "en": {
+    "term": "Ein margilin (not flaying the hide whole by the legs)",
+    "explanation": "A prohibition against flaying an animal whole through its legs so the hide comes out in one piece, for example to make a smith's bellows or a skin-bag. It is forbidden on a festival because of the toil, and for a firstborn and disqualified consecrated animals because of disrespect to sacred items and a protective decree."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33a:12:1",
+    "quote": "להפשיטו דרך הרגלים כל העור שלם לעשות ממנו מפוח לנפחים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "טוּמְאָה יוֹצְאָה עָלָיו מִגּוּפוֹ"
+   ],
+   "he": {
+    "term": "טומאה יוצאה מגופו",
+    "explanation": "טומאה שמקורה בגופו של האדם, כזב, זבה, נדה, יולדת ומצורע, בניגוד לטומאה שנגעה בו מבחוץ כטומאת מת. לגבי פסח שבא בטומאה, ההיתר לאכול ממנו ניתן רק לטמאי מת."
+   },
+   "en": {
+    "term": "Tum'ah yotze'ah migufo (impurity issuing from the body)",
+    "explanation": "Impurity whose source is the person's own body, such as a zav, zavah, niddah, a woman after childbirth and a metzora, as opposed to impurity that came from outside, like corpse impurity. For a Pesach brought in impurity, the permission to eat applies only to those impure from a corpse."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33a:10:1",
+    "quote": "אלמא שני לן בין טומאה היוצאה מגופו לטומאה שאינה יוצאה מגופו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "שאחזו דם"
+   ],
+   "he": {
+    "term": "בכור שאחזו דם",
+    "explanation": "בכור שנתקף במחלה של עודף דם, שאם לא יקיזו אותו עלול למות. ההקזה במקומות מסוימים (אוזן, ניב שפתיים) עושה מום קבוע, ומכאן המחלוקת אם מותר להקיז."
+   },
+   "en": {
+    "term": "Bekhor she'achazo dam (a firstborn seized by blood)",
+    "explanation": "A firstborn struck with an excess of blood, which may die if not bled. Bleeding it in certain places (the ear, the lip) makes a permanent blemish, hence the dispute whether bleeding is permitted."
+   },
+   "source": {
+    "who": {
+     "he": "הרא״ש",
+     "en": "Rosh"
+    },
+    "ref": "Rosh on Bekhorot 5:4:2",
+    "quote": "כגון שאחזו דם ביותר ואם לא יקיז לו ודאי ימות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "בְּמֵטִיל מוּם בְּבַעַל מוּם"
+   ],
+   "he": {
+    "term": "מטיל מום בבעל מום",
+    "explanation": "הוספת מום בבהמה שכבר יש בה מום. רבי מאיר לומד מ״כל מום לא יהיה בו״ שאסור, וחכמים לומדים מ״תמים יהיה לרצון״ שהאיסור הוא רק בתמים. בענין בכור שאחזו דם הוא עיקר המחלוקת."
+   },
+   "en": {
+    "term": "Metil mum be-ba'al mum (causing a blemish in an already blemished animal)",
+    "explanation": "Adding a blemish to an animal that already has one. Rabbi Meir learns from 'any blemish shall not be in it' that this is forbidden, while the Sages learn from 'unblemished for acceptance' that the prohibition is only for an unblemished one. This is the heart of the dispute about a firstborn seized by blood."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33b:17:2",
+    "quote": "וקרי ביה לא יהיה בו שלא יטיל מום"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "דגרמא"
+   ],
+   "he": {
+    "term": "גרמא",
+    "explanation": "גרימת תוצאה בעקיפין, ולא עשייה ישירה ב״ידיים״. בסוגיה נבדק אם גרמא בהטלת מום או בטומאה אסורה כמו עשייה בידיים."
+   },
+   "en": {
+    "term": "Gerama (indirect causation)",
+    "explanation": "Causing a result indirectly, not by direct action 'with the hands'. The passage tests whether indirectly causing a blemish or impurity is forbidden like acting directly."
+   },
+   "source": {
+    "who": {
+     "he": "ספר יראים",
+     "en": "Sefer Yereim"
+    },
+    "ref": "Sefer Yereim 344:1",
+    "quote": "והיכי דמי גרמא שלא יתן דבילה או בצק על גבי האוזן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "בִּמְקוֹם הַתּוּרְפָּה"
+   ],
+   "he": {
+    "term": "מקום התורפה",
+    "explanation": "מקום מגולה ובלתי משומר, שאינו מוצנע. במחלוקת רבי אליעזר ורבי יהושע בחבית של תרומה נדון אם להניחה במקום מוצנע או במקום תורפה."
+   },
+   "en": {
+    "term": "Makom hatorpah (the exposed place)",
+    "explanation": "An uncovered, unguarded place, not a hidden one. In the dispute of Rabbi Eliezer and Rabbi Yehoshua about a barrel of terumah, the question is whether to place it in a hidden place or in the exposed place."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33b:8:1",
+    "quote": "במקום גילוי ואינו משומר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 15,
+   "anchors": [
+    "בִּמְחַמֵּץ אַחַר מְחַמֵּץ"
+   ],
+   "he": {
+    "term": "מחמץ אחר מחמץ",
+    "explanation": "אדם שמסייע בחימוץ מנחה אחרי שאחר כבר התחיל בו, כגון אחד לש ואחר אופה. לדברי רבי יוחנן הכל מודים שהוא חייב."
+   },
+   "en": {
+    "term": "Mechamets achar mechamets (one who leavens after another)",
+    "explanation": "A person who adds to the leavening of a meal-offering after another has begun, for example one kneads and another bakes. Rabbi Yochanan says everyone agrees he is liable."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 33b:15:1",
+    "quote": "אם לש האחד בחימוץ ואפאה אחר שניהם חייבין"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "בכור בעל מום: אכילת זר, נדות וגוי (קל וחומר בית הלל ורבי עקיבא)",
+    "gemara": "בית הלל מתירים לאכול בכור בעל מום לזר: הכתוב ״הטמא והטהור יחדיו יאכלנו״, וקל וחומר – טמא שאינו אוכל בקדשים קלים אוכל בבכור, זר שאוכל בקדשים קלים לא כל שכן. הגמרא פורכת: ״מה לטמא שכן הותר מכללו בעבודת ציבור״, ומשיבה שהדיון באכילה ולא בעבודה, ושם אכילת זר עדיפה. רבי עקיבא מתיר ״ואפילו גוי״, מ״כצבי וכאיל״ – מה צבי ואיל מותר לגוי, אף פסולי המוקדשין מותר לגוי.",
+    "halakha": "ספר יראים: ״אבל לגוי ולכלבים מותר דקימ״לן במתני׳ אליבא דב״ה״ – נפסק כמשנה כבית הלל."
+   },
+   "en": {
+    "title": "A blemished firstborn: eating by a non-priest, a niddah and a gentile (Beit Hillel's kal vachomer and Rabbi Akiva)",
+    "gemara": "Beit Hillel permit a blemished firstborn to a non-priest: the verse says 'the impure and the pure alike shall eat it', and by a kal vachomer, an impure priest, who may not eat lesser sacrifices, eats the firstborn, so a non-priest, who does eat lesser sacrifices, surely may. The Gemara refutes: 'what of the impure, who was permitted out of the general rule for public service?', and answers that the question is eating, not service, and in eating the non-priest is preferred. Rabbi Akiva permits it 'even to a gentile', from 'as the gazelle and the deer': as a gazelle and deer are permitted to a gentile, so are disqualified consecrated animals.",
+    "halakha": "Sefer Yereim: 'But to a gentile and to dogs it is permitted, for we rule like the mishnah according to Beit Hillel.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:1:1",
+     "quote": "איתקש לחזה ושוק דהא קרא בתם קמשתעי",
+     "he": "״ובשרם יהיה לך כחזה התנופה״ מדבר בבכור תם והוקש לחזה ושוק; בעל מום נאמר בפרשת ראה ״הטמא והטהור יחדו״.",
+     "en": "'Their flesh shall be yours like the breast' speaks of an unblemished firstborn, which is compared to the breast and thigh; a blemished one is written in Parashat Re'eh: 'the impure and the pure alike'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:2:1",
+     "quote": "דאם אין כהן טהור באותו בית אב עושה טמא עבודת צבור",
+     "he": "מפרש ״הותר מכללו בעבודת ציבור״: אם אין כהן טהור באותו בית אב, הטמא עושה עבודת ציבור.",
+     "en": "Explaining 'permitted out of the general rule in public service': if no pure priest is in that father's house, the impure one performs the public service."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:3:1",
+     "quote": "ובאכילה זר עדיף מטמא",
+     "he": "הדיון באכילה, ושם זר עדיף מטמא, כי כהן טמא אינו מותר באכילה שזר אסור בה.",
+     "en": "The discussion is about eating, and there a non-priest is preferred to an impure priest, since there is no eating that an impure priest may do and a non-priest may not."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33a:2",
+     "quote": "שכן הותר מכללו בעבודת ציבור כדכתיב במועדו ואפי' בטומאה",
+     "he": "הפרכה: ״מה לכהן טמא״ – דין הוא שאוכל בכור, שכן הותר מכללו בעבודת ציבור, כמו ״במועדו״ ואפילו בטומאה.",
+     "en": "The refutation: 'what of an impure priest' – it is logical that he eats a firstborn, since he was permitted out of the general rule in public service, as 'in its appointed time' even in impurity."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33a:3",
+     "quote": "מה צבי ואיל מותר להאכיל העובד כוכבים עמו אף בכור נמי",
+     "he": "בית הלל מתירים לפי שאכילת זר עדיפה; ו״מה צבי ואיל מותר להאכיל העובד כוכבים עמו, אף בכור נמי״.",
+     "en": "Beit Hillel permit it because eating by a non-priest is preferable; 'as a gazelle and deer may be fed to a gentile with him, so too a firstborn'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 33a:1:1",
+     "quote": "אתי קל וחומר ומפיק מהיקשא",
+     "he": "אף שהפסוק עוסק גם בבעל מום, בכל זאת ״אתי קל וחומר ומפיק מהיקשא״ ונאכל לזרים, כיון שההיקש ״כחזה התנופה״ עומד בתם.",
+     "en": "Even though the verse also deals with a blemished animal, a kal vachomer comes and removes it from the comparison, and it may be eaten by non-priests, since the comparison to the breast stands for the unblemished one."
+    },
+    {
+     "who": {
+      "he": "תוספות (זבחים)",
+      "en": "Tosafot (Zevachim)"
+     },
+     "ref": "Tosafot on Zevachim 104a:10:1",
+     "quote": "מתיר רבי עקיבא אפילו לעובדי כוכבים",
+     "he": "תוספות בזבחים מציינים שבפרק כל פסולי המוקדשין (בכורות) רבי עקיבא מתיר את הבכור בעל מום אפילו לעובדי כוכבים.",
+     "en": "Tosafot in Zevachim note that in our chapter (Bekhorot) Rabbi Akiva permits the blemished firstborn even to gentiles."
+    },
+    {
+     "who": {
+      "he": "ספר יראים",
+      "en": "Sefer Yereim"
+     },
+     "ref": "Sefer Yereim 142:2",
+     "quote": "אבל לגוי ולכלבים מותר דקימ\"לן במתני' אליבא דב\"ה",
+     "he": "הוא פוסק שלגוי ולכלבים מותר, כי נפסק במשנה כבית הלל.",
+     "en": "He rules that it is permitted to a gentile and to dogs, since we rule like the mishnah according to Beit Hillel."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 33a:1",
+     "quote": "אבל פשוט דרש\"י פי' אליבא דר\"נ ביומא … דטומאה הותרה בצבור",
+     "he": "רש״י פירש לפי רב נחמן ביומא, שטומאה הותרה בציבור.",
+     "en": "Rashi explains this according to Rav Nachman in Yoma, that impurity is permitted for the community."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 1:19:1",
+     "quote": "וזה קו\"ח אלים, אולם אם ניזיל בתר טעמא תו ליכא לקו\"ח",
+     "he": "הוא קורא לקל וחומר של בית הלל ״אלים״, אך מוסיף שאם הולכים אחר הטעם (שהבכור מתנת כהונה והתורה עשתה סייג שלא יאכלנו אלא הכהן) אין עוד קל וחומר.",
+     "en": "He calls Beit Hillel's kal vachomer a strong one, but adds that if one follows the reasoning (the firstborn is a priestly gift, and the Torah fenced it so only the priest eats it) there is no longer a kal vachomer."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Yoreh Deah 194:3",
+     "quote": "צריך להבין טעמא דב\"ש דלא יליף ק\"ו מטמא",
+     "he": "יש להבין מדוע בית שמאי אינם לומדים קל וחומר מטמא, ומבאר שהם רואים בו פרכה: ״מה לטמא שכן הותר בעבודה״.",
+     "en": "One must understand why Beit Shammai do not learn a kal vachomer from the impure priest; he explains they see it as refutable: 'what of the impure, who was permitted in service'."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 15:22:2",
+     "quote": "ומ\"ש וזרים לא כש\"כ הוא דכיון שאוכל בקדשים קלים",
+     "he": "מבאר את הקל וחומר: כיון שזר אוכל בקדשים קלים, לא כל שכן שאוכל בבכור בעל מום, ואילו טמא אינו אוכל בקדשים קלים.",
+     "en": "He explains the kal vachomer: since a non-priest eats lesser sacrifices, all the more so may he eat a blemished firstborn, while an impure person may not eat lesser sacrifices."
+    },
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Numbers 18:18:1",
+     "quote": "והכהן יוכל לזמן את ישראל לאכילת בכור בעל מום ואפילו נכרי",
+     "he": "הכהן יכול לזמן ישראל, ואפילו נכרי, לאכילת בכור בעל מום, מ״הטמא והטהור יאכלנו כצבי וכאיל״.",
+     "en": "The priest may invite an Israelite, even a gentile, to eat a blemished firstborn, from 'the impure and the pure shall eat it, like the gazelle and the deer'."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    6
+   ],
+   "he": {
+    "title": "שלושה ״צבי ואיל״ – מה לומדים מהם",
+    "gemara": "לדעת הת״ק (״ואידך״) נכתבו שלוש פעמים ״צבי ואיל״: אחד כדברי רבי יצחק, אחד כדברי רבי אושעיא ואחד כדברי רבי אלעזר הקפר. ולמאן דאמר ״ואידך״ נוסף: מה צבי ואיל פטורים מן הבכורה, אף פסולי המוקדשין פטורים מן הבכורה.",
+    "halakha": "הרמב״ם: קדשים שקדם להם מום עובר להקדשם, או שהוקדשו תמימים ואחר כך נולד להם מום קבוע ונפדו – פטורים מן הבכורה."
+   },
+   "en": {
+    "title": "The three occurrences of 'gazelle and deer' and what is learned from them",
+    "gemara": "According to the other view, 'gazelle and deer' is written three times: one as Rabbi Yitzchak taught, one as Rabbi Oshaya, and one as Rabbi Elazar HaKappar. And the other view adds: as the gazelle and deer are exempt from the firstborn law, so too disqualified consecrated animals are exempt from the firstborn law.",
+    "halakha": "Rambam: consecrated animals where a passing blemish preceded their consecration, or that were consecrated unblemished and later developed a permanent blemish, and were redeemed – are exempt from the firstborn law."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:5:1",
+     "quote": "תלתא צבי ואיל כתיבי בראה אנכי חד לכדרבי יצחק ורבי אושעיא ולא נתפרש לנו היכן",
+     "he": "שלושה ״צבי ואיל״ כתובים בפרשת ראה; אחד לרבי יצחק ורבי אושעיא, ״ולא נתפרש לנו היכן״.",
+     "en": "Three 'gazelle and deer' are written in Parashat Re'eh; one for Rabbi Yitzchak and Rabbi Oshaya, 'and it was not made clear to us where'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33a:4",
+     "quote": "מקיש צבי ואיל לבהמה מה בהמה בשחיטה אף צבי ואיל בשחיטה",
+     "he": "האחד לרבי אלעזר הקפר: מקיש צבי ואיל לבהמה – מה בהמה בשחיטה, אף צבי ואיל בשחיטה.",
+     "en": "One is for Rabbi Elazar HaKappar: it compares gazelle and deer to livestock – as livestock require slaughter, so do gazelle and deer."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 33a:5:1",
+     "quote": "ורבינו חננאל מפרש דהיינו ההיא דפ\"ב דמכות",
+     "he": "תוספות מביאים שרבנו חננאל מפרש שהכוונה לדרשת מכות: המרביע או המנהיג שור פסולי המוקדשין לוקה, כי נחשב כצבי וכאיל, שני מינים.",
+     "en": "Tosafot cite Rabbeinu Chananel, who explains this as the teaching in Makkot: one who mates or drives a disqualified consecrated ox is flogged, since it is treated as gazelle and deer, two kinds."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 115b:2:1",
+     "quote": "ובהכי מיישב ר\"ת הא דאמר בפ' כל פסולי המוקדשין",
+     "he": "רבנו תם מיישב בכך את מה שנאמר בפרקנו, שגם רבי יצחק ורבי אושעיא נלמדים מ״צבי ואיל״ – כי הוקש לצבי ואיל נחשב כשני מינים.",
+     "en": "Rabbeinu Tam uses this to resolve what is said in our chapter, that Rabbi Yitzchak's and Rabbi Oshaya's teachings come from 'gazelle and deer' – being compared to them makes it count as two kinds."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Makkot 22a:14:1",
+     "quote": "ור\"ת פירש בענין אחר כמין חומר דכתיב ביה כצבי וכאיל שהם ב' מינין",
+     "he": "הקונטרס פירש לפי גרסתו, ורבנו תם פירש שהכתוב עשאו כצבי ואיל, ״שהם ב׳ מינין״.",
+     "en": "The Kuntres explains according to its reading, while Rabbeinu Tam explains that Scripture made it like gazelle and deer, 'which are two kinds'."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Menachot, Hilchot Kilayim 5:4",
+     "quote": "ופר\"ת דעשאו הכתוב כצבי וכאיל והמנהיג בצבי ואיל לוקה דב' מינין הן",
+     "he": "הרא״ש מביא את פירוש רבנו תם: ״עשאו הכתוב כצבי וכאיל״, והמנהיג בצבי ואיל לוקה כי הם שני מינים, ומכאן מוכח מהסוגיה בבכורות.",
+     "en": "The Rosh cites Rabbeinu Tam's explanation: Scripture made it 'like gazelle and deer', and one who drives gazelle and deer together is flogged because they are two kinds; the passage in Bekhorot supports this."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Makkot 22a:10",
+     "quote": "ורבינו מאיר הלוי ז\"ל פי' דהואיל והבשר והעור שני מינין הם",
+     "he": "הריטב״א מביא את רבינו מאיר הלוי, הסבור שהבשר והעור נחשבים שני מינים, ואף שהוא מוצא את כל הפירושים הללו תמוהים, הוא מציין שרבנו תם פירש סמוך לפטירתו כפירוש התוספות.",
+     "en": "The Ritva cites Rabbeinu Meir HaLevi, who held that the flesh and the hide count as two kinds, and, though he finds all these explanations puzzling, notes that Rabbeinu Tam explained as Tosafot do near the end of his life."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 5:8",
+     "quote": "ואם קדם מום עובר להקדשן או שהקדישן תמימים ואחר כך נולד להם מום קבוע ונפדו פטורין מן הבכורה",
+     "he": "הרמב״ם פוסק שהקדשים שקדם להם מום עובר, או שנולד להם מום קבוע אחר הקדשם, נפדו ופטורים מן הבכורה – כי אסורים בגיזה ועבודה ולא יצאו לחולין לכל דבר.",
+     "en": "The Rambam rules that consecrated animals with a prior passing blemish, or that developed a permanent blemish after consecration and were redeemed, are exempt from the firstborn law, since they remain forbidden for shearing and work and did not fully become ordinary."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חידושי הלכות (מהרש״א)",
+      "en": "Chidushei Halachot (Maharsha)"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 33a:1",
+     "quote": "צ\"ע מאי קאמר ואידך דהיינו לכאורה רבי עקיבא",
+     "he": "מעיר שיש לעיין מי הוא ״ואידך״ – לכאורה רבי עקיבא, וממשיך לדון בגרסת הסוגיה.",
+     "en": "He notes that it needs study who 'the other view' is – apparently Rabbi Akiva – and goes on to discuss the reading of the passage."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Deuteronomy 12:22:1",
+     "quote": "תלתא כצבי וכאיל כתיבי ובספרי דריש ג' דרשות",
+     "he": "המלבי״ם מזכיר שבספרי נדרשות שלוש דרשות מ״צבי ואיל״, ושרבי אלעזר הקפר דורש מכאן שחיה צריכה שחיטה, כשיטת הגמרא בבכורות.",
+     "en": "The Malbim notes that the Sifrei expounds three teachings from 'gazelle and deer', and that Rabbi Elazar HaKappar derives from here that a wild animal needs slaughter, in line with the Gemara in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Sanhedrin 73a:10",
+     "quote": "ולא ידעתי למה מסופקים התוס' בזה",
+     "he": "מציין את דרשות הגמרא בבכורות משלוש ״צבי ואיל״, ותוהה מדוע התוספות מסופקים בענין.",
+     "en": "He points to the three teachings from 'gazelle and deer' in Bekhorot, and is puzzled why Tosafot are in doubt about it."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 12:15:6",
+     "quote": "ובבכורות שם אמרו מפורש בצריכות הלשון כצבי וכאיל דכתיב ג' פעמים בפרשה זו",
+     "he": "מציין שבבכורות מפורש הצורך בלשון ״כצבי וכאיל״ הכתוב שלוש פעמים בפרשה, ושבהתאם לפירוש רבנו תם נקבעה דרשת מכות.",
+     "en": "He notes that Bekhorot states explicitly why the wording 'like the gazelle and the deer' is needed, being written three times in the passage, and that the Makkot teaching fits Rabbeinu Tam's explanation."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    11
+   ],
+   "he": {
+    "title": "מאכילין בכור לנדות? מחלוקת בית שמאי ובית הלל",
+    "gemara": "בית שמאי: אין מאכילין בכור לנדות, מ״ובשרם יהיה לך כחזה התנופה״ – מה שם נדות לא, אף כאן נדות לא. בית הלל: זה בתם, אך בבעל מום נאמר ״הטמא והטהור יאכלנו״. ובית שמאי מחלקים בין טומאה היוצאה עליו מגופו ובין שאינה יוצאה, כבפסח הבא בטומאה שבו זבים, מצורעים, זבות, נדות ויולדות לא אוכלים. בית הלל משיבים: שם נאמר ״טמא נפש״, אך כאן נאמר ״טמא״ סתם."
+   },
+   "en": {
+    "title": "May a firstborn be fed to a niddah? Beit Shammai versus Beit Hillel",
+    "gemara": "Beit Shammai: a firstborn may not be fed to menstruants, from 'their flesh shall be yours like the breast': as there niddot may not eat, so here. Beit Hillel: that is for an unblemished one, but for a blemished one it says 'the impure and the pure shall eat it'. Beit Shammai distinguish between impurity that issues from one's body and impurity that does not, as with a Pesach brought in impurity, which zavim, metzora'im, zavot, niddot and women after childbirth may not eat. Beit Hillel answer: there Scripture says 'impure by a soul', while here it says 'impure' without qualification."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:7:1",
+     "quote": "חזה ושוק נדות לא דטמא שאכל את הקדש חייב בכרת",
+     "he": "״מה התם נדות לא״ – בחזה ושוק נדות אינן אוכלות, כי טמא שאכל את הקדש חייב כרת.",
+     "en": "'As there niddot may not' – niddot do not eat the breast and thigh, since an impure person who eats a sacred item is liable to karet."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:10:1",
+     "quote": "אלמא שני לן בין טומאה היוצאה מגופו לטומאה שאינה יוצאה מגופו",
+     "he": "הפסח שבא בטומאה: זבים וזבות אינם אוכלים ממנו אף על פי שטמאי מתים אוכלים – ״אלמא שני לן״ בין טומאה היוצאה מגופו לשאינה יוצאה.",
+     "en": "A Pesach brought in impurity: zavim and zavot do not eat from it even though those impure from a corpse do – 'so the Torah distinguishes' between impurity issuing from the body and impurity that does not."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:11:1",
+     "quote": "איש נדחה לפסח שני ולא צבור",
+     "he": "בית הלל: ״טמא נפש״ נאמר במפורש; ממנו דורשים ״איש נדחה לפסח שני ולא צבור״, אך טומאת זבות כדקיימי קיימי, ובבכור כתוב ״טמא״ סתם.",
+     "en": "Beit Hillel: 'impure by a soul' is stated explicitly; from it we learn 'an individual is deferred to the Second Pesach but not the community', whereas the impurity of zavot stands as it is, and for the firstborn Scripture says 'impure' without qualification."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33a:5",
+     "quote": "התם דגלי רחמנא טמא נפש למעוטי טומאה יוצאה מגופו",
+     "he": "״לנדות״ – נשי כהנים; טומאתן יוצאה מגופן, ושם גילתה התורה ״טמא נפש״ למעט טומאה היוצאה מגופו.",
+     "en": "'To niddot' means priests' wives; their impurity issues from the body, and there the Torah revealed 'impure by a soul' to exclude impurity issuing from the body."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 33a:7:1",
+     "quote": "ה\"ה לבעל קרי דלא שרו רק לטומאה שהותרה בפסח",
+     "he": "אותו דין חל גם על בעל קרי, כי הותרה רק הטומאה שהותרה בפסח.",
+     "en": "The same applies to a man with a seminal emission, since only the impurity that was permitted for the Pesach is permitted."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Paschal Offering 7:8",
+     "quote": "אבל הטמאים שהטומאה יוצאה עליהן מגופן כגון זבים וזבות נדות ויולדות ומצורעים לא יאכלו ממנו",
+     "he": "הרמב״ם פוסק לגבי פסח שהקריבוהו בטומאה: הטמאים שטומאתם יוצאה מגופם, כזבים, זבות, נדות, יולדות ומצורעים, לא יאכלו ממנו.",
+     "en": "The Rambam rules on a Pesach brought in impurity: those whose impurity issues from their bodies, such as zavim, zavot, niddot, women after childbirth and metzora'im, may not eat from it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 4:12",
+     "quote": "שלא נדחית אלא טומאת המת בלבד",
+     "he": "הרמב״ם קובע שלא נדחית אלא טומאת המת בלבד, ולכן שאר טמאים אינם מתעסקים ואינם נכנסים לעזרה.",
+     "en": "The Rambam states that only impurity from a corpse is set aside, so other impure people may not take part and may not enter the Temple court."
+    },
+    {
+     "who": {
+      "he": "רדב״ז ומהרי״ק",
+      "en": "Radbaz and Mahari Kurkus"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Admission into the Sanctuary 4:12:4",
+     "quote": "שלא ניתנה לדחות אלא טומאת מת",
+     "he": "הרדב״ז מבאר שההיתר לא ניתן אלא לדחות טומאת מת, ושאר טמאים נשארים באיסורם.",
+     "en": "The Radbaz explains that the permission was given only to set aside corpse impurity, and other impure people remain under their prohibition."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Khukkat 12",
+     "quote": "אבל טומאה היוצאת מגופן לא הותרה בצבור",
+     "he": "טומאת מת הותרה בציבור, אך ״טומאה היוצאת מגופן לא הותרה בצבור״, כפי ששנויה בבכורות ל״ג.",
+     "en": "Corpse impurity is permitted for the community, but 'impurity issuing from the body is not permitted for the community', as taught in Bekhorot 33."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 9:10:5",
+     "quote": "דגלי רחמנא רק בטומאה שאינה יוצאה מגופו",
+     "he": "התורה גילתה רק לגבי טומאה שאינה יוצאה מגופו, ולכן בטומאות היוצאות מהגוף גם הציבור נדחים.",
+     "en": "The Torah revealed this only for impurity that does not issue from the body, so for impurities that issue from the body the community too is deferred."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Paschal Offering 7:8:3",
+     "quote": "שבענין האכילה נמשך רבינו על הסוגייא דבכורות דמחלק בין טומאה יוצאה מגופו לאין יוצאה",
+     "he": "הרמב״ם נמשך בענין האכילה אחר סוגיית בכורות המחלקת בין טומאה יוצאה מגופו לשאינה יוצאה, וכך מיושבת הסתירה בדבריו.",
+     "en": "In the matter of eating, the Rambam follows the passage in Bekhorot that distinguishes between impurity issuing from the body and impurity that does not, which resolves the apparent contradiction in his words."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 15:22:2",
+     "quote": "אבל טמא אינו אוכל בקדשים קלים",
+     "he": "מבאר שרבותא בית הלל היא שבכור בעל מום מותר אפילו לזרים ולנדות, אף על פי שנאמר בתם ״ובשרם יהיה לך כחזה התנופה״.",
+     "en": "He explains that Beit Hillel's novelty is that a blemished firstborn is permitted even to non-priests and to niddot, even though of the unblemished one it says 'their flesh shall be yours like the breast'."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    12,
+    4
+   ],
+   "he": {
+    "title": "״אין מרגילין״ – ביום טוב, בבכור ובפסולי המוקדשין",
+    "gemara": "ברייתא: אין מרגילין ביום טוב, וכיוצא בו אין מרגילין בבכור ולא בפסולי המוקדשין. ביום טוב – הוא טורח טירחא שאינה לצורך. בבכור, לדברי רב חסדא, זו שיטת בית שמאי שאין מאכילין אותו לנדות; בפסולי המוקדשין – רבי אלעזר ברבי שמעון, המחמיר בהן אף לאחר שחיטה. הגמרא מקשה מדוע לא להעמיד הכול כאחד, ומחלקת: בית שמאי אמרו זאת בבכור שקדושתו מרחם, ורבי אלעזר ברבי שמעון בפסולי המוקדשין שיכולים להיפדות. אך רבי אלעזר ברבי שמעון עצמו הרי מתיר למכרם באיטליז כשיש רווח להקדש. רב מרי: ״מה שמשביח בעור פוגם בבשר״; במערבא: ״מפני שנראה כעובד עבודה בקדשים״; רבי יוסי בר אבין: גזירה ״שמא יגדל מהן עדרים עדרים״.",
+    "halakha": "שולחן ערוך (יורה דעה ש״ז:א׳): ״אין מרגילין בבכור, דהיינו להפשיט עורו שלם דרך מרגלותיו״; ובאורח חיים תצ״ט:א׳: ״אין מרגילין ביום טוב״. הרמב״ם התיר בבכור בעל מום (הלכות בכורות א׳:י״ט)."
+   },
+   "en": {
+    "title": "'One may not hold the hide whole' – on a festival, with a firstborn and with disqualified consecrated animals",
+    "gemara": "A baraita: one may not flay the animal whole by the legs on a festival, and likewise not a firstborn or disqualified consecrated animals. On a festival it is needless toil. For the firstborn, says Rav Chisda, this is Beit Shammai's view that it may not be fed to menstruants; for disqualified consecrated animals it is Rabbi Elazar son of Rabbi Shimon, who is strict with them even after slaughter. The Gemara asks why not attribute all to one, and answers: Beit Shammai said this of a firstborn, whose sanctity is from the womb, and Rabbi Elazar of animals that can be redeemed. But Rabbi Elazar himself permits selling them in the butcher shop when the sanctuary profits. Rav Mari: 'what improves the hide spoils the meat'; in the West: 'because he looks like one performing service with sacred items'; Rabbi Yose bar Avin: a decree lest he raise 'flocks upon flocks' of them.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 307:1): 'one may not flay a firstborn whole by its legs'; and (Orach Chayim 499:1): 'one may not do so on a festival'. The Rambam permitted it for a blemished firstborn (Hilchot Bekhorot 1:19)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:12:1",
+     "quote": "להפשיטו דרך הרגלים כל העור שלם לעשות ממנו מפוח לנפחים",
+     "he": "״אין מרגילין״ – להפשיט דרך הרגלים את כל העור שלם, כדי לעשות ממנו מפוח לנפחים; ואפילו בבכור בעל מום.",
+     "en": "'One may not hold the hide whole' – to flay it by the legs, the whole hide in one piece, to make a bellows for smiths from it; even a blemished firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33a:13:2",
+     "quote": "ב\"ש היא דסברי בכור בעל מום בקדושתו קאי אפי' לאחר שחיטה",
+     "he": "זו שיטת בית שמאי, הסבורים שבכור בעל מום עומד בקדושתו אפילו לאחר שחיטה, ולכן יש בו בזיון קדשים.",
+     "en": "This is Beit Shammai's view, that a blemished firstborn remains in its sanctity even after slaughter, so there is disrespect to sacred items."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:3:2",
+     "quote": "דבזיון גדול הוא שנראה כעובד עבודה בקדשים שמוכרין העור לצורך מפוח",
+     "he": "״במערבא אמרי״ נאמר על הכול: דברי הכל אסור להרגיל, כי זה בזיון גדול שנראה כעובד עבודה בקדשים.",
+     "en": "'In the West they say' applies to all: everyone agrees one may not do this, for it is a great disrespect, looking like performing service with sacred items."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:4:1",
+     "quote": "אתי לשהוייה מלשחוט עד שימצא בני אדם המבקשים עורות שלימים",
+     "he": "אם יותר לו, ״אתי לשהוייה מלשחוט״ עד שימצא מי שמבקש עורות שלמים, ויגדל עדרים ויבוא לתקלה בגיזה ועבודה.",
+     "en": "If it were allowed, he would delay slaughtering until he finds people wanting whole hides, and would raise flocks and come to stumble in shearing and working them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:2",
+     "quote": "דמה שמשביח בעור פוגם בבשר שמחתכו ומנוולו",
+     "he": "לפי לשון אחרת, אין רווח להקדש, כי מה שמשביח בעור פוגם בבשר, שמחתך אותו ומנוול אותו.",
+     "en": "According to another version there is no gain for the sanctuary, since what improves the hide spoils the meat, which he cuts and disfigures."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:3",
+     "quote": "והוא מגדל מהן עדרים עדרים קודם שיבאו הנפחים",
+     "he": "אם יותר, ישהה אותם בחיים עד שיבואו הנפחים, ויגדל מהם עדרים ויבוא לגיזה ועבודה.",
+     "en": "If it were allowed he would keep them alive until smiths arrive, raise flocks of them, and come to shearing and work."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 63b:14:1",
+     "quote": "התם במפשיטו לעשות נוד שלם וצריך להוציא רגליו מצוארו",
+     "he": "תוספות מבחינים בין הפשטת הפסח עד החזה, ובין ״אין מרגילין״ שהוא הפשטה כדי לעשות נוד שלם.",
+     "en": "Tosafot distinguish flaying the Pesach down to the chest from 'one may not hold the hide whole', which is flaying to make a whole skin-bag."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:3:1",
+     "quote": "מפני שנראה כעובד עבודה בקדשים",
+     "he": "מביא את הסיבות לאיסור: ״מפני שנראה כעובד עבודה בקדשים״, וגזירה שמא יגדל עדרים עדרים.",
+     "en": "He brings the reasons for the prohibition: 'because he looks like one performing service with sacred items', and the decree lest he raise flocks upon flocks."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Avodah Zarah 48b:7",
+     "quote": "גדולי המחברים פסקו שמרגילין בבכור ובפסולי המוקדשין",
+     "he": "המאירי מביא שגדולי המחברים פסקו שמרגילין בבכור ובפסולי המוקדשין, וטעמם שבתלמוד אמרו ״בית שמאי היא״; וכשמעיינים בסוף הסוגיה, ״דברי הכל היא״.",
+     "en": "The Meiri cites that great authors ruled one may hold the hide whole for a firstborn and for disqualified consecrated animals, because the Talmud says 'it is Beit Shammai'; yet when one looks at the end of the passage, 'it is everyone's view'."
+    },
+    {
+     "who": {
+      "he": "רבנו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Avodah Zarah 48b:10",
+     "quote": "בהמרגיל בבכור דמה שמשביח בעור פוגם בבשר",
+     "he": "מצטט את הכלל ״מה שמשביח בעור פוגם בבשר״ כפי שנאמר בבכורות לגבי המרגיל בבכור.",
+     "en": "He cites the principle 'what improves the hide spoils the meat' as stated in Bekhorot about holding the hide whole of a firstborn."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 1:19",
+     "quote": "אם רצה להרגיל מרגיל",
+     "he": "הרמב״ם מתיר: המפשיט בכור בעל מום רשאי להפשיטו כרצונו, ואם רצה להרגיל מרגיל, וכן בשאר פסולי המוקדשין.",
+     "en": "The Rambam permits: one flaying a blemished firstborn may flay it as he wishes, and if he wants to hold the hide whole, he may; the same for other disqualified consecrated animals."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Rest on a Holiday 3:6",
+     "quote": "מפני שטורח בהפשט זה טורח גדול ואין בו צורך למועד",
+     "he": "ביום טוב אסור להרגיל – להוציא כל בשר מרגל אחת כדי להוציא את כל העור שלם – כי זה טורח גדול שאין בו צורך למועד.",
+     "en": "On a festival one may not hold the hide whole – removing all the meat through one leg so the whole hide comes out intact – since it is great toil with no festival need."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 307",
+     "quote": "אין מרגילין בבכור אפי' בעל מום פירוש להפשיט עורו משלם דרך מרגלותיו והרמב\"ם התירו",
+     "he": "הטור כותב שאין מרגילין בבכור אפילו בעל מום, וציין שהרמב״ם התירו.",
+     "en": "The Tur writes that one may not hold the hide whole of a firstborn, even a blemished one, and notes that the Rambam permitted it."
+    },
+    {
+     "who": {
+      "he": "מהר״ם מרוטנבורג",
+      "en": "Maharam"
+     },
+     "ref": "Teshuvot Maharam, Berlin Edition, Part I 52:2",
+     "quote": "כדאמר בעלמא שמא יגדל מהם עדרים עדרים",
+     "he": "מביא את הנימוק ״שמא יגדל מהם עדרים עדרים״ כדוגמה לחשש תקלה שחכמים גזרו בגללו.",
+     "en": "He uses the reason 'lest he raise flocks upon flocks of them' as an example of the concern for stumbling on account of which the Sages issued decrees."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 33a:2",
+     "quote": "ק\"ל כיון דמשום בזיון דקדשים קאתינן מאי דוחקיה לאוקמא כב\"ש",
+     "he": "הרש״ש מקשה: כיון שהטעם הוא בזיון קדשים, מה הצורך להעמיד את הברייתא כבית שמאי.",
+     "en": "The Rashash asks: since the reason is disrespect to sacred items, why must the baraita be placed with Beit Shammai?"
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Yoreh Deah 194:3",
+     "quote": "הביא רב חסדא הברייתא שהיא עיקרית יותר",
+     "he": "הנודע ביהודה מסביר מדוע רב חסדא הביא כאן את הברייתא ״אין מאכילין לנדות״ ולא את המשנה ״לא ימנה״: היא העיקרית יותר.",
+     "en": "The Noda BiYehudah explains why Rav Chisda cited here the baraita 'may not be fed to menstruants' and not the mishnah 'may not be counted': it is the more fundamental."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 1:19:1",
+     "quote": "ובאמת תמוה מאוד דבבכורות דשם עיקר מתניתין דפליגי ב\"ש שביק ב\"ש דמתניתין",
+     "he": "תמה מדוע בבכורות, שבו עיקר המשנה שבית שמאי חלקו בה, הניח רב חסדא את בית שמאי שבמשנה ולקח את בית שמאי שבברייתא.",
+     "en": "He is astonished that in Bekhorot, where the main mishnah has Beit Shammai disagreeing, Rav Chisda leaves aside the Beit Shammai of the mishnah and takes the Beit Shammai of the baraita."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Beitzah 3:6:6:1",
+     "quote": "ופסק הרמב\"ם בי\"ט כן כמ\"ש בהל' י\"ט בפ\"ג",
+     "he": "מציין שהרמב״ם פסק כך ביום טוב, אך בבכור פסק להקל, כי המסקנה בבכורות ״לא אתייא ככ״ע״.",
+     "en": "He notes that the Rambam ruled so for a festival but ruled leniently for a firstborn, because the conclusion in Bekhorot does not fit everyone's view."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Orach Chayim 499:1:1",
+     "quote": "נראה מדבריו שכל שאינו מפשיט בענין שמוציא כל הבשר מרגל אחת מותר",
+     "he": "מבין מדברי הרמב״ם שרק מי שמוציא את כל הבשר מרגל אחת אסור, ואם אינו מפשיט כך – מותר.",
+     "en": "He understands from the Rambam that only one who removes all the meat through one leg is forbidden; if he does not flay that way, it is permitted."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 307:1:1",
+     "quote": "אבל הרא\"ש ס\"ל כיון דבתר הכי קאמר תלמודא דאפי' לב\"ה אין מרגילין",
+     "he": "הב״ח מבאר שהרמב״ם מתיר כי מעמיד את המסקנות על פסולי המוקדשין בלבד, ואילו הרא״ש סובר שאפילו לבית הלל אין מרגילין.",
+     "en": "The Bach explains that the Rambam permits because he places the Talmud's conclusions on disqualified consecrated animals only, whereas the Rosh holds that even according to Beit Hillel one may not."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 307:1",
+     "quote": "והרמב\"ם מתיר כמ\"ש בסי' ש\"ו סעי' ב' דס\"ל דזהו רק בפסולי המוקדשים ולא בבכור",
+     "he": "כותב שהאיסור גם בבעל מום מפני הבזיון והגזירה, והרמב״ם מתיר כי סבור שהאיסור רק בפסולי המוקדשים ולא בבכור.",
+     "en": "He writes that the prohibition applies even to a blemished firstborn because of the disrespect and the decree, while the Rambam permits since he holds it applies only to disqualified consecrated animals and not to a firstborn."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Orach Chaim 499:1",
+     "quote": "וזהו דעת הטור, שכתב שמפשיטין העור שלם כדי לעשות ממנו נאד",
+     "he": "מביא את פירוש רש״י ואת דעת הטור שהאיסור הוא הפשטת העור שלם לעשות נאד, ואת דברי הרמב״ם שהאיסור בהוצאת הבשר מרגל אחת.",
+     "en": "He brings Rashi's explanation and the view of the Tur that the prohibition is flaying the hide whole to make a skin-bag, along with the Rambam's wording that it is removing the meat through one leg."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Firstlings 1:18:1",
+     "quote": "תנו רבנן אין מרגילין בבכור ובפסולי המוקדשין ומוקי לה רב חסדא כבית שמאי וכרבי אלעזר בר\"ש",
+     "he": "מביא את הברייתא ״אין מרגילין בבכור ובפסולי המוקדשין״, שרב חסדא מעמיד כבית שמאי וכרבי אלעזר ברבי שמעון.",
+     "en": "He cites the baraita 'one may not hold the hide whole of a firstborn or of disqualified consecrated animals', which Rav Chisda places with Beit Shammai and Rabbi Elazar son of Rabbi Shimon."
+    },
+    {
+     "who": {
+      "he": "כף החיים",
+      "en": "Kaf HaChayim"
+     },
+     "ref": "Kaf HaChayim on Shulchan Arukh, Orach Chayim 499:1:1",
+     "quote": "נמצא דדבר זה בפלוגתא שניא",
+     "he": "אחרי שהביא את המחמירים והמקילים, מסכם: ״נמצא דדבר זה בפלוגתא שניא״.",
+     "en": "After bringing the strict and the lenient, he concludes: this matter is in a disputed state."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 307:1",
+     "quote": "אין מרגילין בבכור דהיינו להפשיט עורו שלם דרך מרגלותיו",
+     "he": "השולחן ערוך פוסק: אין מרגילין בבכור, דהיינו להפשיט עורו שלם דרך מרגלותיו.",
+     "en": "The Shulchan Arukh rules: one may not hold the hide whole of a firstborn, that is, flay its hide whole by its legs."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    7
+   ],
+   "he": {
+    "title": "בכור שאחזו דם – הקזה שעושה מום",
+    "gemara": "משנה: בכור שאחזו דם, אפילו מת – אין מקיזין לו דם, דברי רבי יהודה. חכמים: יקיז, ובלבד שלא יעשה בו מום, ואם עשה בו מום לא ישחט עליו. רבי שמעון: יקיז אף על פי שעושה בו מום. ברייתא: רבי מאיר – מקיזין במקום שאין עושים מום ולא במקום שעושים; חכמים – אף במקום שעושה מום ובלבד שלא ישחט עליו; רבי שמעון – אף נשחט על אותו מום; רבי יהודה – אפילו מת אין מקיזין.",
+    "halakha": "שולחן ערוך (יורה דעה שי״ג:ו׳): ״בכור שאחזו דם יקיז, ובלבד שלא יתכוין לעשות מום, ואם נעשה בו מום בהקזה זו הרי זה נשחט עליו״."
+   },
+   "en": {
+    "title": "A firstborn with a blood affliction – bloodletting that causes a blemish",
+    "gemara": "Mishnah: a firstborn seized by blood, even if it is dying, may not be bled, says Rabbi Yehudah. The Sages: one may bleed it, provided he does not make a blemish in it, and if he does, he may not slaughter it on that blemish. Rabbi Shimon: he may bleed it even if it makes a blemish. Baraita: Rabbi Meir – one may bleed where no blemish results, not where one does; the Sages – even where it makes a blemish, provided he does not slaughter on that blemish; Rabbi Shimon – even slaughter on that blemish; Rabbi Yehudah – even if dying, one may not bleed it.",
+    "halakha": "Shulchan Arukh (Yoreh De'ah 313:6): 'A firstborn seized by blood may be bled, provided he does not intend to cause a blemish, and if a blemish results from this bleeding, he may slaughter on it.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:5:3",
+     "quote": "מתוך שאדם בהול על ממונו אי שרית ליה במקום שאין עושה בו מום אתי למיעבד במקום שעושה בו מום",
+     "he": "רבי יהודה אוסר אפילו במקום שאין עושים מום, כי ״אדם בהול על ממונו״ ואם יותר לו במקום שאין עושה מום יבוא לעשות במקום שעושה מום.",
+     "en": "Rabbi Yehudah forbids even where no blemish is made, because a person is anxious over his property, and if permitted where no blemish results he will come to do it where one does."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:5:6",
+     "quote": "דסבר ר\"ש דבר שאין מתכוין מותר",
+     "he": "רבי שמעון מתיר אף במקום שעושה מום, כי סובר ש״דבר שאין מתכוין מותר״.",
+     "en": "Rabbi Shimon permits it even where it makes a blemish, since he holds that an unintended result is permitted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:5:4",
+     "quote": "שלא יחתוך ושלא יפגום את אזנו ואת ניב שפתיו שאין עתיד לחזור ולהתרפאות",
+     "he": "החכמים: יקיז ובלבד שלא יחתוך ולא יפגום את אזנו וניב שפתיו, שאינם עתידים להתרפא; הם סוברים שאם לא יותר לו, יבוא לעשות במקום מום.",
+     "en": "The Sages: he may bleed it, provided he does not cut or damage the ear or the lips, which will not heal; they reason that if not permitted he will come to do it at the blemish site."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:4",
+     "quote": "דאי שרית ליה במקום שאין עושה בו מום שמא יקיז אפי' במקום שעושה מום",
+     "he": "רבי יהודה: אפילו מת אין מקיזין, כי אם יותר לו במקום שאין עושה מום, שמא יקיז אף במקום שעושה מום.",
+     "en": "Rabbi Yehudah: even if dying one may not bleed it, for if permitted where it makes no blemish, he may bleed even where it does."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 56b:1:1",
+     "quote": "רבי שמעון לטעמיה דאמר דבר שאין מתכוין מותר",
+     "he": "תוספות מביאים את פירוש הקונטרס ״רבי שמעון לטעמיה דאמר דבר שאין מתכוין מותר״, ומקשים עליו ומפרשים אחרת.",
+     "en": "Tosafot cite the Kuntres's explanation that Rabbi Shimon follows his own view that an unintended result is permitted, then raise a difficulty with it and explain differently."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Pesachim 11a:20:1",
+     "quote": "שאני בכור דאיכא פסידא",
+     "he": "תוספות מיישבים מדוע רבי יהודה גזר בבכור: ״שאני בכור דאיכא פסידא״.",
+     "en": "Tosafot answer why Rabbi Yehudah decreed here: a firstborn is different, since there is a loss."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:4:2",
+     "quote": "ובתרוייהו הלכה כר\"ש דקיימא לן דבר שאין מתכוין מותר",
+     "he": "הרא״ש מכריע שבשניהם הלכה כרבי שמעון, כי דבר שאין מתכוין מותר, ובמטיל מום בבעל מום הלכה כרבנן וכר׳ שמעון שמתירים.",
+     "en": "The Rosh rules that in both cases the law follows Rabbi Shimon, since an unintended result is permitted, and on causing a blemish in an already blemished animal the law follows the Sages and Rabbi Shimon, who permit it."
+    },
+    {
+     "who": {
+      "he": "הלכות גדולות",
+      "en": "Halakhot Gedolot"
+     },
+     "ref": "Halakhot Gedolot 7:55",
+     "quote": "בבכור שאחזו דם אפילו מת אין מקיזין לו את הדם",
+     "he": "מצטט את המשנה כמקור לכך שרבי יהודה אוסר דבר שאין מתכוין, ואילו רבי שמעון מתיר.",
+     "en": "He cites this mishnah as the source that Rabbi Yehudah forbids an unintended result, while Rabbi Shimon permits it."
+    },
+    {
+     "who": {
+      "he": "רב נסים גאון",
+      "en": "Rav Nissim Gaon"
+     },
+     "ref": "Rav Nissim Gaon on Shabbat 41b:2",
+     "quote": "שנינו בכור שאחזו דם אפילו מת אין מקיזין לו את הדם",
+     "he": "גם הוא מביא את המשנה בבכורות כמקור לכך שרבי יהודה סבר דבר שאין מתכוין אסור ורבי שמעון סבר שמותר.",
+     "en": "He too brings the mishnah in Bekhorot as the source that Rabbi Yehudah held an unintended result forbidden and Rabbi Shimon permitted."
+    },
+    {
+     "who": {
+      "he": "ספר יראים",
+      "en": "Sefer Yereim"
+     },
+     "ref": "Sefer Yereim 344:1",
+     "quote": "וקיי\"ל דיקיז דקיי\"ל כר' שמעון בכל איסורים שבתורה דאמרינן דבר שאין מתכוין מותר",
+     "he": "ספר יראים: נפסק שיקיז, כי הלכה כרבי שמעון בכל איסורי התורה שדבר שאין מתכוין מותר.",
+     "en": "Sefer Yereim: we rule that he may bleed it, since the law follows Rabbi Shimon throughout the Torah's prohibitions that an unintended result is permitted."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 505:1",
+     "quote": "דכיון דלא היה דעתו להטיל בו מום כדי להתירו אלא כדי שלא ימות לא קנסינן ליה",
+     "he": "מסביר שאין קונסים אותו, כי לא התכוון להטיל מום כדי להתירו אלא כדי שלא ימות.",
+     "en": "He explains that we do not penalize him, since he did not intend to cause a blemish in order to permit it, only to keep it from dying."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:13",
+     "quote": "בכור שאחזו דם יקיז ובלבד שלא יתכוין לעשות בו מום",
+     "he": "הרמב״ם פוסק: בכור שאחזו דם יקיז, ובלבד שלא יתכוין לעשות מום, ואם נעשה מום בהקזה זו – נשחט עליו.",
+     "en": "The Rambam rules: a firstborn seized by blood may be bled, provided he does not intend to cause a blemish, and if one results from this bleeding, it may be slaughtered on it."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 313",
+     "quote": "אסור להטיל מום בבכור ואסור אפילו לגרום לו מום כגון ליתן דבילה על גבי אזנו",
+     "he": "הטור: אסור להטיל מום בבכור, ואפילו לגרום מום כגון לתת דבילה על אזנו.",
+     "en": "The Tur: it is forbidden to cause a blemish in a firstborn, even to cause one indirectly, such as placing a fig-cake on its ear."
+    },
+    {
+     "who": {
+      "he": "הריב״ש",
+      "en": "Rivash"
+     },
+     "ref": "Teshuvot HaRivash 394:7",
+     "quote": "רבי שמעון אומר יקיז אעפ\"י שעושה בו מום וטעמיה משום דהוה ליה דבר שאין מתכוין",
+     "he": "הריב״ש מביא את דברי רבי שמעון כראיה שדבר שאין מתכוין מותר, ושטעמו משום ״דבר שאין מתכוין״.",
+     "en": "The Rivash brings Rabbi Shimon's words as proof that an unintended result is permitted, since his reason is that it is unintended."
+    },
+    {
+     "who": {
+      "he": "הרדב״ז",
+      "en": "Radbaz"
+     },
+     "ref": "Teshuvot HaRadbaz Volume 5 1483:2",
+     "quote": "דאפי' ר' שמעון דאמר יקיז אע\"פ שהוא עושה בו מום מוקמינן לה בגמרא משום דדבר שאין מתכוין מותר",
+     "he": "הרדב״ז: אף רבי שמעון, האומר יקיז אף על פי שעושה מום, הועמד בגמרא משום שדבר שאין מתכוין מותר.",
+     "en": "The Radbaz: even Rabbi Shimon, who says to bleed though it makes a blemish, is explained in the Gemara on the ground that an unintended result is permitted."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 313:6",
+     "quote": "בכור שאחזו דם יקיז ובלבד שלא יתכוין לעשות מום",
+     "he": "השולחן ערוך פוסק כרמב״ם: יקיז ובלבד שלא יתכוין לעשות מום, ואם נעשה מום בהקזה – נשחט עליו.",
+     "en": "The Shulchan Arukh rules as the Rambam: he may bleed it provided he does not intend a blemish, and if one results, it may be slaughtered on it."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 287:1:3",
+     "quote": "דרבנן סברי דאסור אפילו לגרום מום בקדשים",
+     "he": "מבואר כי בבכורות ובמקומות נוספים מבואר שחכמים סוברים שאסור אפילו לגרום מום בקדשים, שנאמר ״כל מום״.",
+     "en": "He notes that in Bekhorot and elsewhere it is explained that the Sages hold it forbidden even to cause a blemish indirectly in sacred animals, from 'any blemish'."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 2:13:1",
+     "quote": "ולא מוסיף בברייתא רק דמותר לשחוט על אותו מום",
+     "he": "מסביר שהרמב״ם קבע שהכול פלוגתא אחת ואין הברייתא מוסיפה אלא שמותר לשחוט על אותו מום.",
+     "en": "He explains that the Rambam treats the whole as one dispute, with the baraita adding only that one may slaughter on that blemish."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 33b:1",
+     "quote": "מוכח דמום עובר מותר לעשות מה\"ת",
+     "he": "הרש״ש מסיק מדברי רש״י שמום עובר מותר לעשות מן התורה, ושואל מנין.",
+     "en": "The Rashash infers from Rashi that a passing blemish is permitted to make by Torah law, and asks how that is known."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Pesachim 1:3:1",
+     "quote": "מתוך שאדם בהול על ממונו",
+     "he": "מביא את הסוגיה בפסחים שרבי יהודה גזר בבכור ״מתוך שאדם בהול על ממונו״, ורבנן ״כל שכן״ שאם לא יותר לו יעשה.",
+     "en": "He brings the passage in Pesachim that Rabbi Yehudah decreed here because a person is anxious over his property, and the Sages even more so reason that if not permitted he will act anyway."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    14
+   ],
+   "he": {
+    "title": "הקזת דם בבכור וחבית של תרומה שנולד בה ספק טומאה",
+    "gemara": "מביאים: ״כמחלוקת כאן כך מחלוקת בחבית של תרומה״. רבי אליעזר: אם היתה במקום התורפה – יניחנה במקום המוצנע; רבי יהושע: להפך, יניחנה במקום התורפה ויגלנה; רבן גמליאל: לא יחדש בה דבר. רבי מאיר כר׳ אליעזר, חכמים כר׳ יהושע, רבי יהודה כרבן גמליאל. הגמרא דוחה: רבי מאיר בבכור אוסר כי ״עביד בידים״ אך בחבית ״גרמא״; רבי אליעזר חושש ״שמא יבא אליהו ויטהרנה״, אך בבכור ״דאי שביק ליה מיית״ – כחכמים; וכן בשאר התנאים.",
+    "halakha": "הרמב״ם (הלכות תרומות י״ב:ג׳): ״לא יחדש בה דבר, לא יזיזנה ממקומה ולא יגלנה, אלא יניחנה עד שתטמא ודאי ותשרף״."
+   },
+   "en": {
+    "title": "Bloodletting a firstborn and a barrel of terumah with a doubtful impurity",
+    "gemara": "It was taught: 'as the dispute here, so the dispute about a barrel of terumah'. Rabbi Eliezer: if it was in an exposed place, place it in a hidden place; Rabbi Yehoshua: the opposite – place it in the exposed place and uncover it; Rabban Gamliel: do nothing to it. Rabbi Meir follows Rabbi Eliezer, the Sages Rabbi Yehoshua, and Rabbi Yehudah Rabban Gamliel. The Gemara rejects the link: Rabbi Meir forbids here because 'he acts with his hands', but for the barrel it is only indirect causation; Rabbi Eliezer fears 'lest Elijah come and purify it', but for the firstborn, 'if left alone it dies' – so he follows the Sages; and similarly for the others.",
+    "halakha": "Rambam (Hilchot Terumot 12:3): 'He may do nothing to it: not move it from its place and not uncover it, but leave it until it is certainly impure and burned.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:9:1",
+     "quote": "הלכך יגלנה ותיטמא ותהא ראויה לזילוף",
+     "he": "רבי יהושע: מעכשיו אינה ראויה לאכילה (שמא טמאה) ולא לזילוף (שמא טהורה), ולכן יגלנה ותיטמא ותהיה ראויה לזילוף.",
+     "en": "Rabbi Yehoshua: now it is not fit to eat (perhaps impure) nor to sprinkle (perhaps pure), so he should uncover it so it becomes impure and fit for sprinkling."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:11:1",
+     "quote": "שמטיל בו מום הלכך ימות מעצמו ולא יטיל בו מום",
+     "he": "״דקעביד בידים״ – כשמטיל מום; ״דגרמא״ – כשמניח במקום התורפה וגורם טומאה.",
+     "en": "'Acting with his hands' means causing a blemish; 'indirect causation' means placing the barrel in the exposed place and causing impurity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:12:1",
+     "quote": "ויאמר שלא נגעה בה טומאה",
+     "he": "רבי אליעזר אוסר לגרום טומאה כי ״שמא יבא אליהו״ ויאמר שלא נגעה בה טומאה.",
+     "en": "Rabbi Eliezer forbids causing impurity since Elijah might come and say that no impurity touched it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:9",
+     "quote": "שמא יבא אליהו ויטהרנה",
+     "he": "״יניחנה במקום המוצנע״ – כדי שלא תגע בה טומאה, ״שמא יבא אליהו ויטהרנה״.",
+     "en": "'Place it in the hidden place' – so that no impurity touches it, 'lest Elijah come and purify it'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:10",
+     "quote": "כיון דספק היא מותר לגרום לה טומאה",
+     "he": "רבי יהושע סבור שכיון שהיא ספק, מותר לגרום לה טומאה, כדי להסיקה תחת תבשילו.",
+     "en": "Rabbi Yehoshua holds that since it is a doubt, it is permitted to cause it impurity, in order to burn it under his cooking."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:12",
+     "quote": "משום דקא עביד בידים",
+     "he": "רבי מאיר לא אמר בחבית שאין מקיזין במקום שעושה מום אלא כאן, משום ש״עביד בידים״.",
+     "en": "Rabbi Meir said only here that one may not bleed where it makes a blemish, because he acts directly with his hands."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 12:3",
+     "quote": "הרי זה לא יחדש בה דבר לא יזיזנה ממקומה ולא יגלנה אלא יניחנה עד שתטמא ודאי ותשרף",
+     "he": "הרמב״ם פוסק כרבן גמליאל: לא יחדש בה דבר; אינו מזיזה ואינו מגלה אותה אלא מניחה עד שתטמא ודאי ותשרף.",
+     "en": "The Rambam rules like Rabban Gamliel: he does nothing to it; he does not move it or uncover it, but leaves it until it is certainly impure and burned."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "יצחק ירנן",
+      "en": "Yitzchak Yeranen"
+     },
+     "ref": "Yitzchak Yeranen on Mishneh Torah, Heave Offerings 12:3:1",
+     "quote": "פסק כרבן גמליאל וכמ\"ש מרן",
+     "he": "מציין שהרמב״ם פסק כרבן גמליאל, ומצביע על כך שפירוש רש״י ברבי יהושע בבכורות שונה מפירושו בפסחים.",
+     "en": "He notes that the Rambam ruled like Rabban Gamliel, and points out that Rashi's explanation of Rabbi Yehoshua in Bekhorot differs from his explanation in Pesachim."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 84:5",
+     "quote": "ואסור לגרום לה טומאה והלכה כר\"ג",
+     "he": "רבן גמליאל: א״צ לשומרה ואסור לגרום לה טומאה, והלכה כרבן גמליאל.",
+     "en": "Rabban Gamliel: there is no need to guard it, and it is forbidden to cause it impurity, and the law follows Rabban Gamliel."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Pesachim 15a:10",
+     "quote": "מי דמי התם גרמא בעלמא והכא בידים",
+     "he": "הפני יהושע מסביר את ״מי דמי״: אף אם מן התורה מותר לטמא תרומה תלויה בידים, מדרבנן אסור אלא היכא דאיכא פסידא.",
+     "en": "The Penei Yehoshua discusses the difference between indirect and direct action, explaining 'is it comparable?': even if by Torah law one may defile a doubtful (hanging) terumah directly, it is rabbinically forbidden except where there is a loss."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Pesachim 20b:4",
+     "quote": "דבכורות ותרומה חדא מילתא היא",
+     "he": "מסביר שהסוגיה בבכורות סברה בתחילה ש״בכורות ותרומה חדא מילתא היא״, ולכן קשה על רבי מאיר.",
+     "en": "He explains that the passage in Bekhorot first assumed that bekhorot and terumah are one matter, which is why it is difficult on Rabbi Meir."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Terumot 8:4:1:1",
+     "quote": "חבית של תרומה שנולד לה ספק טומאה",
+     "he": "דן בפירוש רש״י ובקושיית הר״ש בחבית שנולד לה ספק טומאה, ומביא את הסוגיה בבכורות.",
+     "en": "He discusses Rashi's explanation and the Rash's difficulty about a barrel with a doubtful impurity, and brings the passage in Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    15,
+    21
+   ],
+   "he": {
+    "title": "״בקראי פליגי״ – מחמץ אחר מחמץ, מסרס אחר מסרס ו״כל מום לא יהיה בו״",
+    "gemara": "גם כאן וגם שם נחלקו בפסוקים. רבי יוחנן: הכל מודים במחמץ אחר מחמץ שחייב, ״לא תאפה חמץ״ ו״לא תעשה״; ובמסרס אחר מסרס חייב, מ״ומעוך וכתות ונתוק וכרות״. אין מחלוקת אלא במטיל מום בבעל מום: רבי מאיר – ״כל מום לא יהיה בו״, וחכמים – ״תמים יהיה לרצון״. רבי מאיר לומד מ״תמים יהיה לרצון״ למעט פסולי המוקדשין לאחר פדיונם; וחכמים ״כל מום״ לגרמא, כדתניא: אין לי אלא שלא יתן מום, מנין שלא יניח דבילה ובצק על האוזן – תלמוד לומר ״כל מום״.",
+    "halakha": "הרמב״ם (הלכות מעשה הקרבנות י״ב:י״ד): ״והמחמץ אחר המחמץ חייב״."
+   },
+   "en": {
+    "title": "'They dispute about verses' – one who leavens after another, one who castrates after another, and 'any blemish shall not be in it'",
+    "gemara": "Here and there they dispute about verses. Rabbi Yochanan: everyone agrees that one who leavens after another is liable, from 'it shall not be baked leavened' and 'shall not be made'; and one who castrates after another is liable, from 'crushed, beaten, torn or cut'. They dispute only about causing a blemish in an already blemished animal: Rabbi Meir – 'any blemish shall not be in it'; the Sages – 'it shall be unblemished for acceptance'. Rabbi Meir uses 'unblemished for acceptance' to exclude disqualified consecrated animals after their redemption; the Sages read 'any blemish' for indirect causation, as taught: 'I only know he may not place a blemish; how do I know he may not put a fig-cake and dough on the ear? – \"any blemish\"'.",
+    "halakha": "Rambam (Hilchot Ma'aseh HaKorbanot 12:14): 'and one who leavens after another who leavened is liable.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:15:1",
+     "quote": "שהמחמץ אחר מחמץ כגון אם לש האחד בחימוץ ואפאה אחר שניהם חייבין",
+     "he": "כולם מודים שהמחמץ אחר מחמץ חייב: אם לש האחד בחימוץ ואפאה אחר – שניהם חייבים, מ״לא תאפה חמץ״ ו״לא תעשה חמץ״.",
+     "en": "All agree one who leavens after another is liable: if one kneaded it with leavening and another baked it, both are liable, from 'it shall not be baked leavened' and 'it shall not be made leavened'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:16:1",
+     "quote": "אם כרת האחד הביצים ועדיין הם בכיס ובא חבירו ונתקן מן הכיס והשליכן שניהם חייבין",
+     "he": "מסרס אחר מסרס: אם כרת האחד הביצים והן עדיין בכיס ובא חבירו ונתקן והשליכן – שניהם חייבים.",
+     "en": "One who castrates after another: if one cut the testicles and they were still in the sac, and another detached and cast them away, both are liable."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:17:2",
+     "quote": "וקרי ביה לא יהיה בו שלא יטיל מום",
+     "he": "לדעת רבי מאיר, ״כל מום לא יהיה בו״ נקרא ״לא יהיה בו״ – שלא יטיל מום, והמילה ״כל״ מרבה אפילו בעל מום.",
+     "en": "In Rabbi Meir's view, 'any blemish shall not be in it' is read as 'he shall not cause a blemish in it', and the word 'any' includes even one that is already blemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 33b:17:3",
+     "quote": "דרשינן כוליה קרא תמים יהיה לרצון כל מום לא יהיה בו דמשמע תמים הראוי לרצון",
+     "he": "חכמים דורשים את כל הפסוק: ״תמים יהיה לרצון״ משמע תמים הראוי לרצון, שבו לא תטיל מום – אך בבעל מום לא.",
+     "en": "The Sages expound the whole verse: 'unblemished for acceptance' means an unblemished animal fit for acceptance, in which you may not cause a blemish – but not a blemished one."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:15",
+     "quote": "מי שכורת הכיס ומניח הביצים תלוין",
+     "he": "״אם על כורת חייב״ – מי שכורת את הכיס ומניח את הביצים תלויות; על נותק הביצים לא כל שכן.",
+     "en": "'If for cutting he is liable' – one who cuts the sac and leaves the testicles hanging; for detaching the testicles, all the more so."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 33b:13",
+     "quote": "היינו אופה אחר מחמץ שבאפייה מיגמרא מילתא דחמץ",
+     "he": "״במחמץ אחר מחמץ״ הוא אופה אחר מחמץ, שכן באפייה נגמר דבר החמץ.",
+     "en": "'One who leavens after another' means one who bakes after one who leavens, since with baking the leavening is completed."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Shabbat 40b:21",
+     "quote": "אפ\"ה כולהו מודו במחמץ מנחה אחר מחמץ שהוא חייב",
+     "he": "הר״ן: אף שנחלקו בבכור שאחזו דם, כולם מודים שמחמץ מנחה אחר מחמץ חייב.",
+     "en": "The Ran: though they disagreed about a firstborn seized by blood, all agree that one who leavens a meal-offering after another is liable."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrificial Procedure 12:14",
+     "quote": "והמחמץ אחר המחמץ חייב ולוקין על כל עשיה ועשיה שבה",
+     "he": "הרמב״ם: והמחמץ אחר המחמץ חייב, ולוקים על כל עשייה ועשייה שבה.",
+     "en": "The Rambam: one who leavens after another is liable, and they are flogged for each act in it."
+    },
+    {
+     "who": {
+      "he": "ספר יראים",
+      "en": "Sefer Yereim"
+     },
+     "ref": "Sefer Yereim 344:1",
+     "quote": "תניא יכול נפל מן הגג ונשבר יהא עובר עליו ת\"ל כל מום לא יהיה בו לא יתן בו מום",
+     "he": "ספר יראים: ״כל מום לא יהיה בו״ – לא יתן בו מום; ואסור גם גרמא, כשיתן דבילה או בצק על האוזן, וקיי״ל כרבנן.",
+     "en": "Sefer Yereim: 'any blemish shall not be in it' – he may not place a blemish in it; indirect causation is also forbidden, such as putting a fig-cake or dough on the ear, and we rule like the Sages."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Sacrificial Procedure 12:14:4",
+     "quote": "מימרא דרבי יוחנן שם",
+     "he": "הכסף משנה מציין ש״והמחמץ אחר המחמץ חייב״ היא מימרת רבי יוחנן, ומביא את מקורה במנחות ובבכורות ל״ג.",
+     "en": "The Kessef Mishneh notes that 'one who leavens after another is liable' is Rabbi Yochanan's statement, and gives its sources in Menachot and Bekhorot 33."
+    },
+    {
+     "who": {
+      "he": "ברית משה",
+      "en": "Brit Moshe"
+     },
+     "ref": "Brit Moshe, Negative Commandments 330:1:1",
+     "quote": "הכל מודים במחמץ אחר מחמץ שהוא חייב",
+     "he": "מביא את דברי רבי יוחנן בבכורות ל״ג ובמנחות נ״ו שהכל מודים שמחמץ אחר מחמץ חייב, ושואל מדוע השמיטם ״רבינו״.",
+     "en": "He brings Rabbi Yochanan's words in Bekhorot 33 and Menachot 56 that all agree one who leavens after another is liable, and asks why 'Rabbeinu' left them out."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 313:1:1",
+     "quote": "פי' קרי ביה לא יהיה בו מום שלא יטיל בו מום",
+     "he": "הב״ח: לרבנן הלכה כוותייהו; ״כל מום לא יהיה בו״ לגרמא הוא בא – שלא יביא דבילה ובצק ויניחה על האוזן כדי שיבא כלב ויאכלנה.",
+     "en": "The Bach: the law follows the Sages; 'any blemish shall not be in it' comes for indirect causation – that he may not bring a fig-cake or dough and place it on the ear so a dog comes and eats it."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume VII, Even HaEzer 8:31",
+     "quote": "הואיל וכתיב \"כל מום לא יהיה\" היה ס\"ד לפרש",
+     "he": "כותב שגם אם הובא המום על ידי דבילה ובצק על האוזן – פסול, כי ״כל מום״ מרבה שבכל ענין שנעשה המום נפסל.",
+     "en": "He writes that even if the blemish arises from placing a fig-cake and dough on the ear it disqualifies, since 'any blemish' includes whatever way the blemish arises."
+    }
+   ]
+  }
+ ]
+}
