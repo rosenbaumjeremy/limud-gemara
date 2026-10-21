@@ -318,9 +318,56 @@ def sort_commentary(ink, col, lines):
     return out, head
 
 
-def word_boxes(ink, l, kind):
+def bracket(m, core):
+    """What a glyph (a boolean mask) is, if it is a paren or a square bracket: "close" or "open"
+    (as read right to left), with "sq" for a square one; else None. They are thin and stand taller
+    than the letters; a square bracket has flat arms at its top and bottom, a paren is curved."""
+    h, w = m.shape
+    if h < 1.1 * core or w > 0.5 * h or h < 12: return None
+    widths = m.sum(axis=1).astype(float)
+    med = float(np.median(widths))
+    centre = lambda rows: float(np.mean([np.flatnonzero(m[r]).mean() for r in rows if m[r].any()]))
+    ends = list(range(1, 4)) + list(range(h - 4, h - 1))
+    middle = range(h // 3, 2 * h // 3)
+    top, bottom = widths[1:4].mean() / med, widths[h - 5:h - 1].mean() / med
+    if max(top, bottom) >= 1.6 and min(top, bottom) >= 1.15:     # one arm may print faintly
+        # the stem on the left and the arms out to the right closes (right to left); the other way opens
+        return "close-sq" if centre(middle) < centre(ends) else "open-sq"
+    shift = centre(ends) - centre(middle)
+    if shift > 0.25 * w: return "close"      # bulges left: "(" on the page closes, right to left
+    if shift < -0.25 * w: return "open"
+    return None
+
+
+def drop_markers(ink, l, boxes, core, state):
+    """Take out of a commentary line the note markers Sefaria's text doesn't have: a short word
+    closed by a paren or bracket that nothing opened ("כח]", "כ)"), and a "*)" stuck to the front
+    of a word. state carries what is open from one line to the next."""
+    out = []
+    for a, b in reversed(boxes):              # right to left, in reading order
+        sub = ink[l["y0"]:l["y1"], l["x0"] + a:l["x0"] + b]
+        lab, n = ndimage.label(sub)
+        comps = sorted(((sl[1].start, sl[1].stop, (lab[sl] == i + 1)) for i, sl in enumerate(ndimage.find_objects(lab))),
+                       key=lambda c: -c[1])     # right to left
+        kinds = [bracket(m, core) for _, _, m in comps]
+        # a "*)" before the word: a closing paren at its right with nothing open
+        if len(comps) > 2 and kinds[0] is None and kinds[1] == "close" and not state.get("close"):
+            b = a + comps[1][0] - 2
+        elif kinds and kinds[0] == "close" and not state.get("close") and len(comps) > 1:
+            b = a + comps[0][0] - 2
+        for k in kinds:
+            if k in ("open", "open-sq"): state[k.replace("open", "close")] = True
+        last = kinds[-1] if kinds else None
+        if last in ("close", "close-sq"):
+            if state.get(last): state[last] = False          # it closes a reference: a real word
+            elif b - a < 3 * core: continue                    # a marker
+        if b - a >= 14: out.append((a, b))
+    return out[::-1]
+
+
+def word_boxes(ink, l, kind, state=None):
     """The words of a printed line as (x0, x1), left to right; dots, *, ° and the little
-    letters that point to the notes are left out."""
+    letters that point to the notes are left out, and in the commentary the note markers."""
     prof = ink[l["y0"]:l["y1"], l["x0"]:l["x1"] + 1].sum(axis=0) > 0
     z = np.diff(np.r_[0, prof.astype(int), 0])
     out = []
@@ -333,7 +380,11 @@ def word_boxes(ink, l, kind):
         return rows[-1] - rows[0] + 1 if len(rows) else 0
     hs = [height(a, b) for a, b in out]
     med = float(np.median(hs)) if hs else 0
-    return [(int(a), int(b)) for (a, b), h in zip(out, hs) if h >= 0.62 * med and b - a >= (18 if kind == "g" else 14)]
+    out = [(int(a), int(b)) for (a, b), h in zip(out, hs) if h >= 0.62 * med and b - a >= (18 if kind == "g" else 14)]
+    if kind == "c" and state is not None:
+        # the column's usual letter height: a line's own can come out taller
+        out = drop_markers(ink, l, out, state.get("core", l["c1"] - l["c0"]), state)
+    return out
 
 
 def catchword_under(ink, col, last):
@@ -359,26 +410,25 @@ def catchword_under(ink, col, last):
 
 
 def word_under(ink, last):
-    """A lone word printed just under a line, at one of its ends or a little past it (a
-    commentary's catchword), as a box, or None."""
+    """A lone word printed just under a line, toward its left end (where a line ends, read right
+    to left): a commentary's catchword. A box, or None."""
     h, width = last["c1"] - last["c0"], last["x1"] - last["x0"]
     y0, y1 = last["y1"] + 2, last["c1"] + int(1.6 * h)
-    x0 = max(0, last["x0"] - 150)
-    area = ink[y0:y1, x0:last["x1"] + 150]
+    area = ink[y0:y1, last["x0"]:last["x1"] + 1]
     cols_ = np.flatnonzero(area.any(axis=0))
     if not len(cols_): return None
     pieces = []
     for a in cols_:
         if pieces and a - pieces[-1][1] < 40: pieces[-1][1] = a
         else: pieces.append([a, a])
-    # short, and at one end of the line (a note may be printed beside it)
-    lo, hi = last["x0"] - x0, last["x1"] - x0
-    pieces = [p for p in pieces if 0.5 * h < p[1] - p[0] < 0.3 * width and (p[0] < lo + 60 or p[1] > hi - 60)]
-    if len(pieces) != 1: return None
-    a, b = pieces[0]
-    rows = np.flatnonzero(area[:, a:b + 1].any(axis=1))
-    if rows[-1] - rows[0] < 0.6 * h: return None
-    return dict(x0=x0 + int(a), x1=x0 + int(b), c0=y0 + int(rows[0]), c1=y0 + int(rows[-1]) + 1)
+    pieces = [p for p in pieces if 0.5 * h < p[1] - p[0] < 0.25 * width]
+    # short, as tall as letters, and in the line's left part (a note may stand further right)
+    found = []
+    for a, b in pieces:
+        rows = np.flatnonzero(area[:, a:b + 1].any(axis=1))
+        if rows[-1] - rows[0] >= 0.6 * h and b < 0.45 * width:
+            found.append(dict(x0=last["x0"] + int(a), x1=last["x0"] + int(b), c0=y0 + int(rows[0]), c1=y0 + int(rows[-1]) + 1))
+    return found[0] if len(found) == 1 else None
 
 
 # ---------- the text ----------
@@ -543,7 +593,8 @@ def amud_page(masechet, daf, amud, check=False):
     sides, head = sort_commentary(ink, col, lines)
     for l in gem: l["boxes"] = word_boxes(ink, l, "g")
     for ls in sides.values():
-        for l in ls: l["boxes"] = word_boxes(ink, l, "c")
+        state = {"core": float(np.median([l["c1"] - l["c0"] for l in ls])) if ls else 30}
+        for l in ls: l["boxes"] = word_boxes(ink, l, "c", state)
     # the catchword: the next amud's first word, alone under the last line
     catch = gem.pop() if gem and len(gem[-1]["boxes"]) <= 2 and gem[-1]["x1"] - gem[-1]["x0"] < 0.7 * (col["gR"] - col["gL"]) else None
     if catch is None and gem:
