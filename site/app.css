@@ -373,12 +373,8 @@ details > summary { cursor: pointer; font-weight: 600; }
 mark.musag { background: var(--gold-soft); color: inherit; border-bottom: 2px solid var(--gold); border-radius: 2px; cursor: pointer; padding: 0 1px; }
 mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card)); }
 .sum-group { margin-top: 14px; }
-.words-card { padding-top: 8px; padding-bottom: 8px; }
-.words-card .sum-group { margin: 0; }
-.words { list-style: none; margin: 8px 0 4px; padding: 0; }
-.words li { padding: 6px 0; line-height: 1.5; }
-.words li + li { border-top: 1px solid var(--line); }
-.words b { font-family: var(--serif); font-size: 18px; }
+/* no summary for this daf: no side column either (summaryPanel adds has-sum when there is one) */
+.reader-main:not(.has-sum) > .side { display: none; }
 .sum-group > summary { color: var(--gold); font-size: 16px; font-weight: 700; padding: 4px 0; border-bottom: 2px solid var(--gold-soft); }
 .musag-src { color: var(--muted); font-size: 15px; }
 .sheet-inner.line h3 { margin: 4px 0 8px; }
