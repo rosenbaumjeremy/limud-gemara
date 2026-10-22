@@ -1,0 +1,1579 @@
+{
+ "ref": "Bekhorot 34",
+ "date": "2026-10-22",
+ "he": {
+  "overview": "הדף עוסק בסוף דין הטלת מום בבכור ובקנס שקנסו חכמים. בעמוד א נחלקים רבי אליעזר ורבי יהושע אם ״משמרת תרומותי״ מלמד שצריך לשמור גם תרומה תלויה, ונידונות ״יש אם למקרא״ ו״בבגדו בה״; הגמרא דנה באיזה רבי שמעון הלכה כמותו בדבר שאין מתכוין, ואחר כך המשנה: הצורם אוזן בבכור — לא ישחוט עולמית לרבי אליעזר, וחכמים אומרים כשיולד מום אחר. בעמוד ב מקשים על רבי אליעזר מדין בהרת שנקצצה, ומתרצים ״בממונו קניס, בגופו לא קניס״; מסתפקים ״יטהר״ או ״ויטהר״ לעניין חתן; ורבי ירמיה שואל אם קונסים את בנו אחרי מותו, ונפשט מדין שדה שהוטבה בשביעית. הרישונים והאחרונים דנים בעיקר בטעם הקנס, בשאלת ההלכה כרבי שמעון, ובדין בנו.",
+  "title": "סיכום — בכורות ל״ד"
+ },
+ "en": {
+  "overview": "The daf deals with the end of the law of inflicting a blemish on a firstborn and the penalty the Sages imposed. On amud a, R. Eliezer and R. Yehoshua dispute whether 'the charge of My terumot' teaches that doubtful terumah must also be guarded, with discussion of 'yesh em lamikra' and 'bevigdo bah'; the Gemara asks which R. Shimon the halakha follows regarding an unintended act, and then the mishna: one who nicks a firstborn's ear may never slaughter it according to R. Eliezer, while the Sages say once another blemish arises. On amud b, R. Eliezer is challenged from the law of a baheret that was cut off and the answer is 'in property he penalizes, in his body he does not'; there is a doubt whether we learned 'yitahar' or 'veyitahar' regarding a groom; and R. Yirmeya asks whether his son is penalized after he dies, resolved from the law of a field improved in the Sabbatical year. The Rishonim and Acharonim mainly discuss the reason for the penalty, the question of following R. Shimon, and the law of the son.",
+  "title": "Summary — Bekhorot 34"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "שלא יביא דבילה ובצק"
+   ],
+   "he": {
+    "term": "גרימת מום בבכור",
+    "explanation": "הטלת מום בבכור שלא בידיים אלא בעקיפין — למשל הנחת דבילה או בצק על אוזנו כדי שיבוא כלב ויאכלנה ויקטע את אוזנו. הברייתא לומדת מ״כל מום״ שגם זה אסור. מי שהרגיל את הבכור שיפול בו מום כך, אינו שוחט עליו."
+   },
+   "en": {
+    "term": "Gerimat mum (causing a blemish indirectly)",
+    "explanation": "Inflicting a blemish on a firstborn not directly but indirectly — for example placing a fig-cake or dough on its ear so that a dog comes and eats it and severs the ear. The baraita learns from 'any blemish' that this too is forbidden. One who induced a firstborn to be blemished this way may not slaughter on it."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Firstlings 2:8",
+    "quote": "הִרְגִּיל לַבְּכוֹר שֶׁיִּפּל בּוֹ מוּם כְּגוֹן שֶׁנָּתַן דְּבֵלָה עַל אָזְנוֹ עַד שֶׁבָּא כֶּלֶב וּנְטָלָהּ וְחָתַךְ אָזְנוֹ"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "תרומה תלויה"
+   ],
+   "he": {
+    "term": "תרומה תלויה",
+    "explanation": "תרומה התלויה בספק אם היא טהורה או טמאה, למשל שתי חביות שנגע שרץ באחת מהן ואינו ידוע באיזו. לדעת רבי אליעזר ״משמרת תרומותי״ מלמד שיש לשמור גם עליה, ורבי יהושע חולק."
+   },
+   "en": {
+    "term": "Terumah teluyah (doubtful terumah)",
+    "explanation": "Terumah that hangs on an unresolved doubt whether it is pure or impure, for example two jars where a creeping animal touched one and it is unknown which. According to R. Eliezer 'the charge of My terumot' teaches that it too must be guarded; R. Yehoshua disagrees."
+   },
+   "source": {
+    "who": {
+     "he": "תורה תמימה",
+     "en": "Torah Temimah"
+    },
+    "ref": "Torah Temimah on Torah, Numbers 18:8:5",
+    "quote": "תרומה התלויה בספק שאינו ידוע אם היא טהורה או טמאה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "יש אם למקרא"
+   ],
+   "he": {
+    "term": "יש אם למקרא / יש אם למסורת",
+    "explanation": "מחלוקת אם דורשים את הכתוב לפי הקריאה (המקרא) או לפי הכתיב (המסורת). בדוגמה שבגמרא: ״בבגדו בה״ נקרא בחיריק, אך כתוב בלא יו״ד. לפי הראשונים שמובאים כאן, רבי עקיבא אוחז ״יש אם למקרא״ ורבי אליעזר ״יש אם למסורת״."
+   },
+   "en": {
+    "term": "Yesh em lamikra / yesh em lamasoret",
+    "explanation": "A dispute whether a verse is expounded according to how it is read (mikra) or how it is written (masoret). In the Gemara's example, 'bevigdo bah' is read with a chirik but is written without a yod. According to the Rishonim cited here, R. Akiva holds 'yesh em lamikra' and R. Eliezer 'yesh em lamasoret'."
+   },
+   "source": {
+    "who": {
+     "he": "ריטב״א",
+     "en": "Ritva"
+    },
+    "ref": "Ritva on Kiddushin 18a:11",
+    "quote": "ובודאי דר\"ע יש אם למקרא ס\"ל כדמוכח בריש מס' סנהדרין ור\"א ס\"ל יש אם למסורת כדאית' בבכורות"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "דבר שאין מתכוין מותר"
+   ],
+   "he": {
+    "term": "דבר שאין מתכוין",
+    "explanation": "פעולה שיש לה תוצאה שהעושה אינו מתכוון אליה. לרבי שמעון היא מותרת, ולרבי יהודה אסורה. הרא״ש מציין שמה שקיימא לן כרבי שמעון הוא בדיני שבת, ובשאר התורה כרבי יהודה."
+   },
+   "en": {
+    "term": "Davar sheein mitkaven (unintended act)",
+    "explanation": "An act with a result the doer does not intend. According to R. Shimon it is permitted; according to R. Yehuda it is forbidden. The Rosh notes that following R. Shimon applies to Shabbat law, while in the rest of the Torah we follow R. Yehuda."
+   },
+   "source": {
+    "who": {
+     "he": "הרא״ש",
+     "en": "Rosh"
+    },
+    "ref": "Rosh on Shabbat 14:10:1",
+    "quote": "אבל לרבי שמעון מותר כיון שאין מתכוין לסירוס אלא לרפואה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "כי קניס רבי אליעזר בממונו"
+   ],
+   "he": {
+    "term": "קנס",
+    "explanation": "עונש שהטילו חכמים על מי שעבר עבירה, כך שלא יהנה ממעשהו. בצורם אוזן בבכור הקנס הוא שאינו נשחט על המום שעשה עד שיפול בו מום אחר מאליו."
+   },
+   "en": {
+    "term": "Kenas (rabbinic penalty)",
+    "explanation": "A penalty the Sages imposed on one who committed a transgression, so that he not benefit from his act. For one who nicks a firstborn's ear, the penalty is that it is not slaughtered on the blemish he made until another blemish arises on its own."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Firstlings 2:7",
+    "quote": "הוֹאִיל וְעָשָׂה עֲבֵרָה קוֹנְסִין אוֹתוֹ וְאֵינוֹ נִשְׁחָט עַל מוּם זֶה עַד שֶׁיִּפּל בּוֹ מוּם אַחֵר מֵאֵלָיו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "יטהר תנן או ויטהר תנן"
+   ],
+   "he": {
+    "term": "״יטהר״ או ״ויטהר״",
+    "explanation": "הספק בלשון המשנה בנגעים. לפי רש״י, ״יטהר״ משמע שמיד כשיולד נגע אחר הוא טהור מן הראשון; ״ויטהר״ משמע שרק כשיטהר מן האחרון יטהר גם מן הראשון."
+   },
+   "en": {
+    "term": "'Yitahar' or 'veyitahar'",
+    "explanation": "A question about the wording of the mishna in Negaim. According to Rashi, 'yitahar' implies that immediately when another nega is born he is pure of the first; 'veyitahar' implies that only when he is pure of the last is he also pure of the first."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 34b:8:1",
+    "quote": "דמשמע מיד כשיוולד בו נגע אחר יטהר מן הראשונה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "חתן שנראה בו נגע"
+   ],
+   "he": {
+    "term": "חתן שנראה בו נגע",
+    "explanation": "חתן שנראה בו נגע נותנין לו כל שבעת ימי המשתה, ובכך אינו נראה לכהן ואינו מטמאו במשך ימים אלו."
+   },
+   "en": {
+    "term": "A groom with a nega",
+    "explanation": "A groom on whom a nega appears is given all seven days of the feast, so that the kohen does not see it and declare him impure during those days."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Defilement by Leprosy 9:8",
+    "quote": "חָתָן שֶׁנִּרְאָה בּוֹ נֶגַע נוֹתְנִין לוֹ כָּל שִׁבְעַת יְמֵי הַמִּשְׁתֶּה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "ניטיבה נידיירה"
+   ],
+   "he": {
+    "term": "ניטייבה / נידיירה",
+    "explanation": "עבודה חשובה בשדה בשביעית: לפי רש״י ״ניטייבה״ — נזדבלה על ידי עגלות ומשואות של זבל. מי שעבד כך נקנס שלא יזרע לאחר השביעית, ובנו זורע."
+   },
+   "en": {
+    "term": "Nitaybah / nidayrah (improving the field)",
+    "explanation": "A significant labor in the field in the Sabbatical year: according to Rashi, 'nitaybah' means fertilized by means of carts and loads of manure. One who worked this way is penalized not to sow after the Sabbatical year, but his son may sow."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 34b:17:3",
+    "quote": "נזדבלה ע\"י עגלות ומשואות של זבל"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "״כל מום״: גרימת מום בבכור",
+    "gemara": "הברייתא דורשת ״כל מום לא יהיה בו״: אין לי אלא שלא יתן בו מום, ומנין שלא יביא דבילה ובצק ויניחנה על האוזן כדי שיבוא כלב ויאכלנה — תלמוד לומר ״כל מום״, אחד מום ואחד כל מום. כלומר, גם גרימת מום אסורה.",
+    "halakha": "הטור והשולחן ערוך (יו״ד שי״ג:א): אסור להטיל מום בבכור ואף לגרום לו מום; ואם עשה מום בידים או בגרמתו, אין שוחטין אותו על ידו עד שיפול בו מום אחר מעצמו."
+   },
+   "en": {
+    "title": "'Any blemish': causing a blemish indirectly in a firstborn",
+    "gemara": "The baraita expounds 'any blemish shall not be in it': I know only that one may not inflict a blemish; how do we know one may not place dough or a fig-cake on the animal's ear so that a dog comes and eats it? The verse says 'any blemish' — one blemish and any blemish, that is, causing a blemish is forbidden too.",
+    "halakha": "The Tur and Shulchan Arukh (YD 313:1): it is forbidden to inflict a blemish on a firstborn, even to cause one; if one made a blemish by hand or by causing it, the animal is not slaughtered on his account until another blemish arises on its own."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:1",
+     "quote": "אמר מום דבידים ואמר כל מום שלא יגרום",
+     "he": "רבינו גרשום מפרש שהברייתא אמרה ״מום״ בידיים, ו״כל מום״ — שלא יגרום.",
+     "en": "Rabbeinu Gershom reads it so: 'a blemish' is by hand, and 'any blemish' means that one may not cause it either."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34a:1:1",
+     "quote": "אפשר דהכא דרשי שיש ענין כדפי' התם",
+     "he": "תוספות מעירים שאף התנאים שאינם דורשים ״כל״ בפסחים, אפשר שכאן דורשים אותו מפני שיש ענין לדרשה.",
+     "en": "Tosafot note that even those Tannaim who do not expound the word 'kol' in Pesachim may expound it here, because there is a point to the derivation."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:8",
+     "quote": "הִרְגִּיל לַבְּכוֹר שֶׁיִּפּל בּוֹ מוּם כְּגוֹן שֶׁנָּתַן דְּבֵלָה עַל אָזְנוֹ עַד שֶׁבָּא כֶּלֶב וּנְטָלָהּ וְחָתַךְ אָזְנוֹ",
+     "he": "הרמב״ם פוסק את דין הברייתא: מי שהרגיל את הבכור שיפול בו מום, כגון בדבילה על אוזנו, לא ישחוט עליו.",
+     "en": "The Rambam rules the baraita as law: one who induced a firstborn to become blemished, for example with a fig-cake on its ear, may not slaughter it on that blemish."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 313",
+     "quote": "אסור להטיל מום בבכור ואסור אפילו לגרום לו מום כגון ליתן דבילה על גבי אזנו",
+     "he": "הטור: אסור להטיל מום בבכור ואף לגרום לו מום, כגון ליתן דבילה על גבי אוזנו.",
+     "en": "The Tur: it is forbidden to inflict a blemish on a firstborn, and even to cause one, such as placing a fig-cake on its ear."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 313:1:1",
+     "quote": "ברייתא שם ויליף לה מדכתיב כל מום",
+     "he": "הבית יוסף מציין שדין גרימת מום בדבילה הוא ברייתא שם, ונלמד ממה שכתוב ״כל מום״.",
+     "en": "The Beit Yosef notes that the law of causing a blemish with a fig-cake is a baraita there, derived from the words 'any blemish'."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 313:1",
+     "quote": "ואם עשה מום בידים או בגרמתו אין שוחטין אותו על ידו עד שיפול בו מום אחר מעצמו",
+     "he": "השולחן ערוך: אם עשה מום בידיים או בגרימה, אין שוחטין אותו על ידו עד שיפול בו מום אחר מעצמו.",
+     "en": "The Shulchan Arukh: if one made a blemish by hand or by causing it, it is not slaughtered on his account until another blemish arises on its own."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume VII, Even HaEzer 6:26",
+     "quote": "הרי שאם לא התרבה מכל מום היתה גרמת מום מותרת מדין גרמא לסירוס",
+     "he": "בעל משפטי עוזיאל מעיר שאילו לא נתרבה מ״כל מום״, גרימת מום הייתה מותרת מדין גרמא לסירוס.",
+     "en": "Mishpetei Uziel remarks that were it not included by 'any blemish', causing a blemish would have been permitted, by the law of indirect causation in castration."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    3
+   ],
+   "he": {
+    "title": "״משמרת תרומותי״: שימור תרומה תלויה",
+    "gemara": "רב יהודה בשם שמואל, ריש לקיש ורב נחמן בשם רבה בר אבוה: רבי אליעזר ורבי יהושע נחלקו בפסוק ״ואני הנה נתתי לך את משמרת תרומותי״. רבי אליעזר סובר שהכתוב מדבר בשתי תרומות — טהורה ותלויה — ואמר רחמנא ״עביד לה שימור״; ורבי יהושע: ״תרומתי״ כתיב, בלשון יחיד.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "'The charge of My terumot': guarding doubtful terumah",
+    "gemara": "Rav Yehuda citing Shmuel, Reish Lakish, and Rav Nachman citing Rabba bar Avuha: R. Eliezer and R. Yehoshua dispute the verse 'And I, behold, I have given you the charge of My terumot.' R. Eliezer holds the verse speaks of two terumot — pure and doubtful — and the Merciful One said to guard it; R. Yehoshua: it is written 'terumati', in the singular.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:2",
+     "quote": "ור\"י סבר תרומתי כתיב כלומר דתרומה טהורה בעיא שימור ולא תלויה",
+     "he": "רבינו גרשום: רבי יהושע סבור ש״תרומתי״ כתוב, כלומר רק תרומה טהורה צריכה שימור ולא תלויה.",
+     "en": "Rabbeinu Gershom: R. Yehoshua holds 'terumati' is written, meaning only pure terumah requires guarding, not doubtful."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:3:1",
+     "quote": "עביד לה שימור - דכתיב משמרת",
+     "he": "רש״י מבאר שהשימור נלמד ממה שכתוב ״משמרת״.",
+     "en": "Rashi explains that the guarding is derived from the word 'mishmeret'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34a:3:1",
+     "quote": "דקאי תרומתי אלך ואמשמרת דלך שייך אטמאה לרבוייה להיתר הנאה ומשמרת שייך בתלויה דבעיא שימור",
+     "he": "תוספות מקשים מהסוגיה בשבת (טהורה וטמאה) ומתרצים: ״תרומתי״ קאי על ״לך״ (המתיר הנאה בטמאה), ו״משמרת״ שייך בתלויה שצריכה שימור.",
+     "en": "Tosafot raise the Shabbat passage (pure and impure) and answer: 'terumati' connects to 'lecha', which adds permitted benefit for impure terumah, while 'mishmeret' applies to doubtful terumah, which needs guarding."
+    },
+    {
+     "who": {
+      "he": "תוספות ישנים",
+      "en": "Tosafot Yeshanim"
+     },
+     "ref": "Tosafot Yeshanim on Yevamot 74a:3",
+     "quote": "ותימה דהתם בפרק כל פסולי המוקדשין אמרינן אחת תרומה טהורה ואחת תרומה תלויה",
+     "he": "תוספות ישנים מתפלאים שכאן אמרו ״טהורה וטמאה״ ואילו בבכורות (פרק כל פסולי המוקדשין) ״טהורה ותלויה״.",
+     "en": "Tosafot Yeshanim find it surprising that here the sources say 'pure and impure', while in Bekhorot (perek Kol Pesulei HaMukdashin) it says 'pure and doubtful'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Niddah 6b:14:1",
+     "quote": "ודרשינן בבכורות (דף לד.) שתי תרומות במשמע טהורה ותלויה ואמר קרא שומרנה",
+     "he": "רש״י בנידה מזכיר שדרשו בבכורות שהפסוק משמע שתי תרומות, טהורה ותלויה, ואמר הכתוב לשומרן.",
+     "en": "Rashi in Niddah mentions that in Bekhorot they derived that the verse implies two terumot, pure and doubtful, and Scripture says to guard it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 2:14",
+     "quote": "שֶׁנֶּאֱמַר (במדבר יח ח) \"וַאֲנִי נָתַתִּי לְךָ אֶת מִשְׁמֶרֶת תְּרוּמֹתָי\", אַחַת טְהוֹרָה וְאַחַת טְמֵאָה",
+     "he": "הרמב״ם בהלכות תרומות לומד מאותו פסוק ״משמרת תרומותי״ — אחת טהורה ואחת טמאה.",
+     "en": "The Rambam in Hilkhot Terumot learns from the same verse, 'the charge of My terumot', one pure and one impure."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Avodah Zarah 56a:3",
+     "quote": "אמת דדרשה זו איתא בבכורות (לד) לר\"א אבל לענין תרומה תלויה ולא לענין טבל",
+     "he": "הרש״ש: אמת שדרשה זו כתובה בבכורות לרבי אליעזר, אבל לעניין תרומה תלויה ולא לעניין טבל.",
+     "en": "The Rashash: true, this derivation appears in Bekhorot for R. Eliezer, but it concerns doubtful terumah, not tevel."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:8:5",
+     "quote": "וס\"ל לר\"א שצריכה שימור שלא תטמא טומאה ודאית",
+     "he": "התורה תמימה: לרבי אליעזר תרומה תלויה צריכה שימור שלא תטמא טומאה ודאית.",
+     "en": "The Torah Temimah: R. Eliezer holds that doubtful terumah must be guarded from becoming definitely impure."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 84:2",
+     "quote": "דאפילו תלויה א\"צ שימור דתרומתי כתיב לשון יחיד",
+     "he": "ערוך השולחן העתיד: הלכה כרבי יהושע, שאפילו תלויה אינה צריכה שימור, ״דתרומתי כתיב לשון יחיד״.",
+     "en": "Arukh HaShulchan HeAtid: the halakha follows R. Yehoshua, that even doubtful terumah needs no guarding, 'as terumati is written in the singular'."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura VI 61:5",
+     "quote": "שהקשה מזה על שטת רבינו דספיקא דאורייתא מה\"ת לקולא אם כן למה אצטריך קרא על תלוי'",
+     "he": "השואל ומשיב מביא את קושיית המהרי״ט אלגזי מסוגיה זו על שיטת הרמב״ם שספק דאורייתא לקולא: אם כן למה צריך קרא על תלויה?",
+     "en": "Shoel uMeshiv cites the Maharit Algazi's question from this passage on the Rambam's view that a Torah-level doubt is resolved leniently: why then is a verse needed for doubtful terumah?"
+    },
+    {
+     "who": {
+      "he": "תשובה מאהבה",
+      "en": "Teshuva MeAhava"
+     },
+     "ref": "Teshuva MeAhava Part I 169:7",
+     "quote": "בשלמא לשטת הרמב\"ם דספד\"א מה\"ת לקולא איצטרך קרא על התלוי'",
+     "he": "בעל תשובה מאהבה: לשיטת הרמב״ם שספק דאורייתא לקולא מובן למה צריך קרא על התלויה.",
+     "en": "Teshuva MeAhava: according to the Rambam, who holds a Torah-level doubt is lenient, it is understandable that a verse was needed for doubtful terumah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    6
+   ],
+   "he": {
+    "title": "״יש אם למקרא״ ו״בבגדו בה״ — ומחלוקת רבי אליעזר ורבי יהושע",
+    "gemara": "הגמרא שואלת: האם רבי אליעזר סובר ״יש אם למקרא״? ומקשה מברייתא על ״בבגדו בה״, שבה רבי עקיבא ורבי אליעזר נחלקים אם הכוונה לפרישת טלית או לבגידה. מסקנת הגמרא: נחלקו בדרשת ״לך״ — רבי יהושע סבור ״הראויה לך שמור, ושאינה ראויה לך לא תשמור״, ורבי אליעזר: גם זו ראויה, שמא יבוא אליהו ויטהרנה.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "'Yesh em lamikra' and 'bevigdo bah' — and the R. Eliezer / R. Yehoshua dispute",
+    "gemara": "The Gemara asks whether R. Eliezer holds 'yesh em lamikra', and raises a baraita on 'bevigdo bah' where R. Akiva and R. Eliezer dispute whether it means spreading a garment or betrayal. It concludes that they differ over 'lecha': R. Yehoshua holds 'what is fit for you, guard; what is not fit for you, do not guard', while R. Eliezer holds this too is fit, since Elijah may come and purify it.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:3",
+     "quote": "דר' אליעזר סבר יש אם למקרא. כדקרינן ליה תרומותי",
+     "he": "רבינו גרשום: רבי אליעזר סובר ״יש אם למקרא״, כפי שקוראים ״תרומותי״.",
+     "en": "Rabbeinu Gershom: R. Eliezer holds 'yesh em lamikra', as we read it 'terumotai'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:4",
+     "quote": "אלמא דאזיל אחר מסורת דפשטיה דקרא הוי לשון בגידה",
+     "he": "רבינו גרשום מפרש את הברייתא: ״בבגדו בה״ לפי פשוטו לשון בגידה, שמכרה פעם אחת ושוב אינו רשאי.",
+     "en": "Rabbeinu Gershom explains the baraita: 'bevigdo bah' in its plain sense is an expression of betrayal, since he sold her once he may not sell her again."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:4:1",
+     "quote": "דר\"א סבר יש אם למסורת בבגדו בה כתיב בלא יו\"ד",
+     "he": "רש״י: לפי הגמרא בקידושין רבי אליעזר סבור ״יש אם למסורת״ — ״בבגדו בה״ כתוב בלא יו״ד.",
+     "en": "Rashi: in Kiddushin R. Eliezer holds 'yesh em lamasoret' — 'bevigdo bah' is written without a yod."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:5:1",
+     "quote": "וטעות הוא בידם דא\"כ מאי מקשי הכא בבכורות",
+     "he": "רש״י דוחה את מי שמשבשים את הגרסה בקידושין, שאם כן מה היה הקושי כאן בבכורות.",
+     "en": "Rashi rejects those who emend the reading in Kiddushin, since otherwise what would the difficulty here in Bekhorot be."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34a:4:1",
+     "quote": "ועוד דלגירסת הקונטרס מקדים דברי ר\"ע לדברי ר\"א שהיה רבו",
+     "he": "תוספות מקשים על גרסת רש״י שהיא מקדימה את דברי רבי עקיבא לדברי רבי אליעזר, שהיה רבו.",
+     "en": "Tosafot challenge Rashi's reading, which places R. Akiva's words before those of R. Eliezer, who was his teacher."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:5",
+     "quote": "ור' אליעזר דריש בתר מסורת לשון בגד טלית",
+     "he": "רבינו גרשום: רבי אליעזר דורש לפי המסורת — לשון בגד, טלית.",
+     "en": "Rabbeinu Gershom: R. Eliezer expounds according to the masoret — the word for a garment."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:6",
+     "quote": "הראויה לך שהיא טהורה שמור",
+     "he": "רבינו גרשום: ״הראויה לך״ היא הטהורה — אותה לשמור.",
+     "en": "Rabbeinu Gershom: 'what is fit for you' is the pure one — that is what to guard."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Kiddushin 18b:1:1",
+     "quote": "ויש אם למסורת כר\"א כדדייקי' בבכורות",
+     "he": "רש״י בקידושין: ״יש אם למסורת״ כרבי אליעזר, כפי שדייקו בבכורות.",
+     "en": "Rashi in Kiddushin: 'yesh em lamasoret' is as per R. Eliezer, as inferred in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Kiddushin 18a:11",
+     "quote": "ובודאי דר\"ע יש אם למקרא ס\"ל כדמוכח בריש מס' סנהדרין ור\"א ס\"ל יש אם למסורת כדאית' בבכורות",
+     "he": "הריטב״א: ודאי שרבי עקיבא סובר ״יש אם למקרא״ כמוכח בסנהדרין, ורבי אליעזר ״יש אם למסורת״ כאמור בבכורות.",
+     "en": "The Ritva: certainly R. Akiva holds 'yesh em lamikra', as shown in Sanhedrin, and R. Eliezer 'yesh em lamasoret', as stated in Bekhorot."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 34a:3",
+     "quote": "כיון שבגד והמקרא הוי לשון בגידה",
+     "he": "הרש״ש מתקן בדברי התוספות: ״רבי עקיבא — כיון שבגד, והמקרא הוי לשון בגידה״.",
+     "en": "The Rashash corrects the text of Tosafot: 'R. Akiva — since he betrayed, and the reading is an expression of betrayal'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 34a:4",
+     "quote": "משקל פעל בשש נקודות לא מצינו נטייתו בציר\"י",
+     "he": "הרש״ש בדברי התוספות: משקל ״פעל״ בשש נקודות לא מצינו שנוטה בציר״י.",
+     "en": "The Rashash on Tosafot: we do not find the form 'pa'al' with six vowels inflected with a tzere."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Pesachim 15a:9",
+     "quote": "אפ\"ה שפיר סבר ר\"א דיניחנה במקום המוצנע משום דשמא יבא אליהו ויטהרנה",
+     "he": "הפני יהושע: רבי אליעזר סבר שיניחנה במקום המוצנע, משום ״שמא יבא אליהו ויטהרנה״.",
+     "en": "Penei Yehoshua: R. Eliezer holds one should place it in a hidden place, because 'Elijah may come and purify it'."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Pesachim 20b:2",
+     "quote": "בבכורות דף ל\"ד בעי הש\"ס למימר מעיקרא דטעמא דרבי יהושע משום דיש אם למסורת דתרומתי",
+     "he": "הפני יהושע: בבכורות רצתה הגמרא לומר תחילה שטעמו של רבי יהושע משום ״יש אם למסורת״ דתרומתי.",
+     "en": "Penei Yehoshua: in Bekhorot the Gemara first wished to say that R. Yehoshua's reason is 'yesh em lamasoret' regarding 'terumati'."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    9
+   ],
+   "he": {
+    "title": "״הלכה כרבי שמעון״ — איזה רבי שמעון?",
+    "gemara": "אמר רב יהודה אמר שמואל: הלכה כרבי שמעון. רב נחמן בר יצחק מקשה: אם כרבי שמעון שבמשנתנו, עד כאן לא שמענו משמואל ״דבר שאין מתכוין מותר״? והרי שמואל ורב נחלקו בכך. מסקנה: רבי שמעון שבברייתא, ורב שישא בריה דרב אידי שנה זאת בפירוש.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "'The halakha follows R. Shimon' — which R. Shimon?",
+    "gemara": "Rav Yehuda said in Shmuel's name: the halakha follows R. Shimon. Rav Nachman bar Yitzchak objects: if the R. Shimon of our mishna, have we not already heard from Shmuel that an unintended act is permitted? And Rav and Shmuel dispute exactly that. Conclusion: it is the R. Shimon of the baraita, and Rav Shisha son of Rav Idi taught it explicitly.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:7",
+     "quote": "הלכה כר' שמעון. דברייתא דאמר אף נשחט על אותו המום",
+     "he": "רבינו גרשום: ״הלכה כרבי שמעון״ היא כרבי שמעון שבברייתא, האומר ״אף נשחט על אותו המום״.",
+     "en": "Rabbeinu Gershom: 'the halakha follows R. Shimon' means the R. Shimon of the baraita, who says 'it may even be slaughtered on that blemish'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:9:1",
+     "quote": "כיון דלא היה דעתו להטיל בו מום כדי להתירו אלא כדי שלא ימות לא קנסינן ליה",
+     "he": "רש״י: בברייתא לא קנסו, כיון שדעתו לא היה להטיל מום כדי להתירו אלא שלא ימות.",
+     "en": "Rashi: in the baraita they did not penalize, since his intent was not to inflict a blemish to permit it but so that it would not die."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:8:1",
+     "quote": "במס' שבת (דף כב.) דאמר דבר שאין מתכוין אסור",
+     "he": "רש״י מבאר שרבי יהודה הוא האומר במסכת שבת ״דבר שאין מתכוין אסור״.",
+     "en": "Rashi explains that R. Yehuda is the one who says in Shabbat that an unintended act is forbidden."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34a:7:1",
+     "quote": "תימה אטו מי שרי ר\"ש משום דאין מתכוין הא אפי' במקום שא\"א שלא יעשה מום נמי שרי",
+     "he": "תוספות תמהים: האם רבי שמעון מתיר משום שאינו מתכוין? הרי הוא מתיר אפילו במקום שאי אפשר שלא יעשה מום.",
+     "en": "Tosafot wonder: does R. Shimon permit because it is unintended? He permits even where a blemish is unavoidable."
+    },
+    {
+     "who": {
+      "he": "רב נסים גאון",
+      "en": "Rav Nissim Gaon"
+     },
+     "ref": "Rav Nissim Gaon on Shabbat 120b:1",
+     "quote": "ושמואל אמר הלכה כר' שמעון ותניא כוותיה בבכורות בפרק כל פסולי המוקדשין",
+     "he": "רב נסים גאון: שמואל אמר ״הלכה כרבי שמעון״ ובברייתא בבכורות, בפרק כל פסולי המוקדשין, שנויה כמותו.",
+     "en": "Rav Nissim Gaon: Shmuel said the halakha follows R. Shimon, and a baraita in Bekhorot, perek Kol Pesulei HaMukdashin, teaches the same."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Shabbat 110b:2",
+     "quote": "מותר בכל מילי אית ליה הכין",
+     "he": "הרשב״א מביא את קושיית התוספות: מי שסובר דבר שאינו מתכוון מותר, סובר כן בכל התורה, בשבת ובשאר דברים.",
+     "en": "The Rashba cites Tosafot's challenge: whoever holds an unintended act is permitted holds so in all matters, on Shabbat and elsewhere."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Shabbat 14:10:1",
+     "quote": "והא דקי\"ל כרבי שמעון דאמר דבר שאין מתכוין מותר הני מילי במילי דשבת אבל בכל התורה כולה קי\"ל כרבי יהודה",
+     "he": "הרא״ש: מה שקיימא לן כרבי שמעון בדבר שאין מתכוין, זה בדיני שבת, אבל בכל התורה כולה כרבי יהודה.",
+     "en": "The Rosh: our following R. Shimon on an unintended act applies to Shabbat; in the rest of the Torah we follow R. Yehuda."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shabbat 110b:6:2",
+     "quote": "דקי\"ל כר\"ש דשרי היינו דוקא בשבת משום דבעינן מלאכת מחשבת",
+     "he": "תוספות בשבת: מה שקיימא לן כרבי שמעון הוא דווקא בשבת, משום שצריך ״מלאכת מחשבת״.",
+     "en": "Tosafot in Shabbat: that we follow R. Shimon who permits applies only to Shabbat, because 'melekhet machshevet' is required."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גליון הש״ס",
+      "en": "Gilyon HaShas"
+     },
+     "ref": "Gilyon HaShas on Bekhorot 34a:1",
+     "quote": "עיין שבת דף קיד ע\"ב תוס' ד\"ה ת\"ל",
+     "he": "גליון הש״ס מפנה לתוספות בשבת קי״ד ע״ב ד״ה ת״ל.",
+     "en": "The Gilyon HaShas refers to Tosafot on Shabbat 114b, s.v. 'Talmud lomar'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 34a:1",
+     "quote": "ובש\"מ הגי' בר אמי",
+     "he": "הרש״ש: בש״מ הגירסה בר אמי (ולא בר אשי).",
+     "en": "The Rashash: in Sh-M the reading is bar Ami (not bar Ashi)."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 297:71",
+     "quote": "דקי\"ל הלכה כר\"ש כמ\"ש בפ\"י דשבת",
+     "he": "הגר״א ביו״ד רצ״ז: קיימא לן הלכה כרבי שמעון, כמו שנאמר בשבת, ומפנה גם לבכורות ל״ד א.",
+     "en": "The Gra on YD 297: we hold the halakha follows R. Shimon, as stated in Shabbat, and he also refers to Bekhorot 34a."
+    },
+    {
+     "who": {
+      "he": "תועפות ראם",
+      "en": "Toafot Re'em"
+     },
+     "ref": "Toafot Re'em 344:4",
+     "quote": "וטעם רבינו עולה גם לרב יהודה א\"ש גופיה דפסק בבכורות ל\"ד א' כר\"ש דברייתא",
+     "he": "תועפות ראם: הטעם עולה גם לרב יהודה אמר שמואל עצמו, שפסק בבכורות ל״ד א כרבי שמעון שבברייתא.",
+     "en": "Toafot Re'em: the reasoning also fits Rav Yehuda himself, who ruled in Bekhorot 34a like the R. Shimon of the baraita."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    10
+   ],
+   "he": {
+    "title": "המשנה: הצורם אוזן בבכור",
+    "gemara": "המשנה: הצורם אוזן בבכור — הרי זה לא ישחוט עולמית, דברי רבי אליעזר; וחכמים אומרים: נולד בו מום אחר, ישחוט עליו.",
+    "halakha": "הרמב״ם (בכורות ב:ז): המטיל מום בבכור קונסין אותו ואינו נשחט על מום זה עד שיפול בו מום אחר מאליו; ואם מת החוטא, מותר לבנו לשחטו על המום שעשה אביו."
+   },
+   "en": {
+    "title": "The mishna: one who nicks a firstborn's ear",
+    "gemara": "The mishna: one who nicks the ear of a firstborn may never slaughter it, according to R. Eliezer; the Sages say: if another blemish arises, he may slaughter on it.",
+    "halakha": "The Rambam (Firstlings 2:7): one who inflicts a blemish on a firstborn is penalized and may not slaughter it on that blemish until another blemish arises on its own; if the sinner dies, his son may slaughter it on the blemish his father made."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:8",
+     "quote": "הצורם. הפוגם במתכוין הרי זה לא ישחוט עולמית דקנסינן ליה",
+     "he": "רבינו גרשום: ״הצורם״ — הפוגם במתכוין, לא ישחוט עולמית כי קנסינן ליה.",
+     "en": "Rabbeinu Gershom: 'the one who nicks' means one who damages intentionally; he may never slaughter, for we penalize him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34a:9",
+     "quote": "לא ישחוט על זה אבל כשנולד בו מום אחר ישחט עליו",
+     "he": "רבינו גרשום: לדעת חכמים, לא ישחוט על מום זה, אבל כשנולד בו מום אחר ישחט עליו.",
+     "en": "Rabbeinu Gershom: according to the Sages he may not slaughter on this blemish, but when another arises he may slaughter on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:10:1",
+     "quote": "הפוגם אנקרני\"ר בלע\"ז",
+     "he": "רש״י: ״הצורם״ — הפוגם, ״אנקרני״ר״ בלעז; ומשנתנו מדברת בכהן.",
+     "en": "Rashi: 'the one who nicks' means damages, 'encranier' in the vernacular; and the mishna speaks of a kohen."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:7",
+     "quote": "הוֹאִיל וְעָשָׂה עֲבֵרָה קוֹנְסִין אוֹתוֹ וְאֵינוֹ נִשְׁחָט עַל מוּם זֶה עַד שֶׁיִּפּל בּוֹ מוּם אַחֵר מֵאֵלָיו",
+     "he": "הרמב״ם: הואיל ועשה עבירה קונסין אותו ואינו נשחט על מום זה עד שיפול בו מום אחר מאליו.",
+     "en": "The Rambam: since he committed a transgression, he is penalized and it is not slaughtered on this blemish until another falls on its own."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Sefer HaMitzvot, Negative Commandments 140:1",
+     "quote": "וזהו כשנעשה אנחנו המום בכוונה כמו שהתבאר בבכורות",
+     "he": "הרמב״ם בספר המצוות: איסור לאכול פסולי המוקדשים הוא כשנעשה המום בכוונה, כמו שהתבאר בבכורות.",
+     "en": "The Rambam in Sefer HaMitzvot: the prohibition of eating disqualified sacrifices applies when the blemish was made intentionally, as explained in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:5:1",
+     "quote": "מתני' הצורם אזן הבכור הרי זה לא ישחט עולמית דברי ר\"א וחכמים אומרים כשיולד לו מום אחר ישחט עליו",
+     "he": "הרא״ש מביא את המשנה ואת המעשה בקסדור שצרם באוזני בכורות.",
+     "en": "The Rosh cites the mishna and the account of the officer who nicked firstborns' ears."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 506:1",
+     "quote": "רבינו שלמה זצ\"ל כתב ובכהן מיירי וכן נראה בדבריו דאי בישראל בעליו מאי שייך קנסא",
+     "he": "האור זרוע מביא שרש״י כתב שמשנתנו מדברת בכהן, כי בישראל, שהבכור שייך לכהן, מה שייך קנס.",
+     "en": "The Ohr Zarua cites Rashi's view that the mishna speaks of a kohen, for if the owner is an Israelite, what penalty applies."
+    },
+    {
+     "who": {
+      "he": "מהר״ם",
+      "en": "Maharam"
+     },
+     "ref": "Teshuvot Maharam, Prague Edition 15:1",
+     "quote": "אבל אם נצרם הרבה מן הסחוס נ\"ל דהוי מום מובהק",
+     "he": "המהר״ם: אם נצרם הרבה מן הסחוס, נראה לו שהוא מום מובהק.",
+     "en": "The Maharam: if much of the cartilage was nicked, it seems to him to be a clear blemish."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Bava Kamma 32a:6",
+     "quote": "צרם באזנו. משך ועקם ובבכורות (דף לד א) שמעתי לשון פוגם",
+     "he": "הנימוקי יוסף: ״צרם״ — משך ועקם, ובבכורות שמעתי לשון פוגם.",
+     "en": "Nimukei Yosef: 'tzaram' means pulled and bent, and in Bekhorot I heard the sense of damaging."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 2:7:1",
+     "quote": "פלוגתא דתנאי ופסק כחכמים",
+     "he": "הכסף משנה: במשנה בבכורות פלוגתא דתנאים, והרמב״ם פסק כחכמים.",
+     "en": "The Kessef Mishneh: the mishna in Bekhorot is a Tannaitic dispute and the Rambam ruled like the Sages."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Firstlings 2:7:1",
+     "quote": "רש\"י פירש במשנתינו דהצורם אוזן לא ישחוט דבכהן קא מיירי",
+     "he": "האור שמח מדגיש שרש״י פירש שהמשנה מדברת בכהן, ודן מכאן בדין ישראל שהטיל מום.",
+     "en": "The Ohr Sameach notes that Rashi explained the mishna as speaking of a kohen, and discusses from this the case of an Israelite who inflicted a blemish."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 469:1:1",
+     "quote": "והנה בש\"ס דידן בבכורות נראה מכל הסוגיא דצורם אוזן בכור אינו אסור אלא משום קנס מדרבנן",
+     "he": "המנחת חינוך: מכל הסוגיה בבכורות נראה שצורם אוזן בכור אינו אסור אלא משום קנס מדרבנן.",
+     "en": "Minchat Chinukh: from the whole passage in Bekhorot it appears that nicking a firstborn's ear is forbidden only as a rabbinic penalty."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    11,
+    2
+   ],
+   "he": {
+    "title": "״ומי קניס רבי אליעזר לעולם?״ — הסתירה מדין בהרת שנקצצה",
+    "gemara": "הגמרא מקשה על רבי אליעזר: וכי קונס הוא לעולם? והרי שנינו במי שהיתה לו בהרת ונקצצה: אם שלא בכוונה — טהור; קצצה בכוונה — רבי אליעזר אומר ״לכשיולד לו נגע אחר יטהר הימנו״, וחכמים אומרים ״עד שתפרח בכולו או עד שתמעט בהרתו מכגריס״. הרי רבי אליעזר מקל כאן ואילו חכמים קונסים.",
+    "halakha": "הרמב״ם (טומאת צרעת י:ב–ג): התולש סימני טומאה לפני שבא לכהן — טהור; קצצה בכוונה, אם קצץ את כל הבשר החי המקיפה — אין לו טהרה עולמית."
+   },
+   "en": {
+    "title": "'Does R. Eliezer penalize forever?' — the contradiction from a baheret that was cut off",
+    "gemara": "The Gemara challenges R. Eliezer: does he penalize forever? We learned regarding one whose baheret was cut off: if unintentionally he is pure; if he cut it intentionally, R. Eliezer says 'when another nega arises and he is purified of it he becomes pure', while the Sages say 'until it spreads over his whole body, or until the baheret shrinks below the size of a gris'. So here R. Eliezer is lenient and the Sages penalize.",
+    "halakha": "The Rambam (Defilement by Leprosy 10:2–3): one who plucks out signs of impurity before coming to the kohen is pure; if he cut it intentionally and cut all the living flesh surrounding it, he has no purity ever."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34a:11:1",
+     "quote": "שלעולם לא יהא מותר",
+     "he": "רש״י: ״ומי קניס רבי אליעזר לעולם״ — שלעולם לא יהא מותר.",
+     "en": "Rashi: 'does R. Eliezer penalize forever' — that it will never be permitted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34a:11:1",
+     "quote": "כמה שמעתתא מוכחא דצורם אוזן של בכור קנסא הוא",
+     "he": "תוספות: כמה שמועות מוכיחות שצרימת אוזן הבכור היא קנס, ובסמוך נאמר ״בהאי מומא קנסוה רבנן״.",
+     "en": "Tosafot: several passages show that nicking a firstborn's ear is a penalty, and soon after it says 'for this blemish the Rabbis penalized him'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:1:1",
+     "quote": "שלא נתכוין לקצצה",
+     "he": "רש״י: ״ונקצצה״ — שלא נתכוין לקצצה.",
+     "en": "Rashi: 'and it was cut off' — that he did not intend to cut it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:1:3",
+     "quote": "והולכין אחר זו ואם ירפא מזו טהור מכולם דאיגלאי מילתא",
+     "he": "רש״י מבאר את רבי אליעזר: הולכים אחר הנגע השני, ואם ירפא ממנו טהור מכולם, כי אִיגלאי מילתא.",
+     "en": "Rashi explains R. Eliezer: we follow the second nega, and if he heals from it he is pure of all, since the matter is revealed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:2",
+     "quote": "לעולם לא יטהר עד שתפרח בכולו בכל גופו",
+     "he": "רבינו גרשום: לחכמים לעולם לא יטהר עד שתפרח הצרעת בכל גופו.",
+     "en": "Rabbeinu Gershom: according to the Sages he is never purified until it spreads over his whole body."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:2:2",
+     "quote": "אבל אי בשעה שקצצה הוה ביה שיעור נגע אין לו טהרה עולמית דקנסינן ליה לעולם",
+     "he": "רש״י: אם בשעת הקציצה היה בה שיעור נגע, אין לו טהרה עולמית, דקנסינן ליה.",
+     "en": "Rashi: if at the time of cutting it had the size of a nega, he has no purity ever, since we penalize him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34b:2:1",
+     "quote": "אבל במס' נגעים ליתיה כדפי' בקונט'",
+     "he": "תוספות: בכל הספרים כתוב ״עד שתמעט בהרתו מכגריס״, אבל במסכת נגעים זה אינו, כפי שפירש רש״י.",
+     "en": "Tosafot: all texts have 'until the baheret shrinks below a gris', but in Tractate Negaim it is absent, as Rashi explained."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 10:2",
+     "quote": "הַתּוֹלֵשׁ סִימָנֵי טֻמְאָה אוֹ שֶׁכָּוָה אֶת הַמִּחְיָה עַד שֶׁלֹּא בָּא אֵצֶל כֹּהֵן הֲרֵי זֶה טָהוֹר",
+     "he": "הרמב״ם: התולש סימני טומאה או שכוה את המחיה לפני שבא אצל כהן — טהור.",
+     "en": "The Rambam: one who plucks out signs of impurity or burns the 'michya' before coming to a kohen is pure."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Negaim 7:5:1",
+     "quote": "ומסתברא דאסמכתא בעלמא הוא דאינו אלא קנסא כדמשמע בבכורות",
+     "he": "ר״ש משאנץ: מסתבר שהדרשה אסמכתא בעלמא, ואינו אלא קנס, כמשמע בבכורות.",
+     "en": "Rash MiShantz: it stands to reason that the derivation is merely an asmakhta, and it is only a penalty, as implied in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 10:3",
+     "quote": "קְצָצָהּ בְּכַוָּנָה אִם קָצַץ כָּל הַבָּשָׂר הַחַי הַמַּקִּיפָהּ אֲפִלּוּ כְּחוּט הַשַּׂעֲרָה אֵין לוֹ טָהֳרָה עוֹלָמִית",
+     "he": "הרמב״ם: קצצה בכוונה, אם קצץ את כל הבשר החי המקיפה אפילו כחוט השערה — אין לו טהרה עולמית.",
+     "en": "The Rambam: if he cut it intentionally and cut all the living flesh surrounding it, even a hair's breadth, he has no purity ever."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Tazria 156:1",
+     "quote": "ומבואר בגמ' (בכורות דף לד) שהוא מטעם קנס והוא דרוש אסמכתיי כי מדאורייתא אף שקצץ במתכוין טהור",
+     "he": "המלבי״ם: מבואר בגמרא בבכורות שהוא מטעם קנס, ודרוש אסמכתאי, כי מדאורייתא אף שקצץ במתכוין טהור.",
+     "en": "The Malbim: the Gemara in Bekhorot makes clear it is a penalty and an asmakhta-type derivation, for by Torah law even one who cut intentionally is pure."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 13:46:2",
+     "quote": "אבל באמת מבואר בבכורות ל\"ד ב' דרק מדרבנן קנסוהו להיות משתלח כשקצץ בהרתו",
+     "he": "התורה תמימה: בבכורות מבואר שרק מדרבנן קנסוהו להיות משתלח כשקצץ בהרתו.",
+     "en": "The Torah Temimah: Bekhorot makes clear that only rabbinically was he penalized to be sent out when he cut off his baheret."
+    },
+    {
+     "who": {
+      "he": "יכין",
+      "en": "Yachin"
+     },
+     "ref": "Yachin on Mishnah Negaim 7:52:1",
+     "quote": "מדחסו עליו מן השמים שהתרפא מנגע השניי' אמרינן דאם היתה עדיין בו הראשונה גם היא היתה נתרפאת",
+     "he": "היכין מסביר את רבי אליעזר: מאחר שחסו עליו מן השמים והתרפא מהנגע השני, אומרים שאילו היתה בו הראשונה גם היא היתה מתרפאת.",
+     "en": "The Yachin explains R. Eliezer: since Heaven had mercy and he healed from the second nega, we say that had the first still been on him it too would have healed."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 34b:3",
+     "quote": "מפרשא דהיכא דשייר כל שהוא לא פליגי",
+     "he": "הרש״ש מקשה על התוספות: בתוספתא מפורש שכשנשאר ממנה כל שהוא לא נחלקו.",
+     "en": "The Rashash questions Tosafot: the Tosefta states explicitly that where any amount remained they do not dispute."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    7
+   ],
+   "he": {
+    "title": "קנס בממונו ולא בגופו — ״דרבי אליעזר אדרבי אליעזר״",
+    "gemara": "רבה ורב יוסף: רבי אליעזר קונס בממונו (בבכור) ולא בגופו (בנגע), כי בממון אפשר לומר שיבוא לעשות מום, בגוף אין לומר. רבא מקשה: דרבי אליעזר אדרבי אליעזר קשיא ודרבנן אדרבנן לא קשיא? מסקנה: דרבנן אדרבנן לא קשיא — בבכור קנסוהו במום שהטיל, ובנגע קנסוהו בקציצה שעשה, שלא תועיל לו.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Penalizing his property but not his body — 'R. Eliezer against R. Eliezer'",
+    "gemara": "Rabba and Rav Yosef: R. Eliezer penalizes in property (the firstborn) but not in the body (the nega), since regarding property one might say he would go and do it, but regarding his body this cannot be said. Rava objects: R. Eliezer against himself is difficult, while the Sages against themselves is not? Conclusion: the Sages are consistent — for the firstborn they penalized him on the blemish he made, and for the nega on the cutting he did, that it should not help him.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:4",
+     "quote": "בבכור קניס דאיכא למימר דאתי למעבד ביה מום ממה נפשך",
+     "he": "רבינו גרשום: בבכור קנס, כי אפשר שיבוא לעשות בו מום ממה נפשך.",
+     "en": "Rabbeinu Gershom: regarding the firstborn he penalized, since he might come to make a blemish either way."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:4:1",
+     "quote": "דסבר אטיל בו מום ואם יתירוהו לי בכך הרי נשכרתי ואם לאו מה הפסדתי",
+     "he": "רש״י: בממון יבוא לעשות — סבור שיטיל מום, ואם יתירוהו נשכר, ואם לאו מה הפסיד.",
+     "en": "Rashi: with property he would do it — he thinks he will inflict a blemish; if they permit it he gains, and if not what has he lost."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:4:2",
+     "quote": "מוטב לו להניח את זה שמא ירפא",
+     "he": "רש״י: בגופו לא יקצץ, כי מוטב לו להניח את הנגע שמא ירפא.",
+     "en": "Rashi: with his body he would not cut, since it is better for him to leave this one in case it heals."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:5",
+     "quote": "דנתכוון למשרייה בהאי מומא קנסוה רבנן דחשבינן לההוא מום כמאן דליתיה",
+     "he": "רבינו גרשום: מי שנתכוון להתיר במום זה — קנסוהו חכמים, ונחשב המום כאילו אינו.",
+     "en": "Rabbeinu Gershom: one who intended to permit it by this blemish was penalized by the Sages, and that blemish is treated as though it did not exist."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:7:1",
+     "quote": "לא מישתרי ליה עד שיוולד לו אחר",
+     "he": "רש״י: ״בהאי מומא״ — לא מישתרי ליה עד שיוולד לו אחר.",
+     "en": "Rashi: 'with this blemish' — it is not permitted until another one is born."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:7:2",
+     "quote": "נמצא טמא עולמית דחשבינן לנגע כמאן דאיתיה",
+     "he": "רש״י: כיון שהקציצה אינה מועילה לטהרו, נמצא טמא עולמית, כי חושבים את הנגע כמי שקיים.",
+     "en": "Rashi: since this cutting does not help him become pure, he is found impure forever, as the nega is considered still present."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 34b:1",
+     "quote": "דמחית נפשי' לספיקא לקוץ",
+     "he": "היעב״ץ מתקן בלשון רש״י: ״דמחית נפשיה לספיקא לקוץ״.",
+     "en": "The Ya'avetz emends Rashi's wording: 'that he would put himself in doubt to cut'."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Negaim 7:5:1",
+     "quote": "בממונא איכא למימר דעביד דסבר אטיל בו מום",
+     "he": "התוספות יום טוב בנגעים מביא את תירוץ הגמרא: בממון אפשר לומר שיעשה, שסבור שיטיל בו מום.",
+     "en": "Tosafot Yom Tov in Negaim cites the Gemara's answer: with property one can say he would do it, as he thinks he will inflict a blemish."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume I, Yoreh De'ah 26:22",
+     "quote": "כל עיקר הקנס הוא על הפועל דלא ליהני מעשיו",
+     "he": "משפטי עוזיאל: לפי הסוגיה בבכורות עיקר הקנס הוא על הפועל, כדי שלא יהנו מעשיו.",
+     "en": "Mishpetei Uziel: according to the passage in Bekhorot the penalty falls on the doer, so that his actions not benefit him."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume I, Yoreh De'ah 26:7",
+     "quote": "ובזה הוא דקנסינן ליה דלא יהני ליה מעשיו",
+     "he": "משפטי עוזיאל: ״ובזה הוא דקנסינן ליה דלא יהני ליה מעשיו״ — בכהן שהטיל מום בבכור שזכה בו.",
+     "en": "Mishpetei Uziel: 'in this we penalize him, that his actions not benefit him' — regarding a kohen who inflicted a blemish on a firstborn he acquired."
+    },
+    {
+     "who": {
+      "he": "פרי מגדים",
+      "en": "Peri Megadim"
+     },
+     "ref": "Peri Megadim on Yoreh De'ah, Siftei Da'at 99:12:3",
+     "quote": "וכללא כייל מי איכא מידי דעובר על דברי תורה ולא קנסו שלא יהנו מעשיו הרעים",
+     "he": "הפרי מגדים מצטט כלל של אחרון אחר: כל מי שעבר על דברי תורה, קנסוהו שלא יהנו מעשיו הרעים, ותמה על כך.",
+     "en": "The Peri Megadim cites another Acharon's rule that whoever transgresses the Torah is penalized so that his evil deeds not benefit him, and expresses surprise at it."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    12
+   ],
+   "he": {
+    "title": "״יטהר תנן או ויטהר תנן״ — חתן שנולד לו נגע",
+    "gemara": "רב פפא מסתפק אם שנינו ״יטהר״ או ״ויטהר״. הנפקא מינה לחתן שנראה בו נגע, שנותנים לו שבעה ימי משתה. אם ״יטהר״ — מן הראשון טהור, ולשני ממתינים לו שבעה ימים; ואם ״ויטהר״ — סוף סוף הוא טמא מן הראשון. הגמרא מסיימת ״תיקו״.",
+    "halakha": "הרמב״ם (טומאת צרעת ט:ח): חתן שנראה בו נגע — נותנים לו כל שבעת ימי המשתה."
+   },
+   "en": {
+    "title": "'Did we learn yitahar or veyitahar?' — a groom who develops a nega",
+    "gemara": "Rav Pappa asks whether we learned 'yitahar' or 'veyitahar'. The difference is for a groom on whom a nega appears, who is given seven days of the feast. If 'yitahar', he is pure of the first and for the second they wait for him seven days; if 'veyitahar', he is still impure from the first. The Gemara ends 'teiku'.",
+    "halakha": "The Rambam (Defilement by Leprosy 9:8): a groom on whom a nega appears is given all seven days of the feast."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:6",
+     "quote": "יטהר משמע דכשנולד לו נגע אחר וירפא יטהר למפרע מן הראשון משעת קציצה",
+     "he": "רבינו גרשום: ״יטהר״ משמע שכשיולד נגע אחר וירפא — יטהר למפרע מן הראשון משעת הקציצה.",
+     "en": "Rabbeinu Gershom: 'yitahar' implies that when another nega is born and heals, he is purified retroactively from the first, from the time of cutting."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:8:1",
+     "quote": "דמשמע מיד כשיוולד בו נגע אחר יטהר מן הראשונה",
+     "he": "רש״י: ״יטהר תנן״ — משמע מיד כשיוולד בו נגע אחר יטהר מן הראשונה.",
+     "en": "Rashi: 'yitahar' implies that immediately when another nega is born he is pure of the first."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:8:2",
+     "quote": "דמשמע כשיוולד נגע אחר ויטהר ממנו מן האחרון אז יטהר מן הראשון",
+     "he": "רש״י: ״ויטהר תנן״ — משמע שכשיטהר מן האחרון אז יטהר מן הראשון.",
+     "en": "Rashi: 'veyitahar' implies that when he is pure of the last then he is pure of the first."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:10:1",
+     "quote": "שלא יראה כהן את הנגע דכל כמה דלא חזי ליה כהן ולא מטמא ליה לא הוי טמא",
+     "he": "רש״י: ״נותנין לו״ — שלא יראה כהן את הנגע, כי כל עוד לא ראהו כהן ולא טימאו, אינו טמא.",
+     "en": "Rashi: 'they give him' — so that the kohen not see the nega, for as long as a kohen has not seen and declared it impure, he is not impure."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:7",
+     "quote": "ולחתן שנולד לו נגע נותנין לו ז' ימי משתה",
+     "he": "רבינו גרשום: לחתן שנולד לו נגע נותנין לו שבעה ימי משתה.",
+     "en": "Rabbeinu Gershom: a groom on whom a nega is born is given the seven days of the feast."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:9",
+     "quote": "והוי טמא אפילו בימי המשתה",
+     "he": "רבינו גרשום: ״ויטהר״ — הוא טמא מן הראשון אפילו בימי המשתה.",
+     "en": "Rabbeinu Gershom: 'veyitahar' — he remains impure from the first even during the days of the feast."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34b:11:1",
+     "quote": "וא\"ת והא בעי תגלחת וצפרים ואסור בתשמיש המטה כל ימי ספורו וי\"ל כגון שלא היה אלא מצורע מוסגר",
+     "he": "תוספות מקשים: הרי צריך תגלחת וציפורים ואסור בתשמיש המיטה בימי ספורו — ומתרצים: מדובר במצורע מוסגר בלבד.",
+     "en": "Tosafot ask: he needs shaving and the birds and is forbidden marital relations during his counting — and answer: it speaks of a confined (musgar) metzora only."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 9:8",
+     "quote": "חָתָן שֶׁנִּרְאָה בּוֹ נֶגַע נוֹתְנִין לוֹ כָּל שִׁבְעַת יְמֵי הַמִּשְׁתֶּה",
+     "he": "הרמב״ם: חתן שנראה בו נגע — נותנין לו כל שבעת ימי המשתה.",
+     "en": "The Rambam: a groom on whom a nega appears is given all seven days of the feast."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Negaim 7:4:12",
+     "quote": "וקנסא בעלמא הוא כדמוכח בבכורות",
+     "he": "ר״ש משאנץ: בנידון נקצצה — מן הדין טהור, וקנס בעלמא הוא, כמוכח בבכורות.",
+     "en": "Rash MiShantz: regarding a cut-off nega — by law he is pure, and it is only a penalty, as shown in Bekhorot."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Negaim 7:4:5",
+     "quote": "או ויטהר תנן. דמשמע כשיטהר מן השני. אז יטהר מן הראשון",
+     "he": "התוספות יום טוב מביא את ספק רב פפא בגמרא בבכורות לגבי ״ויטהר״ — כשיטהר מן השני אז יטהר מן הראשון.",
+     "en": "Tosafot Yom Tov cites Rav Pappa's question in Bekhorot: 'veyitahar' means when he is pure of the second, then he is pure of the first."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Negaim 3:2:1",
+     "quote": "ופי' הרא\"ש ז\"ל שאר כל אדם שנראה בו נגע ב\"ד כופים אותו לבוא אל הכהן",
+     "he": "מלאכת שלמה מביא את הרא״ש: שאר אדם שנראה בו נגע — בית דין כופים אותו לבוא אל הכהן, אבל חתן ורגל נותנים.",
+     "en": "Melekhet Shelomoh cites the Rosh: any other person with a nega is compelled by the court to come to the kohen, but a groom or festival-goer is given time."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura IV 3:110:12",
+     "quote": "אם נימא דמחזיקין מאיסור לאיסור וכמ\"ש התוס' בכתובות דף ע\"ה לענין נגע",
+     "he": "השואל ומשיב דן בנפקא מינה נוספת לספק ״יטהר״ או ״ויטהר״, לפי הכלל ״מחזיקין מאיסור לאיסור״ בנגעים.",
+     "en": "Shoel uMeshiv discusses another practical difference in the question of 'yitahar' or 'veyitahar', based on whether we carry over from one prohibition to another regarding negaim."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    13,
+    17
+   ],
+   "he": {
+    "title": "צרם אוזן הבכור ומת — האם קונסים את בנו?",
+    "gemara": "רבי ירמיה שואל את רבי זירא: צורם אוזן בבכור ומת, מהו לקנוס את בנו? הוא מביא צדדים משני דברים: מוכר עבדו לגויים ומת (קנסו, שכל יום מפקיע ממצוות), ומכוון מלאכתו במועד ומת (לא קנסו). ורבי זירא משיב ממה ששנינו: שדה שנטייבה בשביעית ״הטיבה ומת — בנו זורעה״. אלמא לדידיה קנסו ולבנו לא קנסו.",
+    "halakha": "הטור והשולחן ערוך (יו״ד שי״ג:א): אם מת, אין קונסין בנו אחריו אלא שוחטין אותו על ידו."
+   },
+   "en": {
+    "title": "One who nicked a firstborn's ear and died — is his son penalized?",
+    "gemara": "R. Yirmeya asks R. Zeira: one who nicked a firstborn's ear and died, may his son be penalized? He brings parallels from two matters: one who sold his slave to gentiles and died (they penalized his son, since each day removes him from mitzvot), and one who intentionally arranged his work for chol hamoed and died (they did not penalize his son). R. Zeira answers from what we learned: a field that was improved in the Sabbatical year — 'if he improved it and died, his son may sow it'. So they penalized him but not his son.",
+    "halakha": "The Tur and Shulchan Arukh (YD 313:1): if he died, his son is not penalized; rather, it is slaughtered on his account."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:11",
+     "quote": "לפדותו משום דכל יומא מפקע ליה ממצות אבל בבכור ליכא מפקע ולא קנסו",
+     "he": "רבינו גרשום: בעבד קנסו את בנו לפדותו, כי כל יום מפקיע אותו ממצוות; אבל בבכור אין הפקעה ולא קנסו.",
+     "en": "Rabbeinu Gershom: regarding the slave they penalized the son to redeem him, since each day removes him from mitzvot; but regarding the firstborn there is no such removal and they did not penalize."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:12",
+     "quote": "משום דמלאכת חולו של מועד מדרבנן אסור ולא מדאורייתא אסור",
+     "he": "רבינו גרשום: במכוין מלאכתו במועד לא קנסו, כי מלאכת חול המועד אסורה מדרבנן ולא מדאורייתא.",
+     "en": "Rabbeinu Gershom: regarding arranging work for the festival they did not penalize, since work on chol hamoed is forbidden rabbinically and not by Torah law."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:13",
+     "quote": "או דלמא קנסוה לממוניה לבכור ולא יאכל אפילו לבנו",
+     "he": "רבינו גרשום: או שקנסוהו את ממונו, הבכור, שלא יאכל אפילו לבנו.",
+     "en": "Rabbeinu Gershom: or they penalized his property, the firstborn, that it not be eaten even by his son."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 34b:15",
+     "quote": "דקוויץ לא חשיבה מלאכה",
+     "he": "רבינו גרשום: ״שנתקווצה״ — תזרע, כי נטילת קוצים אינה חשובה מלאכה.",
+     "en": "Rabbeinu Gershom: 'that was cleared of thorns' — it may be sown, since clearing thorns is not an important labor."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:13:1",
+     "quote": "מהו לקנוס בנו אחריו שלא יאכל מאותו בכור עולמית",
+     "he": "רש״י: מהו לקנוס את בנו אחריו שלא יאכל מאותו בכור עולמית.",
+     "en": "Rashi: may his son be penalized after him, that he never eat from that firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:15:1",
+     "quote": "התם הוא דלא קנסינן לבנו דהא לא עביד אביו איסורא",
+     "he": "רש״י: במכוין מלאכתו במועד לא קנסינן לבנו, כי אביו לא עשה איסור (מת לפני המועד).",
+     "en": "Rashi: regarding intending work on the festival we do not penalize his son, since his father did not do a forbidden act (he died before the festival)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:16:1",
+     "quote": "עבד איסורא דמטיל מום בקדשים",
+     "he": "רש״י: ״אבל הכא״ — עבד איסורא דמטיל מום בקדשים.",
+     "en": "Rashi: 'but here' — he committed the transgression of inflicting a blemish on sacred animals."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 34b:17:5",
+     "quote": "דקנסינן דעבד עבודה חשובה בשביעית",
+     "he": "רש״י: ״לא תזרע״ — כי קנסינן את מי שעבד עבודה חשובה בשביעית.",
+     "en": "Rashi: 'it may not be sown' — since we penalize one who did a significant labor in the Sabbatical year."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Gittin 44a:19:2",
+     "quote": "אבל מוכר עבדו לעובד כוכבים איסורא דרבנן הוא דעבד",
+     "he": "רש״י בגיטין: בצורם אוזן הבכור אביו עבר איסור דאורייתא, אבל מוכר עבדו לעובד כוכבים עבר איסור דרבנן.",
+     "en": "Rashi in Gittin: with the firstborn the father committed a Torah-level prohibition, whereas one who sold his slave to a gentile committed a rabbinic one."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 44a:19:1",
+     "quote": "דשאני עבד דמפקע ליה ממצות",
+     "he": "תוספות בגיטין: אין ללמוד מהכא לבכורות, ״דשאני עבד דמפקע ליה ממצות״.",
+     "en": "Tosafot in Gittin: nothing can be inferred from here to Bekhorot, since a slave is different in that it removes him from mitzvot."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34b:13:1",
+     "quote": "ואומר רבי דשלשתם שאל בבת אחת והש\"ס קבע כל אחת במקומה",
+     "he": "תוספות: רבי אומר ששלשת הספקות נשאלו בבת אחת והש״ס קבע כל אחת במקומה.",
+     "en": "Tosafot: Rabbi says that all three questions were asked at once and the Gemara placed each in its own place."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34b:14:1",
+     "quote": "הכא קנסו משום דאיכא איסורא דאורייתא",
+     "he": "תוספות: ״אם תמצא לומר... לא קנסו״ — אפשר שבצורם קנסו משום שיש איסור דאורייתא.",
+     "en": "Tosafot: even if there they did not penalize, here they might, because there is a Torah-level prohibition."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 34b:17:3",
+     "quote": "וי\"ל דקסבר שראוי להחמיר בשביעית יותר מכולם כדאמר בקדושין",
+     "he": "תוספות: אפשר שהחמירו בשביעית יותר מבכל דבר, כמו שאמרו בקידושין ״כמה קשה אבקה של שביעית״.",
+     "en": "Tosafot: one may say that the Sages treat the Sabbatical year more stringently than anything else, as said in Kiddushin."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:5:2",
+     "quote": "אלמא לדידיה קנסו רבנן לבריה לא קנסו רבנן הכי נמי לדידיה קנסו רבנן לבריה לא קנסו רבנן",
+     "he": "הרא״ש: אלמא לדידיה קנסו ולבריה לא — וכך גם כאן.",
+     "en": "The Rosh: so they penalized him and not his son — and so too here."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:7",
+     "quote": "אִם מֵת זֶה הַחוֹטֵא מֻתָּר לִבְנוֹ לְשָׁחֳטוֹ עַל מוּם שֶׁעָשָׂה אָבִיו שֶׁלֹּא קָנְסוּ בְּנוֹ אַחֲרָיו",
+     "he": "הרמב״ם: אם מת החוטא, מותר לבנו לשחטו על המום שעשה אביו, שלא קנסו בנו אחריו.",
+     "en": "The Rambam: if the sinner died, his son may slaughter it on the blemish his father made, since they did not penalize the son."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 1:13",
+     "quote": "וְאִם מֵת יִזְרָעֶנָּה בְּנוֹ",
+     "he": "הרמב״ם בשמיטה: מי שחרש, נירה או זיבל את שדהו בשביעית — קונסין אותו שלא יזרענה, ואם מת — יזרענה בנו.",
+     "en": "The Rambam in Shemitah: one who plowed, fallowed or fertilized his field in the Sabbatical year is penalized not to sow it; if he died his son may sow it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Rest on a Holiday 7:4",
+     "quote": "וְכָל הַמְכַוֵּן מְלַאכְתּוֹ וְהִנִּיחָהּ לַמּוֹעֵד וַעֲשָׂאָהּ בַּמּוֹעֵד בֵּית דִּין מְאַבְּדִין אוֹתָהּ וּמַפְקִירִין אוֹתָהּ לַכּל",
+     "he": "הרמב״ם ביום טוב: המכוון מלאכתו להניחה למועד ועשאה במועד — בית דין מאבדין אותה ומפקירין אותה לכל.",
+     "en": "The Rambam on Yom Tov: one who arranged his work to leave it for chol hamoed and did it then — the court destroys it and declares it ownerless."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 313",
+     "quote": "ואם עשה בו מום ומת אין קונסין בנו אחריו אלא שוחטין אותו על ידו",
+     "he": "הטור: אם עשה בו מום ומת — אין קונסין בנו אחריו אלא שוחטין אותו על ידו.",
+     "en": "The Tur: if he made a blemish in it and died, his son is not penalized; rather, it is slaughtered on his account."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 313:1",
+     "quote": "ואם מת אין קונסין בנו אחריו אלא שוחטין אותו על ידו",
+     "he": "השולחן ערוך: ואם מת — אין קונסין בנו אחריו אלא שוחטין אותו על ידו.",
+     "en": "The Shulchan Arukh: and if he died, his son is not penalized; rather, it is slaughtered on his account."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Orach Chayim 538:13:1",
+     "quote": "וגם הרמב\"ם וסמ\"ג שהחמירו במכוין עצמו לאבד ממנו ולהפקירה כתבו דבנו לא קנסינן ליה כלל",
+     "he": "הבית יוסף: הרמב״ם והסמ״ג שהחמירו במכוון לאבד ממנו, כתבו שבנו לא קנסינן כלל.",
+     "en": "The Beit Yosef: the Rambam and the Semag, who were stringent with the one who intended, wrote that the son is not penalized at all."
+    },
+    {
+     "who": {
+      "he": "אליה רבה",
+      "en": "Eliyah Rabbah"
+     },
+     "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 538:4",
+     "quote": "ואזיל לטעמיה בבית יוסף שהשיג על רבינו ירוחם שכתב דקנסו בניו מהא דפשטינן בבכורות דלא קנסינן בצרם אוזן",
+     "he": "האליה רבה: הבית יוסף השיג על רבינו ירוחם שכתב שקנסו בניו, מכח מה שנפשט בבכורות שלא קנסינן בצרם אוזן.",
+     "en": "Eliyah Rabbah: the Beit Yosef objected to Rabbeinu Yeruchem, who wrote that sons were penalized, on the basis of what was resolved in Bekhorot, that we do not penalize in the nicked ear case."
+    },
+    {
+     "who": {
+      "he": "ביאור הלכה",
+      "en": "Biur Halacha"
+     },
+     "ref": "Biur Halacha 538:6:1",
+     "quote": "וב\"י משיג עליו דהלא מקילינן גם בצורם בכור דהתם בודאי איסור דאורייתא ואפ\"ה מסקינן בבכורות דלא קנסו בנו אחריו",
+     "he": "הביאור הלכה: הבית יוסף משיג שגם בצורם בכור, שהוא איסור דאורייתא, מסקינן שלא קנסו בנו אחריו.",
+     "en": "Biur Halacha: the Beit Yosef objects that even with nicking a firstborn, a Torah prohibition, we conclude that they did not penalize his son."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah I, Orach Chaim 20:10",
+     "quote": "ובכולהו נסתפק הש\"ס אם מת אי קנסו בנו אחריו או דלמא לדידיה קנסו ולבנו לא קנסו",
+     "he": "נודע ביהודה: בכל שלושת המקרים נסתפק הש״ס אם קנסו את בנו אחריו או שלדידיה קנסו ולבנו לא.",
+     "en": "Noda BiYehudah: in all three cases the Gemara was in doubt whether the son was penalized or only he."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 18:9:1",
+     "quote": "והוא מחמת קנס ולא קנסו בנו אחריו ואפילו לא עשה בידים רק לדעתו",
+     "he": "המנחת חינוך: האיסור מחמת קנס, ולא קנסו בנו אחריו.",
+     "en": "Minchat Chinukh: the prohibition is a penalty, and they did not penalize his son after him."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Yevamot 91a:1",
+     "quote": "וכדאשכחן בכמה קנסות דל\"ק בנו אחריו במו\"ק (יג א) ובגיטין (מד ב) ובבכורות (לד ב)",
+     "he": "הרש״ש: מצינו בכמה קנסות שלא קנסו בנו אחריו — במועד קטן, בגיטין ובבכורות.",
+     "en": "The Rashash: we find several penalties where the son was not penalized — in Moed Katan, Gittin and Bekhorot."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Sheviit 4:2:3",
+     "quote": "אמרינן נקטינן הטיבה ומת בנו זורעה",
+     "he": "ר״ש משאנץ: בגיטין ובבכורות אמרו ״נקטינן הטיבה ומת בנו זורעה״.",
+     "en": "Rash MiShantz: in Gittin and Bekhorot they said 'we hold: if he improved it and died, his son sows it'."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:2:3",
+     "quote": "דלדידי' קנסו רבנן ולא לבריה",
+     "he": "מלאכת שלמה: ״נקטינן הטיבה מת בנו זורעה״ — לדידיה קנסו רבנן ולא לבריה.",
+     "en": "Melekhet Shelomoh: 'if he improved it, died, his son sows it' — the Rabbis penalized him and not his son."
+    }
+   ]
+  }
+ ]
+}
