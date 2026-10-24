@@ -1,0 +1,1465 @@
+{
+ "ref": "Bekhorot 36",
+ "date": "2026-10-24",
+ "he": {
+  "overview": "הדף פותח בסיום הדיון בנאמנות הכהנים בבכורות, בשאלת עד מפי עד בעדות בכור ובדברי רבי אילעא על ״הפה שאסר הוא הפה שהתיר״ ו״מה לו לשקר״, וממשיך במעשה רבי צדוק עם רבן גמליאל ורבי יהושע. מן המשנה על נאמנות הכהן הגמרא עוברת לכלל ״כל מילתא דעבידא לאיגלויי לא משקרי בה אינשי״ ולהבחנה בין שליח ל״מאיש פלוני״. בעמוד ב הגמרא דנה בנאמנות ישראל ובמעשה רפרם והשרוע שלפני רב אשי, במשנת ״הכל נאמנין על מומי מעשר״ ובהתרת בכור על פי שלשה בני הכנסת. הראשונים והאחרונים דנים בחשד הכהנים, בגדר ״עבידא לאיגלויי״ ובדיני ״מומחה״.",
+  "title": "סיכום — בכורות ל״ו"
+ },
+ "en": {
+  "overview": "The daf opens by completing the discussion of the kohanim's credibility regarding firstborn animals, the question of hearsay testimony about a firstborn, and R. Ilai's statement about \"the mouth that forbade is the mouth that permitted\" and \"what reason has he to lie\", and goes on to the story of R. Tzadok, Rabban Gamliel and R. Yehoshua. From the Mishnah on the kohen's credibility the Gemara moves to the principle that people do not lie about a matter destined to be revealed, and to the distinction between an agent and \"from so-and-so\". On amud b the Gemara discusses a Yisrael's credibility, the story of Rafram and the sharua before Rav Ashi, the Mishnah that everyone is believed about blemishes of the animal tithe, and permitting a firstborn on the word of three members of the community. The Rishonim and Acharonim discuss the suspicion of kohanim, the scope of \"destined to be revealed\", and the rules of an expert (mumcheh).",
+  "title": "Summary — Bekhorot 36"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "עד מפי עד"
+   ],
+   "he": {
+    "term": "עד מפי עד",
+    "explanation": "עד שמעיד על מה ששמע מעד אחר ולא על מה שראה בעצמו. בדרך כלל אין עדות כזו מתקבלת, אך בעדות אשה שמת בעלה היא כשרה. הגמרא כאן שואלת אם גם בעדות בכור היא כשרה, ומשיבה שכן."
+   },
+   "en": {
+    "term": "Ed mi-pi ed (hearsay witness)",
+    "explanation": "A witness who testifies about what he heard from another witness, not what he saw himself. Normally such testimony is not accepted, but it is valid in testimony that a woman's husband died. The Gemara here asks whether it is also valid for testimony about a firstborn, and concludes that it is."
+   },
+   "source": {
+    "who": {
+     "he": "רב נסים גאון",
+     "en": "Rav Nissim Gaon"
+    },
+    "ref": "Rav Nissim Gaon on Shabbat 145b:1",
+    "quote": "עד מפי עד נמי כשר לעדות בכור"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "שהפה שאסר הוא הפה שהתיר"
+   ],
+   "he": {
+    "term": "הפה שאסר הוא הפה שהתיר",
+    "explanation": "כלל בנאמנות: מי שהאמירה שלו יוצרת את האיסור, כגון אשה האומרת ״אשת איש הייתי וגרושה אני״, נאמן גם על ההיתר שבאותה אמירה. הגמרא דנה אם הכלל חל על כהן האומר שהבכור בכור ומומו עמו."
+   },
+   "en": {
+    "term": "Ha-peh she-asar hu ha-peh she-hitir",
+    "explanation": "A principle of credibility: one whose statement creates the prohibition, such as a woman who says \"I was married and I am divorced\", is believed also for the permission within that same statement. The Gemara discusses whether it applies to a kohen who says the animal is a firstborn and its blemish is with it."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 36a:3",
+    "quote": "גבי אשה דאמרינן הפה שאסר הוא שהתיר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "מה לו לשקר"
+   ],
+   "he": {
+    "term": "מה לו לשקר",
+    "explanation": "טענה שבה מאמינים לאדם משום שאם רצה לשקר היה יכול לומר דבר אחר שהיה נאמן בו. אביי אומר שבמקום עדים אין אומרים אותה, כמו בשוכר שאמר שהלך בדרך נהר פקוד ושם היו מים."
+   },
+   "en": {
+    "term": "Mah lo leshaker (what reason has he to lie)",
+    "explanation": "An argument by which a person is believed because, had he wished to lie, he could have said something else that would have been accepted. Abaye says it is not applied where there are witnesses, as in the case of the hirer who said he took the Nehar Pekod road, where there was water."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 36a:10:1",
+    "quote": "דאנן סהדי דכל שעתא איכא מיא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "בעלי תריסין"
+   ],
+   "he": {
+    "term": "בעלי תריסין",
+    "explanation": "תלמידי חכמים שנקראו כך על שם שהם נלחמים במלחמתה של תורה. רבן גמליאל ביקש לברר את הדין בנוכחותם, בבית המדרש."
+   },
+   "en": {
+    "term": "Ba'alei trisin (the \"shield-bearers\")",
+    "explanation": "Torah scholars so called because they fight the war of Torah. Rabban Gamliel wanted to settle the matter in their presence, in the study hall."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 36a:13:1",
+    "quote": "תלמידי חכמים הנלחמים במלחמה של תורה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "כל מילתא דעבידא לאיגלויי"
+   ],
+   "he": {
+    "term": "מילתא דעבידא לאיגלויי",
+    "explanation": "דבר שבדרך הטבע ייוודע, ולכן אנשים אינם משקרים בו. רב יהודה אמר רב משתמש בו כדי להאמין לכהן האומר שישראל נתן לו בכור במומו, כי אפשר לשאול את הישראל או את החכם."
+   },
+   "en": {
+    "term": "Milta de-avida le-igaloyei (a matter destined to be revealed)",
+    "explanation": "A matter that will naturally become known, and so people do not lie about it. Rav Yehuda in Rav's name uses it to believe a kohen who says a Yisrael gave him a firstborn with its blemish, since the Yisrael or the sage can be asked."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 36a:13",
+    "quote": "דמצי למישייליה לחכם אם התירו לו אם לא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 9,
+   "anchors": [
+    "שרוע"
+   ],
+   "he": {
+    "term": "שרוע",
+    "explanation": "בעל חיים שאחת מעיניו גדולה והשנייה קטנה, מום מובהק. הגמרא דנה במעשה שרוע שבא לפני רב אשי."
+   },
+   "en": {
+    "term": "Sharua",
+    "explanation": "An animal with one large eye and one small one, an evident blemish. The Gemara discusses the case of a sharua that came before Rav Ashi."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 36b:9:1",
+    "quote": "עינו אחת גדולה ואחת קטנה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 16,
+   "anchors": [
+    "שלשה בני הכנסת"
+   ],
+   "he": {
+    "term": "שלשה בני הכנסת",
+    "explanation": "שלשה אנשים שאינם מומחים, המתירים בכור במום מובהק כשאין מומחה. רבי יוסי חולק ודורש מומחה אפילו אם יש עשרים ושלשה."
+   },
+   "en": {
+    "term": "Shlosha bnei ha-keneset (three members of the community)",
+    "explanation": "Three non-experts who may permit a firstborn for an evident blemish when no expert is present. R. Yosei disagrees and requires an expert even if there are twenty-three."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 36b:18",
+    "quote": "שלשה בני כנסת דלא בעינן מומחין גמורין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "ובמומין מובהקין"
+   ],
+   "he": {
+    "term": "מום מובהק",
+    "explanation": "מום ברור וגלוי כגון עין סומא, יד קטועה או רגל שבורה. רבא אומר שבחוצה לארץ שלשה בני הכנסת מתירים רק במומים כאלה."
+   },
+   "en": {
+    "term": "Mum muvhak (evident blemish)",
+    "explanation": "A clear, visible blemish such as a blinded eye, a cut-off hand or a broken leg. Rava says that outside the Land three members of the community permit only such blemishes."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 36b:16:1",
+    "quote": "דהוי מום מובהק"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "חשד הכהנים: האם חשוד לדבר אחד חשוד לכל התורה",
+    "gemara": "הגמרא מסיימת את הדיון הקודם: דברי רבי מאיר שחשוד לדבר אחד חשוד לכל התורה נאמרו רק מתוך חשש בעלמא, ולא לצורך להחזיק את הכהנים כחשודים בהחלט.",
+    "halakha": "הכהנים חשודים להטיל מום בבכור, ואם עשה מעשה שנראה כמערים אין שוחטים על אותו מום."
+   },
+   "en": {
+    "title": "The kohanim's suspicion: is one suspected of one matter suspected of the whole Torah",
+    "gemara": "The Gemara closes the preceding discussion: R. Meir's rule that one suspected of one matter is suspected of the entire Torah was said only as a mere concern, not to establish the kohanim as definitely suspect.",
+    "halakha": "Kohanim are suspected of inflicting a blemish on a firstborn, and if one did something that looks like scheming, one does not slaughter on that blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:1:1",
+     "quote": "חשוד לדבר אחד חשוד לכל התורה כולה",
+     "he": "רש״י מבאר שהשאלה היא על שיטת רבי מאיר שחשוד לדבר אחד חשוד לכל התורה, כשמוחזק לנו שעובר על דבר אחד.",
+     "en": "Rashi explains that the question concerns R. Meir's view that one suspect in one thing is suspect in the whole Torah, where we hold that he transgresses in one matter."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:1:1",
+     "quote": "מתוך הלשון משמע דאליבא דר' מאיר קאמר ולא סבירא לן כוותיה",
+     "he": "תוספות לומדים מהלשון שהדברים נאמרו לפי רבי מאיר, ואיננו סוברים כמותו.",
+     "en": "Tosafot learn from the wording that this was said according to R. Meir, and that we do not hold like him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:1:1",
+     "quote": "אפילו במוחזק עובר על דבר א' לא הוי חשוד על כל התורה כולה",
+     "he": "לדעת תוספות אפילו מי שמוחזק כעובר על דבר אחד אינו חשוד על כל התורה.",
+     "en": "In Tosafot's view even one established as transgressing one matter is not suspect for the whole Torah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:1",
+     "quote": "לא חשידי לכל התורה וכשירין למידן",
+     "he": "רבינו גרשום: הכהנים אינם חשודים לכל התורה ולכן כשרים לדון.",
+     "en": "Rabbeinu Gershom: the kohanim are not suspect for the whole Torah, and so are fit to judge."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:8:1",
+     "quote": "אפי' מוחזק עובר על דבר אחד אין חשוד לכל התורה",
+     "he": "הרא״ש מביא שלדברי אביי אפילו מוחזק עובר על דבר אחד אינו חשוד לכל התורה.",
+     "en": "The Rosh writes that according to Abaye even one held to transgress one matter is not suspect for the whole Torah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:10",
+     "quote": "כֵּיוָן שֶׁאָכַל נֶחְלַק שְׂפָתוֹ אֲפִלּוּ הָיָה חָבֵר הֲרֵי זֶה לֹא יִשְׁחֹט עָלָיו",
+     "he": "הרמב״ם פוסק שמי שעשה מעשה המרגיל להטיל מום, אפילו חבר, לא ישחט על אותו מום.",
+     "en": "The Rambam rules that one who did an act that tends to cause a blemish, even a haver, may not slaughter on that blemish."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Berakhot 27b:3",
+     "quote": "וכל הכהנים חשודים על בכורות שלהם להטיל בהם מום",
+     "he": "המאירי: כל הכהנים חשודים על בכורות שלהם להטיל בהם מום.",
+     "en": "The Meiri: all kohanim are suspected, regarding their own firstborn animals, of inflicting a blemish on them."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 36a:3",
+     "quote": "דמשמע דוקא לר\"מ מוכרח לומר",
+     "he": "הרש״ש מדייק מלשון תוספות שדוקא לרבי מאיר מוכרח לומר שהחשד אינו אלא חששא.",
+     "en": "The Rashash infers from Tosafot's wording that it is only according to R. Meir that one must say the suspicion is a mere concern."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:1",
+     "quote": "הכהנים חשודים להטיל מום בבכור אפי' אם הוא חכם ויושב בישיבה",
+     "he": "השולחן ערוך: הכהנים חשודים להטיל מום בבכור, אפילו חכם היושב בישיבה.",
+     "en": "The Shulchan Arukh: kohanim are suspected of inflicting a blemish on a firstborn, even a sage who sits in the yeshiva."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    4
+   ],
+   "he": {
+    "title": "עד מפי עד בעדות בכור",
+    "gemara": "שאלה: עד מפי עד, האם כשר לעדות בכור? רב אסי אוסר ורב אשי מתיר. רב אסי מביא ברייתא שעד מפי עד כשר רק לעדות אשה, ומתקנים שהכוונה לכל עדות שאשה כשרה לה. רב יימר הכשיר, ומסקנת הגמרא שעד מפי עד כשר לעדות בכור.",
+    "halakha": "הלכה: עד שהעיד מפי עד אחר שהמום נפל שלא לדעת, נאמן; אפילו אשה נאמנת לומר שבפניה נפל המום מאליו."
+   },
+   "en": {
+    "title": "Hearsay testimony about a firstborn",
+    "gemara": "The question: is hearsay testimony valid for testimony about a firstborn? Rav Assi forbids and Rav Ashi permits. Rav Assi cites a baraita that hearsay is valid only for a woman's testimony, and it is amended to mean any testimony for which a woman is valid. The conclusion is that hearsay is valid for testimony about a firstborn.",
+    "halakha": "Halakha: a witness who testifies on another witness's word that the blemish fell off unintentionally is believed; even a woman is believed to say that the blemish fell off by itself in her presence."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:3:2",
+     "quote": "ובעדות בכור נמי אשה כשרה",
+     "he": "רש״י: בעדות בכור גם אשה כשרה, ולכן עד מפי עד כשר בה.",
+     "en": "Rashi: in testimony about a firstborn a woman too is valid, hence hearsay is valid in it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:2",
+     "quote": "ואשה כשרה לעדות בכור מדאמרי' אפילו בנו אפי' בתו",
+     "he": "רבינו גרשום: אשה כשרה לעדות בכור, מכיוון שנאמר שאפילו בנו ובתו כשרים.",
+     "en": "Rabbeinu Gershom: a woman is valid for testimony about a firstborn, since it was said that even one's son and daughter are valid."
+    },
+    {
+     "who": {
+      "he": "רב נסים גאון",
+      "en": "Rav Nissim Gaon"
+     },
+     "ref": "Rav Nissim Gaon on Shabbat 145b:1",
+     "quote": "עד מפי עד נמי כשר לעדות בכור",
+     "he": "רב נסים גאון: הואיל ואשה כשרה לעדות בכור, גם עד מפי עד כשר, וכן פסקה ההלכה.",
+     "en": "Rav Nissim Gaon: since a woman is valid for testimony about a firstborn, hearsay is valid too, and so the halakha was ruled."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:9:1",
+     "quote": "והלכה עד מפי עד כשר לעדות בכור",
+     "he": "הרא״ש מעתיק את הגמרא שהלכה כרב אשי: עד מפי עד כשר לעדות בכור.",
+     "en": "The Rosh cites the Gemara that the halakha follows Rav Ashi: hearsay is valid for testimony about a firstborn."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:15",
+     "quote": "עֵד שֶׁהֵעִיד מִפִּי עֵד אַחַר שֶׁמּוּם זֶה נָפַל שֶׁלֹּא לְדַעַת נֶאֱמָן",
+     "he": "הרמב״ם פוסק להלכה שעד מפי עד נאמן על כך שהמום נפל שלא לדעת.",
+     "en": "The Rambam rules that a hearsay witness is believed that the blemish fell unintentionally."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 2:15:1",
+     "quote": "בפ' כל פסולי המוקדשין",
+     "he": "הכסף משנה מציין שמקור דברי הרמב״ם הוא בפרק כל פסולי המוקדשין.",
+     "en": "The Kessef Mishneh notes that the source of the Rambam's words is in the chapter Kol Pesulei HaMukdashin."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:5",
+     "quote": "אפילו אשה נאמנת לומר בפני נפל מום זה מאליו וישחט עליו",
+     "he": "השולחן ערוך: אפילו אשה נאמנת לומר שבפניה נפל המום מאליו, וישחט עליו.",
+     "en": "The Shulchan Arukh: even a woman is believed to say that the blemish fell off by itself in her presence, and one slaughters on it."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 365:1:23",
+     "quote": "ועיין בבכורות דף ל\"ו שכל עדות שאשה כשירה לה עד מפ\"ע כשר",
+     "he": "המנחת חינוך מפנה לבכורות לו שבכל עדות שאשה כשרה לה, עד מפי עד כשר.",
+     "en": "The Minchat Chinukh refers to Bekhorot 36 for the rule that in any testimony for which a woman is valid, hearsay is valid."
+    },
+    {
+     "who": {
+      "he": "פתחי תשובה",
+      "en": "Pitchei Teshuva"
+     },
+     "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer 7:6",
+     "quote": "ויש הוכחה מהש\"ס (בכורות דף ל\"ו)",
+     "he": "הפתחי תשובה מזכיר שיש הוכחה מהש״ס בבכורות לו לכשרות עד מפי עד.",
+     "en": "The Pitchei Teshuva mentions that there is proof from the Gemara in Bekhorot 36 for the validity of hearsay."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    11
+   ],
+   "he": {
+    "title": "״הפה שאסר הוא הפה שהתיר״ ו״מה לו לשקר״",
+    "gemara": "רבי אילעא: כהן נאמן לומר שהבכור הוא בכור ומומו עמו כשלא הוחזק שהוא בכור. הגמרא שואלת מה חידוש, ומשיבה שמא נאמר שבבכור, שבלעדי אמירתו אינו יכול לשחוט, אין אומרים הפה שאסר. מר בר רב אשי מקשה ממעשה השוכר שהלך בדרך נהר פקוד; רבא אמר מה לו לשקר, ואביי אמר שבמקום עדים לא אומרים זאת; הגמרא מתרצת שכאן אין עדים אלא חששא בעלמא."
+   },
+   "en": {
+    "title": "\"The mouth that forbade is the mouth that permitted\" and \"What reason has he to lie?\"",
+    "gemara": "R. Ilai: a kohen is believed to say that the animal is a firstborn and its blemish is with it, when it was not previously known to be a firstborn. The Gemara asks what this teaches, and answers that one might think the principle \"the mouth that forbade\" does not apply to a firstborn, where he cannot slaughter without speaking. Mar bar Rav Ashi objects from the case of the hirer who took the Nehar Pekod road; Rava said \"what reason has he to lie\", and Abaye said it is not said where there are witnesses; the Gemara answers that here there are no witnesses, only a mere concern."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:5:2",
+     "quote": "דהפה שאסר ואמר בכור הוא התיר ואמר מומו עמו",
+     "he": "רש״י: הכהן שאסר באמרו שהוא בכור הוא שהתיר באמרו שמומו עמו.",
+     "en": "Rashi: the kohen who forbade by saying it is a firstborn is the one who permitted by saying its blemish is with it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:7:2",
+     "quote": "קדשים תמימים אין הכהן נחשד לאכול בחוץ דבר כרת הוא",
+     "he": "רש״י: הכהן אינו נחשד לאכול קדשים תמימים בחוץ, שהוא דבר כרת, אך נחשד להטיל מום שהוא לאו בעלמא.",
+     "en": "Rashi: a kohen is not suspected of eating unblemished sacrificial animals outside, which carries karet, but is suspected of inflicting a blemish, which is a mere prohibition."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:10:1",
+     "quote": "דאנן סהדי דכל שעתא איכא מיא",
+     "he": "רש״י: במקום עדים לא אומרים מה לו לשקר, שאנו עדים שתמיד יש מים בדרך נהר פקוד.",
+     "en": "Rashi: where there are witnesses we do not say \"what reason has he to lie\", for we are witnesses that there is always water on the Nehar Pekod road."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:3",
+     "quote": "גבי אשה דאמרינן הפה שאסר הוא שהתיר",
+     "he": "רבינו גרשום: באשה אומרים הפה שאסר הוא שהתיר, כי אם רצתה לא הייתה אומרת דבר.",
+     "en": "Rabbeinu Gershom: regarding a woman we say the mouth that forbade is the one that permitted, since had she wished she would not have said anything."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:5",
+     "quote": "ובמקום חששא אמרינן הפה שאסר הוא שהתיר",
+     "he": "רבינו גרשום: אצל הכהן הטלת המום היא חששא בעלמא, ובמקום חששא אומרים הפה שאסר הוא שהתיר.",
+     "en": "Rabbeinu Gershom: regarding the kohen, his having inflicted the blemish is a mere concern, and where there is only a concern we say the mouth that forbade is the one that permitted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:10:1",
+     "quote": "רבה גרסינן שהיה רבו של אביי ולא רבא",
+     "he": "תוספות גורסים כאן רבה, רבו של אביי, ולא רבא.",
+     "en": "Tosafot read \"Rabbah\", the teacher of Abaye, and not \"Rava\"."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Hiring 4:3",
+     "quote": "וְאֵין אוֹמְרִים מַה לִּי לְשַׁקֵּר בִּמְקוֹם עֵדִים",
+     "he": "הרמב״ם פוסק את דין השוכר שהלך בדרך נהר פקוד: אין אומרים מה לי לשקר במקום עדים.",
+     "en": "The Rambam rules on the hirer of the donkey: we do not say \"why should I lie\" where there are witnesses."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume III, Piskei Bava Metzia 272:1",
+     "quote": "דאנן סהדי שאין אותו דרך בלא מים",
+     "he": "האור זרוע מביא את פירוש רש״י ופסק הרי״ף: אנו עדים שאין אותו דרך בלא מים.",
+     "en": "The Ohr Zarua cites Rashi's explanation and the Rif's ruling: we are witnesses that this road is not without water."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:9:1",
+     "quote": "אבל הכא דלא סגי דלא אמר דקדשים בחוץ לא אכיל",
+     "he": "הרא״ש מעתיק את שאלת הגמרא: בבכור לא סגי שלא יאמר, כי קדשים בחוץ לא אכיל.",
+     "en": "The Rosh cites the Gemara: with a firstborn he cannot do without speaking, for he does not eat sacrificial animals outside."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Berakhot 27b:3",
+     "quote": "ולא חלקנו בזה בין חבר לעם הארץ שאף החבר דנין בו כן",
+     "he": "המאירי: בדין זה לא חילקנו בין חבר לעם הארץ, שגם החבר דנים בו כך.",
+     "en": "The Meiri: in this law we did not distinguish between a haver and an am ha'aretz, since a haver too is judged this way."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Ketubot 27b:1",
+     "quote": "חששא היא ובמקום חששא אמרינן",
+     "he": "השיטה מקובצת מביאה את הגמרא כאן: הכא ודאי שדי בו מומא חששא היא, ובמקום חששא אומרים מה לי לשקר.",
+     "en": "The Shita Mekubetzet cites the Gemara here: it is a mere concern that he inflicted the blemish, and where there is a mere concern we say \"what reason have I to lie\"."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 36a:1",
+     "quote": "אין הכהן נחשד לאכול בחוץ דבר כרת הוא",
+     "he": "הרש״ש מבאר את רש״י: הכהן אינו נחשד לאכול בחוץ, כי זה דבר כרת.",
+     "en": "The Rashash explains Rashi: the kohen is not suspected of eating outside, since it carries karet."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 152:6",
+     "quote": "שהפה שאסר הוא הפה שהתיר",
+     "he": "השולחן ערוך פוסק באשה האומרת אשת איש הייתי וגרושה אני שהיא נאמנת, שהפה שאסר הוא הפה שהתיר.",
+     "en": "The Shulchan Arukh rules that a woman who says \"I was married and am divorced\" is believed, since the mouth that forbade is the mouth that permitted."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    12,
+    16
+   ],
+   "he": {
+    "title": "מעשה רבי צדוק ורבן גמליאל",
+    "gemara": "רבי צדוק האכיל את בכורו שעורים בסלים ושפתו נבקעה, ושאל את רבי יהושע אם חילקנו בין חבר לעם הארץ; הלה אמר הן, ורבן גמליאל אמר לא. בבית המדרש הכחיש רבי יהושע את דבריו, ורבן גמליאל הניח אותו עומד על רגליו בשעת הדרשה עד שהעם צעק והעמידו את חוצפית המתורגמן.",
+    "halakha": "אין שואלים מעומד ואין משיבים מעומד; ויש אומרים שכששואלים דבר הלכה צריך לעמוד."
+   },
+   "en": {
+    "title": "The story of R. Tzadok and Rabban Gamliel",
+    "gemara": "R. Tzadok fed his firstborn barley in baskets and its lip split. He asked R. Yehoshua whether we distinguish between a haver and an am ha'aretz; R. Yehoshua said yes, and Rabban Gamliel said no. In the study hall R. Yehoshua denied his earlier statement, and Rabban Gamliel left him standing while he lectured, until the people shouted and Chutzpit the interpreter was made to stop.",
+    "halakha": "One does not ask while standing nor answer while standing; and some say that when asking a halakhic matter one must stand."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:12:1",
+     "quote": "ומי חשדינן אנא למישדי ביה מומא בכוונה ככהן עם הארץ",
+     "he": "רש״י מבאר את שאלת רבי צדוק: האם חושדים אותי להטיל מום בכוונה ככהן עם הארץ.",
+     "en": "Rashi explains R. Tzadok's question: am I suspected of inflicting a blemish intentionally like a kohen who is an am ha'aretz?"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:13:1",
+     "quote": "תלמידי חכמים הנלחמים במלחמה של תורה",
+     "he": "רש״י: בעלי תריסין הם תלמידי חכמים הנלחמים במלחמתה של תורה.",
+     "en": "Rashi: the \"ba'alei trisin\" are Torah scholars who wage the war of Torah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:15:3",
+     "quote": "ודאי כך אמרתי וחוזרני בי",
+     "he": "רש״י מפרש את דברי רבי יהושע: ודאי כך אמרתי, וחוזר אני בי.",
+     "en": "Rashi interprets R. Yehoshua's words: I certainly said so, and I retract."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:14:1",
+     "quote": "בירושלמי דריש מדכתיב ועמדו שני האנשים בוי\"ו דשואל הלכות ואגדות צריך לעמוד",
+     "he": "תוספות מביאים מהירושלמי שהשואל הלכות ואגדות צריך לעמוד.",
+     "en": "Tosafot cite the Yerushalmi that one who asks halakhot and aggadot must stand."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:15:2",
+     "quote": "בקונט' פירש דודאי כך אמרתי וחזרתי בי וא\"א כן",
+     "he": "תוספות דוחים את פירוש רש״י, שאי אפשר כך, כי ההלכה נפסקה כרבי יהושע.",
+     "en": "Tosafot reject Rashi's explanation, since the halakha was ruled like R. Yehoshua."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36a:15:1",
+     "quote": "לא גרסי' ויעידו בך",
+     "he": "תוספות אינם גורסים ״ויעידו בך״, כי אין כאן עדות.",
+     "en": "Tosafot do not read \"and let them testify against you\", since no testimony is relevant here."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:10",
+     "quote": "דלא רצה להורות הלכה לפני ר\"ג",
+     "he": "רבינו גרשום: רבי יהושע אמר לאו כי לא רצה להורות הלכה לפני רבן גמליאל.",
+     "en": "Rabbeinu Gershom: R. Yehoshua said \"no\" because he did not want to rule on halakha in front of Rabban Gamliel."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Berakhot 27b:3",
+     "quote": "ורבן גמליאל כעס עליו וצערו על כך ומכל מקום הלכה כר\"ג",
+     "he": "המאירי: רבן גמליאל כעס על רבי יהושע וצערו, ומכל מקום ההלכה כרבן גמליאל.",
+     "en": "The Meiri: Rabban Gamliel was angry at R. Yehoshua and pained him for this, and still the halakha follows Rabban Gamliel."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Sukkah 22a:1",
+     "quote": "כדמוכח בבכורות [דף לו.] עלה דההיא כלום חלקנו בין חבר לעם הארץ",
+     "he": "הר״ן מביא מבכורות לו שרבי צדוק היה בימי רבי אליעזר, רבי יהושע ורבן גמליאל, ולכן בנו רבי אלעזר בר צדוק היה לאחר החורבן.",
+     "en": "The Ran cites Bekhorot 36 to show that R. Tzadok lived in the days of R. Eliezer, R. Yehoshua and Rabban Gamliel, and so his son R. Elazar bar Tzadok was after the destruction."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Berakhot 27b:10",
+     "quote": "ופרש\"י שם ודאי כך אמרתי וחוזרני בי וכתבו שם התוס' דא\"א לפרש כן",
+     "he": "הפני יהושע מציין שרש״י פירש ״ודאי כך אמרתי וחוזרני בי״ ותוספות כתבו שאי אפשר לפרש כך.",
+     "en": "The Penei Yehoshua notes that Rashi explained \"I certainly said so and I retract\" and Tosafot wrote that this cannot be the explanation."
+    },
+    {
+     "who": {
+      "he": "ציון לנפש חיה",
+      "en": "Tziyyun LeNefesh Chayyah"
+     },
+     "ref": "Tziyyun LeNefesh Chayyah on Berakhot 27b:9",
+     "quote": "שם נתחרט ר\"י באמת על עקר ההוראה",
+     "he": "הציון לנפש חיה: בבכורות רבי יהושע התחרט באמת על עיקר ההוראה, אך בברכות לא.",
+     "en": "The Tziyyun LeNefesh Chayyah: in Bekhorot R. Yehoshua truly regretted the ruling itself, but not in Berakhot."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 36a:1",
+     "quote": "רבי יהושע לא ראה את רבי צדוק שואל בית המדרש",
+     "he": "הבן יהוידע מיישב שרבי יהושע לא ידע ששאלת בית המדרש היא של רבי צדוק, ולכן הכחיש.",
+     "en": "The Ben Yehoyada resolves that R. Yehoshua did not know the study-hall question was R. Tzadok's, and so denied it."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 246:13",
+     "quote": "אין שואלים מעומד ואין משיבים מעומד",
+     "he": "השולחן ערוך: אין שואלים מעומד ואין משיבים מעומד, והרמ״א מביא דעה שכששואלים דבר הלכה צריך לעמוד.",
+     "en": "The Shulchan Arukh: one does not ask or answer while standing, and the Rema brings a view that when asking a halakhic matter one must stand."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 246:43",
+     "quote": "ממ\"ש בפ\"ד דברכות (כ\"ז ב') ובבכורות ל\"ו א' עמד השואל",
+     "he": "הגר״א מציין כמקור לדעת ״יש אומרים״ את הגמרא בברכות ובבכורות ״עמד השואל״.",
+     "en": "The Gra cites the Gemara in Berakhot and Bekhorot, \"the questioner stood\", as the source for the \"some say\" view."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 246:30",
+     "quote": "כיון דגם בש\"ס שלנו בברכות (ברכות כז ב) ובבכורות (בכורות לו א) מבואר דעמד השואל ושאל",
+     "he": "הערוך השולחן: מכיוון שבש״ס מבואר ״עמד השואל ושאל״, נדחית דברי התוספתא.",
+     "en": "The Arukh HaShulchan: since the Talmud states \"the questioner stood and asked\", the Tosefta's statement is set aside."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 36a:1",
+     "quote": "עיין פירש\"י ובערוך פירש בעלי תריסין כמשמעו",
+     "he": "החידושי אגדות מציין שהערוך מפרש ״בעלי תריסין״ כמשמעו, בעלי מגינים.",
+     "en": "Chidushei Agadot notes that the Arukh explains \"ba'alei trisin\" literally, shield-bearers."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 36a:3",
+     "quote": "שם עומד ודורש. תי' עומד נמחק",
+     "he": "היעב״ץ מציע למחוק את התיבה ״עומד״ בלשון ״עומד ודורש״.",
+     "en": "The Ya'avetz proposes deleting the word \"standing\" from \"standing and lecturing\"."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    17,
+    21
+   ],
+   "he": {
+    "title": "כהן נאמן שהראה לחכם, וכל מילתא דעבידא לאיגלויי",
+    "gemara": "המשנה: נאמן הכהן לומר שהראה את הבכור לחכם והוא בעל מום. רב יהודה אמר רב: נאמן הכהן לומר שישראל נתן לו בכור במומו, כי מילתא דעבידא לאיגלויי לא משקרי. רב אשי לומד זאת מהמשנה, והגמרא מבדילה בין המקרים. רב שיזבי מקשה ממקרה האומר ״קח לי ממי שנאמן״, והגמרא מתרצת שהשליח יכול להשתמט, ובאומר ״מאיש פלוני״ נאמן כי יש לו תובע.",
+    "halakha": "כהן נאמן לומר שישראל נתן לו בכור בעל מום במומו, ואין חוששין שמא הוא הטילו."
+   },
+   "en": {
+    "title": "A kohen is believed that he showed a sage, and \"any matter that is destined to be revealed\"",
+    "gemara": "The Mishnah: a kohen is believed to say he showed the firstborn to a sage and it has a blemish. Rav Yehuda said Rav: a kohen is believed to say a Yisrael gave him the firstborn with its blemish, since people do not lie about a matter that is destined to be revealed. Rav Ashi derives this from the Mishnah, and the Gemara distinguishes the cases. Rav Sheizvi objects from the case of \"buy for me from a trustworthy person\"; the Gemara answers that the agent can evade, while with \"from so-and-so\" he is believed because there is a claimant.",
+    "halakha": "A kohen is believed to say that a Yisrael gave him a blemished firstborn with its blemish, and we do not suspect that he inflicted it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:18:2",
+     "quote": "דאתי חכם ואמר לא התרתיו לך",
+     "he": "רש״י: דבר העשוי להתגלות, כי יבוא החכם ויאמר שלא התיר לו.",
+     "en": "Rashi: the matter is destined to be revealed, since the sage could come and say he did not permit it to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36a:19:2",
+     "quote": "כיון דחשידי כהני להטיל מום ולמימר נפל מאליו חשידי נמי להטיל מום ולמימר ישראל נתנו לי במומו",
+     "he": "רש״י: כהנים חשודים להטיל מום ולומר שנפל מאליו, ולכן חשודים גם לומר שישראל נתן להם במומו.",
+     "en": "Rashi: kohanim are suspected of inflicting a blemish and saying it fell off by itself, so they are also suspected of saying a Yisrael gave it to them with its blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:1:1",
+     "quote": "ולמימר אי לדידך לא מהימן אנא הוה חשיבנא ליה מהימן",
+     "he": "רש״י מסביר ש״יש לו להשתמט״: השליח יכול לומר שחשב את המוכר לנאמן, ולכן אינו חושש.",
+     "en": "Rashi explains \"he can evade\": the agent can say he thought the seller trustworthy, so he is not afraid."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:3:1",
+     "quote": "כיון דחזי דקפיד משלח להזכיר שם האיש סבר ודאי יתבענו",
+     "he": "רש״י: כשהמשלח הזכיר את שם האיש, השליח סבור שיתבענו ולכן מתיירא.",
+     "en": "Rashi: when the sender named the person, the agent assumes he will be questioned, so he is afraid."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:13",
+     "quote": "דמצי למישייליה לחכם אם התירו לו אם לא",
+     "he": "רבינו גרשום: ״דעבידא לאיגלויי״ כי אפשר לשאול את החכם אם התיר לו.",
+     "en": "Rabbeinu Gershom: it is \"destined to be revealed\" since one can ask the sage whether he permitted it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36a:15",
+     "quote": "דמצי למישייליה אי זבין ליה",
+     "he": "רבינו גרשום מבאר את דחיית הגמרא: כהן שלא שחט ואמר שישראל נתן לו במומו אינו נאמן, שהכהנים חשודים, ואין זה כרב יהודה שאפשר לשאול אם מכר לו.",
+     "en": "Rabbeinu Gershom explains the Gemara's pushback: a kohen who has not slaughtered and says a Yisrael gave it to him with its blemish is not believed, since kohanim are suspected, and Rav Yehuda's principle is set aside even though one could ask whether he sold it to him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:1",
+     "quote": "שאני התם דמצי לאישתמוטי שליח",
+     "he": "רבינו גרשום: שאני התם, שהשליח יכול להשתמט.",
+     "en": "Rabbeinu Gershom: it is different there, since the agent can evade."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:19",
+     "quote": "שֶׁהַדָּבָר עָשׂוּי לְהִגָּלוֹת וְהוּא מִתְיָרֵא שֶׁמָּא יִשְׁאֲלוּ בְּעָלָיו",
+     "he": "הרמב״ם: כהן נאמן לומר שישראל נתן לו במומו, כי הדבר עשוי להתגלות והוא מתירא שמא ישאלו את הבעלים.",
+     "en": "The Rambam: a kohen is believed to say a Yisrael gave it to him with its blemish, since the matter is likely to be revealed and he fears the owners may be asked."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:18",
+     "quote": "שֶׁלֹּא נֶחְשְׁדוּ לִשְׁחֹט קָדָשִׁים בַּחוּץ מִפְּנֵי שֶׁהוּא עֲוֹן כָּרֵת",
+     "he": "הרמב״ם: אין חוששים שהכהן לא הראה לחכם, כי לא נחשדו לשחוט קדשים בחוץ משום שהוא עון כרת.",
+     "en": "The Rambam: we do not suspect that the kohen did not show a sage, since they are not suspected of slaughtering sacrificial animals outside, which is a sin bearing karet."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tithes 12:6",
+     "quote": "אִם אָמַר לוֹ קַח לִי מֵאִישׁ פְּלוֹנִי הֲרֵי זֶה נֶאֱמָן",
+     "he": "הרמב״ם: האומר לשליח ״קח לי מאיש פלוני״, השליח נאמן לומר שממנו לקח, כי מתירא שמא ישאלנו.",
+     "en": "The Rambam: if one says to an agent \"buy for me from so-and-so\", the agent is believed that he bought from him, since he fears he may be asked."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:10:2",
+     "quote": "ודוקא ישראל פלוני. אבל ישראל סתם לא",
+     "he": "הרא״ש: הנאמנות דוקא כשאמר ישראל פלוני, אבל ישראל סתם לא, כי אינו דבר העשוי להתגלות.",
+     "en": "The Rosh: this applies only when he names a particular Yisrael, not a Yisrael without a name, since that is not destined to be revealed."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 314",
+     "quote": "ודוקא שאומר חכם פלוני שמזכירו בפרט אכל אם אומר חכם סתם לא",
+     "he": "הטור: הכהן נאמן לומר שחכם התיר לו דוקא כשהוא מזכיר חכם פלוני בפרט.",
+     "en": "The Tur: a kohen is believed to say a sage permitted it only when he names a specific sage."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:8",
+     "quote": "דמילתא דעבידא לגלויי לא משקרי בה אינשי",
+     "he": "השולחן ערוך פוסק שכהן נאמן לומר שישראל נתנו לו במומו, כי מילתא דעבידא לגלויי לא משקרי בה אינשי.",
+     "en": "The Shulchan Arukh rules that a kohen is believed that a Yisrael gave it to him with its blemish, since people do not lie about a matter that is destined to be revealed."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:7",
+     "quote": "ואין חוששין שמא לא הראהו",
+     "he": "השולחן ערוך: כהן שאמר שהראה את המום למומחה והתירו, נאמן, ואין חוששין שמא לא הראהו.",
+     "en": "The Shulchan Arukh: a kohen who says he showed the blemish to an expert who permitted it is believed, and we do not suspect he did not show it."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 314:1:1",
+     "quote": "כל זה מיירי בבכור דכ\"ע ידעי ביה שהוא בכור וליכא למימר מה לי לשקר",
+     "he": "הב״ח: דין זה בבכור שכולם יודעים שהוא בכור, ואין לומר שם ״מה לי לשקר״.",
+     "en": "The Bach: this law concerns a firstborn that everyone knows is a firstborn, where one cannot say \"what reason have I to lie\"."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 119:37",
+     "quote": "אבל לא קי\"ל כן אלא כרב שם דאמר נאמן הכהן",
+     "he": "הגר״א: אין פוסקים כך אלא כרב שם, שאמר נאמן הכהן.",
+     "en": "The Gra: we do not rule that way, but like Rav there, who said the kohen is believed."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Testimony 3:4:1",
+     "quote": "דאית ליה לאשתמוטי ולמימר אי לדידך לא מהימן אנא",
+     "he": "האור שמח מביא את דברי הגמרא בבכורות שמי ש״אית ליה לאשתמוטי״ אינו מתיירא מלכתחילה, ודן על פיהם בסמיכה על מילתא דעבידא לאיגלויי.",
+     "en": "The Ohr Sameach cites the Gemara in Bekhorot that one who \"can evade\" is not afraid from the start, and discusses on that basis relying on a matter destined to be revealed."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura III 2:13:1",
+     "quote": "אף נוגע כשר במלתא דעבידא לגלויי",
+     "he": "השואל ומשיב: מהגמרא בבכורות יוצא שאף נוגע בדבר כשר במילתא דעבידא לגלויי.",
+     "en": "The Shoel uMeshiv: from the Gemara in Bekhorot it follows that even an interested party is valid regarding a matter destined to be revealed."
+    },
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 17:4",
+     "quote": "התם כיון דאית לי' תובע מרתת",
+     "he": "החכמת שלמה לומד ממשפט הגמרא ״כיון דאית ליה תובע מרתת״ שיש הבדל בעבידא לאיגלויי בין יש תובע לאין.",
+     "en": "Chokhmat Shlomo learns from the Gemara's words \"since he has a claimant he is afraid\" that there is a difference in \"destined to be revealed\" between where there is a claimant and where there is not."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    8
+   ],
+   "he": {
+    "title": "ישראל הנותן בכור, קטן והגדיל, ומעשה רפרם",
+    "gemara": "רבי ירמיה בר אבא: ישראל נאמן לומר שנתן בכור לכהן במומו. הגמרא: פשיטא, ומשיבה שצריך בקטן והגדיל. בסורא שנו כלשון אחרון, בפומבדיתא כלשון ראשון (שהכהן נאמן), וההלכה כלשון ראשון. רפרם נתן בכור בלא מום, ואחר כך הכהן הביא אותו אליו בטענה שישראל נתן במומו; רפרם הכיר ששיקר, ובכל זאת לא חשש לדבר.",
+    "halakha": "ישראל נאמן לומר שנתן בכור לכהן במומו, ואין חוששים שמא אינו מכירו."
+   },
+   "en": {
+    "title": "A Yisrael giving a firstborn, \"a minor who grew up\", and the story of Rafram",
+    "gemara": "R. Yirmeya bar Abba: a Yisrael is believed to say he gave a firstborn to a kohen with its blemish. The Gemara: obvious, and answers that it is needed for \"a minor who grew up\". In Sura they taught like the latter version, in Pumbedita like the first (that the kohen is believed), and the halakha is even like the first. Rafram gave a firstborn without a blemish; later the kohen brought it before him claiming a Yisrael gave it with the blemish; Rafram recognized the lie, yet did not take it into account.",
+    "halakha": "A Yisrael is believed to say he gave a firstborn to a kohen with its blemish, and we do not worry that he does not recognize it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:5:1",
+     "quote": "שהיה קטן הטלה כשנתנו לו",
+     "he": "רש״י: ״בקטן והגדיל״ הוא שהטלה היה קטן כשנתנו לכהן.",
+     "en": "Rashi: \"a minor who grew up\" means the lamb was small when it was given to the kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:5:2",
+     "quote": "ושמא אחר הוא והאי כהן הטיל בו מום",
+     "he": "רש״י: חשש שמא אינו מכירו, ושמא אחר הוא והכהן הטיל בו מום.",
+     "en": "Rashi: the concern is that he does not recognize it, and that it may be another and the kohen inflicted the blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:6:2",
+     "quote": "דאפי' הכהן נאמן. והלכתא אפי' כלישנא קמא",
+     "he": "רש״י: לפי לשון ראשונה אפילו הכהן נאמן, וההלכה אפילו כלשון ראשונה.",
+     "en": "Rashi: according to the first version even the kohen is believed, and the halakha is even like the first version."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:8:2",
+     "quote": "שהרי הוא החזיק עצמו כחצוף לשני דברים",
+     "he": "רש״י: הכהן החזיק עצמו כחצוף בשני דברים: שהטיל בו מום ושהראהו לאותו חכם עצמו.",
+     "en": "Rashi: the kohen held himself brazen in two things: inflicting the blemish and showing it to the very sage who gave it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:9",
+     "quote": "והלכתא כלישנא קמא דכל מילתא דעבידא לאיגלויי לא משקרי",
+     "he": "רבינו גרשום: ההלכה כלשון ראשון, שכל מילתא דעבידא לאיגלויי לא משקרי.",
+     "en": "Rabbeinu Gershom: the halakha follows the first version, that people do not lie about a matter destined to be revealed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:7",
+     "quote": "קטן היה אותו ישראל כשנתן לו זה הבכור לכהן במומו",
+     "he": "רבינו גרשום מפרש ״קטן והגדיל״ על הישראל שהיה קטן בשעת הנתינה.",
+     "en": "Rabbeinu Gershom explains \"a minor who grew up\" as the Yisrael who was a minor at the time of giving."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:13",
+     "quote": "דסבר האי הוא דחציף דעבד הכי",
+     "he": "רבינו גרשום: רפרם סבר שזה הכהן החצוף שעשה כך, ולא חשש לגזור שלא יאמינו לשום כהן.",
+     "en": "Rabbeinu Gershom: Rafram thought this was a brazen kohen who did so, and did not decree that no kohen be believed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36b:7:1",
+     "quote": "פי' ראהו והכיר בו דבשקריה הוא לשון הכרה",
+     "he": "תוספות מפרשים ״חזייה בשקריה״ כלשון הכרה: ראהו והכיר ששיקר.",
+     "en": "Tosafot explain \"chazyeih bishkarei\" as an expression of recognition: he saw and recognized that he lied."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "דרישה",
+      "en": "Drisha"
+     },
+     "ref": "Drisha, Yoreh De'ah 314:2:1",
+     "quote": "אפילו היה קטן והגדיל ר\"ל הבכור היה טלה בשעת נתינה",
+     "he": "הדרישה: ״קטן והגדיל״ הכוונה לבכור שהיה טלה בשעת הנתינה, כפירוש רש״י.",
+     "en": "The Drisha: \"a minor who grew up\" means the firstborn was a lamb at the time of giving, as Rashi explains."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah I, Even HaEzer 28:20",
+     "quote": "איפסיק הלכתא אפילו כלישנא קמא דנאמן כהן לומר בכור זה נתן לי ישראל במומו",
+     "he": "הנודע ביהודה: נפסקה ההלכה אפילו כלשון ראשון, שנאמן כהן לומר שישראל נתן לו בכור זה במומו.",
+     "en": "The Noda BiYehudah: the halakha was ruled even like the first version, that a kohen is believed to say a Yisrael gave him this firstborn with its blemish."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:8",
+     "quote": "ואין חוששין שמא הוא הטילו",
+     "he": "השולחן ערוך: אין חוששים שמא הכהן הטיל את המום.",
+     "en": "The Shulchan Arukh: we do not suspect that the kohen inflicted the blemish."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    12
+   ],
+   "he": {
+    "title": "השרוע שבא לפני רב אשי",
+    "gemara": "רב אשי: מה נחוש לשרוע, אם כהן הוא ואם ישראל הוא, בכור ומומו עמו. רבינא מקשה שרב יהודה אמר שאין רואין בכור ישראל אלא אם כן כהן עמו. רב אשי משיב שכאן המום מובהק, והבאתו לפני חכם היא משום כבוד החכם, ומי שלא עבר על כבוד החכם לא יעבור איסור.",
+    "halakha": "אין רואין את הבכור לישראל עד שיהיה כהן עמו, אלא אם היה חכם המדקדק על עצמו או שהמום גלוי לכל."
+   },
+   "en": {
+    "title": "The \"sharua\" who came before Rav Ashi",
+    "gemara": "Rav Ashi: why should we be concerned about the sharua, whether a kohen or a Yisrael, the firstborn has its blemish with it. Ravina objects that Rav Yehuda said a Yisrael's firstborn is not examined unless a kohen is present. Rav Ashi replies that here the blemish is evident, and bringing it to a sage is out of respect for the sage, and one who does not neglect the sage's honor will not commit a prohibition.",
+    "halakha": "A Yisrael's firstborn is not examined until a kohen is present, unless he is a sage who is careful with himself or the blemish is visible to all."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:9:1",
+     "quote": "עינו אחת גדולה ואחת קטנה",
+     "he": "רש״י: שרוע הוא בעל עין אחת גדולה ואחת קטנה.",
+     "en": "Rashi: a \"sharua\" has one large eye and one small."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:9:2",
+     "quote": "ואפילו הוא כהן וחשוד על הבכור אין כאן חשדא שהרי כך נולד",
+     "he": "רש״י: אפילו אם הוא כהן החשוד על הבכור, אין כאן חשד שהרי כך נולד.",
+     "en": "Rashi: even if he is a kohen suspected regarding a firstborn, there is no suspicion here since it was born this way."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:10:1",
+     "quote": "דכיון דקבוע הוא הרי הוא נאכל לכל אדם אלא שגזילת כהן הוא",
+     "he": "רש״י: ישראל חשוד שישחוט ויאכל, כי הבשר מותר לכל אדם, אך זו גזילת הכהן.",
+     "en": "Rashi: a Yisrael might slaughter and eat it, since a permanent blemish makes it permitted to everyone, but it is robbery of the kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:11:1",
+     "quote": "אגזילה דכהן דלאו בעלמא חשיד",
+     "he": "רש״י: ישראל אינו חשוד על קדשים בחוץ שהוא כרת, אך חשוד על גזילת הכהן שהיא לאו בעלמא.",
+     "en": "Rashi: a Yisrael is not suspected of eating sacrificial animals outside, which carries karet, but is suspected regarding robbing the kohen, a mere prohibition."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36b:12:2",
+     "quote": "שאני כהן שירא לאוכלו בלא התרת חכם פן יתגלה הדבר",
+     "he": "תוספות: כהן ירא לאכול בלי היתר חכם שמא יתגלה שהטיל בו מום, אך ישראל אין לומר כן.",
+     "en": "Tosafot: a kohen fears to eat without a sage's permission lest it be revealed that he inflicted the blemish, but this cannot be said of the Yisrael."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:15",
+     "quote": "דמחשדינן ליה שמא בתר דקא שרינן ליה לא יהיב ליה לכהן",
+     "he": "רבינו גרשום: אין רואין בכור ישראל בלי כהן, כי חוששים שאחר שנתיר לא יתן לכהן.",
+     "en": "Rabbeinu Gershom: we do not examine a Yisrael's firstborn without a kohen, since we suspect that after permitting it he will not give it to the kohen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:16",
+     "quote": "אבל אממוניה דכהן אבעל מום דלית ליה קדושה חשיד למיכליה",
+     "he": "רבינו גרשום: ישראל חשוד לאכול ממון הכהן בבעל מום שאין לו קדושה.",
+     "en": "Rabbeinu Gershom: a Yisrael is suspected of consuming the kohen's property in a blemished animal that has no sanctity."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:3",
+     "quote": "חָשׁוּד הוּא לִגְזל מַתְּנוֹת כְּהֻנָּה",
+     "he": "הרמב״ם: אף שישראל אינו חשוד לאכול קדשים בחוץ, חשוד הוא לגזול מתנות כהונה.",
+     "en": "The Rambam: although a Yisrael is not suspected of eating sacrificial animals outside, he is suspected of robbing the priestly gifts."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 314:11",
+     "quote": "אין רואין את הבכור לישראל עד שיהיה כהן עמו",
+     "he": "השולחן ערוך פוסק שאין רואין בכור לישראל עד שיהיה כהן עמו, אלא אם הוא חכם המדקדק או שהמום גלוי לכל.",
+     "en": "The Shulchan Arukh rules that a Yisrael's firstborn is not examined until a kohen is present, unless he is a careful sage or the blemish is visible to all."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Yoreh De'ah 302:8",
+     "quote": "קיימא לן בכורות ל\"ו ע\"ב אין רואים בכור ישראל אא\"כ כהן עמו",
+     "he": "החתם סופר מביא את הכלל מבכורות לו ע״ב: אין רואים בכור ישראל אלא אם כן כהן עמו.",
+     "en": "The Chatam Sofer cites the rule from Bekhorot 36b: a Yisrael's firstborn is not examined unless a kohen is with him."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Beitzah 27b:2",
+     "quote": "משום דאין רואין בכור ישראל אא\"כ כהן עמו",
+     "he": "הרש״ש מזכיר את הכלל שאין רואין בכור ישראל אלא אם כן כהן עמו.",
+     "en": "The Rashash mentions the rule that a Yisrael's firstborn is not examined unless a kohen is with him."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    13,
+    15
+   ],
+   "he": {
+    "title": "הכל נאמנים על מומי מעשר",
+    "gemara": "המשנה: הכל נאמנים על מומי מעשר. הטעם: אם רצה, היה מטיל מום מעיקרא בכל עדרו, שהרי אינו יודע איזה יצא עשירי; ואם יאמר שיוציא את העשירי בראש, הרי נאמר ״לא יבקר בין טוב לרע״."
+   },
+   "en": {
+    "title": "Everyone is believed regarding blemishes of animal tithe",
+    "gemara": "The Mishnah: everyone is believed regarding blemishes of the animal tithe. The reason: if he wished, he could have inflicted a blemish on his whole flock from the start, since he does not know which will come out tenth; and if you say he could take out the tenth at the head of ten, the Torah says \"he shall not examine between good and bad\"."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:13:1",
+     "quote": "ובספק מעשר קאמר כגון קרא לתשיעי עשירי",
+     "he": "רש״י: המשנה מדברת בספק מעשר, כגון שקרא לתשיעי עשירי.",
+     "en": "Rashi: the Mishnah speaks of a doubtful tithe, for example one who called the ninth the tenth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:14:1",
+     "quote": "בפתח עשירי שיטיל בו מום מעיקרא",
+     "he": "רש״י: ״מי ידע הי נפיק״ בפתח עשירי, שיטיל בו מום מעיקרא.",
+     "en": "Rashi: \"who knows which will emerge\" tenth at the opening, that he should inflict a blemish on him from the start."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:9",
+     "quote": "וַאֲפִלּוּ אֵלּוּ שֶׁאֵינָן נֶאֱמָנִים עַל הַבְּכוֹר נֶאֱמָנִים עַל הַמַּעֲשֵׂר",
+     "he": "הרמב״ם: אפילו מי שאינו נאמן על הבכור נאמן על המעשר.",
+     "en": "The Rambam: even those who are not believed regarding the firstborn are believed regarding the tithe."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 6:9:1",
+     "quote": "אי בעי שדי מומא בכוליה עדריה",
+     "he": "הכסף משנה מפנה לטעם הגמרא: אם רצה היה מטיל מום בכל עדרו.",
+     "en": "The Kessef Mishneh refers to the Gemara's reason: if he wished he could have inflicted a blemish on his entire flock."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 27:33:1",
+     "quote": "ואשמעינן בזה דגם אלה שאין נאמנים על הבכור כגון הבעלים נאמנים על המעשר",
+     "he": "התורה תמימה: המשנה מלמדת שגם מי שאינו נאמן על הבכור, כגון הבעלים, נאמן על המעשר.",
+     "en": "The Torah Temimah: the Mishnah teaches that even those not believed regarding the firstborn, such as the owners, are believed regarding the tithe."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    16,
+    22
+   ],
+   "he": {
+    "title": "התרת בכור על פי שלשה בני הכנסת",
+    "gemara": "המשנה: בכור שנסמית עינו, נקטעה ידו או נשברה רגלו ישחט על פי שלשה בני הכנסת; ורבי יוסי חולק ודורש מומחה. בחוץ לארץ התרת בכור על פי שלשה, ורבא מוסיף שבמומין מובהקין. מסקנת הגמרא שאין בכך חידוש אלא שבמקום שאין מומחה מתירים, ובמקום מומחה לא. רב חייא בר עמרם משווה בין התרת בכור להתרת נדר במקום שאין חכם.",
+    "halakha": "אין נשחט הבכור אלא על פי מומחה; ואם אין מומחה, מותר על פי שלשה בני הכנסת במומים מובהקים."
+   },
+   "en": {
+    "title": "Permitting a firstborn on the word of three members of the community",
+    "gemara": "The Mishnah: a firstborn whose eye went blind, whose hand was cut off or whose leg was broken is slaughtered on the word of three members of the community; R. Yosei disagrees and requires an expert. Outside the Land, permitting a firstborn is by three, and Rava adds: for evident blemishes. The Gemara concludes that three may permit where there is no expert, but not where there is one. Rav Chiyya bar Amram likens permitting a firstborn to annulling a vow where there is no sage.",
+    "halakha": "A firstborn is slaughtered only on an expert's word; if there is no expert, three members of the community may permit it for evident blemishes."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:16:1",
+     "quote": "שנסמית עינו - דהוי מום מובהק",
+     "he": "רש״י: נסמית עינו הוא מום מובהק.",
+     "en": "Rashi: a blinded eye is an evident blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:16:2",
+     "quote": "בני הכנסת - שאינן חכמים",
+     "he": "רש״י: ״בני הכנסת״ הם אנשים שאינם חכמים.",
+     "en": "Rashi: \"members of the community\" are people who are not sages."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 36b:20:2",
+     "quote": "שלשה מתירין את הבכור כו' - במומין מובהקין",
+     "he": "רש״י: שלשה מתירין את הבכור במומין מובהקין.",
+     "en": "Rashi: three may permit the firstborn for evident blemishes."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 36b:18",
+     "quote": "שלשה בני כנסת דלא בעינן מומחין גמורין",
+     "he": "רבינו גרשום: בשלשה בני כנסת אין צריך מומחים גמורים.",
+     "en": "Rabbeinu Gershom: with three members of the community, fully qualified experts are not required."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36b:12:1",
+     "quote": "דבלא התרה אינו נשחט אפילו יש בו מום מובהק אלא ע\"פ ג' או מומחה",
+     "he": "תוספות: בלא התרה אינו נשחט אפילו במום מובהק, אלא על פי שלשה או מומחה.",
+     "en": "Tosafot: without permission it is not slaughtered even with an evident blemish, only on the word of three or an expert."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shabbat 46b:6:1",
+     "quote": "היינו דוקא במומין מובהקין כגון ניסמת עינו נקטעה ידו נשברה רגלו",
+     "he": "תוספות בשבת: שלשה מתירים במקום שאין מומחה דוקא במומים מובהקים, כגון נסמית עינו, נקטעה ידו ונשברה רגלו.",
+     "en": "Tosafot in Shabbat: three permit where there is no expert only for evident blemishes, such as a blinded eye, a cut-off hand or a broken leg."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 36b:21:1",
+     "quote": "וכל מופלג בחכמה ומומחה ראוי להתיר בכור ונדר ביחידי",
+     "he": "תוספות: אין צורך דוקא במומחה שמינוהו בית דין, וכל מופלג בחכמה ראוי להתיר בכור ונדר ביחידי.",
+     "en": "Tosafot: an expert appointed by a court is not required, and any outstanding sage is fit to permit a firstborn or a vow alone."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:2",
+     "quote": "הֲרֵי זֶה יִשָּׁחֵט עַל פִּי שְׁלֹשָׁה בְּנֵי הַכְּנֶסֶת",
+     "he": "הרמב״ם: אם אין מומחה והמום מן המומים הגלויים המובהקים, ישחט על פי שלשה בני הכנסת.",
+     "en": "The Rambam: if there is no expert and the blemish is of the evident kind, it is slaughtered on the word of three members of the community."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:11:2",
+     "quote": "במקום שאין מומחה אין במקום שיש מומחה לא וכן הלכתא",
+     "he": "הרא״ש: שלשה מתירין במקום שאין מומחה ולא במקום שיש מומחה, וכן הלכה.",
+     "en": "The Rosh: three permit where there is no expert, not where there is an expert, and so is the halakha."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 513:1",
+     "quote": "אמר רב חננאל אמר רב אין הלכה כר' יוסי",
+     "he": "האור זרוע מביא שרב חננאל אמר בשם רב: אין הלכה כרבי יוסי.",
+     "en": "The Ohr Zarua cites Rav Chananel in Rav's name: the halakha is not like R. Yosei."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 309",
+     "quote": "אינו רשאי לשוחטו אלא ע\"פ מומחה שיורה לו שהוא מום הראוי לישחט עליו",
+     "he": "הטור: בזמן הזה אינו רשאי לשוחטו אלא על פי מומחה, ואם אין מומחה ניתר על ידי שלשה בני כנסת.",
+     "en": "The Tur: nowadays one may slaughter only on the word of an expert, and if there is none it is permitted by three members of the community."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 309:2:1",
+     "quote": "ואיפסקא בגמ' הלכתא כת\"ק",
+     "he": "הבית יוסף: נפסקה בגמרא ההלכה כתנא קמא.",
+     "en": "The Beit Yosef: the Gemara ruled the halakha like the first Tanna."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 309:2",
+     "quote": "ואם אין חכם מומחה ניתר על פי ג' בני הכנסת",
+     "he": "השולחן ערוך: אם אין חכם מומחה, ניתר על פי שלשה בני הכנסת.",
+     "en": "The Shulchan Arukh: if there is no expert sage, it is permitted by three members of the community."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Zavim 3:2:6",
+     "quote": "בכור דיש לו מום מובהק דהתרתו ע\"פ ג' בני כנסת פי' הדיוטות שאינם מומחין",
+     "he": "מלאכת שלמה מפרש: שלשה בני כנסת הם הדיוטות שאינם מומחים.",
+     "en": "The Melekhet Shelomoh explains that three members of the community are laymen who are not experts."
+    }
+   ]
+  }
+ ]
+}
