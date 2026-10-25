@@ -1,0 +1,1582 @@
+{
+ "ref": "Bekhorot 37",
+ "date": "2026-10-25",
+ "he": {
+  "overview": "הדף פותח בסיום הדיון על הפרת נדרים והתרת בכור: שלשה הדיוטות מתירים במקום שאין חכם, ומה פירוש ״חכם״ ו״מסברי להו וסברי״, ועל דעת רבי יוסי. אחר כך המשנה והברייתא בדין המוכר בשר בכור, טרפה, טבלים ויין נסך שנמצאו אסורים, מה שאכלו אכלו ומה יחזיר המוכר. בפרק ״על אלו מומין״ (עמוד א) המשנה מונה מומי אוזן, והגמרא שואלת מנין לרבות מומים שלא נכתבו בתורה, ומבארת דרשת כלל ופרט וכלל או ריבוי ו״כל מום רע״, ומום עובר. בעמוד ב עוסקים בשיעורי סדק, פגימה, נקב ככרשינה ויבשה, בעבד עברי כהן שאינו נרצע ובכרשינה, ובשיעור שדרה וגולגולת ״כדי שינטל מן החי וימות״. הראשונים והאחרונים דנים בהוראת שלשה הדיוטות ובנסמך, בדין מקח טעות באיסור, ובשיעורי חסרון הגולגולת בטומאה ובטרפות.",
+  "title": "סיכום — בכורות ל״ז"
+ },
+ "en": {
+  "overview": "The daf opens by concluding the discussion of releasing vows and a firstborn: three laymen may release where there is no expert, what \"chacham\" and \"mesabri lahu v'savar\" mean, and the view of R. Yosi. Then the Mishnah and a baraita on one who sells meat of a firstborn, a treifa, tevalim or wine of libation that turn out forbidden: what was eaten was eaten, and what the seller must return. In the chapter \"Al Elu Mumin\" (amud a) the Mishnah lists blemishes of the ear, and the Gemara asks how blemishes not written in the Torah are included, explaining the derashot of klal-u'frat-u'klal versus ribui and \"kol mum ra\", and a passing blemish. Amud b treats the measures of a split, a notch, a hole the size of a karshina, and dryness, the Hebrew slave who is a kohen and is not pierced, the karshina, and the measure of a missing vertebrae and skull \"enough to remove from a living creature so that it dies\". The Rishonim and Acharonim discuss the rule of three laymen and the semuch, the law of a mistaken sale of a forbidden item, and the measures of a missing skull for impurity and for treifa.",
+  "title": "Summary — Bekhorot 37"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "דמסברי ליה וסבר"
+   ],
+   "he": {
+    "term": "מסברי להו וסברי",
+    "explanation": "פירוש המונח: שלשה הדיוטות שאינם בקיאים בהלכות נדרים מצטרפים להתרת נדר רק אם מסבירים להם את הטעם והם מבינים. הגמרא מציעה זאת כתירוץ לשאלה מדוע שניים שאינם חכמים מצטרפים לחכם בדעת רבי יהודה. מכאן נלמד שאין די בהדיוטות גמורים אלא בהדיוטות שמבינים את הסברת הענין."
+   },
+   "en": {
+    "term": "Mesabri lahu v'savri (they are explained and they understand)",
+    "explanation": "The term: three laymen who are not expert in the laws of vows may join in releasing a vow only if the matter is explained to them and they understand. The Gemara offers this to answer why two non-experts join the sage in R. Yehuda's view. So it is not any laymen at all, but laymen who grasp the explanation."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37a:2:3",
+    "quote": "טעמי הלכות נדרים וסברי ואותו חכם ילמד את השנים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "נימוקו עמו"
+   ],
+   "he": {
+    "term": "נימוקו עמו",
+    "explanation": "כלל שלפיו הלכה כדעת יחיד כשהוא מביא טעם לדבריו, ואף כנגד הרבים. הגמרא שואלת מדוע צריך לומר שאין הלכה כרבי יוסי, והרי יחיד ורבים הלכה כרבים, ומשיבה שמא נימוקו עמו."
+   },
+   "en": {
+    "term": "Nimuko imo (his reasoning is with him)",
+    "explanation": "A principle that an individual opinion may be followed when its reasoning is with it, even against the majority. The Gemara asks why we need to state that the halakha is not like R. Yosi, since an individual and a majority follow the majority, and answers that one might have said his reasoning is with him."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37a:3:2",
+    "quote": "שהיה מביא טעם לדבריו כל שעה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "דברים שהנפש קצה בהן"
+   ],
+   "he": {
+    "term": "דברים שהנפש קצה בהן",
+    "explanation": "דברים מאוסים שאדם מואס בהם, כנבילות וטריפות שקצים ורמשים, שבהם המוכר מחזיר את כל הדמים, לעומת דברים שאין הנפש קצה בהם כבכורות, טבלים ויין נסך, שבהם הלוקח מנכה את מה שאכל. רבי שמעון בן אלעזר חולק בכך על התנא הראשון."
+   },
+   "en": {
+    "term": "Devarim she-hanefesh katzah bahem (things the soul finds loathsome)",
+    "explanation": "Repulsive things a person rejects, such as carrion, treifot, and crawling creatures, for which the seller returns all the money, as against things the soul does not loathe, such as firstborn meat, tevalim, and wine of libation, where the buyer is credited for what he ate. R. Shimon ben Elazar makes this distinction against the first tanna."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37a:9:1",
+    "quote": "מואסת כמו ואקוץ בם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "מומין שבגלוי"
+   ],
+   "he": {
+    "term": "מומין שבגלוי ואינן חוזרין",
+    "explanation": "הכלל שהגמרא לומדת מכלל ופרט וכלל: רק מומים הנראים לעין ואינם חולפים נחשבים מום לשחיטת בכור. ״מום רע״ הוא לפי רש״י דוקא מום גלוי שמנוול את בעליו."
+   },
+   "en": {
+    "term": "Mumin she-baglui v'einan chozerin (visible blemishes that do not return)",
+    "explanation": "The rule the Gemara derives from klal-u'frat-u'klal: only blemishes that are visible and do not pass count as a blemish for slaughtering a firstborn. According to Rashi a \"bad blemish\" is one that is exposed and disfigures."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37b:1:1",
+    "quote": "אלא בגלוי שמנוולו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "כלל ופרט וכלל"
+   ],
+   "he": {
+    "term": "כלל ופרט וכלל",
+    "explanation": "כלל מדרשי ההלכה: כשהכתוב כולל, אחר כך מפרט, ואחר כך חוזר וכולל, אין דנים אלא כעין הפרט. כאן ״כי יהיה בו מום״ כלל, ״פסח או עור״ פרט, ״כל מום רע״ כלל, ולכן נלמדים מומים הדומים לפסח ועור."
+   },
+   "en": {
+    "term": "Klal u'frat u'klal (general, specific, general)",
+    "explanation": "A rule of Torah exegesis: when a verse states a general term, then a specific, then a general again, only things like the specific are included. Here \"if there is a blemish\" is the general, \"lame or blind\" the specific, and \"any bad blemish\" a general again, so only blemishes like lame or blind are learned."
+   },
+   "source": {
+    "who": {
+     "he": "מלבי״ם",
+     "en": "Malbim"
+    },
+    "ref": "Malbim on Deuteronomy 15:21:1",
+    "quote": "דריש בכלל ופרט וכלל מה הפרט מפורש מומים שבגלוי ואינם חוזרים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 15,
+   "anchors": [
+    "איזהו יבשה"
+   ],
+   "he": {
+    "term": "יבשה",
+    "explanation": "מום באוזן שבו האוזן יבשה כל כך שאם תינקב אינה מוציאה טיפת דם. רבי יוסי בן המשולם אומר שדי שתהא נפרכת, כלומר מתפוררת למגע."
+   },
+   "en": {
+    "term": "Yeveshah / nifrechet (dryness of the ear)",
+    "explanation": "A blemish in which the ear is so dry that if pierced it does not bring out a drop of blood. R. Yosi ben Hameshulam says it suffices that it crumbles, meaning it crumbles to the touch."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37a:15:5",
+    "quote": "נפרכת כשממשמשין בה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "שתחגור בה ציפורן"
+   ],
+   "he": {
+    "term": "כדי שתחגור בה ציפורן",
+    "explanation": "שיעור פגימה באוזן: כדי שציפורן תיתפס ותעוכב בפגם כשמעבירים אותה עליו. בלי שיעור זה אין הפגימה מום."
+   },
+   "en": {
+    "term": "Chagirat tziporen (a fingernail catching)",
+    "explanation": "The measure of a notch in the ear: enough that a fingernail catches and is held up in the notch when drawn over it. Without this measure the notch is not a blemish."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 37b:7:1",
+    "quote": "שתעכב בה צפורן אם בודקין כבדיקת סכין"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "התרת נדרים בשלשה הדיוטות: ״חכם״, ״מסברי להו וסברי״ וסברת רבי יוסי",
+    "gemara": "הגמרא מבארת שהכלל ״שלשה מתירים במקום שאין חכם״ בא לאפוקי מדעת רבי יוסי וגם מדעת רבי יהודה, שדורש שאחד מהם יהיה חכם. רב נחמן אומר שחכם הוא ״כגון אנא״, ורבינא משיב על השאלה אם השניים ״כל דהו״ שהם ״מסברי להו וסברי״. אחר כך רב חננאל אמר רב שאין הלכה כרבי יוסי שמתיר אפילו כשיש עשרים ושלשה, והגמרא שואלת מדוע צריך לומר זאת ומשיבה שמא נימוקו עמו.",
+    "halakha": "הבית יוסף והב״ח: שלשה הדיוטות מתירים רק אם מסבירים להם וסוברים, וגם יודעים לפתוח פתח לנודר; והב״ח מוסיף ״וכן פסק בש״ע״."
+   },
+   "en": {
+    "title": "Releasing vows by three laymen: \"chacham\", \"mesabri lahu v'savri\", and R. Yosi's view",
+    "gemara": "The Gemara explains that the rule \"three release a vow where there is no chacham\" comes to exclude both R. Yosi and R. Yehuda, who requires that one of them be a chacham. Rav Nachman says a chacham is \"like me\", and Ravina answers the question whether the other two are just anyone by saying they are \"explained to and understand\". Then Rav Chananel in Rav's name says the halakha is not like R. Yosi, who permits even with twenty-three, and the Gemara asks why this needs saying and answers that one might think his reasoning is with him.",
+    "halakha": "Beit Yosef and Bach: three laymen release only if it is explained to them and they understand, and they must also know how to open an opening for the one making the vow; the Bach adds \"and so the Shulchan Arukh rules\"."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:1",
+     "quote": "לאפוקי מדר' יהודה דלא בעינן אחד מהם חכם",
+     "he": "רבינו גרשום מפרש שהכלל בא לאפוקי מדעת רבי יהודה, שאינו צריך שאחד מהם יהיה חכם.",
+     "en": "Rabbeinu Gershom explains that the rule excludes R. Yehuda's view, which does not require that one of them be a chacham."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:1:2",
+     "quote": "הא יש חכם הוא לבדו מתירו",
+     "he": "רש״י מבאר ש״במקום שאין חכם״ משמעו שכאשר יש חכם הוא לבדו מתיר.",
+     "en": "Rashi explains \"where there is no chacham\" to mean that where there is a chacham, he alone releases it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:2:3",
+     "quote": "טעמי הלכות נדרים וסברי ואותו חכם ילמד את השנים",
+     "he": "רש״י מפרש ש״מסברי להו״ הוא שמסבירים להם את טעמי הלכות נדרים והם מבינים, והחכם מלמד את השנים.",
+     "en": "Rashi explains \"mesabri lahu\" as that the reasons of the laws of vows are explained to them and they understand, the chacham teaching the other two."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:3:1",
+     "quote": "רבי יוסי נימוקו עמו ותיהוי הלכתא כוותיה",
+     "he": "רש״י מציין שבמסכת גיטין נקבע שרבי יוסי ״נימוקו עמו״, ולכן היה מקום לומר שהלכה כמותו.",
+     "en": "Rashi notes that in Gittin it was established that R. Yosi's \"reasoning is with him\", so one might have thought the halakha follows him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37a:2:1",
+     "quote": "דפשיטא ליה דחכם דר' יהודה לאו כחכם דלעיל דאיירי במומחה",
+     "he": "התוספות מיישבים שהחכם של רבי יהודה אינו כחכם המומחה שנזכר קודם, שבזה אף רבי יהודה מודה שיחיד מתיר.",
+     "en": "Tosafot resolve that R. Yehuda's chacham is not like the expert mentioned earlier, regarding whom even R. Yehuda agrees that an individual releases."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Nedarim 3:3:1",
+     "quote": "אפי' תלתא דלא גמירי ולא סברי שרו נדרא והוא דמסברו להו וסברו",
+     "he": "הרא״ש לומד מהסוגיה שבמקום שאין מומחה כרב נחמן, אפילו שלשה שלא למדו מתירים, בתנאי שמסבירים להם והם סוברים.",
+     "en": "The Rosh learns from the sugya that where there is no expert like Rav Nachman, even three who have not learned release the vow, provided it is explained to them and they understand."
+    },
+    {
+     "who": {
+      "he": "הרשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Nedarim 22a:3",
+     "quote": "אבל במקום שיש שם חכם יכול הוא לבדו להתיר",
+     "he": "הרשב״א מבין שבמקום שיש חכם הוא לבדו יכול להתיר, ושלשה הדיוטות מתירים רק במקום שאין חכם.",
+     "en": "The Rashba understands that where there is a chacham he alone can release, and three laymen release only where there is none."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Nedarim 23a:14",
+     "quote": "ור' יהודה דקאמר ואחד מהם חכם לאו חכם דגמיר וסביר בכל דוכתא",
+     "he": "הריטב״א מסביר שה״חכם״ של רבי יהודה אינו מי שבקי בכל התלמוד, שאז היה מתיר לבדו, אלא חכם בהלכות נדרים.",
+     "en": "The Ritva explains that R. Yehuda's \"chacham\" is not one learned in the whole Talmud, for then he would release alone, but one expert in the laws of vows."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Nedarim 21b:2",
+     "quote": "ואע\"פ שאין הלכה כר' יהודה להזקיק שיהא אחד מהם חכם",
+     "he": "המאירי כותב שאף שאין הלכה כרבי יהודה לדרוש אחד חכם, צריך שהשלשה ידעו את ענין ההיתר מקבלה או שילמדוהו עכשיו.",
+     "en": "The Meiri writes that although the halakha is not like R. Yehuda in requiring a chacham, the three must know the matter of release by tradition or be taught it now."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Sanhedrin 23a:1",
+     "quote": "והכל יודעין בו דגמיר וסביר וקראוהו מומחה לרבים",
+     "he": "הרמב״ן מגדיר ״מומחה לרבים״ כמי שהכל יודעים שהוא למד והבין, אף שאינו סמוך.",
+     "en": "The Ramban defines an \"expert for the public\" as one whom everyone knows has learned and understood, though he is not ordained."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Nedarim 6b:4",
+     "quote": "אבל הרמב\"ם ז\"ל כתב בפ\"ו מהל' שבועות דחכם מובהק מתיר את הנדרים דלא בעינן סמוך",
+     "he": "הנימוקי יוסף מביא שהרמב״ם סובר שחכם מובהק מתיר נדרים ואין צריך סמוך.",
+     "en": "Nimukei Yosef brings that the Rambam holds a distinguished chacham releases vows and ordination is not required."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Nedarim 24a:13",
+     "quote": "כל שאין יודעין כן אינם בני התרה וכיושבי קרנות נינהו",
+     "he": "הנימוקי יוסף כותב על הדיוטות שאינם יודעים פתחי נדרים או שאין מסבירים להם שאינם בני התרה, והם כיושבי קרנות.",
+     "en": "Nimukei Yosef writes that laymen who do not know the openings of vows, or who are not explained them, are not fit to release and are like street-corner sitters."
+    },
+    {
+     "who": {
+      "he": "הריב״ש",
+      "en": "Rivash"
+     },
+     "ref": "Teshuvot HaRivash 432:5",
+     "quote": "ומה שצריך שתדעו שאין כל שלשה הדיוטות מתירין את הנדר ואת הנדוי",
+     "he": "הריב״ש כותב שלא כל שלשה הדיוטות מתירים נדר ונידוי, אלא מי שיודעים קצת בהלכות שבועות ונדרים, ומביא את ״כי מסברי להו וסברי״ מבכורות.",
+     "en": "The Rivash writes that not any three laymen release a vow or a ban, but those with some knowledge of the laws of oaths and vows, citing \"when it is explained to them and they understand\" from Bekhorot."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הבית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 228:2:1",
+     "quote": "דהני תלתא לא סגי להו דמסברו וסברי אלא בעינן נמי שיהיו יודעין לפתוח",
+     "he": "הבית יוסף מדייק מדברי הירושלמי שלשלושה הדיוטות לא די ש״מסברו וסברי״ אלא צריך שיהיו יודעים לפתוח.",
+     "en": "The Beit Yosef infers from the Yerushalmi that it is not enough for the three laymen that it be explained and they understand, but they must also know how to open."
+    },
+    {
+     "who": {
+      "he": "הב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 228:3:1",
+     "quote": "בעינן דמסברו להו וסברי וכן פסק בש\"ע",
+     "he": "הב״ח כותב שלשלושה הדיוטות צריך שיסבירו להם והם יסברו, ושכן פסק השולחן ערוך.",
+     "en": "The Bach writes that the three laymen need to be explained to and understand, and that so the Shulchan Arukh rules."
+    },
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Oaths 6:1:1",
+     "quote": "אבל רבינו גם כאן גם בפירוש המשנה סתם וכתב ג' הדיוטות ולא הצריך דמסברי להו וסברי",
+     "he": "הכסף משנה מעיר שהרמב״ם כתב סתם ״ג׳ הדיוטות״ ולא הצריך ״מסברי להו וסברי״, ומסביר את טעמו.",
+     "en": "The Kessef Mishneh observes that the Rambam wrote simply \"three laymen\" and did not require \"mesabri lahu v'savri\", and explains his reason."
+    },
+    {
+     "who": {
+      "he": "החתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Nedarim 78a:1",
+     "quote": "הביא הרמב\"ן שהקשה מבכורות דס\"ל לרבי יהודה ב' הדיוטות וחכם אחד",
+     "he": "החתם סופר מביא שהרמב״ן הקשה מבכורות, שלרבי יהודה צריך שני הדיוטות וחכם אחד, ומכאן שיחיד מומחה הוא סמוך.",
+     "en": "The Chatam Sofer brings that the Ramban asked from Bekhorot that R. Yehuda requires two laymen and one chacham, from which it follows that an individual expert is ordained."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Moed Katan 14a:8",
+     "quote": "ג' מתירין את הנדר במקום שאין חכם",
+     "he": "הרש״ש מזכיר בדיונו על שאלת חכם במועד את הכלל שקיימא לן ששלשה מתירים נדר במקום שאין חכם, ומציין לבכורות.",
+     "en": "The Rashash, in discussing asking a sage on chol hamoed, mentions the rule we hold that three release a vow where there is no chacham, citing Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    7
+   ],
+   "he": {
+    "title": "שחט את הבכור או את הפרה ונודע שאינו כשר: מה שאכלו אכלו ומה יחזיר המוכר",
+    "gemara": "המשנה: השוחט את הבכור ונודע שלא הראהו לחכם, מה שאכלו אכלו והמוכר מחזיר את הדמים, ומה שלא אכלו יקבר. וכן השוחט פרה ונמצאה טרפה: מה שאכלו אכלו, ומה שנשאר מחזירים לו והוא מחזיר את הדמים. אם מכרוהו לגוים או הטילוהו לכלבים, ישלמו דמי טרפה.",
+    "halakha": "הרמב״ם והשולחן ערוך: המוכר דבר שאיסורו מן התורה, מה שאכלו אכלו והמוכר מחזיר את הדמים, והנשאר מהבשר יקבר."
+   },
+   "en": {
+    "title": "One who slaughtered a firstborn or a cow and sold it, and it turned out to be forbidden: what was eaten and what the seller returns",
+    "gemara": "The Mishnah: one who slaughters a firstborn and it becomes known that he did not show it to a chacham, what they ate they ate and the seller returns the money, and what was not eaten is buried. Likewise one who slaughters a cow and sells it and it turns out to be a treifa: what they ate they ate, the remainder they return to him and he returns the money. If they sold it to gentiles or threw it to dogs, they pay the price of a treifa.",
+    "halakha": "The Rambam and Shulchan Arukh: one who sells something forbidden by the Torah, what they ate they ate and the seller returns the money, and the remainder of the meat is buried."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:4",
+     "quote": "ויחזיר להם את הדמים. דקנסוהו רבנן",
+     "he": "רבינו גרשום מסביר שהמוכר מחזיר את הדמים משום שחכמים קנסוהו.",
+     "en": "Rabbeinu Gershom explains that the seller returns the money because the Sages fined him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:5",
+     "quote": "שמותר בהנאתו שרשאי למוכרו לעובד כוכבים",
+     "he": "רבינו גרשום מסביר שבטרפה שהוחזרה הבשר מותר בהנאה ורשאי המוכר למוכרו לעובד כוכבים.",
+     "en": "Rabbeinu Gershom explains that the returned treifa meat is permitted for benefit and the seller may sell it to a gentile."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:6:4",
+     "quote": "משום קנס דאיסור ספק הוי",
+     "he": "רש״י מבאר שהמוכר מחזיר את הדמים משום קנס, שהאיסור ספק הוא.",
+     "en": "Rashi explains that the seller returns the money as a fine, since the prohibition is doubtful."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:6:5",
+     "quote": "דבכור תם אסור בהנאה",
+     "he": "רש״י מסביר שהבשר יקבר משום שבכור תם אסור בהנאה.",
+     "en": "Rashi explains that the meat is buried because an unblemished firstborn is forbidden for benefit."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:7:1",
+     "quote": "ישלמו לו דמי בשר טריפה בזול והוא יחזיר להם המותר",
+     "he": "רש״י מבאר שהלוקחים שמכרו לעובדי כוכבים ישלמו למוכר דמי בשר טריפה בזול, והוא יחזיר להם את היתר.",
+     "en": "Rashi explains that buyers who sold to gentiles pay the seller the cheap price of treifa meat, and he returns the remainder to them."
+    },
+    {
+     "who": {
+      "he": "הרי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Bava Batra 46b:2",
+     "quote": "למאי נפקא מיניה למקח וממכר להודיע כי מקח טעות הוא",
+     "he": "הרי״ף מביא את משנתנו בהלכות מקח וממכר בבבא בתרא, בהקשר של מקח טעות.",
+     "en": "The Rif brings our Mishnah in the laws of commerce in Bava Batra, in the context of a mistaken sale."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 5:2:2",
+     "quote": "הילכך בכור שמת או שנשחט בלא התרה או הותר ונמצא טריפה טעון קבורה",
+     "he": "הרא״ש מסיק שבכור שמת, או שנשחט בלא התרה, או שהותר ונמצא טריפה, טעון קבורה.",
+     "en": "The Rosh concludes that a firstborn that died, was slaughtered without permission, or was permitted and found a treifa, requires burial."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 3:9",
+     "quote": "וכן הדין במאכיל את הטרפה כמו שיתבאר בהלכות מקח וממכר",
+     "he": "הרמב״ם פוסק את דין משנתנו, ומוסיף שכן הדין במאכיל את הטרפה כפי שיתבאר בהלכות מקח וממכר.",
+     "en": "The Rambam rules the Mishnah's law and adds that the same applies to one who feeds a treifa, as will be explained in the laws of sales."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Bava Batra 93b:3",
+     "quote": "אבל באיסורי סופרים אם הפירות קיימין מחזירן ונוטל דמים ואם אכלן אכל",
+     "he": "המאירי מבחין בין איסורי תורה לאיסורי סופרים: בסופרים אם הפירות קיימים מחזירן, ואם אכלן אכל ואין מוכר מחזיר לו דמים.",
+     "en": "The Meiri distinguishes Torah prohibitions from rabbinic ones: for a rabbinic prohibition, if the produce exists he returns it, and if eaten it was eaten and the seller does not refund."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 234",
+     "quote": "וכל איסורי הנאה בין מן התורה בין מדבריהם מחזיר לו הדמים ואין להן דין מכירה",
+     "he": "הטור מביא את הרמב״ם שבכל איסורי הנאה, מן התורה ומדבריהם, מחזיר הדמים ואין להם דין מכירה.",
+     "en": "The Tur brings the Rambam that for every prohibition of benefit, Torah or rabbinic, the seller returns the money and there is no law of sale."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 234:1",
+     "quote": "והנשאר מהבשר ביד הלקוחות יקבר ויחזיר להם את הדמים",
+     "he": "השולחן ערוך פוסק כמשנה: מה שנשאר בידי הלקוחות יקבר והמוכר מחזיר להם את הדמים.",
+     "en": "The Shulchan Arukh rules as the Mishnah: the remainder in the buyers' hands is buried and the seller returns the money."
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 234:2",
+     "quote": "יחשבו עם הטבח על דמי הטרפה ויחזיר להם הטבח את המותר",
+     "he": "השולחן ערוך פוסק שאם הלוקחים מכרו את הטרפה לעכו״ם או האכילו לכלבים, מחשבים עם הטבח לפי דמי טרפה והוא מחזיר להם את היתר.",
+     "en": "The Shulchan Arukh rules that if the buyers sold the treifa to a gentile or fed it to dogs, they settle with the butcher by the price of a treifa and he returns the remainder."
+    },
+    {
+     "who": {
+      "he": "הט״ז",
+      "en": "Taz"
+     },
+     "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 119:12",
+     "quote": "משמע מזה דאפי' אם האיסור הוא ספק טרפה מה שאכל אכל ויחזיר הדמים",
+     "he": "הט״ז מדייק מרש״י שאפילו אם האיסור ספק טרפה, מה שאכל אכל ומחזיר את הדמים.",
+     "en": "The Taz infers from Rashi that even if the prohibition is a doubtful treifa, what he ate he ate and the money is returned."
+    },
+    {
+     "who": {
+      "he": "החתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Choshen Mishpat 180:3",
+     "quote": "ובגמ' שם מבואר דהמכשיל באי' דאוריית' מה שאכלו אכלו ויחזור הדמים",
+     "he": "החתם סופר מציין שהגמרא מבארת דין זה במכשיל באיסור תורה, ושהרמב״ם הוסיף לאיסור דרבנן שאין המוכר מחזיר דמים.",
+     "en": "The Chatam Sofer notes that the Gemara explains this law for one who causes a Torah violation, and that the Rambam added that for a rabbinic prohibition the seller does not refund."
+    },
+    {
+     "who": {
+      "he": "הכף החיים",
+      "en": "Kaf HaChayim"
+     },
+     "ref": "Kaf HaChayim on Shulchan Arukh, Yoreh De'ah 119:78:1",
+     "quote": "וה\"ט משום קנס דקנסוהו למוכר על שמכר טריפה לישראל",
+     "he": "הכף החיים כותב שהטעם שהמוכר מחזיר את הדמים הוא קנס על שמכר טריפה לישראל.",
+     "en": "The Kaf HaChayim writes that the reason the seller returns the money is a fine for having sold a treifa to a Jew."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 119:51",
+     "quote": "דאיסור תורה לא חשיבא כלל אכילה וא\"כ מעיקר הדין צריך להחזיר הדמים",
+     "he": "ערוך השולחן כותב שאיסור תורה אינו נחשב כלל אכילה, ולכן מעיקר הדין המוכר צריך להחזיר את הדמים.",
+     "en": "The Arukh HaShulchan writes that a Torah prohibition is not considered eating at all, so by the basic law the seller must return the money."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    14
+   ],
+   "he": {
+    "title": "המוכר בשר בכור, טבלים ויין נסך: דברים שהנפש קצה בהם ושאין הנפש קצה בהם",
+    "gemara": "ברייתא: המוכר בשר ונמצא בשר בכור, פירות ונמצאו טבלים, יין ונמצא יין נסך, מה שאכלו אכלו ומחזיר הדמים. רבי שמעון בן אלעזר: בדברים שהנפש קצה בהם מחזיר את כל הדמים, ובשאין הנפש קצה בהם מנכה. הגמרא שואלת על הבכור, ״ולימא ליה מאי אפסדתיך״, ומשיבה שמכר מקום המום ורבי יהודה היה מתיר, על הטבלים שהיה מתקן, ועל יין נסך שנתערב והיה נמכר לגוים חוץ מדמי היין, כרבן שמעון בן גמליאל.",
+    "halakha": "הרמב״ם והשולחן ערוך: יין נסך שנתערב בין החביות, הכל אסור בשתייה ומותר בהנאה, ומוכרים הכל לעובד כוכבים ומשליכים את דמי החבית לים המלח."
+   },
+   "en": {
+    "title": "One who sells firstborn meat, tevalim or wine of libation: things the soul finds loathsome and things it does not",
+    "gemara": "A baraita: one who sells meat and it is found to be firstborn meat, produce found to be tevalim, wine found to be wine of libation, what they ate they ate and he returns the money. R. Shimon ben Elazar: for things the soul loathes he returns all the money, for those it does not loathe he deducts. The Gemara asks about the firstborn, \"let him say what did I cost you\", and answers that he sold the blemished place and R. Yehuda would permit it; about tevalim that he would have set them right, and about wine of libation that it was mixed and would be sold to gentiles except the value of the libation wine, like Rabban Shimon ben Gamliel.",
+    "halakha": "The Rambam and Shulchan Arukh: wine of libation mixed among barrels, all are forbidden to drink and permitted for benefit; all is sold to a gentile and the price of that barrel is thrown into the Dead Sea."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:8",
+     "quote": "דזבין ההוא אבר דהוה ביה מומא ואכליה ומשום הכי ינכה ליה מן הדמים",
+     "he": "רבינו גרשום מסביר שמדובר במוכר אבר שהיה בו המום, והלוקח אכלו, ולכן מנכה לו מן הדמים.",
+     "en": "Rabbeinu Gershom explains that this is a case of selling the limb that had the blemish and the buyer ate it, so the seller is credited from the money."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:11",
+     "quote": "ויין נסך שאינו נסך גרידא אלא ע\"י תערובת נתנסך",
+     "he": "רבינו גרשום מסביר שיין הנסך כאן אינו נסך גמור אלא נתנסך על ידי תערובת.",
+     "en": "Rabbeinu Gershom explains that the wine of libation here is not pure libation wine but became so through mixing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:9:1",
+     "quote": "מואסת כמו ואקוץ בם",
+     "he": "רש״י מפרש ״קצה״ כמלשון ״מואסת״, כמו ״ואקוץ בם״.",
+     "en": "Rashi explains \"katzah\" as \"loathes\", as in \"and I loathed them\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:10:1",
+     "quote": "הלא אם היה הבשר בידך היה טעון קבורה שהרי תם שחטתו",
+     "he": "רש״י מסביר את שאלת הגמרא בבכור: אילו היה הבשר ביד הכהן היה טעון קבורה, שהרי תם שחטו.",
+     "en": "Rashi explains the Gemara's question on the firstborn: had the meat been in the kohen's hand it would need burial, for he slaughtered an unblemished animal."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:11:3",
+     "quote": "השוחט את הבכור ואחר כך הראה את מומו רבי יהודה מתיר",
+     "he": "רש״י מציין שרבי יהודה מתיר לשחוט את הבכור ואחר כך להראות את המום.",
+     "en": "Rashi notes that R. Yehuda permits slaughtering the firstborn and showing the blemish afterwards."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:12:2",
+     "quote": "כגון דלא זבין ליה יין נסך גופיה אלא עירבו עם יין כשר ומכרן",
+     "he": "רש״י מסביר שביין נסך מדובר שלא מכר את היין נסך עצמו אלא עירבו עם יין כשר ומכרם.",
+     "en": "Rashi explains that for wine of libation he did not sell the libation wine itself but mixed it with kosher wine and sold them."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37a:9:1",
+     "quote": "מ\"מ לא חשיב נפש קצה בו ועוד דהכא מסקינן על ידי תערובות",
+     "he": "התוספות כותבים שיין נסך אינו נחשב ״נפש קצה בו״, ושכאן מדובר על ידי תערובת.",
+     "en": "Tosafot write that wine of libation is not considered something the soul loathes, and that here it is through a mixture."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume III, Piskei Bava Kamma 220:1",
+     "quote": "וקיי\"ל ר\"מ ור\"י הלכה כר' יהודה",
+     "he": "האור זרוע מביא שבמחלוקת רבי מאיר ורבי יהודה בשחיטת בכור קודם שהראה מום, קיימא לן שהלכה כרבי יהודה.",
+     "en": "The Ohr Zarua brings that in the dispute of R. Meir and R. Yehuda about a firstborn slaughtered before the blemish was shown, we hold the halakha like R. Yehuda."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Foods 16:29",
+     "quote": "וְכֵן אִם נִתְעָרְבָה חָבִית שֶׁל יֵין נֶסֶךְ בֵּין הֶחָבִיּוֹת הַכּל אֲסוּרִין בִּשְׁתִיָּה וּמֻתָּרִין בַּהֲנָיָה",
+     "he": "הרמב״ם פוסק שחבית יין נסך שנתערבה בין החביות, הכל אסורים בשתייה ומותרים בהנאה.",
+     "en": "The Rambam rules that if a barrel of libation wine is mixed among barrels, all are forbidden to drink and permitted for benefit."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 134:2",
+     "quote": "וכן אם נתערבה חבית של יין נסך בין החביות הכל אסורים בשתייה ומותרים בהנאה ויוליך דמי אותה חבית לים המלח כשימכור הכל לעובד כוכבים",
+     "he": "השולחן ערוך פוסק כרמב״ם, ומוסיף שהמוכר מוליך את דמי אותה חבית לים המלח.",
+     "en": "The Shulchan Arukh rules like the Rambam and adds that the seller takes the price of that barrel to the Dead Sea."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 119:51",
+     "quote": "ת\"ק סבר דכל דבר איסור נפשו של אדם קצה בהן ורשב\"א סובר דרק דברים מאוסים הנפש קצה בהם",
+     "he": "ערוך השולחן מביא את הירושלמי שהתנא הראשון סובר שכל דבר איסור נפש האדם קצה בו, ורבי שמעון בן אלעזר סובר שרק דברים מאוסים.",
+     "en": "The Arukh HaShulchan brings the Yerushalmi that the first tanna holds that the soul loathes every forbidden thing, while R. Shimon ben Elazar holds only repulsive things."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    15
+   ],
+   "he": {
+    "title": "מומי האוזן: פגימה מן החסחוס, סדק, נקב ככרשינה ויבשה",
+    "gemara": "המשנה בפרק ״על אלו מומין״ מונה את המומים שעליהם שוחטים את הבכור: נפגמה אוזנו מן החסחוס אבל לא מן העור, נסדקה אף על פי שלא חסרה, ניקבה מלא כרשינה, או שיבשה. ״יבשה״ היא כל שתינקב ואינה מוציאה טיפת דם, ורבי יוסי בן המשולם אומר: שתהא נפרכת."
+   },
+   "en": {
+    "title": "Blemishes of the ear: a notch in the cartilage, a split, a hole the size of a karshina, and dryness",
+    "gemara": "The Mishnah in the chapter \"Al Elu Mumin\" lists the blemishes for which a firstborn is slaughtered: an ear notched in the cartilage but not the skin, split even without missing a piece, pierced the size of a karshina, or dried. \"Dried\" is that which, if pierced, does not bring out a drop of blood, and R. Yosi ben Hameshulam says: that it crumbles."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:13",
+     "quote": "על אלו מומין. הסחוס שלועזים טנדרוס",
+     "he": "רבינו גרשום מפרש שה״חסחוס״ הוא מה שנקרא בלעז ״טנדרוס״.",
+     "en": "Rabbeinu Gershom explains the \"chaschos\" as what is called in the vernacular \"tandros\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:15:3",
+     "quote": "דהדר בריא ולא הוי מומא והאי עור היינו אליה רכה של אוזן",
+     "he": "רש״י מסביר שנפגם העור אינו מום כי הוא חוזר ומתרפא, והעור הוא האליה הרכה של האוזן.",
+     "en": "Rashi explains that a notch in the skin is not a blemish since it heals, and the \"skin\" is the soft lobe of the ear."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37a:15:1",
+     "quote": "ובדל האוזן מתרגם חסחוס דאודנא",
+     "he": "התוספות מביאים שהתרגום ל״בדל האוזן״ הוא ״חסחוס דאודנא״.",
+     "en": "Tosafot bring that the Aramaic translation of \"the tip of the ear\" is \"chaschos of the ear\"."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:2",
+     "quote": "אֲבָל הָעוֹר הַמֻּקָּף לִסְחוּס הָאֹזֶן אֵין בּוֹ מוּם בֵּין נִקַּב בֵּין נִסְדַּק",
+     "he": "הרמב״ם פוסק שהעור המקיף את סחוס האוזן אינו מום, בין נקב בין נסדק.",
+     "en": "The Rambam rules that the skin surrounding the cartilage of the ear is not a blemish, whether pierced or split."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 17b:13:3",
+     "quote": "להיות בו מום לישחט עליו במדינה",
+     "he": "רש״י מציין שפגימת אוזן בבכור היא מום שאפשר לשחוט עליו במדינה, כמשנתנו.",
+     "en": "Rashi notes that an ear notch in a firstborn is a blemish on which one may slaughter outside the Temple, as in our Mishnah."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 309",
+     "quote": "בין שנפגמה בידי אדם בין שנפגמה בידי שמים או שנסדקה סדק הניכר אע\"פ שאינו חסר כלום",
+     "he": "הטור כותב שפגימת האוזן מן הסחוס, בין בידי אדם בין בידי שמים, או סדק הניכר אף שאינו חסר, הם מום.",
+     "en": "The Tur writes that an ear notched from the cartilage, whether by man or by heaven, or a visible split even without a piece missing, are blemishes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:3:1",
+     "quote": "ופירש רש\"י סחוס תנוך האוזן וכו' אבל לא מן העור דהדרא בריא ולא הוי מומא",
+     "he": "הכסף משנה מביא את פירוש רש״י לסחוס ולעור כמקור לדברי הרמב״ם על מומי האוזן.",
+     "en": "The Kessef Mishneh brings Rashi's explanation of cartilage and skin as the source for the Rambam's list of ear blemishes."
+    },
+    {
+     "who": {
+      "he": "מהר״י קורקוס ורדב״ז",
+      "en": "Mahari Kurkus and Radbaz"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Admission into the Sanctuary 7:1:1",
+     "quote": "אבל רבינו ז\"ל נראה שמפרש דעור הוא מה שסביב הסחוס",
+     "he": "מהר״י קורקוס מעיר שנראה שהרמב״ם מפרש ״עור״ כמה שסביב הסחוס, ולא כרש״י שפירשו אליה רכה.",
+     "en": "Mahari Kurkus remarks that the Rambam seems to explain \"skin\" as what surrounds the cartilage, unlike Rashi who explained it as the soft lobe."
+    },
+    {
+     "who": {
+      "he": "מעשה למלך",
+      "en": "Ma'asai LaMelekh"
+     },
+     "ref": "Ma'asai LaMelekh on Mishneh Torah, Admission into the Sanctuary 7:2:1",
+     "quote": "הנה משמע דל\"ה מום כלל אף להקריב",
+     "he": "המעשי למלך מדייק מלשון הרמב״ם שהעור המקיף את הסחוס אינו מום כלל, אף לענין הקרבה.",
+     "en": "The Ma'asai LaMelekh infers from the Rambam's wording that the skin around the cartilage is not a blemish at all, even for offering."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 309:11",
+     "quote": "ופשוט הוא דכל שבאוזן הוא דווקא בהסחוס ולא בהרך",
+     "he": "ערוך השולחן כותב שפשוט שכל המומים באוזן הם דוקא בסחוס ולא בחלק הרך.",
+     "en": "The Arukh HaShulchan writes that it is obvious that all ear blemishes are specifically in the cartilage and not the soft part."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    16,
+    5
+   ],
+   "he": {
+    "title": "מנין שאר המומים: כלל ופרט וכלל, ״כל מום רע ריבויא הוא״, מום עובר ושחיטה",
+    "gemara": "הגמרא שואלת: מדוע שוחטים על מומי האוזן, והרי נאמר רק ״פסח או עור״. היא משיבה בדרשת ״כי יהיה בו מום״, כלל ופרט וכלל, שלומדים מומין שבגלוי ואינם חוזרין. מקשה ״ואימא ובטל ממלאכתו״, ומשיבה ש״כל מום רע ריבויא הוא״. מקשה שאם כן גם מומין שבסתר, ומשיבה ש״מום רע״ הוא רק בגלוי. מקשה גם מום עובר, ומשיבה ״סברא הוא״: משפדיון אין פודים עליו, אין שוחטים עליו, כמו שנלמד מ״אשר לא יקריבו ממנה״. ואם כן ״פסח ועור למה לי״.",
+    "halakha": "הרמב״ם: מצות עשה לפדות קדשים שנולד בהם מום ולהוציאם לחולין."
+   },
+   "en": {
+    "title": "From where the other blemishes: klal-u'frat-u'klal, \"kol mum ra ribuya hu\", a passing blemish, and slaughter",
+    "gemara": "The Gemara asks: why slaughter on ear blemishes when only \"lame or blind\" is written? It answers with the derasha of \"if there is a blemish\", klal-u'frat-u'klal, learning visible blemishes that do not return. It asks \"say: and idle from work\", and answers that \"kol mum ra\" is a ribui. It asks that then hidden blemishes too, and answers that a \"bad blemish\" is only visible. It asks about a passing blemish too, and answers that it is logic: we do not even redeem on it, so do we slaughter on it, as learned from \"which they shall not offer from it\". And if so, why \"lame and blind\"?",
+    "halakha": "The Rambam: it is a positive commandment to redeem sacrificial animals that develop a blemish and take them out to non-sacred status."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37a:20",
+     "quote": "כל מום רע ריבויא הוא ומרבי הני",
+     "he": "רבינו גרשום מפרש ש״כל מום רע ריבויא הוא״ ומרבה את המומים האלה.",
+     "en": "Rabbeinu Gershom explains that \"any bad blemish is a ribui\" and includes these blemishes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:16:1",
+     "quote": "שישחוט בכור עליהן ומידי אחרינא לא דכתיב וכי יהיה בו מום פסח ועור",
+     "he": "רש״י מבאר ששאלת הגמרא היא שיהיה רק פסח ועור, שהכתוב אומר ״וכי יהיה בו מום פסח ועור״ וסומך לו ״בשעריך תאכלנו״.",
+     "en": "Rashi explains the Gemara's question as that only lame or blind should apply, since the verse says \"if there is a blemish, lame or blind\" and adjacent \"you shall eat it within your gates\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:20:1",
+     "quote": "ריבויא היא דכתיב כל ולא דרשינן ליה בכלל ופרט",
+     "he": "רש״י מפרש ש״ריבויא״ משום שכתוב ״כל״, ואין דורשים אותו בכלל ופרט.",
+     "en": "Rashi explains \"ribuya\" because \"kol\" is written, and it is not expounded as klal u'frat."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:1:1",
+     "quote": "מום רע לא מיקרי אלא בגלוי שמנוולו",
+     "he": "רש״י מבאר ש״מום רע״ נקרא רק מום בגלוי שמנוול את הבהמה.",
+     "en": "Rashi explains that a \"bad blemish\" is only called so when exposed and disfiguring."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:5:1",
+     "quote": "דבעל מום עובר נמי נפדין פסח ועור מאי אהני ליה דמשמע מומין קבועין ולא עוברין",
+     "he": "רש״י מסביר שאם גם בעל מום עובר נפדה, מה ״פסח ועור״ מוסיף, ולכן הוא מלמד על מומין קבועין.",
+     "en": "Rashi explains that if one with a passing blemish is also redeemed, what do \"lame and blind\" add, so they teach permanent blemishes."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37a:18:1",
+     "quote": "אבל הכא שכך דרך שהשינים נופלות מחמת זקנה לא הוי כעין פסח ועור",
+     "he": "התוספות שואלים מדוע נפילת שן אינה מום בבכור אף שהיא ״בגלוי ואינו חוזר״, ומתרצים שכך דרך השינים ליפול מחמת זקנה.",
+     "en": "Tosafot ask why a lost tooth is not a blemish in an animal although it is \"visible and does not return\", and answer that it is the way of teeth to fall with age."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37b:2:1",
+     "quote": "והוה אמינא דאתא לאפוקי מק\"ו",
+     "he": "התוספות מיישבים מה ״פסח ועור״ מוסיף לפי התירוץ שמום עובר נלמד מקל וחומר, ושאין ממעטים גם מומין שבסתר.",
+     "en": "Tosafot resolve what \"lame and blind\" add according to the answer that a passing blemish is excluded by a kal vachomer, and that hidden blemishes are not excluded as well."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:3",
+     "quote": "ש\"מ דאינו נשחט אלא על מום קבוע דומיא דפסח ועור",
+     "he": "רבינו גרשום מסיק שאינו נשחט אלא על מום קבוע, בדומה לפסח ועור.",
+     "en": "Rabbeinu Gershom concludes that one slaughters only on a permanent blemish, like lame or blind."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Eruvin 28a:4:1",
+     "quote": "הא נמי צדדין שוין והא דפריך התם למימר מה הפרט מפורש מומין שבגלוי ובטל ממלאכה ואינו חוזר",
+     "he": "התוספות בעירובין דנים בדרשת כלל ופרט וכלל, ומזכירים את סוגייתנו ״מומין שבגלוי ובטל ממלאכה ואינו חוזר״.",
+     "en": "Tosafot in Eruvin discuss the derasha of klal-u'frat-u'klal and mention our sugya, \"visible, idle from work, and not returning\"."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Ramban on Exodus 21:24:1",
+     "quote": "כִּי כָּל מַכֶּה יַעֲשֶׂה מוּם לִשְׁעָתוֹ, וַאֲפִלּוּ הַמִּתְרַפֵּא נִקְרָא מוּם",
+     "he": "הרמב״ן כותב שכל מכה עושה מום לשעתו, ואפילו המתרפא נקרא מום, כפי ״מום עובר״ בבכורות.",
+     "en": "The Ramban writes that every wound makes a blemish for its time, and even one that heals is called a blemish, like a \"passing blemish\" in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 1:10",
+     "quote": "וּמִצְוַת עֲשֵׂה הִיא לִפְדּוֹת קָדָשִׁים שֶׁנּוֹלַד בָּהֶן מוּם וְיֵצְאוּ לְחֻלִּין וְיֵאָכְלוּ",
+     "he": "הרמב״ם פוסק שמצוות עשה לפדות קדשים שנולד בהם מום, ושנאמר ״ואם כל בהמה טמאה״ בבעלי מומים שנפדו.",
+     "en": "The Rambam rules that it is a positive commandment to redeem sacrificial animals that develop a blemish, and that \"if any unclean animal\" speaks of blemished animals that were redeemed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 37a:2",
+     "quote": "ק\"ל דהא משמע בכ\"ד דמומין שבסתר שוחטין לכתחלה במקדש",
+     "he": "הרש״ש מקשה על הגמרא כאן שהרי במקום אחר משמע שמומין שבסתר שוחטין עליהם לכתחילה במקדש.",
+     "en": "The Rashash asks on the Gemara here, since elsewhere it appears that for hidden blemishes one slaughters in the Temple even initially."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 37b:1",
+     "quote": "אמאי לא תני לקמן גבי ואלו שאין שוחטין עליהן לא במקדש ולא במדינה נפגמה מן העור",
+     "he": "הרש״ש מקשה מדוע לא נשנה בהמשך, ברשימת ״אלו שאין שוחטין עליהן״, ״נפגמה מן העור״, אם הוא מום עובר.",
+     "en": "The Rashash asks why \"notched in the skin\" is not taught later in the list of those on which one does not slaughter, if it is a passing blemish."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 15:21:1",
+     "quote": "ורש\"י בפסוק זה הביא דרשה אחרת בזה בכלל ופרט וכלל וצ\"ע שכן הוא בתחלת הסוגיא כאן אבל לבסוף מסיק כל רבויא הוא",
+     "he": "התורה תמימה מעיר שרש״י בפסוק הביא דרשה בכלל ופרט וכלל, והדבר צריך עיון, כי כך היא תחילת הסוגיה אבל בסופה מסיקה ״כל רבויא הוא״.",
+     "en": "The Torah Temimah remarks that Rashi on the verse brought a klal-u'frat-u'klal derasha, which needs study, since that is the sugya's beginning but it concludes \"everything is a ribui\"."
+    },
+    {
+     "who": {
+      "he": "המלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Deuteronomy 15:21:1",
+     "quote": "דריש בכלל ופרט וכלל מה הפרט מפורש מומים שבגלוי ואינם חוזרים",
+     "he": "המלבי״ם מביא את הסוגיה: דרשת כלל ופרט וכלל, ״מה הפרט מפורש מומים שבגלוי ואינם חוזרים״, ומסביר את התירוצים.",
+     "en": "The Malbim brings the sugya: the klal-u'frat-u'klal derasha, \"as the specific is stated, visible blemishes that do not return\", and explains the answers."
+    },
+    {
+     "who": {
+      "he": "המלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 78:1",
+     "quote": "ממה שכתב אשר לא יקריבו בעתיד מבואר שמדבר במום קבוע שלא יקריבו לעולם",
+     "he": "המלבי״ם מבאר מהלשון ״אשר לא יקריבו״ בעתיד שמדובר במום קבוע שלא יקריבו לעולם.",
+     "en": "The Malbim explains from the future \"which they shall not offer\" that the verse speaks of a permanent blemish that will never be offered."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Torah, Deuteronomy 15:21:1",
+     "quote": "עיין בכורות דף ל״ז ע״ב דממעט שם חוטין פנימיות שנפגמו ע״ש",
+     "he": "הצפנת פענח מציין לבכורות שממעטים שם חוטין פנימיות שנפגמו, כלומר שאין בהם עבירה על זביחה.",
+     "en": "The Tzafnat Pa'neach cites Bekhorot that excludes inner threads that were notched, meaning there is no transgression of offering them."
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Leviticus 21:18:2",
+     "quote": "דמום רע לא מיקרי אלא בגלוי המנוולו",
+     "he": "העמק דבר מביא מבכורות ש״מום רע״ נקרא רק מום גלוי המנוול, ולכן מה שגלוי יותר חמור יותר.",
+     "en": "The Haamek Davar brings from Bekhorot that a \"bad blemish\" is only called so when visible and disfiguring, and therefore what is more visible is more severe."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Slaves 5:4:1",
+     "quote": "דכל מום ריבה וצריך לשחוט גם על מום שבסתר רק דלא מיקרי מום רע",
+     "he": "האור שמח מציין שבסוגיה בריש ״על אלו מומין״ ״כל מום ריבה״ וצריך לשחוט גם על מום שבסתר, רק שלא נקרא ״מום רע״.",
+     "en": "The Ohr Sameach notes that in the sugya at the start of \"Al Elu Mumin\", \"kol mum\" is a ribui and one must slaughter on a hidden blemish too, only that it is not called a \"bad blemish\"."
+    },
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Appraisals and Devoted Property 5:11:1",
+     "quote": "הרי בהמה טמאה אמור הא מה אני מקיים כל בהמה טמאה אשר לא יקריבו ממנה וכו'",
+     "he": "הכסף משנה מציין שהרמב״ם נשען על הברייתא שמפרשת ״אם כל בהמה טמאה אשר לא יקריבו״ בבעלי מומין שנפדו.",
+     "en": "The Kessef Mishneh notes that the Rambam relies on the baraita that explains \"if any unclean animal that they shall not offer\" as blemished animals that were redeemed."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    7
+   ],
+   "he": {
+    "title": "סדק ופגימה: בידי שמים ובידי אדם, ושיעור פגימה ״כדי שתחגור בה ציפורן״",
+    "gemara": "ברייתא: ״הסדק כל שהוא, הפגימה בין בידי אדם בין בידי שמים״. הגמרא מדייקת שסדק בידי שמים לא, ומתקנת: סדק ופגימה בין בידי שמים בין בידי אדם. שיעור פגימה: כדי שתחגור בה ציפורן.",
+    "halakha": "הרמב״ם והטור: סדק באוזן אף שלא חסר הוא מום, ופגימה כדי שתחגור הציפורן."
+   },
+   "en": {
+    "title": "Split and notch: by heaven or by man, and the measure of a notch \"so that a fingernail catches\"",
+    "gemara": "A baraita: \"the split is any amount; the notch is whether by man or by heaven\". The Gemara infers that a split by heaven is not, and corrects: split and notch, whether by heaven or by man. The measure of a notch: enough that a fingernail catches in it.",
+    "halakha": "The Rambam and Tur: a split in the ear even without anything missing is a blemish, and a notch is enough for the fingernail to catch."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37a:15:4",
+     "quote": "פגימה אינה בלא חסרון אבל סדק משמע נמי בלא חסרון",
+     "he": "רש״י מבחין שפגימה אינה בלי חסרון, אבל סדק משמע גם בלא חסרון.",
+     "en": "Rashi distinguishes that a notch is not without something missing, but a split also implies without anything missing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:6:1",
+     "quote": "בידי שמים - שנולד עמו",
+     "he": "רש״י מפרש ״בידי שמים״ כמום שנולד עם הבהמה.",
+     "en": "Rashi explains \"by heaven\" as a blemish born with the animal."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:7:1",
+     "quote": "שתעכב בה צפורן אם בודקין כבדיקת סכין",
+     "he": "רש״י מפרש ״שתחגור״ כשתעכב בה הציפורן, אם בודקים כבדיקת סכין.",
+     "en": "Rashi explains \"shetachgor\" as the fingernail being held up in it, if one checks it as one checks a knife."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:3",
+     "quote": "מִי שֶׁנִּסְדַּק סְחוּס אָזְנוֹ בְּכָל שֶׁהוּא אַף עַל פִּי שֶׁלֹּא חָסֵר",
+     "he": "הרמב״ם פוסק שמי שנסדק סחוס אוזנו בכל שהוא אף שלא חסר הוא מום.",
+     "en": "The Rambam rules that one whose ear cartilage is split to any degree, even if nothing is missing, has a blemish."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:2",
+     "quote": "מִי שֶׁנִּפְגַּם סְחוּס אָזְנוֹ כְּדֵי שֶׁתַּחְגֹּר הַצִּפֹּרֶן בַּפְּגָם",
+     "he": "הרמב״ם פוסק ששיעור הפגימה בסחוס האוזן הוא כדי שהציפורן תחגור בפגם.",
+     "en": "The Rambam rules that the measure of a notch in the ear cartilage is that the fingernail catches in the notch."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Psalms 76:11:1",
+     "quote": "תַּחְגֹּר לְשׁוֹן עֲכָבָה בִּלְשׁוֹן מִשְׁנָה",
+     "he": "רש״י בתהלים מפרש ״תחגר״ כלשון עכבה בלשון משנה, ומביא את משנת בכורות ״כדי שתחגור בו הצפורן״.",
+     "en": "Rashi on Psalms explains \"tachgor\" as a term of holding up in Mishnaic language, and brings the Bekhorot teaching \"so that the fingernail catches in it\"."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 309",
+     "quote": "וכיצד צרימת האזן שנפגמה בחסרון עד שתחגור בה הציפורן מן הסחוס",
+     "he": "הטור מפרט את צרימת האוזן: נפגמה בחסרון עד שתחגור בה הציפורן מן הסחוס.",
+     "en": "The Tur details the ear notch: notched with something missing to the point that a fingernail catches, in the cartilage."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:3:1",
+     "quote": "ובגמרא וכמה שיעור פגימה כדי שתחגור בה צפורן",
+     "he": "הכסף משנה מצטט את הגמרא על שיעור הפגימה כדי שתחגור בה צפורן, כמקור לרמב״ם.",
+     "en": "The Kessef Mishneh cites the Gemara on the measure of a notch, that a fingernail catches, as the Rambam's source."
+    },
+    {
+     "who": {
+      "he": "אליהו רבה",
+      "en": "Eliyah Rabbah"
+     },
+     "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 183:5",
+     "quote": "דפגום שיש בו חסרון מעט כדי חגירת ציפורן בעינן דהא אמרינן בריש פרק על אלו מומין דאין פגם בלא חסרון",
+     "he": "האליה רבה, בדין כוס ברכה פגום, מביא שפגום פירושו חסרון מעט כדי חגירת ציפורן, שהרי אמרו בבכורות ״אין פגם בלא חסרון״.",
+     "en": "The Eliyah Rabbah, regarding a notched cup for blessing, brings that a notch means a slight missing amount enough for a fingernail to catch, since Bekhorot says \"there is no notch without a missing piece\"."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    14
+   ],
+   "he": {
+    "title": "נקיבת האוזן: ככרשינה או כעדשה, יבשה, ומדוע אין עבד עברי כהן נרצע",
+    "gemara": "ברייתא: נקיבת האוזן מלא כרשינה, ורבי יוסי ברבי יהודה: כעדשה. ״קרובין דבריהן להיות שוין״. הגמרא מקשה: האם בפחות מעדשה לא, והרי ברייתא דרציעת עבד: רבי יוסי ברבי יהודה מרבה כל דבר הנלקח ביד, ורבי כל של מתכת. ועוד מקשה: חכמים אומרים אין עבד עברי כהן נרצע מפני שנעשה בעל מום, ורב חנא בר קטינא מיישב: כאן לשחוט, כאן לפסול.",
+    "halakha": "הרמב״ם: עבד עברי כהן אינו נרצע מפני שנעשה בעל מום, ורוצעים במרצע של מתכת."
+   },
+   "en": {
+    "title": "Piercing the ear: like a karshina or a lentil, dryness, and why a Hebrew slave who is a kohen is not pierced",
+    "gemara": "A baraita: piercing the ear is the size of a karshina, while R. Yosi son of R. Yehuda says: a lentil. \"Their words are close to being equal.\" The Gemara asks: lentil yes, less than a lentil no? And the baraita on piercing a slave: R. Yosi son of R. Yehuda includes any hand-held object, while Rebbi only metal. And it asks that the Sages say a Hebrew slave who is a kohen is not pierced because he becomes blemished, and Rav Chana bar Katina resolves: here for slaughter, there for disqualification.",
+    "halakha": "The Rambam: a Hebrew slave who is a kohen is not pierced because he becomes blemished, and one pierces with a metal awl."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:4",
+     "quote": "בין כרשינה ועדשה איכא פורתא",
+     "he": "רבינו גרשום מסביר שבין כרשינה לעדשה יש הבדל קטן בלבד.",
+     "en": "Rabbeinu Gershom explains that between a karshina and a lentil there is only a small difference."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:9:1",
+     "quote": "דכרשינה אינה גדולה מעדשה אלא מעט",
+     "he": "רש״י מסביר שכרשינה אינה גדולה מעדשה אלא מעט, ולכן דבריהם קרובים.",
+     "en": "Rashi explains that a karshina is only slightly larger than a lentil, so their words are close."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:6",
+     "quote": "ושם נעשה בעל מום הכהן וקא מרבי ר' יוסי אפי' מחט לרציעה ובהכי הוי בעל מום",
+     "he": "רבינו גרשום מסביר את הקושיה: רציעה בסחוס עושה את הכהן בעל מום, ורבי יוסי ברבי יהודה מרבה אפילו מחט, והרי בפחות מעדשה כבר נעשה בעל מום.",
+     "en": "Rabbeinu Gershom explains the difficulty: piercing the cartilage makes the kohen blemished, and R. Yosi son of R. Yehuda includes even a needle, so a blemish is already formed by less than a lentil."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:13:3",
+     "quote": "הא ודאי אין רוצעין אלא בגובה של אוזן שהוא סחוס",
+     "he": "רש״י מבאר שאין רוצעים אלא בגובה האוזן שהוא סחוס, ושם נעשה בעל מום, ולכן הקושיה עומדת.",
+     "en": "Rashi explains that one pierces only at the top of the ear, which is cartilage, and a blemish is made there, so the difficulty stands."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:14:1",
+     "quote": "יש מומין הרבה בבכור שפוסלים אותו ליקרב על גבי מזבח ואין מכשירין אותו לישחט",
+     "he": "רש״י מסביר ״כאן לשחוט כאן לפסול״: יש מומים הרבה שפוסלים בבכור להקרבה ואינם מכשירים לשחיטה.",
+     "en": "Rashi explains \"here for slaughter, there for disqualification\": many blemishes disqualify a firstborn from the altar and do not permit slaughter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:8",
+     "quote": "להקרבה אפי' בנקב במחט הוי פסול",
+     "he": "רבינו גרשום מסביר שלהקרבה הנקב אפילו במחט פוסל, ושאין שוחטים אלא על נקב כעדשה.",
+     "en": "Rabbeinu Gershom explains that for offering even a needle hole disqualifies, while one slaughters only on a hole of a lentil."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37b:14:1",
+     "quote": "מדפסיל כהן משמע דהוי מום דאורייתא ושמא האי דאין שוחטין משום דאין ניכר יפה וגזרינן אטו מומין שבסתר",
+     "he": "התוספות מדייקים שמכך שהכהן נפסל משמע שזה מום מן התורה, ומציעים שאין שוחטים משום שאינו ניכר יפה, בגזירה על מומין שבסתר.",
+     "en": "Tosafot infer that since a kohen is disqualified it seems a Torah blemish, and suggest that one does not slaughter because it is not clearly visible, decreeing for hidden blemishes."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37b:11:1",
+     "quote": "מפרש משום דדריש ריבויי ומיעוטי ולקחת ריבה מרצע מיעט",
+     "he": "התוספות מציינים שבקדושין מפורש שרבי יוסי ברבי יהודה מרבה כל דבר הנלקח ביד משום שדורש ריבויים ומיעוטים.",
+     "en": "Tosafot note that Kiddushin explains R. Yosi son of R. Yehuda includes any hand-held object because he expounds ribuyim and miyutim."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Kiddushin 21b:7:3",
+     "quote": "אין עבד עברי כהן נרצע מפני שנעשה בעל מום ולא יכול עוד לשוב לחיזוק הראשון",
+     "he": "רש״י בקדושין מבאר שעבד עברי כהן אינו נרצע כי נעשה בעל מום ולא יוכל לשוב לחזקתו הראשונה, ומקשה על כך ממשנתנו.",
+     "en": "Rashi in Kiddushin explains that a Hebrew slave who is a kohen is not pierced because he becomes blemished and cannot return to his first status, and asks on this from our Mishnah."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Slaves 3:8",
+     "quote": "עֶבֶד עִבְרִי כֹּהֵן אֵינוֹ נִרְצָע מִפְּנֵי שֶׁנַּעֲשָׂה בַּעַל מוּם",
+     "he": "הרמב״ם פוסק שעבד עברי כהן אינו נרצע מפני שנעשה בעל מום.",
+     "en": "The Rambam rules that a Hebrew slave who is a kohen is not pierced because he becomes blemished."
+    },
+    {
+     "who": {
+      "he": "הרשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Kiddushin 21b:1",
+     "quote": "והרמב\"ן נר\"ו כתב דנראה דמרצע גדול הוא גס ועושה נקב רחב כמלא כרשינה",
+     "he": "הרשב״א מביא שהרמב״ן כתב שמרצע גדול הוא גס ועושה נקב רחב כמלא כרשינה, ולכן היה יודן ברבי דורש שרוצעים רק במילת.",
+     "en": "The Rashba brings that the Ramban wrote that a large awl is coarse and makes a hole as wide as a karshina, which is why Yudan son of Rebbi expounded that one pierces only at the soft part."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Slaves 3:8:1",
+     "quote": "ומשני כאן לשחוט כאן לפסול ופירשו בתוס' דרק בכהן לעבודה הוא פסול משום דאינו שוה בזרעו של אהרן",
+     "he": "האור שמח מביא שהתוספות פירשו ש״כאן לפסול״ הוא רק בכהן לעבודה, כי אינו שוה בזרעו של אהרן, ובבהמה אינו פסול כלל.",
+     "en": "The Ohr Sameach brings that Tosafot explained \"here for disqualification\" applies only to a kohen for the service, since he is unlike Aaron's descendants, whereas in an animal it does not disqualify at all."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 275:1:1",
+     "quote": "ומתרץ הש\"ס כאן לשחוט וכאן לפסול דהמשנה איירי לשחוט במדינה צריך כרשינה אבל לפסול מע\"ג מזבח סגי בכ\"ש",
+     "he": "המנחת חינוך מסביר שהמשנה עוסקת בשחיטה במדינה שצריך כרשינה, אבל לפסול מעל גבי המזבח די בכל שהוא.",
+     "en": "The Minchat Chinukh explains that the Mishnah deals with slaughter outside the Temple, which requires a karshina, whereas to disqualify from the altar any amount suffices."
+    },
+    {
+     "who": {
+      "he": "המלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Exodus 21:6:5",
+     "quote": "דרבי דריש כללי ופרטי ור\"י בר\"י דריש רבויי ומיעוטי",
+     "he": "המלבי״ם מביא מהגמרא שרבי דורש כללי ופרטי ורבי יוסי ברבי יהודה דורש ריבויי ומיעוטי, ומפלפל בכך.",
+     "en": "The Malbim brings from the Gemara that Rebbi expounds klalim and prati'im while R. Yosi son of R. Yehuda expounds ribuyim and miyutim, and analyzes this."
+    },
+    {
+     "who": {
+      "he": "המלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Exodus 21:6:4",
+     "quote": "ולדעת ר\"מ נרצע בסחוס ששם נעשה בע\"מ ולכן אין ע\"ע כהן נרצע",
+     "he": "המלבי״ם מביא שלדעת רבי מאיר רוצעים בסחוס, ששם נעשה בעל מום, ולכן עבד עברי כהן אינו נרצע.",
+     "en": "The Malbim brings that according to R. Meir one pierces the cartilage, where a blemish is made, so a Hebrew slave who is a kohen is not pierced."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    15,
+    16
+   ],
+   "he": {
+    "title": "מהי כרשינה, וכרשינה הנכנסת ויוצאת או העומדת",
+    "gemara": "הגמרא שואלת ״מאי כרשינה״ ורב שרביא משיב ״הינדא״. רב הושעיא שואל את רב הונא רבה אם הכוונה לכרשינה הנכנסת ויוצאת או לכרשינה העומדת, ורב הונא משיב שזו לא שמע אך כיוצא בה שמע."
+   },
+   "en": {
+    "title": "What is a karshina, and one that enters and exits or one that stands",
+    "gemara": "The Gemara asks \"what is a karshina\", and Rav Sherevya answers \"hindeh\". Rav Hoshaya asks Rav Huna the Great whether it means a karshina that enters and exits or one that stands, and Rav Huna answers that he did not hear this but heard something like it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:9",
+     "quote": "הינדא. במקומו קורין לכרשינה הינדא",
+     "he": "רבינו גרשום מסביר ש״הינדא״ הוא שם הכרשינה במקומו.",
+     "en": "Rabbeinu Gershom explains that \"hindeh\" is the name of the karshina in his place."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:10",
+     "quote": "כרשינה העומדת בדוחק בנקב או נכנסת ויוצאה בריוח",
+     "he": "רבינו גרשום מסביר את השאלה: כרשינה העומדת בדוחק בנקב או כזו שנכנסת ויוצאת ברווח.",
+     "en": "Rabbeinu Gershom explains the question: a karshina that sits tightly in the hole, or one that enters and exits freely."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:16:2",
+     "quote": "מסיפא נפקא לן דקאמר מקדח וחיסומו שנינו דהיינו נכנס ויוצא",
+     "he": "רש״י מסביר שמהסיפא של המשנה על מקדח וחיסומו לומדים שהדין הוא נכנס ויוצא.",
+     "en": "Rashi explains that from the latter part of the Mishnah, on the drill and its plug, we learn that the law is entering and exiting."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:3",
+     "quote": "מִי שֶׁנִּקַּב סְחוּס אָזְנוֹ כְּכַרְשִׁינָה בֵּין נֶקֶב עָגֹל בֵּין נֶקֶב אָרֹךְ אִם מִצְטָרֵף לְכַרְשִׁינָה הֲרֵי זֶה מוּם",
+     "he": "הרמב״ם פוסק שנקב בסחוס האוזן ככרשינה, עגול או ארוך, אם מצטרף לכרשינה הרי זה מום.",
+     "en": "The Rambam rules that a hole in the ear cartilage like a karshina, round or long, if it adds up to a karshina, is a blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 275:1:1",
+     "quote": "נראה דבפחות מכרשינה אינו פוסל כלל",
+     "he": "המנחת חינוך מסיק מהרמב״ם שבפחות מכרשינה אינו פוסל כלל.",
+     "en": "The Minchat Chinukh concludes from the Rambam that less than a karshina does not disqualify at all."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    21
+   ],
+   "he": {
+    "title": "שיעור שדרה וגולגולת: ״כדי שינטל מן החי וימות״ הוא כסלע, ומחלוקת בית שמאי ובית הלל",
+    "gemara": "הגמרא מביאה את המשנה באהלות: כמה חסרון בשדרה ובגולגולת. רב חסדא מסתפק כמה הוא ״כדי שינטל מן החי״, ורב תחליפא בר אבדימי משיב בשם שמואל: כסלע. נחלקו רב ספרא ורב שמואל בר יהודה אם זה שמעתא או מתניתא. רב חסדא טוען שכך עושים את דברי בית שמאי ובית הלל אחד, ומביא את המאור שלא נעשה בידי אדם, שיעורו מלא אגרוף גדול, ושנעשה בידי אדם, מלא מקדח גדול של לשכה, כפונדיון האיטלקי וכסלע נירונית.",
+    "halakha": "הגר״א (יו״ד ל, ג): ״וכן פסקו כל הפוסקים דלא כר״ת״, ושהנפחת בכסלע טריפה; והבית יוסף: הרמב״ם, הרשב״א והר״ן סוברים שסלע מצומצם כיתר מסלע וטריפה."
+   },
+   "en": {
+    "title": "The measure of the spine and skull: \"enough to be removed from a living creature so it dies\" is a sela, and the dispute of Beit Shammai and Beit Hillel",
+    "gemara": "The Gemara brings the Mishnah in Oholot: how much is missing in the spine and the skull. Rav Chisda is unsure how much \"enough to remove from a living creature\" is, and Rav Tachlifa bar Avudimi answers in Shmuel's name: a sela. Rav Safra and Rav Shmuel bar Yehuda dispute whether it is a shemata or a mishnah. Rav Chisda argues that this makes Beit Shammai and Beit Hillel the same, and brings the light-hole not made by a person, whose measure is a large fist, and one made by a person, a large drill of the chamber, like an Italian pundion and a Neronian sela.",
+    "halakha": "The Gra (Yoreh De'ah 30:3): \"and so all the poskim ruled, unlike Rabbeinu Tam\", and that one missing a sela is a treifa; and the Beit Yosef: the Rambam, Rashba and Ran hold that an exact sela is like more than a sela and is a treifa."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 37b:11",
+     "quote": "כמה חסרון בשדרה שלא תטמא באהל",
+     "he": "רבינו גרשום מסביר שהמשנה עוסקת בכמה חסרון בשדרה כדי שלא תטמא באהל.",
+     "en": "Rabbeinu Gershom explains that the Mishnah deals with how much missing in the spine so that it does not defile in a tent."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:17:1",
+     "quote": "שלימין מטמאין באהל ושאר עצמות אין מטמאין באהל וכמה יחסרו ולא יטמאו",
+     "he": "רש״י מסביר שהשדרה והגולגולת שלמות מטמאות באהל, ושואל כמה יחסרו ולא יטמאו.",
+     "en": "Rashi explains that a whole spine and skull defile in a tent, and asks how much can be missing so they do not defile."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:20:2",
+     "quote": "דבית הלל כסלע אמר עשית ב\"ש וב\"ה אחד",
+     "he": "רש״י מסביר שאם בית הלל כסלע, נמצא שעשית את בית שמאי ובית הלל אחד.",
+     "en": "Rashi explains that if Beit Hillel is a sela, then you made Beit Shammai and Beit Hillel the same."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 37b:21:1",
+     "quote": "שמונח בלשכה לקדוח את הצריך לבדק הבית",
+     "he": "רש״י מסביר ש״מקדח גדול של לשכה״ הוא זה שמונח בלשכה לקדוח את הצריך לבדק הבית.",
+     "en": "Rashi explains that the \"large drill of the chamber\" is the one kept in the chamber to drill what is needed for Temple maintenance."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 37b:17:1",
+     "quote": "ורבינו תם נמי דמפרש דלא קאי וכן לטרפה אגולגולת",
+     "he": "התוספות מביאים שרבינו תם מפרש ש״וכן לטרפה״ של שמואל אינו קאי על גולגולת.",
+     "en": "Tosafot bring that Rabbeinu Tam explains that Shmuel's \"and so for treifa\" does not refer to the skull."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 54b:9:1",
+     "quote": "כמה כדי שינטל מן החי וימות כסלע",
+     "he": "רש״י בחולין מביא מבכורות ש״כדי שינטל מן החי וימות״ הוא כסלע, ומסיק ש״סלע מצומצם״ דינו כיתר מכסלע וטרפה.",
+     "en": "Rashi in Chullin brings from Bekhorot that \"enough to be removed from a living creature so it dies\" is a sela, and concludes that an exact sela is treated as more than a sela and a treifa."
+    },
+    {
+     "who": {
+      "he": "רב נסים גאון",
+      "en": "Rav Nissim Gaon"
+     },
+     "ref": "Rav Nissim Gaon on Eruvin 7a:1",
+     "quote": "יתיב רב חסדא ומיבעיא ליה כדי שינטל מן החי כמה אמ' רב תחליפא בר אבדימי הכי אמ' שמואל כסלע",
+     "he": "רב נסים גאון מפנה לבכורות לפירוש ״כדי שינטל מן החי וימות״: כסלע, בשם שמואל.",
+     "en": "Rav Nissim Gaon refers to Bekhorot for the explanation of \"enough to be removed from a living creature so it dies\": a sela, in Shmuel's name."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Rambam on Mishnah Oholot 2:3:7",
+     "quote": "שהוא כסלע וכבר בארנו שיעור הסלע והפונדיון",
+     "he": "הרמב״ם בפירוש המשנה באהלות כותב שכבר התבאר בש״ס בבכורות שהוא כסלע.",
+     "en": "The Rambam in his Mishnah commentary on Oholot writes that it was already explained in the Talmud in Bekhorot that it is a sela."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Chullin 42b:2",
+     "quote": "ואין דבריו נכונים דכדי שינטל מן החי וימות בחסרונה של גולגולת בלבד קתני",
+     "he": "הרמב״ן דוחה את דברי רבינו תם, וסובר שהמשנה עוסקת בחסרון הגולגולת בלבד.",
+     "en": "The Ramban rejects Rabbeinu Tam's words, holding that the Mishnah speaks of the skull's absence alone."
+    },
+    {
+     "who": {
+      "he": "הרשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Chullin 54b:3",
+     "quote": "בפרק על אלו מומין כמה כדי שינטל מן החי וימות אמר שמואל כסלע",
+     "he": "הרשב״א מביא את דברי רש״י מבכורות שהשיעור כסלע, ושסלע מצומצם כיתר מסלע.",
+     "en": "The Rashba brings Rashi's words from Bekhorot that the measure is a sela, and that an exact sela is like more than a sela."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Chullin 54a:13",
+     "quote": "ופירשוה בבכורות כסלע ואמרו עליה וכן לטרפה",
+     "he": "המאירי כותב שבבכורות פירשו שהשיעור כסלע, ו״וכן לטרפה״ נאמר גם עליו.",
+     "en": "The Meiri writes that Bekhorot explains the measure as a sela, and \"and so for treifa\" is said of it too."
+    },
+    {
+     "who": {
+      "he": "הר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Chullin 16b:7",
+     "quote": "כמה ינטל מן החי וימות ואמר שמואל כסלע",
+     "he": "הר״ן מביא מבכורות ששמואל אמר שהשיעור כסלע, ומסיק ש״סלע מצומצם״ כיתר מסלע וטרפה.",
+     "en": "The Ran brings from Bekhorot that Shmuel said the measure is a sela, and concludes that an exact sela is like more than a sela and a treifa."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הבית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 30:2:1",
+     "quote": "וכ\"פ הרמב\"ם בפ\"י מהל' שחיטה וכן הסכימו הרשב\"א והר\"ן וכתב הרשב\"א שכן דעת הרמב\"ן",
+     "he": "הבית יוסף מביא שהרמב״ם, הרשב״א והר״ן פסקו כרש״י שסלע מצומצם טרפה, והרשב״א כתב שכן דעת הרמב״ן.",
+     "en": "The Beit Yosef brings that the Rambam, Rashba and Ran ruled like Rashi that an exact sela is a treifa, and the Rashba wrote that this is also the Ramban's view."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Gra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 30:3",
+     "quote": "וכן פסקו כל הפוסקים דלא כר\"ת ודעמיה",
+     "he": "הגר״א כותב שכל הפוסקים פסקו שלא כרבינו תם ודעמיה.",
+     "en": "The Gra writes that all the poskim ruled not like Rabbeinu Tam and those with him."
+    },
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Ritual Slaughter 10:5:1",
+     "quote": "ולפירוש זה הסכימו הרמב\"ן והרשב\"א והר\"ן",
+     "he": "הכסף משנה מציין שלפירוש רש״י, ש״סלע מצומצם״ כיתר מסלע, הסכימו הרמב״ן, הרשב״א והר״ן.",
+     "en": "The Kessef Mishneh notes that the Ramban, Rashba and Ran agreed with Rashi's explanation that an exact sela is like more than a sela."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Mishnah Oholot 2:3:3",
+     "quote": "בסוגיא דבכורות סוף דף ל\"ז ודף ל\"ח קאמר דשיעור בית הלל דאמרו כדי שינטל וכו' היינו כסלע",
+     "he": "הפתח עינים מציין שבסוף דף ל״ז ובדף ל״ח אומרת הגמרא ששיעור בית הלל ״כדי שינטל״ הוא כסלע.",
+     "en": "The Petach Einayim notes that at the end of 37 and in 38 the Gemara says Beit Hillel's measure \"enough to be removed\" is a sela."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Oholot 2:3:7",
+     "quote": "ורוב הפוסקים הסכימו דחסרון גלגולת בכסלע בלא",
+     "he": "התוספות יום טוב כותב שרוב הפוסקים הסכימו שחסרון גולגולת בכסלע, אף בלא נקב הקרום, טורף אדם ובהמה.",
+     "en": "The Tosafot Yom Tov writes that most poskim agreed that a missing sela of skull, even without a hole in the membrane, makes man and animal a treifa."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Sukkah 21a:6",
+     "quote": "וא\"כ יש לתמוה טובא למה שינה רש\"י לשונו הכא בשמעתין",
+     "he": "הפני יהושע מקשה על רש״י בסוכה, שהביא את סוגיית בכורות על המאור ושינה בלשונו מהגמרא בבכורות.",
+     "en": "The Penei Yehoshua asks on Rashi in Sukkah, who brought the Bekhorot sugya about the light-hole and changed its wording from the Gemara in Bekhorot."
+    }
+   ]
+  }
+ ]
+}
