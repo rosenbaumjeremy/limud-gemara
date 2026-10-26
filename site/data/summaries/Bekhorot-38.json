@@ -1,0 +1,1443 @@
+{
+ "ref": "Bekhorot 38",
+ "date": "2026-10-26",
+ "he": {
+  "overview": "הדף פותח בסוף הדיון על שיעור הגולגולת של בית שמאי ובית הלל (מקדח וחיסומו, מקדח גדול, סלע נירונית), ובתוכו בא הדיון בעדותו של חזקיה אבי עקש על כלי שטף שאין לו תוך: מה פירוש ״אין לו אחוריים לחליקה״, מדוע טומאת משקין בכלי שטף נעשתה בהיכירא, ובאילו כלים היא טומאה דאורייתא. בעמוד א מתחילה המשנה במומי העין של בכור (ריס שנקב, דק, תבלול, חלזון, נחש, עצב), ובעמוד ב הגמרא מבררת מה הוא ״דק״ משוקע וצף בשחור ובלבן, אם חלזון הוא נחש, ומדוע שומעים לרבי שמעון בן יוסי לקוניא שהורה על בכורו שלו. אחר כך המחלוקת בין רבי מאיר לרבי יוסי בתבלול, וסוף הדף בחוורוור ובמים הקבועים: שמונים יום, ובדיקה בלח וביבש בימות הגשמים והקיץ. הראשונים והאחרונים דנים בעיקר בהבנת כלי שטף ובמשקין (רש״י מול רבינו גרשום, הראב״ד והרמב״ם), בטומאת מדרס, בפירוש החלזון (רש״י ורמב״ם), ובכלל ״מורה ובא״ לגבי מום בבכור של המורה עצמו.",
+  "title": "סיכום — בכורות ל״ח"
+ },
+ "en": {
+  "overview": "The daf opens at the end of the discussion of the Beit Shammai and Beit Hillel skull measure (a drill and its hisuma, the large drill, the sela neronit). Within it comes the testimony of Chizkiyah Avi Ikesh about a kli sheteif with no inside: what 'no back for division' means, why the tum'ah of liquids in a kli sheteif was made with a visible sign (heker), and which vessels are tamei by Torah law. In amud a the mishna begins the eye blemishes of a firstborn (a pierced, chipped or split ris, dak, tevalul, chilazon, nachash, etz). In amud b the Gemara works out what a sunken or floating dak is in the black and in the white, whether a chilazon is a nachash, and why the ruling of Rabbi Shimon ben Yosei Lakonya about his own firstborn is accepted. Then comes the dispute of Rabbi Meir and Rabbi Yosei about tevalul, and the end of the daf deals with chavarvar and mayim kevuim: eighty days, and the test with moist and dry fodder in the rainy and the dry season. The Rishonim and Acharonim focus on the reading of kli sheteif and of liquids (Rashi against Rabbeinu Gershom, the Ra'avad and the Rambam), on tum'at midras, on the meaning of chilazon (Rashi and the Rambam), and on the rule of 'moreh uva' for a blemish on the teacher's own firstborn.",
+  "title": "Summary — Bekhorot 38"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "מַקְדֵּחַ וְחִיסּוּמוֹ"
+   ],
+   "he": {
+    "term": "מקדח וחיסומו",
+    "explanation": "שיעור הנקב בגולגולת לפי בית שמאי לפי רב חסדא: לא רק רוחב המקדח עצמו אלא גם החלק העבה שלו, שסותם את הנקב. לכן הוא גדול מסלע, ובכך נבדל שיעורם משיעור בית הלל."
+   },
+   "en": {
+    "term": "Mikdach vechisumo (a drill and its plug)",
+    "explanation": "Rav Chisda's reading of the Beit Shammai measure for a skull: not only the width of the drill itself but also its thick part, which plugs the hole. So it is larger than a sela, and this is how their measure differs from that of Beit Hillel."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 38a:2",
+    "quote": "שהוא דק מלמטה ועב מלמעלה שאותו עב סותם את הנקב והיינו וחיסומו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "אֵין לוֹ אֲחוֹרַיִם לַחֲלִיקָה"
+   ],
+   "he": {
+    "term": "אין לו אחוריים לחליקה",
+    "explanation": "כלי שאין לו תוך (בית קיבול) אין חילוק בין צד אחד שלו לצד השני: אם נטמא צד אחד, נטמא גם השני. הגמרא מבררת לאיזה כלים ולאיזו טומאה נאמר הדבר."
+   },
+   "en": {
+    "term": "No achoraim lechalikah (no separate back)",
+    "explanation": "A vessel with no tokh (cavity) has no distinction between one side and the other: if one side became tamei, the other did too. The Gemara works out to which vessels and which tum'ah this applies."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 38a:4",
+    "quote": "כלומר שאין חלוק עליונו מתחתונו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "כְּלִי שֶׁטֶף"
+   ],
+   "he": {
+    "term": "כלי שטף",
+    "explanation": "כלי שטהרתו בשטיפה במים, ולא בטבילה במקווה. רש״י מפרש כלי עץ, ורבינו גרשום מפרש כלי מתכות או עץ."
+   },
+   "en": {
+    "term": "Kli sheteif (a vessel purified by rinsing)",
+    "explanation": "A vessel that is purified by rinsing in water. Rashi explains it as wooden vessels, while Rabbeinu Gershom explains it as vessels of metal or wood."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38a:5:1",
+    "quote": "כלי שטף כלי עץ … וכל כלי עץ ישטף במים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 12,
+   "anchors": [
+    "עֲבַדוּ רַבָּנַן הֶיכֵּירָא"
+   ],
+   "he": {
+    "term": "היכירא",
+    "explanation": "סימן שחכמים קבעו בטומאת משקין בכלי שטף, שאם נטמאו אחוריו לא נטמא תוכו, כדי שיכירו שהטומאה היא מדרבנן ולא ישרפו עליה תרומה וקדשים."
+   },
+   "en": {
+    "term": "Heker (a visible sign)",
+    "explanation": "A sign the Sages built into the tum'ah of liquids in a kli sheteif: if its back became tamei its inside did not, so that people would know the tum'ah is rabbinic and not burn terumah and kodashim because of it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38a:11:3",
+    "quote": "להקל בטומאת משקין כי היכי דלא נשרוף עליה תרומה וקדשים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 15,
+   "anchors": [
+    "לְמִדְרָסוֹת"
+   ],
+   "he": {
+    "term": "מדרס",
+    "explanation": "כלי שמיוחד לישיבה או לשכיבה של אדם טמא (כגון הזב), ומקבל טומאה בכך. בפשוטי כלי עץ שראויים למדרס אין צורך בהיקש לשק, ולכן הם מקבלים טומאה מן התורה גם בלי תוך."
+   },
+   "en": {
+    "term": "Midras (a vessel for sitting or lying)",
+    "explanation": "A vessel made for a tamei person (such as a zav) to sit or lie on, which becomes tamei through that use. Flat wooden vessels that are fit for midras do not need the comparison to a sack, so they are tamei by Torah law even without a tokh."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38a:15:1",
+    "quote": "כגון כסא וספסל דמקבלי טומאה ע\"י מדרס"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "הַסִּירָא"
+   ],
+   "he": {
+    "term": "סירא",
+    "explanation": "הטבעת שמקיפה את השחור בעין, וכשחוט לבן חותך אותה ונכנס בשחור זהו תבלול."
+   },
+   "en": {
+    "term": "Sira (the ring around the black of the eye)",
+    "explanation": "The ring around the black of the eye. When a white thread cuts through it and enters the black, this is tevalul."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38a:21:7",
+    "quote": "סירא היינו שורה שבעין סביב לשחור"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "חֲוַרְוָור"
+   ],
+   "he": {
+    "term": "חוורוור",
+    "explanation": "מחלה שבה יש טיפות לבנות בעין. היא מום רק אם היא קבועה, כלומר שהתה שמונים יום, ויש מחלוקת אם בודקים אותה שלוש פעמים באותה תקופה."
+   },
+   "en": {
+    "term": "Chavarvar (a white-spotted eye ailment)",
+    "explanation": "An ailment with white drops in the eye. It is a blemish only if it is fixed, meaning it lasted eighty days, and there is a dispute whether it is checked three times in that period."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38b:10:1",
+    "quote": "חולי הוא שיש טיפין לבנות בעין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "מַיִם הַקְּבוּעִין"
+   ],
+   "he": {
+    "term": "מים הקבועין",
+    "explanation": "דמעת קבועה בעין, שאינה נרפאת. הבחינה היא האכלת הבהמה בלח וביבש כדרך רפואה, ואם לא נרפאה זהו מום."
+   },
+   "en": {
+    "term": "Mayim kevuim (fixed tearing)",
+    "explanation": "Constant tearing of the eye that does not heal. It is tested by feeding the animal moist and dry fodder as a cure, and if it was not cured it is a blemish."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 38b:11:1",
+    "quote": "שעיניו נוטפות מים"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "מקדח וחיסומו: ״צריך להתלות עליה כחזקיה אבי עקש״",
+    "gemara": "הגמרא ממשיכה את הדיון בשיעור הגולגולת של בית שמאי (״כמלא נקב של עול״). רב תחליפא שותק, ורב חסדא מציע שנשנה ״מקדח וחיסומו״. רב תחליפא מקבל ואומר שאין לומר ״שמא״ אלא ״ודאי״, וצריך לסמוך על כך כמו על עדותו של חזקיה אבי עקש."
+   },
+   "en": {
+    "title": "Mikdach vechisumo: 'you must rely on it like Chizkiyah Avi Ikesh'",
+    "gemara": "The Gemara continues the discussion of the Beit Shammai skull measure ('the full hole of a yoke'). Rav Tachlifa is silent, and Rav Chisda suggests that we learned 'a drill and its hisuma'. Rav Tachlifa says it is not 'perhaps' but certainly so, and one must rely on it like the testimony of Chizkiyah Avi Ikesh."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:2",
+     "quote": "באותו מקדח שנוקבין בו את החביות שהוא דק מלמטה ועב מלמעלה שאותו עב סותם את הנקב",
+     "he": "״מקדח וחיסומו״ הוא מקדח של חביות, דק למטה ועבה למעלה, והחלק העבה סותם את הנקב.",
+     "en": "A 'drill and its hisuma' is the drill used on barrels, thin below and thick above, and the thick part plugs the hole."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:1:3",
+     "quote": "דלאחר שנעשה החור מצדדין את המקדח ונוטל מצידי הנקב ומרחיבין את הנקב",
+     "he": "לאחר שנעשה החור מצדדים את המקדח, נוטל מצידי הנקב ומרחיב אותו, וכך שיעור מקדח וחיסומו גדול מסלע.",
+     "en": "After the hole is made the drill is moved sideways, takes from the sides of the hole and widens it, so a drill and its hisuma is more than a sela."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:2:2",
+     "quote": "יכול אתה לסמוך על דבר זה",
+     "he": "״וצריך אתה להתלות עליה״ פירושו שאתה יכול לסמוך על הדבר הזה.",
+     "en": "'You must rely on it' means that you can rely on this matter."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38a:2:1",
+     "quote": "פירוש צריך אתה לטרוח כדי ליישב הדבר",
+     "he": "לפי תוספות, פירוש ״צריך אתה להתלות״ הוא שצריך אתה לטרוח כדי ליישב את הדבר.",
+     "en": "Tosafot explain 'you must rely on it' as meaning that you must make an effort to settle the matter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:3",
+     "quote": "וצריך אתה להיתלות עליה על תירוץ זה כמו שאנו סומכין על עדותו של חזקיה אבי עקש",
+     "he": "רב תחליפא אומר לרב חסדא שיפה תירץ, וסומכים על תירוץ זה כמו על עדות חזקיה אבי עקש.",
+     "en": "Rav Tachlifa tells Rav Chisda that he answered well, and one relies on this answer as one relies on the testimony of Chizkiyah Avi Ikesh."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Chullin 45a:1",
+     "quote": "ומסיק לב\"ש ודאי מקדח וחיסומו שנינו",
+     "he": "המהרש״א מביא את סוגיית בכורות ומסכם שלבית שמאי ודאי שנינו מקדח וחיסומו.",
+     "en": "The Maharsha cites the sugya in Bekhorot and sums up that for Beit Shammai we certainly learned a drill and its hisuma."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    15
+   ],
+   "he": {
+    "title": "כלי שטף שאין לו תוך, וטומאת משקין בהיכירא",
+    "gemara": "עדות חזקיה אבי עקש: כל שאין לו תוך בכלי חרס אין לו אחוריים לחליקה. הגמרא שואלת שהתורה תלתה בתוך, ורבי יצחק בר אבין מפרש שהכוונה בכנגדו בכלי שטף. אם כך, כלי שטף שיש לו תוך דומה לכלי חרס, ולכן אם נטמא אחוריו לא נטמא תוכו, אך לא נאמר בו תוך בתורה. הגמרא עונה שמדובר בטומאת משקין דרבנן, שחכמים גזרו משום משקה זב וזבה, ועשו בה היכירא כדי שלא ישרפו עליה תרומה וקדשים. כלי שטף שאין לו תוך אינו מקבל טומאה אלא בהנך דחזו למדרסות, ובכלי חרס אין מדרס.",
+    "halakha": "הרמב״ם (שאר אבות הטומאות ז:ג): כלי שיש לו תוך שנגעו משקין טמאים באחוריו, נטמאו אחוריו בלבד ולא נטמא תוכו; זה לתרומה, אבל לקודש נטמא כולו."
+   },
+   "en": {
+    "title": "A kli sheteif with no tokh, and the tum'ah of liquids made with a heker",
+    "gemara": "The testimony of Chizkiyah Avi Ikesh: whatever has no tokh in an earthenware vessel has no back to divide. The Gemara asks that the Torah hung the law on the tokh, and Rabbi Yitzchak bar Avin explains that it means the parallel in a kli sheteif. A kli sheteif that has a tokh is like earthenware, so if its back became tamei its inside did not, though the Torah does not say tokh of a kli sheteif. The Gemara answers that this is rabbinic tum'ah of liquids, which the Sages decreed because of the liquid of a zav and zavah, and they made it with a heker so that terumah and kodashim would not be burned over it. A kli sheteif with no tokh is tamei only for those fit for midras, and there is no midras in earthenware.",
+    "halakha": "Rambam (Other Sources of Defilement 7:3): if tamei liquids touched the back of a vessel that has a tokh, only its back became tamei and not its inside; this is for terumah, but for kodesh all of it becomes tamei."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:4",
+     "quote": "כלומר שאין חלוק עליונו מתחתונו",
+     "he": "״אין לו אחוריים לחליקה״ משמעו שאין הבדל בין צדו העליון לתחתון.",
+     "en": "'No back for division' means that its upper side is no different from its lower."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:3:1",
+     "quote": "שאין אחוריו חלוקים מתוכו",
+     "he": "אין אחוריו חלוקים מתוכו; אם נטמא גבו נטמא גם תוכו.",
+     "en": "Its back is not distinct from its inside; if its back became tamei its inside did too."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:5:1",
+     "quote": "כלי שטף כלי עץ … וכל כלי עץ ישטף במים",
+     "he": "רש״י מפרש שכלי שטף הוא כלי עץ, על פי הפסוק ״וכל כלי עץ ישטף במים״.",
+     "en": "Rashi explains that kli sheteif means a wooden vessel, from the verse 'every wooden vessel shall be rinsed in water'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:8",
+     "quote": "כלי שטף היינו כלי מתכות או של עץ שיש לו טהרה",
+     "he": "רבינו גרשום מפרש כלי שטף כלי מתכות או עץ שיש להם טהרה.",
+     "en": "Rabbeinu Gershom explains kli sheteif as metal or wooden vessels that have a way of becoming pure."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38a:5:1",
+     "quote": "ומצינו למימר נמי דכלי מתכות כמו כן מיקרו כלי שטף",
+     "he": "לאחר דברי רש״י, תוספות מוסיפים שאפשר לומר שגם כלי מתכות נקראים כלי שטף.",
+     "en": "After Rashi's words, Tosafot add that one can say that metal vessels are also called kli sheteif."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38a:7:1",
+     "quote": "על כרחו לטמא אחרים קאמר דלא נפקא מינה מידי למילתא אחריתי",
+     "he": "״נטמא תוכו נטמא גבו״ נאמר על כרחו לענין טומאת אחרים, כי אין בו נפקא מינה אחרת.",
+     "en": "'Its inside became tamei, its back became tamei' must be about making others tamei, since it has no other practical difference."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:10",
+     "quote": "אלא כלי שטף דלא גלי ביה תוכו לית ליה חלוקה",
+     "he": "בכלי חרס גילתה התורה תוך, אבל כלי שטף שלא נאמר בו תוך אין לו חילוק.",
+     "en": "In earthenware the Torah revealed a tokh, but a kli sheteif, in which no tokh is stated, has no division."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:10:2",
+     "quote": "כגון רוקו וזובו דהוי אב הטומאה ומטמא כלי מדאורייתא",
+     "he": "משקה זב וזבה, כגון רוקו וזובו, הוא אב הטומאה ומטמא כלי מן התורה, ולכן גזרו על משקין.",
+     "en": "The liquid of a zav and zavah, such as spit and discharge, is an av hatum'ah and makes vessels tamei by Torah law, which is why they decreed on liquids."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:11:3",
+     "quote": "להקל בטומאת משקין כי היכי דלא נשרוף עליה תרומה וקדשים",
+     "he": "עשו רבנן היכירא כדי להקל בטומאת משקין ולא לשרוף עליה תרומה וקדשים.",
+     "en": "The Rabbanan made a heker to be lenient with the tum'ah of liquids, so that terumah and kodashim would not be burned over it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:13",
+     "quote": "משום היכירא כי היכי דלא לשרוף עליה תרומה וקדשים",
+     "he": "חכמים השוו כלי שטף לכלי חרס בטומאה דרבנן משום היכירא, כדי שלא ישרפו עליה תרומה וקדשים.",
+     "en": "The Sages equated a kli sheteif to earthenware in rabbinic tum'ah for the sake of a heker, so that terumah and kodashim would not be burned over it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Berakhot 52b:1:1",
+     "quote": "עבדו בה היכרא דלידעו דמדרבנן היא",
+     "he": "רש״י בברכות מביא את הדין הזה ומפרש שעשו בה היכר כדי שידעו שהיא מדרבנן, והוא מציין לבכורות.",
+     "en": "Rashi in Berakhot brings this law and explains that they made a heker in it so that people would know it is rabbinic, and he refers to Bekhorot."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 24b:11:1",
+     "quote": "אבל אם נטמא מתוכו נטמא נמי גבו ומטמא אחרים",
+     "he": "תוספות בחולין מביאים מבכורות שכלי חרס שנטמא תוכו נטמא גם גבו ומטמא אחרים.",
+     "en": "Tosafot in Chullin bring from Bekhorot that an earthenware vessel whose inside became tamei has its back tamei too, and makes others tamei."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Kelim 25:6:3",
+     "quote": "ודוקא לתרומה אבל לקדשים הכל טמא",
+     "he": "הר״ש משאנץ מביא את הדין מבכורות וכותב שהוא דוקא לתרומה, אבל לקדשים הכל טמא.",
+     "en": "Rash MiShantz brings the law from Bekhorot and writes that it applies only to terumah, while for kodashim all of it is tamei."
+    },
+    {
+     "who": {
+      "he": "הראב״ד",
+      "en": "Ra'avad"
+     },
+     "ref": "Hasagot HaRa'avad on Mishneh Torah, Other Sources of Defilement 7:3:1",
+     "quote": "אין השכל נותן שיעשו משקין מה שאין המת והשרץ עושין",
+     "he": "הראב״ד משיג על הרמב״ם וכותב שאין השכל נותן שהמשקין יעשו מה שאין המת והשרץ עושים.",
+     "en": "The Ra'avad objects to the Rambam, writing that logic does not allow liquids to do what the dead and the sheretz do not."
+    },
+    {
+     "who": {
+      "he": "תוספות הרא״ש",
+      "en": "Tosafot HaRosh"
+     },
+     "ref": "Tosafot HaRosh on Niddah 60b:3",
+     "quote": "אלא אף גבו לא נטמא",
+     "he": "תוספות הרא״ש בנדה מביא ראיה שאין לפרש בכורות כך שגבו נטמא, שאם כן מה פורך ״פשיטא״; אלא אף גבו לא נטמא.",
+     "en": "Tosafot HaRosh in Niddah brings a proof that Bekhorot should not be explained so that the back becomes tamei, since otherwise why does the Gemara object 'it is obvious'; rather even its back did not become tamei."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash MiShantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Kelim 2:3:15",
+     "quote": "כל שאין לו תוך בכלי חרס כנגדו בכלי שטף אין לו אחוריים לחלוקה",
+     "he": "הר״ש משאנץ מביא שבבכורות מפרשים שכל שאין לו תוך בכלי חרס, כנגדו בכלי שטף אין לו אחוריים לחלוקה.",
+     "en": "Rash MiShantz brings that Bekhorot explains that whatever has no tokh in earthenware, its parallel in a kli sheteif has no back for division."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:16",
+     "quote": "בהנך כלי שטף דחזו למדרסות לישיבה מקבל טומאה דאורייתא",
+     "he": "כלי שטף שראויים למדרס לישיבה מקבלים טומאה דאורייתא גם בלי תוך.",
+     "en": "Kelei sheteif that are fit for midras, for sitting, receive tum'ah by Torah law even without a tokh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:15:1",
+     "quote": "כגון כסא וספסל דמקבלי טומאה ע\"י מדרס",
+     "he": "״הנך דחזו למדרסות״ הם כסא וספסל, המקבלים טומאה על ידי מדרס.",
+     "en": "'Those fit for midras' are things like a chair and bench, which receive tum'ah through midras."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:15:3",
+     "quote": "אין מדרס בכלי חרס - שישבר אם אדם יושב עליו",
+     "he": "אין מדרס בכלי חרס משום שהוא נשבר אם אדם יושב עליו.",
+     "en": "There is no midras in earthenware because it would break if a person sat on it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Batra 66a:7:1",
+     "quote": "ומשני בהנך דחזו למדרס",
+     "he": "תוספות בבבא בתרא מציינים שהגמרא בבכורות פורכת וכלי שטף שאין לו תוך מדאורייתא בר קבולי טומאה הוא, ומשנה בהנך דחזו למדרס.",
+     "en": "Tosafot in Bava Batra note that the Gemara in Bekhorot asks whether a kli sheteif with no tokh is receptive by Torah law, and answers that it speaks of those fit for midras."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Bava Batra 66a:1",
+     "quote": "שאני התם שהן ראוין למדרס והכי אמרינן בהדיא בבכורות",
+     "he": "הרמב״ן בבבא בתרא מיישב שפשוטי כלי עץ טמאים מן התורה כשהם ראויים למדרס, וכך נאמר מפורש בבכורות.",
+     "en": "The Ramban in Bava Batra resolves that flat wooden vessels are tamei by Torah law when they are fit for midras, and this is said explicitly in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 31a:1:1",
+     "quote": "דאמרינן בהנך דחזו למדרסות דלא איתקוש לשק",
+     "he": "תוספות במנחות מביאים מבכורות ש״בהנך דחזו למדרסות״ לא נאמר היקש לשק.",
+     "en": "Tosafot in Menachot bring from Bekhorot that for 'those fit for midras' the comparison to a sack does not apply."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels 3:1",
+     "quote": "מָה שַׂק שֶׁהוּא מִתְטַלְטֵל מָלֵא וְרֵיקָן אַף כְּלִי עֵץ לֹא יִטְמָא אֶלָּא אִם כֵּן הָיָה מִטַּלְטֵל מָלֵא וְרֵיקָן",
+     "he": "הרמב״ם: מה שק מתטלטל מלא וריקן, אף כלי עץ לא יטמא אלא אם כן היה מטלטל מלא וריקן.",
+     "en": "Rambam: just as a sack is carried full and empty, so a wooden vessel is not tamei unless it is carried full and empty."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels 28:3",
+     "quote": "אֵין לָהֶם אֲחוֹרַיִם וְתוֹךְ אֶלָּא בֵּין שֶׁנָּגְעוּ מַשְׁקִין בָּהֶן",
+     "he": "הרמב״ם: פשוטי כלי שטף הראויים למדרס אין להם אחוריים ותוך, ונטמא כולם בנגיעת משקין בכל צד.",
+     "en": "Rambam: flat kelei sheteif fit for midras have no back and inside, and all of them become tamei when liquids touch them on either side."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels 1:8",
+     "quote": "כָּל שֶׁיֵּשׁ לוֹ תּוֹךְ בִּכְלִי חֶרֶס מְקַבֵּל טֻמְאָה וְשֶׁאֵין לוֹ תּוֹךְ טָהוֹר",
+     "he": "הרמב״ם: כלי חרס שיש לו תוך מקבל טומאה, ושאין לו תוך טהור.",
+     "en": "Rambam: an earthenware vessel with a tokh receives tum'ah, and one with no tokh is pure."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Other Sources of Defilement 7:3",
+     "quote": "נִטְמְאוּ אֲחוֹרָיו בִּלְבַד וַהֲרֵי אֲחוֹרָיו שֵׁנִי וְלֹא נִטְמָא תּוֹכוֹ",
+     "he": "הרמב״ם פוסק שכלי שיש לו תוך שנגעו משקין טמאים באחוריו, נטמאו אחוריו בלבד ולא נטמא תוכו.",
+     "en": "Rambam rules that if tamei liquids touched the back of a vessel that has a tokh, only its back became tamei, and not its inside."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Other Sources of Defilement 7:3:3",
+     "quote": "מה כלי שטף נטמא גבו לא נטמא תוכו אבל גבו מיהא טמא אף כלי חרס כן",
+     "he": "הכסף משנה מסביר שהרמב״ם למד מבכורות שמה כלי שטף נטמא גבו לא נטמא תוכו אבל גבו מיהא טמא, אף כלי חרס כן, והראב״ד משיג.",
+     "en": "The Kessef Mishneh explains that the Rambam learned from Bekhorot that just as a kli sheteif's back is tamei but not its inside, so too with earthenware, and the Ra'avad objects."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vessels 28:2:2",
+     "quote": "דמדאורייתא אין משקה מטמא כלי ורבנן הוא דגזור ביה ועבדו ביה היכרא כי היכי דלא נשרוף עליה תרומה",
+     "he": "הכסף משנה מפרש את דברי הראב״ד שמדאורייתא אין משקה מטמא כלי, ורבנן גזרו ועשו היכר כדי שלא ישרפו תרומה.",
+     "en": "The Kessef Mishneh explains the Ra'avad's reference: by Torah law a liquid does not make a vessel tamei, and the Rabbanan decreed it and made a heker so that terumah would not be burned."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Niddah 26a:9",
+     "quote": "והמה חמורים מכ\"ח דהם אם נטמאו גבן גבן מיהא טמא",
+     "he": "הרש״ש כותב שכלי שטף שנטמאו במשקין חמורים מכלי חרס, כי בהם גבן מיהא טמא.",
+     "en": "The Rashash writes that kelei sheteif made tamei by liquids are stricter than earthenware, since at least their back is tamei."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Vessels 1:13:1",
+     "quote": "סברא זו דרבינו שמואל היא סברא יחידית",
+     "he": "המשנה למלך כותב שסברת רבינו שמואל, שכלי חרס אינם מיטמאים מגביהם, היא סברה יחידית.",
+     "en": "The Mishneh LaMelech writes that the view of Rabbeinu Shmuel, that earthenware vessels are not defiled from their backs, is a lone opinion."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Shmini 127:1",
+     "quote": "אם אין לו תוך אין בו חילוק בין תוכו לאחוריו",
+     "he": "המלבי״ם מסביר שבכלי שטף הראוי למדרס אם אין לו תוך אין חילוק בין תוכו לאחוריו, כמו שמובא בבכורות.",
+     "en": "The Malbim explains that in a kli sheteif fit for midras, if it has no tokh there is no distinction between its inside and its back, as brought in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 38a:4",
+     "quote": "מי לא עסקינן דיש לו יד ואפ\"ה טהור מכלל דלא מכניס",
+     "he": "הרש״ש מבאר את ראיית תוספות מכך שמדובר בכלי שיש לו יד ואף על פי כן טהור, ומכאן שהיד אינה מכניסה.",
+     "en": "The Rashash explains the proof of Tosafot: we speak of a vessel that has a handle and yet it is pure, so the handle does not bring tum'ah in."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Shabbat 84a:5",
+     "quote": "ודברי רש\"י שם בעירובין תמוהים דכ' טעם לשאין מדרס לכלי חרס משום דלא חזי להכי שמשתבר",
+     "he": "החתם סופר מעיר שדברי רש״י בעירובין תמוהים, שכתב טעם לכך שאין מדרס לכלי חרס משום שהוא נשבר.",
+     "en": "The Chatam Sofer notes that Rashi's words in Eruvin are puzzling, since he gave as the reason for there being no midras in earthenware that it breaks."
+    },
+    {
+     "who": {
+      "he": "גליון הש״ס",
+      "en": "Gilyon HaShas"
+     },
+     "ref": "Gilyon HaShas on Bekhorot 38a:1",
+     "quote": "וכ\"כ רש\"י עירובין קד ע\"ב וע' שבת פד ע\"א וצ\"ע",
+     "he": "הגליון הש״ס מציין לרש״י דפה שכתב כך גם בעירובין, ומוסיף ״וצריך עיון״.",
+     "en": "The Gilyon HaShas notes that Rashi wrote the same in Eruvin and adds 'this requires further study'."
+    },
+    {
+     "who": {
+      "he": "בועז",
+      "en": "Boaz"
+     },
+     "ref": "Boaz on Mishnah Kelim 2:3",
+     "quote": "ותמוהין דברי רש\"י",
+     "he": "הבועז מביא את הגאון רבי עקיבא איגר שאף הוא כתב שדברי רש״י בטעם שאין מדרס לכלי חרס תמוהים.",
+     "en": "The Boaz brings the Gaon Rabbi Akiva Eiger who also wrote that Rashi's words on why there is no midras in earthenware are puzzling."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    16,
+    20
+   ],
+   "he": {
+    "title": "מקדח גדול וסלע נירונית: שיעור בית שמאי ובית הלל",
+    "gemara": "רב פפא אומר שבמשנה שנינו מקדח גדול. מכאן שמקדח סתם קטן מסלע, והגמרא מקשה על רבנן, ועל רבי מאיר שאז זה מקולי בית שמאי ומחומרי בית הלל, ״ואנן דתנן תנן, דלא תנן לא תנן״. רב נחמן מתרץ שבמשנה שנינו סלע נירונית, שהיא כמו מקדח גדול, וסלע סתם קטנה ממקדח סתם."
+   },
+   "en": {
+    "title": "The large drill and the sela neronit: the measures of Beit Shammai and Beit Hillel",
+    "gemara": "Rav Pappa says that the mishna taught a large drill. Hence an ordinary drill is smaller than a sela, and the Gemara asks about the Rabbanan, and about Rabbi Meir that this would be among the lenient rulings of Beit Shammai and the strict ones of Beit Hillel, 'what we learned we learned, what we did not learn we did not'. Rav Nachman answers that the mishna taught the sela neronit, which equals a large drill, while an ordinary sela is smaller than an ordinary drill."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:18",
+     "quote": "מקדח גדול שנינו כאן דהוי בסלע",
+     "he": "לא צריך לתרץ מקדח וחיסומו, אלא מקדח גדול שנינו כאן והוא בסלע.",
+     "en": "There is no need to answer with a drill and its hisuma; rather we learned here a large drill, which equals a sela."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:16:2",
+     "quote": "אבל מקדח סתם בציר מסלע וב\"ש במקדח סתם קאמרי",
+     "he": "אבל מקדח סתם פחות מסלע, ובית שמאי דיברו במקדח סתם.",
+     "en": "But an ordinary drill is less than a sela, and Beit Shammai spoke of an ordinary drill."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:21",
+     "quote": "אותן ששה דברים שהן מקולי ב\"ש מנו ולא יותר",
+     "he": "״ואנן דתנן תנן״ פירושו שאותם ששה דברים שהם מקולי בית שמאי נמנו ולא יותר.",
+     "en": "'What we learned we learned' means that the six things that are among the lenient rulings of Beit Shammai were counted and no more."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:19:2",
+     "quote": "ששה דברים מקולי ב\"ש",
+     "he": "רש״י מציין לעדיות שבו נמנים ששה דברים מקולי בית שמאי.",
+     "en": "Rashi points to Eduyot where six things are counted among the lenient rulings of Beit Shammai."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:22",
+     "quote": "סלע סתם דב\"ה הוי זוטר אפי' ממקדח סתם דב\"ש",
+     "he": "רב נחמן מתרץ שהסלע הרגיל של בית הלל קטן אפילו ממקדח רגיל של בית שמאי, ולכן בית הלל לקולא.",
+     "en": "Rav Nachman answers that Beit Hillel's ordinary sela is smaller even than Beit Shammai's ordinary drill, so Beit Hillel are lenient."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:20:1",
+     "quote": "הלכך אפי' לר\"מ שיעורא דב\"ש נפיש",
+     "he": "לפי תירוץ רב נחמן, אפילו לרבי מאיר שיעורם של בית שמאי גדול.",
+     "en": "According to Rav Nachman's answer, even for Rabbi Meir the measure of Beit Shammai is the larger."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Shevuot 48a:9",
+     "quote": "בבכורות דתנן תנן דלא תנן לא תנן אלמא אין ללוקח דין ערב בכל",
+     "he": "הריטב״א בשבועות מביא את הכלל מבכורות ״דתנן תנן, דלא תנן לא תנן״ ללמוד שאין ללוקח דין ערב.",
+     "en": "The Ritva in Shevuot brings the principle from Bekhorot, 'what we learned we learned, what we did not we did not', to conclude that a buyer does not have the status of a guarantor."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Chullin 45a:3",
+     "quote": "לא מצאתי זאת בבכורות אלא באיזה מקדח אמרו במקדח של רופאין",
+     "he": "חכמת שלמה: את דברי רש״י בחולין לא מצא בבכורות, אלא ״באיזה מקדח אמרו״ במקדח של רופאים.",
+     "en": "Chokhmat Shlomo: he did not find Rashi's words in Chullin in Bekhorot, but rather 'which drill did they say' with the drill of the physicians."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Oholot 2:3:9",
+     "quote": "וסלע דב\"ה זוטר ממנו והוו ב\"ש לחומרא",
+     "he": "התוספות יום טוב: סלע של בית הלל קטנה ממקדח הרופאים ובית שמאי לחומרא, שהרי לא נמנה בעדיות.",
+     "en": "Tosafot Yom Tov: the sela of Beit Hillel is smaller than the physicians' drill and Beit Shammai are strict, since it is not counted in Eduyot."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Mishnah Oholot 2:3:3",
+     "quote": "ודבריו חיים וקיימים",
+     "he": "בעל פתח עינים מביא את המהרש״א בחולין ומסכם שדבריו חיים וקיימים.",
+     "en": "The Petach Einayim brings the Maharsha in Chullin and concludes that his words stand firm."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 38a:5",
+     "quote": "גירסא זו תמוה וגירסת הגמרא נכונה",
+     "he": "הרש״ש כותב שגירסת רש״י בעדיות תמוהה וגירסת הגמרא נכונה.",
+     "en": "The Rashash writes that this version of Rashi is puzzling and the Gemara's version is correct."
+    },
+    {
+     "who": {
+      "he": "בועז",
+      "en": "Boaz"
+     },
+     "ref": "Boaz on Mishnah Kelim 17:10",
+     "quote": "קמ\"ל דהכא סלע ומקדח חד שיעורא הוא",
+     "he": "הבועז: התנא מסמן סימנים רבים, כדי לומר שכאן סלע ומקדח הם שיעור אחד.",
+     "en": "The Boaz: the Tanna gives many signs to teach that here a sela and a drill are one measure."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    21,
+    3
+   ],
+   "he": {
+    "title": "ריס של עין ו״דק״: משוקע וצף בשחור ובלבן",
+    "gemara": "המשנה מונה את מומי העין של בכור: ריס שנקב, נפגם או נסדק, ודק, תבלול, חלזון, נחש ועצב. בגמרא רב פפא מפרש ריס כ״תורא ברא דעינא״. בברייתא אחת דק משוקע הוא מום ובאחרת להפך, והגמרא מיישבת שזה דוק לבן מול דוק שחור, על פי רבה בר בר חנה בשם יאשיה דמן אושא: דק שחור משוקע מום וצף לא, ודק לבן משוקע לא וצף כן, וסימנך ״ברקא״.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ד–ה): ריס שנקב, נסדק או נפגם בכל שהוא הוא מום; ודק הוא נקודה לבנה הצפה על גבי השחור."
+   },
+   "en": {
+    "title": "Ris of the eye and 'dak': sunken and floating, in the black and the white",
+    "gemara": "The mishna lists the eye blemishes of a firstborn: a ris that is pierced, chipped or split, and dak, tevalul, chilazon, nachash and etz. In the Gemara Rav Pappa explains ris as 'the outer layer of the eye'. One baraita says a sunken dak is a blemish and another says the opposite, and the Gemara reconciles them as a white dak against a black dak, per Rabbah bar bar Chana in the name of Yoshiyah of Usha: a sunken black dak is a blemish but a floating one is not, and a sunken white dak is not but a floating one is, and your mnemonic is 'barka'.",
+    "halakha": "Rambam (Admission into the Sanctuary 7:4–5): a ris that was pierced, split or chipped by any amount is a blemish; and dak is a white spot floating on the black."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:23",
+     "quote": "ריס של עין. זהו עפעפיו",
+     "he": "רבינו גרשום מפרש שריס של עין הוא עפעפיו.",
+     "en": "Rabbeinu Gershom explains that the ris of the eye is its eyelids."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:1:1",
+     "quote": "שורה חיצונה של עין היינו בת עין המכסה את העין",
+     "he": "רש״י מפרש ״תורא ברא דעינא״ כשורה החיצונה של העין, בת העין המכסה אותה.",
+     "en": "Rashi explains 'tora bara de'eina' as the outer row of the eye, the 'bat ayin' that covers the eye."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 22:22:3",
+     "quote": "רִיס שֶׁל עַיִן שֶׁנִּסְדַּק אוֹ שֶׁנִּפְגַּם",
+     "he": "רש״י בפרשת אמור מביא מבכורות את ״חרוץ״ כריס של עין שנסדק או נפגם.",
+     "en": "Rashi on Parashat Emor brings from Bekhorot that 'charutz' is a ris of the eye that was split or chipped."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:3:1",
+     "quote": "דהוי לבן וצף והוי מום",
+     "he": "״וסימניך ברקא״: סימן זה יהיה לך, שבדוק לבן שצף הוא מום.",
+     "en": "'Your mnemonic is barka': let this be your sign, that a white dak that floats is a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:3",
+     "quote": "באותו דק לבן שקורין ברקא הוי מום",
+     "he": "רבינו גרשום: באותו דק לבן שקורים לו ברקא הוא מום.",
+     "en": "Rabbeinu Gershom: in that white dak called barka it is a blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38b:3:1",
+     "quote": "ותימה דבפ' מי שאחזו … וי\"ל דהתם מיירי בממשמשין ובאין קודם שנקבעו",
+     "he": "תוספות מקשים שבגיטין יש רפואות לברקא, ומתרצים שהתם מדובר בממשמשין ובאין קודם שנקבעו.",
+     "en": "Tosafot ask that in Gittin there are cures for barka, and answer that there it speaks of those that come and go before they became fixed."
+    },
+    {
+     "who": {
+      "he": "מזרחי",
+      "en": "Mizrachi"
+     },
+     "ref": "Mizrachi, Leviticus 21:20:1",
+     "quote": "ואם היה משוקע בעין שלא היה גבוה מן העין אלא שוקע אז הוי מום קבוע",
+     "he": "המזרחי בפרשת אמור כותב שאם הדק משוקע בעין ולא גבוה ממנה, זהו מום קבוע.",
+     "en": "The Mizrachi on Parashat Emor writes that if the dak is sunk in the eye and not raised above it, it is a fixed blemish."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 86:1",
+     "quote": "מום שאינו עובר מאליו הוי מום קבוע ורפואה מועלת אף למום קבוע",
+     "he": "פסקי תוספות: מום שאינו עובר מאליו הוא מום קבוע, ורפואה מועלת אף למום קבוע.",
+     "en": "Piskei Tosafot: a blemish that does not pass by itself is a fixed blemish, and a cure can help even a fixed blemish."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:4",
+     "quote": "מִי שֶׁנִּקַּב רִיס מֵרִיסֵי עֵינָיו בְּכָל שֶׁהוּא",
+     "he": "הרמב״ם: מי שנקב ריס מריסי עיניו בכל שהוא, זהו מום.",
+     "en": "Rambam: one whose ris of the eyes was pierced by any amount has a blemish."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:5",
+     "quote": "הָיְתָה נְקֻדָּה שְׁחוֹרָה שׁוֹקַעַת בְּתוֹךְ הַשָּׁחֹר אַף זֶה נִקְרָא דַּק",
+     "he": "הרמב״ם: נקודה שחורה השוקעת בתוך השחור גם היא נקראת דק.",
+     "en": "Rambam: a black spot sinking into the black is also called dak."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:1:3",
+     "quote": "שאין אנו בקיאין במומין הללו ולא עבדינן בהו עובדא",
+     "he": "הרא״ש כותב שאין אנו בקיאין במומין אלו ולא עושים בהם מעשה, אלא במומין הניכרים.",
+     "en": "The Rosh writes that we are not expert in these blemishes and do not act on them, only on obvious blemishes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 22:22:3",
+     "quote": "וכולן שיעורן בכל שהוא",
+     "he": "התורה תמימה כותב שכל אלה פירושי מלת ״חרוץ״, וכולם שיעורם בכל שהוא.",
+     "en": "The Torah Temimah writes that all these are interpretations of the word 'charutz', and all have the measure of any amount."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 38b:3",
+     "quote": "וכשנפגם כצ\"ל",
+     "he": "ההגהות יעב״ץ מגיה בתוספות על ברקא: ״וכשנפגם כצ״ל״.",
+     "en": "Haggahot Ya'avetz emends Tosafot on barka: 'and when it is chipped, so it should read'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    7
+   ],
+   "he": {
+    "title": "חלזון הוא נחש, והוראת רבי שמעון בן יוסי לקוניא על בכורו",
+    "gemara": "נשאלת שאלה אם חלזון הוא נחש, או חלזון או נחש. הגמרא מביאה את דברי רבה בר בר חנה בשם רבי יוחנן בן אלעזר: רבי שמעון בן יוסי לקוניא אמר שחלזון הוא מום קבוע, והוא נחש שאמרו חכמים. מקשים שאין אדם רואה מומין לעצמו, והגמרא עונה שמורה הלכה לתלמידים והם מורים לו. מקשים שוב מרב הונא שתלמיד חכם שמורה ובא קודם מעשה שומעים לו, ועונה שהוא נמי מורה ובא מעיקרא.",
+    "halakha": "הרמ״א (שו״ע יו״ד רמב:לו): תלמיד חכם שאמר דבר הלכה בדבר השייך לו, אם אמרה קודם מעשה שומעין לו ואם לאו אין שומעין לו."
+   },
+   "en": {
+    "title": "Is a chilazon a nachash, and the ruling of Rabbi Shimon ben Yosei Lakonya about his own firstborn",
+    "gemara": "The question is asked whether a chilazon is a nachash, or a chilazon or a nachash. The Gemara brings Rabbah bar bar Chana in the name of Rabbi Yochanan ben Elazar: Rabbi Shimon ben Yosei Lakonya said that a chilazon is a fixed blemish, and it is the nachash the Sages mentioned. It is asked that a person does not see blemishes for himself, and the Gemara answers that he teaches the halakha to his students and they rule for him. It is asked again from Rav Huna that a Torah scholar who rules after the event is not heeded but before it is, and it answers that he was a 'moreh uva' from the start.",
+    "halakha": "Rema (Shulchan Arukh YD 242:36): a Torah scholar who states a halakha about a matter that concerns him, if he said it before the event he is heeded, and if not he is not."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:5",
+     "quote": "חלזון קורין בלעז לימץ",
+     "he": "רבינו גרשום: חלזון נקרא בלעז לימץ.",
+     "en": "Rabbeinu Gershom: a chilazon is called limaz in the vernacular."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:6",
+     "quote": "שיש בעינו כענבה שמנומר עינו כנחש",
+     "he": "״עינב״ הוא שיש בעינו כעין ענבה, ועינו מנומרת כנחש.",
+     "en": "'Einav' is when the eye has something like a grape, and the eye is mottled like a snake."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:5:3",
+     "quote": "בכור היה לו לאותו זקן והיה לו חלזון בעינים",
+     "he": "״חלזון זה״ אמר על בכור שהיה לאותו זקן והיה לו חלזון בעיניו.",
+     "en": "'This chilazon' was said about a firstborn that the old man had, which had a chilazon in its eyes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:5:2",
+     "quote": "שגדול הדור היה",
+     "he": "רבי שמעון בן יוסי לקוניא היה גדול הדור, ולכן רבה בר בר חנה לא עבר לפניו.",
+     "en": "Rabbi Shimon ben Yosei Lakonya was the greatest of his generation, which is why Rabbah bar bar Chana never passed in front of him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 21:20:3",
+     "quote": "לְשׁוֹן חִלָּזוֹן שֶׁהוּא דוֹמֶה לְתוֹלַעַת אוֹתוֹ הַחוּט",
+     "he": "רש״י בפרשת אמור מפרש שהחוט הלבן הנכנס בשחור דומה לתולעת, וכך כינו אותו חכמים חלזון.",
+     "en": "Rashi on Parashat Emor explains that the white thread entering the black resembles a worm, and so the Sages called it chilazon."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:8",
+     "quote": "אין אדם רואה מום לעצמו. שהבכור שלו היה",
+     "he": "״אין אדם רואה מום לעצמו״ כי הבכור היה שלו, אבל מורה לתלמידים, ולכן קראו להורות לו.",
+     "en": "'A person does not see a blemish for himself' because the firstborn was his, but he teaches his students, and so they called him to rule for him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:9",
+     "quote": "האי נמי מורה ובא מעיקרא הוה פעם אחרת קודם שאירע לו מעשה הורה שמום קבוע הוא",
+     "he": "הוא נמי מורה ובא מעיקרא: פעם אחרת, קודם שאירע לו המעשה, הורה שחלזון הוא מום קבוע.",
+     "en": "He too was a 'moreh uva' from the beginning: at another time, before the event happened to him, he ruled that a chilazon is a fixed blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:7:4",
+     "quote": "דבשביל המעשה אומרה",
+     "he": "״אין שומעין לו״ מפני שהוא אומר את ההלכה בשביל המעשה.",
+     "en": "'He is not heeded' because he states the halakha for the sake of the case."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38b:7:1",
+     "quote": "אומר ר\"ת דלא אמרי' הכי אלא היכא דצריך לאותה הוראה כי הכא",
+     "he": "רבינו תם אומר שהכלל ״אם קודם מעשה אמרה שומעין לו״ נאמר רק כשצריכים לאותה הוראה, כמו כאן.",
+     "en": "Rabbeinu Tam says that the rule 'if he said it before the event he is heeded' is said only where that ruling is needed, as here."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 87:1",
+     "quote": "ת\"ח שאומר דבר הוראה לאחר גמר מעשה אין שומעין לו",
+     "he": "פסקי תוספות: תלמיד חכם שאומר דבר הוראה לאחר גמר מעשה אין שומעין לו.",
+     "en": "Piskei Tosafot: a Torah scholar who states a ruling after the matter is done is not heeded."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:5",
+     "quote": "מִי שֶׁיָּצָא בָּשָׂר יָתֵר בְּעֵינוֹ עַד שֶׁחִפָּה מְעַט מִן הַשָּׁחֹר שֶׁל עַיִן",
+     "he": "הרמב״ם מונה בין מומי העין מי שיצא בשר יתר בעינו עד שחיפה מעט מן השחור.",
+     "en": "Rambam lists among the eye blemishes one in whom an excess of flesh grew in the eye until it covered a little of the black."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Negative Commandments 308:4",
+     "quote": "וי\"מ שחלזון נחש האמור בבכורות הוא אותו בשר יתר הנכנס על השחור",
+     "he": "הסמ״ג מביא את הפירוש של רש״י, ויש אומרים שחלזון נחש הוא אותו בשר יתר הנכנס על השחור.",
+     "en": "The Semag brings Rashi's explanation, and some say that the chilazon nachash is that excess flesh entering over the black."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:5:1",
+     "quote": "דחלזון היינו נחש וכתב רבינו בפירוש המשנה דהיינו שיצמח בעין בשר מותר",
+     "he": "הכסף משנה מזכיר שהגמרא מפרשת שחלזון הוא נחש, והרמב״ם בפירוש המשנה מפרש שיצמח בעין בשר מותר.",
+     "en": "The Kessef Mishneh mentions that the Gemara explains that chilazon is nachash, and the Rambam in his commentary on the Mishna explains that excess flesh grows in the eye."
+    },
+    {
+     "who": {
+      "he": "פתיל תכלת",
+      "en": "Ptil Tekhelet"
+     },
+     "ref": "Ptil Tekhelet 1:35",
+     "quote": "חלזון כמשמעו נחש כמשמעו",
+     "he": "בעל פתיל תכלת מביא את הברייתא בתוספתא ״חלזון כמשמעו נחש כמשמעו״ ומשווה אותה למסקנת הגמרא שחלזון הוא נחש.",
+     "en": "Ptil Tekhelet brings the Tosefta baraita 'chilazon as it sounds, nachash as it sounds' and compares it to the Gemara's conclusion that a chilazon is a nachash."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 312:8",
+     "quote": "אע\"פ שאמרו אין אדם רואה מומין לעצמו מ\"מ מורה הלכה לתלמידים והם מורים לו למעשה",
+     "he": "ערוך השולחן מביא את הגמרא שאף על פי שאין אדם רואה מומין לעצמו, מורה הלכה לתלמידים והם מורים לו למעשה.",
+     "en": "The Arukh HaShulchan brings the Gemara that although a person does not see blemishes for himself, he teaches halakha to his students and they rule for him in practice."
+    },
+    {
+     "who": {
+      "he": "בינת אדם",
+      "en": "Binat Adam"
+     },
+     "ref": "Binat Adam, Shaar Isur Veheter 3:2",
+     "quote": "בדבר דאתחזק איסורא אפילו ת\"ח ביחיד מומחה אסור להורות",
+     "he": "בינת אדם מסיק מהסוגיה שבדבר שנתחזק האיסור אפילו תלמיד חכם יחיד ומומחה אסור לו להורות.",
+     "en": "Binat Adam concludes from the sugya that where a prohibition is established, even a single expert Torah scholar may not rule."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Torah, Leviticus 14:57:1",
+     "quote": "יכול הרב להורות לתלמיד לומר שזה המום הוא מום קבוע",
+     "he": "הצפנת פענח מבאר שהרב יכול להורות לתלמיד שהמום הוא מום קבוע, והתלמיד מתיר בגדר שליחות מהרב.",
+     "en": "Tzafnat Pa'neach explains that the teacher may instruct his student to say that this blemish is a fixed blemish, and the student permits as the teacher's agent."
+    },
+    {
+     "who": {
+      "he": "הרמ״א",
+      "en": "Rema"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 242:36",
+     "quote": "אם אמרה קודם מעשה שומעין לו ואם לאו אין שומעין לו",
+     "he": "הרמ״א פוסק: תלמיד חכם שאמר דבר הלכה בדבר השייך לו, אם אמרה קודם מעשה שומעין לו ואם לאו אין שומעין לו.",
+     "en": "The Rema rules: a Torah scholar who states a halakha about a matter that concerns him, if he said it before the event he is heeded, and if not he is not."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    9
+   ],
+   "he": {
+    "title": "תבלול: מחלוקת רבי מאיר ורבי יוסי",
+    "gemara": "המשנה ״לבן הפוסק את הסירא״ היא כרבי יוסי, שלדעת רבי מאיר גם שחור הנכנס בלבן הוא מום. רב אומר שטעם רבי יוסי הוא הפסוק ״יצא מחלב עינימו״, ו״עינימו״ סתמא לא נקרא, ורבי מאיר דורש ״תבלול״ מלשון דבר המבלבל את העיניים.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ה): אם יצא מן השחור לתוך הלבן אינו מום, שאין מומין בלבן."
+   },
+   "en": {
+    "title": "Tevalul: the dispute of Rabbi Meir and Rabbi Yosei",
+    "gemara": "The mishna 'a white that cuts the sira' is according to Rabbi Yosei, since in Rabbi Meir's view a black entering the white is also a blemish. Rav says Rabbi Yosei's reason is the verse 'his eyes have come out of fat', where 'his eyes' without qualification is not called fat, and Rabbi Meir derives 'tevalul' from the idea of something that confuses the eyes.",
+    "halakha": "Rambam (Admission into the Sanctuary 7:5): if it went out of the black into the white, it is not a blemish, since there are no blemishes in the white."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:9",
+     "quote": "ור' מאיר דבר המבלבל את העין לא שנא לבן בשחור ולא שנא שחור בלבן",
+     "he": "לרבי מאיר ״דבר המבלבל את העין״: אין הבדל בין לבן בשחור לבין שחור בלבן.",
+     "en": "For Rabbi Meir it is 'something that confuses the eye': there is no difference between white in black and black in white."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:10",
+     "quote": "תרבא דעינא. היינו הלבן שבעין",
+     "he": "״תרבא דעינא״ הוא הלבן שבעין.",
+     "en": "'The fat of the eye' is the white of the eye."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:9:1",
+     "quote": "ושומן העין בלבן הוא",
+     "he": "״יצא מחלב עינימו״ נדרש על שומן העין, והוא בלבן.",
+     "en": "'Came out of the fat of their eyes' is expounded on the fat of the eye, and it is in the white."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:9:2",
+     "quote": "שפוסק הסירא ומערב השחור והלבן",
+     "he": "״דבר המבלבל״ הוא מה שפוסק את הסירא ומערב את השחור והלבן.",
+     "en": "'Something that confuses' is what cuts the sira and mixes the black and the white."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38a:21:7",
+     "quote": "ואם חוט של לבן יוצא מן הלבן ופוסק אותה שורה ונכנס בשחור הוי מום",
+     "he": "אם חוט לבן יוצא מן הלבן ופוסק את השורה ונכנס בשחור, זהו מום.",
+     "en": "If a white thread leaves the white, cuts that row and enters the black, it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38a:27",
+     "quote": "שאין מומין בלבן שהלבן אין קרוי עין אלא השחור",
+     "he": "שחור הנכנס בלבן אינו מום, ״שאין מומין בלבן״, כי רק השחור נקרא עין.",
+     "en": "A black that enters the white is not a blemish, 'for there are no blemishes in the white', since only the black is called the eye."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 38b:9:1",
+     "quote": "אבל פשטיה דקרא רוצה לומר שיוצא העין ובולט לחוץ מרוב שומן שבתוכו",
+     "he": "תוספות: לפי הדרשה יצא רשע לתרבות רעה, אבל פשוטו של מקרא שהעין יוצאת ובולטת מרוב שומן.",
+     "en": "Tosafot: according to the derasha the wicked one went out to a bad upbringing, but the plain meaning of the verse is that the eye bulges out because of the fat within."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:5",
+     "quote": "אֲבָל אִם יָצָא מִן הַשָּׁחֹר לְתוֹךְ הַלָּבָן אֵינוֹ מוּם שֶׁאֵין מוּמִין בְּלָבָן",
+     "he": "הרמב״ם: יצא מן השחור לתוך הלבן אינו מום.",
+     "en": "Rambam: if it went from the black into the white it is not a blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:5:1",
+     "quote": "ופירש רש״י סירא שורה שבעין סביב לשחור",
+     "he": "הכסף משנה מביא את פירוש רש״י שסירא היא שורה שבעין סביב לשחור.",
+     "en": "The Kessef Mishneh brings Rashi's explanation that the sira is the row in the eye around the black."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    19
+   ],
+   "he": {
+    "title": "חוורוור והמים הקבועין: שמונים יום ובדיקה בלח וביבש",
+    "gemara": "המשנה: חוורוור קבוע הוא כל ששהה שמונים יום, ורבי חנניא בן אנטיגנוס אומר בודקים אותו שלוש פעמים בתוך שמונים יום. מים הקבועין נבדקים בהאכלת לח ויבש של גשמים ושל שלחין. הגמרא אומרת שהמשנה כרבי יהודה, ומשלימה ״חסורי מחסרא״, ומסבירה ״וישנו שלושה חדשים״: אדר וחצי ניסן לח, אלול וחצי תשרי יבש. אחר כך שואלת אם לח בזמן לח ויבש בזמן יבש או לח ויבש בזמן הלח, ואומרת כמה מאכילים: כגרוגרת.",
+    "halakha": "הרמב״ם (איסורי מזבח ב:יג–יד): המים קבועים כשאכלה עשבים לחים מראש אדר עד חצי ניסן ויבשים באלול וחצי תשרי ולא נתרפאה; ומאכילים כגרוגרת קודם סעודה ראשונה."
+   },
+   "en": {
+    "title": "Chavarvar and mayim kevuim: eighty days, and the test with moist and dry fodder",
+    "gemara": "The mishna: a fixed chavarvar is one that lasted eighty days, and Rabbi Chananya ben Antigonus says it is checked three times within the eighty days. Mayim kevuim are tested by feeding moist and dry fodder from rain-fed and irrigated fields. The Gemara says the mishna follows Rabbi Yehuda, supplies the missing words ('chasorei mechasra'), and explains 'and it lasts three months': Adar and half of Nissan for moist, Elul and half of Tishrei for dry. Then it asks whether it is moist in the moist season and dry in the dry season or moist and dry in the moist season, and states how much is fed: the size of a dried fig.",
+    "halakha": "Rambam (Things Forbidden on the Altar 2:13–14): the water is fixed when it ate moist grasses from the start of Adar to mid-Nissan and dry ones in Elul and mid-Tishrei and was not cured; and it is fed the size of a dried fig before its first meal."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:11",
+     "quote": "חורור. אם יש בשחור לבן ואית דאמרי קרום",
+     "he": "״חוורוור״ הוא אם יש לבן בשחור, ויש אומרים קרום.",
+     "en": "'Chavarvar' is when there is white in the black, and some say a membrane."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:10:1",
+     "quote": "חולי הוא שיש טיפין לבנות בעין",
+     "he": "חוורוור הוא חולי שיש בו טיפות לבנות בעין.",
+     "en": "Chavarvar is an ailment in which there are white drops in the eye."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:12",
+     "quote": "שעיניו דולפין תדיר הרי זה מום",
+     "he": "״מים הקבועים״ הם כשעיניו דולפות תמיד, וזהו מום.",
+     "en": "'Mayim kevuim' is when his eyes constantly drip, and this is a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:10:3",
+     "quote": "לא הוי מום דשמא בינתים הלך לו וחזר שכן דרכו",
+     "he": "אם לא בדקוהו, אף שנמצא מום ביום שמונים לא הוי מום, שמא בינתים הלך לו וחזר.",
+     "en": "If they did not check it, even if the blemish is found on day eighty it is not a blemish, since in between it may have gone and come back."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Yevamot 80a:4:1",
+     "quote": "אבל בבדיקה תחלה וסוף לא סגי שמא בינתים עבר",
+     "he": "רש״י ביבמות: בבדיקה בתחילה ובסוף אין די, שמא בינתיים עבר.",
+     "en": "Rashi in Yevamot: a check at the start and at the end is not enough, since in between it may have passed."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:12",
+     "quote": "וּבוֹדְקִין אוֹתוֹ שָׁלֹשׁ פְּעָמִים בְּיוֹם שִׁבְעָה וְעֶשְׂרִים",
+     "he": "הרמב״ם: בודקים שלוש פעמים, ביום עשרים ושבעה, ביום ארבעים וחמישה וביום שמונים.",
+     "en": "Rambam: they check three times, on day twenty-seven, day fifty-four and day eighty."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:11:3",
+     "quote": "אם האכילוהו לרפואה תבן ומספוא",
+     "he": "״אכל לח ויבש של גשמים״ הוא אם האכילוהו לרפואה תבן ומספוא.",
+     "en": "'Ate moist and dry of the rains' means they fed it straw and fodder as a cure."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:12:1",
+     "quote": "דקתני חורוור קבוע שמונים יום רבי יהודה היא",
+     "he": "המשנה שבה חוורוור קבוע שמונים יום היא כרבי יהודה.",
+     "en": "The mishna in which a fixed chavarvar is eighty days is according to Rabbi Yehuda."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:13:2",
+     "quote": "דלא הוי רפואה ולא בדקנא ביה",
+     "he": "לח ויבש של שלחין לא הוי רפואה, ולכן לא בודקים בו.",
+     "en": "Moist and dry from irrigated fields is not a cure, and so we do not test with it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:17:1",
+     "quote": "מספוא הגדל באדר וניסן מאכילין אותו באדר וניסן",
+     "he": "לח בזמן לח: מספוא הגדל באדר וניסן מאכילים אותו באדר וניסן.",
+     "en": "Moist in the moist season: fodder that grows in Adar and Nissan is fed in Adar and Nissan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 38b:19:2",
+     "quote": "יהבינן לי' מן הרפואה כגרוגרות",
+     "he": "״בסעודה ראשונה״: בכל יום נותנים לו מן הרפואה כגרוגרות.",
+     "en": "'At the first meal': each day they give it of the cure the size of dried figs."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:19",
+     "quote": "וקמ\"ל אע\"ג דאין רצופין",
+     "he": "״אדר וחצי ניסן לח, אלול וחצי תשרי יבש״ הם שלושה חדשים, ובא להשמיענו אף על פי שאינם רצופים.",
+     "en": "'Adar and half of Nissan moist, Elul and half of Tishrei dry' make three months, and it teaches that even though they are not consecutive."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:20",
+     "quote": "דבההוא זמן הוי יבש תבן וחציר",
+     "he": "באלול ותשרי הוא זמן היבש, תבן וחציר.",
+     "en": "Elul and Tishrei is the dry season, of straw and hay."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 38b:22",
+     "quote": "אפי' בגרוגרת מכל אחד דיי לבדיקה",
+     "he": "מן הלח ומן היבש אפילו כגרוגרת מכל אחד די לבדיקה.",
+     "en": "From the moist and from the dry, even a dried fig of each is enough for the test."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:13",
+     "quote": "כְּשֶׁאָכְלָה עֲשָׂבִים לַחִים מֵרֹאשׁ אֲדָר עַד חֲצִי נִיסָן",
+     "he": "הרמב״ם: בודקים בעשבים לחים מראש אדר עד חצי ניסן, ויבשים באלול וחצי תשרי.",
+     "en": "Rambam: the test is with moist grasses from the start of Adar until mid-Nissan, and dry ones in Elul and half of Tishrei."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:14",
+     "quote": "כִּגְרוֹגֶרֶת אוֹ יוֹתֵר קֹדֶם סְעֻדָּה רִאשׁוֹנָה שֶׁל כָּל יָמִים",
+     "he": "הרמב״ם: מאכילים כגרוגרת או יותר קודם סעודה ראשונה של כל יום.",
+     "en": "Rambam: it is fed the size of a dried fig or more before the first meal of each day."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 38b:3",
+     "quote": "וקשה מדוע לא מיבעיא להו ג\"כ איפכא",
+     "he": "הרש״ש מקשה מדוע לא שאלו גם ההפך, לח ויבש בזמן היבש.",
+     "en": "The Rashash asks why they did not also ask the opposite, moist and dry in the dry season."
+    }
+   ]
+  }
+ ]
+}
