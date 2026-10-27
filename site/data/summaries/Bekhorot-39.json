@@ -1,0 +1,1695 @@
+{
+ "ref": "Bekhorot 39",
+ "date": "2026-10-27",
+ "he": {
+  "overview": "הדף עוסק במומי הבכור ובפסולי המוקדשין. בעמוד א׳: סוף בעיות רב אשי על תנאי הרפואה ובדיקת המום העובר ב״משולשים״, שאלת פנחס אם מום למפרע או מכאן ולהבא, ניקוב החוטם והשפה, השיניים החיצוניות והפנימיות ומחלוקת התנאים, ושאלת רב אחדבוי אם יש מחוסר אבר מבפנים ובעל כליה אחת. בעמוד ב׳: מתי נפסל קרבן שחסר, ושעות פוסלות בקדשים, מחלוקת התנאים במעוך וכתות ונתוק וכרות, הזובן והזנב, ושיעור האצבע וציצית. הראשונים והאחרונים דנים בעיקר בהבנת ״משולשים״, בנפקא־מינה של מום למפרע, בפסק הרמב״ם בחסרון מבפנים, ובמחלוקת רש״י ותוספות במשמעות ״מפציל״.",
+  "title": "סיכום — בכורות ל״ט"
+ },
+ "en": {
+  "overview": "The daf deals with the blemishes of a bechor and the disqualifications of consecrated animals. Amud a: the end of Rav Ashi's questions on the conditions of the cure and the examination of a passing blemish 'meshulashim', Pinchas's question whether a blemish is retroactive or only from now on, a pierced nose and lip, the outer and inner teeth and the tannaim's dispute, and Rav Achadvoi's question whether there is an inner missing limb and the one-kidney animal. Amud b: when a lacking offering is disqualified, and hours disqualify in sacrifices, the tannaim's dispute on crushed, bruised, torn and cut testicles, the zovan and the tail, and the measure of a finger and tzitzit. The Rishonim and Acharonim mainly discuss the meaning of 'meshulashim', the practical difference of a retroactive blemish, the Rambam's ruling on an inner lack, and the dispute of Rashi and Tosafot over the meaning of 'mefatzel'.",
+  "title": "Summary — Bekhorot 39"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "שיהו משולשים"
+   ],
+   "he": {
+    "term": "משולשים",
+    "explanation": "בדיקת הבכור בעל המום העובר נעשית בשלושה זמנים בתוך שמונים הימים – בתחילה, באמצע ובסוף. הסיבה: בשלושה זמנים אלה דרך המום העובר לעבור. אם המום לא עבר בבדיקות, הוא נחשב קבוע."
+   },
+   "en": {
+    "term": "Meshulashim (in thirds)",
+    "explanation": "The examination of a bechor with a possibly passing blemish is done at three times within the eighty days – at the beginning, the middle and the end. The reason is that a passing blemish tends to pass at these three times. If it did not pass at the checks it counts as permanent."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39a:4:1",
+    "quote": "בשלש זמנים הללו דרך אותו המום לעבור"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "למפרע הוי מומא"
+   ],
+   "he": {
+    "term": "מום למפרע",
+    "explanation": "השאלה אם כשמתברר שהמום קבוע הוא נחשב מום משעה שהתחיל או רק מכאן ולהבא. אם למפרע – הפדיון שנעשה לפני כן תופס, והנהנה ממנו מועל. אם מכאן ולהבא – הפדיון לא תפס והנהנה לא מעל."
+   },
+   "en": {
+    "term": "Mum lemafre'a (retroactive blemish)",
+    "explanation": "The question is whether, once the blemish is established as permanent, it counts as a blemish from when it began or only from now on. If retroactive, an earlier redemption took effect and one who benefits commits me'ilah. If only from now, it did not take effect and he does not."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 39a:9",
+    "quote": "הוי פדוי והנהנה מן הפדיון מעל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 19,
+   "anchors": [
+    "חסרון מבפנים שמיה חסרון"
+   ],
+   "he": {
+    "term": "חסרון מבפנים",
+    "explanation": "בהמה שחסר לה אבר פנימי, כמו כליה או טחול. נחלקו אם זה נחשב ״חסרון״ הפוסל להקרבה. אינו מום, כי מום צריך להיות בגלוי; הרמב״ם פוסק שהיא אסורה למזבח לא משום מום אלא משום שאין מקריבים חסר."
+   },
+   "en": {
+    "term": "Chisaron mibifnim (an inner lack)",
+    "explanation": "An animal lacking an inner organ, such as a kidney or spleen. They dispute whether this counts as a 'lack' that disqualifies it from being offered. It is not a blemish, since a blemish must be visible; the Rambam rules it barred from the altar not as a blemish but because nothing lacking is offered."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Things Forbidden on the Altar 2:11",
+    "quote": "שֶׁאֵין חִסָּרוֹן שֶׁבִּפְנִים מוּם אֶלָּא מִפְּנֵי שֶׁאֵין מַקְרִיבִין חָסֵר כְּלָל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 19,
+   "anchors": [
+    "אין בריה באחת"
+   ],
+   "he": {
+    "term": "אין בריה באחת",
+    "explanation": "ההנחה שבהמה אינה נבראת עם כליה אחת, ולכן בהמה שיש בה רק אחת נחשבת כמי שחסרה אחת. לפי זה הברייתא שפוסלת בעל כליה אחת מדברת בבהמה שנבראה בשתיים וחסרה."
+   },
+   "en": {
+    "term": "Ein beriyah be'achat (no creature with one)",
+    "explanation": "The premise that an animal is not created with a single kidney, so one found with only one is taken to have lost one. On this view the baraita that disqualifies a one-kidney animal speaks of one created with two that lost one."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39a:19:1",
+    "quote": "אין בריה נבראת בכוליא אחת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "שָׁעוֹת פּוֹסְלוֹת בְּקָדָשִׁים"
+   ],
+   "he": {
+    "term": "שעות פוסלות בקדשים",
+    "explanation": "בקרבנות שנדרש בהם ״בן שנה״, גיל הבהמה נמדד לא מיום ליום אלא משעה לשעה. אם עברה השעה של הלידה בשנה השנייה, היא כבר לא בת שנה והיא פסולה."
+   },
+   "en": {
+    "term": "Sha'ot poselot bekodashim (hours disqualify)",
+    "explanation": "For offerings requiring a 'year-old' animal, age is measured not from day to day but from hour to hour. Once the hour of birth passes in the second year, it is no longer a year old and is disqualified."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39b:5:1",
+    "quote": "דשעה תשיעית פוסלת בו והוי כנכנס בשנה שניה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 6,
+   "anchors": [
+    "מָעוּךְ וְכָתוּת וְנָתוּק וְכָרוּת"
+   ],
+   "he": {
+    "term": "מעוך, כתות, נתוק וכרות",
+    "explanation": "ארבע דרכים שבהן נפגעים האשכים. ״כתות״ – נימוחו; ״כרות״ – נחתכו בסכין אך עדיין תלויים בכיס ומעורים קצת. נחלקו התנאים אם זה מום בביצים ואם בגיד."
+   },
+   "en": {
+    "term": "Ma'uch, katut, natuk and karut",
+    "explanation": "Four ways in which the testicles are damaged. 'Katut' – crushed to softness; 'karut' – cut with a knife but still hanging in the sac, partly attached. The tannaim dispute whether it is a blemish in the testicles or only in the organ."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39b:7:4",
+    "quote": "בסכין ועדיין תלויין בכיס ומעורין קצת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "בְּמוּמִים שֶׁבַּגָּלוּי"
+   ],
+   "he": {
+    "term": "מומים שבגלוי",
+    "explanation": "רק מום שנראה לעין מתיר לשחוט את הבכור. מום בסתר, כמו בתוך החוטם, אינו מום. לפי המסקנה כאן המחלוקת היא אם הביצים המכווצות או התלויות הן מום שבגלוי."
+   },
+   "en": {
+    "term": "Mumim shebagalui (visible blemishes)",
+    "explanation": "Only a blemish that can be seen permits slaughtering a bechor. A hidden blemish, such as inside the nose, is not a blemish. In the conclusion here the dispute is whether contracted or hanging testicles are a visible blemish."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39b:10:1",
+    "quote": "מאן דפסיל בביצים לאו משום חסרון אלא משום מום"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 14,
+   "anchors": [
+    "אֶחָד מֵאַרְבָּעָה בְּטֶפַח שֶׁל כׇּל הָאָדָם"
+   ],
+   "he": {
+    "term": "אצבע",
+    "explanation": "מידת האצבע שהזכירו חכמים היא אחת מארבע בטפח של אדם ממוצע, והיא הגודל, ולא האצבע הקטנה."
+   },
+   "en": {
+    "term": "Etzba (finger)",
+    "explanation": "The finger-measure the sages mention is one fourth of a handbreadth of an average person, namely the thumb, not the little finger."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 39b:14:2",
+    "quote": "של כל אדם בעינן והיינו גודל"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "הבדיקה של מום עובר: תנאי האכילה ו״משולשים״",
+    "gemara": "ממשיכים את הבעיות של רב אשי על הבכור שעיניו מנטפות: האם האכילה בכל סעודה או בראשונה, לפני או אחרי אכילה ושתייה, קשור או מותר, לבדו או עם חברו, בעיר או בשדה, וגינה הסמוכה לעיר – ״תיקו״. ורבי חנניא בן אנטיגנוס: ובלבד שיהיו משולשים.",
+    "halakha": "הרמב״ם פוסק שאם חסר אחד מהתנאים – ספק, והבהמה אינה קריבה ואינה נפדית."
+   },
+   "en": {
+    "title": "Testing a passing blemish: the conditions of the cure and 'meshulashim'",
+    "gemara": "Rav Ashi's questions continue about the animal whose eyes drip: whether the cure is given at every meal or the first, before or after eating and drinking, tied or loose, alone or with a companion, in the city or the field, and a garden near the city – 'teiku'. And Rabbi Chanania ben Antigonos: provided they are 'meshulashim'.",
+    "halakha": "The Rambam rules that if any condition is missing it is a doubt, and the animal is neither offered nor redeemed."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:1:1",
+     "quote": "דלא יהבינן ליה אלא בסעודה ראשונה שבכל יום",
+     "he": "הבעיה אם האכילה צריכה להיות לפני או אחרי הסעודה נשאלת רק אם נותנים לו את התרופה אך ורק בסעודה הראשונה של כל יום.",
+     "en": "The question of before or after the meal arises only if the cure is given solely at the first meal of each day."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:1:2",
+     "quote": "כדרך סם שכל אדם שותה סם לרפואה קודם אכילה",
+     "he": "״קודם אכילה ודאי מעלי ליה״ – כדרך שכל אדם שותה סם לרפואה לפני האכילה.",
+     "en": "'Before eating it surely helps' – as a person takes a medicine before eating."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:2:2",
+     "quote": "נייח ליה בצוותא ומהניא ליה אכילה",
+     "he": "״עם חבירו״ – הבהמה נוחה בחברה, ולכן האכילה מועילה לה.",
+     "en": "'With its fellow' – the animal is at ease in company, so the eating helps it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:3:2",
+     "quote": "הויא כשדה או לא",
+     "he": "הספק בגינה הסמוכה לעיר הוא אם דינה כשדה או לא.",
+     "en": "The doubt about a garden next to the city is whether it counts as a field or not."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:4:1",
+     "quote": "בשלש זמנים הללו דרך אותו המום לעבור",
+     "he": "״משולשים״ – בודקים בשלושה חלקים של שמונים הימים, כי בשלושה זמנים אלה דרך המום העובר לעבור.",
+     "en": "'Meshulashim' – the animal is examined at three points in the eighty days, since a passing blemish tends to pass at these three times."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:1",
+     "quote": "דרך כל סם וכל משקה מועיל יותר קודם אכילה מלאחר אכילה",
+     "he": "דרך כל סם ומשקה להועיל יותר לפני האכילה מאחריה.",
+     "en": "Any medicine or drink works better before eating than after."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:4",
+     "quote": "שיותר הוא אוכל בשמחה כשהוא מותר",
+     "he": "״קשור או מותר״ – כשהבכור מותר הוא אוכל בשמחה יותר.",
+     "en": "'Tied or loose' – the bechor eats more happily when loose."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:5",
+     "quote": "מי מהנה לו אויר הגינה כאויר השדה",
+     "he": "בגינה הסמוכה לעיר השאלה אם אוויר הגינה מועיל לו כאוויר השדה.",
+     "en": "For a garden near the city the question is whether its air benefits the animal like the air of a field."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:6",
+     "quote": "כלומר לסוף כ\"ז וכ\"ז וכ\"ז",
+     "he": "״שיהו משולשים״ – כלומר בסוף כל שלושה חלקים של עשרים ושבעה ימים.",
+     "en": "'Meshulashim' – that is, at the end of each of three periods of twenty-seven days."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39a:4:1",
+     "quote": "בתחלת שמונים ובסוף שמונים ובאמצע שמונים",
+     "he": "״משולשים״ פירושו בתחילת שמונים הימים, באמצעם ובסופם.",
+     "en": "'Meshulashim' means at the beginning of the eighty days, in the middle, and at the end."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Megillah 6b:6",
+     "quote": "שיבדוק בתחילת שמונים ובאמצעיתן ובסופן",
+     "he": "הר״ן מביא ש״משולשין״ בבכורות משמעו שיבדוק בתחילת שמונים הימים, באמצעם ובסופם.",
+     "en": "The Ran notes that 'meshulashin' in Bekhorot means he checks at the beginning of the eighty days, in the middle, and at the end."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 88:1",
+     "quote": "צריך לתפור בגידין בתחלת הדף ובאמצע ובסוף",
+     "he": "בספר תורה (מגילה) צריך לתפור בגידין בתחילת הדף, באמצעו ובסופו.",
+     "en": "In a Torah scroll one must sew with sinews at the beginning of the sheet, the middle and the end."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:15",
+     "quote": "סָפֵק קְבוּעִין אוֹ עוֹבְרִים",
+     "he": "אם חסר אחד מתנאי האכילה והבדיקה (אחר אכילה, קשורה, לבדה, בגינה הסמוכה לעיר) – ספק אם המומים קבועים או עוברים.",
+     "en": "If one of the conditions was missing (eaten after the meal, tied, alone, in the garden by the city), it is a doubt whether the blemishes are permanent or passing."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:14",
+     "quote": "הֲרֵי זֶה סָפֵק וְאֵינָהּ קְרֵבָה וְלֹא נִפְדֵּית",
+     "he": "אם חסר אחד מהתנאים – הדבר ספק, והבהמה אינה קריבה ואינה נפדית.",
+     "en": "If any of the conditions is missing it is a doubt, and the animal is neither offered nor redeemed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 39a:2",
+     "quote": "איני רואה שם שום הכרע שלא לפרש כמו שפירש כאן",
+     "he": "הרש״ש על תוספות ״שיהו״: אינו רואה בסוגיית מגילה שום הכרע שלא לפרש כפי שפירש רש״י כאן.",
+     "en": "Rashash on Tosafot 'shiyhu': he sees no proof in the Megillah passage against explaining as Rashi explains here."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    7
+   ],
+   "he": {
+    "title": "אכל ולא נתרפא: מום למפרע או מכאן ולהבא",
+    "gemara": "פנחס אחוה דמר שמואל שאל את שמואל אם כשאכל ולא נתרפא הוא מום למפרע או מכאן ולהבא. הנפקא־מינה: למעול בפדיונו; אם למפרע – מעל, ואם מכאן ולהבא – לא. שמואל קרא עליו ״פסחים בזזו בז״.",
+    "halakha": "הרמב״ם: הפודה לפני שנתייאשו מרפואתה ונהנה אחר כך – ספק מועל, ואינו מביא קרבן מעילה."
+   },
+   "en": {
+    "title": "Ate and was not cured: a blemish retroactively or only from now",
+    "gemara": "Pinchas, the brother of Mar Shmuel, asked Shmuel whether, after the animal ate and was not cured, it is a blemish retroactively or only from now on. The practical difference is whether one commits me'ilah with its redemption: retroactively, yes; from now on, no. Shmuel quoted 'the lame have taken spoil' about him.",
+    "halakha": "The Rambam: one who redeems before they gave up on a cure and then benefits afterward is a doubtful me'ilah case and brings no offering."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:6:1",
+     "quote": "קודם שתכלה זמן בדיקתו שלש חדשים נהנה מן הפדיון",
+     "he": "ההנאה שבה דנים היא הנאה מן הפדיון לפני שנסתיים זמן הבדיקה של שלושה חודשים, ורק בקדשים אחרים ולא בבכור.",
+     "en": "The case is deriving benefit from the redemption money before the three-month examination period ends."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:6:2",
+     "quote": "אישתכח דחילולו הוי חילול ופדיונו קדוש ומביאין קרבן מעילה",
+     "he": "אם המום חל למפרע, נמצא שהחילול חל והפדיון קדוש, והנהנה ממנו מביא קרבן מעילה.",
+     "en": "If the blemish applies retroactively, the redemption was valid, the money is holy, and one who benefits brings a me'ilah offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:7:1",
+     "quote": "אתה אינך מחודד ושאלת שאילה כזו שאיני יודע תשובה",
+     "he": "שמואל קרא עליו ״פסחים בזזו בז״ – אתה אינך חריף ושאלת שאלה שאיני יודע לה תשובה.",
+     "en": "Shmuel quoted 'the lame have taken spoil' – you are not sharp, yet you asked a question to which I know no answer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:7",
+     "quote": "למפרע הוי מומא משעה שהתחיל לו",
+     "he": "״למפרע״ – המום נחשב מום משעה שהתחיל.",
+     "en": "'Retroactively' – it counts as a blemish from the moment it began."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:10",
+     "quote": "דאכתי הוי כתם והנהנה מן הפדיון לא מעל",
+     "he": "אם המום חל מכאן ולהבא, הפדיון לא תפס כי עדיין היא תמה, והנהנה מן הפדיון לא מעל.",
+     "en": "If the blemish applies only from now on, the redemption did not take effect since she was still unblemished, and one who benefits does not commit me'ilah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:12",
+     "quote": "אע\"ג דלא הייתה חכמתו שקולה כלום כנגד חכמת שמואל",
+     "he": "״פסחים בזזו בז״ – אף שחכמתו של השואל לא הייתה שקולה כנגד חכמת שמואל, שאל דבר שלא ידע להשיבו.",
+     "en": "'The lame took spoil' – though his wisdom was no match for Shmuel's, he asked something Shmuel could not answer."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:16",
+     "quote": "הֲרֵי זֶה סָפֵק מוֹעֵל וְאֵינוֹ מֵבִיא קָרְבַּן מְעִילָה",
+     "he": "הרמב״ם פוסק שהפודה לפני שנתייאשו מרפואתה ונהנה אחר כך – ספק מועל, ואינו מביא קרבן מעילה.",
+     "en": "The Rambam rules that one who redeems before they gave up on the cure and then benefits afterward is a doubtful me'ilah case and does not bring an offering."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 39a:1",
+     "quote": "משמע דלאחר שמונים ודאי מעל",
+     "he": "הרש״ש מדייק מרש״י שלאחר שמונים יום ודאי מעל.",
+     "en": "Rashash infers from Rashi that after eighty days one certainly commits me'ilah."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Heave Offerings 1:2:1",
+     "quote": "ורבינו ס\"ל דקודם שנתברר שזה הוי מום קבוע לכ\"ע לא מעל",
+     "he": "הצפנת פענח מסביר שלדעת הרמב״ם, לפני שנתברר שהמום קבוע – לכולי עלמא לא מעל, ולכן הנפקא־מינה לשיטתו היא בעניין קריאת שם הפדיון.",
+     "en": "Tzafnat Pa'neach explains that on the Rambam's view, before it is clear the blemish is permanent, all agree there is no me'ilah, so the difference lies elsewhere."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Rest on a Holiday 2:3:1",
+     "quote": "לא פירש כן ומשמע דצריך לפדותו אח\"כ",
+     "he": "הצפנת פענח: הרמב״ם בהלכות איסורי מזבח לא פירש כרש״י, ומשמע שצריך לפדותו שוב אחר כך.",
+     "en": "Tzafnat Pa'neach: the Rambam in Hilkhot Issurei Mizbe'ach does not explain like Rashi, and it implies that one must redeem it again afterward."
+    },
+    {
+     "who": {
+      "he": "מעשי למלך",
+      "en": "Ma'asai LaMelekh"
+     },
+     "ref": "Ma'asai LaMelekh on Mishneh Torah, Things Forbidden on the Altar 2:16:2",
+     "quote": "אמאי נקיט רבינו דוקא הכי",
+     "he": "המעשי למלך מביא את קושיית התורת ראה מדוע הרמב״ם מצמצם דווקא למקרה זה.",
+     "en": "Ma'asai LaMelekh brings the question raised in an earlier work: why does the Rambam limit it to precisely this case?"
+    },
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 28:11",
+     "quote": "דזה אינו שייך גבי בכור רק בשאר קדשים",
+     "he": "בעל חכמת שלמה מקשה למה נזכרה הנפקא־מינה למעילה, כי היא אינה שייכת בבכור אלא בשאר קדשים כפירוש רש״י.",
+     "en": "Chokhmat Shlomo asks why the me'ilah difference is given, since it applies not to a bechor but to other consecrated animals, as Rashi explains."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    9
+   ],
+   "he": {
+    "title": "ניקוב החוטם והשפה",
+    "gemara": "המשנה: חוטמו שניקב, שנפגם ושנסדק, וכן שפתו. הברייתא: ניקבו חוטמין זה לתוך זה – מבחוץ מום, מבפנים אינו מום. ושפה: רב פפא – ״תורא ברא דשיפתיה״."
+   },
+   "en": {
+    "title": "A pierced nose and lip",
+    "gemara": "The mishnah: a nose that was pierced, nicked or split, and likewise a lip. The baraita: if the nostrils were pierced into each other, from outside it is a blemish, from inside it is not. For the lip, Rav Pappa says it means the outer edge of the lip."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:9:1",
+     "quote": "שנקבו מחיצות החיצונות של חוטם",
+     "he": "״מבחוץ״ – שנקבו הדפנות החיצוניות של החוטם.",
+     "en": "'From outside' – the outer walls of the nose were pierced."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:9:2",
+     "quote": "שניקבה מחיצה החולקת את החוטם",
+     "he": "״מבפנים״ – שנקבה המחיצה החוצצת בין שני חללי החוטם.",
+     "en": "'From inside' – the partition dividing the nose was pierced."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:9:3",
+     "quote": "שבמקום סתר הוא",
+     "he": "ניקוב מבפנים אינו מום, כי הוא במקום סתר.",
+     "en": "A pierce from inside is not a blemish, since it is in a hidden place."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:9:4",
+     "quote": "שורה חיצונה של שפה כלומר חודה של שפה ולא רחבה",
+     "he": "״תורא ברא דשיפתיה״ – השורה החיצונה של השפה, קצה השפה ולא רחבה.",
+     "en": "'Tora bara of the lip' – the outer row of the lip, its edge and not its breadth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:14",
+     "quote": "בעומק החוטם אינו מום שאינו נראה",
+     "he": "בסוף החוטם זהו מום, אך בעומק החוטם אינו מום שאינו נראה.",
+     "en": "At the end of the nose it is a blemish, but deep inside the nose it is not, since it is not visible."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:6",
+     "quote": "מִי שֶׁנִּקַּב חָטְמוֹ אֲפִלּוּ מִצַּד אֶחָד",
+     "he": "הרמב״ם מונה בין מומי החוטם באדם מי שנקב חוטמו אפילו מצד אחד.",
+     "en": "The Rambam lists among nose blemishes (in a person) one whose nose is pierced even on one side."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 22:22:3",
+     "quote": "וְכֵן שְׂפָתוֹ שֶׁנִּסְדְּקָה אוֹ נִפְגְּמָה",
+     "he": "רש״י על ״חרוץ״ מזכיר גם שפה שנסדקה או נפגמה, ומציין לבכורות.",
+     "en": "Rashi on 'charutz' also mentions a lip that was split or nicked, and refers to Bekhorot."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 2:2:5",
+     "quote": "מבחוץ הרי זה מום מבפנים אינו מום",
+     "he": "הכסף משנה מביא את ברייתא בגמרא: מבחוץ הרי זה מום, מבפנים אינו מום.",
+     "en": "Kessef Mishneh cites the baraita in the Gemara: from outside it is a blemish, from inside it is not."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 22:22:3",
+     "quote": "וכולן שיעורן בכל שהוא",
+     "he": "התורה תמימה על ״חרוץ״: כל אלה – ניקוב, פגימה וסדק – שיעורם בכל שהוא.",
+     "en": "Torah Temimah on 'charutz': for all of these – piercing, nicking, splitting – the measure is any amount."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    14
+   ],
+   "he": {
+    "title": "השיניים החיצוניות והפנימיות ומחלוקת התנאים",
+    "gemara": "במשנה: החוטין החיצונות שנפגמו ונגממו, והפנימיות שנעקרו; רבי חנינא בן אנטיגנוס: אין בודקין מן התיומת ולפנים. הגמרא מקשה ״מאי קאמר״ ומתקנת את הברייתא ״חסורי מיחסרא״: בנעקרו שוחטין. רבי יהושע בן קפוצאי: על פנימיות שנעקרו אין שוחטין אבל נפסל; ורבי חנינא: אין משגיחין כלל.",
+    "halakha": "הרמב״ם: חיטיה החיצוניות שניקבו או נפגמו או נגממו – אינן מום; נעקרו הפנימיות – מום."
+   },
+   "en": {
+    "title": "Outer and inner teeth and the tannaim's dispute",
+    "gemara": "The mishnah deals with outer teeth that were nicked or worn, and inner ones that were pulled out; Rabbi Chanina ben Antigonos says one does not examine from the teyomet inward. The Gemara asks 'what does it say' and fills in the baraita: if pulled out, they may slaughter. Rabbi Yehoshua ben Kapusai: one may not slaughter on inner teeth pulled out, though it is disqualified; Rabbi Chanina: no regard at all.",
+    "halakha": "The Rambam: outer teeth that were pierced, nicked or worn are not a blemish; if the inner teeth are pulled out it is."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:10:2",
+     "quote": "שאם נעקרו החוטין כנגדן לא הוי מום",
+     "he": "״ואף לא את המתאימות״ – אם נעקרו השיניים שכנגדן אין זה מום.",
+     "en": "'Not even the matayimot' – if the teeth opposite them were pulled out it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:10:1",
+     "quote": "שיניים גדולות…שאחת נראית כשתים",
+     "he": "״מתאימות״ הן שיניים גדולות, שאחת מהן נראית כשתיים.",
+     "en": "'Mattaimot' are large teeth, where one looks like two."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:13:1",
+     "quote": "נעקרו הוי מום נפגמו או שנגממו לא הוי מום",
+     "he": "״איזהו הפנימית״ – כמו ששנינו במשנה: נעקרו – מום; נפגמו או נגממו – אינו מום.",
+     "en": "As the mishnah says: if pulled out it is a blemish; if nicked or worn down it is not."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:14:1",
+     "quote": "וימתין שיפול בו מום אחר וישחטנו",
+     "he": "״איפסולי מיפסל״ – נפסל מעל גבי המזבח, וימתין עד שיפול בו מום אחר וישחטנו.",
+     "en": "'It is disqualified' – from the altar; he waits until another blemish falls on it and slaughters it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:13",
+     "quote": "אפי' נעקרו לא ע\"י אכילה ולא ע\"י פעייה",
+     "he": "השיניים הגדולות שבסוף הלחיים אינן נראות, ולכן אפילו נעקרו אין זה מום מבחוץ.",
+     "en": "The large teeth at the end of the jaws are not seen, so even if pulled out it is not a blemish from outside."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:3",
+     "quote": "בְּעֵת שֶׁפּוֹתַחַת פִּיהָ וְצוֹוַחַת הֵן נִרְאִין חֲסֵרִין",
+     "he": "הרמב״ם: אם נעקרו השיניים הפנימיות – מום, שהרי כשהבהמה פותחת את פיה וצווחת הן נראות חסרות.",
+     "en": "The Rambam: if the inner teeth were pulled out it is a blemish, since when the animal opens its mouth and cries they appear missing."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Mishnah Bekhorot 6:1:1",
+     "quote": "דכי אכיל לא מיחזי וכי פעי מחזי",
+     "he": "הרש״ש מסביר את המחלוקת על פי מה שאמרו (ל״ה) שכשאוכל אינו נראה וכשפועה נראה.",
+     "en": "Rashash explains the dispute from what was said on 35: when it eats it is not seen, when it cries it is seen."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    22
+   ],
+   "he": {
+    "title": "האם יש מחוסר אבר מבפנים: בעל כוליא אחת",
+    "gemara": "רב אחדבוי בר אמי שואל אם יש מחוסר אבר מבפנים. לשחיטה ולפדיון לא נשאל; נשאל לפסול. ״תמים״ מול ״כל מום לא יהיה בו״. ברייתא אחת: לא בעל כליה אחת ולא בעל שלוש; ואידך: ״יסירנה״ לרבות בעל כליה אחת. נחלקים אם יש בריה באחת. רב חייא בר יוסף: כשנבראה בשתיים וחסרו, מול כשנבראה באחת.",
+    "halakha": "הרמב״ם: בהמה שנמצאה בכליה אחת או שניטל הטחול – אסורה למזבח ותישרף, לא משום מום אלא משום שאין מקריבין חסר. הרי״ף, מהר״ם והרא״ש: לחולין כשרה."
+   },
+   "en": {
+    "title": "Is there an inner missing limb: the one-kidney animal",
+    "gemara": "Rav Achadvoi bar Ami asks whether there is an inner missing limb – not for slaughter or redemption, but for disqualification. 'Tamim' versus 'any blemish shall not be in it'. One baraita: not one with a single kidney nor three; another: 'yesirenah' includes one with a single kidney. They differ whether a creature can be made with one. Rav Chiyya bar Yosef: created with two and lost one, versus created with one.",
+    "halakha": "The Rambam: an animal found with one kidney or missing the spleen is barred from the altar and burned, not as a blemish but because nothing lacking is offered. The Rif, Maharam and Rosh: for ordinary use it is kosher."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:15:1",
+     "quote": "דמשמע בגלוי אין בסתר לא",
+     "he": "״פסח או עור כתיב״ – משמע מום בגלוי ולא בסתר.",
+     "en": "'Lame or blind is written' – implying a visible blemish, not a hidden one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:16:1",
+     "quote": "בכור על חסרון שבפנים",
+     "he": "״לאישתחוטי״ – לשחוט בכור על חסרון שבפנים.",
+     "en": "'To slaughter' – a bechor on account of an inner lack."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:18:2",
+     "quote": "משמע כוליא אחת יסירנה ויקטירנה",
+     "he": "״יסירנה״ משמע שגם כליה אחת יסירנה ויקטירנה.",
+     "en": "'Yesirenah' implies that even a single kidney he removes and burns."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:19:1",
+     "quote": "אין בריה נבראת בכוליא אחת",
+     "he": "״אין בריה באחת״ – אין בריה נבראת בכליה אחת, ובהמה שיש בה רק אחת בוודאי חסרה.",
+     "en": "'No creature is made with one' – no creature is created with a single kidney, so one that has only one surely lost one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:22:1",
+     "quote": "והאי ודאי חסר",
+     "he": "הרש״י מפרש שמי שפוסל סבור שאין בריה באחת, והבהמה הזו ודאי חסרה.",
+     "en": "Rashi: the one who disqualifies holds there is no creature with one, so this animal surely lacks one."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:18",
+     "quote": "חסר כוליא או טחול ע\"י כריתה או ע\"י סם",
+     "he": "״יש מחוסר אבר מבפנים״ – כגון בהמה שחסרה כליה או טחול על ידי כריתה או על ידי סם.",
+     "en": "An inner missing limb – such as an animal lacking a kidney or spleen through cutting or a drug."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:23",
+     "quote": "כגון שנבראת בשתים וחסרה אחת",
+     "he": "״ולא בעל כוליא אחת״ הפסול – כשנבראה בשתיים וחסרה אחת.",
+     "en": "The disqualified 'one-kidney' animal is one created with two that lost one."
+    },
+    {
+     "who": {
+      "he": "רי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Chullin 17a:1",
+     "quote": "ומדפסל רחמנא לגבוה מכלל דלהדיוט שרי",
+     "he": "הרי״ף: מכך שהתורה פסלה לגבוה, משמע שלהדיוט מותר.",
+     "en": "The Rif: since the Torah disqualified it for the altar, it follows that for a layman it is permitted."
+    },
+    {
+     "who": {
+      "he": "מהר״ם",
+      "en": "Maharam"
+     },
+     "ref": "Teshuvot Maharam, Berlin Edition, Part I 292:1",
+     "quote": "מדאסר רחמנא לגבוה מכלל דלהדיוט שרי",
+     "he": "מהר״ם מתיר בהמה בעלת כליה אחת באכילה, מאחר שהתורה אסרה אותה לגבוה בלבד.",
+     "en": "Maharam permits an animal with one kidney for eating, since the Torah forbade it only for the altar."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Chullin 3:45:1",
+     "quote": "ואי משכחת תלת כולייתי כשירה דאמרינן כל יתר כנטול דמי",
+     "he": "הרא״ש: אם נמצאו שלוש כליות כשרה, שאמרינן כל יתר כנטול דמי.",
+     "en": "The Rosh: if three kidneys are found it is kosher, as we say: anything extra is like removed."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:11",
+     "quote": "שֶׁאֵין חִסָּרוֹן שֶׁבִּפְנִים מוּם אֶלָּא מִפְּנֵי שֶׁאֵין מַקְרִיבִין חָסֵר כְּלָל",
+     "he": "מי שנמצא חסר אבר פנימי אסור למזבח – לא משום שהוא בעל מום, כי חסרון שבפנים אינו מום, אלא מפני שאין מקריבים חסר.",
+     "en": "An animal missing an inner organ is barred from the altar not as a blemish, since an inner lack is no blemish, but because nothing lacking is offered."
+    },
+    {
+     "who": {
+      "he": "הלכות גדולות",
+      "en": "Halakhot Gedolot"
+     },
+     "ref": "Halakhot Gedolot 61:6",
+     "quote": "בעלת כוליא אחת או בעלת שלש כוליות כשרה",
+     "he": "בהלכות גדולות: בהמה בעלת כליה אחת או שלוש כליות – כשרה, ומביא את הברייתא מבכורות.",
+     "en": "Halakhot Gedolot: an animal with one or three kidneys is kosher, citing the baraita from Bekhorot."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פלתי",
+      "en": "Peleti"
+     },
+     "ref": "Peleti on Shulchan Arukh, Yoreh De'ah 44:9",
+     "quote": "דנבראת בכוליא אחת כשרה ואני תמה",
+     "he": "הפלתי תמה על פסק הרמב״ם בהלכות שחיטה שנבראת בכליה אחת כשרה, לאור הברייתא בבכורות.",
+     "en": "Peleti is puzzled by the Rambam's ruling in Hilkhot Shechitah that an animal created with one kidney is kosher, in light of the baraita in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "פרי מגדים",
+      "en": "Peri Megadim"
+     },
+     "ref": "Peri Megadim on Yoreh De'ah, Mishbezot Zahav 44:1:2",
+     "quote": "יסבור היפך מפירש\"י דההיא ברייתא",
+     "he": "הפרי מגדים מביא תירוץ שהרמב״ם סבור היפך מפירוש רש״י בברייתא זו, ואחר כך כותב שלא הבין זאת.",
+     "en": "Peri Megadim reports an answer that the Rambam holds the opposite of Rashi regarding this baraita, and then writes that he does not understand it."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 169:1",
+     "quote": "אף על פי שאינה מום",
+     "he": "המלבי״ם: חז״ל למדו מ״שתי״ שיש מציאות של שלוש או אחת, שהן אסורות למזבח אף על פי שאינן מום.",
+     "en": "Malbim: the sages learned from 'shtei' that a case of three or one kidney exists, forbidden for the altar though it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 44:1",
+     "quote": "ורק לקרבן פסול בחסר כוליא",
+     "he": "הערוך השולחן: בבהמת חולין כשרה, ורק לקרבן פסולה בחסר כליה או יתרת.",
+     "en": "Arukh HaShulchan: for an ordinary animal it is kosher; only for an offering is it disqualified when missing or having an extra kidney."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 22:21:2",
+     "quote": "יען דחסרון מבפנים לא שמיה חסרון",
+     "he": "התורה תמימה: האיסור אינו מפני מום, כי חסרון מבפנים לא שמיה חסרון אלא מגזרת הכתוב ״תמים״.",
+     "en": "Torah Temimah: the prohibition is not due to a blemish, but from the verse's requirement of 'tamim'."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 286:2:1",
+     "quote": "חסרון בפנים שאינה מטריף פוסל",
+     "he": "המנחת חינוך: חסרון בפנים שאינו מטריף פוסל לקרבן ממצוות ״תמים״.",
+     "en": "Minchat Chinukh: an inner lack that does not make the animal treif disqualifies it for an offering, from the commandment of 'tamim'."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 286:2:2",
+     "quote": "על פסק הר\"מ שפסק חסרון מבפנים שמי' חסרון",
+     "he": "המנחת חינוך דן בפסק הרמב״ם שחסרון מבפנים שמיה חסרון, והאם בגמרא זו בעיא.",
+     "en": "Minchat Chinukh discusses the Rambam's ruling that an inner lack counts as a lack, given that in the Gemara it is a question."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Things Forbidden on the Altar 2:11:2",
+     "quote": "אבל להלכה י\"ל דליכא כלל בריה באחת",
+     "he": "הר המוריה: להלכה אפשר לומר שאין כלל בריה באחת.",
+     "en": "Har HaMoriyah: as halakha one can say there is no creature with one at all."
+    },
+    {
+     "who": {
+      "he": "יכהן פאר",
+      "en": "Yekhahen Pe'er"
+     },
+     "ref": "Yekhahen Pe'er on Mishneh Torah, Things Forbidden on the Altar 2:11:1",
+     "quote": "דהר\"מ ז\"ל ס\"ל כרבי יוחנן שם",
+     "he": "יכהן פאר: הרמב״ם סבור כרבי יוחנן, שלכולי עלמא אין בריה באחת.",
+     "en": "Yekhahen Pe'er: the Rambam follows Rabbi Yochanan, that all agree no creature is made with one."
+    },
+    {
+     "who": {
+      "he": "תוספות רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Bekhorot 6:9:1",
+     "quote": "דיתר כנטול דמי והוי כחסר כוליא",
+     "he": "רבי עקיבא איגר: לכולי עלמא שלוש כליות פסולות, כי יתר כנטול והוי כחסר כליה.",
+     "en": "Rabbi Akiva Eiger: all agree three kidneys disqualify, as extra is like removed, like lacking a kidney."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 39a:5",
+     "quote": "מכאן ק\"ל על הרמב\"ם בספ\"ח מהלכות שחיטה",
+     "he": "הרש״ש מקשה מכאן על הרמב״ם בסוף פרק ח׳ מהלכות שחיטה.",
+     "en": "Rashash raises from here a difficulty on the Rambam at the end of chapter 8 of Hilkhot Shechitah."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    23,
+    5
+   ],
+   "he": {
+    "title": "רבי יוחנן: חסר לפני שחיטה, לפני קבלה או לפני זריקה; שעות פוסלות בקדשים",
+    "gemara": "רבי יוחנן: חסרה קודם שחיטה פסולה, לאחר שחיטה כשרה. מקשים מרבי זירא בשם רב: הצורם אוזן הפר ואחר כך קיבל דמו – פסול. מתרצים: חסרה קודם קבלה או לאחריה. ולאחר קבלה לפני זריקה? ״שה תמים זכר בן שנה יהיה לכם״ – ״יהיה״, שיהיו כל הויותיו תם ובן שנה; מתרצים ״אבן שנה״, ורבי יהושע: נשתייר כזית – זורק. רבא: שעות פוסלות בקדשים.",
+    "halakha": "הרמב״ם: חסרה אחר השחיטה לפני קבלה – נפסלה; אחר קבלה, אם נשתייר כזית – זורק את הדם."
+   },
+   "en": {
+    "title": "Rabbi Yochanan: lacking before slaughter, receiving or throwing; hours disqualify in sacrifices",
+    "gemara": "Rabbi Yochanan: if it lacked before slaughter it is disqualified; after slaughter it is fine. The Gemara objects from Rabbi Zeira in Rav's name: one who cuts the ear of the bull and then receives the blood – disqualified. They answer: lacked before receiving or after. And after receiving and before throwing? 'A lamb unblemished, male, a year old shall be for you' – 'yihyeh', that all its stages be unblemished and a year old; they answer it refers to 'a year old', and Rabbi Yehoshua: if an olive-bulk remains, he throws. Rava: hours disqualify in sacrifices.",
+    "halakha": "The Rambam: if it lacked after slaughter and before receiving it is disqualified; after receiving, if an olive-bulk remains, he throws the blood."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39a:23:1",
+     "quote": "חסרה קודם שחיטה",
+     "he": "לדעת רבי יוחנן, מי שחסרה קודם שחיטה – פסלה.",
+     "en": "If it lacked before slaughter – that disqualifies it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:1:2",
+     "quote": "בשעת קבלת הדם היה שלם",
+     "he": "״שהיה כבר״ – בשעת קבלת הדם הוא היה שלם.",
+     "en": "'That it already was' – at the time of receiving the blood it was whole."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:4:5",
+     "quote": "אם אין בשר אין דם",
+     "he": "אם לא נשתייר כלום – אינו זורק, שנאמר ״הבשר והדם״; אם אין בשר אין דם.",
+     "en": "If nothing remains he does not throw, as the verse says 'the flesh and the blood'; no flesh, no blood."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:5:1",
+     "quote": "דשעה תשיעית פוסלת בו והוי כנכנס בשנה שניה",
+     "he": "״שעות פוסלות״ – אם נולד בי״ד בניסן בשמונה שעות, ישחוט לפני השעה התשיעית, כי היא פוסלת והוא כנכנס בשנה שנייה.",
+     "en": "'Hours disqualify' – a lamb born on the 14th of Nisan in the eighth hour must be slaughtered before the ninth hour, which disqualifies it as entering the second year."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39a:25",
+     "quote": "חסרה קודם שחיטה אסירה לאחר שחיטה שריא",
+     "he": "אם חסרה קודם שחיטה – אסורה; לאחר שחיטה – מותרת.",
+     "en": "If it lacked before slaughter it is forbidden; after slaughter it is permitted."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:2",
+     "quote": "דלכל הוויותיו בעינן שיהא בן שנה אבל תמים לא בעינן דליהוי אלא עד שעת קבלה",
+     "he": "לכל הוויותיו צריך שיהיה בן שנה, אך תמים צריך רק עד שעת הקבלה.",
+     "en": "For all its stages it must be a year old, but unblemished is needed only until the time of receiving."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:4",
+     "quote": "שהה שעה או שתים בשנה האחרת הוי פסול",
+     "he": "״שעות פוסלות בקדש״ – אם בין שחיטה לזריקה שהה שעה או שתיים בשנה האחרת, הוא פסול.",
+     "en": "If between slaughter and throwing it lingered an hour or two into the next year, it is disqualified."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrifices Rendered Unfit 1:29",
+     "quote": "בְּהֵמָה שֶׁחָסַר מֵאֵיבָרֶיהָ כָּל שֶׁהוּא אַחַר שְׁחִיטָה קֹדֶם קַבָּלַת הַדָּם נִפְסְלָה",
+     "he": "בהמה שחסר ממנה כל שהוא אחר השחיטה ולפני קבלת הדם – נפסלה.",
+     "en": "An animal that lacks anything after slaughter and before receiving the blood is disqualified."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrifices Rendered Unfit 1:30",
+     "quote": "אִם נִשְׁתַּיֵּר כְּזַיִת מִן הַבָּשָׂר אוֹ כְּזַיִת מִן הָאֵימוּרִין זוֹרֵק אֶת הַדָּם",
+     "he": "אם חסרה אחר הקבלה וקודם הזריקה, ונשתייר כזית מן הבשר או האימורים – זורק את הדם.",
+     "en": "If it lacked after receiving and before throwing, and an olive-bulk of flesh or fats remains, he throws the blood."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39b:1:1",
+     "quote": "גרסי' דתניא הצורם",
+     "he": "התוספות מציינים שבפרק שני דזבחים גרסינן את הברייתא ״הצורם״.",
+     "en": "Tosafot note that in the second chapter of Zevachim the baraita 'the one who cuts the ear' is found."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Sacrificial Procedure 1:13:1",
+     "quote": "אסור לזרוק דמו בעשירית שכבר עברה שנתו",
+     "he": "הכסף משנה מביא את רש״י: שנולד בי״ד בניסן בתשע שעות ושחטו לשנה הבאה באותה שעה – אסור לזרוק דמו בעשירית, שכבר עברה שנתו.",
+     "en": "Kessef Mishneh, citing Rashi: if born on the 14th of Nisan at the ninth hour and slaughtered the next year at that hour, one may not throw its blood at the tenth, as its year has passed."
+    },
+    {
+     "who": {
+      "he": "אור החיים",
+      "en": "Or HaChaim"
+     },
+     "ref": "Or HaChaim on Leviticus 6:2:5",
+     "quote": "כי מונין שעות לקדשים",
+     "he": "האור החיים: מונים שעות לקדשים, כמו שאמרו בפרק שני דזבחים ובפרק ״על אלו מומין״.",
+     "en": "Or HaChaim: hours are counted for consecrated animals, as said in the second chapter of Zevachim and in this chapter."
+    },
+    {
+     "who": {
+      "he": "הרחב דבר",
+      "en": "Harchev Davar"
+     },
+     "ref": "Harchev Davar on Exodus 12:5",
+     "quote": "ותניא בבכורות דל\"ט שיהא תמים בן שנה בקבלה והולכה וזריקה",
+     "he": "הרחב דבר מצטט: ״ותניא בבכורות דל״ט שיהא תמים בן שנה בקבלה והולכה וזריקה״.",
+     "en": "Harchev Davar cites: 'It was taught in Bekhorot 39 that it must be unblemished and a year old in receiving, carrying and throwing.'"
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Exodus 12:5:4",
+     "quote": "שיהיה תמים בשעת זריקה",
+     "he": "המלבי״ם מסביר שרבי יאשיה לומד מ״יהיה לכם״ שיהיה תמים בשעת זריקה, ומציין לבכורות ל״ט.",
+     "en": "Malbim explains that Rabbi Yoshiyah learns from 'yihyeh lakhem' that it be unblemished at the time of throwing, citing Bekhorot 39."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 173:1",
+     "quote": "אבל אחר קבלת הדם, אף שמסיר כוליא אחת",
+     "he": "המלבי״ם: אחר קבלת הדם, אף שמסיר כליה אחת – די; רק קודם הקבלה צריך תמים.",
+     "en": "Malbim: after receiving the blood it suffices even if he removes only one kidney; the animal must be unblemished only before receiving."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    11
+   ],
+   "he": {
+    "title": "מעוך וכתות ונתוק וכרות: האם חסרון מבפנים או מומין שבגלוי",
+    "gemara": "לימא כתנאי: רבי יהודה – כולן בביצים; רבי אליעזר בן יעקב – כולן בגיד; רבי יוסי – מעוך וכתות אף בביצים, נתוק וכרות בגיד. מציעים שנחלקו בחסרון מבפנים, ודוחים: רבי יוסי לא מובן. אלא נחלקו במומין שבגלוי: מעוך וכתות מתכווצים, נתוק וכרות תלויים.",
+    "halakha": "הכסף משנה: הרמב״ם פסק כרבי יהודה שהוא מום גם בביצים."
+   },
+   "en": {
+    "title": "Crushed, bruised, torn and cut: an inner lack or visible blemishes",
+    "gemara": "Shall we say it is a dispute of tannaim: Rabbi Yehuda – all apply to the testicles; Rabbi Eliezer ben Yaakov – all only to the organ; Rabbi Yosei – crushed and bruised also in the testicles, torn and cut only in the organ. They suggest it is about an inner lack, then reject it since Rabbi Yosei makes no sense. Rather they dispute visible blemishes: crushed and bruised testicles contract, torn and cut hang.",
+    "halakha": "Kessef Mishneh: the Rambam ruled like Rabbi Yehuda, that it is a blemish in the testicles too."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:7:1",
+     "quote": "אי בגיד נינהו מי לא הוי מום",
+     "he": "״בביצים ולא בגיד״ – בתמיהה: אם הם בגיד, וכי לא יהיה מום?",
+     "en": "'In the testicles and not the organ?' – asked in astonishment: if they are in the organ, would it not be a blemish?"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:7:2",
+     "quote": "שכתתו באבנים עד שנימוח",
+     "he": "״כתות״ – שכתתו באבנים עד שנימוח.",
+     "en": "'Kasut' – crushed with stones until it dissolved."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:7:4",
+     "quote": "בסכין ועדיין תלויין בכיס ומעורין קצת",
+     "he": "״כרות״ – בסכין, ועדיין תלויים בכיס ומעורים קצת.",
+     "en": "'Karut' – with a knife, and still hanging in the sac, partly connected."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:10:1",
+     "quote": "מאן דפסיל בביצים לאו משום חסרון אלא משום מום",
+     "he": "לפי המסקנה לכולי עלמא חסרון מבפנים שמיה חסרון, ומי שפוסל בביצים – לא משום חסרון אלא משום מום.",
+     "en": "By the conclusion all hold an inner lack counts as a lack; whoever disqualifies in the testicles does so because of a blemish, not a lack."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:10:2",
+     "quote": "תולות ונחבטות בכיס ונראין מבחוץ שאין אדוקות למעלה",
+     "he": "״דתליין״ – תלויות ונחבטות בכיס ונראות מבחוץ שאינן אחוזות למעלה.",
+     "en": "'Hanging' – they dangle and bump in the sac and are seen from outside not to be attached above."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:7:6",
+     "quote": "רבי יהודה סבר חסרון מבפנים שמיה חסרון",
+     "he": "בשלב ההצעה לפי רש״י רבי יהודה סבר חסרון מבפנים שמיה חסרון.",
+     "en": "At the stage of the proposal, according to Rashi, Rabbi Yehuda holds an inner lack counts as a lack."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:8",
+     "quote": "הוי מומא שבגלוי דהא כווצן בתר הכי",
+     "he": "לרבי יהודה ״מעוך וכתות״ בביצים הוא מום שבגלוי, כי נתכווצו אחר כך.",
+     "en": "For Rabbi Yehuda, crushed testicles are a visible blemish, since they contracted afterwards."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:10",
+     "quote": "זימנין דכווצן הכיס שהביצים עולים למעלה בבטן",
+     "he": "לרבי אליעזר בן יעקב אין זה מום בגלוי, שגם בתמימה לפעמים הביצים עולות למעלה והכיס מתכווץ.",
+     "en": "For Rabbi Eliezer ben Yaakov it is not a visible blemish, since even in a sound animal the testicles sometimes rise and the sac contracts."
+    },
+    {
+     "who": {
+      "he": "תוספות רי״ד",
+      "en": "Tosafot Rid"
+     },
+     "ref": "Tosafot Rid on Kiddushin 25a:1",
+     "quote": "אי חשיבי הני ביצים מומין שבגלוי אי לא",
+     "he": "התוספות רי״ד: התנאים נחלקים אם בביצים אלה נחשבים מומים שבגלוי או לא.",
+     "en": "Tosafot Rid: the tannaim dispute whether these count in the testicles as visible blemishes or not."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 56b:3:1",
+     "quote": "נתוק וכרות לא הוו מומין פירוש משום דאיתנהו בכיס",
+     "he": "התוספות במנחות מביאים שבבכורות אמרו שנתוק וכרות אינם מומים, כי הם עדיין בכיס.",
+     "en": "Tosafot in Menachot note that in Bekhorot it said netuk and karut are not blemishes, since they are still in the sac."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39b:7:1",
+     "quote": "וגבי מום הוא דלא חשיב מום שבגלוי",
+     "he": "בנוגע לפסוק ״בארצכם לא תעשו״ האיסור חל גם בביצים; רק לגבי מום אינו נחשב מום שבגלוי.",
+     "en": "The verse 'in your land do not do' applies even to the testicles; only regarding blemish is it not a visible blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shabbat 111a:1:1",
+     "quote": "קשה לר\"י דבפרק על אלו מומין",
+     "he": "התוספות בשבת מביאים קושיית ר״י מהסוגיה כאן, שנתוק וכרות אינם מום בגלוי.",
+     "en": "Tosafot in Shabbat bring a difficulty of Rabbeinu Yitzchak from our sugya, where netuk and karut are not a visible blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:8:1",
+     "quote": "ופסק רבינו דלא כרבי אליעזר בן יעקב",
+     "he": "הכסף משנה: הרמב״ם פסק שלא כרבי אליעזר בן יעקב, כי רבי יהודה ורבי יוסי חולקים עליו.",
+     "en": "Kessef Mishneh: the Rambam ruled against Rabbi Eliezer ben Yaakov, since Rabbi Yehuda and Rabbi Yosei dispute him."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Even HaEzer 5:23",
+     "quote": "אזיל לשיטתו שפ' כר' יהודא בבכורות ל\"ט ב'",
+     "he": "הגר״א: הרמב״ם הולך לשיטתו שפסק כרבי יהודה בבכורות ל״ט ב׳.",
+     "en": "The Gra: the Rambam follows his own view in ruling like Rabbi Yehuda in Bekhorot 39b."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Emor 120:1",
+     "quote": "דלר' יהודה הוה מום שבגלוי גם בביצים וכל שכן בגיד",
+     "he": "המלבי״ם: לרבי יהודה זה מום שבגלוי גם בביצים וכל שכן בגיד.",
+     "en": "Malbim: for Rabbi Yehuda it is a visible blemish even in the testicles, and all the more in the organ."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Slaves 5:4:1",
+     "quote": "דבביצים הוי מום דמינכר דכווצי או תליין",
+     "he": "האור שמח: בביצים זה מום משום שניכר שהם מכווצים או תלויים.",
+     "en": "Ohr Sameach: in the testicles it is a blemish since it is noticeable that they are contracted or hanging."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 105:2:1",
+     "quote": "ורש\"י ג\"כ פי' בבכורות כפירוש התו'",
+     "he": "העמק שאלה: רש״י בבכורות פירש כפירוש התוספות.",
+     "en": "Haamek Sheilah: Rashi in Bekhorot explains like Tosafot."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 39b:2",
+     "quote": "לפי הגהת הצ\"ק בדבריו לעיל",
+     "he": "הרש״ש דן בגירסת רש״י לפי הגהת הצ״ק בדבריו לעיל.",
+     "en": "Rashash discusses Rashi's text according to the emendation of the Tzelach in his earlier words."
+    },
+    {
+     "who": {
+      "he": "מעשי למלך",
+      "en": "Ma'asai LaMelekh"
+     },
+     "ref": "Ma'asai LaMelekh on Mishneh Torah, Admission into the Sanctuary 6:7:1",
+     "quote": "בבכורות דף ל\"ט בעי חסרון בפנים אי הוה חסרון",
+     "he": "המעשי למלך: בבכורות ל״ט שאלו אם חסרון בפנים הוא חסרון, ומקשה על הרמב״ם.",
+     "en": "Ma'asai LaMelekh: in Bekhorot 39 they asked whether an inner lack is a lack, and he raises a difficulty on the Rambam."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    13
+   ],
+   "he": {
+    "title": "הזובן, העריה והזנב: נפגם לעומת ניטל",
+    "gemara": "המשנה: נפגם הזובן, העריה של נקבה במוקדשין, הזנב מן העצם ולא מן הפרק, או שראש הזנב מפציל, או בשר מחוליא לחוליא מלא אצבע. רבי אלעזר: נפגם ולא ניטל, כיס ולא זכרות; רבי יוסי בן המשולם: מעשה בענבל שנטלו זאב וחזר לאיתנו."
+   },
+   "en": {
+    "title": "The zovan, the genitals and the tail: nicked versus removed",
+    "gemara": "The mishnah: a nicked zovan, the genitals of a female among consecrated animals, the tail from the bone and not from the joint, or a tail whose end splits, or flesh a finger's width between vertebrae. Rabbi Elazar: nicked but not removed, the sac but not the organ; Rabbi Yosei ben HaMeshulam: an Inbal was removed by a wolf and returned to its state."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:12:1",
+     "quote": "זהו נרתוק שהכיס חבוי בו",
+     "he": "״הזובן״ – זהו נרתוק שהכיס חבוי בו.",
+     "en": "'Zovan' – the sheath in which the sac is hidden."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:12:2",
+     "quote": "בשלמים דאיכא נקבה נפגמה העריה הוי מום",
+     "he": "בשאר קדשים (כגון שלמים) שיש בהם נקבה – נפגמה העריה הוי מום; בבכור אין נקבה.",
+     "en": "In other consecrated animals (like shelamim), which can be female, a nicked 'erya' is a blemish; there is no female bechor."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:12:3",
+     "quote": "אם נפגם בין הפרקים מעלה ארוכה",
+     "he": "״מן הפרק״ – אם נפגם בין הפרקים, מעלה ארוכה.",
+     "en": "'From the joint' – if nicked between the joints, it heals."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:12:4",
+     "quote": "נקלף העור ובשר ונשאר העצם מגולה",
+     "he": "״מפציל את העצם״ – נקלף העור והבשר ונשאר העצם מגולה, ואין מעלה ארוכה.",
+     "en": "'Splits the bone' – the skin and flesh were peeled and the bone left bare; it does not heal."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:13:3",
+     "quote": "אבל זכרות גיד עצמו שנפגם לא מום הוא דמעלה ארוכה",
+     "he": "אם נפגם הכיס זה מום, אך הגיד עצמו שנפגם אינו מום, כי מעלה ארוכה.",
+     "en": "If the sac is nicked it is a blemish; but if the organ itself is nicked it is not, since it heals."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:13:2",
+     "quote": "דניטל לא הוי מום דחוזר לאיתנו",
+     "he": "״ולא ניטל״ – אם ניטל לא הוי מום, כי חוזר לאיתנו.",
+     "en": "'But not removed' – if removed it is not a blemish, since it returns to its former state."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:14",
+     "quote": "משום דנקבה בבכור ליכא",
+     "he": "נקט נקבה במוקדשין משום שבבכור אין נקבה.",
+     "en": "The mishnah mentions a female among consecrated animals because there is no female bechor."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:15",
+     "quote": "מן העצם הוי מום דלא הדר בריא",
+     "he": "פגימה מן העצם היא מום כי אינה חוזרת ונרפאת, אך לא מן הפרק.",
+     "en": "A nick from the bone is a blemish since it does not heal, but not from the joint."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:18",
+     "quote": "נפגם הזובן הוי מום ולא ניטל דחוזר וגדל",
+     "he": "נפגם הזובן הוא מום, ולא ניטל, כי חוזר וגדל.",
+     "en": "A nicked zovan is a blemish, not a removed one, which grows back."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:4",
+     "quote": "אִם נִפְגַּם הַזָּנָב מִן הָעֶצֶם אֲבָל לֹא מִן הַפֶּרֶק",
+     "he": "הרמב״ם מונה בין המומים: אם נפגם הזנב מן העצם אבל לא מן הפרק.",
+     "en": "The Rambam lists: if the tail is nicked from the bone but not from the joint."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39b:12:1",
+     "quote": "ונראה לפרש שמפצל את העצם לשנים",
+     "he": "התוספות חולקים על רש״י, שלדעתם ״מפצל את העצם״ פירושו שמתפצל לשניים, כמו קרנים מפוצלות.",
+     "en": "Tosafot differ with Rashi: 'splits the bone' means it splits into two, like branching horns."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 2:4:3",
+     "quote": "ולא ידעתי למה קיצר רבינו מלהזכיר זה",
+     "he": "הכסף משנה: איני יודע למה קיצר הרמב״ם ולא הזכיר את ההבחנה בין כיס לזכרות.",
+     "en": "Kessef Mishneh: I do not know why the Rambam was brief and omitted this distinction between sac and organ."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:23:1",
+     "quote": "פירוש דמתפצל העצם לשני עצמות",
+     "he": "הב״ח: ״מפציל עצם״ – שהעצם מתפצל לשני עצמות, וכך פירשו הרא״ש והרמב״ם, שלא כרש״י.",
+     "en": "Bach: 'splits the bone' means the bone divides into two bones, as the Rosh and Rambam explain, unlike Rashi."
+    },
+    {
+     "who": {
+      "he": "שד״ל",
+      "en": "Shadal"
+     },
+     "ref": "Shadal on Genesis 30:37:1",
+     "quote": "אין ענינו קילוף אלא פירוד",
+     "he": "שד״ל: השורש פצל בלשון חכמים אין עניינו קילוף אלא פירוד והסתעפות, ומציין לבכורות ל״ט.",
+     "en": "Shadal: the root 'pitzel' in the sages' language means separating and branching, not peeling, and he refers to Bekhorot 39."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 39b:1",
+     "quote": "ענבל נראה שהוא שם מקום",
+     "he": "היעב״ץ: ״ענבל״ נראה שהוא שם מקום, אך יותר נראה שצריך לגרוס ״באחד״.",
+     "en": "Ya'avetz: 'Inbal' seems to be a place name, but more likely the text should read 'be'echad' (a certain)."
+    },
+    {
+     "who": {
+      "he": "חדושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 39b:2",
+     "quote": "מפצל כמו אשר פצל כצ\"ל",
+     "he": "בחידושי הלכות מתקן את לשון רש״י: ״מפצל כמו אשר פצל״.",
+     "en": "Chidushei Halachot corrects Rashi's wording: 'mefatzel like asher pitzel'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    16
+   ],
+   "he": {
+    "title": "״אצבע שאמרו״: אחד מארבעה בטפח, וציצית",
+    "gemara": "תנא: אצבע שאמרו – אחד מארבעה בטפח של כל אדם. למאי הלכתא? רבה: לעניין תכלת – כמה חוטין, ביה״ש ארבעה וב״ה שלושה, וכמה משולשת. ורב הונא בריה דרב יהושע: לשתי אמות, דתנן ״שתי אמות היו…״.",
+    "halakha": "השולחן ערוך: מנין חוטי הציצית בכל כנף ארבעה כפולים שהם שמונה."
+   },
+   "en": {
+    "title": "'The finger they spoke of': one fourth of a handbreadth, and tzitzit",
+    "gemara": "A tanna taught: the finger they spoke of is one fourth of a handbreadth of an average person. For what law? Rabbah: regarding tekhelet – how many threads, Beit Shammai four and Beit Hillel three, and how much 'meshulashet'. Rav Huna son of Rav Yehoshua: for two amot, as we learned 'there were two amot…'.",
+    "halakha": "Shulchan Arukh: the number of tzitzit threads on each corner is four doubled, which is eight."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:14:2",
+     "quote": "של כל אדם בעינן והיינו גודל",
+     "he": "״אחד מארבעה בטפח״ – כשחכמים הזכירו אצבע, הכוונה לאחת מארבע בטפח של כל אדם, והיא הגודל.",
+     "en": "When the sages mention a finger, it is one fourth of a handbreadth of an average person, the thumb."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:15:1",
+     "quote": "תלויה למטה מכנף הבגד",
+     "he": "״משולשת״ – תלויה למטה מכנף הבגד.",
+     "en": "'Meshuleshet' – hanging below the edge of the garment."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 39b:15:2",
+     "quote": "כמה יהא בה מגדיל לבד מענף שאינו גדיל",
+     "he": "לשון אחר: ״משולשת״ – כמה יהיה בה מגדיל, לבד מהענף שאינו גדיל.",
+     "en": "Another explanation: how much of it is gdil (twisted), apart from the anaf, which is not gdil."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:20",
+     "quote": "כדאמרי ארבע בגודל",
+     "he": "״אחד מארבע בטפח של כל אדם״ – כמו שאומרים ארבע בגודל.",
+     "en": "'One fourth of a handbreadth of any person' – as we say, four thumbs."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 39b:21",
+     "quote": "כמה ארך יהא הגדיל",
+     "he": "״וכמה תהא משולשת״ – כלומר כמה יהיה ארך הגדיל.",
+     "en": "'How much meshulashet' – that is, how long the gdil should be."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39b:14:1",
+     "quote": "צריך לדקדק אם ד' בין הכל או ארבע ללבן וד' לתכלת",
+     "he": "התוספות: צריך לדקדק אם הארבעה של בית שמאי הם בין הכל או ארבעה ללבן וארבעה לתכלת.",
+     "en": "Tosafot: one must be precise whether Beit Shammai's four are in all, or four for the white and four for the blue."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 39b:15:1",
+     "quote": "ונראה כלשון אחר שפירש בקונטרס",
+     "he": "התוספות מקשים על פירוש רש״י הראשון, וסוברים כלשון האחר שפירש רש״י.",
+     "en": "Tosafot challenge Rashi's first explanation and prefer the other wording Rashi gave."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 41b:13:1",
+     "quote": "ורבינו תם פירש דאגדיל קאי והענף שמנה הרי שנים עשר וכן אנו נוהגין",
+     "he": "התוספות במנחות: רבנו תם פירש שהארבע קאי על הגדיל והענף שמונה, הרי שנים עשר, וכן אנו נוהגים.",
+     "en": "Tosafot in Menachot: Rabbeinu Tam explains that the four refers to the gdil and the anaf is eight, making twelve, and so we practice."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Fringes 1:6",
+     "quote": "נִמְצְאוּ שְׁמוֹנָה חוּטִים מְשֻׁלָּשִׁין תְּלוּיִין מִן הַקֶּרֶן",
+     "he": "הרמב״ם: מכניסים ארבעה חוטים וכופלים, ונמצאו שמונה חוטים משולשין תלויים מן הקרן.",
+     "en": "The Rambam: four threads are inserted and doubled, giving eight threads, 'meshulashin', hanging from the corner."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:2:2",
+     "quote": "אחד מארבע בטפח של כל אדם והיינו בגודל",
+     "he": "הרא״ש: אצבע שאמרו – אחד מארבע בטפח של כל אדם, והיינו בגודל.",
+     "en": "The Rosh: the finger they spoke of is one fourth of a handbreadth of any person, namely in the thumb."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 11",
+     "quote": "ג' טפחים מד' אצבעות בגודל בכל טפח",
+     "he": "הטור: ארכן בכפלן שלושה טפחים, כל טפח מארבע אצבעות בגודל.",
+     "en": "The Tur: their length when doubled is three handbreadths, each of four thumb-breadths."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 91:1",
+     "quote": "ירחיק מן הקרן קשר גודל ארבע אצבעות גדול ושמנה ענף",
+     "he": "פסקי תוספות: ירחיק מן הקרן קשר גודל, וארבע אצבעות גדיל ושמונה ענף.",
+     "en": "Piskei Tosafot: he distances it from the corner a thumb's knot, four fingers of gdil and eight of anaf."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 11:12",
+     "quote": "מנין חוטי הציציות בכל כנף ארבעה כפולים שהם שמונה",
+     "he": "השולחן ערוך: מנין חוטי הציצית בכל כנף ארבעה כפולים, שהם שמונה.",
+     "en": "Shulchan Arukh: the number of tzitzit threads on each corner is four doubled, which is eight."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 324:6",
+     "quote": "ובבכורות ל\"ט ב' תנא אצבע כו'",
+     "he": "הגר״א מציין לבכורות ל״ט ב׳ שם נאמר ״תנא אצבע״ לעניין שיעור האצבעות.",
+     "en": "The Gra refers to Bekhorot 39b where 'it was taught: a finger' is said, regarding the measure of fingers."
+    },
+    {
+     "who": {
+      "he": "מעשי למלך",
+      "en": "Ma'asai LaMelekh"
+     },
+     "ref": "Ma'asai LaMelekh on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 8:4:1",
+     "quote": "ופירש\"י משולשת תלוי למטה מכנף הבגד",
+     "he": "המעשי למלך מציין את פירוש רש״י: משולשת – תלוי למטה מכנף הבגד.",
+     "en": "Ma'asai LaMelekh cites Rashi's explanation: meshulashet – hanging below the garment's edge."
+    }
+   ]
+  }
+ ]
+}
