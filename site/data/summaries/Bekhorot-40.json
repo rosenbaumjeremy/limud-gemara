@@ -1,0 +1,1546 @@
+{
+ "ref": "Bekhorot 40",
+ "date": "2026-10-28",
+ "he": {
+  "overview": "המשנה והגמרא בבכורות מ׳ מסיימות את מדידת האמה (שתי האמות בשושן הבירה) וממשיכות לפרק «על אלו מומין»: בעל ביצה אחת או שני כיסין (מחלוקת רבי ישמעאל ורבי עקיבא ומעשה בפרה של בית מנחם), בעל חמש או שלוש רגליים ופרסות קלוטות, שחול וכסול, שבר עצם ידו ורגלו ו״ניכר מחמת מלאכה״, מומי אילא (גלגל עין עגול, פיו כחזיר, רוב לשון), ובדף ב׳ הלחי והשפה, אוזן כפולה, חוליות הזנב, יבלת, עין ואוזן גדולה וקטנה, וזנב העגל והערקוב. הראשונים והאחרונים דנים בפסק בין רבי עקיבא לת״ק, בהבדל בין מום לטריפה ביתר ברגל, בהבנת «שפיד ופריס» ו«אוכמא וציריא», ובגרסאות רש״י.",
+  "title": "סיכום — בכורות מ׳"
+ },
+ "en": {
+  "overview": "Bekhorot 40 finishes the measure of the cubit (the two cubits in Shushan) and continues the chapter «Al Elu Mumin»: a firstling lacking one testicle or with two sacs (R. Yishmael against R. Akiva, and the incident of the cow of Beit Menachem), five or three legs and a solid hoof, shachul and kasul, a broken limb that shows only 'by its work', Ila's blemishes (a round eye, a pig-like mouth, most of the tongue), and on amud b the jaw and lip, a doubled ear, tail vertebrae, a wart, a large and a small eye or ear, and the calf's tail and the arkov. The Rishonim and Acharonim discuss how to rule between R. Akiva and the first Tanna, the difference between a blemish and a treifa in an extra leg, the meaning of 'shafid u-fares' and 'ukhma and tzirya', and the readings of Rashi.",
+  "title": "Summary — Bekhorot 40"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "שלא יבואו לידי מעילה"
+   ],
+   "he": {
+    "term": "מעילה בבדק הבית",
+    "explanation": "מעילה היא הנאה מן ההקדש. כשפוסקים עם האומנים מלאכה לבדק הבית, מחזירים להם במדה גדולה מעט כדי שלא יפחתו וייהנו מן ההקדש."
+   },
+   "en": {
+    "term": "Me'ilah: benefit from hekdesh (building the Temple)",
+    "explanation": "Me'ilah is deriving benefit from hekdesh. When craftsmen are hired for Temple work, they are repaid in a slightly larger measure so that they are not shortchanged and so do not gain from hekdesh."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:2:2",
+    "quote": "שלא יהנו מן ההקדש"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "שני כיסין"
+   ],
+   "he": {
+    "term": "שני כיסין",
+    "explanation": "לבהמה יש כיס לכל ביצה, והכיס נראה חלוק באמצעו. לכן שני כיסין מראים בדרך כלל שיש שתי ביצים, ורבי ישמעאל נשען על כך."
+   },
+   "en": {
+    "term": "Shnei kisin (two sacs)",
+    "explanation": "An animal has a sac for each testicle, the scrotum showing a groove in the middle. Two sacs therefore ordinarily show two testicles, and R. Yishmael relies on this."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:5:2",
+    "quote": "לכל בהמה יש לה לכל ביצה כיס אחת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "והשחול והכסול"
+   ],
+   "he": {
+    "term": "שחול וכסול",
+    "explanation": "שחול הוא מי שנשמטה ירכו, וכסול הוא מי שאחת מירכותיו גבוהה מחברתה. רש״י מסביר שבכסול מקום הירך עלה על הגב יותר מחברתו."
+   },
+   "en": {
+    "term": "Shachul and kasul",
+    "explanation": "Shachul is one whose thigh-joint has slipped; kasul is one whose one thigh is higher than the other. Rashi explains that in a kasul the place of the hip-socket rises further up the back than its fellow."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:11:2",
+    "quote": "מקום בוקא דאטמא של ירך זו עלה למעלה על הגב יותר מחבירתה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 12,
+   "anchors": [
+    "דכל יתיר כנטול דמי"
+   ],
+   "he": {
+    "term": "כל יתר כנטול דמי",
+    "explanation": "עיקרון שעודף באבר נחשב כחסרון. ברגל, אם חסר או יתר, הדין חמור יותר: זו לא רק מום אלא גם טריפה, כי בהמה שנחתכו רגליה מן הארכובה ולמעלה טריפה."
+   },
+   "en": {
+    "term": "Kol yatir ke-natul dami",
+    "explanation": "An extra limb is treated like a missing one. In the leg, whether lacking or extra, the ruling is stricter than a blemish: it is a treifa too, because an animal whose legs were cut off from the joint upward is a treifa."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:12:3",
+    "quote": "בבהמה שנחתכו רגליה מן הארכובה ולמעלה טריפה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 17,
+   "anchors": [
+    "ניכר מחמת מלאכה"
+   ],
+   "he": {
+    "term": "ניכר מחמת מלאכה",
+    "explanation": "שבר בעצם שאינו נראה לעין אבל ניכר בהליכה נחשב מום, כי בבהמה ההליכה היא מלאכתה."
+   },
+   "en": {
+    "term": "Nikar mi-chamat melakhah",
+    "explanation": "A fracture not visible to the eye, but evident in the animal's gait, counts as a blemish, since walking is the animal's work."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:17:1",
+    "quote": "אבל ניכר הוא מחמת שצולע והילוך הרגל זו היא מלאכתו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 20,
+   "anchors": [
+    "הא באוכמא"
+   ],
+   "he": {
+    "term": "אוכמא וציריא",
+    "explanation": "רב יוסף מיישב שני דינים בגלגל עין עגול. רש״י: אוכמא הוא השחור של עין הבהמה, והוא אינו עגול כשל אדם. רבינו גרשום מפרש הפוך: אוכמא עגול כשל אדם והציריא (כל החריץ) אינו."
+   },
+   "en": {
+    "term": "Ukhma and tzirya",
+    "explanation": "Rav Yosef resolves two rulings on a round eye. Rashi: ukhma is the black of the animal's eye, and it is not round like a man's. Rabbeinu Gershom explains the reverse: the ukhma is round like a man's, and the tzirya (the whole socket) is not."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 40a:20:3",
+    "quote": "שחור של עין הבהמה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 21,
+   "anchors": [
+    "דשפיד ופריס"
+   ],
+   "he": {
+    "term": "שפיד ופריס",
+    "explanation": "תיאורי הפה של חזיר. הרא״ש: שפיד הוא חד כשפוד, ופריס הוא ששפתו העליונה פרוסה על התחתונה ועודפת עליה. רב פפא: אין צריך את שניהם, ודי בפריס."
+   },
+   "en": {
+    "term": "Shafid u-fares",
+    "explanation": "Descriptions of a pig's mouth. The Rosh: shafid is pointed like a skewer, and fares is that the upper lip is spread over the lower and extends past it. Rav Papa: both are not needed; fares alone is enough."
+   },
+   "source": {
+    "who": {
+     "he": "הרא״ש",
+     "en": "The Rosh"
+    },
+    "ref": "Rosh on Bekhorot 6:4:2",
+    "quote": "פריס ששפתו העליונה פרוסה על התחתונה ועודפת עליה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "שתי האמות בשושן הבירה",
+    "gemara": "המשנה (כלים יז) מונה שתי אמות בשושן הבירה, האחת יתרה על של משה חצי אצבע והשנייה חצי אצבע נוספת, כך שהיתרה היא אצבע. הגמרא: האומנים נוטלים בקטנה ומחזירים בגדולה כדי שלא יבואו לידי מעילה. ״תרתי למה לי״: אחת לכסף וזהב ואחת לבנין. רב נחמן בר יצחק ואמרי לה רב הונא בר נתן מפרשים את האצבע כשיעור הבשר בין חוליה לחוליה.",
+    "halakha": "|||"
+   },
+   "en": {
+    "title": "The two cubits in Shushan ha-Birah",
+    "gemara": "The Mishnah (Kelim 17) lists two cubits in Shushan ha-Birah, one longer than Moses' cubit by half a finger and the other half a finger more, so the longer exceeds Moses' by a finger. The Gemara: craftsmen take with the smaller and return with the larger, so that they do not come to me'ilah. 'Why two?' One for silver and gold and one for building. Rav Nachman bar Yitzchak (or Rav Huna bar Natan) takes the finger as the flesh between vertebra and vertebra.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:2:1",
+     "quote": "היו מתנין בשל משה והן עושין למדה הגדולה",
+     "he": "כשפוסקים עם האומנים מלאכה לבדק הבית פוסקים בשל משה, והם עושים במדה הגדולה.",
+     "en": "When the craftsmen are hired for Temple repairs the stipulation is by Moses' cubit, and they work in the larger measure."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:2:2",
+     "quote": "שלא יהנו מן ההקדש",
+     "he": "המחזירים במדה הגדולה כדי שלא יהנו מן ההקדש, כי אי אפשר לצמצם.",
+     "en": "They repay in the larger measure so that they will not benefit from hekdesh, since one cannot measure exactly."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:3:2",
+     "quote": "מתנין בשל משה ומחזירין לאותה שגדולה הימנה חצי אצבע",
+     "he": "לגבי כסף וזהב, מלאכת טורח, מתנים בשל משה ומחזירים בזו שגדולה ממנה חצי אצבע.",
+     "en": "For gold and silver, which is laborious work, they stipulate by Moses' cubit and return with the one half a finger larger."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:3:3",
+     "quote": "נוטלין בשל משה ומחזירין באותה שיתירה עליה אצבע",
+     "he": "בבנין החומה נוטלים בשל משה ומחזירים באמה שיתרה עליה אצבע.",
+     "en": "For the wall they take by Moses' cubit and return with the one a finger longer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:2",
+     "quote": "אצבע דיתירה על של משה",
+     "he": "רב הונא מפרש את האצבע של האמה היתרה על של משה, ארבע אצבעות בטפח של כל אדם.",
+     "en": "Rav Huna takes 'finger' to mean the finger by which the cubit exceeds Moses', four fingers to the handbreadth of ordinary people."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:3",
+     "quote": "ורב נחמן אמר לאצבע דמתניתין דבין חוליא לחוליא",
+     "he": "רב נחמן מפרש שהאצבע היא זו שבמשנה, בין חוליה לחוליה.",
+     "en": "Rav Nachman says it refers to the finger of the Mishnah, between vertebra and vertebra."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Trespass 8:5",
+     "quote": "באמה גדולה בת עשרים וארבע אצבעות כדי שלא יבואו לידי מעילה",
+     "he": "הרמב״ם פוסק שבמשיחת העבודה מחשבים להם באמה גדולה בת עשרים וארבע אצבעות כדי שלא יבואו לידי מעילה.",
+     "en": "The Rambam writes that when the work is measured, they are reckoned with a large cubit of twenty-four fingers so that they will not come to me'ilah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Trespass 8:5:1",
+     "quote": "חד לכספא ודהבא ויש לתמוה על רבינו שהשמיטו",
+     "he": "הכסף משנה מציין שהגמרא אמרה ״חד לכספא ודהבא״ ותמה על הרמב״ם שהשמיטו.",
+     "en": "The Kessef Mishneh notes that the Gemara said 'one for silver and gold' and is puzzled that the Rambam omitted it."
+    },
+    {
+     "who": {
+      "he": "יצחק ירנן",
+      "en": "Yitzchak Yeranen"
+     },
+     "ref": "Yitzchak Yeranen on Mishneh Torah, Trespass 8:5:1",
+     "quote": "ודברי רבינו הם תמוהים",
+     "he": "יצחק ירנן כותב שדברי הרמב״ם תמוהים לפי הש״ס הזה.",
+     "en": "Yitzchak Yeranen writes that the words of the Rambam are puzzling in light of this passage."
+    },
+    {
+     "who": {
+      "he": "יצחק ירנן",
+      "en": "Yitzchak Yeranen"
+     },
+     "ref": "Yitzchak Yeranen on Mishneh Torah, Trespass 8:5:1",
+     "quote": "ודע דאמה של משה המוזכר בכל ענין זה היינו בת כ\"ד אצבעות",
+     "he": "ויוצא ממנו שאמה של משה המוזכרת בכל העניין היא בת כ״ד אצבעות.",
+     "en": "He establishes that the cubit of Moses mentioned throughout this subject is one of twenty-four fingers."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:1",
+     "quote": "והן עושין למדה הגדולה למדת אמה אחת שהיתה בשה\"ב",
+     "he": "הרש״ש מגיה ברש״י שיש לגרוס: ״והן עושין למדה הגדולה למדת אמה אחת שהיתה בשה״ב״.",
+     "en": "The Rashash emends Rashi to read: 'and they make it in the larger measure, the measure of the one cubit that was in the Second Temple.'"
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 201:1:1",
+     "quote": "דשוחקת יתירה על העצבה חצי אצבע",
+     "he": "הבית יוסף מביא שהרשב״א למד מדף זה שאמה שוחקת יתרה על העצבה חצי אצבע.",
+     "en": "The Beit Yosef cites the Rashba, who learned from this passage that the 'pounded' cubit exceeds the ordinary one by half a finger."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "אין לו אלא ביצה אחת: רבי ישמעאל, רבי עקיבא ומעשה בפרה של בית מנחם",
+    "gemara": "המשנה: ״אין לו ביצים או אין לו אלא ביצה אחת״. רבי ישמעאל: שני כיסין – שתי ביצים, כיס אחד – ביצה אחת. רבי עקיבא: מושיבו וממעך, ואם יש ביצה בסוף תצא. ובמעשה שמיעך ולא יצאה, ונמצאה דבוקה בכסלים, התיר רבי עקיבא ואסר רבי יוחנן בן נורי. הגמרא: ״חסורי מחסרא״, והברייתא מביאה את מעשה הפרה של בית מנחם. ורבי עקיבא ורבי יוחנן בן נורי מתווכחים: ״עד מתי אתה מכלה ממונן של ישראל״ מול ״עד מתי אתה מאכיל ישראל נבילות … קדשים בחוץ״.",
+    "halakha": "הרמב״ם (פרק ג, בכורות): בבדק מומחה, אם מיעכו ולא יצאה ביצה שנייה והתירו ונמצאה דבוקה בכסלים – מותר הואיל ומיעכו; ואם לא נמעך – יקבר."
+   },
+   "en": {
+    "title": "One testicle: R. Yishmael, R. Akiva and the cow of Beit Menachem",
+    "gemara": "The Mishnah: 'he has no testicles, or only one.' R. Yishmael: two sacs, two testicles; one sac, one testicle. R. Akiva: sit him down and press, and if there is a testicle it will in the end come out. In the incident where he pressed and it did not come out, and when slaughtered it was found stuck to the loins, R. Akiva permitted and R. Yochanan ben Nuri forbade. The Gemara supplies the text ('chesorei mechsera') and the baraita gives the incident of the cow of Beit Menachem. R. Akiva and R. Yochanan ben Nuri argue: 'how long will you destroy Israel's property' against 'how long will you feed Israel nevelot … consecrated meat outside.'",
+    "halakha": "The Rambam (Firstlings 3:5): if an expert examined it, pressed it and the second testicle did not come out, he permitted it, and it was found stuck to the loins, it is permitted since it was pressed; if it was not pressed, it is buried."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:5:2",
+     "quote": "לכל בהמה יש לה לכל ביצה כיס אחת",
+     "he": "לכל ביצה כיס אחד, והכיס חלוק באמצעיתו ונראית בו שורה עמוקה.",
+     "en": "Each testicle has its own sac, the scrotum being divided in the middle with a deep line showing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:5:4",
+     "quote": "ואם אינה יוצאה הוי מום",
+     "he": "וממעך – ממשמש בכיס ובכסלים, ואם אינה יוצאה הרי זה מום.",
+     "en": "'Presses' means he feels the sac and the loins, and if it does not come out it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:5:6",
+     "quote": "דהוי מום הואיל ואינה במקומה",
+     "he": "רבי עקיבא התיר משום שזה מום, הואיל והביצה אינה במקומה.",
+     "en": "R. Akiva permitted because it is a blemish, since the testicle is not in its place."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:6:1",
+     "quote": "כי אין לו אלא כיס אחד כמי שאין לו אלא ביצה אחת וכמעוך דמי",
+     "he": "רבי ישמעאל חולק על הסיפא, ומודה בראשונה שכיס אחד הוא כמי שאין לו אלא ביצה אחת וכמעוך.",
+     "en": "R. Yishmael argues only with the second clause; on the first he concedes that one sac is like having one testicle, as if pressed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:10:1",
+     "quote": "שאין בו מום ובקדושתו הוא",
+     "he": "״קדשים בחוץ״ – הבכור שאין בו מום עדיין בקדושתו.",
+     "en": "'Consecrated meat outside' – a firstling without a blemish still has its sanctity."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:4",
+     "quote": "בידוע שיש לו ב' ביצים והאחת טמונה בבטן",
+     "he": "רבינו גרשום מסביר שגם כשיש שני כיסין, בידוע שיש שתי ביצים והאחת טמונה בבטן, ולכן בודקים.",
+     "en": "Rabbeinu Gershom explains that even with two sacs it is certain there are two testicles, one hidden in the belly, which is why it is examined."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:5",
+     "quote": "דכיון דנתמעך ולא יצא הוי מום ומותר לאוכלו",
+     "he": "רבי עקיבא התיר: כיון שנתמעך ולא יצא הוי מום ומותר לאוכלו.",
+     "en": "R. Akiva permitted: since it was pressed and did not come out, it is a blemish and may be eaten."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:8",
+     "quote": "דכיון שאתה אוסרן לאכול בחוץ אין לו תקנה אלא קבורה",
+     "he": "״אתה מכלה ממונו״ – כיון שאתה אוסר לאכול בחוץ אין לו תקנה אלא קבורה.",
+     "en": "'You destroy his property' – since you forbid eating it outside, it has no remedy but burial."
+    },
+    {
+     "who": {
+      "he": "הרא״ש (בשם הרמב״ן)",
+      "en": "The Rosh (citing the Ramban)"
+     },
+     "ref": "Rosh on Bekhorot 6:2:4",
+     "quote": "דהלכתא כת\"ק דאמר שני כיסין וביצה אחת הוי מום ולא בעי מיעוך",
+     "he": "הרא״ש מביא את הרמב״ן שההלכה כת״ק שאמר ששני כיסין וביצה אחת הוי מום ולא צריך מיעוך.",
+     "en": "The Rosh cites the Ramban that the halakha follows the first Tanna: two sacs and one testicle is a blemish and needs no pressing."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 40a:8:1",
+     "quote": "כתוב בפרה של בית מנחם",
+     "he": "תוספות מציינים שבתוספתא כתוב ״בפרה של בית מנחם״ ולא ״בפירן״ שם הכפר כפי שפירש רש״י.",
+     "en": "Tosafot note that the Tosefta has 'the cow of Beit Menachem' rather than 'Piran' as the name of a village, as Rashi explained."
+    },
+    {
+     "who": {
+      "he": "תוספות רי״ד",
+      "en": "Tosafot Rid"
+     },
+     "ref": "Tosafot Rid on Kiddushin 25a:1",
+     "quote": "שאם תלשן וחתכן אפי' בביצה אחת הוי מום כל שכן בשתים כדתנן בפ' על אלו מומין",
+     "he": "התוספות רי״ד מביא שאם תלש וחתך אפילו ביצה אחת הרי זה מום, וכל שכן בשתים, כפי ששנינו בפרק זה.",
+     "en": "Tosafot Rid writes that if he tore off and cut even one testicle it is a blemish, all the more so two, as we learned in this chapter."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:22:1",
+     "quote": "והרמב\"ן והרא\"ש ורבינו פסקו כת\"ק לקולא והרמב\"ם פסק לחומרא כר\"ע",
+     "he": "הב״ח: הרמב״ן, הרא״ש והטור פסקו כת״ק לקולא, והרמב״ם פסק לחומרא כרבי עקיבא.",
+     "en": "The Bach: the Ramban, the Rosh and the Tur ruled like the first Tanna, leniently, while the Rambam ruled strictly like R. Akiva."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 3:5:1",
+     "quote": "פלוגתא דתנאי ופסק כר״ע",
+     "he": "הכסף משנה: זו מחלוקת תנאים, והרמב״ם פסק כרבי עקיבא.",
+     "en": "The Kessef Mishneh: this is a dispute of Tannaim, and the Rambam ruled like R. Akiva."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:3",
+     "quote": "ותמוה דהרי ת\"ק אמר דה\"ז מום ולרי\"ש לא הוה מום",
+     "he": "הרש״ש מקשה על התוספות יום טוב שלפי הרמב״ם רבי ישמעאל ורבי עקיבא חולקים על ת״ק, והרי ת״ק אמר שזה מום ולרבי ישמעאל לא.",
+     "en": "The Rashash objects to the Tosafot Yom Tov's account of the Rambam's ruling, since the first Tanna called it a blemish and R. Yishmael did not."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Even HaEzer 1:131:27",
+     "quote": "אפשר שהם למעלה סגורים בבטן ולא יצאו לחוץ לתוך הכיס",
+     "he": "החתם סופר מעיד שהמומחים אמרו לו שייתכן שהביצים סגורות למעלה בבטן ולא יצאו אל הכיס, ושאפשר להוליד כך, ודבריהם צריכים עיון בש״ס בכורות מ׳.",
+     "en": "The Chatam Sofer reports that experts told him the testicles may be shut up in the belly and not have descended into the sac, and that one can still father children so, and their words need study in this passage of Bekhorot 40."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    14
+   ],
+   "he": {
+    "title": "בעל חמש רגלים, קלוט, שחול וכסול",
+    "gemara": "המשנה: בעל חמש רגלים או שלוש, ורגליו קלוטות כשל חמור, והשחול והכסול. רב הונא: דווקא חסר ויתר ביד, אבל ברגל – טריפה, ״דכל יתר כנטול דמי״. רב פפא: די שהפרסה עגולה אף אם סדוקה. הברייתא: שחול – נשמטה ירכו; כסול – רגל אחת בתוך הכסל ורגל אחת על גבי הכסל; שרוע – נשתרבבה ירכו; קלוט – כשל חמור וסוס.",
+    "halakha": "בבעל חמש או שלוש רגליים שולחן ערוך (יו״ד נה:ד) פוסק: אם יש לה ג׳ רגלים טריפה, והרמ״א מוסיף שהיתרת צריכה תואר רגל ועמידה במקום הרגלים."
+   },
+   "en": {
+    "title": "Five or three legs, solid hoof, shachul and kasul",
+    "gemara": "The Mishnah: five legs or three, hooves solid like a donkey's, the shachul and the kasul. Rav Huna: only a lack or excess in the foreleg; in the hind leg it is a treifa, since an extra is as a missing one. Rav Papa: it suffices that the hoof is round even if split. The baraita: shachul – hip slipped; kasul – one leg in the kesel and one on top of it; saru'a – hip stretched; kalut – like a donkey or horse.",
+    "halakha": "On an animal with an extra or a missing leg, the Shulchan Arukh (YD 55:4) rules that three legs is a treifa; the Rema adds that the extra limb must have the form of a leg and stand in the place of the legs."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:11:1",
+     "quote": "דאי איעכל ניביה טריפה נמי הוי",
+     "he": "״שנשמטה יריכו״ מדובר כשלא נאכל ניביה, שאם נאכל הניב טריפה היא.",
+     "en": "'His hip slipped' speaks of when the socket was not worn away; if it was worn away it is also a treifa."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 40a:11:1",
+     "quote": "אלא יש לפרש דנשמטה כן מתחלת ברייתה",
+     "he": "תוספות מקשים על רש״י, ומעדיפים לפרש שנשמטה כך מתחילת ברייתה.",
+     "en": "Tosafot object to Rashi and prefer to explain that it slipped so from the beginning of its creation."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:12:2",
+     "quote": "ביד שיש לו לבעל ה' רגלים ג' ידים וב' רגלים",
+     "he": "רש״י: הדין של רב הונא בחסר או יתר ביד, שיש לבעל חמש רגליים שלוש ידיים ושתי רגליים.",
+     "en": "Rashi: Rav Huna's law about lack or excess applies to a foreleg, so that the animal with five has three forelegs and two hind legs."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:12:3",
+     "quote": "בבהמה שנחתכו רגליה מן הארכובה ולמעלה טריפה",
+     "he": "רש״י: וקיימא לן שבהמה שנחתכו רגליה מן הארכובה ולמעלה טריפה.",
+     "en": "Rashi: we hold that an animal whose legs were cut off from the joint upward is a treifa."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:13:2",
+     "quote": "כיון דעגילין כשל חמור הוי מום דפרסות בהמה טהורה אינן עגולות",
+     "he": "פרסות עגולות כשל חמור הן מום, כי פרסות בהמה טהורה אינן עגולות.",
+     "en": "Round hooves like a donkey's are a blemish, since the hooves of a clean animal are not round."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:14:3",
+     "quote": "שאחת מיריכותיו גדולה מחבירתה",
+     "he": "״שנשתרבבה יריכו״ – אחת מיריכותיו גדולה מחברתה.",
+     "en": "'His hip stretched' – one of his hips is larger than the other."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:10",
+     "quote": "דכל יתיר כנטול דמי ותנן בהמה שנחתכו רגליה מן הארכובה ולמעלה טרפה",
+     "he": "כל יתר כנטול דמי, ושנינו שבהמה שנחתכו רגליה מן הארכובה ולמעלה טרפה.",
+     "en": "An extra is like a missing one, and we learned that an animal whose legs were cut from the joint upward is a treifa."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:11",
+     "quote": "שרגלו אחת נכנסת בתוך הכסלים ורגלו אחת על גבי הכסל",
+     "he": "כסול הוא שרגל אחת נכנסת בתוך הכסלים ורגל אחת על גבי הכסל.",
+     "en": "A kasul has one leg set within the loins and one on top of the loin."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:12",
+     "quote": "שנשתרבבה ירכו שארוכה מחברתה",
+     "he": "שנשתרבבה ירכו – שארוכה מחברתה.",
+     "en": "'Whose hip stretched' – that it is longer than its fellow."
+    },
+    {
+     "who": {
+      "he": "הרי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Chullin 30b:2",
+     "quote": "ולפיכך נקרא מי שרגלו גבוהה מחברתה כסול",
+     "he": "הרי״ף: ולפיכך נקרא מי שרגלו גבוהה מחברתה ״כסול״.",
+     "en": "The Rif: that is why one whose leg is higher than its fellow is called 'kasul'."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:3:2",
+     "quote": "אבל ברגל טריפה נמי הוי מ\"ט כל יתר כנטול דמי",
+     "he": "הרא״ש מעתיק את דברי רב הונא: ברגל גם טריפה, מפני שכל יתר כנטול דמי.",
+     "en": "The Rosh reproduces Rav Huna's words: in the leg it is also a treifa, because an extra is as a missing one."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 433:1",
+     "quote": "יתר אחד כחסר אחד והוי כבעל רגל אחד",
+     "he": "האור זרוע: יתר אחד כחסר אחד והוא כבעל רגל אחת.",
+     "en": "The Ohr Zarua: one extra is like one missing, and it is as having one leg."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 2:5",
+     "quote": "אם היתה ידו או רגלו קלוטה כשל חמור",
+     "he": "הרמב״ם: אם היתה ידו או רגלו קלוטה כשל חמור הרי זה ״קלוט״ האמור בתורה.",
+     "en": "The Rambam: if a foreleg or hind leg is solid like a donkey's, this is the 'kalut' mentioned in the Torah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 74a:15:1",
+     "quote": "אבל ברגל אפילו טרפה נמי הוי דכל יתר כנטול דמי",
+     "he": "רש״י בחולין מביא את דברי הגמרא כאן: ברגל אפילו טריפה, שכל יתר כנטול דמי.",
+     "en": "Rashi in Chullin cites this passage: in the leg it is even a treifa, since an extra is as a missing one."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 55:4",
+     "quote": "אם יש לה ג' רגלים טריפה דכל יתר כנטול דמי",
+     "he": "השולחן ערוך: אם יש לה שלוש רגליים טריפה, שכל יתר כנטול דמי.",
+     "en": "The Shulchan Arukh: if it has three legs it is a treifa, since an extra is as a missing one."
+    },
+    {
+     "who": {
+      "he": "הרמ״א",
+      "en": "Rema"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 55:4",
+     "quote": "ודוקא שזה היתרת יש לה תואר רגל ועומדת במקום הרגלים",
+     "he": "הרמ״א: דווקא כשהיתרת יש לה תואר רגל ועומדת במקום הרגלים.",
+     "en": "The Rema: only when the extra limb has the form of a leg and stands in the place of the legs."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 55:24",
+     "quote": "וחסר רגל אפילו מתחלת ברייתה ג\"כ טרפה",
+     "he": "ערוך השולחן: חסר רגל אפילו מתחילת ברייתו גם הוא טריפה, והובא מבכורות מ׳.",
+     "en": "Arukh HaShulchan: lacking a leg even from the beginning of its creation is also a treifa, a point he derives from Bekhorot 40."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:5",
+     "quote": "קשה דהא כתב לעיל דדוקא בדאיעכל ניביה",
+     "he": "הרש״ש מקשה על רש״י: ברש״י ״ועוד בוקא דאטמא טרפה״ אבל הוא כתב לעיל שזה דווקא כשנאכל ניביה.",
+     "en": "The Rashash questions Rashi: here he says 'also a dislocated hip is a treifa', yet above he wrote that this is so only when the socket was worn away."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Yoreh De'ah 56:2",
+     "quote": "נשמטה יריכה היינו שרוע דקרא",
+     "he": "החתם סופר: ״נשמטה יריכה״ הוא ה״שרוע״ שבפסוק, ובלשון המשנה נקרא שחול.",
+     "en": "The Chatam Sofer: 'whose hip slipped' is the 'saru'a' of the verse; in the Mishnah it is called shachul."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 22:23:2",
+     "quote": "זה שרגליו קלוטות כשל חמור וכשל סוס",
+     "he": "תורה תמימה: ״קלוט״ – זה שרגליו קלוטות כשל חמור וכשל סוס.",
+     "en": "Torah Temimah: 'kalut' – one whose legs are solid like those of a donkey or a horse."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    17
+   ],
+   "he": {
+    "title": "שבר העצם שאינו ניכר",
+    "gemara": "המשנה: נשבר עצם ידו ועצם רגלו, אף על פי שאינו ניכר – מום. הגמרא: איך אינו ניכר הוא מום? רב פפא: אינו ניכר מחמת עצמו אבל ניכר מחמת מלאכה.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ט): שבר בעצם הרגל שהוא ניכר כשיהלך – הרי זה מום."
+   },
+   "en": {
+    "title": "A fracture that is not visible",
+    "gemara": "The Mishnah: a broken bone of the foreleg or hind leg, even if it is not visible, is a blemish. The Gemara asks how something not visible can be a blemish. Rav Papa: it is not visible in itself but is visible through the animal's work.",
+    "halakha": "The Rambam (Biat HaMikdash 7:9): a break in the leg bone that shows when it walks is a blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:17:1",
+     "quote": "אבל ניכר הוא מחמת שצולע והילוך הרגל זו היא מלאכתו",
+     "he": "אינו ניכר בשבר עצמו, אבל ניכר מפני שצולע, והילוך הרגל הוא מלאכת הבהמה.",
+     "en": "The fracture itself is not seen, but it is seen from the limping; walking is the animal's work."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:14",
+     "quote": "אינו ניכר לחוץ מי הוי מומא מומין שבגלוי בעינן",
+     "he": "רבינו גרשום מפרש את השאלה: מום שאינו ניכר לחוץ – והרי צריך מומין שבגלוי.",
+     "en": "Rabbeinu Gershom explains the question: a blemish not visible outside – but we need blemishes that are in the open."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:15",
+     "quote": "שכשהולך נראה והליכה קרי מלאכה",
+     "he": "רבינו גרשום: כשהולך הוא נראה, והליכה נקראת מלאכה.",
+     "en": "Rabbeinu Gershom: it is seen when it walks, and walking is called its work."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:3:6",
+     "quote": "אינו ניכר מחמת עצמו אבל ניכר מחמת מלאכה",
+     "he": "הרא״ש מעתיק את תשובת רב פפא: אינו ניכר מחמת עצמו אבל ניכר מחמת מלאכה.",
+     "en": "The Rosh reproduces Rav Papa's answer: it is not visible in itself but is visible by its work."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:9",
+     "quote": "אף על פי שאינו נכר כשעומד אם נכר כשיהלך הרי זה מום",
+     "he": "הרמב״ם: אף על פי שאינו ניכר כשעומד, אם ניכר כשיהלך – הרי זה מום.",
+     "en": "The Rambam: even if it is not noticeable when standing, if it is noticeable when it walks, it is a blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:6",
+     "quote": "תמוה מדוע לא פירש כפשוטו דקאי אכל הני דחשיב בפרקין",
+     "he": "הרש״ש תמה על הרע״ב שפירש «מומין אלו» כמתייחס לנשבר העצם בלבד, ולמה לא כפשוטו, על כל מה שמנו בפרק עד כאן.",
+     "en": "The Rashash is puzzled that the Rav Ovadia of Bartenura did not explain 'these blemishes' in the plain way, as referring to everything counted in the chapter thus far."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    18,
+    22
+   ],
+   "he": {
+    "title": "מומי אילא: גלגל עין עגול, פיו כחזיר ורוב הלשון",
+    "gemara": "אילא מנה ביבנה, ועוד שלושה הוסיף: גלגל עינו עגול כשל אדם, פיו דומה לחזיר, וניטל רוב המדבר שבלשונו. הגמרא שואלת מברייתא על המפלת (ר׳ מאיר) והתירוץ של רב יוסף: ״הא באוכמא הא בציריא״. רב פפא: ״פריס״ אף על גב דלא ״שפיד״. הלשון – כרבי יהודה.",
+    "halakha": "בהפלה בצורה בעל חיים (שולחן ערוך יו״ד קצד:ג): חוששת לולד, מפני שאין אנו בקיאים בצורות."
+   },
+   "en": {
+    "title": "Ila's blemishes: a round eye, a pig-like mouth, and most of the tongue",
+    "gemara": "Ila counted blemishes at Yavneh and added three: an eye as round as a person's, a mouth like a pig's, and most of the speaking part of the tongue cut off. The Gemara raises a baraita on a woman who miscarries (R. Meir) and Rav Yosef's resolution: 'one is ukhma, the other tzirya.' Rav Papa: 'fares' suffices even without 'shafid'. The tongue – like R. Yehuda.",
+    "halakha": "For a miscarriage in the form of an animal (Shulchan Arukh YD 194:3): she is concerned for a birth, since we are not expert in forms."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:20:1",
+     "quote": "דאמר היולדת מין בהמה טמאה לידה כולד מעליא",
+     "he": "רבי מאיר סבור שהיולדת מין בהמה טמאה לידה כלידה גמורה.",
+     "en": "R. Meir holds that a woman giving birth to an animal form is unclean as for a proper birth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:20:3",
+     "quote": "שחור של עין הבהמה",
+     "he": "רש״י: ״אוכמא״ הוא השחור של עין הבהמה, והוא אינו עגול כשל אדם.",
+     "en": "Rashi: 'ukhma' is the black of the animal's eye, and it is not round like a person's."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:20:4",
+     "quote": "כל בית מושב הלובן והסירא קרי ציריא",
+     "he": "רש״י: כל בית מושב הלובן והסירה נקרא ״ציריא״ והוא עגול כשל אדם.",
+     "en": "Rashi: the whole socket seating the white and the sira is called 'tzirya', and that is round like a person's."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:18",
+     "quote": "אוכמא דעיניה אורחיה למיהוי עגול כשל אדם",
+     "he": "רבינו גרשום מפרש הפוך מרש״י: האוכמא של עינה דרכו להיות עגול כשל אדם.",
+     "en": "Rabbeinu Gershom explains the reverse of Rashi: the ukhma of the eye is naturally round like a person's."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:19",
+     "quote": "כוליה חריץ של עין לאו אורחיה",
+     "he": "וה״ציריא״ – כל חריץ העין אינו דרכו להיות עגול.",
+     "en": "And the 'tzirya' – the whole slit of the eye is not naturally so."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Niddah 23a:13:1",
+     "quote": "מדחשיב ליה מום נמצא שאין דרך בהמה להיות עיניה כאדם",
+     "he": "רש״י בנדה: מכיוון שמנו אותו מום נמצא שאין דרך הבהמה להיות עיניה כשל אדם.",
+     "en": "Rashi in Niddah: since it is counted a blemish, it turns out that it is not the way of an animal for its eyes to be like a person's."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:21:1",
+     "quote": "ומפי המורה איתמר לן איפכא דשפיד שלחייו העליונות הולכות ומתחדדות כשפוד",
+     "he": "רש״י: שפיד – פיו עגול, פריס – שפה עליונה ולחיים עליונות עודפות על התחתונות; ומפי המורה נאמר לו הפוך, ש״שפיד״ הוא שהלחיים העליונות מתחדדות כשפוד.",
+     "en": "Rashi: shafid – a round mouth, fares – the upper lip and cheeks extend past the lower; but from his teacher he was told the reverse, that 'shafid' is when the upper cheeks narrow to a point like a skewer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:21",
+     "quote": "ששפתו עקומה למעלה כחזיר",
+     "he": "רבינו גרשום: ״פריס״ – ששפתו עקומה למעלה כחזיר.",
+     "en": "Rabbeinu Gershom: 'fares' – that its lip is curved upward like a pig's."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:4:2",
+     "quote": "פריס ששפתו העליונה פרוסה על התחתונה ועודפת עליה",
+     "he": "הרא״ש: פריס – ששפתו העליונה פרוסה על התחתונה ועודפת עליה.",
+     "en": "The Rosh: fares – the upper lip is spread over the lower and extends past it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40a:16:3",
+     "quote": "היינו קצת הלשון שאינו דבוק במלקוחיו",
+     "he": "רש״י: ״רוב המדבר״ – קצת הלשון שאינו דבוק במלקוחיו.",
+     "en": "Rashi: 'most of the speaking part' – the portion of the tongue not attached to the jaws."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40a:13",
+     "quote": "רוב מן הלשון שנפרד מן החיך התחתון אותו שיכול לכפוף למעלה",
+     "he": "רבינו גרשום: רוב הלשון שנפרד מן החיך התחתון, זה שיכול לכופפו למעלה.",
+     "en": "Rabbeinu Gershom: most of the tongue that is free of the lower palate, the part that can be bent upward."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 10:8",
+     "quote": "אם היו פניו כפני אדם הרי זה ולד",
+     "he": "הרמב״ם בהפלה: אם היו פניו כפני אדם הרי זה ולד.",
+     "en": "The Rambam on a miscarriage: if its face was like a person's, it is a birth."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:7:4",
+     "quote": "קי\"ל כוותייהו משום דבתראי נינהו",
+     "he": "הכסף משנה: אף ש״לא שמענו״, ב״ד של אחריהם אמרו שזה מום, וקיימא לן כוותייהו משום שבתראי נינהו.",
+     "en": "The Kessef Mishneh: although the sages said 'we did not hear', the court after them said it is a blemish, and we follow them because they are later."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 194:3",
+     "quote": "עכשיו שאין אנו בקיאין בצורות חוששת לולד",
+     "he": "השולחן ערוך: המפלת צורת בהמה חיה ועוף – עכשיו שאין אנו בקיאין בצורות חוששת לולד.",
+     "en": "The Shulchan Arukh: a woman who miscarries the form of an animal, beast or bird – now that we are not expert in forms, she is concerned for a birth."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Niddah 23a:1",
+     "quote": "ולכן קורהו עין סתם לפי שראיית החי הוא רק ממנו",
+     "he": "הרש״ש: ״גלגל עין״ נקרא העין בכללה, והשחור הוא העגול, ולכן קורא לו עין סתם, כי ראיית החי היא ממנו.",
+     "en": "The Rashash: 'galgal ayin' is the whole eye, and it is the black that is round, so it is called simply 'eye' because the living creature sees from it."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:9",
+     "quote": "לשון זה אינו מכוון דהא כי מדלית י\"ד ימים דטומאת נקבה לא ישאר לימי טוהר אלא כ\"ו ימים",
+     "he": "הרש״ש: לשון רש״י אינו מדויק, כי אם מורידים י״ד ימי טומאת נקבה לא נשארים לימי טוהר אלא כ״ו ימים.",
+     "en": "The Rashash: Rashi's wording is not exact, because if one subtracts the fourteen days of a female's impurity, only twenty-six days of purity remain."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Tzadi 49",
+     "quote": "פירוש אוכמא של עין דומה לשל אדם ציריא חריץ שהעין עומד בו אינו דומה לשל אדם",
+     "he": "ההפלאה שבערכין מביא פירוש שאוכמא של העין דומה לשל אדם, וציריא, החריץ שהעין עומד בו, אינו דומה לשל אדם.",
+     "en": "The Hafla'ah ShebaArakhin brings the explanation that the ukhma of the eye is like a person's, and the tzirya, the slit in which the eye stands, is not like a person's."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    23,
+    3
+   ],
+   "he": {
+    "title": "לחי תחתון עודף על העליון",
+    "gemara": "המשנה: מעשה שהלחי התחתון עודף על העליון, ושאל רבן גמליאל לחכמים ואמרו: הרי זה מום. הגמרא: רבנן חולקים על אילא רק כשהשפה העליונה עודפת, אבל כשהתחתונה עודפת – מום. והקושיה: באדם נאמר ״איש איש מזרע אהרן״, אבל בבהמה לא! רב פפא: מי שיש בה עצם – מום; מי שאין בה עצם – לא.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ז): מי שעצם לחיו התחתון עודף על העליון כל שהוא – מום."
+   },
+   "en": {
+    "title": "The lower jaw or lip that extends past the upper",
+    "gemara": "The Mishnah: an incident where the lower jaw extended past the upper, and Rabban Gamliel asked the Sages, who said it is a blemish. The Gemara: the Rabbis disagree with Ila only when the upper lip extends, but when the lower extends it is a blemish. The difficulty: in a man 'any man of the seed of Aaron' is said, but not in an animal! Rav Papa: one with a bone is a blemish; one without is not.",
+    "halakha": "The Rambam (Biat HaMikdash 7:7): one whose lower jaw bone extends past the upper in any amount has a blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:3:1",
+     "quote": "אם עצם הלחי התחתון עודף על העליון הוי מום אפילו בבהמה",
+     "he": "רש״י: אם עצם הלחי התחתון עודף על העליון הוי מום אפילו בבהמה; ואם רק השפה התחתונה ארוכה, הוא מום באדם ולא בבהמה.",
+     "en": "Rashi: if the bone of the lower jaw extends past the upper, it is a blemish even in an animal; if only the lower lip is longer, it is a blemish in a man and not in an animal."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:1",
+     "quote": "אבל בבהמה לא הוי מומא",
+     "he": "רבינו גרשום מעתיק את הקושיה: אבל בבהמה לא הוי מומא.",
+     "en": "Rabbeinu Gershom frames the objection: but in an animal it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:2",
+     "quote": "דאית ביה עצם בשפתו התחתונה הוי מומא",
+     "he": "רבינו גרשום: אם יש עצם בשפתו התחתונה, הוי מום.",
+     "en": "Rabbeinu Gershom: if there is bone in the lower lip, it is a blemish."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:4:4",
+     "quote": "ודוקא דאית ביה עצם אבל לית ביה עצם לא הוי מום",
+     "he": "הרא״ש: דווקא כשיש בו עצם, אבל אם אין בו עצם לא הוי מום.",
+     "en": "The Rosh: only when there is bone in it; without bone it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:7",
+     "quote": "מי שעצם לחיו התחתון עודף על העליון כל שהוא",
+     "he": "הרמב״ם: מי שעצם לחיו התחתון עודף על העליון כל שהוא.",
+     "en": "The Rambam: one whose lower jaw bone extends past the upper by any amount."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:8",
+     "quote": "מי ששפתו העליונה עודפת על התחתונה מי ששפתו התחתונה עודפת על העליונה",
+     "he": "הרמב״ם מונה בין מומי האדם שלוש בשפתיים: העליונה עודפת על התחתונה, התחתונה על העליונה, ופה רפוי.",
+     "en": "The Rambam counts among the blemishes of a man, on the lips, the upper extending past the lower, the lower past the upper, and a slack mouth."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 309:13:1",
+     "quote": "גבי אדם הוא דכתיב איש איש מבני אהרן איש ששוה בזרעו של אהרן",
+     "he": "הבית יוסף מסביר את קושיית הגמרא: באדם נאמר ״איש איש מבני אהרן״, ״איש ששוה בזרעו של אהרן״.",
+     "en": "The Beit Yosef explains the Gemara's question: in a man it is written 'any man of the sons of Aaron', a man equal in the seed of Aaron."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:13:1",
+     "quote": "ודוקא בדעצם לחי התחתון עודף על העליון הוי מום",
+     "he": "הב״ח: דווקא כשעצם הלחי התחתון עודף על העליון הוא מום.",
+     "en": "The Bach: only when the bone of the lower jaw extends past the upper is it a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40a:10",
+     "quote": "במשניות הגי' רשב\"ג וכ\"ה לקמן בגמרא",
+     "he": "הרש״ש: במשניות הגרסה ״רשב״ג״, וכך גם בהמשך הגמרא.",
+     "en": "The Rashash: in the Mishnayot the reading is 'Rashbag', as also further on in the Gemara."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 40a:3",
+     "quote": "רשב\"ג כה\"ג בספרי משניות",
+     "he": "היעב״ץ: ״רשב״ג״ כך גם בספרי משניות.",
+     "en": "The Ya'avetz: 'Rashbag' – so too in the books of Mishnayot."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    8
+   ],
+   "he": {
+    "title": "אוזן כפולה, פיו בלום וחוליות הזנב",
+    "gemara": "המשנה: אוזן הגדי כפולה – בעצם אחד מום, באין עצם אחד אינו מום; ורבי חנניה בן גמליאל: זנב הגדי דומה לחזיר ואין בה שלוש חוליות – מום. הברייתא: פיו בלום ורגליו מבולמות – מחמת הרוח אינו מום, מחמת העצם מום; אוזנים כפולות בחסחוסת אחת מום, בשתיים אינו מום. רב הונא: בגדי שתים מום ושלוש לא; בטלה שלוש מום וארבע לא – ונדחה ממשנה מפורשת.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ג): מי שהיתה אזנו כפולה לשתים, אפילו הגדי – מום."
+   },
+   "en": {
+    "title": "A doubled ear, a closed mouth, and the tail vertebrae",
+    "gemara": "The Mishnah: a kid's ear that is doubled – if it is one bone it is a blemish, if not one bone it is not; R. Chanania ben Gamliel: a kid's tail like a pig's, without three vertebrae, is a blemish. The baraita: a closed mouth and constricted legs – from wind (rauach) it is no blemish, from bone it is; doubled ears with one cartilage a blemish, with two not. Rav Huna: in a kid two is a blemish and three not; in a lamb three is a blemish and four not – refuted from a baraita.",
+    "halakha": "The Rambam (Biat HaMikdash 7:3): one whose ear is doubled in two, even a kid, has a blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:4:2",
+     "quote": "שאין להם אלא תנוך אחד שנכפל תנוך העליון לתוכו ונתחבר למטה הרי זה מום",
+     "he": "רש״י: כשיש תנוך אחד שנכפל לתוכו ונתחבר למטה – מום.",
+     "en": "Rashi: when there is a single lobe, the upper lobe doubled into it and joined below, it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:4:3",
+     "quote": "וטעמא לא איתפרש לי",
+     "he": "רש״י מודה: הטעם לא התפרש לי.",
+     "en": "Rashi admits: the reason has not been explained to me."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:5:3",
+     "quote": "שאין לו ריוח כל כך בפה ולא בעצם ולא בבשר השפתים אינו מום",
+     "he": "רש״י: ״מחמת הריוח״ – כשאין לו ריוח כל כך בפה, לא בעצם ולא בבשר השפתיים – אינו מום.",
+     "en": "Rashi: 'from looseness' – when there is not much room in the mouth, neither in bone nor in the flesh of the lips, it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:6:2",
+     "quote": "עגולה שזנב הטלה הוי רחבה יתר על עוביה",
+     "he": "רש״י: ״כריכא״ – עגולה, שזנב הטלה רחבה יותר מעוביה.",
+     "en": "Rashi: 'kerikha' – round; a lamb's tail is wider than it is thick."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:7:1",
+     "quote": "בגדי שתים חוליות בזנב ה\"ז מום",
+     "he": "רש״י: בגדי – שתי חוליות בזנב הרי זה מום.",
+     "en": "Rashi: in a kid, two vertebrae in the tail is a blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 40b:5:1",
+     "quote": "בלום הוא לשון סתימה כמו חוטמו בלום",
+     "he": "תוספות: ״בלום״ הוא לשון סתימה, כמו ״חוטמו בלום״.",
+     "en": "Tosafot: 'balum' is a term for being blocked, like 'his nose is balum'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:8",
+     "quote": "שהעצם דחוק הרבה ומחמת כן אינו יכול לפתחו הוי מום",
+     "he": "רבינו גרשום: אם העצם דחוק הרבה ולכן אינו יכול לפתוח – מום.",
+     "en": "Rabbeinu Gershom: if the bone is very tight so that it cannot open its mouth, it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:4",
+     "quote": "שהסחוס שלה אחד ולמעלה נכפלת הוי מום",
+     "he": "רבינו גרשום: ״בזמן שהוא עצם אחד״ – שהסחוס שלה אחד ולמעלה נכפלת, מום.",
+     "en": "Rabbeinu Gershom: 'when it is one bone' – when its cartilage is one and it is doubled above, it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:12",
+     "quote": "שלש אינו מום שכן דרכה",
+     "he": "רבינו גרשום: בטלה, שלש אינו מום, שכן דרכה.",
+     "en": "Rabbeinu Gershom: in a lamb, three is not a blemish, for that is its way."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:5:2",
+     "quote": "בלום פירש\"י בלשון אחד קצרות ברוחב וזה הפי' עיקר",
+     "he": "הרא״ש: רש״י פירש ״בלום״ בלשון אחד – קצרות ברוחב, וזה הפירוש עיקר.",
+     "en": "The Rosh: Rashi explained 'balum' in one manner – short in width – and this is the main explanation."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 107b:4:3",
+     "quote": "שפיו סגור שאין יכול לפותחו אלא מעט",
+     "he": "רש״י בחולין, בהזכירו את ״פיו בלום״ שבבכורות: שפיו סגור, שאין יכול לפותחו אלא מעט.",
+     "en": "Rashi in Chullin, citing 'his mouth is balum' from Bekhorot: that its mouth is closed and it can open it only a little."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:3",
+     "quote": "מי שהיתה אזנו כפולה לשתים",
+     "he": "הרמב״ם מונה מום באוזן: מי שהיתה אזנו כפולה לשתיים.",
+     "en": "The Rambam lists as an ear blemish: one whose ear is doubled in two."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 309:8:1",
+     "quote": "ודברי רבינו בה כפירש\"י וכתב דטעמא לא איתפרש ליה",
+     "he": "הבית יוסף: דברי הטור בעניין אוזן כפולה כפירש״י, שכתב שהטעם לא התפרש לו.",
+     "en": "The Beit Yosef: the Tur's words on the doubled ear follow Rashi, who wrote that the reason was not explained to him."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40b:1",
+     "quote": "אבל הרמב\"ם פסק להיפך ונדחק הב\"י לכוון לשון המשנה לשיטתו",
+     "he": "הרש״ש: הרמב״ם פסק הפוך מרש״י, והבית יוסף נדחק להתאים את לשון המשנה לשיטתו.",
+     "en": "The Rashash: the Rambam ruled the opposite of Rashi, and the Beit Yosef strained to fit the language of the Mishnah to his view."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40b:6",
+     "quote": "תמוה דאנן בגדי איירינן",
+     "he": "הרש״ש מקשה על רש״י שפירש ״זנב הטלה״ – והרי אנו עוסקים בגדי.",
+     "en": "The Rashash objects to Rashi's reference to a lamb's tail, since we are discussing a kid."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Kaf 48",
+     "quote": "בלומה פי' שמירה כמו פיו בלום",
+     "he": "ההפלאה שבערכין מביא גרסה שבה ״בלומה״ פירושה שמירה, כמו ״פיו בלום״, כלומר סגור.",
+     "en": "The Hafla'ah ShebaArakhin cites a reading in which 'bluma' means guarding, like 'his mouth is balum', that is, closed."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    17
+   ],
+   "he": {
+    "title": "יבלת ועין ואוזן גדולה וקטנה",
+    "gemara": "רבי חנינא בן אנטיגנוס מונה: יבלת בעינו, שנפגם עצם ידו ורגלו, ונפרק עצם הפה, עין אחת גדולה ואחת קטנה, אוזן אחת גדולה ואחת קטנה – במראה ולא במדה. הגמרא: יבלת היא מום? והרי ״בעל גרב ובעל יבלת״ אין שוחטים עליהם. ותירוץ: בגוף או בעין; בעצם או לא. ורבי יהודה: ביצה אחת גדולה כשתיים.",
+    "halakha": "הרמב״ם (ביאת מקדש ח:ג): מי שאחת מאזניו משונה מחברתה במראה – מום."
+   },
+   "en": {
+    "title": "A wart, and a large and a small eye or ear",
+    "gemara": "R. Chanina ben Antigonus lists a wart in the eye, a damaged bone of the foreleg or hind leg, a dislocated jaw bone, one eye larger and one smaller, one ear larger and one smaller – by appearance, not measure. The Gemara: is a wart a blemish? But 'one with scab or with a wart' may not be slaughtered upon. The answers: in the body or in the eye; with bone or without. R. Yehuda: one testicle as large as two.",
+    "halakha": "The Rambam (Biat HaMikdash 8:3): one whose one ear is different from the other in appearance has a blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:9:4",
+     "quote": "שלכל נראה שזו גדולה מזו",
+     "he": "רש״י: ״במראה״ – שלכל נראה שזו גדולה מזו.",
+     "en": "Rashi: 'by appearance' – that it is plain to all that this one is larger than that."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:9:5",
+     "quote": "שאם אין ניכר אלא במדה אינו מום",
+     "he": "רש״י: ״אבל לא במדה״ – שאם אינו ניכר אלא במדידה אינו מום.",
+     "en": "Rashi: 'but not by measure' – if it is noticeable only by measuring, it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:11:2",
+     "quote": "עורת או שבור או חרוץ או יבלת",
+     "he": "רש״י מביא את הפסוק: ״עורת או שבור או חרוץ או יבלת״ – מומין גמורים.",
+     "en": "Rashi cites the verse 'blind, broken, maimed, or having a wart' – full blemishes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:14:2",
+     "quote": "חתיכות בשר התלויים בו",
+     "he": "רש״י: ״תלתול״ – חתיכות בשר התלויות בו, כמו הרצועות הקטנות שיש לבני אדם אצל אוזניהם.",
+     "en": "Rashi: 'tiltul' – pieces of flesh hanging from it, like the small strips near people's ears."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:14:3",
+     "quote": "אם כהן הוא פסול לעבודה דבעינן שוה בזרעו של אהרן",
+     "he": "רש״י: באדם, אם הוא כהן הוא פסול לעבודה, כי צריך שוה בזרעו של אהרן.",
+     "en": "Rashi: in a man, if he is a kohen he is disqualified from the service, since he must be equal in the seed of Aaron."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:17:1",
+     "quote": "דלא הודו לו בביצים עד כמה תהא חבירתה קטנה דמכשרי",
+     "he": "רש״י: ״ורבנן עד כמה״ – שלא הודו לו בביצים, עד כמה תהיה חברתה קטנה שמכשירים.",
+     "en": "Rashi: 'and the Rabbis, how much?' – they did not concede to him on testicles, how small its fellow may be and still be valid."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 40b:15:2",
+     "quote": "אלא אידי ואידי בשחור גרסינן ולא גרסינן בלבן",
+     "he": "תוספות: הגרסה היא ״אלא אידי ואידי בשחור״ ולא ״בלבן״.",
+     "en": "Tosafot: we read 'both of them in the black' and not 'in the white'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:18",
+     "quote": "תלתול כעין שומא של בשר שתולה בעור",
+     "he": "רבינו גרשום: ״תלתול״ – כעין שומא של בשר שתולה בעור.",
+     "en": "Rabbeinu Gershom: 'tiltul' – like a mole of flesh hanging on the skin."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:21",
+     "quote": "אע\"ג דשאר מום לא פסול בלבן אי אית ביה שיער פסיל",
+     "he": "רבינו גרשום: אף ששאר מום אינו פוסל בלבן, אם יש בו שיער פוסל.",
+     "en": "Rabbeinu Gershom: although other blemishes do not disqualify in the white, if it has hair, it disqualifies."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:23",
+     "quote": "עד פחות מכפול",
+     "he": "רבינו גרשום: ״ורבנן״ שלא הודו לו – עד כמה תהא האחת קטנה מחברתה שהוי מום, עד פחות מכפול.",
+     "en": "Rabbeinu Gershom: 'and the Rabbis' who did not concede to him – how much smaller one may be than its fellow to be a blemish; less than a double."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:6:2",
+     "quote": "ומסקינן היכא דאית בה עצם הוי מומא בין בגופו בין בעינו",
+     "he": "הרא״ש: ומסקנתנו שכשיש בה עצם הוי מום, בין בגוף בין בעין.",
+     "en": "The Rosh: our conclusion is that where it has bone, it is a blemish, in the body or the eye."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:3",
+     "quote": "מי שאחת מאזניו משנה מחברתה במראה",
+     "he": "הרמב״ם: מי שאחת מאזניו משונה מחברתה במראה.",
+     "en": "The Rambam: one whose one ear differs from its fellow in appearance."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 8:3:2",
+     "quote": "אבל אם אינו ניכר אלא במדה אינו מום",
+     "he": "הכסף משנה מקשה על מקור הרמב״ם, ומסביר את המשנה: נראה לכל שזו גדולה מזו, אבל אם אינו ניכר אלא במדה אינו מום.",
+     "en": "The Kessef Mishneh asks for the Rambam's source and explains the Mishnah: it is plain to all that one is larger, but if noticeable only by measure it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 2:2:4",
+     "quote": "ומשמע שרבינו אינו מפרש כפירש\"י",
+     "he": "הכסף משנה: ממה שכתב הרמב״ם משמע שהוא אינו מפרש כפירש״י.",
+     "en": "The Kessef Mishneh: from the Rambam's wording it appears that he does not explain as Rashi did."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:28:1",
+     "quote": "אבל כשהיא בשחור אפי' לית בה שער הוי מומא",
+     "he": "הב״ח: לפי גרסת רש״י, כשהיא בשחור אפילו אין בה שער הוי מום.",
+     "en": "The Bach: on Rashi's reading, when it is in the black, even without hair it is a blemish."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Bekhorot 6:12:5",
+     "quote": "פי' הרמב\"ם ז\"ל דוקא בשיש בה עצם דאם אין בה עצם נקרא תלתול",
+     "he": "מלאכת שלמה: פירש הרמב״ם שדווקא כשיש בה עצם, ואם אין בה עצם נקראת תלתול.",
+     "en": "Melekhet Shelomoh: the Rambam explained that this is only when it has bone, and without bone it is called tiltul."
+    },
+    {
+     "who": {
+      "he": "יכין",
+      "en": "Yachin"
+     },
+     "ref": "Yachin on Mishnah Parah 2:9:1",
+     "quote": "מסקינן דדוקא ביש בתוכו עצם פסול",
+     "he": "יכין: בבכורות מסקנתנו שדווקא כשיש בתוכו עצם פסול.",
+     "en": "Yachin: in Bekhorot we concluded that it is disqualified only when it has a bone inside."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40b:8",
+     "quote": "תרוייהו במומין דיבלת שבלבן",
+     "he": "הרש״ש: ברש״י גרסתו ״תרוייהו במומין דיבלת שבלבן״.",
+     "en": "The Rashash: Rashi's text should read 'both of them in the blemishes of a wart in the white'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    18,
+    18
+   ],
+   "he": {
+    "title": "זנב העגל והערקוב",
+    "gemara": "המשנה: זנב העגל שאינה מגעת לערקוב – אמרו חכמים: כל מרבית עגלים כן, כל זמן שגדלים נמתחות. ורבי חנינא בן אנטיגנוס: ערקוב שבאמצע הירך.",
+    "halakha": "|||"
+   },
+   "en": {
+    "title": "The calf's tail and the arkov",
+    "gemara": "The Mishnah: a calf's tail not reaching the arkov – the Sages said that is the way of calves, and as they grow they stretch. R. Chanina ben Antigonus: the arkov in the middle of the thigh.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 40b:18:2",
+     "quote": "וכשהן גדולים הולכות ונמתחות עד למטה",
+     "he": "רש״י: וכשהם גדולים הזנבות הולכות ונמתחות עד למטה.",
+     "en": "Rashi: and when they are grown the tails stretch farther down."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 40b:24",
+     "quote": "ערקוב מקום כף הירך",
+     "he": "רבינו גרשום: ״ערקוב״ – מקום כף הירך.",
+     "en": "Rabbeinu Gershom: 'arkov' – the place of the hip-socket."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:7:1",
+     "quote": "ובאיזה ערקוב אמרו ר' חנינא בן אנטיגנוס אומר בערקוב שבאמצע הירך",
+     "he": "הרא״ש מביא את המשנה: ובאיזה ערקוב אמרו – רבי חנינא בן אנטיגנוס אומר בערקוב שבאמצע הירך.",
+     "en": "The Rosh cites the Mishnah: which arkov did they mean – R. Chanina ben Antigonus says the arkov in the middle of the thigh."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 40b:9",
+     "quote": "אבל יש להכריע מדכתב שיהא זנבן מגיע לערקוב",
+     "he": "הרש״ש: מכריעים שהרע״ב לא כתב כרמב״ם, מכיוון שכתב שיהא זנבן מגיע לערקוב.",
+     "en": "The Rashash: it can be decided from the wording that the Bartenura did not follow the Rambam, since he wrote that their tails reach the arkov."
+    }
+   ]
+  }
+ ]
+}
