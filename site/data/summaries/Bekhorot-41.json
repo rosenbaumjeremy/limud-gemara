@@ -1,0 +1,1258 @@
+{
+ "ref": "Bekhorot 41",
+ "date": "2026-10-29",
+ "he": {
+  "overview": "הדף עוסק בשני נושאים: בעמוד א׳ בגרב, חזזית והמומים הפוסלים בבכור ובקרבן (זקן, חולה, מזוהם, רובע ונרבע, נעבד ומוקצה ונוגח), ובעמוד ב׳ בדין טומטום ואנדרוגינוס — ״אין לך מום גדול מזה״ מול ״אינו בכור״. הראשונים והאחרונים דנים מה פשוטו של חרס ושל ילפת ומה היחס בין גרב לח ליבש, והאם הספק בטומטום ואנדרוגינוס מתיישב על הפסוקים או נובע מהיותם בריה בפני עצמה. ההלכה נחלקת בין הרמב״ם (אנדרוגינוס חולין גמורים) לבין הרא״ש והשולחן ערוך (ספק בכור).",
+  "title": "סיכום — בכורות מ״א"
+ },
+ "en": {
+  "overview": "The daf has two themes: on amud a, gerav, chazazit and the other grounds that disqualify a firstborn or an offering (old, sick, foul-smelling, the one bestiality was done with, the worshipped, the set-aside and the goring animal); on amud b, the law of tumtum and androginos — 'no greater blemish' against 'not a firstborn.' The Rishonim and Acharonim ask what exactly cheres and yalefet are, how wet and dry gerav relate, and whether the doubt about a tumtum and androginos rests on the verses or on their being a creature of their own. The halakha divides between Rambam (an androginos is wholly unconsecrated) and the Rosh and Shulchan Arukh (a doubtful firstborn).",
+  "title": "Summary — Bekhorot 41"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "קפץ העליון"
+   ],
+   "he": {
+    "term": "קפץ העליון",
+    "explanation": "הארכובה העליונה ברגל האחורית של הבהמה, בה נחתך או נקצר הזנב. התנא קובע שהמום הוא בקפץ העליון, ולא בתחתון הסמוך לפרסות."
+   },
+   "en": {
+    "term": "Kefetz ha'elyon (the upper joint)",
+    "explanation": "The upper joint of the animal's hind leg, relevant to the calf-tail blemish. The tanna fixes the blemish at the upper joint and not the lower one near the hooves."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 41a:1:1",
+    "quote": "קפץ קשר העליון היינו ארכובתו מקום חבור השוק והירך"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "גָּרָב"
+   ],
+   "he": {
+    "term": "גרב / חרס",
+    "explanation": "שחין שקשה כחרס. במשנה הוא מום שאין שוחטים עליו; בתורה הוא מפורש כמום הפוסל בקרבן. הגמרא מחלקת בין גרבים לחים ויבשים."
+   },
+   "en": {
+    "term": "Gerav / cheres (the dry boil)",
+    "explanation": "A boil hard as a potsherd. In the Mishna it is not a ground for slaughtering the firstborn; in the Torah it is a blemish disqualifying a sacrifice. The Gemara distinguishes wet and dry kinds."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 41a:7:4",
+    "quote": "שחין שקשה כחרס"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "חֲזָזִית הַמִּצְרִית"
+   ],
+   "he": {
+    "term": "חזזית מצרית / ילפת",
+    "explanation": "מין שחין, כפי הנראה מזה שהובא על המצרים. נקראת ״ילפת״ מפני שהיא ״מלפפת והולכת עד יום המיתה״ ואינה מתרפאת."
+   },
+   "en": {
+    "term": "Egyptian chazazit / yalefet",
+    "explanation": "A type of boil, that which was brought upon the Egyptians. It is called 'yalefet' because it clings 'until the day of death' and does not heal."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 41a:7:6",
+    "quote": "דבוקה בו כדמתרגמינן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "מזוהם"
+   ],
+   "he": {
+    "term": "מזוהם",
+    "explanation": "בהמה שזיעתה סרוחה. הפסוק ״מן העזים״ ממעט אותה; מדובר במום שאינו מום ממש אלא פסול מצד ״מאוס״."
+   },
+   "en": {
+    "term": "Mezuham (the foul-smelling)",
+    "explanation": "An animal whose sweat stinks. 'From the goats' excludes it; it is not a true blemish but a disqualification because the animal is repulsive."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 41a:4",
+    "quote": "והמזוהם שזיעתו סרוחה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 15,
+   "anchors": [
+    "הנעבד",
+    "המוקצה"
+   ],
+   "he": {
+    "term": "נעבד ומוקצה",
+    "explanation": "נעבד — בהמה שעבדו אותה כאלוהות; מוקצה — בהמה שהופרשה לצורך עבודה זרה. שניהם פסולים למזבח."
+   },
+   "en": {
+    "term": "Ne'evad and muktzeh",
+    "explanation": "Ne'evad — an animal that was worshipped; muktzeh — one set aside for idolatry. Both are unfit for the altar."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 41a:15:2",
+    "quote": "שהוקצה והופרש לצורך עבודת כוכבים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "נקבות חריץ"
+   ],
+   "he": {
+    "term": "חרוץ",
+    "explanation": "חתך או בקע בבשר. התורה מונה ״חרוץ״ בין המומים הפוסלים, והגמרא דנה אם הוא מום גם במקום בשר או רק במקום עצם."
+   },
+   "en": {
+    "term": "Charutz (a cleft)",
+    "explanation": "A cut or cleft. The Torah lists 'charutz' among disqualifying blemishes, and the Gemara asks whether it counts in flesh or only at a bone."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 41a:12",
+    "quote": "וחרוץ מום דאורייתא הוי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 17,
+   "anchors": [
+    "טוּמְטוּם"
+   ],
+   "he": {
+    "term": "טומטום ואנדרוגינוס",
+    "explanation": "טומטום — בעל חיים שאבריו מכוסים ואינו ידוע אם זכר או נקבה; אנדרוגינוס — בעל שני סימנים. הם נידונים ביחס לקדושת בכור ולהקרבה כספק, או כבריה בפני עצמה."
+   },
+   "en": {
+    "term": "Tumtum and androginos",
+    "explanation": "A tumtum is one whose organs are covered, so it is unknown whether male or female; an androginos has both signs. They are treated regarding firstborn sanctity and offering as a doubt, or as a creature of its own."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Things Forbidden on the Altar 3:3",
+    "quote": "לְפִי שֶׁהֵן סָפֵק זָכָר סָפֵק נְקֵבָה הֲרֵי הֵן כְּמִין אַחֵר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "וּמוּמוֹ עִמּוֹ"
+   ],
+   "he": {
+    "term": "מומו עמו",
+    "explanation": "אם הוא בכור, הרי הוא בכור בעל מום — כי ״אין לך מום גדול מזה״; ואם ספק, אין הוא נחשב בכור ודאי עם מומו."
+   },
+   "en": {
+    "term": "Mumo imo ('its blemish is with it')",
+    "explanation": "If it is a firstborn then it is a blemished firstborn — 'no greater blemish than this'; if only a doubt, it is not a definite firstborn with its blemish."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 41b:3:1",
+    "quote": "כלומר אם בכור הוא הרי מומו עמו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "קפץ העליון: מום בזנב העגל ובארכובה",
+    "gemara": "הברייתא מבארת מום בזנב העגל שבמשנה: אם הזנב אינו מגיע לארכובה, הוא מום, ו״קפץ״ הוא העליון ולא התחתון; ועל הארכובה הזו נאמר שהיא ניכרת בגמל."
+   },
+   "en": {
+    "title": "The upper joint (kefetz ha'elyon) and the camel's hind leg",
+    "gemara": "The baraita explains the calf's-tail blemish of the Mishna: the tail that does not reach the joint is a blemish, and the 'kefetz' meant is the upper one, not the lower; and this joint is said to be visible on a camel."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:1",
+     "quote": "קפץ העליון פרק העליון",
+     "he": "רבינו גרשום מפרש ״קפץ העליון״ כפרק העליון.",
+     "en": "Rabbeinu Gershom explains 'kefetz ha'elyon' as the upper segment."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:2",
+     "quote": "ערקוב שלו לפי שהוא עב הרבה",
+     "he": "״כנגדו בגמל ניכר״ — הערקוב של הגמל ניכר מפני שהוא עב מאוד.",
+     "en": "'Visible on a camel' — the camel's joint is noticeable because it is very thick."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:1:1",
+     "quote": "קפץ קשר העליון היינו ארכובתו מקום חבור השוק והירך",
+     "he": "רש״י: הקפץ העליון הוא הארכובה, מקום חיבור השוק והירך, ולא התחתון שסמוך לפרסות.",
+     "en": "Rashi: the upper kefetz is the joint where the shin and the thigh meet, not the lower one near the hooves."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:1:2",
+     "quote": "שהגמל יש לו כנגד הארכובה עצם בולט לחוץ",
+     "he": "רש״י: בגמל יש כנגד הארכובה עצם בולט לחוץ, ולכן היא ניכרת בו.",
+     "en": "Rashi: a camel has a bone sticking out opposite this joint, which is why it is visible on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 76a:5:1",
+     "quote": "ארכובה הוי מום לפסול ותני עלה קפץ העליון ולא קפץ התחתון",
+     "he": "רש״י בחולין מביא את סוגייתנו כדי להוכיח שהארכובה העליונה היא זו שניכרת בגמל.",
+     "en": "Rashi in Chullin cites our passage to show that it is the upper joint that is visible on a camel."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Chullin 76a:1",
+     "quote": "ואותו ראש העליון של עצם השוק היא הארכובה שכנגדו בגמל ניכר",
+     "he": "הרשב״א בחולין: הראש העליון של עצם השוק הוא הארכובה ש״כנגדו בגמל ניכר״ כמו שמוכיח בבכורות.",
+     "en": "The Rashba in Chullin: the upper end of the shin bone is the joint 'visible on a camel,' as the Gemara in Bekhorot shows."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Chullin 25b:14",
+     "quote": "ששם בולט עצם בירך הגמל והכי תניא בבכורות",
+     "he": "הר״ן בחולין מסביר שבירך הגמל בולט שם עצם, ושכך שנינו בבכורות.",
+     "en": "The Ran in Chullin explains that a bone sticks out there in the camel's thigh, and that this is what we learned in Bekhorot."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    4
+   ],
+   "he": {
+    "title": "למה נשנה ״על אלו מומין״ שנית",
+    "gemara": "הגמרא שואלת מה צורך בכפילות; מתרצת שהתנא הוסיף מומים שנאמרו בשם יחיד, והחכמים לא קיבלום, ולכן סתם והכליל את כולם."
+   },
+   "en": {
+    "title": "Why the Mishna repeats 'for these blemishes'",
+    "gemara": "The Gemara asks why the Mishna repeats itself; it answers that the tanna added blemishes taught in an individual's name, which the others had not heard, so he stated it anonymously to cover them all."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:4:1",
+     "quote": "אלא יחידאי קאמרי להו כגון ר' חנינא בן אנטיגנוס ור' חנינא בן גמליאל",
+     "he": "רש״י: המומים הנוספים נאמרו בידי יחידים, כגון ר׳ חנינא בן אנטיגנוס ור׳ חנינא בן גמליאל, ולכן חזר וסתם על כולם.",
+     "en": "Rashi: the added blemishes were said by individuals, such as R. Chanina ben Antigonus and R. Chanina ben Gamliel, which is why he restated it anonymously for all."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:3",
+     "quote": "דאהני נמי דיחידאי מתני להו שוחטין את הבכור",
+     "he": "רבינו גרשום: בסתם זה שנה התנא גם את דברי היחיד, ש״שוחטין את הבכור״ עליהם.",
+     "en": "Rabbeinu Gershom: by stating it anonymously the tanna also taught the individual's blemishes as ones on which 'one slaughters the firstborn.'"
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 6:7:4",
+     "quote": "וקתני ואתי דיחידאי וקסתים לה בכולהו",
+     "he": "הרא״ש מביא את הסוגיה כלשונה: התנא שנה את דברי היחיד וסתם אותם בכולם.",
+     "en": "The Rosh cites the passage in its own words: the tanna taught the individual's view and made it anonymous in all of them."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "גרב וחזזית: יבש, לח, ושחין מצרים",
+    "gemara": "המשנה מונה גרב וחזזית בין המומים שאין שוחטים עליהם, אך התורה פוסלת ״גרב״ ו״ילפת״. הגמרא מחלקת: חזזית מצרית אחרת מחזזית סתם, וגרב יבש אחר מגרב לח; ולבסוף נמצאו שלושה גרבים — של הפסוק (יבש מבפנים ומבחוץ), של המשנה (לח משני הצדדים) ושל מצרים (יבש מבפנים ולח מבחוץ).",
+    "halakha": "הרמב״ם (ביאת מקדש ז:י) פוסק שגרב יבש וחזזית מצרית, כל שהם, מומים בכל הגוף."
+   },
+   "en": {
+    "title": "Gerav and chazazit: dry, wet, and the Egyptian boil",
+    "gemara": "The Mishna lists gerav and chazazit among blemishes for which one does not slaughter, yet the Torah disqualifies 'gerav' and 'yalefet.' The Gemara distinguishes Egyptian chazazit from ordinary, and dry gerav from wet; in the end there are three kinds — the Torah's (dry inside and out), the Mishna's (wet inside and out), and Egypt's (dry inside, wet outside).",
+    "halakha": "Rambam (Admission into the Sanctuary 7:10) rules that dry gerav and Egyptian chazazit, however small, are blemishes anywhere on the body."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:7:4",
+     "quote": "שחין שקשה כחרס",
+     "he": "רש״י: ״חרס״ הוא שחין שקשה כחרס.",
+     "en": "Rashi: 'cheres' is a boil as hard as a potsherd."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:7:6",
+     "quote": "דבוקה בו כדמתרגמינן",
+     "he": "רש״י: ״מלפפת״ — דבוקה בו.",
+     "en": "Rashi: 'melapefet' means it clings to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:10:2",
+     "quote": "וכיון דיבש מבפנים לא מיתסי",
+     "he": "רש״י: שחין מצרים יבש מבפנים, ומשום כך אינו מתרפא ובבכור הוא מום גמור.",
+     "en": "Rashi: the Egyptian boil is dry inside, so it does not heal, and on a firstborn it is a full blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:10:3",
+     "quote": "לח מבפנים ולח בחוץ",
+     "he": "רש״י: גרב של המשנה לח מבפנים ומבחוץ.",
+     "en": "Rashi: the Mishna's gerav is wet inside and out."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:6",
+     "quote": "ודמתני' לח בין מבפנים בין מבחוץ ומיתסי",
+     "he": "רבינו גרשום: של המשנה לח משני הצדדים ולכן מתרפא, ולכן אינו מום קבוע.",
+     "en": "Rabbeinu Gershom: the Mishna's is wet on both sides and therefore heals, so it is not a permanent blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41a:7:1",
+     "quote": "תימה אמאי לא קאמר מההיא גרב דבקללות של משנה תורה",
+     "he": "התוספות תמהים מדוע לא הקשתה הגמרא מ״גרב״ שבקללות שבמשנה תורה, ומתרצים שהגמרא נקטה ״זו אף זו״.",
+     "en": "Tosafot wonder why the Gemara did not raise the 'gerav' of the curses in Deuteronomy, and answer that the Gemara spoke in the 'this and even that' manner."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41a:10:1",
+     "quote": "ואם נתרפאו ממנו המצריים שמא מעשה נס היה",
+     "he": "התוספות: ואם נתרפאו המצרים משחינם — ייתכן שהיה זה מעשה נס.",
+     "en": "Tosafot: if the Egyptians were in fact healed of their boil, perhaps that was a miracle."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 21:20:4",
+     "quote": "וּבְמָקוֹם אַחֵר קוֹרֵא לַגָּרָב שְׁחִין הַלַּח מִבַּחוּץ וְיָבֵשׁ מִבִּפְנִים",
+     "he": "רש״י בפרשת אמור: בפסוק אחר הוא קורא ״גרב״ לשחין לח מבחוץ ויבש מבפנים, וכך מפורש בבכורות.",
+     "en": "Rashi on Leviticus: elsewhere the Torah calls 'gerav' a boil wet outside and dry inside, as explained in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "המזרחי",
+      "en": "Mizrachi"
+     },
+     "ref": "Mizrachi, Leviticus 21:20:3",
+     "quote": "גבי מומין כתיב או גרב או ילפת ותני' בתורת כהנים גרב זה החרס",
+     "he": "המזרחי מבאר את דברי רש״י: ״גרב״ בפרשת המומים הוא החרס, ומיישב את הסתירה מ״ובגרב ובחרס״.",
+     "en": "The Mizrachi explains Rashi: 'gerav' in the blemishes passage is the cheres, and he reconciles this with 'gerav and cheres' in the curses."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 494:3",
+     "quote": "כְּגוֹן גָּרָב לַח, וַחֲזָזִית שֶׁאֵינָהּ מִצְרִית",
+     "he": "ספר החינוך מונה בין המומים העוברים גרב לח וחזזית שאינה מצרית.",
+     "en": "Sefer HaChinukh lists wet gerav and non-Egyptian chazazit among the temporary blemishes."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:10",
+     "quote": "מִי שֶׁיֵּשׁ בּוֹ גָּרָב יָבֵשׁ כָּל שֶׁהוּא",
+     "he": "הרמב״ם: מי שיש בו גרב יבש כל שהוא — זהו ה״גרב״ שבתורה.",
+     "en": "Rambam: one with any dry gerav has the 'gerav' of the Torah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חדושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 41a:2",
+     "quote": "דגרב וחרס הוא פירושו דרישא דקרא והיינו שחין מצרים",
+     "he": "בחדושי הלכות מיישבים את קושיית התוספות: ״גרב וחרס״ הוא פירוש לראש הפסוק, שחין מצרים.",
+     "en": "Chidushei Halachot resolves Tosafot's difficulty: 'gerav and cheres' explains the start of the verse, the Egyptian boil."
+    },
+    {
+     "who": {
+      "he": "אדרת אליהו",
+      "en": "Aderet Eliyahu"
+     },
+     "ref": "Aderet Eliyahu, Leviticus 21:20:3",
+     "quote": "גרב. זו חרס יבש מבפנים ומבחוץ. ילפת. זו חזזית מצרית יבש מבפנים ולח מבחוץ",
+     "he": "אדרת אליהו מסכם: גרב — חרס יבש מבפנים ומבחוץ; ילפת — חזזית מצרית, יבשה מבפנים ולחה מבחוץ.",
+     "en": "Aderet Eliyahu sums up: gerav is a dry cheres inside and out; yalefet is Egyptian chazazit, dry inside and wet outside."
+    },
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Beshalakh 27",
+     "quote": "אשר לא תוכל להרפא ובכורות דף מ\"א דלא מתסי",
+     "he": "המשך חכמה מצטט את ״אשר לא תוכל להרפא״ ומפנה לבכורות מ״א שהשחין לא מתרפא.",
+     "en": "The Meshekh Chokhmah cites 'which you cannot be healed' and points to Bekhorot 41 that the boil does not heal."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 15:21:2",
+     "quote": "וחזזית הוא מין שחין שיש לו רפואה ואינו חזזית שבתורה",
+     "he": "התורה תמימה: החזזית שבמשנה היא מין שחין שיש לו רפואה, ואינה החזזית שבתורה.",
+     "en": "Torah Temimah: the chazazit of the baraita is a boil that has a cure, not the chazazit of the Torah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    13
+   ],
+   "he": {
+    "title": "זקן, חולה ומזוהם — מנין שפסולים",
+    "gemara": "הגמרא דורשת ״מן הצאן ומן הכשבים ומן העזים״ לפסול זקן, חולה ומזוהם; ומסבירה למה צריכים שלושה פסוקים — שלא נלמד מאחד על האחרים (זקן שלא חוזר, חולה שאינו דרכו, וכן כחוש לעומת מאוס).",
+    "halakha": "הרמב״ם (ביאת מקדש ז:יב-יג): הזקן והחולה הם הרועדים; המזוהם — כהן שמזוהם בזיעתו רוחץ ושף ועובד."
+   },
+   "en": {
+    "title": "Old, sick and foul-smelling — the source and why all three are needed",
+    "gemara": "The Gemara derives from 'from the flock, from the sheep, from the goats' the disqualification of the old, the sick and the foul-smelling, and explains why all three are needed so that none could be learned from another.",
+    "halakha": "Rambam (Admission into the Sanctuary 7:12–13): the old and the sick are those who tremble; a foul-smelling kohen washes and rubs himself and serves."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:4",
+     "quote": "והמזוהם שזיעתו סרוחה",
+     "he": "רבינו גרשום: המזוהם הוא מי שזיעתו סרוחה.",
+     "en": "Rabbeinu Gershom: the 'mezuham' is one whose sweat stinks."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:7",
+     "quote": "אפילו בלא מום דפסולה להקרבה",
+     "he": "רבינו גרשום: זקן הרבה פסול להקרבה אפילו בלא מום.",
+     "en": "Rabbeinu Gershom: a very old animal is unfit to be offered even without a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:11:2",
+     "quote": "מן הצאן ולא כל הצאן",
+     "he": "רש״י: דורשים ״מן הצאן״ — ולא כל הצאן, וכן בכל השאר.",
+     "en": "Rashi: we expound 'from the flock' — not the whole flock, and likewise for the others."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:12",
+     "quote": "הַזָּקֵן שֶׁהִגִּיעַ לִהְיוֹת רוֹתֵת וְרוֹעֵד כְּשֶׁהוּא עוֹמֵד",
+     "he": "הרמב״ם, בהלכות כהן בעל מום: הזקן הוא מי שהגיע לרעוד כשהוא עומד.",
+     "en": "Rambam, on a blemished kohen: the old man is one who trembles as he stands."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:13",
+     "quote": "רוֹחֵץ וְשָׁף כָּל גּוּפוֹ",
+     "he": "הרמב״ם: כהן מזוהם בזיעתו רוחץ ושף את גופו בבשמים ועובד.",
+     "en": "Rambam: a kohen foul with sweat washes and rubs his body with spices and serves."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Vayikra 1:10:4",
+     "quote": "דאי כתב חולה, הווה אמינא דלאו אורחיה",
+     "he": "הגור אריה מבאר את צורך הפסוקים כפי שבגמרא: אילו נכתב רק ״חולה״ — שאינו דרכו — לא היינו לומדים זקן שהוא דרכו.",
+     "en": "The Gur Aryeh explains why each is needed as in the Gemara: had only 'sick' been written, that being not natural, we would not learn the old, which is natural."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 1:10:1",
+     "quote": "משום דאינם כבוד שמים",
+     "he": "התורה תמימה: טעם הפסול שהם אינם ״כבוד שמים״.",
+     "en": "Torah Temimah: the reason for the disqualification is that they are not fitting 'honor of Heaven.'"
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Chullin 37a:1",
+     "quote": "אי לא הוה כתיב אלא חד קרא לא הוה ממעטין אלא מסוכן",
+     "he": "החתם סופר מקשה: מנין שחולה פסול מחצי הפסוק? ומיישב שאילו נכתב פסוק אחד היינו ממעטים רק מסוכן.",
+     "en": "The Chatam Sofer asks how we know the sick is excluded, and answers that had only one verse been written we would exclude only the dangerously ill."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Red Heifer 1:1:1",
+     "quote": "נראה שהטעם הוא משום דפרה אינה קדשי מזבח",
+     "he": "המשנה למלך דן מדוע זקן כשר בפרה אדומה, ומסביר שהיא אינה קדשי מזבח.",
+     "en": "The Mishneh LaMelech asks why an old animal is valid as a red heifer, and explains that it is not an altar offering."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    16
+   ],
+   "he": {
+    "title": "הנעבד, המוקצה, רובע ונרבע ונוגח",
+    "gemara": "הגמרא דורשת ״מן הבהמה״ ו״מן הבקר״ ו״מן הצאן״ ו״ומן הצאן״ לפסול רובע ונרבע, נעבד, מוקצה ונוגח. ועל כך היא מקשה שאלה ״בני קטלא״, ומתרצת שהמשנה מדברת על פי עד אחד או הבעלים.",
+    "halakha": "הרמב״ם (איסורי מזבח ג:ו) פוסל לגבי המזבח רובע ונרבע, מוקצה ונעבד, אף שהם מותרים באכילה."
+   },
+   "en": {
+    "title": "The worshipped, the set-aside, the one that bestiality was done with, the goring ox",
+    "gemara": "The Gemara expounds the verses to disqualify the one bestiality was done with, the worshipped, the set-aside and the goring animal. It objects that these are liable to death, and answers that the Mishna speaks of one witness or the owner.",
+    "halakha": "Rambam (Things Forbidden on the Altar 3:6): the one bestiality was done with, the set-aside and the worshipped are unfit for the altar even though they may be eaten."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:9",
+     "quote": "רובע ונרבע ונוגח",
+     "he": "רבינו גרשום: ״בני קטלא״ — רובע, נרבע ונוגח.",
+     "en": "Rabbeinu Gershom: those 'liable to death' are the one bestiality was done with, the other, and the goring."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:10",
+     "quote": "דלית בה אלא עד אחד או בעלים דלא קטלינן אפומייהו",
+     "he": "רבינו גרשום: מדובר כשיש רק עד אחד או בעלים, שאין הורגים על פיהם.",
+     "en": "Rabbeinu Gershom: it is when there is only one witness or the owner, on whose word we do not put it to death."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:15:1",
+     "quote": "שעשאוהו עבודת כוכבים",
+     "he": "רש״י: ״נעבד״ — שעשאוהו עבודה זרה.",
+     "en": "Rashi: 'ne'evad' — one that was made an idol."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:15:2",
+     "quote": "שהוקצה והופרש לצורך עבודת כוכבים",
+     "he": "רש״י: ״מוקצה״ — שהופרש לצורך עבודה זרה.",
+     "en": "Rashi: 'muktzeh' — one set aside for idolatry."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:16:2",
+     "quote": "דשוב אין נסקלין הבהמות דמודה בקנס פטור",
+     "he": "רש״י: כשהבעלים מודים מעצמם, אין הבהמות נסקלות, שכן ״מודה בקנס פטור״.",
+     "en": "Rashi: when the owners confess on their own, the animals are not stoned, since one who admits a fine is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 5a:10:4",
+     "quote": "למעוטי רובע ונרבע הכי דריש ליה בבבא קמא",
+     "he": "רש״י בחולין מציין שדרשה זו נאמרה גם בבבא קמא ובתמורה.",
+     "en": "Rashi in Chullin notes this derivation is also given in Bava Kamma and Temurah."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 3:6",
+     "quote": "כָּל שֶׁיֵּשׁ בּוֹ הַשְׁחָתָה פָּסוּל",
+     "he": "הרמב״ם מביא כטעם הפסול: ״כי משחתם בהם״ — כל שיש בו השחתה פסול.",
+     "en": "Rambam gives the reason: 'for their corruption is in them' — anything with corruption is unfit."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 4:3",
+     "quote": "הֲרֵי זוֹ כְּשֵׁרָה לַמִּזְבֵּחַ מִפְּנֵי שֶׁהִיא כַּאֲנוּסָה",
+     "he": "הרמב״ם: בהמה שהמיתה אדם כשהתגרו בה כשרה, כי היא כאנוסה.",
+     "en": "Rambam: an animal teased until it killed a person is valid for the altar, since it was as if coerced."
+    },
+    {
+     "who": {
+      "he": "המזרחי",
+      "en": "Mizrachi"
+     },
+     "ref": "Mizrachi, Leviticus 1:2:5",
+     "quote": "דפריך בבכורות בפרק אלו מומין רובע ונרבע בני קטלא נינהו",
+     "he": "המזרחי מציין שהגמרא בבכורות הקשתה ״בני קטלא נינהו״ ותירצה שאין בהם חיוב מיתה.",
+     "en": "The Mizrachi notes the Gemara in Bekhorot asks 'they are liable to death' and answers that they are not."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    17,
+    23
+   ],
+   "he": {
+    "title": "טומטום ואנדרוגינוס — ״אין לך מום גדול מזה״ וחרוץ במקום בשר",
+    "gemara": "הגמרא מבארת למה טומטום אינו נשחט לא במקדש ולא במדינה, ושואלת על אנדרוגינוס. אביי: ״חרוץ״ כ״שבור״ — דווקא במקום עצם; רבא: חרוץ במקום בשר אינו מום, שאילו היה, ״גרב״ (חרס) היה מיותר. ורבי ישמעאל לא כאביי ולא כרבא, כי מום נראה הוא ״מום רע״."
+   },
+   "en": {
+    "title": "Tumtum and androginos — 'no greater blemish' and the cleft in flesh",
+    "gemara": "The Gemara explains why a tumtum is slaughtered neither in the Temple nor outside, and asks about an androginos. Abaye: 'charutz' is like 'shavur' — only at a bone; Rava: a cleft in flesh is no blemish, otherwise 'gerav' would be superfluous. R. Yishmael follows neither, since a visible one is a 'bad blemish.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:6:1",
+     "quote": "ספק זכר וקדשי ספק נקבה הן ולא קדשי",
+     "he": "רש״י: טומטום ואנדרוגינוס הם ספק זכר, שקדוש, וספק נקבה, שאינה קדושה.",
+     "en": "Rashi: a tumtum and androginos are possibly male, which is sanctified, and possibly female, which is not."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:17:1",
+     "quote": "ומקריבה לשם בכור ואינו מקדישה",
+     "he": "רש״י: במקדש לא — שמא נקבה היא, והוא מקריבה לשם בכור ואינה קדושה ומביא חולין לעזרה.",
+     "en": "Rashi: not in the Temple — perhaps it is female and he offers it as a firstborn when it is not sanctified, bringing a non-sacred animal into the Temple court."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:18:1",
+     "quote": "דהא כתיב חרוץ באורייתא",
+     "he": "רש״י: ולמה לא נעשה בו ״חריץ״ ונשחט — שהרי ״חרוץ״ כתוב בתורה.",
+     "en": "Rashi: why not treat it as a cleft and slaughter — for 'charutz' is written in the Torah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:20:1",
+     "quote": "ודאי מיחרץ חריץ נגע הוא",
+     "he": "רש״י על דברי רבא: גרב (חרס) ודאי חורץ בבשר, שהנגע עמוק.",
+     "en": "Rashi on Rava: gerav (cheres) certainly makes a cleft, since the lesion is deep."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41a:23:1",
+     "quote": "חרוץ במקום בשר לא הוי מומא היכא דלא מינכר",
+     "he": "רש״י: חרוץ במקום בשר אינו מום כשאינו ניכר כל כך, כנקבות של בהמה.",
+     "en": "Rashi: a cleft in flesh is no blemish where it is not so noticeable, like a female animal's parts."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:12",
+     "quote": "וחרוץ מום דאורייתא הוי",
+     "he": "רבינו גרשום: חרוץ הוא מום מן התורה.",
+     "en": "Rabbeinu Gershom: a cleft is a blemish from the Torah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:15",
+     "quote": "דאי זכר הוא הוי נקבות שלו חרוץ",
+     "he": "רבינו גרשום: ״אין מום גדול מזה״ — שאם זכר הוא, מקום הנקבות שלו חרוץ.",
+     "en": "Rabbeinu Gershom: 'no greater blemish' — for if it is male, its female parts are a cleft."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41a:16",
+     "quote": "וכרבא לא אמר דהכא חרוץ דנקבות אף על גב דבמקום בשר הוי כיון דמינכר הוי מומא",
+     "he": "רבינו גרשום: רבי ישמעאל אינו כרבא, כי כאן החרוץ ניכר ולכן הוא מום אף במקום בשר.",
+     "en": "Rabbeinu Gershom: R. Yishmael does not follow Rava, since here the cleft is noticeable and so is a blemish even in flesh."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 3:3",
+     "quote": "לְפִי שֶׁהֵן סָפֵק זָכָר סָפֵק נְקֵבָה הֲרֵי הֵן כְּמִין אַחֵר",
+     "he": "הרמב״ם: טומטום ואנדרוגינוס פסולים למזבח בדרך אחרת, כי הם ספק זכר ספק נקבה, כמין אחר.",
+     "en": "Rambam: a tumtum and androginos are unfit for the altar in another way — being possibly male, possibly female, they are a different kind."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 13:3:7",
+     "quote": "ודבר פלא הוא שלא העירו המפרשים כלל וכלל מסוגיא זו",
+     "he": "התורה תמימה מקשה מסוגייתנו על פירוש ״מראהו עמוק״ בנגעים, ותמה שהמפרשים לא העירו זאת.",
+     "en": "Torah Temimah raises a difficulty from our sugya on how 'its appearance is deeper' is read in leprosy laws, and wonders that the commentators did not remark on it."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 88:5:3",
+     "quote": "אלא רבא נקיט נגע הראשון בתורה",
+     "he": "בהעמק שאלה מיישב: רבא נקט את הנגע הראשון שבתורה כמשל לחרוץ.",
+     "en": "Haamek Sheilah answers: Rava took the first lesion in the Torah as his model for a cleft."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    8
+   ],
+   "he": {
+    "title": "בעי רבא: האם רבי ישמעאל פשוט לו שאנדרוגינוס זכר, והמקרא ״הזכר״ ו״הזכרים״",
+    "gemara": "רבא מסתפק אם לרבי ישמעאל אנדרוגינוס בכור ודאי עם מומו, או ספק ו״אם תימצא לומר״. הגמרא מנסה להוכיח מברייתות, ובסוף מעמידה שמיעוט אנדרוגינוס מ״הזכר״ ו״הזכרים״ הוא כרבנן בתראי, ואין זה למעט ספק."
+   },
+   "en": {
+    "title": "Does R. Yishmael hold an androginos is surely male? The verses 'the male' and 'the males'",
+    "gemara": "Rava asks whether, for R. Yishmael, an androginos is a definite firstborn with its blemish or only a doubt ('if you say so'). The Gemara tries to prove it from baraitot and concludes that the exclusion from 'the male' and 'the males' fits the later Sages and is not excluding a doubt."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41b:1",
+     "quote": "אנדרוגינוס לא הוי בריה בפ\"ע אלא זכר הוא",
+     "he": "רבינו גרשום: אם פשוט לו — אנדרוגינוס אינו בריה בפני עצמה אלא זכר.",
+     "en": "Rabbeinu Gershom: if it is certain to him — an androginos is not a creature of its own but male."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 41b:2",
+     "quote": "דדילמא בריה הוי ולא קדוש",
+     "he": "רבינו גרשום: ואם מסופק — שמא הוא בריה בפני עצמה ואינו קדוש.",
+     "en": "Rabbeinu Gershom: and if in doubt — perhaps it is a separate creature and not sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:1:1",
+     "quote": "אם תימצא לומר ספק בכור הרי מומו עמו",
+     "he": "רש״י: ״אם תימצא לומר״ — אם אומרים שהוא ספק בכור, הרי מומו עמו.",
+     "en": "Rashi: 'if you say' — if you say it is a doubtful firstborn, its blemish is with it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:2:1",
+     "quote": "ואם ספק הוא מספיקא לא מלקינן ליה",
+     "he": "רש״י: ההבדל להלכה — אם בכור ודאי, לוקים על גיזה ועבודה; ואם ספק, אין לוקים.",
+     "en": "Rashi: the practical difference — if a definite firstborn, one is lashed for shearing and working it; if doubtful, no lashes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:4:1",
+     "quote": "זכר כתיב גבי עולת בקר זכר תמים יקריבנו ומשמע ולא נקבה",
+     "he": "רש״י: ״זכר״ בעולת בקר מוציא נקבה, ו״זכר״ שבעולת צאן מיותר ובא להוציא טומטום ואנדרוגינוס.",
+     "en": "Rashi: 'male' in the cattle burnt-offering excludes a female, so the second 'male' for sheep is superfluous and excludes tumtum and androginos."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:5:3",
+     "quote": "הא ליכא ספק קמי שמיא",
+     "he": "רש״י: אין ספק לפני שמים, ומכאן שהמיעוט הוא משום שהוא בריה בפני עצמה.",
+     "en": "Rashi: there is no doubt before Heaven, so the exclusion is because it is a creature of its own."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:8:1",
+     "quote": "גבי בכור תרי כתיבי",
+     "he": "רש״י: בבכור כתובים שני פסוקים, ״הזכר״ ו״הזכרים״.",
+     "en": "Rashi: for the firstborn two verses are written, 'the male' and 'the males.'"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41b:5:1",
+     "quote": "ומדקאמר ר' ישמעאל בברייתא בכור הוא ומומו עמו מכלל דלת\"ק לא הוי ודאי בכור",
+     "he": "התוספות: מדברי רבי ישמעאל ״בכור הוא ומומו עמו״ משמע שלתנא קמא אינו בכור ודאי.",
+     "en": "Tosafot: from R. Yishmael saying 'he is a firstborn and his blemish is with him' we infer that for the first tanna he is not a definite firstborn."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41b:5:2",
+     "quote": "אבל כוי ותחלת הצהוב ואנדרוגינוס כולן שוים דקמי שמיא גליא",
+     "he": "התוספות מבחינים בין טומטום, שיש בו זכר ונקבה, לבין אנדרוגינוס שכולם שווים וגלוי לפני שמים — ולכן הקושיה כאן במקומה.",
+     "en": "Tosafot distinguish a tumtum, some of whom are male and some female, from an androginos, all alike and known to Heaven — so the question here is apt."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41b:8:1",
+     "quote": "וי\"ל דשמא עוד דרשות אחרות יש דקראי טובא כתיבי בבכור",
+     "he": "התוספות שואלים למה לא מספיק ״הזכר״, ומתרצים שיש עוד דרשות כי הרבה פסוקים נכתבו בבכור.",
+     "en": "Tosafot ask why 'the male' alone would not do, and answer that there are other derivations since many verses are written about the firstborn."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chagigah 4a:7:1",
+     "quote": "בגמרא דרבי ישמעאל אין לך מום גדול מזה אנדרוגינוס ספיקא הוא איצטריך קרא למעוטי ספיקא",
+     "he": "התוספות בחגיגה מביאים את קושיית סוגייתנו, ״אצטריך קרא למעוטי ספיקא״, ומבחינים בינה לבין מקומות אחרים.",
+     "en": "Tosafot in Chagigah cite our sugya's question, 'is a verse needed to exclude a doubt?', and distinguish it from other places."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yoma 74a:9:2",
+     "quote": "דקמי שמיא גליא שהוא שוה כל שעה",
+     "he": "התוספות ביומא: כאן קשה שהספק גלוי לפני שמים ושוה בכולם, בניגוד לספק מעשר או בהרת.",
+     "en": "Tosafot in Yoma: here the doubt is known to Heaven and the same in all cases, unlike the doubts of tithe or of a bright spot."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Yevamot 83a:1",
+     "quote": "לשון בריה בפני עצמה הוא לאפוקי מספק מיתמר בכל מקום",
+     "he": "הרמב״ן ביבמות: הביטוי ״בריה בפני עצמה״ אומר שאין זה ספק, וכך הוא בכל מקום ובבכורות.",
+     "en": "The Ramban in Yevamot: the phrase 'a creature of its own' is said to take it out of the category of doubt everywhere, including Bekhorot."
+    },
+    {
+     "who": {
+      "he": "הריב״ש",
+      "en": "Rivash"
+     },
+     "ref": "Teshuvot HaRivash 450:1",
+     "quote": "יש לנו לומר שבא להוציא טומטום",
+     "he": "הריב״ש מבאר את ״זכר״ המיותר בעולת צאן: שבא להוציא טומטום.",
+     "en": "The Rivash explains the superfluous 'male' in the sheep burnt-offering: it comes to exclude a tumtum."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהר״ם",
+      "en": "Maharam"
+     },
+     "ref": "Maharam on Chullin 23a:1",
+     "quote": "נימא דקרא מיעט לאנדרוגינוס או משום שהוא זכר משונה או משום שהוא נקבה",
+     "he": "המהר״ם מציע שהפסוק ממעט אנדרוגינוס או מפני שהוא זכר משונה או מפני שהוא נקבה — וכך מתיישבת קושיית סוף בכורות.",
+     "en": "The Maharam suggests the verse excludes an androginos either as an unusual male or as a female — resolving the question at the end of Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 41b:2",
+     "quote": "ק\"ק דהתם אינו מסוג זה",
+     "he": "הרש״ש מקשה על התוספות שהביאו ראיה מכריתות כא: שם אינו מאותו סוג.",
+     "en": "The Rashash objects to Tosafot's proof from Keritot 21: that case is not of the same type."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 41b:7",
+     "quote": "זה סותר למש\"כ בשם ר\"ת בכתובות",
+     "he": "הרש״ש: דברי התוספות כאן סותרים את מה שנכתב בשם ר״ת בכתובות.",
+     "en": "The Rashash: Tosafot here contradicts what is written in the name of Rabbeinu Tam in Ketubot."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 41b:8",
+     "quote": "מה שהוגה עה\"ג מלת אלא והוא מהצ\"ק",
+     "he": "הרש״ש דן בהגהת התוספות על גבי הגיליון — המילה ״אלא״ — ושולל אותה, כמו בגהה ברש״י.",
+     "en": "The Rashash discusses a marginal emendation of the word 'ela' in Tosafot and rejects it, as with the similar emendation in Rashi."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "רב חסדא: מחלוקת באנדרוגינוס, אבל טומטום ספק קדוש — וההלכה",
+    "gemara": "רב חסדא: החכמים הסוברים ״אינו בכור״ חלוקים רק באנדרוגינוס; בטומטום, לכולי עלמא ספק הוא וקדוש מספק. רבא מקשה על כך: ״בערכין יערך״? — ומשם ממשיכה הסוגיה.",
+    "halakha": "הרמב״ם פוסק שבכור אנדרוגינוס אין בו קדושה כלל, וטומטום ספק בכור הנאכל במומו לבעלים; השולחן ערוך (יו״ד שטו:ג) פוסק שאנדרוגינוס ספק בכור, ויאכל במומו לבעלים."
+   },
+   "en": {
+    "title": "Rav Chisda: dispute only about an androginos; a tumtum is a doubt and sanctified — and the halakha",
+    "gemara": "Rav Chisda: the Sages who say 'not a firstborn' dispute only about an androginos; about a tumtum everyone agrees it is a doubt and is sanctified out of doubt. Rava objects, 'then should he be valued in Arachin?', and the sugya continues from there.",
+    "halakha": "Rambam rules a firstborn androginos has no sanctity at all and a tumtum is a doubtful firstborn eaten with its blemish by the owner; Shulchan Arukh (YD 315:3) rules an androginos is a doubtful firstborn, eaten with its blemish by the owner."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:9:2",
+     "quote": "ואסור בגיזה ואינו נשחט לא במקדש ולא במדינה",
+     "he": "רש״י: בטומטום לכולי עלמא ספק — אסור בגיזה ועבודה ואינו נשחט, לא במקדש ולא במדינה.",
+     "en": "Rashi: a tumtum is, by all views, a doubt — forbidden to shear and work, and not slaughtered, neither in the Temple nor outside."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 41b:10:1",
+     "quote": "דספק הוא בערכין יערך באדם או בערך איש או בערך אשה",
+     "he": "רש״י: הקושיה — אם הוא ספק, בערכין יערך כאדם או בערך איש או בערך אשה.",
+     "en": "Rashi: the objection — if he is a doubt, in Arachin let him be valued, as a person, as a man or as a woman."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 41b:9:1",
+     "quote": "אלא לא מיסתבר ליה לאוקומי מיעוטא בטומטום",
+     "he": "התוספות מבארים את רב חסדא: אין זה מפני ש״לא אתי קרא למעוטי ספיקא״, אלא שלא סביר לו להעמיד את המיעוט בטומטום.",
+     "en": "Tosafot explain Rav Chisda: it is not because a verse does not exclude a doubt, but because he finds it unreasonable to apply the exclusion to a tumtum."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Batra 141a:1:1",
+     "quote": "דטומטום הוי ספק לדברי הכל",
+     "he": "התוספות בבבא בתרא: לפי רב חסדא בבכורות, טומטום ספק לדברי הכל.",
+     "en": "Tosafot in Bava Batra: according to Rav Chisda in Bekhorot, a tumtum is a doubt according to all."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:5",
+     "quote": "בְּכוֹר שֶׁהוּא אַנְדְּרוֹגִינוּס אֵין בּוֹ קְדֻשָּׁה כְּלָל",
+     "he": "הרמב״ם: בכור אנדרוגינוס אין בו קדושה כלל, ונעבד וגוזזים אותו כחולין.",
+     "en": "Rambam: a firstborn androginos has no sanctity at all and is worked and shorn like unconsecrated."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:5",
+     "quote": "נוֹלַד טֻמְטוּם הֲרֵי זֶה סְפֵק בְּכוֹר וְיֵאָכֵל בְּמוּמוֹ לִבְעָלָיו",
+     "he": "הרמב״ם: טומטום — ספק בכור, ויאכל במומו לבעלים.",
+     "en": "Rambam: a tumtum is a doubtful firstborn and is eaten with its blemish by its owner."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 315",
+     "quote": "ואנדרוגינוס כתב הרמב\"ם שהוא חולין גמורין וא\"א הרא\"ש ז\"ל כתב שהוא ספק",
+     "he": "הטור מביא מחלוקת: הרמב״ם — אנדרוגינוס חולין גמורים; הרא״ש — ספק, ויאכל במומו לבעלים.",
+     "en": "The Tur records a dispute: Rambam — an androginos is entirely unconsecrated; Rosh — a doubt, eaten with its blemish by the owner."
+    },
+    {
+     "who": {
+      "he": "הכסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 2:5:1",
+     "quote": "משנה בסוף פרק על אלו מומין … ופסק כחכמים",
+     "he": "הכסף משנה: הרמב״ם פסק בבכור אנדרוגינוס כחכמים.",
+     "en": "Kessef Mishneh: Rambam ruled on a firstborn androginos like the Sages."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Marriage 4:11:1",
+     "quote": "וכן נמי לגבי אנדרוגינוס דפליגי ביה קי\"ל בעלמא דאנדרוגינוס בריה בפני עצמו הוא",
+     "he": "מגדל עוז: באנדרוגינוס, שנחלקו בו, קיימא לן בעלמא שהוא בריה בפני עצמו.",
+     "en": "Migdal Oz: regarding an androginos, on which they disagreed, we hold generally that it is a creature of its own."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Batra 100b:5",
+     "quote": "דבמסכת בכורות פרק על אלו מומין אשכחן תנאי בהדיא דסבירי להו טומטום ספיקא הוי",
+     "he": "השיטה מקובצת: בבכורות מצאנו במפורש תנאים הסוברים שטומטום ספק.",
+     "en": "Shita Mekubetzet: in Bekhorot we find explicitly tannaim who hold a tumtum is a doubt."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 315:3",
+     "quote": "אנדרוגינוס הוא ספק בכור ויאכל במומו לבעלים",
+     "he": "השולחן ערוך: אנדרוגינוס ספק בכור, ויאכל במומו לבעלים.",
+     "en": "Shulchan Arukh: an androginos is a doubtful firstborn, eaten with its blemish by the owner."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 315:2",
+     "quote": "ודוקא במטיל מים במקום נקבות אבל אם מטיל מים במקום זכרות בכור ודאי הוא וצריך ליתנו לכהן",
+     "he": "השולחן ערוך: טומטום ספק בכור דווקא כשמטיל מים במקום נקבות; אם במקום זכרות — בכור ודאי, ונותנים לכהן.",
+     "en": "Shulchan Arukh: a tumtum is a doubtful firstborn only when it urinates from the female place; from the male place it is a definite firstborn and goes to the kohen."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 315:3:1",
+     "quote": "ופסק הרא\"ש כרב חסדא",
+     "he": "הבית יוסף: הרא״ש פסק כרב חסדא, וכך נקבע בשולחן ערוך.",
+     "en": "Beit Yosef: the Rosh ruled like Rav Chisda."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 265:7:1",
+     "quote": "וכן כתב ע\"ש הרא\"ש בדין בכור בהמה סימן שט\"ו שהוא ספק",
+     "he": "הב״ח מקשה על פסקי המחבר בשאלת אנדרוגינוס, ומציין שבבכור בהמה פסק כרא״ש שהוא ספק.",
+     "en": "The Bach raises difficulties with the rulings on an androginos and notes that for an animal firstborn he ruled like the Rosh, that it is a doubt."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Marriage 4:11:2",
+     "quote": "ורבינו פסק כרב חסדא",
+     "he": "הלחם משנה דן בסתירות ברמב״ם, ומציין שפסק כרב חסדא בפרק ב׳ מהלכות בכורות.",
+     "en": "The Lechem Mishneh discusses apparent contradictions in Rambam and notes he ruled like Rav Chisda in Hilkhot Bekhorot ch. 2."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 2:5:1",
+     "quote": "וכחכמים בתראי דבכורות מ\"א א'",
+     "he": "הר המוריה: הרמב״ם פסק כחכמים האחרונים שבבכורות מ״א, בעוד הטור והשו״ע כדעת הרא״ש להחמיר.",
+     "en": "Har HaMoriyah: Rambam followed the later Sages of Bekhorot 41a, while the Tur and Shulchan Arukh follow the Rosh stringently."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Firstlings 2:5:1",
+     "quote": "דבריה בפני עצמה היא",
+     "he": "קרית ספר: טעם הרמב״ם — אנדרוגינוס בריה בפני עצמה, ולכן אין בו קדושה.",
+     "en": "Kiryat Sefer: the basis for Rambam — an androginos is a creature of its own, so it has no sanctity."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 74:23",
+     "quote": "אין בו קדושה כלל לאו משום דאינו ספק",
+     "he": "ערוך השולחן העתיד: מה שפסק הרמב״ם שבכור אנדרוגינוס אין בו קדושה כלל — לא מפני שאינו ספק, אלא מפני שנקבותו מום.",
+     "en": "Arukh HaShulchan HeAtid: Rambam's ruling that a firstborn androginos has no sanctity at all is not because it is not a doubt, but because its female part is a blemish."
+    }
+   ]
+  }
+ ]
+}
