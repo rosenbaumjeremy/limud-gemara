@@ -1,0 +1,1196 @@
+{
+ "ref": "Bekhorot 42",
+ "date": "2026-10-30",
+ "he": {
+  "overview": "הדף עוסק בטומטום ואנדרוגינוס. בעמוד א׳ מקשה הגמרא על רב חסדא (שטומטום ספק, וקדוש מספק) מכמה ברייתות ערכין וקרבנות הממעטות אותו, ומשיבה ״סמי מכאן טומטום״, ובמקום טומטום נכנס יתום; ואז מציעה שזו מחלוקת תנאים אם הוא ספק או בריה. בעמוד ב׳ נדונים המטיל מים במקום נקבות ו״הואיל ואישתני אישתני״, ומחלוקת הברייתות בקידושי טומטום, חליצה ויבום ומי הוא התנא כרבי עקיבא — רבי יהודה או רבי יוסי ברבי יהודה. הראשונים והאחרונים דנים אם ״בריה״ היא ספק או מין בפני עצמו, ובדעת הרמב״ם והרא״ש בבכור טומטום ואנדרוגינוס, בקידושין ובחליצה ויבום.",
+  "title": "סיכום — בכורות מ״ב"
+ },
+ "en": {
+  "overview": "The daf deals with the tumtum and the androginos. On amud a the Gemara challenges Rav Chisda (that a tumtum is a doubt and sanctified from doubt) from several baraitot on arakhin and sacrifices that exclude him, answers “erase the tumtum from here”, bringing the yatom in his place, and then suggests it is a dispute of Tannaim whether he is a doubt or a beriah. On amud b the Gemara discusses one who urinates from the female place and “since he changed, he changed”, the baraitot on a tumtum’s kiddushin, chalitzah and yibum, and who is the Tanna according to R. Akiva — R. Yehudah or R. Yosi b. R. Yehudah. The Rishonim and Acharonim discuss whether “beriah” means a doubt or a kind of its own, and the views of Rambam and the Rosh on a tumtum or androginos firstling, kiddushin, and chalitzah and yibum.",
+  "title": "Summary — Bekhorot 42"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "טומטום ואנדרוגינוס"
+   ],
+   "he": {
+    "term": "טומטום",
+    "explanation": "מי שאי אפשר לדעת אם הוא זכר או נקבה, כי אין סימני מין גלויים. לפי הגמרא כאן הספק נפתר אולי רק כשיקרעו אותו ויימצא זכר ודאי או נקבה ודאית. השאלה במסכת היא אם הוא קדוש בבכורה, נערך בערכין וכדומה."
+   },
+   "en": {
+    "term": "Tumtum",
+    "explanation": "A person (or animal) whose sex cannot be known because no sexual organs are visible. According to the Gemara here the doubt may be resolved only if he is torn open and found a definite male or definite female. The question in the tractate is whether he is sanctified as a firstling, assessed in arakhin and the like."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 42b:1",
+    "quote": "אי נקרע שמא הוי זכר ודאי או נקבה ודאית"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "סמי מיכן טומטום"
+   ],
+   "he": {
+    "term": "״סמי מכאן טומטום״",
+    "explanation": "תירוץ הגמרא לברייתות שממעטות טומטום מערכין: מוחקים את המילה ״טומטום״ מן הברייתא, כי רב חסדא סובר שהוא ספק והכתוב אינו ממעט ספק. לפי רש״י, המקרא ממעט רק אנדרוגינוס, ואילו טומטום נערך."
+   },
+   "en": {
+    "term": "“Samei mikan tumtum” (erase the tumtum from here)",
+    "explanation": "The Gemara’s answer to the baraitot that exclude a tumtum from arakhin: the word “tumtum” is deleted from the baraita, because Rav Chisda holds he is a doubt and the verse does not exclude a doubt. According to Rashi the verse excludes only the androginos, while the tumtum is assessed."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42a:2:3",
+    "quote": "מקרא לא ממעט אלא אנדרוגינוס ומשום בריה אבל טומטום נערך ולחומרא נערך כזכר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "יתום"
+   ],
+   "he": {
+    "term": "יתום",
+    "explanation": "בהמה שאמה מתה בשעת לידתה, ״זה פריש למיתה וזה פריש לחיים״. הוא נחשב ככלול בין הפסולים משנולדו, ולכן חמשת הלא קדושים ולא מקדישים הם טריפה, כלאים, יוצא דופן, יתום ואנדרוגינוס, במקום טומטום."
+   },
+   "en": {
+    "term": "Yatom (orphaned offspring)",
+    "explanation": "An animal whose mother dies as it is born — one departs to death and the other to life. It is counted among those disqualified from birth, so the five that are neither sanctified nor sanctifying are the treifah, kilayim, yotzei dofen, yatom and androginos, in place of the tumtum."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42a:10:1",
+    "quote": "שמתה אמו בשעת לידה זה פריש למיתה וזה פריש לחיים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "טומטום בבריה"
+   ],
+   "he": {
+    "term": "בריה",
+    "explanation": "מושג שלפיו האנדרוגינוס (או טומטום) אינו ספק בין זכר לנקבה אלא יצור שאינו זכר ואינו נקבה. הגמרא ממשיכה לטעון שלכולי עלמא טומטום אינו בריה אלא ספק."
+   },
+   "en": {
+    "term": "Beriah (a kind of its own)",
+    "explanation": "The idea that an androginos (or tumtum) is not a doubt between male and female but a creature that is neither male nor female. The Gemara goes on to say that all agree a tumtum is not a beriah but a doubt."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ן",
+     "en": "Ramban"
+    },
+    "ref": "Chiddushei Ramban on Yevamot 83a:1",
+    "quote": "הכי נמי הוא בריה מין בפני עצמו דלאו זכר ולא נקבה ואפילו לכשיקרע"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "נהפכה זכרותו לנקבותו"
+   ],
+   "he": {
+    "term": "״נהפכה זכרותו לנקבותו״",
+    "explanation": "חשש שמא אבר הזכרות נהפך פנימה ועתה משמש את הטלת המים כמקום נקבה. כשהבהמה מטילה מים במקום נקבות, מי שחושש לכך אומר שהיא זכר ו״מומו עמו״, ומי שלא חושש אומר שהיא נקבה."
+   },
+   "en": {
+    "term": "“Nehpecha zachrutu l’nakvuto” (his maleness turned into femaleness)",
+    "explanation": "The worry that the male organ has doubled back inward and now passes urine as a female place does. When the animal urinates from the female place, one who fears this says it is a male with its blemish, and one who does not says it is a female."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42b:1:2",
+    "quote": "נכפל גידו מבפנים ומוציא מים במקום שרגיל נקבות להיות נקבה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "הואיל ואישתני אישתני"
+   ],
+   "he": {
+    "term": "״הואיל ואישתני אישתני״",
+    "explanation": "הסברא שמי שכבר יצא מן הרגיל — הוא נעשה טומטום — כבר השתנה, ולכן חוששים גם לשינוי נוסף. הגמרא מציגה שיש אומרים ״אישתני״ ויש אומרים ״לא אישתני״, ומנסה לראות אם זו מחלוקת תנאים."
+   },
+   "en": {
+    "term": "“Hoil v’ishtani ishtani” (since he changed, he changed)",
+    "explanation": "The reasoning that one who has already departed from the norm — he became a tumtum — has changed, so a further change is also feared. The Gemara presents that some say “ishtani” and some “lo ishtani”, and tries to see whether this is a dispute of Tannaim."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42b:7:1",
+    "quote": "דהואיל ואישתני לענין טומטום אישתני דנהפכה זכרותו לנקבותו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "סריס חמה"
+   ],
+   "he": {
+    "term": "סריס חמה",
+    "explanation": "סריס מלידתו, שלא היתה לו שעת הכושר. לדעת רבי עקיבא הוא לא חולץ ולא מיבם, ואשתו לא חולצת ולא מתייבמת. מכאן נבחנות דעות התנאים על טומטום שנקרע."
+   },
+   "en": {
+    "term": "Saris chamah",
+    "explanation": "One who is a saris from birth, who never had a time of fitness. According to R. Akiva he neither does chalitzah nor yibum, and his wife neither does chalitzah nor is taken in yibum. From here the Tannaim’s views on a tumtum who is torn are tested."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42b:9:4",
+    "quote": "סריס חמה לא חולץ ולא מייבם ואשתו לא חולצת ולא מתייבמת שלא היתה לו שעת הכושר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "באנדרוגינוס"
+   ],
+   "he": {
+    "term": "אנדרוגינוס",
+    "explanation": "מי שיש לו סימני זכרות וסימני נקבות. לרבי ישמעאל והחכמים נחלקו בו, ורב חסדא אומר שהמחלוקת היא באנדרוגינוס ולא בטומטום. לפי רש״י, אצל האנדרוגינוס נקבותו ״חריץ״."
+   },
+   "en": {
+    "term": "Androginos",
+    "explanation": "One who has both male and female marks. R. Yishmael and the Sages disagree about him, and Rav Chisda says the dispute is about an androginos and not a tumtum. According to Rashi, in an androginos the female organ is a “slit”."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 42b:3:2",
+    "quote": "באנדרוגינוס דנעשה נקבות שלו חריץ"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "״הזכר״ באיסור ערכין — ״סמי מכאן טומטום״",
+    "gemara": "הגמרא מקשה על רב חסדא (טומטום ספק ולכן קדוש): אם טומטום ספק, מדוע ברייתות הערכין ממעטות אותו מ״הזכר״ ומ״אם נקבה״ — וכי הכתוב ממעט ספק? והיא מתרצת בכל פעם ״סמי מכאן טומטום״, כלומר מוחקים אותו מן הברייתא.",
+    "halakha": "הרמב״ם (ערכין א:ה): טומטום ואנדרוגינוס אין להם ערך, ואם אמרו ״ערכי עלי״ או שהעריכם אחר — אינם חייבים כלום."
+   },
+   "en": {
+    "title": "“Hazakhar” in the law of arakhin: “erase tumtum from here”",
+    "gemara": "The Gemara challenges Rav Chisda (a tumtum is a doubt, so it is sanctified): if so, why do the baraitot on arakhin exclude him from “hazakhar” and “im nekeivah”, when a verse does not exclude a mere doubt? Each time it answers “erase the tumtum from here”, deleting him from the baraita.",
+    "halakha": "Rambam (Arakhin 1:5): a tumtum and an androginos have no erekh; if one says “my erekh is upon me” or another assesses one of them, nothing is owed."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:1:1",
+     "quote": "נפקא לן ולא טומטום",
+     "he": "רש״י: מהריבוי שב״והיה ערכך הזכר״ (ה״א הידיעה) לומדים ״ולא טומטום״.",
+     "en": "Rashi: from the extra definite article in “hazakhar” we learn “and not a tumtum”."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:2:2",
+     "quote": "משום ספיקא לא ממעיט ליה קרא",
+     "he": "רש״י: ״משום ספיקא לא ממעיט ליה קרא״ — הכתוב אינו ממעט מפני ספק, ולכן ודאי ממעטו מפני שהוא בריה.",
+     "en": "Rashi: the verse does not exclude on account of doubt, so it must exclude the tumtum because he is a beriah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:2:3",
+     "quote": "מקרא לא ממעט אלא אנדרוגינוס ומשום בריה אבל טומטום נערך ולחומרא נערך כזכר",
+     "he": "רש״י על ״סמי מכאן טומטום״: מן המקרא ממעטים רק אנדרוגינוס, משום שהוא בריה; טומטום נערך, ולחומרא נערך כזכר.",
+     "en": "Rashi on “erase the tumtum”: the verse excludes only an androginos, as a beriah; a tumtum is assessed, and, as a stringency, as a male."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:1",
+     "quote": "דאין מחמירין עליו מספיקא",
+     "he": "רבינו גרשום: ״יכול לא יהא בערך איש״ — כי אין מחמירים עליו מספק.",
+     "en": "Rabbeinu Gershom: “Perhaps he is not valued as a man” — because we do not take the stringent view on him from doubt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:3",
+     "quote": "דטומטום נערך מספיקא",
+     "he": "רבינו גרשום: ״סמי מכאן טומטום״ — שכן טומטום נערך מספק.",
+     "en": "Rabbeinu Gershom: “erase the tumtum” — because a tumtum is assessed from doubt."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 42a:1:1",
+     "quote": "אבל מזכר לחודיה לא קממעט",
+     "he": "תוספות: הברייתא דורשת מן היתור, אבל מ״זכר״ לבדו אין ממעטים אנדרוגינוס.",
+     "en": "Tosafot: the baraita derives it from the extra word; from “zakhar” alone the androginos is not excluded."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chagigah 4a:7:1",
+     "quote": "דהתם איכא תרי קראי ומפיק ליה מייתורא דקרא",
+     "he": "תוספות (חגיגה ד.): בנדה יש שני פסוקים והמיעוט מיתור הכתוב, ולכן אין שם קושיה ״איצטריך קרא למעוטי ספק״.",
+     "en": "Tosafot (Chagigah 4a): in Niddah there are two verses and the exclusion comes from an extra word, so the question of a verse excluding a doubt is not asked there."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 22b:8:1",
+     "quote": "ספקא דאי אפשר להתברר כמו גבי בהרת ומעשר",
+     "he": "תוספות (חולין כב:): שייך שהכתוב ימעט מטעם ספק בספק שאי אפשר להתברר, כבהרת ובמעשר; כאן ניתן לברר.",
+     "en": "Tosafot (Chullin 22b): a verse can exclude on account of doubt where the doubt cannot be resolved, as with a baheret or tithing; here it can be resolved."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shabbat 136b:5:2",
+     "quote": "איצטריך קרא למעוטי ספיקא",
+     "he": "תוספות (שבת קלו:) מבארים את קושיית הגמרא כאן: אם טומטום ספק, ״איצטריך קרא למעוטי ספיקא״ — וכן מבארים שם את דברי רב חסדא.",
+     "en": "Tosafot (Shabbat 136b) explain the question here as: if a tumtum is a doubt, a verse is needed to exclude a doubt, and they explain Rav Chisda’s words on that basis."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:5",
+     "quote": "טֻמְטוּם וְאַנְדְּרוֹגִינוּס אֵין לָהֶם עֵרֶךְ שֶׁלֹּא קָצְבָה תּוֹרָה עֵרֶךְ אֶלָּא לְזָכָר וַדַּאי אוֹ לִנְקֵבָה וַדָּאִית",
+     "he": "הרמב״ם: אין להם ערך, כי התורה קצבה ערך רק לזכר ודאי או לנקבה ודאית.",
+     "en": "Rambam: they have no erekh, as the Torah set an erekh only for a definite male or a definite female."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 3:1:6",
+     "quote": "סתם שם זכר ונקבה כולל גם טומטום ואנדרוגינוס",
+     "he": "תורה תמימה: סתם ״זכר ונקבה״ כולל גם טומטום ואנדרוגינוס, אלא כשבא מיעוט מיוחד; לכן ״אם זכר אם נקבה״ בא להוציאם.",
+     "en": "Torah Temimah: a bare “male and female” includes a tumtum and androginos unless a special exclusion comes; “im zakhar im nekeivah” comes to exclude them."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Marriage 4:11:1",
+     "quote": "כאן פסק רבינו דטומטום ואנדרוגינוס ספק",
+     "he": "הלחם משנה: הרמב״ם פסק כאן שטומטום ואנדרוגינוס ספק, ותמה על כך מול הסוגיה כאן בבכורות ומול דבריו בהלכות ערכין.",
+     "en": "Lechem Mishneh: Rambam rules here that a tumtum and androginos are a doubt, and he is puzzled by this against the sugya in Bekhorot and against Rambam’s own words in Hilchot Arakhin."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "הברייתות: מטמאים בגדים בבית הבליעה, ״לא קדושים ולא מקדישין״, ״אפיק טומטום ועייל יתום״",
+    "gemara": "הגמרא מביאה ברייתא שטומטום ואנדרוגינוס מטמאים בגדים בבית הבליעה (ורבי אליעזר פוטר בעוף), וברייתא של רבי אלעזר שחמשה — טריפה, כלאים, יוצא דופן, טומטום ואנדרוגינוס — לא קדושים ולא מקדישין. אם ״סמי מכאן טומטום״ יישארו ארבעה, ולכן אומרת הגמרא: ״אפיק טומטום ועייל יתום״.",
+    "halakha": "הרמב״ם (פסולי המוקדשין ז:ד): טומטום ואנדרוגינוס שנמלקו — נבלה, ומטמאים בגדים בבית הבליעה, כי אין הקדושה חלה עליהם."
+   },
+   "en": {
+    "title": "The baraitot: defiling garments in the gullet, “neither sanctified nor sanctifying”, “remove tumtum and bring in yatom”",
+    "gemara": "The Gemara brings a baraita that a tumtum and androginos defile garments in the gullet (R. Eliezer exempts in the case of a bird), and R. Elazar’s baraita that five — a treifah, kilayim, a yotzei dofen, a tumtum and an androginos — are neither sanctified nor sanctifying. If the tumtum is erased only four remain, so the Gemara says: remove the tumtum and bring in the yatom.",
+    "halakha": "Rambam (Pesulei HaMukdashin 7:4): a tumtum or androginos whose neck was nipped is a neveilah and defiles garments in the gullet, since sanctity does not take hold on them."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:6",
+     "quote": "אלמא דטומטום לא קדיש למזבח",
+     "he": "רבינו גרשום: הברייתא עוסקת בתורים ובני יונה שנמלקו, והם נבילה — ״אלמא דטומטום לא קדיש למזבח״.",
+     "en": "Rabbeinu Gershom: the baraita concerns turtledoves and young pigeons that were nipped, and they are neveilah — so a tumtum is not sanctified for the altar."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:5:2",
+     "quote": "אלא ודאי בריה הוא והיכא דמעטיה מעטיה אבל בעופות דלא מעטיה לא מעטיה",
+     "he": "רש״י: אם טומטום ספק, אין הכתוב ממעטו; אלא ודאי בריה הוא — ובמקום שמיעטו הכתוב מיעטו, ובעופות לא מיעטו.",
+     "en": "Rashi: a verse does not exclude a doubt, so he must be a beriah — where the verse excluded him it excluded him, and for birds it did not exclude him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrifices Rendered Unfit 7:4",
+     "quote": "שֶׁאֵין הַקְּדֻשָּׁה חָלָה עֲלֵיהֶן",
+     "he": "הרמב״ם: הנרבע, המוקצה, הנעבד, האתנן, המחיר, הטומטום והאנדרוגינוס שנמלקו — נבלה, ״שאין הקדושה חלה עליהן״.",
+     "en": "Rambam: the nirba, the muktzeh, the ne’evad, the etnan, the mechir, the tumtum and the androginos that were nipped are neveilah, “for sanctity does not take hold on them”."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yevamot 84a:3:1",
+     "quote": "וכן בההיא דאין מטמא בגדים וההיא דלא קדושין ולא מקדישין",
+     "he": "תוספות (יבמות פד.): גם בברייתא ״אין מטמא בגדים״ וגם בברייתא ״לא קדושין ולא מקדישין״ שבבכורות הגרסה ״רבי אליעזר״.",
+     "en": "Tosafot (Yevamot 84a): in the baraita about not defiling garments and in the baraita “not sanctified and not sanctifying” in Bekhorot as well, the text reads “R. Eliezer”."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:8",
+     "quote": "לא אלימי למיתפס תמורתן",
+     "he": "רבינו גרשום על דברי שמואל: אם הקדישום והמירום בחולין — לא מקדישין, ״לא אלימי למיתפס תמורתן״.",
+     "en": "Rabbeinu Gershom on Shmuel: if one sanctified them and tried to substitute them for chullin, they do not sanctify; they are not strong enough to take hold of their substitute."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:9:2",
+     "quote": "ואי טומטום ספק הוא אמאי לא קדוש ממה נפשך",
+     "he": "רש״י: מדוע ״לא מקדישין״ — כגון ולדות קדשים שקדושים אגב אמם — ״ואי טומטום ספק הוא אמאי לא קדוש ממה נפשך״.",
+     "en": "Rashi: why are they not “sanctifying” — as in the case of offspring of sacrifices that are sanctified through their mother — “if a tumtum is a doubt, why is he not sanctified either way?”"
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:9",
+     "quote": "דכי ילדתו אמו היא פירשה למיתה והוא פורש לחיים",
+     "he": "רבינו גרשום על ״עייל יתום״: יתום — כשילדתו אמו היא פרשה למיתה והוא לחיים, ולכן לא קדוש.",
+     "en": "Rabbeinu Gershom on “bring in the yatom”: a yatom — when his mother bore him she departed to death and he to life — and therefore he is not sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42a:10:1",
+     "quote": "שמתה אמו בשעת לידה זה פריש למיתה וזה פריש לחיים",
+     "he": "רש״י: יתום דומה לפסולים משנולדו, כגון שמתה אמו בשעת לידה.",
+     "en": "Rashi: a yatom resembles the others that are disqualified from birth — one whose mother died at the time of birth."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrifices Rendered Unfit 7:4",
+     "quote": "הֲרֵי אֵלּוּ נְבֵלָה לְכָל דָּבָר וּמְטַמְּאִין בְּגָדִים בְּבֵית הַבְּלִיעָה",
+     "he": "הרמב״ם פוסק כתנא קמא של הברייתא — מטמאים בגדים בבית הבליעה.",
+     "en": "Rambam rules like the first Tanna of the baraita: they defile garments in the gullet."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 3:3:2",
+     "quote": "כיון שלמדנו בקרבנות שהטומטום והאנדרוגינוס מין אחר",
+     "he": "הכסף משנה: הרמב״ם פסק כסתם הברייתא ולא כרבי אליעזר, ומבאר שכיון שבקרבנות הטומטום והאנדרוגינוס מין אחר, גם בעוף הם מין אחר.",
+     "en": "Kessef Mishneh: Rambam ruled like the unattributed baraita and not like R. Eliezer, and explains that since in sacrifices a tumtum and androginos are another kind, in birds too they are another kind."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Things Forbidden on the Altar 3:3:1",
+     "quote": "דבטומטום נמי פסול למזבח דבעינן זכר וודאי ונקבה וודאית",
+     "he": "הר המוריה: אף שהרמב״ם סבור כרב חסדא שטומטום קדוש מספק, לענין הקרבה הוא פסול למזבח, כי צריך זכר ודאי ונקבה ודאית.",
+     "en": "Har HaMoriyah: even though Rambam holds like Rav Chisda that a tumtum is sanctified from doubt, for sacrifice he is disqualified from the altar, since a definite male and definite female are required."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Things Forbidden on the Altar 3:10:1",
+     "quote": "וכתב רבינו בפי' המשניות דהלכה כוותיה משום דלא מצינו חולק עליו",
+     "he": "הר המוריה: הרמב״ם כתב בפירוש המשניות שהלכה כרבי אלעזר, כי לא מצינו חולק עליו.",
+     "en": "Har HaMoriyah: Rambam wrote in his Commentary on the Mishnah that the halakha follows R. Elazar, as we find no one who disputes him."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 71:2",
+     "quote": "שאין טומטום ואנדרוגנוס פוסלים בעוף",
+     "he": "המלבי״ם: מכך שבעוף לא נאמר ״זכר או נקבה״ הוציא רבי אליעזר שאין טומטום ואנדרוגנוס פוסלים בעוף; וחכמים חולקים.",
+     "en": "Malbim: because “male or female” is not stated for birds, R. Eliezer derived that a tumtum and androginos do not disqualify in a bird; the Sages disagree."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Temurah 2:3:9",
+     "quote": "טומטום ואנדרוגינוס בריות משונות הן",
+     "he": "המלאכת שלמה: טומטום ואנדרוגינוס בריות משונות הן, כאילו לא קרב במינן.",
+     "en": "Melekhet Shelomoh: a tumtum and androginos are anomalous creatures, as if their kind were not offered."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    11,
+    1
+   ],
+   "he": {
+    "title": "״לימא כתנאי״ — האם טומטום ספק או בריה בפני עצמה",
+    "gemara": "הגמרא מציעה שמחלוקת רבי אילעאי משום רבי ישמעאל והחכמים, ורבי שמעון בן יהודה משום רבי שמעון, היא בשאלה אם טומטום ספק (קדוש מספק) או בריה (ואינו קדוש). הגמרא דוחה: לכולי עלמא טומטום אינו בריה אלא ספק זכר או נקבה, וההבדל ביניהם הוא במטיל מים.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "“Let us say it is a dispute of Tannaim” — is a tumtum a doubt or a creature in his own right",
+    "gemara": "The Gemara suggests that the dispute of R. Ilai in the name of R. Yishmael and the Sages, and of R. Shimon ben Yehudah in the name of R. Shimon, is whether a tumtum is a doubt (sanctified from doubt) or a beriah (and not sanctified). It rejects this: all agree a tumtum is not a beriah but a doubt between male and female, and the difference between them concerns urination.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42a:10",
+     "quote": "שמא בריה הוי ולא קדיש",
+     "he": "רבינו גרשום: דברי רב חסדא — יש אומרים שטומטום קדוש מספק, ויש שאומרים ״שמא בריה הוי ולא קדיש״.",
+     "en": "Rabbeinu Gershom: Rav Chisda’s statement — some say a tumtum is sanctified from doubt, and others say perhaps he is a beriah and not sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:1:1",
+     "quote": "דתיקום לרב חסדא כתנאי דתימא ההוא תנא דסבירא ליה בריה הוא",
+     "he": "רש״י: ״דתיקום לרב חסדא כתנאי״ — שנאמר שאותו תנא שסבור שהוא בריה סבור כחכמים האחרונים.",
+     "en": "Rashi: that Rav Chisda would stand as a dispute of Tannaim — to say that the Tanna who holds he is a beriah holds like the later Sages."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 42a:12:1",
+     "quote": "משמע הכא דקסבר אנדרוגינוס בריה הוא כמו טעמא דטומטום",
+     "he": "תוספות: משמע מכאן שרבי שמעון בן יהודה סובר שאנדרוגינוס בריה הוא, כטעם של טומטום.",
+     "en": "Tosafot: it appears from here that he holds an androginos is a beriah, as is the reason for the tumtum."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:1",
+     "quote": "בזכר או נקבה הוא דמספקא",
+     "he": "רבינו גרשום: ״בזכר או נקבה הוא דמספקא״ — שאיננו יודעים אם כשיקרע ימצא זכר ודאי או נקבה ודאית.",
+     "en": "Rabbeinu Gershom: the doubt is between male and female — we do not know whether, when torn, he will be found a definite male or a definite female."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Yevamot 83a:1",
+     "quote": "הכי נמי הוא בריה מין בפני עצמו דלאו זכר ולא נקבה ואפילו לכשיקרע",
+     "he": "הרמב״ן (יבמות פג.): בריה היא מין בפני עצמו, לא זכר ולא נקבה, ואפילו לכשיקרע; וממילא ״טומטום בבריה לא מספקא״.",
+     "en": "Ramban (Yevamot 83a): a beriah is a kind in itself, neither male nor female even when torn; hence a tumtum is not in doubt as a beriah."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Niddah 28b:1",
+     "quote": "כל היכא דאמר בריה אינו משום ספק זכר או נקבה אלא משום דהוי מין בפני עצמו",
+     "he": "הריטב״א (נדה כח:): בכל מקום שנאמר ״בריה״ אין הכוונה לספק זכר או נקבה אלא למין בפני עצמו.",
+     "en": "Ritva (Niddah 28b): wherever “beriah” is said it does not mean a doubt of male or female but a kind of its own."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shitah Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Batra 100b:5",
+     "quote": "קסבר טומטום בריה הוי",
+     "he": "השיטה מקובצת (ב״ב ק:): מביא את רבינו שמואל שהמשנה סוברת שטומטום בריה הוא, ומעלה קושי.",
+     "en": "Shitah Mekubetzet (Bava Batra 100b): he brings Rabbeinu Shmuel that the Mishnah holds a tumtum is a beriah, and raises a difficulty."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Yevamot 8:6:4:1",
+     "quote": "בטומטום איתא לחדא ברייתא בבכורות דף",
+     "he": "מראה הפנים: בבבלי דין קידושי טומטום מפורש רק בברייתא אחת בבכורות.",
+     "en": "Mareh HaPanim: in the Bavli the law of a tumtum’s kiddushin appears only in one baraita in Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    7
+   ],
+   "he": {
+    "title": "המטיל מים במקום נקבות — ״הואיל ואישתני אישתני״",
+    "gemara": "בעלי המחלוקת מסכימים שהמטיל מים במקום זכרות זכר הוא; נחלקו במטיל מים במקום נקבות: האחד חושש שמא נהפכה זכרותו לנקבותו, והאחר לא חושש. כך הורה רבי אלעזר בבהמה שמטילה מים במקום נקבות — חולין. רבי יוחנן תמה על ההוראה, וריש לקיש אומר שרק באדם הטומטום ספק. רב אושעיא מקשה ״וליחוש״, ועונים ״הואיל ואישתני אישתני״ — ויש אומרים כן ויש אומרים לא.",
+    "halakha": "השולחן ערוך (יו״ד שטו:ב): טומטום ספק בכור ויאכל במומו לבעליו, ודוקא במטיל מים במקום נקבות; אם מטיל במקום זכרות — בכור ודאי וצריך ליתנו לכהן. הרמב״ם (בכורות ב:ה) כתב: ספק בכור בין שהטיל מים ממקום זכרות בין ממקום נקבות."
+   },
+   "en": {
+    "title": "One who urinates from the female place — “since he has changed, he has changed”",
+    "gemara": "The disputants agree that one who urinates from the male place is a male; they differ about one who urinates from the female place: one fears that his maleness has turned into femaleness, the other does not. So R. Elazar ruled for an animal that urinates from the female place — chullin. R. Yochanan was astonished at the ruling, and Reish Lakish says a tumtum is a doubt only in a human. Rav Oshaya asks “but let us fear”, and the answer is “since he has changed, he has changed” — some say so, some do not.",
+    "halakha": "Shulchan Arukh (YD 315:2): a tumtum firstling is a doubtful bechor and is eaten when blemished by its owner, and only if it urinates from the female place; if it urinates from the male place it is a definite bechor and must be given to the kohen. Rambam (Bekhorot 2:5) wrote: a doubtful bechor whether it urinated from the male or the female place."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:3",
+     "quote": "סברי חיישינן שמא נהפכה זכרותו והויא במקום נקבותו וזכר הוא ומומו עמו",
+     "he": "רבינו גרשום: התנא קמא וחכמים חוששים שמא נהפכה זכרותו, ולכן הוא זכר ״ומומו עמו״.",
+     "en": "Rabbeinu Gershom: the first Tanna and the Sages fear that his maleness was turned over, so he is a male “with his blemish”."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:4",
+     "quote": "דכי מטיל מים במקום נקבות ודאי נקבה הוא",
+     "he": "רבינו גרשום: רבי שמעון סובר שכשמטיל מים במקום נקבות ודאי נקבה הוא.",
+     "en": "Rabbeinu Gershom: R. Shimon holds that when he urinates from the female place he is definitely a female."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:2",
+     "quote": "דמקום זכרות דבהמה מרוחק הוא ממקום נקבות",
+     "he": "רבינו גרשום: בבהמה מקום הזכרות מרוחק ממקום הנקבות.",
+     "en": "Rabbeinu Gershom: in an animal the male place is distant from the female place."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:1:2",
+     "quote": "נכפל גידו מבפנים ומוציא מים במקום שרגיל נקבות להיות נקבה",
+     "he": "רש״י מבאר ״נהפכה זכרותו״: גידו נכפל מבפנים ומוציא מים במקום שבו רגילות הנקבות.",
+     "en": "Rashi explains “his maleness was turned over”: his organ doubled back inward and passes urine where females usually do."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:5:1",
+     "quote": "וליכא למיבדקינהו בהטלת מים",
+     "he": "רש״י על דברי ריש לקיש: באדם זכרותו ונקבותו במקום אחד ואי אפשר לבדקם בהטלת מים; בבהמה אין ספק.",
+     "en": "Rashi on Reish Lakish: in a human the male and female places are in one spot and cannot be checked by urination; in an animal there is no doubt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:7:1",
+     "quote": "דהואיל ואישתני לענין טומטום אישתני דנהפכה זכרותו לנקבותו",
+     "he": "רש״י: גם לדעת חכמים אפשר להקשות כך — הואיל ושינוי הטומטום, שינוי נהפכה זכרותו לנקבותו.",
+     "en": "Rashi: even on the Sages’ view one may ask this — since he changed in becoming a tumtum, he may have changed so that his maleness turned into femaleness."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:6:1",
+     "quote": "מי חיישינן ליחידאה",
+     "he": "רש״י על דברי רב אושעיא: ״כר׳ מאיר?״ — האם חוששים ליחיד.",
+     "en": "Rashi on Rav Oshaya’s retort: “like R. Meir?” — do we fear the lone view?"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 42b:5:1",
+     "quote": "ולאו אליבא דכולי עלמא קאמר",
+     "he": "תוספות על ריש לקיש: ״לא אמרו טומטום ספק אלא באדם״ אינו לכולי עלמא, כי לתנא קמא של המשנה ספק הוא.",
+     "en": "Tosafot on Reish Lakish: “they said a tumtum is a doubt only in a human” is not said according to everyone, since for the first Tanna of the Mishnah it is a doubt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:12",
+     "quote": "דכיון דאישתני דטומטום הוא אישתני נמי דניחוש דילמא נהפך זכרותו לנקבות",
+     "he": "רבינו גרשום: אפילו לרבנן — כיון שהשתנה להיות טומטום, חוששים שמא נהפכה זכרותו לנקבות.",
+     "en": "Rabbeinu Gershom: even according to the Rabbanan — since he has become a tumtum we fear that his maleness turned into femaleness."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:11",
+     "quote": "יחידאה הוא דחייש למיעוט",
+     "he": "רבינו גרשום על ״כמאן כרבי מאיר״: רק יחיד הוא שחושש למיעוט.",
+     "en": "Rabbeinu Gershom on “like whom? like R. Meir?”: only a lone opinion fears a minority."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:5",
+     "quote": "נוֹלַד טֻמְטוּם הֲרֵי זֶה סְפֵק בְּכוֹר וְיֵאָכֵל בְּמוּמוֹ לִבְעָלָיו. בֵּין שֶׁהֵטִיל מַיִם מִמְּקוֹם זִכְרוּת בֵּין שֶׁהֵטִיל מִמְּקוֹם נַקְבוּת",
+     "he": "הרמב״ם: נולד טומטום — ספק בכור ויאכל במומו לבעליו, בין שהטיל מים ממקום זכרות בין ממקום נקבות.",
+     "en": "Rambam: a tumtum is born — a doubtful bechor, eaten when blemished by its owner, whether it urinated from the male or the female place."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 315",
+     "quote": "כתב דוקא במטיל מים במקום נקבות אבל אם מטיל במקום זכרות בכור ודאי הוא וצריך ליתנו לכהן",
+     "he": "הטור: הרא״ש כתב שדוקא במטיל מים במקום נקבות ספק; אם מטיל במקום זכרות — בכור ודאי וצריך ליתנו לכהן.",
+     "en": "Tur: the Rosh wrote that the doubt is only when it urinates from the female place; if from the male place it is a definite bechor and must be given to the kohen."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 42b:3",
+     "quote": "הוה מטיל מים במקום נקבות הוה נקבה ודאי",
+     "he": "המהרש״א על התוספות: רבי שמעון אין לו ספק בטומטום, כי אילו היה מטיל מים במקום נקבות היה נקבה ודאי.",
+     "en": "Maharsha on Tosafot: R. Shimon has no doubt about a tumtum, since had he urinated from the female place he would be a definite female."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 315:2",
+     "quote": "ודוקא במטיל מים במקום נקבות אבל אם מטיל מים במקום זכרות בכור ודאי הוא וצריך ליתנו לכהן",
+     "he": "השולחן ערוך: בכור טומטום ספק בכור ויאכל במומו, ודוקא במטיל מים במקום נקבות; במקום זכרות — בכור ודאי.",
+     "en": "Shulchan Arukh: a tumtum firstling is a doubtful bechor eaten when blemished, and only when it urinates from the female place; from the male place it is a definite bechor."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 18:14:1",
+     "quote": "בין מטיל מים במקום זכרות בין מטיל מים במקום נקבות ספק הוא",
+     "he": "המנחת חינוך: דעת הרמב״ם שבין מטיל מים במקום זכרות בין במקום נקבות — ספק הוא.",
+     "en": "Minchat Chinukh: Rambam’s view is that whether it urinates from the male or female place it is a doubt."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 2:5:1",
+     "quote": "א״כ יש כת גדולה מכת הקודמין הסוברים כרבינו",
+     "he": "הר המוריה (בענין אנדרוגינוס): הרמב״ן, הריטב״א והמאירי פסקו כרי״ף ורמב״ם, ולכן יש כת גדולה הסוברים כרבינו; ובטור ושו״ע סתמו כרא״ש להחמיר.",
+     "en": "Har HaMoriyah (on the androginos): the Ramban, Ritva and Meiri ruled like the Rif and Rambam, so a great company holds like Rambam; the Tur and Shulchan Arukh ruled like the Rosh, to be stringent."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chatam Sofer on Shulchan Arukh, Orach Chayim 689:1",
+     "quote": "חיישינן שמא כשיקרע ימצא אנדרוגינוס",
+     "he": "החתם סופר (על המג״א): ״חיישינן שמא כשיקרע ימצא אנדרוגינוס״, כיון שהשתנה, וסברא זו מצויה גם בבכורות מב:.",
+     "en": "Chatam Sofer (on the Magen Avraham): we fear that when he is torn an androginos will be found, since he has changed, and this reasoning is found also in Bekhorot 42b."
+    },
+    {
+     "who": {
+      "he": "שו״ת מהרש״ם",
+      "en": "Teshuvot Maharsham"
+     },
+     "ref": "Teshuvot Maharsham Volume I 149:6",
+     "quote": "והואיל ואשתני אשתני וכדאיתא בבכורות",
+     "he": "שו״ת מהרש״ם: מביא את ״הואיל ואשתני אשתני״ מבכורות מב: במי שאיתרע חזקתו מחזקת שאר בני אדם.",
+     "en": "Maharsham: he cites “since he has changed, he has changed” from Bekhorot 42b for one who has departed from the presumption of other people."
+    },
+    {
+     "who": {
+      "he": "שו״ת מהרש״ם",
+      "en": "Teshuvot Maharsham"
+     },
+     "ref": "Teshuvot Maharsham Volume II 214:4",
+     "quote": "דלמא נתהפך זכרות לנקבות",
+     "he": "שו״ת מהרש״ם: כיון שהשתנה להיות טומטום, חוששים גם שמא נתהפך זכרות לנקבות, והדבר תלוי במחלוקת — ולהלכה קיימא ״הואיל ואשתני אשתני״.",
+     "en": "Maharsham: since he has changed to a tumtum, we also fear that maleness turned into femaleness; it depends on a dispute, and the halakha is “since he has changed, he has changed”."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura I 1:216:3",
+     "quote": "אשתני ולא אשתני תנאי הוא",
+     "he": "השואל ומשיב: מזכיר את ״אשתני ולא אשתני תנאי הוא״ בענין שינוי מרוב — שיצא מן הרוב פעם אחת אך לא כמה פעמים.",
+     "en": "Shoel uMeshiv: he mentions “ishtani and lo ishtani is a dispute of Tannaim” in a case of departure from a majority — once, though not several times."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    13
+   ],
+   "he": {
+    "title": "קידושי טומטום, חליצה ויבום — ״אישתני ולא אישתני תנאי״",
+    "gemara": "הגמרא מציעה שהמחלוקת ״אישתני ולא אישתני״ היא מחלוקת תנאים בברייתא: טומטום שקידש או נתקדש — קידושיו קידושין, וחולץ וחולצין לאשתו ומיבמין לאשתו; ברייתא שניה: אשת טומטום חולצת ולא מתייבמת. מניחה שכולם כרבי עקיבא (סריס חמה לא חולץ ולא מיבם) וסוברת שנחלקו אם אומרים ״הואיל ואישתני אישתני״; ודוחה: לכולי עלמא אומרים כן, וזה כרבי אליעזר וזה כרבי עקיבא.",
+    "halakha": "השולחן ערוך (אה״ע מד:ה): טומטום ואנדרוגינוס שקידשו או שקידשם איש — קידושיהם ספק וצריכים גט מספק. הרמב״ם (אישות ד:יא): כן."
+   },
+   "en": {
+    "title": "A tumtum’s kiddushin, chalitzah and yibum — “ishtani and lo ishtani” as a dispute",
+    "gemara": "The Gemara suggests that “ishtani vs lo ishtani” is a dispute of Tannaim in a baraita: a tumtum who betroths or is betrothed — the kiddushin are valid; he does chalitzah, and chalitzah is done for his wife, and she may enter yibum; a second baraita: a tumtum’s wife does chalitzah but not yibum. It assumes all follow R. Akiva (a saris chamah neither does chalitzah nor yibum) and that they differ on whether we say “since he changed, he changed”; and it rejects this: all say so, and one is like R. Eliezer, one like R. Akiva.",
+    "halakha": "Shulchan Arukh (EH 44:5): a tumtum or androginos who betrothed, or whom a man betrothed — the kiddushin are in doubt and a get is required out of doubt. Rambam (Ishut 4:11): the same."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:14",
+     "quote": "דאסור בקרובותיה וכן אם נתקדש נאסר אותו שקידשו בקרובותיו",
+     "he": "רבינו גרשום: כשהטומטום קידש — אסור בקרובותיה; ואם נתקדש — נאסר המקדש בקרובותיו של הטומטום.",
+     "en": "Rabbeinu Gershom: when the tumtum betroths, he is forbidden her relatives; if he is betrothed, the one who betrothed him is forbidden the tumtum’s relatives."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:8:2",
+     "quote": "לחומרא וצריכה גט שמא זכר הוא",
+     "he": "רש״י: ״קדושיו קדושין״ לחומרא, וצריכה גט שמא זכר הוא.",
+     "en": "Rashi: “his kiddushin are valid” as a stringency, and she needs a get lest he be a male."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:8:3",
+     "quote": "וזה שקדשו אסור בקרובותיו של טומטום כגון באמו ובאחותו",
+     "he": "רש״י: ״נתקדש״ — המקדש אסור בקרובותיו של הטומטום, כגון אמו ואחותו, שמא נקבה הוא.",
+     "en": "Rashi: “was betrothed” — the one who betrothed him is forbidden the tumtum’s relatives, such as his mother and sister, lest he be a female."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:9:3",
+     "quote": "אבל טומטום לא מייבם דאינו בן לידה ולא קרינא ביה להקים לאחיו שם",
+     "he": "רש״י: אחי הטומטום מיבמים את אשתו, אבל הטומטום לא מייבם — אינו בן לידה ולא נאמר בו ״להקים לאחיו שם״.",
+     "en": "Rashi: the tumtum’s brothers may marry his wife by yibum, but a tumtum himself does not do yibum — he is not capable of begetting and “to raise up a name for his brother” is not said of him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:16",
+     "quote": "ממה נפשך אי אשתו הויא קיים מצות יבום ואי לאו לא נאסרה עליו",
+     "he": "רבינו גרשום: ״ומיבמין לאשתו״ — ממה נפשך: אם אשתו, קיים מצות יבום; ואם לאו, לא נאסרה עליו.",
+     "en": "Rabbeinu Gershom: “and they marry his wife by yibum” — either way: if she is a wife he fulfilled the mitzvah of yibum, and if not she was not forbidden to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:9:4",
+     "quote": "סריס חמה לא חולץ ולא מייבם ואשתו לא חולצת ולא מתייבמת שלא היתה לו שעת הכושר",
+     "he": "רש״י: לרבי עקיבא סריס חמה לא חולץ ולא מיבם ואשתו לא חולצת ולא מתייבמת, כי לא היתה לו שעת הכושר.",
+     "en": "Rashi: for R. Akiva a saris chamah neither does chalitzah nor yibum and his wife neither does chalitzah nor is taken in yibum, since he never had a time of fitness."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:11:1",
+     "quote": "דלא אמרינן הואיל ואישתני למיהוי טומטום אישתני נמי לספוקי בסריס חמה",
+     "he": "רש״י: מי שאומר מיבמין לאשתו — סובר שלא אומרים ״הואיל ואישתני״ להיות טומטום להסתפק בסריס חמה.",
+     "en": "Rashi: the one who says they marry his wife by yibum holds that we do not say that, since he changed to a tumtum, we are also in doubt whether he is a saris chamah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:12:1",
+     "quote": "דסריס חמה הוא אין אשתו זקוקה ליבם",
+     "he": "רש״י: מי שאומר אין מתייבמת — סובר ״הואיל ואישתני״; כיון שהוא סריס חמה, אין אשתו זקוקה ליבם, והמיבמה פוגע באיסור אשת אח; ומכל מקום חליצה צריכה.",
+     "en": "Rashi: the one who says she is not taken in yibum holds “since he changed”; as a saris chamah his wife is not bound to the yavam, and one who marries her is liable for forbidden relations; chalitzah is still needed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:13:1",
+     "quote": "אשת סריס חמה מתייבמת שכן במינן מתרפאין באלכסנדריא",
+     "he": "רש״י: הברייתא שמתייבמת היא כרבי אליעזר, שאשת סריס חמה מתייבמת שכן במינן מתרפאין באלכסנדריא; והאחרת כרבי עקיבא.",
+     "en": "Rashi: the baraita that she is taken in yibum is like R. Eliezer, that a saris chamah’s wife is taken in yibum as those of his kind are healed in Alexandria; the other is like R. Akiva."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:17",
+     "quote": "לא אמרינן הואיל ואישתני דהוה טומטום אישתני נמי דהוה סריס חמה",
+     "he": "רבינו גרשום: מי שמתיר יבום סובר שלא אומרים שמכיוון שהיה טומטום נשתנה גם להיות סריס חמה.",
+     "en": "Rabbeinu Gershom: the one who permits yibum holds that we do not say that since he became a tumtum he also changed into a saris chamah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:18",
+     "quote": "ולא מתייבם משום דכתיב אשר לא יבנה את בית אחיו",
+     "he": "רבינו גרשום: מי שאומר חולצת ולא מתייבמת — משום ״אשר לא יבנה את בית אחיו״, שמא אינו בית אחיו.",
+     "en": "Rabbeinu Gershom: the one who says chalitzah but not yibum — because it is written “who does not build his brother’s house”, lest it not be his brother’s house."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:20",
+     "quote": "ר' עקיבא היא דאמר סריס חמה לא היתה לו שעת הכושר",
+     "he": "רבינו גרשום: הברייתא ״חולצת ולא מתייבמת״ כרבי עקיבא, שסריס חמה לא היתה לו שעת הכושר.",
+     "en": "Rabbeinu Gershom: the baraita “chalitzah but not yibum” follows R. Akiva, for whom a saris chamah never had a time of fitness."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Marriage 4:11",
+     "quote": "הֲרֵי אֵלּוּ קִדּוּשֵׁי סָפֵק וּצְרִיכִין גֵּט מִסָּפֵק",
+     "he": "הרמב״ם: טומטום ואנדרוגינוס שקידשו אשה או שקידשם איש — קידושי ספק וצריכין גט מספק.",
+     "en": "Rambam: a tumtum or androginos who betrothed a woman or whom a man betrothed — the kiddushin are in doubt and a get is required."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Marriage 4:11:1",
+     "quote": "למדנו דטומטום שקידש או נתקדש קידושיו ספק",
+     "he": "מגדל עוז: מסוגיית הגמרא למדנו שקידושי טומטום שקידש או נתקדש — ספק.",
+     "en": "Migdal Oz: from the Gemara we learned that the kiddushin of a tumtum who betrothed or was betrothed are in doubt."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 44:5",
+     "quote": "טומטום ואנדרוגינוס או שקידשו או שקידשם איש קידושיהם ספק וצריכין גט מספק",
+     "he": "השולחן ערוך: טומטום ואנדרוגינוס שקידשו או שקידשם איש — קידושיהם ספק וצריכין גט מספק; ויש אומרים שאנדרוגינוס ודאי זכר.",
+     "en": "Shulchan Arukh: a tumtum or androginos who betrothed or whom a man betrothed — the kiddushin are in doubt and a get is required; some say an androginos is definitely male."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 110:117",
+     "quote": "ומת אשתו חולצת ולא מתייבמת וטומטום הוא ספק זכר ספק נקבה",
+     "he": "ערוך השולחן: מביא דיוק מהסוגיה — טומטום שקידש אשה ומת, אשתו חולצת ולא מתייבמת, והטומטום ספק זכר ספק נקבה.",
+     "en": "Arukh HaShulchan: he brings an inference from the sugya — a tumtum who betrothed a woman and died, his wife does chalitzah and not yibum, and a tumtum is a doubtful male or female."
+    },
+    {
+     "who": {
+      "he": "מהרי״ט",
+      "en": "Maharit"
+     },
+     "ref": "Teshuvot Maharit, II, Yoreh Deah 2:6",
+     "quote": "דאשת טומטום דלא מתייבמה … תרתי דסתרן",
+     "he": "המהרי״ט: מבאר ש״אשת טומטום חולצת ולא מתייבמת״ מבוסס על שני ספקות שסותרים זה את זה (״תרתי דסתרן״).",
+     "en": "Maharit: he explains that “a tumtum’s wife does chalitzah and not yibum” rests on two doubts that contradict each other (“tarti d’sartan”)."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    18
+   ],
+   "he": {
+    "title": "״ומאן תנא אליבא דרבי עקיבא״ — רבי יהודה ורבי יוסי ברבי יהודה, ״שמא יקרע״",
+    "gemara": "הגמרא שואלת מי התנא שחולצת ולא מתייבמת כרבי עקיבא: לא רבי יהודה (טומטום שנקרע ונמצא זכר לא יחלוץ כי הוא כסריס), אלא רבי יוסי ברבי יהודה: טומטום לא חולץ, שמא יקרע וימצא סריס חמה. ושואלת ״אטו כל דמיקרע זכר משתכח״ — הוא אומר ״שמא״, שמא יקרע וימצא נקבה, ואפשר גם זכר ושמא ימצא סריס חמה. ההבדל ביניהם — אמר רבא (לפי המשך הדף).",
+    "halakha": "השולחן ערוך (אה״ע קעב:ט): טומטום חולץ ולא מייבם מפני שהוא ספק; ואם נקרע ונמצא זכר — רצה חולץ רצה מייבם, ויש אומרים שהוא ספק ולחומרא. הרמב״ם (יבום וחליצה ו:ד): כך."
+   },
+   "en": {
+    "title": "“Who is the Tanna according to R. Akiva” — R. Yehudah and R. Yosi b. R. Yehudah, “lest he be torn”",
+    "gemara": "The Gemara asks who is the Tanna for “chalitzah but not yibum” according to R. Akiva: not R. Yehudah (a tumtum who was torn and found male should not do chalitzah because he is like a saris), but R. Yosi b. R. Yehudah: a tumtum does not do chalitzah, lest he be torn and found a saris chamah. It asks “does every tear find a male — and not a female?” — he said “lest”, lest he be torn and found a female; or even a male, lest he be found a saris chamah. What is between them? Rava said (continuing on the next page).",
+    "halakha": "Shulchan Arukh (EH 172:9): a tumtum does chalitzah and not yibum because he is a doubt; if he was torn and found male, he may choose chalitzah or yibum, and some say he is in doubt and the stringency applies. Rambam (Yibum 6:4): the same."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:21",
+     "quote": "איהו ודאי סריס חמה משוי ליה",
+     "he": "רבינו גרשום: רבי יהודה, תלמיד רבי עקיבא, משוי טומטום ודאי סריס חמה — ואם כן למה חולצת?",
+     "en": "Rabbeinu Gershom: R. Yehudah, R. Akiva’s student, makes him a definite saris chamah — so why does she do chalitzah?"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:14:2",
+     "quote": "סריס ודאי משוי ליה לטומטום",
+     "he": "רש״י: רבי יהודה משווה את הטומטום לסריס ודאי, ולא היה צריך אפילו חליצה לפי רבי עקיבא.",
+     "en": "Rashi: R. Yehudah makes a tumtum a definite saris, and according to R. Akiva not even chalitzah would be needed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:22",
+     "quote": "וכיון דשמא ימצא סריס חמה ולא ודאי משום הכי חולצת",
+     "he": "רבינו גרשום על רבי יוסי ברבי יהודה: כיון ש״שמא״ ימצא סריס חמה ולא ודאי, לכן חולצת.",
+     "en": "Rabbeinu Gershom on R. Yosi b. R. Yehudah: since he might perhaps be found a saris chamah and not definitely, she does chalitzah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:16:1",
+     "quote": "דשמא קאמר הילכך חליצה בעיא דשמא זכר הוא ושמא אינו סריס",
+     "he": "רש״י: ״שמא״ — לכן חליצה צריכה שמא זכר הוא ושמא אינו סריס; ולא מתייבמת.",
+     "en": "Rashi: he said “perhaps” — so chalitzah is needed lest he be a male and lest he not be a saris; but not yibum."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:16:2",
+     "quote": "ובמקום אחין קאמר דלא יחלוץ",
+     "he": "רש״י: דברי רבי יוסי ברבי יהודה בטומטום שיש לו אחים; אבל כשאין שם אחר — יחלוץ.",
+     "en": "Rashi: R. Yosi b. R. Yehudah’s words apply where there are other brothers; where there is no other brother he does chalitzah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:17:1",
+     "quote": "דלא מספקא ליה אלא בסריס חמה ובנקבה לא מספקא ליה",
+     "he": "רש״י על ״אטו כל דמקרע זכר מישתכח״: לא נסתפק לו אלא בסריס חמה, ובנקבה לא.",
+     "en": "Rashi on “does every tear find a male”: his doubt is only about a saris chamah, not about a female."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 42b:18:1",
+     "quote": "בין רבי יהודה לר' יוסי בטומטום שמת אחיו",
+     "he": "רש״י על ״מאי בינייהו״: ההבדל בין רבי יהודה לרבי יוסי בטומטום שמת אחיו, שהרי שניהם אומרים שלא יחלוץ.",
+     "en": "Rashi on “what is between them”: the difference between R. Yehudah and R. Yosi is in a tumtum whose brother died, since both say he should not do chalitzah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yevamot 83b:7:1",
+     "quote": "וכן גרס בבכורות בפרק על אלו מומין",
+     "he": "תוספות (יבמות פג:): רבנו חננאל גורס כן גם בבכורות — ״שמא יקרע וימצא נקבה״.",
+     "en": "Tosafot (Yevamot 83b): Rabbeinu Chananel reads this also in Bekhorot — “lest he be torn and found a female”."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 42b:23",
+     "quote": "לפסול במקום אחין וליחלוץ שלא במקום אחים איכא בינייהו",
+     "he": "רבינו גרשום על דברי רבא: ההבדל ביניהם הוא לפסול במקום אחים ולחלוץ שלא במקום אחים.",
+     "en": "Rabbeinu Gershom on Rava’s words: the difference between them is about disqualifying where there are brothers and doing chalitzah where there are none."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yevamot 83b:7:1",
+     "quote": "בין כך ובין כך אין ראוי כלל ליבם",
+     "he": "תוספות: בין כך ובין כך אינו ראוי כלל ליבם; והקושיה היתה למה לא אמר ״טומטום הרי הוא כסריס״.",
+     "en": "Tosafot: either way he is not fit at all for yibum; and the question was why he did not say “a tumtum is like a saris”."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 48:1",
+     "quote": "דין הטומטום פשוט ונלמד שהוא ספק זכר",
+     "he": "הסמ״ג: דין הטומטום פשוט ונלמד שהוא ספק זכר; וקידושיו ספק וצריכים גט.",
+     "en": "Semag: the law of a tumtum is simple and learned — he is a doubtful male; his kiddushin are doubtful and require a get."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Levirate Marriage and Release 6:4",
+     "quote": "וְהַטֻּמְטוּם חוֹלֵץ וְלֹא מְיַבֵּם מִפְּנֵי שֶׁהוּא סָפֵק. וְאִם נִקְרַע וְנִמְצָא זָכָר רָצָה חוֹלֵץ רָצָה מְיַבֵּם",
+     "he": "הרמב״ם: הטומטום חולץ ולא מיבם מפני שהוא ספק; ואם נקרע ונמצא זכר — רצה חולץ רצה מיבם.",
+     "en": "Rambam: a tumtum does chalitzah and not yibum because he is a doubt; if he was torn and found male, he may choose chalitzah or yibum."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות רבי עקיבא איגר",
+      "en": "Tosafot Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Yevamot 8:6:1",
+     "quote": "והוא נגד סוגיא ערוכה בבכורות",
+     "he": "תוספות רבי עקיבא איגר: תמה על הרע״ב והתוי״ט שכתבו כך, ״והוא נגד סוגיא ערוכה בבכורות״ — שם הטומטום שנקרע נחשב סריס חמה.",
+     "en": "Tosafot R. Akiva Eiger: he is astonished at the Rav of Bartenura and Tosafot Yom Tov, since it is “against an arranged sugya in Bekhorot” — there the torn tumtum is treated as a saris chamah."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 172:9",
+     "quote": "טומטום חולץ ולא מייבם מפני שהוא ספק ואם נקרע ונמצא זכר רצה חולץ רצה מייבם ויש מי שאומר שהוא ספק ולחומרא",
+     "he": "השולחן ערוך: טומטום חולץ ולא מייבם מפני שהוא ספק; נקרע ונמצא זכר — רצה חולץ רצה מייבם, ויש מי שאומר שהוא ספק ולחומרא.",
+     "en": "Shulchan Arukh: a tumtum does chalitzah and not yibum because he is a doubt; if torn and found male, he may choose either, and some say he is a doubt, stringently."
+    },
+    {
+     "who": {
+      "he": "בית שמואל",
+      "en": "Beit Shmuel"
+     },
+     "ref": "Beit Shmuel 172:11",
+     "quote": "שמא נקרע וימצא סריס חמה היינו אף אם יהיה זכר ספק לנו שמא סריס הוא",
+     "he": "הבית שמואל: ״ויש מי שאומר״ הוא הרא״ש שפוסק כרבי יוסי — אף אם נמצא זכר ספק לנו שמא סריס הוא.",
+     "en": "Beit Shmuel: “some say” is the Rosh, who rules like R. Yosi — even if a male is found we have a doubt lest he be a saris."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Levirate Marriage and Release 6:4:2",
+     "quote": "שם זכר לא חל עליו רק אז",
+     "he": "הצפנת פענח: לדעת הרמב״ם, אף אם נקרע ונמצא זכר, שם זכר לא חל עליו אלא מאז.",
+     "en": "Tzafnat Pa’neach: on Rambam’s view, even if he was torn and found male, the status of male takes hold on him only from then."
+    }
+   ]
+  }
+ ]
+}
