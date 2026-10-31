@@ -1,0 +1,1443 @@
+{
+ "ref": "Bekhorot 43",
+ "date": "2026-10-31",
+ "he": {
+  "overview": "המשנה בפרק ״מומין אלו״ פותחת בכך שהמומים האמורים בבכור פוסלים גם כהן, ומוסיפה מומים יתרים באדם: כילון, לפתן, מקבן, שראשו שקוט, סקיפת, בעלי חטרות וקרח. בעמוד א הגמרא עוסקת בגזירה שוה ״גרב״ ו״ילפת״ המעבירה מומין בין אדם לבהמה, ובשאלה למה נכתבו מום באדם, בקדשים ובבכור, ומגיעה למקור ״איש ששוה בזרעו של אהרן״. בעמוד ב מבוארים ההבדלים בין מום גמור, אינו שוה ומראית העין, צורת הראש, בעלי חטרות והקרח, דברי ר׳ יוחנן על קרחנין, ננסין וזבלגנין, ושאלת הגבן והחרום. הראשונים והאחרונים דנים בעיקר באחולי עבודה, במלקות או עשה באינו שוה, ובפירוש המומים.",
+  "title": "סיכום — בכורות מ״ג"
+ },
+ "en": {
+  "overview": "The Mishnah in the chapter 'Mumin eilu' opens by stating that the blemishes listed for a firstborn also disqualify a kohen, and adds blemishes unique to a person: kilon, lafetan, makkaban, a shakut head, skifat, baalei chatarot and the bald. On amud a the Gemara deals with the gezeirah shavah of 'garav' and 'yalefet' that transfers blemishes between person and animal, and with why a blemish was written for a person, for sacrifices and for a firstborn, reaching the source 'a man equal within Aharon's seed'. On amud b it sets out the differences between a full blemish, 'not equal' and appearance, the shapes of the head, baalei chatarot and the bald man, R. Yochanan's words on karchanin, nanasin and zablaganin, and the questions of gaben and charum. The Rishonim and Acharonim discuss mainly desecration of the service, whether 'not equal' carries lashes or only a positive commandment, and the explanation of the blemishes.",
+  "title": "Summary — Bekhorot 43"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 22,
+   "anchors": [
+    "איש ששוה בזרעו של אהרן"
+   ],
+   "he": {
+    "term": "שוה בזרעו של אהרן",
+    "explanation": "מקור לפסול כהן גם בלי מום ממש. מכתוב ״כל איש אשר בו מום מזרע אהרן״ דרשו: איש ששוה בזרעו של אהרן – כלומר, מי שאינו דומה לשאר בני אדם נפסל, אף שאינו מום גמור. ההבדל מדין מום גמור: אינו מחלל את העבודה."
+   },
+   "en": {
+    "term": "Equal within Aharon's seed",
+    "explanation": "The source for disqualifying a kohen even without a true blemish. From 'any man in whom there is a blemish from Aharon's seed' they derived: a man equal within Aharon's seed – that is, one who does not resemble other people is disqualified, even though it is not a full blemish. The difference from a full blemish: it does not desecrate the service."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 43a:22:1",
+    "quote": "הא אין שוה בזרעו של אהרן בלא מומא נמי מיפסיל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "לגזירה שוה"
+   ],
+   "he": {
+    "term": "גזירה שוה מופנה",
+    "explanation": "גזירה שוה היא לימוד מלה שחוזרת בשני מקומות בתורה. ״מופנה״ – מילה שמיותרת במקומה ולכן נתפנתה ללימוד, ואין אפשרות לפרוך את הלימוד. כאן ״גרב״ ו״ילפת״ נכתבו בפרשת מומי אדם ובפרשת מומי בהמה, ובכך מעבירים מומים מזה לזה."
+   },
+   "en": {
+    "term": "Gezeirah shavah mufneh",
+    "explanation": "A gezeirah shavah is a derivation from a word repeated in two places in the Torah. 'Mufneh' means a word that is extra in its own place and so is freed up for the derivation, which therefore cannot be refuted. Here 'garav' and 'yalefet' appear in the passage on human blemishes and in the one on animal blemishes, transferring blemishes from one to the other."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 43a:10:2",
+    "quote": "וילפת לגלויי עלה דגרב דמופנה הוא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "משום מראית העין"
+   ],
+   "he": {
+    "term": "מראית העין",
+    "explanation": "פסול של כהן בגלל מראה מאוס, ולא בגלל מום ולא בגלל שאינו שוה בזרעו של אהרן. גמרא זו קובעת שהוא קל יותר מ״אינו שוה״, שכן בו אין אפילו איסור עשה. במשנה: נשרו ריסי עיניו ונטלו שיניו."
+   },
+   "en": {
+    "term": "Appearance (mar'it ha'ayin)",
+    "explanation": "A disqualification of a kohen because of a repulsive appearance, neither because of a blemish nor because of not being equal within Aharon's seed. This Gemara treats it as lighter than 'not equal', since it carries not even a positive commandment. In the Mishnah: eyelashes fallen out and teeth removed."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 43b:2:1",
+    "quote": "שמאוסין לראות כגון שנשרו ריסי עיניו ושנטלו שיניו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "אחולי עבודה"
+   ],
+   "he": {
+    "term": "אחולי עבודה",
+    "explanation": "חילול העבודה: כהן בעל מום גמור שעבד – עבודתו מתחללת (״מום בו ולא יחלל״). לעומת זאת מי שנפסל רק משום ״אינו שוה בזרעו של אהרן״ – אינו מחלל את העבודה. זהו ההבדל בגמרא בין שני סוגי הפסול."
+   },
+   "en": {
+    "term": "Disqualifying the service (achulei avodah)",
+    "explanation": "A kohen with a full blemish who serves desecrates the service ('a blemish is in him and he shall not desecrate'). By contrast, one disqualified only as 'not equal within Aharon's seed' does not desecrate the service. This is the Gemara's difference between the two kinds of disqualification."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 43b:1:1",
+    "quote": "בין כהן הנפסל במום גמור לכהן הנפסל משום שאין שוה בזרעו של אהרן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "כילון"
+   ],
+   "he": {
+    "term": "כילון",
+    "explanation": "אחד המומים המיוחדים באדם: מי שראשו דומה לאכלא, כלי לשאיבת יין מן החבית. רבינו גרשום: משופע וחד למעלה. הגמרא מוסיפה ב״תנא״: וצוארו עומד באמצע ראשו."
+   },
+   "en": {
+    "term": "Kilon",
+    "explanation": "One of the blemishes unique to a person: one whose head resembles an 'achla', a vessel for drawing wine from a barrel. Rabbeinu Gershom: sloping and pointed at the top. The Gemara adds in a baraita that his neck stands in the middle of his head."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 43b:3",
+    "quote": "לאכלא דדנא שהוא משופע וחד למעלה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "ובעלי חטרות"
+   ],
+   "he": {
+    "term": "בעלי חטרות (חטוטרת)",
+    "explanation": "גבנון בגב. ר׳ יהודה מכשיר וחכמים פוסלים. הגמרא מחלקת: אם יש בו עצם – הכל מסכימים שפוסל; בלי עצם נחלקו אם הוא ״אינו שוה בזרעו של אהרן״ או ״קרקורא דבישרא בעלמא״."
+   },
+   "en": {
+    "term": "Baalei chatarot (hunchback)",
+    "explanation": "A hump on the back. R. Yehuda permits and the Sages disqualify. The Gemara distinguishes: if it contains bone, all agree it disqualifies; without bone they dispute whether he is 'not equal within Aharon's seed' or 'just a piece of flesh'."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Admission into the Sanctuary 8:10",
+    "quote": "מי שתפח בשר בגבו ונעשה כחטוטרת אף על פי שלא זזה חוליא ממקומה הרי זה מום"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 18,
+   "anchors": [
+    "חרום"
+   ],
+   "he": {
+    "term": "חרום",
+    "explanation": "מום באף. לפי הברייתא – חוטמו שקוע, סולד, בולם או נוטף; לפי ר׳ יוסי – רק הכוחל שתי עיניו כאחת, ועל כך אמרו לו חכמים ״הפלגת״. הגמרא בתחילת הדף ראתה בחרום מום האמור באדם ולא בבהמה."
+   },
+   "en": {
+    "term": "Charum",
+    "explanation": "A blemish of the nose. According to the baraita – a sunken, narrowed, blocked or dripping nose; according to R. Yosi – only one who paints both eyes at once, to which the Sages said 'you exaggerated'. Earlier on the page the Gemara treated charum as a blemish written for a person and not for an animal."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 43b:24",
+    "quote": "חוטמו שקוע בין עיניו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    5
+   ],
+   "he": {
+    "title": "המומין הפוסלים בכהן: אלו שבבהמה ועוד יתר עליהם",
+    "gemara": "המשנה פותחת: המומין האמורים בבכור, בין קבועים בין עוברים, פוסלים גם באדם (כהן). ויתר עליהם באדם: כילון, לפתן, מקבן, שראשו שקוט וסקיפת, ובעלי חטרות (ר׳ יהודה מכשיר וחכמים פוסלים). הקרח פסול, וקרח הוא מי שאין לו שיטה של שער מוקפת מאוזן לאוזן.",
+    "halakha": "הרמב״ם (ביאת מקדש ו:ג): כל המומים, בין שהיו בו מתחילת בריאתו בין שנולדו בו אחר כך, בין עוברים בין שאינם עוברים – הכהן פסול עד שיעברו."
+   },
+   "en": {
+    "title": "The blemishes that disqualify a kohen: those of an animal, and more besides",
+    "gemara": "The Mishnah opens: the blemishes listed for a firstborn animal, whether permanent or passing, also disqualify a person (a kohen). Beyond them, a person is disqualified by a kilon, lafetan, makkaban, a head that is shakut, and a skifat, and by 'baalei chatarot' (R. Yehuda permits, the Sages disqualify). A bald man is disqualified, and baldness means having no line of hair running around from ear to ear.",
+    "halakha": "The Rambam (Bi'at HaMikdash 6:3) disqualifies a kohen with any blemish, whether he had it from birth or it came later, passing or permanent, until it passes."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:4:1",
+     "quote": "האמורין בבכור פוסלין לכהן לעבודה",
+     "he": "מומין אלו – אלו האמורים בבכור, והם פוסלים את הכהן מן העבודה.",
+     "en": "'These blemishes' are the ones stated for a firstborn animal, and they disqualify the kohen from the service."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:2",
+     "quote": "בין קבועין ובין עוברין פסולין באדם",
+     "he": "מפרש ״באדם״ – בכהנים: מומים קבועים ועוברים פוסלים כהן.",
+     "en": "He explains 'in a person' as meaning in kohanim: both permanent and passing blemishes disqualify a kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:5:1",
+     "quote": "פלוגתא אבל הנך כילון וליפתם וכולהו דברי הכל",
+     "he": "בעלי חטרות הם מחלוקת (ר׳ יהודה וחכמים), אבל כילון, לפתן והשאר – דברי הכל שפוסלים.",
+     "en": "Baalei chatarot is a dispute, but kilon, lafetan and the others are agreed by all to disqualify."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 6:3",
+     "quote": "הרי זה פסול עד שיעברו",
+     "he": "כל המומים כולם – בין שהיו בו מתחילת בריאתו בין שנולדו בו אחר כך, בין עוברים בין שאינם עוברים – הכהן פסול עד שיעברו.",
+     "en": "All blemishes alike, whether present from birth or arising later, passing or not, leave the kohen disqualified until they pass."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 6:1:1",
+     "quote": "בין קבועים בין עוברים פסולים באדם",
+     "he": "הכסף משנה מציין שמקור הרמב״ם לפסול מום קבוע ועובר הוא משנתנו בפרק שביעי של בכורות.",
+     "en": "The Kesef Mishneh identifies our Mishnah in the seventh chapter of Bekhorot as the source of the Rambam's rule on permanent and passing blemishes."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Chet 30",
+     "quote": "אלא שנולדה מורסא קשה על גביו",
+     "he": "בערך חטר מביא את פירוש הרמב״ם למשנה: חטוטרת היא השמטת חוליות, ואף בלי שנשמטו – מורסא קשה שנולדה על הגב.",
+     "en": "Under 'chatar' he cites the Rambam's commentary to the Mishnah: a chatotret is a displacement of the vertebrae, and even without displacement, a hard growth that formed on the back."
+    },
+    {
+     "who": {
+      "he": "קרבן העדה",
+      "en": "Korban HaEdah"
+     },
+     "ref": "Korban HaEdah on Jerusalem Talmud Yoma 2:4:3:9",
+     "quote": "ואיזהו קרח כל שאין לו שיטה של שער מקפת מאזן לאזן",
+     "he": "הקרבן העדה מזכיר בירושלמי את משנתנו על הקרח: כל שאין לו שיטה של שער מקפת מאוזן לאוזן.",
+     "en": "The Korban HaEdah, in the Yerushalmi, cites our Mishnah on baldness: one who has no line of hair encircling from ear to ear."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    9
+   ],
+   "he": {
+    "title": "יבלת ודק תבלול: למה לא נמנו – גזירה שוה מופנית",
+    "gemara": "הגמרא שואלת: למה המשנה אינה מונה כמום ייחודי באדם גם יבלת (שלא נכתבה באדם) ודק ותבלול (שלא נכתבו בבהמה)? תשובה: הם נלמדים זה מזה, שנאמר ״גרב״ ״גרב״ ו״ילפת״ ״ילפת״ לגזירה שוה. ״מפנה״ – שאם לא כן אפשר לפרוך. ובדחייה: ״גרב״ מיותר, שהרי אם ילפת שאינו מאוס מום, גרב המאוס כל שכן, ולכן נכתב כדי להפנות."
+   },
+   "en": {
+    "title": "Yabelet and dak/tevalul: why aren't they counted? An unrefuted gezeirah shavah",
+    "gemara": "The Gemara asks: why doesn't the Mishnah list as person-only blemishes yabelet (not written for a person) and dak and tevalul (not written for an animal)? Answer: they are learned from each other, as it says 'garav' 'garav' and 'yalefet' 'yalefet' for a gezeirah shavah. The word is 'mufneh' (freed up), since otherwise it could be refuted. The Gemara explains: 'garav' is redundant, for if yalefet, which is not repulsive, is a blemish, then garav, which is repulsive, is all the more so; so it is written to free up the comparison."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:5",
+     "quote": "מומי בהמה ממומי אדם הלכך חשיב להו לכולהו בבהמה",
+     "he": "״מילף ילפי מהדדי״ – מומי בהמה נלמדים ממומי אדם, ולכן המשנה מונה את כולם במומי בהמה.",
+     "en": "'They are learned from each other': animal blemishes from human blemishes, so the Mishnah counts all of them among the animal blemishes."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:6",
+     "quote": "גרב ילפת כתיב בין במומי אדם בין במומי בהמה לגזרה שוה",
+     "he": "גרב וילפת כתובים גם במומי אדם וגם במומי בהמה, כדי ללמוד בגזרה שוה.",
+     "en": "Garav and yalefet are written both in the human and the animal blemishes, for the gezeirah shavah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:7",
+     "quote": "ומה ילפת דלא מאיסא דהוי יבש",
+     "he": "ילפת אינו מאוס כי הוא יבש, וגרב מאוס כי הוא לח.",
+     "en": "Yalefet is not repulsive because it is dry, whereas garav is repulsive because it is moist."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:9:1",
+     "quote": "מילפת דקשה הוא כחרס ומשקע בבשר ועושה חריצין",
+     "he": "רש״י מפרש מדוע גרב מאוס יותר מילפת: ילפת קשה כחרס, משוקע בבשר ועושה חריצים.",
+     "en": "Rashi explains: yalefet is hard as earthenware, sunk into the flesh and makes furrows."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:6:3",
+     "quote": "מדגלינהו רחמנא באדם ובבהמה לא גלינהו",
+     "he": "רש״י: דק ותבלול נכתבו באדם ולא בבהמה, ולכן אפשר היה לפרוך ולומר שאינם פוסלים בבהמה; על כך באה התשובה שהם נלמדים זה מזה.",
+     "en": "Rashi: dak and tevalul were revealed for a person but not for an animal, so one might refute and say they don't disqualify an animal; the answer is that they are learned from each other."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43a:9:1",
+     "quote": "תרי גרב ותרי ילפת כתיבי חד באדם וחד בבהמה ואייתר חד לאפנויי",
+     "he": "התוספות מקשים על ״גרב דכתב רחמנא למה לי״ ומציינים שכל אחד מגרב וילפת נכתב פעמיים, אחד באדם ואחד בבהמה, ואחד מהם מיותר להפנות.",
+     "en": "Tosafot note that garav and yalefet are each written twice, one for a person and one for an animal, and one of them is extra for freeing up the comparison."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43a:6:1",
+     "quote": "וגבן לא כתיב בבהמה",
+     "he": "התוספות מוסיפים שעוד אפשר היה לשאול על חרוץ, נתוק וכרות שלא נכתבו באדם, ועל גבן שלא נכתב בבהמה.",
+     "en": "Tosafot add that one could also ask about charutz, nasuk and karut, which are not written for a person, and gaben, which is not written for an animal."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "עיקר תוספות יום טוב",
+      "en": "Ikar Tosafot Yom Tov"
+     },
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Bekhorot 6:2:2",
+     "quote": "מִנַּיִן לָתֵת אֶת הָאָמוּר בַּבְּהֵמָה בָּאָדָם",
+     "he": "התוספות יום טוב מביא את מקור הגזירה שוה בתורת כהנים: מנין לתת את האמור בבהמה באדם ואת האמור באדם בבהמה – ת״ל גרב גרב, ילפת ילפת.",
+     "en": "He cites the source in Torat Kohanim: from where do we apply what is said of an animal to a person and vice versa? The verse says garav garav, yalefet yalefet."
+    },
+    {
+     "who": {
+      "he": "בנין יהושע",
+      "en": "Binyan Yehoshua"
+     },
+     "ref": "Binyan Yehoshua on Avot D'Rabbi Natan 37:10:4",
+     "quote": "כ״מ שנמצא בתורה מום סתם נותנין עליו מומי אדם ומומי בהמה",
+     "he": "הבנין יהושע מציין שבתורת כהנים נאמר שכל מקום שנמצא בתורה ״מום״ סתם, נותנים עליו גם מומי אדם וגם מומי בהמה.",
+     "en": "He notes that Torat Kohanim says wherever the Torah says 'blemish' without specifying, we apply to it both human and animal blemishes."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Emor 114:1",
+     "quote": "ולמדין זה מזה, שלכן כפל",
+     "he": "המלבי״ם: באדם נכתבו ״דק ותבלול בעינו״ ובבהמה ״יבלת״, והם נלמדים זה מזה – ולכן נכפלו גרב וילפת בשני המקומות.",
+     "en": "The Malbim: for a person it wrote 'dak or tevalul in his eye' and for an animal 'yabelet', and they are learned from each other, which is why garav and yalefet are doubled in both places."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    14
+   ],
+   "he": {
+    "title": "למה לא נכתבו כל המומין במקום אחד – ״דבר שנתחדש בה״",
+    "gemara": "הגמרא מקשה: שיכתוב הכתוב את כל המומין במקום אחד, וגרב וילפת בשניהם ללמוד. תשובה: אם יכתוב באדם – היינו אומרים שמה שפוסל באדם פוסל בבהמה, וקלוט וחוטין שאינם באדם לא יפסלו; ואם בבהמה – גבן וחרום שאינם בבהמה לא יפסלו באדם. אלא כתנא דבי ר׳ ישמעאל: כל פרשה שנשנית נשנית בשביל דבר שנתחדש בה."
+   },
+   "en": {
+    "title": "Why weren't all blemishes written in one place? 'A new element'",
+    "gemara": "The Gemara asks: let the Torah write all the blemishes in one place, with garav and yalefet in both, to learn from. Answer: if written for a person, we might think what disqualifies a person disqualifies an animal and that kalut and chutin, which a person lacks, would not disqualify an animal; if written for an animal, gaben and charum, which an animal lacks, would not disqualify a person. Rather, as the school of R. Yishmael taught: any passage repeated was repeated only for a new element in it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:11:2",
+     "quote": "דאדם אינו מפריס פרסה ואינן נוהגין בו מומי חוטין",
+     "he": "רש״י מסביר מדוע קלוט וחוטין אינם באדם: האדם אינו מפריס פרסה, ואין בו מומי חוטין.",
+     "en": "Rashi explains why kalut and chutin do not apply to a person: a person has no split hoof and chutin blemishes do not apply to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:12:1",
+     "quote": "ובהמה אין לה חוטם בין העינים",
+     "he": "גבן וחרום אינם בבהמה: לבהמה אין גבינים, ואין לה חוטם בין שתי עיניים.",
+     "en": "Gaben and charum do not apply to an animal: an animal has no gabinim and no nose between its eyes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:14:1",
+     "quote": "והכא איכא חידוש באדם גבן וחרום ובבהמה קלוט וחוטין",
+     "he": "הדבר החדש בכל פרשה: באדם גבן וחרום, ובבהמה קלוט וחוטין.",
+     "en": "The new element in each passage: for a person, gaben and charum; for an animal, kalut and chutin."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:10",
+     "quote": "דחוטין דאדם לא הוי בגלוי כשל בהמה",
+     "he": "רבינו גרשום: חוטין של אדם אינם גלויים כמו של בהמה, ולכן אינם פוסלים באדם.",
+     "en": "Rabbeinu Gershom: a person's chutin are not exposed like an animal's, and so they do not disqualify a person."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:12",
+     "quote": "וחוטם ליכא בבהמה ואינו כוחל",
+     "he": "רבינו גרשום מפרש חרום: חוטמו שקוע ואין חוטם בין עין לעין; ובבהמה אין חוטם כזה ואינה כוחלת.",
+     "en": "He explains charum: his nose is sunken, with no nose between the eyes; an animal has no such nose and does not 'paint' its eyes."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:15",
+     "quote": "משום דבר שנתחדש בהן",
+     "he": "רבינו גרשום: ״אלא״ – נכתבו פעמיים משום דבר שנתחדש בהן.",
+     "en": "'Rather': they were written twice because of a new element in them."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43a:12:1",
+     "quote": "אבל לרבי חנינא בן אנטיגנוס דאמר שיש לו שני גבין ושני שדראות שייך שפיר בבהמה",
+     "he": "התוספות: ״גבן שאינו בבהמה״ נאמר לתנא קמא שמפרש גבן בגבות העיניים; אבל לר׳ חנינא בן אנטיגנוס שמפרש שני גבין ושתי שדראות – שייך גם בבהמה.",
+     "en": "Tosafot: 'gaben is not in an animal' is according to the first Tanna, who explains gaben as eyebrows; but according to R. Chanina ben Antigonos, who explains two backs and two spines, it does apply to an animal."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Things Forbidden on the Altar 2:2:1",
+     "quote": "קלוט וחוטין דליתנהו באדם בבהמה לא ליפסלו",
+     "he": "המעשה רקח עונה לקושיית הכסף משנה (מדוע חוטין לא יפסלו באדם): זה מבואר בגמרא בריש הפרק, ומוסיף שהרמב״ם בהלכות ביאת מקדש לא מנה את השיניים כלל במומי הפה.",
+     "en": "The Maaseh Rokeach answers the Kesef Mishneh's question (why chutin do not disqualify a person): the Gemara at the start of the chapter makes this clear, and he adds that the Rambam in Hilchot Bi'at HaMikdash did not count the teeth at all among mouth blemishes."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 2:2:1",
+     "quote": "קשה לי דהא חטיה החיצונות והפנימיות למה לא יפסלו באדם",
+     "he": "הכסף משנה מקשה על הרמב״ם: חטיה החיצונות והפנימיות – למה לא יפסלו גם באדם, והרי שנינו ״מומין אלו פוסלין באדם״?",
+     "en": "The Kesef Mishneh asks on the Rambam: why would the outer and inner chatiyah not also disqualify a person, since we learned 'these blemishes disqualify a person'?"
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 43a:4",
+     "quote": "מפרש אין לו ביצים דגבי אדם היינו שאין לו שתי ביצים בב׳ כיסין אלא בכיס אחד",
+     "he": "הרש״ש על תוספות: הרמב״ם מפרש ״אין לו ביצים״ באדם – שאין לו שתי ביצים בשני כיסים אלא בכיס אחד.",
+     "en": "The Rashash on Tosafot: the Rambam explains 'has no testicles' for a person as having no two testicles in two sacs but only in one sac."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Things Forbidden on the Altar 1:5:1",
+     "quote": "ולשון הגמ׳ ריש פרק מומין אלו ל״ל דכתב רחמנא מום באדם מום בקדשים מום בבכור מורה דכל חד הוא מצוה בפ״ע",
+     "he": "האור שמח לומד מלשון הגמרא ״למה לי דכתב רחמנא מום באדם, בקדשים, בבכור״ – שכל אחד הוא מצוה בפני עצמה.",
+     "en": "The Ohr Sameach learns from the Gemara's wording 'why did the Torah write blemish for a person, for sacrifices, for a firstborn' that each is a separate mitzvah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    21
+   ],
+   "he": {
+    "title": "מום באדם, בקדשים ובבכור: ״צריכי״",
+    "gemara": "רבא שואל: למה כתבה התורה מום באדם, בקדשים ובבכור? ומשיב: צריך – אם נכתב באדם בלבד, אין ללמוד ממנו בכור (שכן אדם נתרבה במצוות), וכן להפך; בכל אחד יש ״מה להנך״ שמונע לימוד מהאחרים: קדשים קרבים, בכור קדוש מרחם, ובקדשים קדושה מרובה. ״חדא מחדא לא אתיא, תיתי חדא מתרתי? מהי תיתי״ – ולכן צריכי."
+   },
+   "en": {
+    "title": "A blemish for a person, for sacrifices and for a firstborn: 'all are needed'",
+    "gemara": "Rava asks: why did the Torah write blemish for a person, for sacrifices and for a firstborn? He answers: all are needed. If written only for a person, we could not derive a firstborn from it (since a person has been increased in mitzvot), and so on in each direction: each has a 'what about those' that blocks learning from the others: sacrifices are offered, a firstborn is holy from the womb, and sacrifices have greater sanctity. 'One from one does not come; one from two? From which?' So all are needed."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:15:1",
+     "quote": "למיכתב דמומין פסולין באדם ומומין פסולין בבכור",
+     "he": "רש״י מפרש: ״למה לי״ – שהתורה כתבה שמומים פוסלים באדם, בבכור (״וכי יהיה בו מום״) ובקדשים.",
+     "en": "Rashi explains 'why did I need it': that the Torah wrote that blemishes disqualify a person, a firstborn ('and if it has a blemish') and sacrifices."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:16:1",
+     "quote": "מה לבכור דין הוא שיפסלנו המום שכן הוא עצמו קרב",
+     "he": "רש״י: אם נכתב רק בבכור, אין ללמוד ממנו לאדם – ״מה לבכור״ שהמום פוסלו, שכן הוא עצמו קרב.",
+     "en": "Rashi: if written only for a firstborn, one cannot learn from it to a person: 'what of a firstborn' that a blemish disqualifies it, since it is itself offered."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:19:1",
+     "quote": "חטאות ואשמות עולות ושלמים אדם קדושתו מרובה במצות",
+     "he": "רש״י מפרש ״קדושתן מרובה״: חטאות, אשמות, עולות ושלמים; וגם אדם קדושתו מרובה במצוות.",
+     "en": "Rashi explains 'greater sanctity': sin-offerings, guilt-offerings, burnt offerings and peace offerings; and a person's sanctity is also greater, through mitzvot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:16",
+     "quote": "אדם כהן שכן נתרבה במצות הרבה",
+     "he": "רבינו גרשום: ״אדם״ כאן – כהן, שנתרבה במצוות רבות שאין כן בבכור ובקדשים.",
+     "en": "'A person' here is a kohen, who has been increased in many mitzvot, unlike a firstborn or sacrifices."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:20",
+     "quote": "קדושתן מאליהן שאין צריך להקדישן",
+     "he": "רבינו גרשום: ״קדושתן מאליהן״ – אין צריך להקדישן.",
+     "en": "'Holy of themselves': they do not need to be consecrated."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43a:15:1",
+     "quote": "ויש לומר הואיל דגלי גלי",
+     "he": "התוספות מקשים: אם ״צריכי״ משמע שאין ללמוד אחד מהשני, מנין לנו שבאדם ובקדשים פוסל רק ״מום שבגלוי ואינו חוזר״? ומתרצים: הואיל דגלי – גלי.",
+     "en": "Tosafot ask: if 'all are needed' means one can't learn one from another, how do we know that for a person and sacrifices only a 'visible, non-returning blemish' disqualifies? They answer: since it was revealed, it was revealed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Things Forbidden on the Altar 1:5:1",
+     "quote": "מורה דכל חד הוא מצוה בפ״ע",
+     "he": "האור שמח: משמעות הלשון ״למה לי דכתב רחמנא״ היא שהלאו של מום בכל אחד מהשלושה עומד לעצמו.",
+     "en": "The Ohr Sameach: the wording implies that the prohibition of a blemish in each of the three stands on its own."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    22,
+    2
+   ],
+   "he": {
+    "title": "״איש ששוה בזרעו של אהרן״: מום גמור לעומת ״אינו שוה״ ו״מראית העין״",
+    "gemara": "״יתר עליהן באדם״ – מנין? ר׳ יוחנן: ״כל איש אשר בו מום מזרע אהרן״ – איש ששוה בזרעו של אהרן. מה ההבדל בין מום גמור לאינו שוה בזרעו של אהרן? אחולי עבודה: מום מחלל את העבודה (״מום בו ולא יחלל״), ואינו שוה אינו מחלל. ומה ההבדל בין אינו שוה למראית העין? עשה.",
+    "halakha": "בספר החינוך (ער״ה:ג) שלושה סוגי מומים: אלו הפוסלים כהן ובהמה, אלו הפוסלים כהן בלבד, ואלו שאינם פוסלים אלא משום מראית העין."
+   },
+   "en": {
+    "title": "'A man who is equal within Aharon's seed': a full blemish versus 'not equal' versus 'appearance'",
+    "gemara": "'More than these, in a person' – from where? R. Yochanan: 'any man in whom there is a blemish from Aharon's seed' – a man who is equal within Aharon's seed. What is the difference between a blemish and 'not equal within Aharon's seed'? Desecration of the service: a blemish desecrates the service ('a blemish is in him and he shall not desecrate'), and 'not equal' does not. And between 'not equal' and appearance? A positive commandment.",
+    "halakha": "Sefer HaChinukh (275:3) lists three kinds of blemishes: those that disqualify a kohen and an animal, those that disqualify only a kohen, and those that disqualify only because of appearance."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43a:22:1",
+     "quote": "הא אין שוה בזרעו של אהרן בלא מומא נמי מיפסיל",
+     "he": "רש״י: רק מי ששוה בזרעו של אהרן צריך מום כדי להיפסל; מי שאינו שוה – נפסל גם בלי מום.",
+     "en": "Rashi: only one who is equal within Aharon's seed needs a blemish to be disqualified; one who is not equal is disqualified even without a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43a:21",
+     "quote": "לא פסילי מדאורייתא אלא משום דבעינן איש ששוה בזרעו של אהרן",
+     "he": "רבינו גרשום: הכילון ושאר היתרים באדם אינם פסולים מדין מום אלא משום שצריך ״איש ששוה בזרעו של אהרן״.",
+     "en": "Rabbeinu Gershom: the kilon and the other additional ones are not disqualified as blemishes but because 'a man equal within Aharon's seed' is required."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:1:1",
+     "quote": "בין כהן הנפסל במום גמור לכהן הנפסל משום שאין שוה בזרעו של אהרן",
+     "he": "רש״י מפרש את השאלה: מה ההבדל בין כהן שנפסל במום גמור לכהן שנפסל משום שאינו שוה – כילון, לפתן וכל אלה.",
+     "en": "Rashi explains the question: what is the difference between a kohen disqualified by a full blemish and one disqualified for not being equal – kilon, lafetan and all those."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:2:2",
+     "quote": "מי שאינו שוה בזרעו של אהרן עובר בעשה אם עבד",
+     "he": "רש״י: מי שאינו שוה בזרעו של אהרן עובר בעשה אם עבד – ״ולאו הבא מכלל עשה עשה״.",
+     "en": "Rashi: one not equal within Aharon's seed transgresses a positive commandment if he serves – a 'negative derived from a positive is a positive'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:2:1",
+     "quote": "שמאוסין לראות כגון שנשרו ריסי עיניו ושנטלו שיניו",
+     "he": "רש״י מפרש ״משום מראית העין״: אלו שמאוסים לראות, כגון שנשרו ריסי עיניו ושנטלו שיניו.",
+     "en": "Rashi explains 'because of appearance': those repulsive to look at, such as one whose eyelashes fell out or whose teeth were removed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:2",
+     "quote": "למראית העין אפילו איסור עשה ליכא",
+     "he": "רבינו גרשום: באינו שוה יש איסור עשה (״לאו הבא מכלל עשה״), ובמראית העין אין אפילו איסור עשה.",
+     "en": "Rabbeinu Gershom: for 'not equal' there is a positive prohibition ('a negative from a positive'), whereas for appearance there is not even a positive prohibition."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 275:3",
+     "quote": "ששלשה מיני מומין הן",
+     "he": "ספר החינוך: שלושה מיני מומים הם – מומים הפוסלים כהן ובהמה, מומים הפוסלים את האדם בלבד, ומומים שאינם פוסלים אלא משום מראית העין.",
+     "en": "Sefer HaChinukh: there are three kinds of blemishes – those that disqualify a kohen and an animal, those that disqualify only the person, and those that disqualify only because of appearance."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Kiddushin 24b:3",
+     "quote": "ובאדם נמי אינו פסול מטעם מום, אלא דאינו שוה בזרעו של אהרן",
+     "he": "הרשב״א (בהקשר להקשיית התוספות על החרש והשוטה) אומר שגם באדם לא נפסלים מטעם מום אלא שאינם שוים בזרעו של אהרן.",
+     "en": "The Rashba (in connection with Tosafot's question on the deaf-mute and the imbecile) says that in a person too they are not disqualified as a blemish but as not being equal within Aharon's seed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Admission into the Sanctuary 6:6:1",
+     "quote": "משמע דאין בו אלא עשה משום דאינו שוה בזרע אהרן",
+     "he": "המעשה רקח מקשה על לשון הרמב״ם שכתב שהוא לוקה: בבכורות מ״ג משמע שאין בו אלא עשה משום שאינו שוה בזרע אהרן.",
+     "en": "The Maaseh Rokeach questions the Rambam's wording that he receives lashes: in Bekhorot 43 it seems that there is only a positive commandment because he is not equal within Aharon's seed."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Admission into the Sanctuary 8:17:18",
+     "quote": "מום גמור גם באדם מחללין עבודה ודווקא דבר הפוסל משום שאינם שוים בזרעו של אהרן אינו מחלל עבודה",
+     "he": "בהר המוריה: מבואר בבכורות מ״ג ב שמום גמור גם באדם מחלל עבודה, ודווקא דבר הפוסל משום שאינו שוה בזרעו של אהרן אינו מחלל.",
+     "en": "Har HaMoriyah: Bekhorot 43b makes clear that a full blemish even in a person desecrates the service, and only something disqualifying because he is not equal within Aharon's seed does not."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 277:1:1",
+     "quote": "וליכ׳ אלא עשה ואינו מחלל עבודה",
+     "he": "המנחת חינוך: במומים המיוחדים באדם, שהתורה פסלה אותם כי צריך שוה בזרעו של אהרן, אין אלא עשה והם אינם מחללים עבודה.",
+     "en": "The Minchat Chinukh: for blemishes unique to humans, which the Torah disqualified because one must be equal within Aharon's seed, there is only a positive commandment and they do not desecrate the service."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 21:21:3",
+     "quote": "שיהיה דומה לבני אדם בכלל ואע״פ דלא הוי מום",
+     "he": "התורה תמימה מפרש ״איש ששוה בזרעו של אהרן״: שיהיה דומה לבני אדם בכלל, אף שאין זה מום.",
+     "en": "The Torah Temimah explains 'a man equal within Aharon's seed': that he resemble people in general, even though it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Levirate Marriage and Release 4:17:1",
+     "quote": "וכל הנך פסולי דאינן שוין בזרעו של אהרן אינן מחללין עבודה",
+     "he": "האור שמח: כל אלה הפסולים משום שאינם שוים בזרעו של אהרן אינם מחללים עבודה.",
+     "en": "The Ohr Sameach: all those disqualified because they are not equal within Aharon's seed do not desecrate the service."
+    },
+    {
+     "who": {
+      "he": "באור הרא״ם",
+      "en": "Beur HaRe'em"
+     },
+     "ref": "Beur HaRe'em on Midrash Lekach Tov, Leviticus, Emor 55",
+     "quote": "שאינו שוה בזרעו של אהרן לא מחיל עבודה",
+     "he": "באור הרא״ם מצטט את הגמרא: אינו שוה בזרעו של אהרן לא מחלל עבודה, ובעל מום כן.",
+     "en": "The Beur HaRe'em cites the Gemara: one not equal within Aharon's seed does not desecrate the service, whereas a blemished one does."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    4
+   ],
+   "he": {
+    "title": "כילון, לפתן, מקבן, שקוט וסקיפת – צורות הראש",
+    "gemara": "הגמרא מפרשת: כילון – ראשו דומה לאכלא; לפתן – ראשו דומה לגדגלידא של לפת (ותנא: וצוארו עומד באמצע ראשו); מקבן – ראשו דומה למקבת; ״שראשו שקוט״ – מלפניו, ״סקיפת״ – מאחוריו, כמו שאומרים ״שקיל פיסא״; ותנא: צוארו ״שקוט ושמוט״ – חביס מחבס, ארוך ושמוט."
+   },
+   "en": {
+    "title": "Kilon, lafetan, makkaban, shakut and skifat – shapes of the head",
+    "gemara": "The Gemara explains: kilon – his head resembles an 'achla'; lafetan – his head resembles the 'gadgalida' of a turnip (and a baraita adds: his neck stands in the middle of his head); makkaban – his head resembles a mallet; 'whose head is shakut' – from the front, 'skifat' – from behind, as people say 'he took a piece'; and a baraita: his neck is 'shakut and shamut' – squat, or long and drooping."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:3:2",
+     "quote": "לראש הלפת שראשה רחב והולכת וכלה למטה",
+     "he": "רש״י: גדגלידא של לפת – ראש הלפת שרחב למעלה והולך ומצטמצם למטה.",
+     "en": "Rashi: the 'gadgalida' of a turnip is the head of the turnip, which is wide and narrows toward the bottom."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:4:1",
+     "quote": "לקרדום שערפו עגול וקצר ברוחב",
+     "he": "רש״י: מקבא – קרדום שערפו עגול וקצר ברוחב.",
+     "en": "Rashi: 'makka' – an axe whose back is round and short in width."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:4:4",
+     "quote": "שנראה כמי שניטל ממנו חתיכה",
+     "he": "רש״י: ״שקיל פיסא״ – שנראה כאילו ניטלה ממנו חתיכה.",
+     "en": "Rashi: 'he took a piece' – he looks as if a piece were taken from him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:4:5",
+     "quote": "שראשו מוטל בין כתפיו",
+     "he": "רש״י: ״חביס מחבס״ – ראשו מוטל בין כתפיו.",
+     "en": "Rashi: 'chavis mechavas' – his head is set between his shoulders."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:3",
+     "quote": "לאכלא דדנא שהוא משופע וחד למעלה",
+     "he": "רבינו גרשום: אכלא דדנא – כלי שמשופע וחד למעלה.",
+     "en": "Rabbeinu Gershom: an 'achla de-dana' – a vessel that slopes and is pointed at the top."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:6",
+     "quote": "שראשו בולט הרבה לפניו",
+     "he": "רבינו גרשום: ״שקוט מלפניו״ – ראשו בולט הרבה לפניו.",
+     "en": "Rabbeinu Gershom: 'shakut from the front' – his head protrudes a great deal to the front."
+    },
+    {
+     "who": {
+      "he": "יד רמה",
+      "en": "Yad Ramah"
+     },
+     "ref": "Yad Ramah on Bava Batra 154b:11",
+     "quote": "כלומר שנראה חתיכה חתוכה לו מאחוריו",
+     "he": "היד רמה מזכיר את המילה ״שפיסם״ בבכורות: ״שקיל פיסא״ – שנראית חתיכה חתוכה לו מאחוריו.",
+     "en": "The Yad Ramah cites the word 'piss' in Bekhorot: 'he took a piece' – it looks as though a piece was cut from behind him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:1",
+     "quote": "מי שאמצע קדקדו שוקע למטה כמו שדחקו בידו",
+     "he": "הרמב״ם מונה בשמונה מומי הראש: מי שאמצע קדקדו שוקע למטה כאילו דחקו בידו, וכן מי שראשו רחב כראש הלפת על העלים שלו.",
+     "en": "The Rambam lists among the eight head blemishes one whose crown sinks as if pressed down by hand, and one whose head is broad like a turnip's head over its leaves."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 8:1:1",
+     "quote": "אכלא כלי שיש לו צואר ארוך ששואבין בו היין מהחבית",
+     "he": "הכסף משנה מצטט את פירוש הרמב״ם למשנה: אכלא – כלי עם צוואר ארוך ששואבים בו יין מהחבית.",
+     "en": "The Kesef Mishneh cites the Rambam's commentary to the Mishnah: an 'achla' is a vessel with a long neck for drawing wine from a barrel."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Ketubot 60b:6",
+     "quote": "שמוט דאריך ושמוט",
+     "he": "הרש״ש מפנה לבכורות: שמוט – ארוך ושמוט.",
+     "en": "The Rashash refers to Bekhorot: 'shamut' – long and drooping."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 21:21:3",
+     "quote": "ושקיפס הוא שאין בראשו בליטה מאחוריו כלל",
+     "he": "התורה תמימה מסביר: שקיפס – שאין בראשו בליטה מאחוריו כלל.",
+     "en": "The Torah Temimah explains: 'skifas' is where there is no protrusion at all at the back of the head."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    7
+   ],
+   "he": {
+    "title": "בעלי חטרות וקרח: מחלוקת ר׳ יהודה וחכמים, ופירוש דברי רבא",
+    "gemara": "בבעלי חטרות: אם יש בו עצם, הכל מסכימים שפוסל; מחלוקת כשאין בו עצם – מר סבר אינו שוה בזרעו של אהרן, ומר סבר ״קרקורא דבישרא בעלמא״. על ״הקרח פסול״ אמר רבא: לא שנו אלא שאין לו שיטה מאחוריו ויש לו מלפניו; ויש מי ששונה את דברי רבא על הסיפא."
+   },
+   "en": {
+    "title": "Baalei chatarot and the bald man: the dispute of R. Yehuda and the Sages, and Rava's rulings",
+    "gemara": "On baalei chatarot: if it contains bone, all agree it disqualifies; the dispute is where there is no bone – one holds he is not equal within Aharon's seed, the other holds it is 'just a piece of flesh'. On 'the bald man is disqualified', Rava said: this was taught only of one who has no line behind but has in front; and some teach Rava's statement on the last clause."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:9",
+     "quote": "בעלי חטרות שלועזין חלדרובא",
+     "he": "רבינו גרשום: בעלי חטרות – בלעז ״חלדרובא״.",
+     "en": "Rabbeinu Gershom: baalei chatarot – in the vernacular, 'chaldrova'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:10",
+     "quote": "קורקורא דבשרא היינו תלתול בעלמא",
+     "he": "רבינו גרשום: ״קרקורא דבשרא״ – תלתול בעלמא.",
+     "en": "Rabbeinu Gershom: 'a piece of flesh' – merely a dangling piece."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:10",
+     "quote": "מי שתפח בשר בגבו ונעשה כחטוטרת אף על פי שלא זזה חוליא ממקומה הרי זה מום",
+     "he": "הרמב״ם: בין שיצאה חוליה משדרתו ובין שתפח בשר בגבו ונעשה כחטוטרת אף שלא זזה חוליה – זה מום.",
+     "en": "The Rambam: whether a vertebra left his spine or flesh swelled on his back like a hump even though no vertebra moved – it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:6:2",
+     "quote": "דטפי הוי נוי בשיש לו לאחריו ולא לפניו",
+     "he": "רש״י מסביר את דברי רבא: יש יותר נוי כשיש שיער מאחוריו ולא מלפניו, מאשר כשיש סביב כל הראש ובאמצע קרח.",
+     "en": "Rashi explains Rava: it is more attractive to have hair behind and not in front than to have it all around with a bald middle."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:7:1",
+     "quote": "אבל יש לו נמי לפניו פסול וכ״ש שאין לו כלל",
+     "he": "רש״י על הגרסה ששונה את דברי רבא על הסיפא: אם יש לו שיער גם לפניו – פסול, וכל שכן שאין לו כלל.",
+     "en": "Rashi on the version that teaches Rava's words on the last clause: if he also has hair in front, he is disqualified, all the more so if he has none at all."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:1",
+     "quote": "מי שהיה השער מקיף מאזן לאזן מלפניו בלבד ושאר הראש קרח הוא הרי הוא פסול",
+     "he": "הרמב״ם פוסל את מי שהשער מקיף מאוזן לאוזן מלפניו בלבד, ומכשיר את מי שיש לו שיטת שער מוקפת מאחוריו.",
+     "en": "The Rambam disqualifies one whose hair goes around from ear to ear in front only, and permits one who has a line of hair going around behind."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43b:6:1",
+     "quote": "יש גירסא אחרת בספרים לבד גירסת הקונטרס",
+     "he": "התוספות מציינים שיש גרסה אחרת בספרים מלבד גרסת רש״י בדברי רבא.",
+     "en": "Tosafot note that there is another reading in the books besides Rashi's reading of Rava's words."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Kof 14",
+     "quote": "קדקדא דבשרא בעלמא פי׳ תלתול",
+     "he": "ההפלאה שבערכין מציין שבערוך הגרסה ״קדקדא דבשרא בעלמא״ – תלתול, ואילו לפנינו ״קרקורא״, ופירש רש״י חתיכה.",
+     "en": "The Hafla'ah notes that the Arukh reads 'kadkada de-bisra be'alma' – a dangling piece, whereas our text reads 'kirkura', which Rashi explains as a piece."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Chet 30",
+     "quote": "אלא שנולדה מורסא קשה על גביו",
+     "he": "ההפלאה שבערכין מצטט את הרמב״ם בפירוש המשנה על חטוטרת: אף בלי שנשמטו החוליות, אם נולדה מורסא קשה על גבו כדמות חטוטרת – פסול.",
+     "en": "The Hafla'ah cites the Rambam's commentary on 'chatotret': even without displaced vertebrae, if a hard growth formed on the back like a hump, he is disqualified."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    12
+   ],
+   "he": {
+    "title": "קרחנין, ננסין וזבלגנין – מה חידש ר׳ יוחנן",
+    "gemara": "ר׳ יוחנן: קרחנין, ננסין וזבלגנין פסולים לפי שאינם שוים בזרעו של אהרן. קרחנין וננסין שנינו במשנה! זבלגנין צריך להשמיענו, פן נאמר משום מראית העין. ומסקנת הגמרא: ר׳ יוחנן בא לאפוקי מברייתא האומרת שהקרחנין, הננסין והזבלגנין כשרים ולא אמרו פסול אלא משום מראית העין – וזו שיטת ר׳ יהודה (״הכהנים״ – לרבות הקרחנין)."
+   },
+   "en": {
+    "title": "Karchanin, nanasin and zablaganin – R. Yochanan's novelty",
+    "gemara": "R. Yochanan: karchanin, nanasin and zablaganin are disqualified because they are not equal within Aharon's seed. But karchanin and nanasin we learned in the Mishnah! Zablaganin needed to be taught, lest we think it is due to appearance. The Gemara concludes that R. Yochanan comes to exclude a baraita that says karchanin, nanasin and zablaganin are valid and were disqualified only because of appearance – which is R. Yehuda's view ('the kohanim' – to include karchanin)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:8:1",
+     "quote": "שעיניהם זבות וזולגות מים",
+     "he": "רש״י: זבלגנין – אלה שעיניהם זבות וזולגות מים.",
+     "en": "Rashi: zablaganin – those whose eyes run and flow with water."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:11",
+     "quote": "איכא דאמרי שיש לפלוף בעינו",
+     "he": "רבינו גרשום מביא שני פירושים לזבלגנין: יש אומרים שיש לפלוף בעינו, ויש אומרים שיוצא רירו.",
+     "en": "Rabbeinu Gershom brings two explanations of zablaganin: some say there is a discharge in his eye, others that his saliva runs."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:9:2",
+     "quote": "דמשום שאינו שוה בזרעו של אהרן",
+     "he": "רש״י: חידוש ר׳ יוחנן: שאלה פסולים משום שאינם שוים בזרעו של אהרן, ולא משום מראית העין בלבד (ואילו היה כך, לא היו עוברים בעשה אם עבדו).",
+     "en": "Rashi: R. Yochanan's novelty: these are disqualified because they are not equal within Aharon's seed, and not merely because of appearance (in which case they would not transgress a positive commandment if they served)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:11:2",
+     "quote": "דלא פסיל להו אלא משום מראית העין וקמ״ל רבי יוחנן דהלכתא כמתניתין",
+     "he": "רש״י: ר׳ יוחנן בא לאפוקי מהתנא שפוסלם משום מראית העין בלבד, ומשמיע שההלכה כמשנתנו שפוסלת אותם משום שאינם שוים.",
+     "en": "Rashi: R. Yochanan excludes the Tanna who disqualifies them for appearance alone, and teaches that the halakha follows our Mishnah, which disqualifies them for not being equal."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:10:1",
+     "quote": "שערו שבבבת העין",
+     "he": "רש״י: ריסי עיניו – השערות שבבבת העין.",
+     "en": "Rashi: 'rissei einav' – the hair within the pupil area."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43b:17:2",
+     "quote": "משמע שקורא ריס לשערות שרגילים להיות נושרין מרוב דמעה",
+     "he": "התוספות: ״ושנשרו ריסי עיניו״ – ריס הוא שערות שנושרות מרוב דמעה, ולפעמים ריס הוא עור המקיף את העין.",
+     "en": "Tosafot: 'ris' means the hairs that fall out from much weeping, and sometimes 'ris' is the skin that surrounds the eye."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 43b:2",
+     "quote": "הם שערות שבעפעפים והכי מוכח ודאי בכמה דוכתי",
+     "he": "היעב״ץ: לפי התוספות ריסי העיניים הם שערות העפעפיים, ולא הגבות כפירוש רש״י, וכן מוכח בכמה מקומות.",
+     "en": "The Ya'avetz: according to Tosafot the 'rissei einayim' are the hairs of the eyelids, not the eyebrows as Rashi explains, which is proven in several places."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 43b:5",
+     "quote": "ולעד״נ דכאן ג״כ הכוונה על העור",
+     "he": "הרש״ש על התוספות: לדעתו גם כאן הכוונה על העור.",
+     "en": "The Rashash on Tosafot: in his view here too the reference is to the skin."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 7:4:1",
+     "quote": "בדברי התוס׳ בפרק מומין אלו",
+     "he": "הכסף משנה מציין שבדברי התוספות בפרקנו מבואר יותר ש״ריס״ הוא העור המקיף את העין.",
+     "en": "The Kesef Mishneh notes that Tosafot in our chapter make clearer that 'ris' is the skin surrounding the eye."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Admission into the Sanctuary 8:17:18",
+     "quote": "וקא מסיק שם מ״ג ב׳ דליכא משום מראית העין רק הנך תרתי",
+     "he": "הר המוריה: הגמרא מסיקה שאין מראית העין אלא שני אלה – נשרו ריסי עיניו ונטלו שיניו.",
+     "en": "Har HaMoriyah: the Gemara concludes there are only these two cases of 'appearance' – eyelashes fallen out and teeth removed."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    13,
+    16
+   ],
+   "he": {
+    "title": "גבן: ״או גבן״, ר׳ דוסא ור׳ חנינא בן אנטיגנוס",
+    "gemara": "במשנה: אין לו גבינים או אין לו אלא גבין אחד – זהו גבן האמור בתורה. ר׳ דוסא: שגבינים שוכבים. ר׳ חנינא בן אנטיגנוס: שיש לו שני גבין ושתי שדראות. הגמרא שואלת על ״גבן שאין לו״, ורבא: זהו מדרש ״או גבן״. ועל ר׳ חנינא: למימרא דחיי? והרי אמר רב על המפלת בריה כזו – באשה אינו ולד, בבהמה אסור באכילה. מתרצת: כבר הקשה רב שימי בר חייא לרב, והוא אמר לו ״שימי את!״ – אלא בשידרתו עקומה.",
+    "halakha": "הרמב״ם (מאכלות אסורות א:ו): בהמה טהורה שילדה בריה שיש לה שתי גבין ושתי שדרות – אסורה באכילה, והיא השסועה; כך גם בשולחן ערוך יו״ד י״ג:ו."
+   },
+   "en": {
+    "title": "Gaben: 'or gaben', R. Dosa and R. Chanina ben Antigonos",
+    "gemara": "The Mishnah: one who has no gabinim or only one gabin – this is the gaben of the Torah. R. Dosa: one whose gabinim lie flat. R. Chanina ben Antigonos: one with two backs and two spines. The Gemara asks about 'gaben' meaning one who lacks, and Rava says: this is the derivation from 'or gaben'. On R. Chanina: does he live? Rav said of a woman who miscarries such a creature – it is not a child; of an animal, it is forbidden to eat. The Gemara answers: Rav Shimi bar Chiyya already challenged Rav, who said 'You are Shimi!' – rather it is one whose spine is curved.",
+    "halakha": "The Rambam (Forbidden Foods 1:6): a pure animal that gave birth to a creature with two backs and two spines is forbidden to eat, and this is the 'shesu'ah'; so too the Shulchan Arukh YD 13:6."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:14:1",
+     "quote": "ששני גבות עיניו מצטרפות ואין הפרש חלק בין זו לזו",
+     "he": "רש״י: ״גבינין הרבה״ – ששני גבות עיניו מצטרפות ואין הפרש חלק ביניהם.",
+     "en": "Rashi: 'many gabinim' – both eyebrows join together with no clear gap between them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:13:2",
+     "quote": "ששערות גביניו גדולים ומוטלין על פניו",
+     "he": "רש״י על ר׳ דוסא: ״שגבינין שוכבין״ – ששערות גביניו גדולים ומוטלים על פניו.",
+     "en": "Rashi on R. Dosa: 'gabinin lying' – the hairs of his eyebrows are large and hang over his face."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:21",
+     "quote": "מאו מרבי אין לו אלא גבין אחד",
+     "he": "רבינו גרשום: רבא דורש מ״או גבן״ לרבות מי שאין לו אלא גבין אחד.",
+     "en": "Rabbeinu Gershom: Rava derives from 'or gaben' to include one who has only one gabin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:15:3",
+     "quote": "כנבילה דנפל הוא וכמת דמי ולא מהניא ליה שחיטה",
+     "he": "רש״י: ״אסור באכילה״ – כנבילה, שהוא נפל וכמת, ואין השחיטה מועילה לו.",
+     "en": "Rashi: 'forbidden to eat' – like a carcass, for it is a stillborn and like a dead thing, and slaughter does not help it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:16:2",
+     "quote": "אלא ששדרתו עקומה ומיחזי כגבין ושדראות הרבה",
+     "he": "רש״י: רב שימי – חכם כמותך אינו יודע לתרץ? המשנה מדברת במי ששדרתו עקומה ונראה כגבין ושדראות הרבה, ולא בשני גבין ממש.",
+     "en": "Rashi: 'You are Shimi' – a sage like you doesn't know how to answer? The Mishnah speaks of one whose spine is curved and looks like many backs and spines, not two actual backs."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:23",
+     "quote": "בששדרתו עקומה דמיתחזיא כשתי שדרות",
+     "he": "רבינו גרשום: כשהשדרה עקומה ונראית כשתי שדרות – זהו מום; אך שתי שדרות ממש לא.",
+     "en": "Rabbeinu Gershom: where the spine is curved and looks like two spines, it is a blemish; but two actual spines, no."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Foods 1:6",
+     "quote": "שיש לה שתי גבין ושתי שדרות אסורה באכילה",
+     "he": "הרמב״ם: בהמה טהורה שילדה או שנמצא בה בריה שיש לה שתי גבין ושתי שדרות – אסורה באכילה, והיא השסועה.",
+     "en": "The Rambam: a pure animal that bore, or in which was found, a creature with two backs and two spines is forbidden to eat, and this is the shesu'ah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43b:15:1",
+     "quote": "והקשה עליו ר״ת דבהדיא תני ליה הכא גבי מומי אדם",
+     "he": "התוספות מביאים שהקשה ר״ת על רש״י: הרי שנינו זאת כאן בפירוש במומי אדם; ולכן שאלת רב שימי היא על רב דוקא.",
+     "en": "Tosafot cite Rabbeinu Tam's question on Rashi: it is stated here explicitly among human blemishes; so Rav Shimi's challenge is to Rav specifically."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Niddah 24a:2",
+     "quote": "פרש״י ז״ל מין בעלמא איתא ואותו המין אסר לו",
+     "he": "הרשב״א מצטט את רש״י בנדה (על שמואל): ״בריה בעלמא איתא״ – מין בעלמא, ואותו המין אסר.",
+     "en": "The Rashba cites Rashi in Niddah (on Shmuel): 'a creature exists' – a species, and that species is what the Torah forbade."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 93:1",
+     "quote": "בהמה שיש לה שני גבין ושני שדראות בבהמה אסורה",
+     "he": "פסקי תוספות: בהמה שיש לה שני גבין ושתי שדראות – אסורה, ומציין שהדבר בגמרא בדף מ״ג ב.",
+     "en": "Piskei Tosafot: an animal with two backs and two spines is forbidden, and notes that this is in the Gemara at 43b."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 13:6",
+     "quote": "השוחט את הבהמה ומצא בה בריה שיש לה שני גבין ושני שדראות אסור",
+     "he": "השולחן ערוך: השוחט בהמה ומצא בה בריה שיש לה שני גבין ושני שדראות – אסור.",
+     "en": "The Shulchan Arukh: one who slaughters an animal and finds in it a creature with two backs and two spines – it is forbidden."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 43b:8",
+     "quote": "ונראה דכוונת הדרשה מאו לדרוש גבן בשני מובנים",
+     "he": "הרש״ש: כוונת הדרשה מ״או״ – לדרוש ״גבן״ בשני מובנים: שגביניו הרבה, וחסר גבן.",
+     "en": "The Rashash: the derivation from 'or' is to read 'gaben' in two senses: having many gabinim and lacking a gaben."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 43b:6",
+     "quote": "קשה השתא אין לו אלא גבין אחד אמרת הוי מומא אין לו כלל מבעי",
+     "he": "הרש״ש מקשה על המשנה: אם אין לו אלא גבין אחד מום, ״אין לו כלל״ מיבעי?",
+     "en": "The Rashash asks on the Mishnah: if having only one gabin is a blemish, shouldn't 'has none at all' be the one to state?"
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Metzora 37:1",
+     "quote": "שער שגב העינים",
+     "he": "המלבי״ם: ״או גבן״ פירשו בבכורות מג – שער שבגב העיניים (הגבות).",
+     "en": "The Malbim: 'or gaben' is explained in Bekhorot 43 as hair at the ridge of the eyes (the eyebrows)."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 14:7:1",
+     "quote": "השסועה בריה בפני עצמה היא שיש לה שני גבין ושתי שדראות",
+     "he": "התורה תמימה: השסועה היא בריה בפני עצמה שיש לה שני גבין ושתי שדראות.",
+     "en": "The Torah Temimah: the shesu'ah is a creature in its own right that has two backs and two spines."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Niddah 24a:2",
+     "quote": "וצ״ל דברייתא היא ולא מתני׳ דבכורות דהתם אאדם קאי",
+     "he": "החתם סופר בנדה מבחין בין הברייתא שעוסקת בבהמה לבין משנתנו שעוסקת באדם.",
+     "en": "The Chatam Sofer in Niddah distinguishes between the baraita, which deals with an animal, and our Mishnah, which deals with a person."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    18
+   ],
+   "he": {
+    "title": "חרום: הכוחל שתי עיניו כאחת, ומחלוקת ר׳ יוסי וחכמים",
+    "gemara": "המשנה: החרום פסול, והוא הכוחל שתי עיניו כאחת; וכן מי ששתי עיניו למעלה או למטה, רואה את החדר ואת העלייה כאחד, סכי שמש, זגדן וצירן, ושנשרו ריסי עיניו – פסול מפני מראית העין. הברייתא: חרום – חוטמו שקוע, סולד, בולם או נוטף; ר׳ יוסי: אין חרום אלא הכוחל שתי עיניו כאחת. אמרו לו: הפלגת."
+   },
+   "en": {
+    "title": "Charum: one who paints both eyes at once, and the dispute of R. Yosi and the Sages",
+    "gemara": "The Mishnah: a charum is disqualified, namely one who can paint both eyes at once; so too one whose two eyes are high or low, who sees the room and the loft together, a 'sachi shemesh', zagdan and tzayran, and one whose eyelashes fell out – disqualified because of appearance. The baraita: charum – nose sunken, narrowed, blocked or dripping; R. Yosi: charum is only one who paints both eyes at once. They said to him: you exaggerated."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:17:1",
+     "quote": "שאין לו כלל חוטם בין שתי עיניו",
+     "he": "רש״י על משנתנו: הכוחל שתי עיניו כאחת – שאין לו כלל חוטם בין שתי עיניו, ויכול למשוך את המכחול מעין לעין.",
+     "en": "Rashi on our Mishnah: one who paints both eyes at once – he has no nose at all between his eyes, and can draw the brush from eye to eye."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:17:3",
+     "quote": "שאינו יכול להסתכל כנגד החמה",
+     "he": "רש״י: סכי שמש – שאינו יכול להסתכל כנגד החמה.",
+     "en": "Rashi: 'sachi shemesh' – one who cannot look toward the sun."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 43b:18:5",
+     "quote": "אע״פ שאינו משוקע כל כך הוי חרום",
+     "he": "רש״י על ״הפלגת״: אף שאינו משוקע כל כך – נחשב חרום.",
+     "en": "Rashi on 'you exaggerated': even if it is not that sunken, he is a charum."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:24",
+     "quote": "חוטמו שקוע בין עיניו",
+     "he": "רבינו גרשום: חוטמו שקוע בין עיניו.",
+     "en": "Rabbeinu Gershom: his nose is sunken between his eyes."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 43b:27",
+     "quote": "אע״ג שאינו שוקע כ״כ שיכול לכחול ב׳ עיניו כאחת אלא פחות שוקע הוי מום",
+     "he": "רבינו גרשום: חכמים סוברים שאף אם אינו שוקע כל כך שיכול לכחול שתי עיניו כאחת, אלא פחות – זה מום.",
+     "en": "Rabbeinu Gershom: the Sages hold that even if it is not sunken enough to paint both eyes at once, but less – it is a blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 43b:17:1",
+     "quote": "ששונא את השמש ואינו יכול לראות מקום שהחמה זורחת שם",
+     "he": "התוספות: ״סכי שמש״ – ששונא את השמש ואינו יכול לראות את המקום שהחמה זורחת בו.",
+     "en": "Tosafot: 'sachi shemesh' – one who hates the sun and cannot see the place where the sun shines."
+    },
+    {
+     "who": {
+      "he": "רש״י על התורה",
+      "en": "Rashi on Torah"
+     },
+     "ref": "Rashi on Leviticus 21:18:2",
+     "quote": "שחטמו שקוע בין שתי העינים",
+     "he": "רש״י על התורה: חרם – שחוטמו שקוע בין שתי העיניים, שכוחל שתי עיניו כאחת.",
+     "en": "Rashi on the Torah: charum – whose nose is sunken between the two eyes, who paints both eyes at once."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Ramban on Leviticus 21:18:1",
+     "quote": "בקטנות כגון החרום",
+     "he": "הרמב״ן על התורה מסביר את סדר המומים בפסוק: מום בקטנות, כגון החרום.",
+     "en": "The Ramban on the Torah explains the order of the blemishes in the verse: a blemish of smallness, such as the charum."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Vayikra 21:18:2",
+     "quote": "נראה לפסוק כסתם משנה",
+     "he": "הגור אריה: אף שבברייתא זה לפי אבא יוסי, נראה לפסוק כסתם משנה.",
+     "en": "The Gur Aryeh: even though in the baraita this is according to Abba Yosi, it seems we should rule like the unattributed Mishnah."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 43b:9",
+     "quote": "והרמב״ם בחבורו פ״ח מהל׳ ביאת המקדש הלכה ב׳ פסק כת״ק דלא כסתמא דמתניתין",
+     "he": "הרש״ש: המשנה סתמה כר׳ יוסי, והרמב״ם פסק כתנא קמא ולא כסתם משנה.",
+     "en": "The Rashash: the Mishnah follows R. Yosi anonymously, while the Rambam ruled like the first Tanna and not like the anonymous Mishnah."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Emor 48:1",
+     "quote": "שחוטמו שקוע. החוטם נקרא",
+     "he": "המלבי״ם: ״או חרום״ – שחוטמו שקוע; החוטם נקרא ״אף״ ו״חרון״.",
+     "en": "The Malbim: 'or charum' – whose nose is sunken; the nose is called 'af' and 'charon'."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Menachot 37a:1",
+     "quote": "פירש רש״י ז״ל חוטמו שקוע כמו שאמרו בבכורות",
+     "he": "הבן יהוידע מצטט את רש״י: חוטמו שקוע כמו שאמרו בבכורות – חרום זה שחוטמו משוקע.",
+     "en": "The Ben Yehoyada cites Rashi: his nose is sunken, as stated in Bekhorot – charum is one whose nose is sunken."
+    }
+   ]
+  }
+ ]
+}
