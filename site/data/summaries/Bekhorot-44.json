@@ -1,0 +1,1881 @@
+{
+ "ref": "Bekhorot 44",
+ "date": "2026-11-01",
+ "he": {
+  "overview": "הדף עוסק בהמשך מומי העיניים והגוף של כהן ובעל מום: מ״רואה את החדר והעלייה כאחת״ וחמשת לשונות רבא (איש, עור, דק, תבלול, בעינו), דרך מומי הגבינים והריסים, חוטם ואוזניים (ומשה רבינו שהיה עשר אמות ״באמה של קודש״), ועד קרניים וטלפיים וזכרותן ופרה אדומה ששחרו קרניה. בעמוד ב עוברים למומי הבטן והנכפה, ״משתינין מים בפני רבים״, הברייתא על שני הנקבים ו״לא יהיה בך עקר״, מנהג חמת מר בר רב אשי, ופרשת מרוח אשך בין ר׳ ישמעאל, ר׳ עקיבא ור׳ חנינא בן אנטיגנוס. הראשונים והאחרונים דנים בעיקר בהגדרת הלשונות, במדידת החוטם והאמה, בדין הזכרות באיתעקור ואיגום, ובגדר הסכנה בעיכוב הטלת מים.",
+  "title": "סיכום — בכורות מ״ד"
+ },
+ "en": {
+  "overview": "The daf continues the blemishes of the eyes and body of a kohen and of an animal: from 'sees the room and the upper room at once' and Rava's five terms (ish, iver, dak, tevalul, be'eino), through the eyebrows and lashes, the nose and ears (and Moshe Rabbeinu being ten amot in the 'holy amah'), to horns, hooves, their zakhrut, and a red heifer with black horns. Amud b turns to blemishes of the belly and epilepsy, 'one may urinate before many', the baraita on the two orifices and 'let there not be a barren one among you', Mar bar Rav Ashi's 'in her ear', and the dispute of R. Yishmael, R. Akiva and R. Chanina ben Antigonus on 'meroach ashech'. The Rishonim and Acharonim mainly discuss the definition of the terms, the measuring of the nose and the amah, the law of the zakhrut in itakur and igum, and the danger of holding back urine.",
+  "title": "Summary — Bekhorot 44"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "רואה את החדר ואת העלייה כאחת"
+   ],
+   "he": {
+    "term": "רואה את החדר ואת העלייה כאחת",
+    "explanation": "מי שעינו אחת רואה למעלה ועינו אחת למטה, כך שהוא רואה בבת אחת את החדר שלמטה ואת העלייה שלמעלה. הגמרא מבדילה בינו לבין מי ששתי עיניו עומדות למעלה או למטה, ורש״י מונה אותו בין המשונים במעמדם."
+   },
+   "en": {
+    "term": "Sees the room and the upper room at once",
+    "explanation": "A person whose one eye looks up and the other down, so that he sees the room below and the upper room at once. The Gemara distinguishes him from one whose two eyes stand high or low, and Rashi counts him among those irregular in position."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:8:1",
+    "quote": "שמשנת במעמדן כגן למעלה א למטה א ראה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "מחסורייתא",
+    "מבלבליתא"
+   ],
+   "he": {
+    "term": "מחסורייתא ומבלבליתא",
+    "explanation": "שני סוגי פגם בראייה שהתורה כתבה בנפרד: ״דק״ שמחסר את המראה, ו״תבלול״ שמבלבל אותה. רבא מסביר שכל לשון נחוץ כי לולא כן היינו חושבים שהאחר אינו נכלל."
+   },
+   "en": {
+    "term": "Machsoriyeta and mevalbelita",
+    "explanation": "Two kinds of sight defect that the Torah wrote separately: 'dak', which reduces the sight, and 'tevalul', which blurs it. Rava explains that each term is needed, for otherwise we would think the other is not included."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:7:1",
+    "quote": "שחסרה מראת אבל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "גרדומי"
+   ],
+   "he": {
+    "term": "גרדומי",
+    "explanation": "שרשי ריסי העיניים. כשנשרו הריסים אך נשארו השרשים, אין זה מום אלא רק משום מראית העין; כשלא נשארו שרשים הדבר שונה."
+   },
+   "en": {
+    "term": "Gardumei",
+    "explanation": "The roots of the eyelashes. When the lashes have fallen but the roots remain, it is no blemish but only a matter of appearance."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:13:3",
+    "quote": "שרשן לא ה מם אלא משם מראת הען"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 16,
+   "anchors": [
+    "באמה של קדש"
+   ],
+   "he": {
+    "term": "אמה של קודש",
+    "explanation": "המידה שבה נמדדה קומתו של משה רבינו: עשר אמות באמה של קרשי המשכן ולא באמתו של משה עצמו. בכך מתיישבת הקושיה שגופו גדול מאבריו."
+   },
+   "en": {
+    "term": "The holy amah",
+    "explanation": "The measure in which Moshe Rabbeinu's height was stated: ten amot in the amah of the boards of the Mishkan, not in Moshe's own amah. This resolves the objection that his body would be larger than his limbs."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:16:2",
+    "quote": "באמה של קרשם דארך הקרשם לא נמדד באמת של משה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 21,
+   "anchors": [
+    "זכרותן"
+   ],
+   "he": {
+    "term": "זכרות",
+    "explanation": "העצם התחוב בתוך הקרניים, ובטלפיים – העצם שבתוכם. ניטלו הקרניים עם זכרותן – הבהמה פסולה."
+   },
+   "en": {
+    "term": "Zakhrut",
+    "explanation": "The bone fixed inside the horns, and in the hooves the bone within them. When the horns are removed together with their zakhrut, the animal is disqualified."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:21:1",
+    "quote": "הנ עצם התחב בתך הקרנם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 22,
+   "anchors": [
+    "איתעקורי",
+    "איגומי"
+   ],
+   "he": {
+    "term": "איתעקור ואיגום",
+    "explanation": "שני אופני הסרה: איתעקור – נעקרו עם שרשי הזכרות ונראית גומא בראש; איגום – נחתכו מלמעלה ושרשיהם נשארו."
+   },
+   "en": {
+    "term": "Itakur and igum",
+    "explanation": "Two ways of removal: itakur – uprooted along with the roots of the zakhrut so that a pit is visible in the head; igum – cut from above with the roots remaining."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44a:22:3",
+    "quote": "נחתכן מלמעלה שרש נשאר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "בשותת"
+   ],
+   "he": {
+    "term": "שותת",
+    "explanation": "מי שאינו מצליח להטיל מים יפה אחרי שהמתין, אלא מטיל טיפין טיפין – סימן שהנפיחות באה מעיכוב השתן ולא מעלקא."
+   },
+   "en": {
+    "term": "Shoteit",
+    "explanation": "One who cannot urinate properly after holding back but only drips drop by drop – a sign that the swelling came from holding back the urine and not from a leech."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44b:5:2",
+    "quote": "שאנ כל להטל מם פה לאחר כן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "רוח קצרית"
+   ],
+   "he": {
+    "term": "רוח קצרית",
+    "explanation": "מום באדם שפירשו רש״י: רוח שטות על ידי שד, ״בן נפילים״. הגמרא מזהה אותה עם ״רוח בן נפלים״."
+   },
+   "en": {
+    "term": "Ruach ketzarit",
+    "explanation": "A human blemish which Rashi explains as a spirit of foolishness through a demon, the 'ben nefilim'. The Gemara identifies it with 'ruach ben nefalim'."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 44b:11:1",
+    "quote": "רח שטת ע שד"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    9
+   ],
+   "he": {
+    "title": "עיני האדם: ״רואה את החדר ואת העלייה כאחת״ ולמוד חמשת הלשונות ״איש עור דק תבלול בעינו״",
+    "gemara": "הגמרא מבארת שעיניים העומדות בגובה המצח או נמוך מדי, או שעין אחת למעלה ואחת למטה, נקראות מום משום ״מקום עמידתן״ ולא משום ״ראייה״, ושואלת מה ההבדל מ״רואה את החדר והעלייה כאחת״. הברייתא דורשת ״בעינו״ ו״איש עור״ ומרבה גם חוורוור ומים קבועין; ורבא מסביר מדוע נכתבו חמשה לשונות: כל אחד בא ללמד על סוג אחר של פגם בראייה (כהיותא, מחסורייתא, מבלבליתא, משונייתא)."
+   },
+   "en": {
+    "title": "Eye blemishes: a man who sees the room and the upper room at once, and Rava's five terms (ish, iver, dak, tevalul, be'eino)",
+    "gemara": "The Gemara asks how the case of eyes set high or low, or one up and one down, differs from 'sees the room and the upper room at once', and answers that these are eyes that stand in the wrong place. The baraita expounds 'be'eino' and 'ish iver' to include chavarvar and 'mayim hakevu'in'. Rava explains why five terms were written: each teaches a different kind of defect in sight (blindness, deficiency, blurring, and irregular position)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:3:1",
+     "quote": "בגבה המצח שלא כשאר בנ אדם",
+     "he": "רש״י: ״דקיימן למעלה״ – בגובה המצח, שלא כשאר בני אדם.",
+     "en": "Rashi: 'standing above' means at the height of the forehead, unlike other people."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:3:2",
+     "quote": "קמן כסדרן כלמר הנן עמדת במקמן כסדר אבל ראה את החדר את",
+     "he": "רש״י: ״וקיימן כסדרן״ – העיניים עומדות במקומן כסדר, אך עין אחת רואה למעלה ועין אחת למטה.",
+     "en": "Rashi: 'and they stand in their order' – the eyes stand in their proper places, yet one eye sees upward and one downward."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:6:1",
+     "quote": "משמע שנטל ענ לתנה כלל",
+     "he": "רש״י: ״עור״ משמע שניטלו עיניו ואינן כלל.",
+     "en": "Rashi: 'iver' implies that his eyes were removed and are not there at all."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:7:2",
+     "quote": "טל א מחסרת המראה אנ",
+     "he": "רש״י: ״דק״ הוא טייל״א (כתם בעין) המחסרת את המראה ואינה נוטלת אותה כולה.",
+     "en": "Rashi: 'dak' is a 'taylah' (a film) that reduces the sight without taking it away."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:7:3",
+     "quote": "לבן הפסק בסרה נכנס בשחר אנ",
+     "he": "רש״י: ״מבלבליתא״ – לבן הפוסק בסירה (בשחור) ונכנס בשחור, ואינו מקצר את הראייה כלל.",
+     "en": "Rashi: 'mevalbelita' is white that interrupts and enters the black of the eye, and does not shorten the sight at all."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:8:1",
+     "quote": "שמשנת במעמדן כגן למעלה א למטה א ראה",
+     "he": "רש״י: ״משונייתא״ – עיניים שמשונות במעמדן, כגון למעלה או למטה או רואה חדר ועלייה כאחת.",
+     "en": "Rashi: 'meshuniyeta' – eyes irregular in their position, such as up, down, or seeing a room and an upper room at once."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:3",
+     "quote": "שנפחת קצת ממראת ענ כתב",
+     "he": "רבינו גרשום: ״מחסורייתא״ – שנפחת קצת ממראות עיניו, וזה ״דק״; ״מבלבליתא״ – לבן מבולבל בשחור.",
+     "en": "Rabbeinu Gershom: 'machsoriyeta' means that some of the sight of his eyes is diminished, and that is 'dak'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:4",
+     "quote": "שמשנה מראה ענ",
+     "he": "רבינו גרשום: ״משנייתא״ – שמשונה מראה עיניו.",
+     "en": "Rabbeinu Gershom: 'meshuniyeta' means that the appearance of his eyes is different."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:6",
+     "quote": "מ שה שת ענ למעלה מן המקם הרא להם קרבת",
+     "he": "הרמב״ם מונה בין המומים בעיניים את מי ששתי עיניו למעלה מן המקום הראוי להן קרובות למצחו.",
+     "en": "The Rambam lists among eye blemishes one whose two eyes are above their proper place, close to his forehead."
+    },
+    {
+     "who": {
+      "he": "מהר״י קורקוס",
+      "en": "Mahari Kurkus"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Admission into the Sanctuary 7:5:1",
+     "quote": "שקבעם שאמר חזר על חרר אל",
+     "he": "מהר״י קורקוס: ״קבועים״ שבמשנה חוזר על חוורור ועל מים.",
+     "en": "Mahari Kurkus: the word 'kevu'im' in the Mishnah refers back to chavarvar and to 'mayim'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Vayikra 21:20:1",
+     "quote": "שאן זה רק חסרן ראת אבל ראה קצת א",
+     "he": "הגור אריה: כתבה התורה ״דק״ כי זה רק חסרון ראות ועדיין רואה קצת, אחרי שכבר כתבה ״עור״ שאינו רואה כלל.",
+     "en": "The Gur Aryeh: the Torah wrote 'dak' because it is only a deficiency of sight, after 'iver' which means no sight at all."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 21:18:3",
+     "quote": "הא זה שש ל טפת לבנת שבען מנעת",
+     "he": "התורה תמימה: חוורוור הוא מי שיש לו טפות לבנות בעין שמונעות את הראייה.",
+     "en": "The Torah Temimah: chavarvar is one who has white drops in the eye that prevent sight."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 21:20:4",
+     "quote": "דא כתב דק ה א משם דמחסרן אבל מבלבלתא",
+     "he": "התורה תמימה מבאר את דברי רבא: אילו כתבה התורה רק ״דק״, היינו אומרים שפוסל רק מה שחסר את המראה, לא מה שמבלבל אותה.",
+     "en": "The Torah Temimah explains Rava: had the Torah written only 'dak', we would say it disqualifies only what reduces the sight, not what blurs it."
+    },
+    {
+     "who": {
+      "he": "הון עשיר",
+      "en": "Hon Ashir"
+     },
+     "ref": "Hon Ashir on Mishnah Bekhorot 7:3:1",
+     "quote": "נפקא מנא שכשענ אחד לבד הא חץ ממקמ אעפ",
+     "he": "ההון עשיר: לפי המסקנה שמדובר בעין ממש, יש נפקא מינא – שעין אחת בלבד שיצאה ממקומה פוסלת אף שהאחרת במקומה.",
+     "en": "The Hon Ashir: according to the conclusion that the case is about the eye itself, a single eye displaced from its place disqualifies even though the other is in place."
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Bekhorot 7:3:1",
+     "quote": "לשן הרע ב",
+     "he": "רבי עקיבא איגר מעיר על לשון הרע״ב בפירוש ״רואה את החדר״ ומציין ללשון הברייתא שבדף מ״ד, ומסיים שלשון הרע״ב צריך עיון.",
+     "en": "Rabbi Akiva Eiger notes the wording of the Bartenura on 'sees the room', points to the baraita's wording on daf 44, and concludes that the Bartenura's wording requires further study."
+    },
+    {
+     "who": {
+      "he": "אדרת אליהו",
+      "en": "Aderet Eliyahu"
+     },
+     "ref": "Aderet Eliyahu, Leviticus 21:20:1",
+     "quote": "להבא כל שבענ שב ענ למעלה",
+     "he": "אדרת אליהו מביא את הדרשה: ״בעינו״ – להביא כל שבעינו, שתי עיניו למעלה או למטה או אחת למעלה ואחת למטה.",
+     "en": "The Aderet Eliyahu cites the derivation: 'be'eino' comes to include all that is in his eye – both eyes up or down, or one up and one down."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    13
+   ],
+   "he": {
+    "title": "סכי שמש, זגדין, שכבנא, ועיניים תרוטות וצירניות; ריסי העיניים והכלל ״אשתייר גרדומי״",
+    "gemara": "הגמרא מביאה שמות של מומי עיניים: סכי שמש (שאינו סובל את השמש), זגדיין (שאחת מעיניו דומה לשלנו ואחת אחרת, והקפיד רב יהודה), שכבנא וזגדום בגבינים, ועיניים תרוטות, צירניות, דומעות, דולפות וטורדות. בהמשך נאמר ״הזדיר, הלופין והתימין״ בריסי העיניים, ושואלים: האם אלה מומים והרי המשנה פוסלת שנשרו ריסיו רק משום מראית העין? ומתרצים: יש הבדל בין אשתייר גרדומי (נשארו שרשים) ללא אשתייר."
+   },
+   "en": {
+    "title": "Sakhei shemesh, zagdayin, shakhavna; eyes teruot and tziraniot; the eyelashes and 'gardumei'",
+    "gemara": "The Gemara lists names of eye defects: sakhei shemesh (cannot bear the sun), zagdayin (one eye like ours and one different, at which Rav Yehuda took offence), shakhavna and zagdom in the eyebrows, and eyes that are teruot, tziraniot, domot, dolfot and tordot. Next come the zizer, lufyan and timyan (lashes), and the Gemara asks whether these are blemishes, since the Mishnah disqualifies fallen lashes only for appearance's sake. It answers: it depends on whether the roots (gardumei) remain."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:10:1",
+     "quote": "ששנא את השמש אנ כל לראת מקם שחמה",
+     "he": "רש״י: ״סני שמש״ – ששונא את השמש ואינו יכול לראות מקום שחמה זורחת שם.",
+     "en": "Rashi: 'sani shemesh' – he hates the sun and cannot look at a place where the sun shines."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:10:2",
+     "quote": "שש ל ען אחת דמה לען אל השבן נגד",
+     "he": "רש״י: ״חד מדידהו וחד מדידן״ – יש לו עין אחת דומה לעינו של היושבים מולי ועין אחת כשלי; רב יהודה ישב מולו ועיניו היו משונות.",
+     "en": "Rashi: 'one of theirs and one of ours' – he has one eye like those sitting opposite me and one like mine; Rav Yehuda sat opposite him and his eyes were different."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44a:10:1",
+     "quote": "ר ת מפרש דרב הדה ארך בדר הה",
+     "he": "תוספות מביאים את ר״ת: רב יהודה היה ארוך בדורו ורב הונא איש נמוך, ולכן לא ניכרה קטנות עיני רב הונא כשל סתם בני אדם, אבל מול רב יהודה ניכרו גדולות, והיינו שינוי של עין אחת גדולה ואחת קטנה.",
+     "en": "Tosafot cite Rabbeinu Tam: Rav Yehuda was tall for his generation and Rav Huna a short man, so Rav Huna's eyes did not look as small as ordinary people's, but next to Rav Yehuda's they looked large, which is the irregularity of one eye large and one small."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:11:1",
+     "quote": "שגבנ ארכן שכבן על ענ",
+     "he": "רש״י: ״שכבנא״ – שגביניו ארוכין ושוכבין על עיניו.",
+     "en": "Rashi: 'shakhavna' – his eyebrows are long and lie over his eyes."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:4",
+     "quote": "מ שגבנ שכבן",
+     "he": "הרמב״ם מונה בין מומי הגבינים את מי שגבינו שוכבין ואת מי שאחד מגביניו משונה מחברו.",
+     "en": "The Rambam counts among the eyebrow blemishes one whose eyebrows lie down and one whose one eyebrow differs from the other."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:12:5",
+     "quote": "תר מדלפת כמ משל כז דלף",
+     "he": "רש״י: ״טורדות״ – יותר מדולפות, כמו ״דלף טורד״ במשלי.",
+     "en": "Rashi: 'tordot' – more than 'dolfot', like 'a continual dripping' in Mishlei."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:10",
+     "quote": "שעגל את מקם שהען מנח ב",
+     "he": "רבינו גרשום: ״צירניות״ – שעגול אותו מקום שהעין מונח בו.",
+     "en": "Rabbeinu Gershom: 'tziraniyot' – the place in which the eye sits is round."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44a:12:1",
+     "quote": "לאשמענן דלא מפסל משם ממא אלא משם דאן שה בזרע",
+     "he": "תוספות מציעים שאולי נשנו כל הלשונות כדי ללמד שאינם פוסלים משום מום אלא משום שאין שוה בזרעו של אהרן.",
+     "en": "Tosafot suggest that all these terms were taught to inform us that they do not disqualify as a blemish but because one is not equal in Aharon's seed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:13:3",
+     "quote": "שרשן לא ה מם אלא משם מראת הען",
+     "he": "רש״י: ״אישתייר גרדומי״ – שנשארו שרשים, אין זה מום אלא משום מראית העין.",
+     "en": "Rashi: 'gardumei remained' – when roots remain it is no blemish, only a matter of appearance."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:14",
+     "quote": "דלת בה רס ענם כלל",
+     "he": "רבינו גרשום: ״התימין״ – שאין בו ריסי עיניים כלל.",
+     "en": "Rabbeinu Gershom: 'timyan' means he has no eyelashes at all."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 8:5:1",
+     "quote": "משם דהכא מר רבנ לענן ממן ממש כתב מ",
+     "he": "הכסף משנה: מפני שהרמב״ם עוסק כאן במומים ממש, כתב ״מי שאין לו שער כלל״.",
+     "en": "The Kessef Mishneh: because the Rambam here deals with true blemishes, he wrote 'one who has no hair at all'."
+    },
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 44a:1",
+     "quote": "רב הנא אנש גצא הה",
+     "he": "המהרש״א מביא את פירוש ר״ת שרב יהודה ארוך ורב הונא איש נמוך, ולכן לא ניכרה קטנות עיניו.",
+     "en": "The Maharsha cites Rabbeinu Tam's explanation that Rav Yehuda was tall and Rav Huna short."
+    },
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 44a:2",
+     "quote": "בערך בערך זר פרש מנמרן ענ",
+     "he": "המהרש״א: בערוך בערך ״זוור״ פירש – מנומרין עיניו.",
+     "en": "The Maharsha: the Arukh, under 'zivar', explains: his eyes are spotted."
+    },
+    {
+     "who": {
+      "he": "היעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 44a:1",
+     "quote": "דתמ זפ כצ ל",
+     "he": "היעב״ץ מגיה בגמרא: ״תמיד דתמו זיפי׳״ כצ״ל.",
+     "en": "The Ya'avetz emends the text of the Gemara at 'timid dethamu zifei'."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Zayin 9",
+     "quote": "זג דס זג שנם דס",
+     "he": "ההפלאה מביא פירוש לשון ״זגדוס״: זוג שנים, דוס שנים (ובלשון רומי).",
+     "en": "The Hafla'ah cites an explanation of 'zagdus': 'zug' (pair) and 'dus' (two, in the Roman language)."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    18
+   ],
+   "he": {
+    "title": "המשנה: מומי הגוף והחוטם והאוזניים והשפתיים; משה רבינו עשר אמות; ״באמה של קודש״",
+    "gemara": "המשנה מונה כמומים עיניים גדולות כשל עגל וקטנות כשל אווז, גוף או חוטם גדול או קטן מאבריו, צימם וצימע (אזניים קטנות או דומות לספוג), שפה עליונה או תחתונה עודפת, ונשרו שיניו (מראית העין). רב אמר שמשה היה עשר אמות, ורב שימי בר חייא הקשה שזה מום בגוף הגדול מאבריו; ענה רב שהכוונה לאמה של קודש. החוטם נמדד באצבע קטנה, ובאוזניים הוזכר גם ״צימח״ (גדי חזיזא)."
+   },
+   "en": {
+    "title": "The Mishnah: blemishes of body, nose, ears and lips; Moshe Rabbeinu was ten amot; 'the holy amah'",
+    "gemara": "The Mishnah counts as blemishes eyes large as a calf's or small as a goose's, a body or nose too big or small for the limbs, tzumem and tzume'a (small ears, or ears like a sponge), an upper or lower lip that protrudes, and fallen teeth (mar'it ha'ayin). Rav said Moshe was ten amot; Rav Shimi bar Chiya objected that a body larger than its limbs is a blemish; Rav replied that he meant the holy amah. The nose is measured against the little finger, and the 'tzimach' (a kid 'chazitza') is mentioned among the ears."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:14:1",
+     "quote": "כגן ד רגל שק",
+     "he": "רש״י: ״מאבריו״ – כגון ידיו ורגליו ושוקיו.",
+     "en": "Rashi: 'than his limbs' – such as his hands, feet and shins."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:14:3",
+     "quote": "לספג שכצת סתמת",
+     "he": "רש״י: ״דומות לספוג״ – שכווצות וסתומות.",
+     "en": "Rashi: 'like a sponge' – contracted and closed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:19",
+     "quote": "דמת לספג מקבצת בחד",
+     "he": "רבינו גרשום: ״דומות לספוג״ – מקובצות ביחד.",
+     "en": "Rabbeinu Gershom: 'like a sponge' – gathered together."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:15:1",
+     "quote": "קס ד באמה",
+     "he": "רש״י: בתחילה סבר המקשן שהכוונה לעשר אמות באמה שלו.",
+     "en": "Rashi: at first the questioner assumed that the ten amot are in his own amah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:16:2",
+     "quote": "דהנ עשר אמה באמה של קרשם דארך הקרשם לא נמדד באמת של",
+     "he": "רש״י: ״באמה של קרש״ – עשר אמות באמה של קרשי המשכן, שאורך הקרשים לא נמדד באמתו של משה.",
+     "en": "Rashi: 'in the amah of the boards' – ten amot in the amah of the boards of the Mishkan, whose length was not measured by Moshe's own amah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:17",
+     "quote": "דהה משה רבנ אמת באמת של לא הה אלא ג אמת של כדרך",
+     "he": "רבינו גרשום: משה היה עשר אמות (של קודש), אך באמותיו שלו היה שלוש אמות כדרך כל אדם.",
+     "en": "Rabbeinu Gershom: Moshe was ten (holy) amot, but in his own amot he was only three, like any person."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:17:1",
+     "quote": "מדדן חטמ לחטם",
+     "he": "רש״י: משערים את החוטם בחוטמם של בני אדם הארוכים בגופם כמוהו.",
+     "en": "Rashi: the nose is measured against the noses of people as tall as he is."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:18",
+     "quote": "הא קטן א גדל ה מם",
+     "he": "רבינו גרשום: ״עד כעובי אצבע קטנה״ – חוטם קטן או גדול ממנה הוא מום.",
+     "en": "Rabbeinu Gershom: a nose smaller or larger than the little finger is a blemish."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:7",
+     "quote": "כצד משערן את באצבע קטנה שעל ד",
+     "he": "הרמב״ם: משערים את החוטם באצבע קטנה שעל ידו, וגדול או קטן ממנה הוא מום.",
+     "en": "The Rambam: the nose is measured by the little finger on his hand, and larger or smaller than it is a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:20",
+     "quote": "שאזנ תלת ל למטה",
+     "he": "רבינו גרשום: ״גדיא חזיזא״ – שאזניו תלויות לו למטה.",
+     "en": "Rabbeinu Gershom: 'gadya chazitza' – whose ears hang down."
+    },
+    {
+     "who": {
+      "he": "מהר״י קורקוס",
+      "en": "Mahari Kurkus"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Admission into the Sanctuary 8:14:1",
+     "quote": "פרש שהא ארך דק שאנ עב לפ ארכ",
+     "he": "מהר״י קורקוס מביא את רש״י שהארוך הוא דק שאינו עב לפי ארכו, ומביא את הרמב״ם שפירש בענין אחר.",
+     "en": "Mahari Kurkus cites Rashi that the 'tall' one is thin, not thick in proportion to his length, and notes that the Rambam explained otherwise."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 44a:1",
+     "quote": "מדסמא אחרהן ה ז מם",
+     "he": "הרש״ש: מן המשנה עצמה מוכח, מכך שסיימה ״הרי זה מום״ אחרי השפתיים, ש״מראית העין״ אינה קאי על השפתיים.",
+     "en": "The Rashash: it is proved from the Mishnah itself, by its ending 'this is a blemish' after the lips, that 'mar'it ha'ayin' does not refer to the lips."
+    },
+    {
+     "who": {
+      "he": "שפתי חכמים",
+      "en": "Siftei Chakhamim"
+     },
+     "ref": "Siftei Chakhamim, Exodus 39:33:1",
+     "quote": "משמע דמשה הה גבה אמת לכך הה ל",
+     "he": "שפתי חכמים: מהגמרא בבכורות משמע שמשה היה גבוה עשר אמות ולכן היה בכוחו להקים את המשכן.",
+     "en": "The Siftei Chakhamim: from the Gemara in Bekhorot it appears that Moshe was ten amot tall, and so he had the strength to erect the Mishkan."
+    },
+    {
+     "who": {
+      "he": "בנין יהושע",
+      "en": "Binyan Yehoshua"
+     },
+     "ref": "Binyan Yehoshua on Avot D'Rabbi Natan 9:2:21",
+     "quote": "אמר רב משרע ה עשר אמת",
+     "he": "בנין יהושע מציין שאמרת רב ״משה רבינו עשר אמות היה״ מובאת בשבת, בנדרים ובבכורות.",
+     "en": "The Binyan Yehoshua notes that Rav's statement that Moshe was ten amot is found in Shabbat, Nedarim and Bekhorot."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Exodus 40:19:2",
+     "quote": "באמה של קרש חקס",
+     "he": "התורה תמימה מביא את התשובה: ״באמה של קרש״.",
+     "en": "The Torah Temimah cites the answer: 'in the amah of the board'."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Kelim 17:9:1",
+     "quote": "כתב רש ז ל דהא דקתנ תרה על של",
+     "he": "מלאכת שלמה מביא את פירוש רש״י בבכורות מ״ד שהאמה היתרה על של משה אינה באמתו של משה ממש.",
+     "en": "The Melekhet Shelomoh cites Rashi in Bekhorot 44 that the 'amah greater than Moshe's' is not Moshe's own amah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    19,
+    23
+   ],
+   "he": {
+    "title": "קרניים וטלפיים: עז בלי קרניים, זכרות הקרניים והטלפיים, ופרה אדומה ששחרו קרניה",
+    "gemara": "רב חסדא אומר שעז שאין לה קרניים ורחל שיש לה קרניים כשרות למזבח, והברייתא מוסיפה ששוחטים עליהן במקדש אך לא במדינה. אמימר: ניטלו קרניים וזכרותן – פסולה ואין פודים עליה; ניטלו טלפיים וזכרותם – פסולים ונפדים. הגמרא מתרצת סתירה בין ברייתות בחילוק בין ״איתעקור״ (נעקר מהשורש) ל״איגום״ (נחתך ונשאר שורש), ומביאה את דין הפרה אדומה שקרניה שחורות שמתרגם זעירי: ״יגוד״ מעילוי זכרות.",
+    "halakha": "הרמב״ם (איסורי מזבח ב:ד): ניטלו קרניה וזכרותן עמהן ולא נשאר מהן כלום – מום; ״נקבה שיש לה קרניים כשרה״."
+   },
+   "en": {
+    "title": "Horns and hooves: a goat without horns, the 'zakhrut' of horns and hooves, and a red heifer with black horns",
+    "gemara": "Rav Chisda says that a goat without horns and a ewe with horns are fit for the altar, and the baraita adds that one slaughters them in the Mikdash but not in the provinces. Amemar: if horns were removed together with their 'zakhrut', the animal is disqualified and may not be redeemed; if hooves were removed with their zakhrut, they are disqualified and may be redeemed. The Gemara resolves a contradiction between baraitot by distinguishing 'itakur' (uprooted) from 'igum' (cut with the root remaining), and Ze'iri explains the red heifer with black horns: 'yagod' – cut above the zakhrut.",
+    "halakha": "The Rambam (Issurei Mizbe'ach 2:4): if the horns were removed with their zakhrut and nothing of them remained it is a blemish; a female that has horns is fit."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:20:1",
+     "quote": "דלא ה מם",
+     "he": "רש״י: ״במקדש״ – מפני שאין זה מום.",
+     "en": "Rashi: 'in the Mikdash' – because it is not a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:20:2",
+     "quote": "לפ שאנ שה בזרע של אהרן",
+     "he": "רש״י: המשנה שמנתה צימח, צימם וצימע באדם – אומרת זאת מפני שאינו שוה בזרעו של אהרן.",
+     "en": "Rashi: the Mishnah that counts these among a person's blemishes says so because he is not equal in Aharon's seed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:21:1",
+     "quote": "הנ עצם התחב בתך הקרנם",
+     "he": "רש״י: ״זכרותן״ – העצם התחוב בתוך הקרניים; זכרות הטלפיים – העצם שבתוך הטלפיים, כף הרגל.",
+     "en": "Rashi: 'zakhrutan' – the bone fixed inside the horns; the zakhrut of the hooves is the bone inside the hooves, which is the foot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:21:2",
+     "quote": "דלא ה מם גמר אלא לאפסל",
+     "he": "רש״י: ״ואין נפדין עליהם״ – בהמת שאר קדשים אינה נפדית בכך, כי אין זה מום גמור אלא לפסול בלבד.",
+     "en": "Rashi: 'and one does not redeem' – other sacrificial animals are not redeemed through this, since it is not a full blemish but only a disqualification."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:22:2",
+     "quote": "קרנם שרש הזכרת נראת גמא בראש",
+     "he": "רש״י: ״איתעקור איתעקורי״ – הקרניים ושרשי הזכרות, ונראית גומא בראש.",
+     "en": "Rashi: 'itakur itakuri' – the horns and the roots of the zakhrut, and a pit is visible in the head."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:22:3",
+     "quote": "נחתכן מלמעלה שרש נשאר",
+     "he": "רש״י: ״איגום איגומי״ – נחתכים מלמעלה ושרשיהם נשארו.",
+     "en": "Rashi: 'igum igumei' – cut from above while their roots remain."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44a:23:4",
+     "quote": "שש בחד של קרן כשתם שלש אצבעת שאן זכרת מגע שם אם השחרת אן",
+     "he": "רש״י: ״יחתוך מעילוי זכרותייהו״ – בקצה הקרן יש שתי או שלוש אצבעות שאין הזכרות מגיעה שם; אם השחרות לא הגיעה למקום הזכרות יחתוך, ויותר מכך – פסולה.",
+     "en": "Rashi: 'cut above the zakhrut' – at the tip of the horn there are two or three fingerbreadths that the zakhrut does not reach; if the blackness does not reach the zakhrut she cuts it, and beyond that she is disqualified."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:21",
+     "quote": "העצם שבפנם פסלה להקרבה",
+     "he": "רבינו גרשום: ״וזכרותו עמהם״ – העצם שבפנים פסולה להקרבה.",
+     "en": "Rabbeinu Gershom: 'and its zakhrut with them' – the inner bone is unfit for offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:22",
+     "quote": "דנשתר מקצת מזכרתן אן נפדת עלהן",
+     "he": "רבינו גרשום: ״דאיגום איגומי״ – שנשאר מקצת מזכרותן, אין נפדית עליהן.",
+     "en": "Rabbeinu Gershom: 'igum igumei' – where part of the zakhrut remains, it is not redeemed on account of them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44a:24",
+     "quote": "מעל דכרתה חתך לא",
+     "he": "רבינו גרשום: זעירי מתרץ שחתך ״מעילוי״ הזכרות ולכן לא נפסלה הפרה.",
+     "en": "Rabbeinu Gershom: Ze'iri answers that he cut above the zakhrut, so the heifer is not disqualified."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Red Heifer 1:5",
+     "quote": "ה קרנה א טלפה שחרם",
+     "he": "הרמב״ם בהלכות פרה אדומה: ״היו קרניה או טלפיה שחורים יגוד״.",
+     "en": "The Rambam in Hilchot Parah Adumah: 'if her horns or hooves were black, she cuts them'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 2:4:1",
+     "quote": "דלא ה מם גמר אלא לאפסל",
+     "he": "הכסף משנה מבאר שאין פודים משום שאין זה מום גמור אלא לפסול.",
+     "en": "The Kessef Mishneh explains that one does not redeem because it is not a full blemish but only a disqualification."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Red Heifer 1:5:1",
+     "quote": "אבל אם השחרת מגע לזכרת אן לה תקנה",
+     "he": "הכסף משנה: אם השחרות מגיעה לזכרות אין לה תקנה, כי חיתוך שם יעשה אותה בעלת מום.",
+     "en": "The Kessef Mishneh: if the blackness reaches the zakhrut she has no remedy, since cutting there would make her blemished."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 309:24:1",
+     "quote": "אל בגמרא משמע דאפל אגם אגמ כלמר שנחתכ מלמעלה שרש נשאר ה מם כ",
+     "he": "הבית יוסף מתמיה על רבינו (בעל הטור) שכתב ״ניטלו הטלפים עם הבשר שבהם״, כי בגמרא משמע שאפילו איגום איגומי, שנחתכו מלמעלה ושרשיהם נשארו, הוא מום.",
+     "en": "The Beit Yosef is puzzled that 'rabbeinu' (the Tur) wrote 'the hooves were removed with their flesh', since the Gemara implies that even igum igumei, cut above with the roots remaining, is a blemish."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:21:1",
+     "quote": "דבטלפם ה מם גמר אף לפדת עלהן אן",
+     "he": "הב״ח: אוקימנא לרב חסדא שבטלפיים יש מום גמור אף לפדות עליהם.",
+     "en": "The Bach: we established Rav Chisda's statement as meaning that for hooves it is a full blemish even for redeeming."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 309:12:1",
+     "quote": "משמעת התלמד דלאפסל אפ אגם אגמ",
+     "he": "הב״ח: משמעות התלמוד לפסול אפילו באיגום איגומי, וכך פירש רש״י.",
+     "en": "The Bach: the Talmud's implication is to disqualify even in igum igumei, and so Rashi explained."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Parah 2:2:1",
+     "quote": "דא מגע אן לה תקנה שאם חתך שם עשנה בעלת",
+     "he": "התוספות יום טוב: אם השחרות מגיעה לזכרות אין לה תקנה, שאם יחתוך שם יעשנה בעלת מום.",
+     "en": "Tosafot Yom Tov: if the blackness reaches the zakhrut there is no remedy, for cutting there would make her blemished."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Parah 2:2:1",
+     "quote": "שאם חתך עד לשם הא עשה אתה בעלת מם",
+     "he": "מלאכת שלמה מביא את רש״י שיותר מכך פסולה, שאם יחתוך עד שם הוא עושה אותה בעלת מום.",
+     "en": "The Melekhet Shelomoh cites Rashi that beyond that she is disqualified, since cutting up to there makes her blemished."
+    },
+    {
+     "who": {
+      "he": "לחם שמים",
+      "en": "Lechem Shamayim"
+     },
+     "ref": "Lechem Shamayim on Mishnah Kilayim 1:6:2",
+     "quote": "קרנם ברחל דבר שאנ מצ הא",
+     "he": "לחם שמים מביא את מה שאמרו בבכורות – קרניים ברחל דבר שאינו מצוי.",
+     "en": "The Lechem Shamayim cites the statement in Bekhorot that horns on a ewe are not common."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "המשנה במומי הבטן, הנכפה ורוח קצרה; ״משתינין מים בפני רבים״; מעשי שמואל ומר בר רב אשי",
+    "gemara": "המשנה מונה דדין שוכבין כשל אשה, כריסו צבה, טיבורו יוצא, נכפה, רוח קצרה, מאושבן ובעל גבר. רבי אבא אומר: משתינין מים בפני רבים ואין שותין, ומעשה באחד שביקש להשתין ולא השתין ונמצא כריסו צבה. שמואל נצרך בשבתא דרגלא ופרסו סדין, ואביו אמר לו ״אהדר עובדא״; מר בר רב אשי נצרך והשתין, ואמר ״באודנה״. ושואלת הגמרא: למה לא נאמר שהבטן נפוחה מעלקא? ועונה ״בשותת״.",
+    "halakha": "ערוך השולחן (או״ח ת״ו:ב) ומגן אברהם (ג:יב) מתירים להשתין בפני רבים כשצריך, אך המגן אברהם מביא שאשה לא תעמוד מול תינוק אלא מן הצד."
+   },
+   "en": {
+    "title": "The Mishnah on belly blemishes, epilepsy and 'ruach ketzarit'; 'one may urinate before many'; Shmuel and Mar bar Rav Ashi",
+    "gemara": "The Mishnah lists breasts like a woman's, a swollen belly, a protruding navel, an epileptic (even once in many days), 'ruach ketzarit', meushban and ba'al gever. R. Abba says one may urinate before many but may not drink before many, and the baraita tells of a man who wanted to urinate and did not, and his belly swelled. Shmuel needed to urinate on the Shabbat before the festival and a cloak was spread; his father told him to 'restore the practice'. Mar bar Rav Ashi needed to and urinated, saying 'even into her ear'. The Gemara asks why we do not blame a leech ('alka'), and answers: where the urine is dripping.",
+    "halakha": "The Arukh HaShulchan (OC 406:2) and the Magen Avraham (3:12) permit urinating before others when needed, and the Magen Avraham adds that a woman should not stand facing a child but at an angle."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:1",
+     "quote": "אפל לזמן קבע",
+     "he": "רבינו גרשום: ״נכפה אפילו לימים״ – אפילו לזמן קבוע, פסול לעבודה אפילו בשאר הימים.",
+     "en": "Rabbeinu Gershom: 'epileptic even once in several days' – even at a fixed time, he is unfit for service even on the other days."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:9",
+     "quote": "מ שטבר צא אנ שקע כשאר בנ אדם",
+     "he": "הרמב״ם מונה בבטן שלושה מומים: כרסו צבה, טבורו יוצא, ודדיו שוכבין על בטנו כדדי אשה.",
+     "en": "The Rambam counts three blemishes of the belly: a swollen belly, a protruding navel, and breasts lying on his belly like a woman's."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:2:1",
+     "quote": "אבל להטל מם לא לה צנע שמא מתן סתכן",
+     "he": "רש״י: דרך תלמיד חכם להיות צנוע באכילה ובשתייה, אבל להטיל מים לא יהיה צנוע שמא ימתין ויסתכן.",
+     "en": "Rashi: a Torah scholar is modest in eating and drinking, but in urinating he should not be modest, lest he wait and endanger himself."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:2",
+     "quote": "דסכנה הא להעמד עצמ",
+     "he": "רבינו גרשום: משתינים בפני רבים כי סכנה להעמיד עצמו, ואין שותים כי אין זה דרך ארץ.",
+     "en": "Rabbeinu Gershom: one urinates before many because holding oneself back is dangerous, and does not drink before many because it is not derech eretz."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:2:1",
+     "quote": "נראה דנקט מם לפ שאן רגלן לשתת כלן",
+     "he": "תוספות: נראה שנקט ״מים״ לפי שאין רגילים לשתות כולם מים אלא הצמא בלבד, אך שאר משקים רגילים לשתות יחד.",
+     "en": "Tosafot: the text says 'water' because people do not usually all drink water together, only the thirsty, whereas other drinks are drunk together."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 94:1",
+     "quote": "אבל שאר דברם שתן אן להמתן כלל להטל מם",
+     "he": "פסקי תוספות: אין שותים מים בפני רבים בשעת הסעודה, אך שאר דברים שותים, ואין להמתין כלל להטיל מים כשצריך.",
+     "en": "Piskei Tosafot: one does not drink water before many at the meal, but other things are drunk, and one should not wait at all to urinate when needed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:3:3",
+     "quote": "פרס סדן בנ לבן העם",
+     "he": "רש״י: ״נגדו ליה גלימא״ – פרסו סדין בינו לבין העם.",
+     "en": "Rashi: 'they spread a cloak for him' – they spread a sheet between him and the people."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:3:5",
+     "quote": "לפרש סדן לפ שחשב אתה",
+     "he": "רש״י: ״את דאפשר לך״ – לפרוש סדין, לפי שחשוב אתה.",
+     "en": "Rashi: 'you, for whom it is possible' – to spread a sheet, since you are important."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:4:2",
+     "quote": "אפל בתך אזנה הת מטל מם",
+     "he": "רש״י: ״באודנה״ – אפילו בתוך אזנה הייתי מטיל מים אם לא היה לי מקום אחר, קודם שאמתין.",
+     "en": "Rashi: 'in her ear' – I would urinate even into her ear if I had no other place, rather than wait."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:5:2",
+     "quote": "שאנ כל להטל מם פה לאחר כן",
+     "he": "רש״י: ״בשותת״ – שאינו יכול להטיל מים יפה לאחר כן אלא שותת טיפין, ודאי מחמת עיכוב שתן.",
+     "en": "Rashi: 'shoteit' – he cannot afterwards urinate properly but drips drop by drop, surely from holding back his urine."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:11",
+     "quote": "דא שתה עלקה לא הה שתת",
+     "he": "רבינו גרשום: ״בשותת מים״ – שאם שתה עלקה לא היה שותת.",
+     "en": "Rabbeinu Gershom: 'dripping urine' – for had he swallowed a leech he would not be dripping."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 44b:1",
+     "quote": "כ שער הבשה",
+     "he": "בן יהוידע: ״ארבע מאות זוז״ הוא שיעור הבושה של המבייש, ודיבר איתו אביו בדרך בדיחות, שיתן לו על התביישותו בדרשה.",
+     "en": "The Ben Yehoyada: four hundred zuz is the payment for shaming someone, and his father spoke to him in a jesting way, offering that sum for the embarrassment of expounding."
+    },
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Bekhorot 44b:2",
+     "quote": "אפשר שרצה ללמד להם שנ דנן",
+     "he": "מראית העין: ייתכן שרצה ללמד שני דינים – שמותר לעשות דבר שלא כהוגן מפני ספק סכנה, ושאינו חייב בכבוד חמותו.",
+     "en": "Marit HaAyin: perhaps he wished to teach two rulings – that one may do something improper because of a possible danger, and that he is not obliged to honour his mother-in-law."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 44b:1",
+     "quote": "ע ל דקאמר באזנה",
+     "he": "חידושי אגדות: ויש לומר ״באזנה״ כלומר מן הצד ולא כנגדה, כדלקמן ״אגיסא לית לן בה״.",
+     "en": "Chidushei Agadot: perhaps 'be'udnah' means from the side and not facing her, like 'agisa leit lan bah' below."
+    },
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Magen Avraham 3:12",
+     "quote": "אבל להשתן מתר אפל בם בפנ רבם אם צרך לכך משם",
+     "he": "מגן אברהם: אבל להשתין מותר אפילו ביום בפני רבים אם צריך לכך, משום שיש סכנה.",
+     "en": "The Magen Avraham: to urinate, however, is permitted even by day before many if needed, because of the danger."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Orach Chaim 406:2",
+     "quote": "משתנם מם בפנ רבם",
+     "he": "ערוך השולחן: יש אומרים שדין זה דוקא בגדולים, אבל להשתין אפשר בכל מקום, ומשתינים מים בפני רבים.",
+     "en": "The Arukh HaShulchan: some say this applies only to the larger need, but one may urinate anywhere, and 'one may urinate before many'."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Orach Chaim 170:9",
+     "quote": "אן שתן מם בפנ רבם",
+     "he": "ערוך השולחן מביא מבכורות: ״אין שותין מים בפני רבים״.",
+     "en": "The Arukh HaShulchan cites from Bekhorot: 'one does not drink water before many'."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Gra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 405:10:4",
+     "quote": "דבקטנם לכא כבד הברת כמ",
+     "he": "הגר״א: בקטנים אין עניין כבוד הבריות, כמו שאמרו בבכורות ״משתינין מים״.",
+     "en": "The Gra: for the lesser need there is no 'dignity of people' issue, as stated in Bekhorot 'one may urinate'."
+    },
+    {
+     "who": {
+      "he": "עבודת המלך",
+      "en": "Avodat HaMelekh"
+     },
+     "ref": "Avodat HaMelekh on Mishneh Torah, Human Dispositions 4:1:5",
+     "quote": "מבאר בבכרת מ ד ב",
+     "he": "עבודת המלך: מבואר בבכורות מ״ד ב׳ בעובדא דמר בר רב אשי שצריך לעמוד מיד להשתין.",
+     "en": "Avodat HaMelekh: it is explained in Bekhorot 44b in the story of Mar bar Rav Ashi that one must stand immediately to urinate."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "שני נקבים באדם, ״לא יהיה בך עקר ועקרה״ – ״בזמן שבבהמתך״",
+    "gemara": "הברייתא מלמדת שיש באדם שני נקבים, אחד לשתן ואחד לשכבת זרע, ואין ביניהם אלא כקליפת השום; ואם בשעה שהוא נצרך נקבו זה לתוך זה – נמצא עקר. ריש לקיש דורש ״לא יהיה בך עקר... ובבהמתך״ שהכוונה בזמן שהוא משים עצמו כבהמה, וריב״ל דורש שלא יהיה ביתך עקור מן התלמידים ושלא תהא תפלתך עקורה.",
+    "halakha": "ערוך השולחן (יו״ד קט״ז:כ): המשהה נקביו עובר בלאו ״לא תשקצו את נפשותיכם״."
+   },
+   "en": {
+    "title": "Two orifices in a man, and 'there shall be no barren male or female among you' – 'when it is with your animals'",
+    "gemara": "The baraita teaches that a person has two orifices, one for urine and one for semen, with only a garlic-skin between them; if when he is in need they perforate into each other, he becomes sterile. Resh Lakish expounds 'let there not be a barren male... among you' to apply 'when it is with your animals', and R. Yehoshua ben Levi expounds that your house should not be barren of students and your prayer should not be barren.",
+    "halakha": "The Arukh HaShulchan (YD 116:20): one who holds back his needs transgresses 'you shall not make yourselves detestable'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:12",
+     "quote": "מעמד עצמ נקב",
+     "he": "רבינו גרשום: ״בשעה שאדם נצרך״ ומעמיד עצמו – ניקבו.",
+     "en": "Rabbeinu Gershom: 'when a person is in need' and holds himself back – they perforate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Yevamot 75b:16:3",
+     "quote": "שנ נקבם באדם אחד מצא שתן אחד מצא שכבת",
+     "he": "רש״י ביבמות מביא את הברייתא שבבכורות: שני נקבים באדם, אחד מוציא שתן ואחד שכבת זרע, וביניהם כקליפת השום.",
+     "en": "Rashi in Yevamot cites the baraita in Bekhorot: two orifices in a person, one emitting urine and one semen, with a garlic-skin between them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Yevamot 62b:5:1",
+     "quote": "שהה מארך בדרש צרכם למ רגלם מעמדם עצמן נעקרם",
+     "he": "רש״י ביבמות: רב הונא היה מאריך בדרשותיו והצריכים למי רגלים העמידו עצמם ונעקרו, כדתניא בבכורות.",
+     "en": "Rashi in Yevamot: Rav Huna would lengthen his lectures and those needing to urinate held themselves back and became sterile, as taught in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 122:1",
+     "quote": "פ שאם צא ש ז דרך מ רגלם",
+     "he": "האור זרוע: פירוש ״נעשה עקר״ – שאם יוצא שכבת זרע דרך מי רגלים אינו מוליד.",
+     "en": "The Ohr Zarua: 'he becomes sterile' means that if semen exits through the urinary path he cannot beget."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:7:1",
+     "quote": "שתשם עצמך כבהמה שלא תהא צנע בהטלת מם",
+     "he": "רש״י: ״בזמן שבבהמתך״ – שתשים עצמך כבהמה שלא תהיה צנוע בהטלת מים.",
+     "en": "Rashi: 'when it is with your animals' – that you make yourself like an animal, not modest in urinating."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:8:1",
+     "quote": "תהא נשמעת תפלתך",
+     "he": "רש״י: ״שלא תהא תפלתך עקורה״ – וכשתתפלל על בנים תהא נשמעת תפלתך.",
+     "en": "Rashi: 'that your prayer not be barren' – and when you pray for children your prayer will be heard."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:7:1",
+     "quote": "תמה האך כלן להשם עצמן כבהמה בהטלת מם שה צרכן לצאת חץ מן המחנה",
+     "he": "תוספות מקשים: היאך יכלו להשים עצמם כבהמה בהטלת מים, שהיו צריכים לצאת חוץ למחנה.",
+     "en": "Tosafot ask: how could they make themselves like animals in urinating, when they had to go outside the camp?"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:8:1",
+     "quote": "נראה דלכל תפלה קאמר",
+     "he": "תוספות חולקים על רש״י (תפילה על בנים) ומפרשים שהכוונה לכל תפילה.",
+     "en": "Tosafot differ with Rashi (prayer for children) and explain that it refers to every prayer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:14",
+     "quote": "אן תפלתך עקרה כשאתה מתפלל על עסק בנם",
+     "he": "רבינו גרשום: אין תפילתך עקורה כשאתה מתפלל על עסקי בנים.",
+     "en": "Rabbeinu Gershom: your prayer is not barren when you pray concerning children."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "היעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 44b:5",
+     "quote": "אן מבאן ראת מן דרת",
+     "he": "היעב״ץ בתשובה לקושית תוספות: אין מביאים ראיות מדורות ראשונים.",
+     "en": "The Ya'avetz, answering Tosafot's difficulty: one does not bring proofs from the early generations."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 44b:2",
+     "quote": "אם רא התלמדם שרבם נהג בצנעת שלא",
+     "he": "בן יהוידע: אם התלמידים רואים שרבם נוהג בצניעות ולא משתין בפני רבים, לא יבואו ללמוד אצלו, מחשש שיזדמן להם כך ולא יוכלו.",
+     "en": "The Ben Yehoyada: if students see that their teacher acts with modesty and does not urinate before many, they will not come to learn from him, fearing the same would happen to them."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 44b:1",
+     "quote": "שלא הה בתך עקרה מן התלמדם",
+     "he": "פתח עינים: ״לא יהיה בך עקר״ – שלא יהיה ביתך עקורה מן התלמידים, ״ועקרה״ – שלא תהיה תפלתך עקורה.",
+     "en": "Petach Einayim: 'no barren male among you' – your house should not be barren of students, 'and barren female' – your prayer should not be barren."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 44b:2",
+     "quote": "שהה למדך עשה פרת בתלמדם הגנם",
+     "he": "חידושי אגדות: ״לא יהיה בך עקר״ – שיהיה לימודך עושה פירות בתלמידים הגונים.",
+     "en": "Chidushei Agadot: 'no barren male among you' – that your learning bears fruit in worthy students."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 7:14:2",
+     "quote": "אסר לאדם להמתן להטל מם",
+     "he": "התורה תמימה: אסור לאדם להמתין להטיל מים ואפילו בפני רבים, כדי שלא יסתכן ולא יעקר.",
+     "en": "The Torah Temimah: a person may not wait to urinate, even before many, so that he not endanger himself and become sterile."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 116:20",
+     "quote": "כל להת שכשעצר הרבה נקב זה לתך זה",
+     "he": "ערוך השולחן: בשעה שאדם נצרך לנקבים קטנים יכול להיות שכשיעצר הרבה ינקבו זה לתוך זה ונמצא עקר.",
+     "en": "The Arukh HaShulchan: when a person needs the smaller need, it is possible that if he holds back much they will perforate into each other and he becomes sterile."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Even HaEzer 5:15",
+     "quote": "ש בנהם מחצה קלה כקלפת השם",
+     "he": "ערוך השולחן: יש בהגיד שני נקבים, ובינם מחיצה קלה כקליפת השום, ונסתם שביל הזרע ויצא דרך שביל מי הרגלים פסלוהו חכמים.",
+     "en": "The Arukh HaShulchan: the organ has two orifices with a thin partition like a garlic skin; if the semen path closes and semen exits via the urinary path, the Sages disqualified him."
+    },
+    {
+     "who": {
+      "he": "יכין",
+      "en": "Yachin"
+     },
+     "ref": "Yachin on Mishnah Oholot 1:58:1",
+     "quote": "קלפה דקה כקלפת השם",
+     "he": "יכין: באמצע הגיד קליפה דקה כקליפת השום המבדלת בין מהלך השתן למהלך הזרע, כאמור בש״ס בבכורות.",
+     "en": "The Yachin: in the middle of the organ is a thin skin like a garlic skin separating the urinary path from the seminal path, as the Talmud says in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura I 1:192:2",
+     "quote": "הה כמטל מם בשת מקמת דכשר הא הדן",
+     "he": "שואל ומשיב: אם ניקבו זה לזה הוא כמטיל מים בשני מקומות, והוא כשר, בשונה מנסתם.",
+     "en": "The Shoel uMeshiv: if they perforated into each other it is like urinating in two places, which is kosher, unlike a case of blockage."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume VII, Even HaEzer 6:50",
+     "quote": "הנה במאמר זה מלגלגן אנש המדע הרפא אמרם שאן",
+     "he": "משפטי עוזיאל מציין שאנשי המדע הרפואי מלגלגים על מאמר זה ואומרים שאינו מתאים למציאות.",
+     "en": "Mishpetei Uziel notes that people of medical science mock this statement, saying it does not fit reality."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "״לא ישתין על כלי חרס ולא על מקום קשה״, ״הא איתתא לא תקום להדיא באנפי ינוקא״, ועמוד החוזר וסילון החוזר",
+    "gemara": "רב פפא אוסר להשתין על כלי חרס או מקום קשה, משום שמדרונות בבל מחזירים מים לעין עיטם; אביי: אשה לא תעמוד מול תינוק, אך מן הצד אין בכך כלום. ברייתא: עמוד החוזר מביא להדרוקן, סילון החוזר מביא לירקון; ריש לקיש: דם רבה – שחין רבה, שכבת זרע רבה – צרעת רבה, צואה רבה – הדרוקן רבה, מי רגליים רבים – ירקון רבה."
+   },
+   "en": {
+    "title": "'Do not urinate on earthenware or hard ground', 'a woman should not stand facing a child', and the returning 'amud' and 'silon'",
+    "gemara": "Rav Pappa forbids urinating on earthenware or hard ground, because the slopes of Babylon return the water to Ein Eitam; Abaye: a woman should not stand facing a child, but from the side there is no issue. A baraita: a returning 'amud' brings dropsy, a returning 'silon' brings jaundice; Resh Lakish: excess blood – excess boils, excess semen – excess tzara'at, excess feces – excess dropsy, excess urine – excess jaundice."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:9:1",
+     "quote": "בתך עבט של ממ רגלם לפ שמשלכן את בנהר",
+     "he": "רש״י: ״כלי חרס״ – בתוך עביט של מימי רגלים, שמשליכין אותו בנהר בסמוך, ונהרות בבל מתעכבים בעין עיטם.",
+     "en": "Rashi: 'earthenware' – a chamber pot of urine, which is thrown into the nearby river, and the rivers of Babylon pass through Ein Eitam."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:9:2",
+     "quote": "שאנן בלען צפן על הקרקע",
+     "he": "רש״י: ״מקום קשה״ – מקום שאינו בולע, והמים צפים על הקרקע עד שנשטפים למדרון ונופלים לנהר.",
+     "en": "Rashi: 'hard ground' – ground that does not absorb, so the water floats on top until it is swept to a slope and falls into the river."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:9:4",
+     "quote": "שב כ ג טבל",
+     "he": "רש״י: עין עיטם הוא המקום שבו כהן גדול טובל ביום הכיפורים.",
+     "en": "Rashi: Ein Eitam is the place where the Kohen Gadol immerses on Yom Kippur."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:9:5",
+     "quote": "אל תעמד ממש כנגד התנקת דחצפתא הא",
+     "he": "רש״י: כשהאשה מטילה מים אל תעמוד ממש כנגד התינוקות, כי חוצפה היא.",
+     "en": "Rashi: when she urinates she should not stand directly opposite the children, for it is impudence."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:10:4",
+     "quote": "המרבה דם שאנ מקז מרבה שחן",
+     "he": "רש״י: ״דם רבה שחין רבה״ – המרבה דם ואינו מקיז, מרבה שחין.",
+     "en": "Rashi: 'excess blood, excess boils' – one who accumulates blood and does not let it, accumulates boils."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:15",
+     "quote": "אם משתן עלהם מהדר המ רגלם לען עטם",
+     "he": "רבינו גרשום: אם משתין על המדרונות מחזירים המים לעין עיטם, ולכן ישתין על מקום נמוך.",
+     "en": "Rabbeinu Gershom: if one urinates on the slopes, the water returns to Ein Eitam, therefore he should urinate on a low place."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:16",
+     "quote": "כשמשתן משם צנעתא",
+     "he": "רבינו גרשום: ״לא תקום להדיא״ – כשמשתינה, משום צניעות.",
+     "en": "Rabbeinu Gershom: 'should not stand facing' – when she urinates, for modesty."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:9:1",
+     "quote": "הנך חמרת דקא בבבל",
+     "he": "תוספות: חומרות אלה דוקא בבבל.",
+     "en": "Tosafot: these stringencies apply specifically in Babylon."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:9:2",
+     "quote": "אן דרך אשה לגלת עצמה לפנה לא",
+     "he": "תוספות: אף שאינה מגלה עצמה יש חוצפה כשהיא מטילה מים והתינוק עומד לפניה, כי אין דרך אשה לגלות עצמה לפני קטנים או גדולים.",
+     "en": "Tosafot: although she does not uncover herself, it is impudent for her to urinate before a child, since a woman does not uncover herself before young or old."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 44b:10:1",
+     "quote": "מה נראה שהם ענן אחד",
+     "he": "תוספות: אף שמשמע שהדרוקן וירקון שני עניינים, נראה שהם ענין אחד.",
+     "en": "Tosafot: although dropsy and jaundice seem to be two matters, it appears they are one."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Niddah 13a:14:1",
+     "quote": "ל דהתם מר סמך לפרת שהא גבה מכל הנהרת",
+     "he": "תוספות בנדה: ויש לומר שמדובר בסמוך לפרת, שהיא גבוהה מכל הנהרות.",
+     "en": "Tosafot in Niddah: it can be said the case is near the Euphrates, which is higher than all rivers."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 121:1",
+     "quote": "דה מ בבבל דקא סמך",
+     "he": "האור זרוע: הדין הוא בבבל, ודוקא סמוך לנהר.",
+     "en": "The Ohr Zarua: this law applies in Babylon, and only near the river."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 95:1",
+     "quote": "לא שתן מם על גב חרס דקא בבבל",
+     "he": "פסקי תוספות: לא ישתין על גבי חרס, ודוקא בבבל.",
+     "en": "Piskei Tosafot: one should not urinate on earthenware, and only in Babylon."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 96:1",
+     "quote": "אן דרך אשה לגלת עצמה לפנה",
+     "he": "פסקי תוספות: אין דרך אשה לגלות עצמה לפניה, לא לגדולים ולא לקטנים.",
+     "en": "Piskei Tosafot: it is not a woman's way to uncover herself in front of anyone, young or old."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Magen Avraham 3:12",
+     "quote": "אתתא לא תקם להד בפנ תנק אבל לצדדן",
+     "he": "מגן אברהם: אשה לא תעמוד מול תינוק, אבל לצדדים אין בכך בעיה.",
+     "en": "The Magen Avraham: a woman should not stand facing a child, but at the sides there is no problem."
+    },
+    {
+     "who": {
+      "he": "היעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 44b:2",
+     "quote": "אנ אלא כרס צבה נפחה",
+     "he": "היעב״ץ: ״הדרוקן״ אינו אלא כרס צבה ונפוחה.",
+     "en": "The Ya'avetz: 'dropsy' is nothing but a swollen belly."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Bet 24",
+     "quote": "לפננ אתא כל חרס",
+     "he": "ההפלאה: בגרסת הערוך כתוב ״על גבי חטין״, ובגמרא שלפנינו כתוב ״כלי חרס״.",
+     "en": "The Hafla'ah: the Arukh's version reads 'on wheat', while our text of the Gemara reads 'earthenware'."
+    },
+    {
+     "who": {
+      "he": "עבודת המלך",
+      "en": "Avodat HaMelekh"
+     },
+     "ref": "Avodat HaMelekh on Mishneh Torah, Human Dispositions 4:1:4",
+     "quote": "צאה רבה הדרקן רבה",
+     "he": "עבודת המלך מציין לגמרא בבכורות ״צואה רבה הדרוקן רבה״ ולפירוש רש״י בשבת.",
+     "en": "Avodat HaMelekh points to the statement in Bekhorot, 'excess feces – excess dropsy', and to Rashi in Shabbat."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    13
+   ],
+   "he": {
+    "title": "רוח קצרית, מאושבן ובעל גבר, ועד כמה הגיד פוסל",
+    "gemara": "הגמרא מבארת: ״רוח קצרית״ – רוח בן נפלים; מאושבן – בביצים ובעל גבר – בגיד (קיין וגרבתן). רב יהודה הראה ״עד רכובה״, ותניא רבי אליעזר בן יעקב: עד רכובה – פסול, למעלה מן הרכובה – כשר, ויש אומרים להפך."
+   },
+   "en": {
+    "title": "'Ruach ketzarit', meushban and ba'al gever, and how long the organ must be",
+    "gemara": "The Gemara explains: 'ruach ketzarit' is the spirit of 'ben nefalim'; meushban is in the testicles and ba'al gever in the organ (kayyan and garvetan). Rav Yehuda showed 'up to the knee', and R. Eliezer ben Yaakov taught: up to the knee – disqualified, above the knee – fit; some say the reverse."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:11:1",
+     "quote": "רח שטת ע שד",
+     "he": "רש״י: ״נאלת״ – רוח שטות על ידי שד, הוא בן נפילים.",
+     "en": "Rashi: 'ne'ela' – a spirit of foolishness through a demon, which is the 'ben nefilim'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:12:2",
+     "quote": "הנ מן בעל גבר",
+     "he": "רש״י: ״הגרבתן״ – היינו מין בעל גבר.",
+     "en": "Rashi: 'hagarvetan' – is the kind of ba'al gever."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:13:1",
+     "quote": "גדל הגד שהא פסל",
+     "he": "רש״י: ״ועד כמה״ – יגדל הגיד שיהא פסול.",
+     "en": "Rashi: 'how far' – how much must the organ grow to be disqualified."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:23",
+     "quote": "בבצם שבצ גדלם בתר",
+     "he": "רבינו גרשום: ״משוכן״ בביצים – שביציו גדולים ביותר.",
+     "en": "Rabbeinu Gershom: 'meshuban' in the testicles – whose testicles are very large."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:25",
+     "quote": "שארך הגד עד הארכבה",
+     "he": "רבינו גרשום: רב יהודה הראה שהגיד ארוך עד הארכובה.",
+     "en": "Rabbeinu Gershom: Rav Yehuda showed that the organ extends to the knee."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:22",
+     "quote": "רח שדה שגען",
+     "he": "רבינו גרשום: ״בן נפלים״ – רוח שידה, שגעון.",
+     "en": "Rabbeinu Gershom: 'ben nefalim' – a spirit of a demon, madness."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:12",
+     "quote": "מ שכס הבצם גדל ארך עד שמגע לארכבת מ",
+     "he": "הרמב״ם: מום באיברי הזרע – מי שכיס הביצים גדול וארוך עד שמגיע לארכובותיו.",
+     "en": "The Rambam: a blemish of the reproductive organs – one whose sac of testicles is large and long, reaching his knees."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:16",
+     "quote": "מ שרח רעה מבעתת תמד א",
+     "he": "הרמב״ם: עוד מומים באדם – חרש, שוטה, נכפה אפילו לימים רבים, ומי שרוח רעה מבעתתו תמיד או בעתים ידועים.",
+     "en": "The Rambam: further blemishes in a person – a deaf person, a fool, an epileptic even for many days, and one whom an evil spirit terrifies always or at known times."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Nun 1",
+     "quote": "רח קצרת מקרה מחמת מרה השחרה",
+     "he": "ההפלאה מביא את פירוש הרמב״ם: רוח קצרית – מקרה מחמת מרה שחורה, ואילו רש״י פירש רוח שד.",
+     "en": "The Hafla'ah cites the Rambam: 'ruach ketzarit' is an occurrence due to black bile, whereas Rashi explained it as a demon spirit."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 44b:2",
+     "quote": "לפעמם קרא גבר על משקל גבל",
+     "he": "הרש״ש: ולפעמים קורא ״גבר״ על משקל ״גבל״, וראיה מתהילים.",
+     "en": "The Rashash: sometimes the word 'gever' follows the pattern of 'gaval', with a proof from Tehillim."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 44b:5",
+     "quote": "אל צ ל הגברתן כ הא נגזר",
+     "he": "הרש״ש מציע לגרוס ״הגברתן״ כי הוא נגזר מן ״גבר״.",
+     "en": "The Rashash suggests the reading 'hagavretan' since it derives from 'gever'."
+    },
+    {
+     "who": {
+      "he": "היעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 44b:1",
+     "quote": "גרבתן בגד כצ ל",
+     "he": "היעב״ץ מגיה בגמרא: ״גרבתן בגיד״ כצ״ל.",
+     "en": "The Ya'avetz emends the Gemara: 'garvetan in the organ'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    17
+   ],
+   "he": {
+    "title": "מרוח אשך: ר׳ ישמעאל, ר׳ עקיבא ור׳ חנינא בן אנטיגנוס, ו״גורעין ומוסיפין ודורשין״",
+    "gemara": "המשנה: מי שאין לו ביצים או רק ביצה אחת – הוא ״מרוח אשך״. ר׳ ישמעאל: שנימוחו אשכיו. ר׳ עקיבא: שרוח באשכיו. ר׳ חנינא בן אנטיגנוס: שמראיו חשוכין. בגמרא מקשים על כל אחד מדוע לא נכתב כדבריו, ומתרצים; ר׳ חנינא סבר ״גורעין ומוסיפין ודורשין״, ושואלים ״היינו כושי״ ועונים שר״ח לא תני כושי.",
+    "halakha": "הרמב״ם (ביאת מקדש ז:ח): מי שאין לו אלא ביצה אחת אף שיש לו שני כיסין – מום."
+   },
+   "en": {
+    "title": "'Meroach ashech': R. Yishmael, R. Akiva and R. Chanina ben Antigonus, and 'subtracting, adding and expounding'",
+    "gemara": "The Mishnah: one who has no testicles or only one is the 'meroach ashech'. R. Yishmael: whose testicles have been crushed. R. Akiva: whose testicles contain 'ruach'. R. Chanina ben Antigonus: whose appearance is dark. The Gemara asks of each why the text is not written as he reads it, and answers; R. Chanina holds that 'one subtracts, adds and expounds', and when asked 'this is a Kushi', answers that R. Chanina does not teach 'Kushi'.",
+    "halakha": "The Rambam (Bi'at HaMikdash 7:8): one who has only one testicle even though he has two sacs has a blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:14:3",
+     "quote": "שהא שחר ככש",
+     "he": "רש״י: ״שמראיו חשוכים״ – שהוא שחור ככושי, ולא בביצים משתעי כלל.",
+     "en": "Rashi: 'whose appearance is dark' – black like a Kushi, and he does not speak of testicles at all."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:15:1",
+     "quote": "דבשאן ל בצם משתע קרא חסר",
+     "he": "רש״י: רבי ישמעאל חולק על התנא קמא כי אם התורה מדברת באין לו ביצים היה צריך לכתוב ״חסר אשך״.",
+     "en": "Rashi: R. Yishmael differs with the first Tanna because if the Torah speaks of one with no testicles it should have said 'chasar ashech'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:15:3",
+     "quote": "דהא מ ם דמרח משמשת הא",
+     "he": "רש״י: ״ממרוח אשך מיבעי ליה״ – שהרי המ״ם ב״מרוח״ משמשת.",
+     "en": "Rashi: 'it should say mimaroach ashech' – for the mem in 'meroach' is a prefix."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 44b:16:1",
+     "quote": "גרען ח ת ממרח אלף מאשך",
+     "he": "רש״י: ״גורעין ומוסיפין״ – גורעין חי״ת ממרוח ואלף מאשך, ומוסיפים, ונעשה ״מראו חשך״.",
+     "en": "Rashi: 'subtract and add' – they subtract the chet from meroach and the aleph from ashech and add, making 'mar'o choshech'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:29",
+     "quote": "כל חד חד בע לתרצ טעמה",
+     "he": "רבינו גרשום: כל אחד מהתנאים מתרץ את טעמו.",
+     "en": "Rabbeinu Gershom: each of the Tannaim resolves his own reasoning."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 44b:30",
+     "quote": "קסבר ר חננה גרען מספן",
+     "he": "רבינו גרשום: ר׳ חנינא סבר גורעין ומוסיפין ודורשין.",
+     "en": "Rabbeinu Gershom: R. Chanina holds that one subtracts, adds and expounds."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 7:8",
+     "quote": "מ שאן ל אלא בצה אחת אף על פ שש",
+     "he": "הרמב״ם: מי שאין לו אלא ביצה אחת אף על פי שיש לו שני כיסין – פסול.",
+     "en": "The Rambam: one who has only one testicle, even though he has two sacs, is disqualified."
+    },
+    {
+     "who": {
+      "he": "מזרחי",
+      "en": "Mizrachi"
+     },
+     "ref": "Mizrachi, Leviticus 21:20:4",
+     "quote": "אבל אן לפרש כרב חננה שאמר כל שמרא",
+     "he": "המזרחי: אין לפרש את ״מרוח אשך״ כרבי חנניה שאמר כל שמראו חשוך, ולא כתנא קמא שאמר חסר ביצים.",
+     "en": "The Mizrachi: one cannot explain 'meroach ashech' like R. Chanina, who said whoever's appearance is dark, nor like the first Tanna, who said one lacking testicles."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Leviticus 21:20:1",
+     "quote": "לר ע הא מ שאשכ נפחם",
+     "he": "הכתב והקבלה: לר״ע ״מרוח אשך״ הוא מי שאשכיו נפוחים ע״י הרוח המוסגר בהם.",
+     "en": "HaKtav VeHaKabalah: according to R. Akiva 'meroach ashech' is one whose testicles are swollen by air enclosed in them."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 21:20:11",
+     "quote": "דרש מרח אשך מלשן מרח מעכה",
+     "he": "התורה תמימה: ר׳ ישמעאל דורש ״מרוח אשך״ מלשון מריחה ומעיכה.",
+     "en": "The Torah Temimah: R. Yishmael expounds 'meroach ashech' from the language of smearing and crushing."
+    },
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 44b:1",
+     "quote": "ש לפרש דר ח לא ממ",
+     "he": "המהרש״א: ויש לפרש שר״ח לא מקשה מן המ״ם אלא שצריך ״רוח אשך״.",
+     "en": "The Maharsha: it can be explained that R. Chanina is not asking from the mem but that it should say 'ruach ashech'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 44b:8",
+     "quote": "לשנ שלא בדק",
+     "he": "הרש״ש: לשון התוספות יום טוב אינו בדיוק, שהרי ר׳ ישמעאל חולק על התנא קמא ואומר ״שנמרחו״.",
+     "en": "The Rashash: the Tosafot Yom Tov's wording is imprecise, since R. Yishmael differs from the first Tanna and says 'nimrechu'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 44b:9",
+     "quote": "תמה דבגמרא קאמר דהנ כש",
+     "he": "הרש״ש: תמוה, שהרי הגמרא אומרת שהיינו כושי.",
+     "en": "The Rashash: this is surprising since the Gemara says that this is a Kushi."
+    },
+    {
+     "who": {
+      "he": "היעב״ץ",
+      "en": "Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 44b:3",
+     "quote": "להכ תנ ר ש נמרח",
+     "he": "היעב״ץ מגיה בתוספות: ״להכי תני רי״ש נמרחו אשכיו״.",
+     "en": "The Ya'avetz emends Tosafot: 'therefore R. Yishmael teaches nimrechu ashechav'."
+    },
+    {
+     "who": {
+      "he": "יפה קול",
+      "en": "Yefeh Kol"
+     },
+     "ref": "Yefeh Kol on Shir HaShirim Rabbah 1:1:1:8",
+     "quote": "ש לפרש בזה דלא כרש",
+     "he": "יפה קול: ויש לפרש את ״מראיו חשוכין״ שלא כרש״י.",
+     "en": "Yefeh Kol: one can explain 'mar'av chashukhin' differently from Rashi."
+    },
+    {
+     "who": {
+      "he": "מהר״ם",
+      "en": "Maharam"
+     },
+     "ref": "Maharam on Niddah 24a:1",
+     "quote": "דלא גרסנן פסל לעבדה",
+     "he": "המהר״ם: בבכורות לא גורסים ״פסול לעבודה״.",
+     "en": "The Maharam: in Bekhorot the text does not read 'disqualified for service'."
+    }
+   ]
+  }
+ ]
+}
