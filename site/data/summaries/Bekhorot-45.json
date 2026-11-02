@@ -1,0 +1,1636 @@
+{
+ "ref": "Bekhorot 45",
+ "date": "2026-11-02",
+ "he": {
+  "overview": "הדף עוסק במומי הגוף הפוסלים בכהן ובבכור: בעמוד א – בעל הפיקין והעיקל, אצבעות מורכבות וקלוטות, ויתרת שיש בה עצם והטומאה שלה במגע ובמשא ולא באוהל; הגמרא עוברת לרוב בניינו ורוב מניינו של מת ולמנין האברים באיש ובאשה, כולל מעשה הזונה שבה תלמידי רבי ישמעאל והמחלוקת בצירים, דלתות ומפתח. בעמוד ב נדונים שש ושש, האיטר והשולט בשתי ידיו; ואחר כך המשנה הבאה – כושי, גיחור, לבקן וקיפח, החרש, השוטה והשיכור; ולבסוף מי שכשר באדם ופסול בבהמה – אותו ואת בנו – ונושא נשים בעבירה שנודר ועובד. הראשונים והאחרונים דנים בפירוש ״כסתות״, בטעם הגזירה בטומאת היתרת, בדין חליצה באיטר, בשיכור משאר משקין, ובצורך לפרט את הנדר.",
+  "title": "סיכום — בכורות מ״ה"
+ },
+ "en": {
+  "overview": "The daf deals with bodily blemishes that disqualify a kohen or a firstborn animal. Amud a covers the ba'al hapikin and ikel, overlapping and webbed fingers, and an extra digit with a bone, whose impurity is by touch and carrying but not under a tent; the Gemara moves to the majority of a corpse's structure and count and the number of limbs in man and woman, including the story of the harlot boiled by Rabbi Yishmael's students and the dispute over hinges, doors and key. Amud b discusses six-and-six, the left-handed and the ambidextrous; then the next mishnah - kushi, gihor, lavkan and kipeach, the deaf, the insane and the drunk; and finally what is fit in a person but disqualified in an animal - 'oto ve'et beno' - and one who marries women through a sin, who vows and serves. The Rishonim and Acharonim take up the meaning of 'kesatot', the reason for the decree on the extra digit, chalitza by a left-handed person, intoxicants other than wine, and the need to specify a vow.",
+  "title": "Summary — Bekhorot 45"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "בעל הפיקין"
+   ],
+   "he": {
+    "term": "בעל הפיקין",
+    "explanation": "מום ברגל שבו, לפי רבי יוחנן, יש לבהמה או לאדם ״כסתות הרבה״. התוספות מביאים שני פירושים: רש״י – האיסתמרא שלו גדולה, והערוך – פרסתו גבוהה ויש בה בשר רב."
+   },
+   "en": {
+    "term": "Ba'al hapikin",
+    "explanation": "A foot blemish in which, per Rabbi Yochanan, there are 'many kesatot'. Tosafot bring two explanations: Rashi - his istamra is large; the Arukh - his hoof is high with much flesh."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Bekhorot 45a:4:1",
+    "quote": "ובערוך פירש שפרסתו גבוהה ויש בשר הרבה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "נספרת על גב היד"
+   ],
+   "he": {
+    "term": "נספרת על גב היד",
+    "explanation": "יתרת הנחשבת לאחת מאצבעות היד, העומדת בשורתן. רש״י מבאר שבנספרת היא חשובה אבר, ובה עוסקת המשנה."
+   },
+   "en": {
+    "term": "Counted on the back of the hand",
+    "explanation": "An extra digit regarded as one of the hand's fingers, standing in their row. Rashi explains that such a digit is considered a limb, and it is the one the mishnah addresses."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 45a:8:1",
+    "quote": "שנספרת עם שאר האצבעות שעומדת בשורתן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "עבדו רבנן היכירא"
+   ],
+   "he": {
+    "term": "עשו היכר",
+    "explanation": "כשחכמים גזרו טומאה על יתרת שאינה נספרת, הם הגבילו אותה למגע ומשא ולא לאוהל, כדי שלא ישרפו תרומה וקדשים בגללה."
+   },
+   "en": {
+    "term": "A distinguishing mark",
+    "explanation": "When the sages decreed impurity on an uncounted extra digit, they limited it to touch and carrying and not under a tent, so that terumah and sacrifices would not be burned because of it."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 45a:16",
+    "quote": "כי היכי דלא לישרפו על טומאתו תרומה וקדשים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 15,
+   "anchors": [
+    "רוב בנינו ורוב מנינו"
+   ],
+   "he": {
+    "term": "רוב בניינו ורוב מניינו",
+    "explanation": "שני סימנים לאוהל של עצמות מת שאינם מגיעים לרובע: רוב הבנין – השוקיים, הירכיים, הצלעות והשדרה, ורוב המניין – קכ״ה עצמות. כל אחד מהם מטמא כמת שלם."
+   },
+   "en": {
+    "term": "Majority of structure and majority of count",
+    "explanation": "Two measures by which bones of a corpse defile under a tent even without a quarter-kav: the majority of the structure - the shins, thighs, ribs and spine - and the majority of the count - 125 bones. Either defiles like a whole corpse."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Defilement by a Corpse 2:8",
+    "quote": "כל בנינו של אדם הוא שתי השוקים והירכים והצלעות והשדרה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "כשם שצירים לבית"
+   ],
+   "he": {
+    "term": "צירים, דלתות ומפתח",
+    "explanation": "האברים הנוספים באשה לפי התנאים בברייתא, הדומים לחלקי בית. מחלוקת רבי אליעזר, רבי יהושע ורבי עקיבא מי מהם נמנה, ובסך הכל באשה רנ״ב או רנ״ג."
+   },
+   "en": {
+    "term": "Hinges, doors and key",
+    "explanation": "The extra limbs in a woman according to the Tannaim in the baraita, likened to parts of a house. Rabbi Eliezer, Rabbi Yehoshua and Rabbi Akiva dispute which are counted, totaling 252 or 253 in a woman."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 45a:16:2",
+    "quote": "ובאשה יש ב' צירין ושני דלתות ומפתח כדאמרינן לקמן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 4,
+   "anchors": [
+    "איטר"
+   ],
+   "he": {
+    "term": "איטר",
+    "explanation": "מי שידו או רגלו הימנית חלשה והשמאלית חזקה. איטר ביד פסול בכהן, ואיטר ברגל – מי שעוקר רגל שמאל תחילה."
+   },
+   "en": {
+    "term": "Iter (left-handed)",
+    "explanation": "One whose right hand or foot is weak and left strong. A left-handed hand disqualifies a kohen, and a left-footed person is one who lifts his left foot first."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 45b:4:1",
+    "quote": "שכשמהלך עוקר רגל השמאל תחלה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "בעלי הדלדולין"
+   ],
+   "he": {
+    "term": "בעלי הדלדולין",
+    "explanation": "בעלי עור וגוף ששריר או עור שלהם נדלדל, והוא מום. הרמב״ם מונה אותם בין שמונה מומי עור הבשר."
+   },
+   "en": {
+    "term": "Ba'alei hadildulin",
+    "explanation": "Those whose skin or flesh has sagged, a blemish. The Rambam counts them among the eight blemishes of the skin."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Admission into the Sanctuary 8:15",
+    "quote": "בעלי הדלדולין והוא שידלדל העור והבשר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 16,
+   "anchors": [
+    "נודר ועובד"
+   ],
+   "he": {
+    "term": "נודר ועובד",
+    "explanation": "כהן שנשא אישה פסולה לו, עובד בהיתר אחרי שנדר שלא ליהנות ממנה, ובכך הוא הולך לגרשה. הקושיה בגמרא היא מדוע אינו מתיר את הנדר אצל חכם."
+   },
+   "en": {
+    "term": "He vows and serves",
+    "explanation": "A kohen who married a woman forbidden to him may serve after vowing not to benefit from her, then goes to divorce her. The Gemara's question is why he cannot have the vow annulled by a sage."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 45b:16:1",
+    "quote": "אע\"פ שעדיין לא גירש מותר לעבוד משנדר שלא תהנה ממנו והוא ממנה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "בעל הפיקין, עיקל והקילבן: מומי הרגלים",
+    "gemara": "המשנה פוסלת ״בעל הפיקים״ ו״עיקל״ – מי שמקיף פרסותיו ואין ארכובותיו נוקשות זו לזו – פיקה היוצאת מגודלו, עקב היוצא לאחור ופרסות רחבות כשל אווז. הברייתא מרבה מ״או שבר רגל״ גם את ההקישן, העיקל והקילבן, ורבי יוחנן מפרש שבעל הפיקין יש לו כסתות הרבה והשופנר אין לו כסתות כלל; רבי אלעזר מבאר שעקב יוצא לאחור הוא ששוקו יוצא באמצע רגלו, ורב פפא מסביר ש״רחבות כשל אווז״ פסול גם בלי סדק, כיוון שכשרגל טרופה הרי הפסול ברור.",
+    "halakha": "הרמב״ם (ביאת מקדש ח:יג) מונה את אלה בין חמישה עשר מומי השוקיים והרגליים."
+   },
+   "en": {
+    "title": "Ba'al hapikin, ikel and kilvan: blemishes of the legs and hooves",
+    "gemara": "The mishnah disqualifies a 'ba'al hapikin' and an 'ikel' - one whose hooves curve around and whose knees do not knock - a kneecap protruding from the big toe, a heel jutting backward and hooves as wide as a goose's. The baraita adds from 'or a broken foot' the hakishan, ikel and kilvan, and Rabbi Yochanan explains that a ba'al hapikin has many 'kesatot' and a shufner has none at all; Rabbi Elazar says a heel that sticks out backward means the shin comes out in the middle of the foot, and Rav Pappa says that goose-wide hooves disqualify even without a split.",
+    "halakha": "The Rambam (Admission into the Sanctuary 8:13) counts these among the fifteen blemishes of the shins and feet."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:1:1",
+     "quote": "ואין ארכובותיו נוקשות זו לזו שעוקמות כלפי חוץ",
+     "he": "רש״י: העיקל מחבר את פרסות רגליו כשהוא יושב, וארכובותיו אינן נוקשות זו בזו אלא מתעקמות כלפי חוץ.",
+     "en": "Rashi: the ikel joins his hooves when he sits and his knees do not knock against each other but bend outward."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:1:3",
+     "quote": "ששוקו עומד באמצע רגלו",
+     "he": "רש״י: ״עקיבו יוצא לאחוריו״ – כפי שמפרשת הגמרא, שוקו עומד באמצע רגלו.",
+     "en": "Rashi: 'his heel juts out backward' - as the Gemara explains, his shin stands in the middle of his foot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:1:4",
+     "quote": "שקלושות הן כשל אווז ואין ארכן יתר על רחבן",
+     "he": "רש״י: פרסות רחבות כשל אווז הן שדקות, ואין אורכן יתר על רחבן.",
+     "en": "Rashi: hooves 'wide like a goose's' are thin, their length no greater than their width."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:4:4",
+     "quote": "שאיסתמרא שלו שקורין",
+     "he": "רש״י על ״כסתות הרבה״: איסתמרא שלו (הרגל) גדולה מאוד.",
+     "en": "Rashi on 'many kesatot': the (foot's) 'istamra' is very large."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45a:4:1",
+     "quote": "ובערוך פירש שפרסתו גבוהה ויש בשר הרבה לצד ראש הרגל",
+     "he": "תוספות: הערוך פירש שפרסתו גבוהה ויש בשר הרבה לצד ראש הרגל, ולשון ״כסתות״ משמע בשר ולא עצם, כפירושו.",
+     "en": "Tosafot: the Arukh explains that his hoof is high with much flesh toward the top of the foot, and the word 'kesatot' implies flesh not bone, as he explains."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:1",
+     "quote": "שפרסות רגליו רחבות ועגולות",
+     "he": "רבינו גרשום: ״מקיף פרסותיו״ – פרסות רגליו רחבות ועגולות, ולכן ארכובותיו אינן יכולות להקיש זו בזו.",
+     "en": "Rabbeinu Gershom: 'curves around his hooves' - his hooves are wide and round, so his knees cannot strike each other."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:2",
+     "quote": "כעין אצבע יתירה",
+     "he": "רבינו גרשום: פיקה היוצאת מגודלו היא כעין אצבע יתירה.",
+     "en": "Rabbeinu Gershom: a kneecap protruding from his big toe is like an extra finger."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:5",
+     "quote": "כסתות הרבה כעין קרסוליו הרבה",
+     "he": "רבינו גרשום: ״כסתות הרבה״ – כעין קרסוליים רבים.",
+     "en": "Rabbeinu Gershom: 'many kesatot' - like many ankles."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:6",
+     "quote": "ולא סדיקה בין האצבעות אלא שעגולה כשל אווז",
+     "he": "רבינו גרשום: ״לא תימא דטריפה״ – שדקה הרבה ולא סדוקה בין האצבעות אלא עגולה כשל אווז; אבל כיוון שטריפה, אף על פי שסדוקה פסול.",
+     "en": "Rabbeinu Gershom: 'do not say torn' - it is very thin, not split between the toes but round like a goose's; once it is torn, it disqualifies even if split."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:13",
+     "quote": "מי שפיקתו יוצאת והפיקה היא העצם העגל שלמעלה מן העקב",
+     "he": "הרמב״ם מגדיר: מי שפיקתו יוצאת, והפיקה היא העצם העגול שלמעלה מן העקב.",
+     "en": "The Rambam defines: one whose kneecap protrudes - the 'pikah' is the round bone above the heel."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 8:13:1",
+     "quote": "ומפרש דהיינו שאין לו אותה פיקה",
+     "he": "כסף משנה: דברי הרמב״ם על הפיקה נובעים מהשופנר – שאין לו כסתות כלל, כלומר שאין לו אותה פיקה.",
+     "en": "Kessef Mishneh: the Rambam's wording about the 'pikah' comes from the shufner - who has no kesatot at all, meaning he lacks that pikah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 45a:1",
+     "quote": "משמע דזהו פירושו של בעל הפיקום",
+     "he": "רש״ש: מרש״י משמע שזה פירושו של ״בעל הפיקום״, וכן כתב הרע״ב, ואילו לרמב״ם המשנה מפרשת רק את העיקל.",
+     "en": "Rashash: from Rashi it appears that this is the explanation of 'ba'al hapikum', and so Rabbi Ovadia of Bartenura wrote, whereas for the Rambam the mishnah explains only the ikel."
+    },
+    {
+     "who": {
+      "he": "הפלאה שבערכין",
+      "en": "Hafla'ah ShebaArakhin"
+     },
+     "ref": "Hafla'ah ShebaArakhin on Sefer HeArukh, Letter Kaf 69",
+     "quote": "מי שעקיבו ופיסת רגלו בולטין לחוץ כעין כסתות",
+     "he": "הפלאה שבערכין (לפי הערוך): בעל הפיקן הוא מי שעקבו וכף רגלו בולטים כעין כסתות.",
+     "en": "Hafla'ah ShebaArakhin (citing the Arukh): a ba'al hapikan is one whose heel and sole bulge outward like cushions."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "אצבעות מורכבות או קלוטות, ויתרת שחתכה",
+    "gemara": "המשנה כשרה אצבעות מורכבות זו על זו או קלוטות למעלה מן הפרק, ופוסלת קלוטות למטה מן הפרק; הברייתא דורשת ״או שבר יד״ כדי לרבות את מי שלא חתכן. ביתרת שחתכה – אם יש בה עצם פסול, ואם לאו כשר, ורבה בר בר חנה אמר רבי יוחנן שהדין הוא כשהיא נספרת על גב היד.",
+    "halakha": "הרמב״ם (ביאת מקדש ח:יא): אם היה בה עצם – אפילו חתכה פסול."
+   },
+   "en": {
+    "title": "Joined or overlapping fingers, and a cut-off extra finger",
+    "gemara": "The mishnah permits fingers overlapping or webbed above the joint, and disqualifies those webbed below the joint; the baraita expounds 'or a broken hand' to include one who did not cut them. For an extra finger that was cut off - if it had a bone he is disqualified, and if not he is fit, and Rabbah bar bar Chana said in Rabbi Yochanan's name that this applies when it is counted along the back of the hand.",
+    "halakha": "The Rambam (Admission into the Sanctuary 8:11): if it had a bone, he is disqualified even after cutting it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:2:2",
+     "quote": "דהיינו לצד הצפורן שמחוברין כולן וחתכה שיהו מסולקים כשר",
+     "he": "רש״י: ״למטה מן הפרק״ – לצד הצפורן, שמחוברות כולן; אם חתכן והפרידן – כשר.",
+     "en": "Rashi: 'below the joint' - toward the nail, where all are joined; if he cut them and separated them, he is fit."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:2:4",
+     "quote": "הואיל וחתכה שהרי הוא מחוסר אבר שנמצא בו",
+     "he": "רש״י: אם יש בה עצם והיא נחתכה, הוא מחוסר אבר שנמצא בו, ולכן פסול.",
+     "en": "Rashi: if it has a bone and was cut off, he is missing a limb that was in him, and is therefore disqualified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:8:1",
+     "quote": "שנספרת עם שאר האצבעות שעומדת בשורתן",
+     "he": "רש״י: ״נספרת על גב היד״ – נספרת עם שאר האצבעות ועומדת בשורתן.",
+     "en": "Rashi: 'counted on the back of the hand' - counted with the other fingers and standing in their row."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:7",
+     "quote": "אם דבוקות הן האצבעות מפיסת יד ועד הפרק האמצעי של אצבעות כשר",
+     "he": "רבינו גרשום: אם האצבעות דבוקות מכף היד ועד הפרק האמצעי – כשר.",
+     "en": "Rabbeinu Gershom: if the fingers are joined from the palm up to the middle joint - he is fit."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:8",
+     "quote": "למעלה מן הפרק דאמר בגמרא היינו למטה מן הפרק דאמרינן במתני",
+     "he": "רבינו גרשום: ״למעלה מן הפרק״ שבגמרא הוא ״למטה מן הפרק״ שבמשנה.",
+     "en": "Rabbeinu Gershom: 'above the joint' in the Gemara is the 'below the joint' of the mishnah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:11",
+     "quote": "ואם היה בה עצם אפילו חתכה פסול",
+     "he": "הרמב״ם: ואם היה בה עצם, אפילו חתכה – פסול.",
+     "en": "The Rambam: if it had a bone, even if he cut it off, he is disqualified."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חידושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 45a:1",
+     "quote": "במשנה זו על זו או קלוטות למעלה עד הפרק כשר",
+     "he": "חידושי הלכות: קובע את נוסח המשנה ״זו על זו או קלוטות למעלה עד הפרק כשר״, ״כצ״ל מכל נוסחות סדר משנה״, וכן מוכח מפירוש רש״י.",
+     "en": "Chidushei Halachot: fixes the mishnah's text as 'one on the other or webbed above, up to the joint, fit', 'so it should read from all the Seder Mishnah texts', and so Rashi's commentary proves."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 45a:2",
+     "quote": "דבזה אפילו ר\"י פוסל",
+     "he": "רש״ש: במקרה של יתר שש ושש כשיש חכמים פוסלים, ייתכן שאפילו רבי יהודה פוסל בכך.",
+     "en": "Rashash: for the case of six and six, he suggests that in this case even Rabbi Yehuda disqualifies."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    14
+   ],
+   "he": {
+    "title": "יתרת שיש בה עצם: טומאה במגע ובמשא ולא באוהל",
+    "gemara": "הברייתא: יתרת שיש בה עצם ואין בה צפורן מטמאה במגע ובמשא ובאוהל, ועולה למנין קכ״ה – ורבה בר בר חנה מגביל זאת לנספרת על גב היד. רב חסדא מביא ״רבינו הגדול״ (רב) שאינה מטמאה באוהל אם אינה נספרת, ורבי יוחנן אומר שהם ״עשו דבריהם כדברי נביאות״. הטעמים: ״עצם כשעורה נגעו בה״ (רב הונא בר מנוח), או גזירה אינה-נספרת אטו נספרת (רב פפא), ו״עבדו היכירא״ כדי שלא ישרפו תרומה וקדשים.",
+    "halakha": "לפי הרמב״ם (טומאת מת ב:ז) טומאת האצבע שאינה נספרת מדברי סופרים."
+   },
+   "en": {
+    "title": "An extra digit with a bone: impure by touch and carrying but not under a tent",
+    "gemara": "The baraita: an extra digit with a bone and no nail conveys impurity by touch and carrying and under a tent, and counts toward the 125 - Rabbah bar bar Chana limits this to one counted on the back of the hand. Rav Chisda cites 'our great teacher' (Rav) that if it is not counted it does not defile under a tent, and Rabbi Yochanan says they 'made their words like prophecy'. The reasons: 'a bone the size of a barley grain' (Rav Huna bar Manoach), or a decree for the uncounted because of the counted (Rav Pappa), and 'they made a distinguishing mark' so that terumah and sacrifices should not be burned over it.",
+    "halakha": "According to the Rambam (Defilement by a Corpse 2:7), the impurity of a finger that is not counted is rabbinic."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:9:2",
+     "quote": "ואי לא הוה בשר כלל אפילו נספרת נמי דחשיב אבר לא מטמא באהל",
+     "he": "רש״י: אם אין בה בשר כלל, אפילו נספרת – אינה מטמאה באוהל, כי עצמות מטמאות באוהל רק ברוב בניין, רוב מניין או רובע הקב.",
+     "en": "Rashi: if it has no flesh at all, even when counted it does not defile under a tent, since bones defile under a tent only by majority of structure, majority of count or a quarter-kav."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:9:3",
+     "quote": "אם אין בה בשר עולה למנין",
+     "he": "רש״י: ״עולה למניין קכ״ה״ – אם אין בה בשר, היא עולה למניין זה, שהוא רוב מניין אברי המת.",
+     "en": "Rashi: 'counts toward 125' - if it has no flesh, it counts toward the number, the majority of a corpse's limbs."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:10:2",
+     "quote": "אבל יש בה צפורן מטמאה ואע\"ג דאינה נספרת",
+     "he": "רש״י: אם יש בה צפורן היא מטמאה (באוהל) אף שאינה נספרת, וכן שנינו בנידה.",
+     "en": "Rashi: if it has a nail it defiles (under a tent) even if it is not counted, and so we learned in Niddah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:11:1",
+     "quote": "שאין צריכין ליתן טעם לנבואתן לפי שבלא טעם שומעים להם",
+     "he": "רש״י: כדברי נביאות – שאין צריכים ליתן טעם, כי שומעים להם בלי טעם.",
+     "en": "Rashi: like the words of prophecy - they need not give a reason, since they are heeded without a reason."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45a:11:1",
+     "quote": "משמע דלאו לשבח",
+     "he": "תוספות: מפני שהגמרא מקשה על הדברים, משמע שלא נאמר ״דברי נביאות״ לשבח.",
+     "en": "Tosafot: since the Gemara challenges the words, it implies that 'words of prophecy' was not said in praise."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:12",
+     "quote": "שאין אדם יודע לפרש מה טעם מטמא במגע ובמשא ואינו מטמא באהל",
+     "he": "רבינו גרשום: אין אדם יודע לפרש מה הטעם שמטמא במגע ובמשא ואינו מטמא באוהל.",
+     "en": "Rabbeinu Gershom: no one can explain the reason that it defiles by touch and carrying but not under a tent."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:13",
+     "quote": "דעצם כשעורה מטמא במגע ובמשא ואינו מטמא באהל",
+     "he": "רבינו גרשום: עצם כשעורה מטמא במגע ובמשא ואינו מטמא באוהל, ואף זו כך.",
+     "en": "Rabbeinu Gershom: a barley-sized bone defiles by touch and carrying but not under a tent, and so does this."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:14",
+     "quote": "גזירה שאינה נספרת דתטמא אטו נספרת",
+     "he": "רבינו גרשום (לרב פפא): היה הדין שלא תטמא כלל, אך גזרו שאינה נספרת תטמא מפני הנספרת.",
+     "en": "Rabbeinu Gershom (on Rav Pappa): by law it should not defile at all, but they decreed that the uncounted defiles because of the counted."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:16",
+     "quote": "כי היכי דלא לישרפו על טומאתו תרומה וקדשים",
+     "he": "רבינו גרשום: עשו בה היכר שלא תטמא באוהל, כדי שלא ישרפו עליה תרומה וקדשים.",
+     "en": "Rabbeinu Gershom: they made a distinguishing mark that it not defile under a tent, so that terumah and sacrifices not be burned over it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by a Corpse 2:7",
+     "quote": "עשו לה הכר כדי להודיע שטומאתה מדבריהם",
+     "he": "הרמב״ם: עשו לה היכר כדי להודיע שטומאתה מדבריהם, שלא ישרפו על טומאתה תרומה וקדשים.",
+     "en": "The Rambam: they made a mark for it to show that its impurity is rabbinic, so that terumah and sacrifices not be burned over it."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    16
+   ],
+   "he": {
+    "title": "רוב בניינו ורוב מניינו של מת",
+    "gemara": "המשנה באהלות: רוב בניינו ורוב מניינו של מת טמאים באוהל אף שאין בהם רובע. הברייתא: רוב בניינו – שני שוקיים וירך אחד, הואיל ורוב גובהו בגדול; רוב מניינו – מאה ועשרים וחמישה. רבינא שואל מדוע צריך מנין, והגמרא מלמדת שגם חסר (מאתיים) ויתר (מאתיים שמונים ואחד) עולים למניין קכ״ה, כי הולכים אחר רוב בני אדם.",
+    "halakha": "הרמב״ם (טומאת מת ב:ח) פוסק שרוב מניינו הוא קכ״ה עצמות ומטמא כמת שלם."
+   },
+   "en": {
+    "title": "The majority of a corpse's structure and of its count",
+    "gemara": "The mishnah in Ohalot: the majority of a corpse's structure and the majority of its count defile under a tent even if they lack a quarter-kav. The baraita: the majority of structure is two shins and one thigh, since this is most of the height of a large person; the majority of count is 125. Ravina asks why a count is needed, and the Gemara teaches that even a deficient (200) or excessive (281) person counts as 125, following most people.",
+    "halakha": "The Rambam (Defilement by a Corpse 2:8) rules that a majority of its count - 125 bones - defiles like a whole corpse."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:15:2",
+     "quote": "דזהו רוב הגובה באדם גדול שאינו ננס באברים",
+     "he": "רש״י: שני שוקיים וירך אחד הם רוב הגובה באדם גדול שאינו ננס, בלי הראש.",
+     "en": "Rashi: two shins and a thigh are most of the height of a large person who is not a dwarf in limbs, not counting the head."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:16:1",
+     "quote": "דכיון דרמ\"ח אברים פשיטא דרובא הוי קכ\"ה",
+     "he": "רש״י: רבינא שואל בתמיה – הרי יש רמ״ח אברים, ופשוט שרובם קכ״ה.",
+     "en": "Rashi: Ravina asks incredulously - there are 248 limbs, so obviously a majority is 125."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:16:3",
+     "quote": "כל אלו יתירין חשובין לאברים ועולין למנין קכ\"ה",
+     "he": "רש״י: כל היתירים האלה חשובים כאברים ועולים למניין קכ״ה, גם בחסר וגם ביתר.",
+     "en": "Rashi: all these extra ones count as limbs and go toward 125, in the deficient case as well as the excessive."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:17",
+     "quote": "הקב של עצמות טמאין באהל",
+     "he": "רבינו גרשום: ״אף על פי שאין בהן רובע״ – רובע הקב של עצמות טמאים באוהל.",
+     "en": "Rabbeinu Gershom: 'even if they lack a quarter' - a quarter-kav of bones defiles under a tent."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:18",
+     "quote": "הואיל ויש רוב בנינו בגובהו של אדם",
+     "he": "רבינו גרשום: שני שוקיים וירך אחד, מפני שיש בהם רוב הבניין בגובהו של האדם.",
+     "en": "Rabbeinu Gershom: two shins and a thigh, since they are most of the structure in a person's height."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:22",
+     "quote": "אלא בתר רוב אברים דאינשי דעלמא דהוי קכ\"ה",
+     "he": "רבינו גרשום: בין ביתר ובין בחסר אין הולכים אחר רוב אבריו שלו אלא אחר רוב אברי בני אדם, שהוא קכ״ה.",
+     "en": "Rabbeinu Gershom: neither for the excessive nor the deficient do we follow the majority of his own limbs, but the majority of people's limbs, which is 125."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by a Corpse 2:8",
+     "quote": "כגון שהיו קכ\"ה עצם הרי אלו כמת שלם",
+     "he": "הרמב״ם: רוב מניין העצמות, כגון שהיו קכ״ה עצמות – הרי הן כמת שלם.",
+     "en": "The Rambam: a majority of the bones, such as 125 bones, is like a whole corpse."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Defilement by a Corpse 2:8:5",
+     "quote": "ותוספתא פ\"ג דאהלות",
+     "he": "כסף משנה: מקור דברי הרמב״ם בסוף פרק מומין אלו (בכורות מה) ובתוספתא אהלות פרק ג.",
+     "en": "Kessef Mishneh: the source of the Rambam's words is the end of Perek Mumin Elu (Bekhorot 45) and Tosefta Ohalot chapter 3."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Eduyot 6:3:8",
+     "quote": "כגון ב' שוקים וירך אחד",
+     "he": "תוספות יום טוב: ״רוב בניינו״ בלשון הר״ב – כגון שני שוקיים וירך אחד, כפי ששנינו בסוף בכורות.",
+     "en": "Tosafot Yom Tov: 'majority of its structure', in Bartenura's words - such as two shins and one thigh, as taught at the end of Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    17,
+    21
+   ],
+   "he": {
+    "title": "מנין האברים באשה: מעשה בזונה, ושני צירים ושתי דלתות ומפתח",
+    "gemara": "תלמידי רבי ישמעאל שלקו זונה שנתחייבה שריפה מצאו מאתיים חמישים ושניים, ואמר להם ״שמא באשה בדקתם״, שהוסיף לה הכתוב שני צירים ושתי דלתות. בברייתא רבי אליעזר, רבי יהושע ורבי עקיבא נחלקים אם יש צירים, דלתות או מפתח; לרבי עקיבא קשה על תלמידי רבי ישמעאל, ומתרצים שהמפתח זעיר ונימוח. רב אומר שכולם אינם מטמאים באוהל, ואביי מקשה מ״צירים אחזוני״ – והתשובה ״צירי בשר״."
+   },
+   "en": {
+    "title": "The count of limbs in a woman: the harlot, and the two hinges, two doors and a key",
+    "gemara": "Rabbi Yishmael's students boiled a harlot condemned to burning and found 252; he said 'perhaps you examined a woman', whom Scripture gave two hinges and two doors. In the baraita Rabbi Eliezer, Rabbi Yehoshua and Rabbi Akiva dispute whether there are hinges, doors or a key; Rabbi Akiva's view is difficult for Rabbi Yishmael's students, and the answer is that the key is small and dissolved. Rav says all of these do not defile under a tent, and Abaye objects from 'pangs seized me' - answered: 'pangs of flesh'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:16:2",
+     "quote": "ובאשה יש ב' צירין ושני דלתות ומפתח כדאמרינן לקמן",
+     "he": "רש״י: באשה יש שני צירים ושתי דלתות ומפתח, כפי שאמרה הגמרא בהמשך, והם נוספים על רמ״ח.",
+     "en": "Rashi: a woman has two hinges, two doors and a key, as the Gemara says below, and they are added to the 248."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:19:1",
+     "quote": "מפתח הוו להו רנ\"ג וקשיא לתלמידי ר' ישמעאל דלא מצאו אלא רנ\"ב",
+     "he": "רש״י: לרבי עקיבא, עם המפתח יש רנ״ג, וקשה על תלמידי רבי ישמעאל שלא מצאו אלא רנ״ב.",
+     "en": "Rashi: for Rabbi Akiva, with the key there are 253, which is difficult for Rabbi Yishmael's students who found only 252."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:19:2",
+     "quote": "המפתח איתמוחי איתמח מחמת שליקה",
+     "he": "רש״י: המפתח נימוח מחמת השליקה.",
+     "en": "Rashi: the key dissolved because of the boiling."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:20:1",
+     "quote": "כל היתירין הללו שבאשה אין מטמאין באהל",
+     "he": "רש״י: כל היתירים האלה שבאשה אינם מטמאים באוהל – כל אבר בפני עצמו שיש עליו בשר קצת.",
+     "en": "Rashi: all these extras in a woman do not defile under a tent - each limb by itself that has a little flesh on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45a:21:1",
+     "quote": "לא חשיב אבר בלא עצם",
+     "he": "רש״י: ״צירי בשר״ – זהו תירוץ: אין חשוב אבר בלי עצם.",
+     "en": "Rashi: 'pangs of flesh' - this is the answer: without a bone it is not considered a limb."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:23",
+     "quote": "דאינהו לא אשכחו אלא ד' אברים טפי באדם",
+     "he": "רבינו גרשום: תלמידי רבי ישמעאל מצאו רק ארבעה אברים נוספים באדם, ואילו לרבי עקיבא יש חמישה.",
+     "en": "Rabbeinu Gershom: Rabbi Yishmael's students found only four extra limbs in a person, while Rabbi Akiva has five."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:24",
+     "quote": "ההוא עצם דמפתח איתמוח איתמח בששלקוה",
+     "he": "רבינו גרשום: אותו עצם של המפתח נימוח כששלקו אותה.",
+     "en": "Rabbeinu Gershom: that bone of the key dissolved when they boiled her."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45a:26",
+     "quote": "וליכא בהו עצמות",
+     "he": "רבינו גרשום: ״צירי בשר״ – ואין בהם עצמות.",
+     "en": "Rabbeinu Gershom: 'pangs of flesh' - there are no bones in them."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by a Corpse 2:7",
+     "quote": "ובאשה מאתים ואחד וחמשים",
+     "he": "הרמב״ם: באיש מאתיים וארבעים ושמונה איברים, ובאשה מאתיים וחמישים ואחד.",
+     "en": "The Rambam: a man has 248 limbs, and a woman 251."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 45a:1",
+     "quote": "נראה גזרת מלך היתה שגזר עליהם שהם ישלקו את הזונה",
+     "he": "בן יהוידע: נראה שגזרת מלך הייתה שישלקו את הזונה, ולכן לפי דרכם רצו ללמוד הלכה ממנין אבריה.",
+     "en": "Ben Yehoyada: it seems a royal decree ordered them to boil the harlot, so in their way they wanted to learn halakha by counting her limbs."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 45a:2",
+     "quote": "איילונית שאין לה ב' צירים וב' דלתות",
+     "he": "בן יהוידע: ״שמא באשה בדקתם״ – שני הצירים והדלתות אינם אלא באשה הראויה להריון, ואילונית אין לה אותם.",
+     "en": "Ben Yehoyada: 'perhaps you examined a woman' - the two hinges and doors exist only in a woman able to conceive, while an ailonit does not have them."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 45a:1",
+     "quote": "בויקרא רבה פרשת תזריע מוחלפת השיטה",
+     "he": "פתח עינים: במדרש ויקרא רבה פרשת תזריע מוחלפת השיטה בין התנאים לעומת סוגייתנו.",
+     "en": "Petach Einayim: in Vayikra Rabbah, parashat Tazria, the order of the opinions is reversed relative to our sugya."
+    },
+    {
+     "who": {
+      "he": "בועז",
+      "en": "Boaz"
+     },
+     "ref": "Boaz on Mishnah Oholot 1:15",
+     "quote": "ואולם חכמי ישראל לא מנו בו אותן שאינן קשים כשאר עצמות",
+     "he": "בועז: חכמי ישראל לא מנו במניין העצמות את אלה שאינם קשים כשאר עצמות, וכך מתיישב מנין הרפואה עם מנין חז״ל.",
+     "en": "Boaz: the sages of Israel did not count among the bones those that are not hard like other bones, which reconciles the anatomists' count with the sages'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "יתר בידיו וברגליו שש ושש, ומעשה רבי טרפון; איטר והשולט בשתי ידיו",
+    "gemara": "רבי יצחק: רבי יהודה וחכמים דרשו מקרא אחד – ״אצבע ידיו ואצבע רגליו שש ושש״ – אחד לגנאי ואחד לשבח. רבה מבאר מדוע נכתב גם ״עשרים וארבע״ וגם ״שש ושש״ וש״מספר״ בנספרת על גב היד. במעשה רבי טרפון נחלקו רבי יהודה ורבי יוסי בהבנת ״כמותך ירבו בישראל״. איטר פסול; השולט בשתי ידיו – רבי פוסל וחכמים מכשירים, מר סבר כחישותא אתחלא בימין ומר סבר בריותא אתחלא בשמאל.",
+    "halakha": "הרמב״ם (ביאת מקדש ח:יא): איטר יד ימינו פסול, ואם היה שולט בשתי ידיו כשר."
+   },
+   "en": {
+    "title": "Six and six: Rabbi Tarfon's case; the left-handed and the ambidextrous",
+    "gemara": "Rabbi Yitzchak: Rabbi Yehuda and the Sages expounded one verse - 'the fingers of his hands and toes of his feet, six and six' - one as a disgrace and one as praise. Rabba explains why both 'twenty-four' and 'six and six' and 'number' were written, the last for one counted on the back of the hand. In Rabbi Tarfon's case Rabbi Yehuda and Rabbi Yosei dispute how to read 'may there be many like you in Israel'. A left-handed person is disqualified; for one who controls both hands, Rabbi disqualifies and the Sages permit - one holds weakness began on the right, the other that strength began on the left.",
+    "halakha": "The Rambam (Admission into the Sanctuary 8:11): one who is left-handed on his right hand is disqualified, but if he controls both hands he is fit."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:2:1",
+     "quote": "בידו אחת וברגלו אחת היה יתר ולא בשתיהן",
+     "he": "רש״י: ״שית דידיה ושית דכרעיה״ – היה יתר ביד אחת וברגל אחת, ולא בשתיהן.",
+     "en": "Rashi: 'six on his hand and six on his foot' - the extra was on one hand and one foot, not both."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:3:1",
+     "quote": "כל ממזרים שבישראל יהיו כמותך ויהיו ניכרין שמטפה פסולה הן",
+     "he": "רש״י: ״כמותך יתמעטו ממזרי ונתיני״ – שכל הממזרים יהיו כמותו וניכרים שהם מטפה פסולה, ולא ידבקו בהם.",
+     "en": "Rashi: 'may mamzerim and netinim diminish like you' - that all mamzerim be like him and recognizable as from a disqualified seed, so that no one marry them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:4:1",
+     "quote": "וכהן אינו אלא ימין",
+     "he": "רש״י: איטר ביד פסול, כי ״וטבל אצבעו״ – בכל מקום שנאמר אצבע וכהן, הכוונה לימין.",
+     "en": "Rashi: a left-handed hand disqualifies, since wherever 'finger' is said with a kohen, it is the right."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:4:2",
+     "quote": "מר סבר כחישותא אתחלא",
+     "he": "רש״י: ״מר סבר כחישותא אתחלא״ – ליה בימין.",
+     "en": "Rashi: 'one holds weakness began' - for him, in the right."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:1",
+     "quote": "הוה אמינא שית דידיה",
+     "he": "רבינו גרשום: ״הוה אמינא שית דידיה״ – שש ביד אחת ושש ברגל אחת.",
+     "en": "Rabbeinu Gershom: 'I would have said six of his hand' - six on one hand and six on one foot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:2",
+     "quote": "אלא כך אמר ליה כמותך ירבו אצבעות יתירות בממזירי ונתיני שבישראל",
+     "he": "רבינו גרשום: רבי טרפון אמר כך – שיירבו אצבעות יתירות בממזרים ובנתינים כדי שיהיו ניכרים ויתרחקו מהם.",
+     "en": "Rabbeinu Gershom: Rabbi Tarfon said it this way - may extra fingers multiply among mamzerim and netinim, so they are recognizable and Israel will keep from marrying them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:3",
+     "quote": "ר' דפוסל כחישותא אתחלא ליה בימין שהרי אין כוחה יתר משמאל והוי מום",
+     "he": "רבינו גרשום: רבי הפוסל סובר שהחולשה התחילה בימין, שאין כוחה יתר על השמאל, וזה מום.",
+     "en": "Rabbeinu Gershom: Rabbi, who disqualifies, holds that weakness began in the right, whose strength is no greater than the left, and that is a blemish."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:11",
+     "quote": "ואם היה שולט בשתי ידיו כשר",
+     "he": "הרמב״ם: מי שהוא איטר יד ימינו – פסול; ואם היה שולט בשתי ידיו – כשר.",
+     "en": "The Rambam: one who is left-handed on his right hand is disqualified; if he controls both hands, he is fit."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Yevamot 104a:1",
+     "quote": "צריך לעיין איטר במה חולץ אי בשמאלו שהיא ימין כל אדם",
+     "he": "רמב״ן: צריך עיון באיזו רגל חולץ האיטר – בשמאלו שהיא ימין כל אדם או בימינו.",
+     "en": "Ramban: it needs examination with which foot a left-handed person performs chalitza - with his left, which is everyone else's right, or his right."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Chullin 92b:1",
+     "quote": "שאני התם דכתיב ידכה ודרשינן יד כהה וגזרת הכתוב הוא",
+     "he": "רשב״א: בתפילין האיטר מניח בשמאלו כי נאמר ״ידכה״ ודרשו ״יד כהה״, וזו גזרת הכתוב; ובזה שונה מדין אחר.",
+     "en": "Rashba: for tefillin the left-handed person wraps on his left because 'yadcha' was expounded as 'weak hand', a scriptural decree; and so it differs elsewhere."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Chullin 30a:4",
+     "quote": "דלא כתב רחמנא שמאל אלא ידכה",
+     "he": "ר״ן: בתפילין שונה, כי התורה לא כתבה ״שמאל״ אלא ״ידכה״, ולכן האיטר מניח ביד הכהה שלו.",
+     "en": "Ran: tefillin differ because the Torah wrote not 'left' but 'yadcha', so the left-handed person wraps on his weak hand."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Yevamot 102a:14",
+     "quote": "אלא שבתוספות נסתפקו הרבה במי שהוא אטר מרגלו הימני",
+     "he": "מאירי: בתוספות נסתפקו רבות בדין מי שהוא איטר ברגלו הימנית לענין חליצה.",
+     "en": "Meiri: the Tosafists were much in doubt about someone who is left-footed on his right foot, regarding chalitza."
+    },
+    {
+     "who": {
+      "he": "תוספות רי״ד",
+      "en": "Tosafot Rid"
+     },
+     "ref": "Tosafot Rid on Yevamot 104a:4",
+     "quote": "אין דין אטרות נוהג אלא ביד",
+     "he": "תוספות רי״ד: יש אומרים שדין איטר נוהג רק ביד ולא ברגל, ולכן רגל האיטר שווה לרגל כל אדם.",
+     "en": "Tosafot Rid: some say the law of left-handedness applies only to the hand, so the foot of a left-handed person is like anyone's foot."
+    },
+    {
+     "who": {
+      "he": "מהר״ם מרוטנברג",
+      "en": "Maharam"
+     },
+     "ref": "Teshuvot Maharam, Prague Edition 12:1",
+     "quote": "ודאי חשובה לו כימין דעלמא",
+     "he": "מהר״ם: על איטר יד ימינו שנטל לולב בשמאלו – חשובה לו כימין של כל אדם.",
+     "en": "Maharam: for a person left-handed on his right hand taking a lulav in his left - it is considered for him like everyone's right."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Even HaEzer 169:95",
+     "quote": "מברייתא דבכורות מ\"ה ב' דאטר פסול ופי' לפי שאין לו ימין כלל",
+     "he": "ביאור הגר״א: מברייתא בבכורות מה ע״ב שהאיטר פסול, ופירש לפי שאין לו ימין כלל.",
+     "en": "Beur HaGra: from the baraita in Bekhorot 45b that a left-handed person is disqualified, and he explains it is because he has no right at all."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Even HaEzer 169:43:1",
+     "quote": "אבל אם שולט בשתי רגליו וכן היא בב' ידיה אז יעשו בשל ימין",
+     "he": "בית יוסף: שולט בשתי רגליו, וכן בשתי ידיו – עושים בימין.",
+     "en": "Beit Yosef: one who controls both feet, and likewise both hands, performs with the right."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Even HaEzer 155:5",
+     "quote": "ואמנם אעפ\"כ היכא שיש אח אחר אפילו קטן מהאטר חולצת מהשני",
+     "he": "נודע ביהודה: אם יש אח אחר, אפילו קטן מהאיטר, חולצת מהשני.",
+     "en": "Noda BiYehuda: where there is another brother, even younger than the left-handed one, she performs chalitza with the other."
+    },
+    {
+     "who": {
+      "he": "פתחי תשובה",
+      "en": "Pitchei Teshuva"
+     },
+     "ref": "Pitchei Teshuva on Shulchan Arukh, Even HaEzer, Seder Halitzah 9",
+     "quote": "שע\"פ רוב עוקר שמאל תחילה",
+     "he": "פתחי תשובה (בשם נודע ביהודה): איטר מוגדר מי שרוב הזמן עוקר שמאל תחילה.",
+     "en": "Pitchei Teshuva (citing Noda BiYehuda): a left-footed person is one who mostly lifts the left foot first."
+    },
+    {
+     "who": {
+      "he": "חידושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 45b:2",
+     "quote": "ביד אחד וברגלו א' היה יתר",
+     "he": "חידושי הלכות: מביא את דברי רש״י ״ביד אחד וברגלו אחד היה יתר״, ושרש״י בספר שמואל פירש באופן אחר.",
+     "en": "Chidushei Halachot: brings Rashi's words 'on one hand and one foot there was an extra', noting Rashi in the Book of Samuel explained differently."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 45b:1",
+     "quote": "דלא רצה לומר יתרבו ממזרי",
+     "he": "רש״ש: בלשון רבי טרפון – כינוי, שלא רצה לומר ״יתרבו ממזרי״.",
+     "en": "Rashash: Rabbi Tarfon's wording is euphemism, since he did not want to say 'may mamzerim multiply'."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 45b:1",
+     "quote": "נראה קללה זו של רבוי אצבעות יאותה לממזרים כי אבר התשמיש מכונה בשם אצבע",
+     "he": "בן יהוידע: קללה זו של רבוי אצבעות מתאימה לממזרים, כי אבר התשמיש מכונה ״אצבע״.",
+     "en": "Ben Yehoyada: this curse of multiplied fingers suits mamzerim, since the organ of intimacy is called 'finger'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "כושי, גיחור, לבקן, קיפח, ננס, חרש, שוטה ושיכור: פסולין באדם וכשרין בבהמה",
+    "gemara": "המשנה מונה פסולים באדם שכשרים בבהמה. הגמרא מבררת את הצבעים – כושי אוכמא, גיחור סומקא, לבקן חיוורא – ומוסיפה שקיפח הוא ״גבוה״, ומקשה מהקב״ה המשתבח בבעלי קומה, ורב פפא מסביר ״באריכא שמיטה סניא״. ריש לקיש מזהיר מנישואי קצוות בגוף שמא יצאו מהם טפוח, בוהק, אצבעי ותורן. על שיכור מקשים: הרי מחיל עבודה! – ומתרצים בשאר דברים המשכרים, שלא כרבי יהודה.",
+    "halakha": "הרמב״ם (ביאת מקדש א:ב): שיכור משאר משקין המשכרים לוקה ועבודתו כשרה, כי רק שיכור מיין מחלל עבודה."
+   },
+   "en": {
+    "title": "Kushi, gihor, lavkan, kipeach, nanas, deaf, insane and drunk: disqualified in a person, fit in an animal",
+    "gemara": "The mishnah lists those disqualified in a person who are fit in an animal. The Gemara clarifies the colors - kushi black, gihor red, lavkan white - and adds that kipeach means 'tall', objecting from God praising tall people, and Rav Pappa explains 'long, thin, and ugly'. Reish Lakish warns against marrying extremes in body lest tufach, bohak, etzba'i or toren result. On the drunk, they ask: he profanes the service! - and answer: with other intoxicants, unlike Rabbi Yehuda.",
+    "halakha": "The Rambam (Admission into the Sanctuary 1:2): one drunk on other intoxicants receives lashes and his service is valid, since only wine-drunkenness profanes the service."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:5:2",
+     "quote": "כגון ספחת. דאי נגעים טמאים לא איצטריך למימר",
+     "he": "רש״י: ״בעלי נגעים טהורים״ – כגון ספחת, שהרי נגעים טמאים לא היה צריך לומר.",
+     "en": "Rashi: 'pure afflictions' - such as sapachat, since impure afflictions would not need saying."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:5:3",
+     "quote": "כמין חתיכות בשר יוצאות ותולות להם",
+     "he": "רש״י: התלתולין הם כמין חתיכות בשר יוצאות ותלויות בהם.",
+     "en": "Rashi: the tiltulin are pieces of flesh sticking out and hanging from them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:7:1",
+     "quote": "דארוך הוא ודק שאינו עבה לפי אורכו",
+     "he": "רש״י: ״אריכא שמיטה״ – ארוך ודק שאינו עבה לפי אורכו, ולכן אינו יכול לסבול את קומתו.",
+     "en": "Rashi: 'long, dislocated' - long and thin, not thick in proportion to his length, so he cannot bear his height."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:8:2",
+     "quote": "שחור כקדירה וחבירו בשילהי",
+     "he": "רש״י: טפוח – שחור כקדירה.",
+     "en": "Rashi: tafuach - black like a pot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:9:2",
+     "quote": "יין ושכר אל תשת וכתיב בתריה להבדיל בין הקודש ובין החול",
+     "he": "רש״י: מקור ששיכור מחיל עבודה: ״יין ושכר אל תשת״, ובהמשך ״להבדיל בין הקדש ובין החול״.",
+     "en": "Rashi: the source that a drunk profanes the service: 'do not drink wine or strong drink', followed by 'to distinguish between the holy and the profane'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:10:1",
+     "quote": "לשאר דברים המשכרים דין יין דמחלי עבודה",
+     "he": "רש״י: לרבי יהודה לשאר דברים המשכרים יש דין יין שמחללים עבודה, ובכריתות: על היין במיתה ועל שאר משכרים באזהרה.",
+     "en": "Rashi: for Rabbi Yehuda other intoxicants have the law of wine - profaning the service; in Keritot: wine is by death and other intoxicants by warning."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45b:10:1",
+     "quote": "דמיירי בשאר דברים המשכרים",
+     "he": "תוספות: מקשים מדוע נקט המשנה ״שיכור״ ולא ״שתויי יין״, ובשם רבינו חיים כהן – שמדובר בשאר דברים המשכרים.",
+     "en": "Tosafot: ask why the mishnah says 'drunk' and not 'wine-drinkers', and in the name of Rabbi Chaim Kohen - it speaks of other intoxicants."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:5",
+     "quote": "ארוך ודק ופרצופו בולט הרבה לחוץ",
+     "he": "רבינו גרשום: ״אריכא שמיטה סניא״ – ארוך ודק ופרצופו בולט הרבה לחוץ.",
+     "en": "Rabbeinu Gershom: 'long, dislocated, ugly' - long and thin, his face protruding greatly."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:6",
+     "quote": "לבן הוא יותר מדאי דהוי נגע",
+     "he": "רבינו גרשום: בוהק – לבן יותר מדי, והוא נגע.",
+     "en": "Rabbeinu Gershom: bohak - too white, and it is an affliction."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:7",
+     "quote": "אין שוה בזרע של אהרן הוא דאסור",
+     "he": "רבינו גרשום: מומי המשנה אינם מומים ממש אלא שאינם שווים בזרע אהרן, ולכן נאסרו.",
+     "en": "Rabbeinu Gershom: the mishnah's cases are not true blemishes but are not equal in Aaron's seed, and so were forbidden."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 8:15",
+     "quote": "הלבן ביותר כמו גבינה",
+     "he": "הרמב״ם: ממניין שמונת מומי העור – הכושי, והלבן ביותר כמו גבינה, והאדום כשני ועוד.",
+     "en": "The Rambam: among the eight blemishes of skin - the kushi, one white as cheese, one red as scarlet and others."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 1:2",
+     "quote": "ואין מחלל עבודה אלא שכור מן היין",
+     "he": "הרמב״ם: אין מחלל עבודה אלא שיכור מן היין.",
+     "en": "The Rambam: only one drunk from wine profanes the service."
+    },
+    {
+     "who": {
+      "he": "רב נסים גאון",
+      "en": "Rav Nissim Gaon"
+     },
+     "ref": "Rav Nissim Gaon on Berakhot 58b:1",
+     "quote": "ננס ידוע הוא בלשון חכמים שהוא הקצור בקומה",
+     "he": "רב נסים גאון: ננס ידוע בלשון חכמים כקצר הקומה, ומביא את דברי הגמרא בבכורות על כושי, גיחור, לבקן וקיפח.",
+     "en": "Rav Nissim Gaon: nanas is known in the sages' language as the short-statured, and he brings the Gemara in Bekhorot on kushi, gihor, lavkan and kipeach."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Kiddushin 24b:3",
+     "quote": "אלא דאינו שוה בזרעו של אהרן",
+     "he": "רשב״א: גם באדם החרש והשוטה והשכור אינם פסולים מטעם מום אלא מפני שאינם שווים בזרעו של אהרן.",
+     "en": "Rashba: also in a person the deaf, the insane and the drunk are not disqualified as blemishes, but because they are not equal in Aaron's seed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 45b:3",
+     "quote": "יוצאות ותלויות כצ\"ל",
+     "he": "הגהות יעב״ץ: בדברי רש״י על ״התלתולין״ יש לגרוס ״יוצאות ותלויות״.",
+     "en": "Haggahot Ya'avetz: in Rashi on 'tiltulin' one should read 'sticking out and hanging'."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Even HaEzer 117:9",
+     "quote": "ואישתמיטתא להו מתני' ערוכה כל המומין הפוסלין",
+     "he": "ביאור הגר״א: השתמטה מהם משנה ערוכה בבכורות מה ע״ב – ״כל המומין הפוסלין״ ו״בעלי נגעים טהורים״.",
+     "en": "Beur HaGra: a clear mishnah escaped them - Bekhorot 45b, 'all blemishes that disqualify' and 'pure afflictions'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 45b:5",
+     "quote": "הל\"ל שתו\"י ופרועי ראש",
+     "he": "רש״ש: לתוספות היה צריך לומר ״שתויי יין ופרועי ראש״, וכוונתם שמיעוט שיכור בא להורות שמדובר בשאר המשכרים.",
+     "en": "Rashash: according to Tosafot it should have said 'wine drinkers and unkempt', and their point is that 'drunk' means other intoxicants."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 97:1",
+     "quote": "שתויי יין פסול לעבודה",
+     "he": "פסקי תוספות: שתויי יין פסול לעבודה – בהפניה לתוספות ״ובשאר״ בדף מה ע״ב.",
+     "en": "Piskei Tosafot: wine-drinkers are disqualified from service - with a reference to Tosafot 'u'vish'ar' on 45b."
+    },
+    {
+     "who": {
+      "he": "מגן אברהם",
+      "en": "Magen Avraham"
+     },
+     "ref": "Magen Avraham 225:15",
+     "quote": "ובבכורות פ\"ז איתא קפח היינו דאריך וקטין",
+     "he": "מגן אברהם (על ברכת הרואה): בבכורות פרק ז כתוב שקפח הוא ארוך ודק.",
+     "en": "Magen Avraham (on the blessing on seeing): Bekhorot chapter 7 says kipeach is long and thin."
+    },
+    {
+     "who": {
+      "he": "אליה רבה",
+      "en": "Eliyah Rabbah"
+     },
+     "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 225:15",
+     "quote": "אבל בבכורות דף מ\"ה קאמר הש\"ס באריכא שמטה סניא",
+     "he": "אליה רבה: בבכורות מה אמרה הגמרא ״באריכא שמטה סניא״, שלא כרש״י בברכות.",
+     "en": "Eliyah Rabbah: in Bekhorot 45 the Gemara says 'long, dislocated, ugly', unlike Rashi in Berakhot."
+    },
+    {
+     "who": {
+      "he": "מחצית השקל",
+      "en": "Machatzit HaShekel"
+     },
+     "ref": "Machatzit HaShekel on Orach Chayim 225:16:1",
+     "quote": "פי' שני פירושים על קפח",
+     "he": "מחצית השקל: רש״י בברכות פירש שני פירושים על קפח.",
+     "en": "Machatzit HaShekel: Rashi in Berakhot gave two explanations of kipeach."
+    },
+    {
+     "who": {
+      "he": "משנה ברורה",
+      "en": "Mishnah Berurah"
+     },
+     "ref": "Mishnah Berurah 225:20",
+     "quote": "ולפי שדק הוא אינו יכול לסבול קומתו",
+     "he": "משנה ברורה: בבכורות משמע שהוא ארוך ודק, ולפי שדק הוא אינו יכול לסבול קומתו ונכפף.",
+     "en": "Mishnah Berurah: Bekhorot implies he is long and thin, and since he is thin he cannot bear his height and bends."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Even HaEzer 2:62:4",
+     "quote": "כל זמן שטיותו אבל אם הוא עתים חלים",
+     "he": "חתם סופר: ״שוטה״ במשנה הוא כל זמן שטיותו, אבל אם הוא עתים חולה ועתים בריא – יש דין אחר.",
+     "en": "Chatam Sofer: 'insane' in the mishnah is for as long as his folly lasts, but if he is intermittently ill and well, a different law applies."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    15
+   ],
+   "he": {
+    "title": "אותו ואת בנו, טריפה ויוצא דופן: כשרין באדם ופסולין בבהמה",
+    "gemara": "המשנה השנייה: אלו כשרים באדם ופסולים בבהמה – אותו ואת בנו, טריפה, יוצא דופן, שנעבדה בהן עבירה ושהמית את האדם. הגמרא מקשה על ״אותו ואת בנו״: אם אהרן ובניו כנגד תיש ובנו, הברייתא אומרת שהאיסור נוהג בנקבות ולא בזכרים; אם כהנת ובנה, כהנת אינה בת עבודה. מסיקים לעולם אהרן ובניו, ובמערבא אמרו משמו של רבי יוסי בר אבין שזו דעת חנניה, הסובר שנוהג בזכרים ובנקבות.",
+    "halakha": "הרמב״ם (שחיטה יב:יא) והשולחן ערוך (יורה דעה טז:ב): נוהג בנקבות שזה בנה ודאי, ואם נודע שזה אביו אין שוחטין ביום אחד אך אם שחט אינו לוקה."
+   },
+   "en": {
+    "title": "'Oto ve'et beno', a treifa and one born by caesarean: fit in a person, disqualified in an animal",
+    "gemara": "The second mishnah: these are fit in a person and disqualified in an animal - it and its offspring, a treifa, one born by caesarean, one with which a sin was committed, and one that killed a person. The Gemara asks about 'oto ve'et beno': if Aaron and his sons parallel a he-goat and its son, the baraita says the prohibition applies to females, not males; if a kohenet and her son, a kohenet is not fit for service. They conclude it is indeed Aaron and his sons, and in the West they said in Rabbi Yosei bar Avin's name that this is Chananya's view, who holds it applies to males and females.",
+    "halakha": "The Rambam (Ritual Slaughter 12:11) and the Shulchan Arukh (Yoreh De'ah 16:2): it applies to females, whose offspring is certain; if it is known this is its father they do not slaughter both in one day, but if one did, he does not receive lashes."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:11:1",
+     "quote": "פסול לקרבן דמחוסר זמן הוא",
+     "he": "רש״י: ״אותו ואת בנו״ – פסול לקרבן, כי הוא מחוסר זמן.",
+     "en": "Rashi: 'oto ve'et beno' - disqualified for sacrifice, because it lacks the time (is under age)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:15:2",
+     "quote": "האב והבן או בת",
+     "he": "רש״י: ״בזכרים״ – האב והבן, או בת.",
+     "en": "Rashi: 'in males' - father and son, or daughter."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Menachot 6a:6:1",
+     "quote": "אבל טריפות לא פסיל בכהנים",
+     "he": "רש״י (מנחות): מום פוסל בכהן כמו בזבח, אבל טריפות לא פוסלת בכהנים, כפי ששנינו בבכורות.",
+     "en": "Rashi (Menachot): a blemish disqualifies a kohen as in an offering, but treifot do not disqualify kohanim, as we learned in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:9",
+     "quote": "כהנים כשרים לעבודה ביחד וכן כהן טרפה ויוצא דופן כשר לעבודה",
+     "he": "רבינו גרשום: כהנים (אב ובנו) כשרים לעבודה יחד, וכן כהן טריפה ויוצא דופן כשר לעבודה.",
+     "en": "Rabbeinu Gershom: kohanim (father and son) are fit to serve together, and so a kohen who is a treifa or caesarean-born is fit to serve."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Ritual Slaughter 12:11",
+     "quote": "אסור אותו ואת בנו נוהג בנקבות שזה בנה ודאי",
+     "he": "הרמב״ם: איסור ״אותו ואת בנו״ נוהג בנקבות, שזה בנה ודאי; ואם נודע שזה אביו אין שוחטים שניהם ביום אחד, ואם שחט אינו לוקה.",
+     "en": "The Rambam: the prohibition of 'oto ve'et beno' applies to females, since this is certainly its offspring; if it is known this is its father, they do not slaughter both in one day, and if one slaughtered he does not get lashes."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 3:4",
+     "quote": "וכן הכלאים ויוצא דופן ומחוסר זמן פסולין אף על פי שאין בהם מום",
+     "he": "הרמב״ם: כלאים, יוצא דופן ומחוסר זמן פסולים למזבח אף שאין בהם מום.",
+     "en": "The Rambam: a mixed breed, one born by caesarean and one under age are disqualified for the altar even without a blemish."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 16",
+     "quote": "בין בנקבות כגון האם והבת בין בזכרים כגון האב והבן",
+     "he": "הטור: אסור לשחוט אותו ואת בנו ביום אחד – בין בנקבות כגון האם והבת, בין בזכרים כגון האב והבן.",
+     "en": "The Tur: it is forbidden to slaughter it and its offspring on one day - whether females such as mother and daughter or males such as father and son."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 79a:13:1",
+     "quote": "משמע דאין נוהג בזכרים",
+     "he": "תוספות (חולין): מהתרגום ״תורתא או שיתא״ משמע שאין האיסור נוהג בזכרים.",
+     "en": "Tosafot (Chullin): from the Aramaic translation 'torta o shita' it appears the prohibition does not apply to males."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Admission into the Sanctuary 6:7:1",
+     "quote": "אע\"פ שנעשה טריפה עבודתו כשירה",
+     "he": "כסף משנה: אף שנעשה כהן טריפה, עבודתו כשרה, והוא מביא את המשנה בסוף פרק מומין אלו.",
+     "en": "Kessef Mishneh: even if a kohen becomes a treifa, his service is valid, and he brings the mishnah at the end of Perek Mumin Elu."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    19
+   ],
+   "he": {
+    "title": "הנושא נשים בעבירה והמטמא למתים – פסול עד שידור הנאה; נודר ועובד",
+    "gemara": "המשנה: הכהן הנושא נשים בעבירה פסול עד שידירנה הנאה, והמטמא למתים פסול עד שיקבל עליו שלא יטמא. הברייתא: ״נודר ועובד, יורד ומגרש״. מקשים: ילך לחכם וישרה לו נדרו! – קסבר צריך לפרט את הנדר; ואם אין צריך לפרט – מדירים אותו ברבים; ואם נדר ברבים יש לו הפרה – מדירים על דעת רבים. תוספות מקשים מההשולח (גיטין לה).",
+    "halakha": "בשולחן ערוך (יורה דעה רכח:יד) – צריך לפרט את הנדר לפני התרתו; ובשולחן ערוך (רכח:כג) – נדר שהודר ברבים יש לו התרה, מאחר שלא אמר על דעתם."
+   },
+   "en": {
+    "title": "One who marries women forbidden to him, or becomes impure to the dead: disqualified until he vows off benefit; 'vows and serves'",
+    "gemara": "The mishnah: a kohen who marries women through a sin is disqualified until he vows off benefit from them, and one who contracts impurity from the dead is disqualified until he accepts not to defile himself. The baraita: 'he vows and serves, then goes down and divorces.' The Gemara asks: let him go to a sage and be released! - it holds he must specify the vow; and if not, they make him vow publicly; and if a public vow can be annulled, they make him vow on the opinion of the public. Tosafot raise a question from Gittin 35.",
+    "halakha": "In the Shulchan Arukh (Yoreh De'ah 228:14), the vow must be specified before it is annulled; and (228:23) a vow made before many may be annulled, since he did not say it on their opinion."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:12:1",
+     "quote": "נשים בעבירה גרושה וחלוצה",
+     "he": "רש״י: ״הנושא נשים בעבירה״ – גרושה וחלוצה.",
+     "en": "Rashi: 'marries women through a sin' - a divorcée and a chalutza."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:16:1",
+     "quote": "אע\"פ שעדיין לא גירש מותר לעבוד משנדר שלא תהנה ממנו והוא ממנה",
+     "he": "רש״י: ״נודר ועובד״ – אף שעדיין לא גירש, מותר לעבוד משנדר שלא תהנה ממנו והוא ממנה.",
+     "en": "Rashi: 'vows and serves' - even though he has not yet divorced, he may serve once he has vowed that she not benefit from him and he not from her."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 45b:17:1",
+     "quote": "הבא להתיר נדרו צריך שיפרט על מה נדר",
+     "he": "רש״י: ״צריך לפרט״ – מי שבא להתיר נדרו צריך לפרט על מה נדר.",
+     "en": "Rashi: 'must specify' - one who comes to annul his vow must specify what he vowed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Gittin 35b:11:2",
+     "quote": "ממנה לגרשה ומשנה היא בבכורות",
+     "he": "רש״י (גיטין): ״עד שידור הנאה ממנה לגרשה״ – ומשנה היא בבכורות.",
+     "en": "Rashi (Gittin): 'until he vows off benefit from her, to divorce her' - and it is a mishnah in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Yevamot 85a:16:1",
+     "quote": "הנושא נשים בעבירה פסול עד שידור הנאה",
+     "he": "רש״י (יבמות): ״מפני שהוא פסול״ – כפי ששנינו בבכורות: הנושא נשים בעבירה פסול עד שידור הנאה, והיא פסולה על ידו.",
+     "en": "Rashi (Yevamot): 'because he is disqualified' - as we learned in Bekhorot: one who marries women through a sin is disqualified until he vows off benefit, and she is disqualified through him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45b:18:1",
+     "quote": "ונראה דהלכתא כר\"פ דצריך לפרט דבתראה הוא",
+     "he": "תוספות: מכריעים שההלכה כרב פפא – שצריך לפרט, כי הוא בתראה.",
+     "en": "Tosafot: they decide the halakha follows Rav Pappa - that one must specify, since he is later."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45b:19:1",
+     "quote": "פלוגתא במס' גיטין בהשולח גט לאשתו",
+     "he": "תוספות: ״נדר שהודר ברבים״ – מחלוקת במסכת גיטין, בפרק השולח גט לאשתו.",
+     "en": "Tosafot: 'a vow made publicly' - a dispute in Tractate Gittin, in the chapter Hashole'ach."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 45b:19:2",
+     "quote": "וא\"ת בריש השולח",
+     "he": "תוספות: מקשים מריש פרק השולח (גיטין לה), על אלמנה שהתקין רבן שמעון בן גמליאל שתהא נודרת ליתומים.",
+     "en": "Tosafot: they ask from the beginning of chapter Hashole'ach (Gittin 35), about the widow whom Rabban Shimon ben Gamliel enacted should vow to the orphans."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 45b:10",
+     "quote": "כגון אלמנה לכהן גדול וחלוצה לכהן הדיוט פסול עד שידור מהן הנאה שיגרשן",
+     "he": "רבינו גרשום: כגון אלמנה לכהן גדול וחלוצה לכהן הדיוט – פסול עד שידור מהן הנאה, שיגרשן.",
+     "en": "Rabbeinu Gershom: such as a widow to a high priest and a chalutza to a regular priest - disqualified until he vows off benefit from them, so that he divorces them."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Admission into the Sanctuary 6:9",
+     "quote": "אינו עובד עד שיַדירוהו בית דין על דעת רבים",
+     "he": "הרמב״ם: כהן הנושא נשים בעבירה אינו עובד עד שיָדירוהו בית דין על דעת רבים, כדי שלא תהיה לו הפרה, והוא עובד יורד ומגרש.",
+     "en": "The Rambam: a kohen who marries women through a sin does not serve until the court makes him vow on the opinion of the many, so he cannot annul it, and he serves, goes down and divorces."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Oaths 6:8",
+     "quote": "אין מתירין לו לעולם אלא לדבר מצוה",
+     "he": "הרמב״ם: נשבע או נדר על דעת רבים – אין מתירין לו לעולם אלא לדבר מצוה.",
+     "en": "The Rambam: one who swore or vowed on the opinion of the many is never released, except for a mitzvah matter."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vows 4:5",
+     "quote": "אין מתיר אלא חכם מובהק או שלשה הדיוטות",
+     "he": "הרמב״ם: אין מתיר נדר אלא חכם מובהק, או שלושה הדיוטות במקום שאין חכם.",
+     "en": "The Rambam: only an expert sage may annul a vow, or three laymen where there is no sage."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Nedarim 64b:16",
+     "quote": "דכי נדר במצוה הוא דאין לו הפרה",
+     "he": "ריטב״א: חולק על רש״י והראב״ד הסוברים שדווקא כשנדר במצווה אין לו הפרה, ומביא את משנתנו בנודר ועובד.",
+     "en": "Ritva: disagrees with Rashi and the Ra'avad who hold that only when he vowed for a mitzvah can it not be annulled, and brings our mishnah on 'vows and serves'."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume IV, Piskei Shevuot 5",
+     "quote": "אבל מההיא דבכורות בנודר ועובד אין לי קשה",
+     "he": "אור זרוע: מההיא דבכורות ב״נודר ועובד״ אין לו קושיה, ומסביר לפי רב הונא שצריך לפרט ואין חשש.",
+     "en": "Ohr Zarua: from that passage in Bekhorot on 'vows and serves' he has no difficulty, explaining according to Rav Huna that one must specify so there is no concern."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 228",
+     "quote": "ילך אצל חכם מומחה דגמיר וסביר",
+     "he": "הטור: מי שנדר ונתחרט ילך אצל חכם מומחה, ואם אין – אצל שלושה הדיוטות.",
+     "en": "The Tur: one who vowed and regretted should go to an expert sage, and if none, to three laymen."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 228:14",
+     "quote": "קודם שיתירו לו צריך שיפרט להם הנדר והסיבה שבשבילה נדר",
+     "he": "שולחן ערוך: קודם שיתירו לו צריך שיפרט להם הנדר והסיבה שבשבילה נדר, ואם לא פירט – אין התרתם התרה.",
+     "en": "Shulchan Arukh: before they release him he must specify the vow and the reason he vowed; if he did not, their annulment is not an annulment."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 228:23",
+     "quote": "נדר שהודר ברבים יש לו התרה מאחר שלא אמר על דעתם",
+     "he": "שולחן ערוך: נדר שהודר ברבים יש לו התרה, מאחר שלא אמר על דעתם.",
+     "en": "Shulchan Arukh: a vow made before many may be annulled, since he did not say it on their opinion."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Orach Chaim 128:57",
+     "quote": "והתם לענין עבודת בית המקדש מיירי",
+     "he": "ערוך השולחן: משנת בכורות עוסקת בעבודת בית המקדש, ולענין נשיאת כפיים אינו מבואר בה, ובכל זאת בזמן הזה יש לקנוס.",
+     "en": "Arukh HaShulchan: the Bekhorot mishnah deals with Temple service, and for the priestly blessing it is not clear there, yet in our time a fine applies."
+    },
+    {
+     "who": {
+      "he": "ביאור הלכה",
+      "en": "Biur Halacha"
+     },
+     "ref": "Biur Halacha 128:41:1",
+     "quote": "דקתני והמטמא למתים משמע כשהוא מועד לכך אז קנסוהו חכמים",
+     "he": "ביאור הלכה: מלשון המשנה ״והמטמא למתים״ משמע שקנסוהו חכמים כשהוא מועד לכך, ולא בנטמא פעם אחת באקראי.",
+     "en": "Biur Halacha: from the mishnah's wording 'one who defiles himself to the dead' it implies the sages fined him when he is habitual, not for a single incidental defilement."
+    }
+   ]
+  }
+ ]
+}
