@@ -1,0 +1,1475 @@
+{
+ "ref": "Bekhorot 50",
+ "date": "2026-11-07",
+ "he": {
+  "overview": "הדף עוסק במטבעות שבתורה ובחשבונן: דינר הדריינא ופדיון הבן (עשרים דינרים), סלע דאורייתא שלושה ותילתא והוספת השתות, וכסף בתורה, בנביאים ובכתובים (עמוד א). בעמוד ב דנים בכלל של רב אסי — כל כסף האמור בתורה כסף צורי ושל דבריהם כסף מדינה — ובקושיות ממעשר, הקדש וקידושין, ובמשנת התוקע. הראשונים והאחרונים דנים בחשבון המטבעות, בהוספת שתות, בפירוש רש״י ותוספות, ובהלכות שנגזרות מכך.",
+  "title": "סיכום — בכורות נ׳"
+ },
+ "en": {
+  "overview": "The daf deals with the coins of the Torah and their calculation: the Hadrianic dinar and the Pidyon HaBen (twenty dinars), the Torah's sela as three and a third and the added sixth, and silver in the Torah, Prophets and Writings (amud a). Amud b discusses Rav Assi's rule — all silver in the Torah is Tyrian and that of the Sages is provincial — with objections from tithes, hekdesh and kiddushin, and the mishnah of the one who strikes. The Rishonim and Acharonim take up the arithmetic of the coins, the added sixth, the explanations of Rashi and Tosafot, and the halakhot that follow.",
+  "title": "Summary — Bekhorot 50"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "דינרא הדריינא"
+   ],
+   "he": {
+    "term": "דינרא הדריינא",
+    "explanation": "דינר זהב שנקרא על שם הקיסר הדריינוס. בסוגיה הוא נמכר בעשרים וחמישה זוזים של כסף, והחשבון של ההפחתות נעשה סביבו."
+   },
+   "en": {
+    "term": "Dinara Hadriana (the Hadrianic dinar)",
+    "explanation": "A gold dinar named for the emperor Hadrian. In the sugya it sells for twenty-five silver zuzim, and the calculation of deductions is built around it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50a:1:1",
+    "quote": "דינר זהב שטבוע במטבע אדריינוס קיסר וטוריינוס קיסר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "שתותא"
+   ],
+   "he": {
+    "term": "שתותא",
+    "explanation": "שישית — החלק שמורידים מהסכום כדי להגיע לחשבון של פדיון הבן. במקום אחר בסוגיה היא ההוספה שהוסיפו על הסלע."
+   },
+   "en": {
+    "term": "Shetuta (a sixth)",
+    "explanation": "A sixth — the part removed from the sum to reach the figure for the Pidyon HaBen. Elsewhere in the sugya it is the addition that was made to the sela."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50a:6:1",
+    "quote": "על סלע דאורייתא הוסיפו שתות ועשאוהו למדת סלע צורי עשרים וארבעה מעין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "עשרין מעין"
+   ],
+   "he": {
+    "term": "מעין (גרה)",
+    "explanation": "יחידת משקל וכסף קטנה. התורה קוראת לה גרה והגמרא מתרגמת מעין. שש מעין הן דינר, ועשרים גרה הן שקל."
+   },
+   "en": {
+    "term": "Ma'in (the gerah)",
+    "explanation": "A small unit of weight and silver. The Torah calls it a gerah and the Gemara translates it ma'in. Six ma'in make a dinar, and twenty gerah are a shekel."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sheqel Dues 1:3",
+    "quote": "הסלע ארבעה דינרין והדינר שש מעין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "קילבון לפרוטרוט"
+   ],
+   "he": {
+    "term": "קולבון",
+    "explanation": "תוספת קטנה שנותנים בעבור ההכרע של החלקים הקטנים. הפונדיון הנוסף בברייתא הוא קולבון."
+   },
+   "en": {
+    "term": "Kolbon (surcharge)",
+    "explanation": "A small surcharge given to cover the tip of the scale for small fractions. The additional pundyon in the baraita is a kolbon."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50a:5:2",
+    "quote": "הכרע הוא האי פונדיון"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "קינטרין"
+   ],
+   "he": {
+    "term": "קינטרין",
+    "explanation": "משקל גדול, מאה סלעים בכל שקל. רבי חנינא אומר שכך נקרא הכסף בכתובים, ובכספו של עפרון."
+   },
+   "en": {
+    "term": "Kintrin",
+    "explanation": "A large weight, a hundred sela'im per shekel. Rabbi Chanina says this is what silver means in the Writings, and in the silver of Ephron."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50a:8:2",
+    "quote": "מאה סלעים בכל שקל"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "כסף מדינה"
+   ],
+   "he": {
+    "term": "כסף מדינה",
+    "explanation": "מטבע הדיוט של חכמים, שהוא שמינית מכסף צורי. כשחכמים אומרים \"כסף\" סתם, הכוונה לכסף מדינה."
+   },
+   "en": {
+    "term": "Kesef medina (provincial silver)",
+    "explanation": "The ordinary coin of the Sages, which is an eighth of Tyrian silver. When the Sages say \"silver\" without qualification, provincial silver is meant."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50b:1:2",
+    "quote": "שמינית של כסף צורי והוא איסתירא סווסריאתא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "שבועת הדיינין"
+   ],
+   "he": {
+    "term": "שבועת הדיינין",
+    "explanation": "שבועה שחייב בה מי שמודה במקצת הטענה. מצריכים טענה של שתי מעות."
+   },
+   "en": {
+    "term": "Shevuat hadayanin (the oath of the judges)",
+    "explanation": "The oath required of one who admits part of a claim. It requires a claim of two ma'ot."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 50b:3:1",
+    "quote": "אינו נשבע אלא א\"כ טענו שוה שתי מעות שהן שליש דינר"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "דינר הדריינא ופדיון הבן: עשרים דינרים",
+    "gemara": "רבי יוחנן אומר שדינר זהב שנמכר בעשרים וחמישה זוזים — מורידים ממנו שתות, והשאר לפדיון הבן. הגמרא מקשה שיוצא עשרים ואחד פחות דנקא, ומתקנת: מורידים שתות וזוז, או זוז ושתות, עד שמתקבלים עשרים מתקלי של דינר.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The Hadrianic dinar and the Pidyon HaBen: twenty dinars",
+    "gemara": "Rabbi Yochanan says that a gold dinar that sells for twenty-five zuzim has a sixth removed from it, and the rest goes for the Pidyon HaBen. The Gemara objects that this leaves twenty-one less a danka, and corrects it: remove a sixth and a zuz, or a zuz and a sixth, until twenty weights of the dinar are reached.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:1:1",
+     "quote": "דינר זהב שטבוע במטבע אדריינוס קיסר וטוריינוס קיסר",
+     "he": "רש״י מפרש שהדינר הדריינא הוא דינר זהב שטבוע במטבע אדריינוס קיסר וטוריינוס קיסר.",
+     "en": "Rashi explains that the Hadrianic dinar is a gold dinar stamped with the coin of the emperors Hadrian and Trajan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:1:4",
+     "quote": "דס\"ל דסלעים של בכור הם סלעים של ד' דינר והוא סלע צורי",
+     "he": "רש״י: שיטת רבי יוחנן היא שסלעי הבכור הם סלעים של ארבעה דינרים, והוא סלע צורי.",
+     "en": "Rashi: Rabbi Yochanan holds that the sela'im of the firstborn are sela'im of four dinars, that is, the Tyrian sela."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:1:5",
+     "quote": "דל שתות מכ\"ד ופשו עשרים ודל שתות מחד זוזא פשו כ\"א נכי דנקא",
+     "he": "רש״י מחשב: מורידים שתות מעשרים וארבעה ונשארים עשרים, ושתות מזוז אחד — ונשארים עשרים ואחד פחות דנקא.",
+     "en": "Rashi calculates: remove a sixth from twenty-four, leaving twenty, and a sixth of the one zuz, which leaves twenty-one less a danka."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:3",
+     "quote": "שהוא כמשופשף מיושן",
+     "he": "רבינו גרשום מפרש \"שייפא\" שהמטבע כמשופשף ומיושן.",
+     "en": "Rabbeinu Gershom explains \"shaifa\" as a coin that is worn and old."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:4",
+     "quote": "ואנן קיימא לן דעשרים זוז לא פחות ולא יותר",
+     "he": "רבינו גרשום: אנו נוקטים שפדיון הבן הוא עשרים זוז, לא פחות ולא יותר.",
+     "en": "Rabbeinu Gershom: we hold that the Pidyon HaBen is twenty zuz, no less and no more."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:6",
+     "quote": "פשו להו עשרין זוזי דהוו פדיון הבן",
+     "he": "רבינו גרשום: אחרי הורדת הזוז והשתות נשארים עשרים זוזים שהם פדיון הבן.",
+     "en": "Rabbeinu Gershom: after removing the zuz and the sixth, twenty zuzim remain, which are the Pidyon HaBen."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50a:1:1",
+     "quote": "הוא דינר זהב שבכל הש\"ס דמזדבן בעשרים וחמש",
+     "he": "תוספות: זהו דינר הזהב שבכל הש״ס, הנמכר בעשרים וחמישה.",
+     "en": "Tosafot: this is the gold dinar found throughout the Talmud, which sells for twenty-five."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50a:1:2",
+     "quote": "ואומר ר\"ת דהדריינא היינו עגול כמו",
+     "he": "תוספות מביאים את רבנו תם שהקשה על פירוש רש״י, ופירש ש״הדריינא״ הוא מלשון עגול.",
+     "en": "Tosafot bring Rabbeinu Tam, who objects to Rashi's explanation and takes \"hadriana\" to mean round."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50a:1:3",
+     "quote": "דינר של כסף הוא אחד מעשרים וחמשה בדינר של זהב",
+     "he": "תוספות מציינים שכך גם בבבא מציעא: דינר כסף הוא אחד מעשרים וחמישה בדינר זהב.",
+     "en": "Tosafot note that Bava Metzia likewise has a silver dinar as one twenty-fifth of a gold dinar."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shevuot 44b:9:1",
+     "quote": "ואומר ר\"ת דדינר זהב עב משל כסף והיה שוקל כפליים",
+     "he": "תוספות בשבועות: רבנו תם אומר שדינר הזהב היה עבה מדינר הכסף והיה שוקל כפליים.",
+     "en": "Tosafot on Shevuot: Rabbeinu Tam says that the gold dinar was thicker than the silver one and weighed twice as much."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Ketubot 99a:8:1",
+     "quote": "דינר של כסף אחד מעשרים וחמשה בדינר של זהב",
+     "he": "תוספות בכתובות מקשים על כך שדינר כסף הוא אחד מעשרים וחמישה בדינר זהב, ומפנים גם לסוגייתנו.",
+     "en": "Tosafot on Ketubot raise a difficulty with the silver dinar being one twenty-fifth of a gold dinar, and refer also to our sugya."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 117:1",
+     "quote": "דינר של זהב עב משל כסף וגם שוקל יותר",
+     "he": "פסקי תוספות: דינר הזהב עבה מדינר הכסף וגם שוקל יותר.",
+     "en": "Piskei Tosafot: the gold dinar is thicker than the silver one and also weighs more."
+    },
+    {
+     "who": {
+      "he": "ריב״א",
+      "en": "Riva"
+     },
+     "ref": "Riva on Torah, Exodus 21:32:1",
+     "quote": "שקלי זהב אינם שוים לשקלי כסף",
+     "he": "הריב״א דן ביחס שבין זהב לכסף וקובע ששקלי זהב אינם שווים לשקלי כסף.",
+     "en": "The Riva discusses the ratio between gold and silver, stating that gold shekels are not equal to silver shekels."
+    },
+    {
+     "who": {
+      "he": "הדר זקנים",
+      "en": "Hadar Zekenim"
+     },
+     "ref": "Hadar Zekenim on Torah, Exodus 21:32:2",
+     "quote": "אבל גוף הדינר לא היה שוה כי אם כ\"ד דינר",
+     "he": "בעלי הדר זקנים: האחד הנוסף הוא משום הכרע, אבל גוף הדינר לא היה שווה אלא עשרים וארבעה דינרים.",
+     "en": "The Hadar Zekenim: the extra one is for the tip of the scale, but the body of the dinar itself was worth only twenty-four dinars."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א (חידושי אגדות)",
+      "en": "Maharsha (Chidushei Agadot)"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 50a:3",
+     "quote": "שייפא שם המלך",
+     "he": "המהרש״א מעיר שרש״י פירש \"שייפא שם המלך\", ושגם במקום האחר שבו הביאו לא פירש כך.",
+     "en": "The Maharsha notes that Rashi explained \"shaifa\" as \"the name of the king\", and that in the other place where it appears he did not explain it so."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 117:1:1",
+     "quote": "חמש איסתרי. ובכ\"י אי' חמש סלעים. והיינו הך",
+     "he": "הנצי״ב בהעמק שאלה מציין לסוגייתנו (בכורות נ׳ ע״א) בעניין חמש הסלעים של פדיון הבן, ומבאר שה״איסתרי״ בשאילתות הם החמש סלעים.",
+     "en": "The Netziv in Haamek Sheilah refers to our daf (Bekhorot 50a) on the five sela'im of the Pidyon HaBen, and says that the \"istari\" of the Sheiltot are the five sela'im."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    6
+   ],
+   "he": {
+    "title": "סלע דאורייתא שלושה ותילתא — והוספת השתות",
+    "gemara": "רבא אומר שהסלעים של התורה הם שלושה דינרים ושליש, כי \"עשרים גרה השקל\" מתורגם \"עשרין מעין\" ושש מעה כסף דינר. מקשים מברייתא שסלע של קודש הוא ארבעים ושמונה פונדיונין, ו״פונדיון זה מה טיבו״ — קולבון לפרוטרוט. ומתרצים שהוסיפו על הסלע, כי מ״יהיה״ למדנו שאם רצה להוסיף יוסיף.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The Torah's sela as three and a third — and the added sixth",
+    "gemara": "Rava says that the Torah's sela'im are three and a third, since \"twenty gerah is the shekel\" is translated \"twenty ma'in\" and six ma'ah of silver are a dinar. It is challenged from a baraita that a sela of holiness is forty-eight pundyonin, and \"what is this extra pundyon?\" — a surcharge for the fractions. The answer is that they added to it, for from \"yihyeh\" we learn that if one wishes to add, one may.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:8",
+     "quote": "הוו להו י\"ח מעין ג' דינר ושליש דינר",
+     "he": "רבינו גרשום: שש מעה כסף דינר — שמונה עשרה מעין הם שלושה דינרים ושליש.",
+     "en": "Rabbeinu Gershom: six ma'ah per dinar makes eighteen ma'in equal to three dinars and a third."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:9",
+     "quote": "והיה נותן לכל שנה שקל ופונדיון",
+     "he": "רבינו גרשום מפרש מדין ערכין: בכל שנה היה נותן שקל ופונדיון.",
+     "en": "Rabbeinu Gershom explains from the law of Arakhin: for each year he would give a shekel and a pundyon."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:11",
+     "quote": "שמעינן מהכא דבסלע איכא ד' דינרין ואת אמרת תלתא ותילתא",
+     "he": "רבינו גרשום: מכאן שמענו שבסלע יש ארבעה דינרים, ואילו רבא אמר שלושה ושליש.",
+     "en": "Rabbeinu Gershom: from here we hear that a sela has four dinars, whereas Rava said three and a third."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:12",
+     "quote": "בתר דאוסיפו עליה הוי ד' דינרין",
+     "he": "רבינו גרשום: אחרי שהוסיפו עליו הוא ארבעה דינרים.",
+     "en": "Rabbeinu Gershom: after they added to it, it is four dinars."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:3:1",
+     "quote": "ותילתא דהן עשרין מעין",
+     "he": "רש״י: שלושה דינרים ושליש הם עשרים מעין.",
+     "en": "Rashi: three dinars and a third are twenty ma'in."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:4:1",
+     "quote": "קתני כערכך יקום נותן מ\"ט סלעים ומ\"ט פונדיונין למ\"ט שנים של יובל",
+     "he": "רש״י מסביר את מקור הברייתא בתורת כהנים: נותן ארבעים ותשעה סלעים וארבעים ותשעה פונדיונין לארבעים ותשע שנים של יובל.",
+     "en": "Rashi explains the source of the baraita in the Torat Kohanim: one gives forty-nine sela'im and forty-nine pundyonin for the forty-nine years of the Jubilee."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:5:2",
+     "quote": "הכרע הוא האי פונדיון",
+     "he": "רש״י: אותו פונדיון נוסף הוא הכרע.",
+     "en": "Rashi: that additional pundyon is a tip of the scale (hecha'ah)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:6:1",
+     "quote": "על סלע דאורייתא הוסיפו שתות ועשאוהו למדת סלע צורי עשרים וארבעה מעין",
+     "he": "רש״י: על סלע התורה הוסיפו שתות ועשאוהו למידת הסלע הצורי, עשרים וארבע מעין.",
+     "en": "Rashi: to the Torah's sela they added a sixth and made it the measure of the Tyrian sela, twenty-four ma'in."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:25:2",
+     "quote": "ואמרו רבותינו שש מעה כסף דינר עשרים וארבע מעות לסלע",
+     "he": "רש״י בפרשת בחוקותי: בתחילה היו עשרים מעות, ואחר כך הוסיפו שתות — עשרים וארבע מעות לסלע, ומפנה לבכורות נ׳.",
+     "en": "Rashi on Leviticus: at first there were twenty ma'ot, and afterward they added a sixth — twenty-four ma'ot to the sela — and he refers to Bekhorot 50."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:18:2",
+     "quote": "הרי שקל לכל שנה ושקל יתר על כולן",
+     "he": "רש״י בויקרא כ״ז מבאר את החשבון: שקל לכל שנה ושקל נוסף על כולן.",
+     "en": "Rashi on Leviticus 27 explains the calculation: a shekel for each year and one more shekel over all of them."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sheqel Dues 1:3",
+     "quote": "הסלע ארבעה דינרין והדינר שש מעין",
+     "he": "הרמב״ם בהלכות שקלים: הסלע ארבעה דינרים והדינר שש מעין.",
+     "en": "Rambam in Hilkhot Shekalim: the sela is four dinars and the dinar is six ma'in."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 4:3",
+     "quote": "והוסיפו על השקל ועשו אותו סלע",
+     "he": "הרמב״ם בהלכות ערכין: השקל האמור בתורה הוא הנקרא סלע בלשון חכמים, והוסיפו עליו ועשו אותו סלע.",
+     "en": "Rambam in Hilkhot Arakhin: the shekel of the Torah is called a sela in the language of the Sages, and they added to it and made it a sela."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 76b:15:1",
+     "quote": "ויש לומר דשאני התם דגלי קרא כדדרשינן מדכתיב יהיה",
+     "he": "תוספות במנחות: ההוספה בחמש סלעי הבן היא משום שהתורה גילתה זאת, כפי שדורשים מ״יהיה״.",
+     "en": "Tosafot on Menachot: the addition in the Pidyon HaBen sela'im is because the verse revealed it, as we derive from \"yihyeh\"."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:2:3",
+     "quote": "ופירש רש\"י בתר דאוסיפו עליה על סלע דאורייתא הוסיפו שתות",
+     "he": "הכסף משנה מביא את דברי רבא ואת פירוש רש״י שעל סלע התורה הוסיפו שתות.",
+     "en": "The Kessef Mishneh cites Rava and Rashi's explanation that a sixth was added to the Torah's sela."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50a:1",
+     "quote": "ותניא שש מעה כסף דינר. הוא בקדושין",
+     "he": "הרש״ש מציין שהברייתא \"שש מעה כסף דינר\" היא בקדושין (יב).",
+     "en": "The Rashash notes that the baraita \"six ma'ah of silver is a dinar\" is in Kiddushin (12)."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 305:2",
+     "quote": "בימי משה ק' מעים לבד אלא שאח\"כ הוסיפו שתות מלבר",
+     "he": "הגר״א ביורה דעה ש״ה: בימי משה היו מאה מעים, ואחר כך הוסיפו שתות, ומפנה לבכורות נ׳ ע״א.",
+     "en": "The Vilna Gaon on Yoreh De'ah 305: in the days of Moshe there were a hundred ma'in, and afterward a sixth was added, and he refers to Bekhorot 50a."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 93:1",
+     "quote": "ומפרש בבכורות (דף נ) שהגם שאין בסלע רק מ\"ח פונדיונות, נותן מ\"ט משום קולבון",
+     "he": "המלבי״ם: מבואר בבכורות שאף שבסלע יש רק ארבעים ושמונה פונדיונות, נותן ארבעים ותשעה משום קולבון.",
+     "en": "The Malbim: Bekhorot explains that although a sela has only forty-eight pundyonot, one gives forty-nine because of the kolbon."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 106:1",
+     "quote": "השקל הוא מלשון משקל ותלוי לפי הסכמת המדינה",
+     "he": "המלבי״ם: \"שקל\" הוא מלשון משקל והוא תלוי בהסכמת המדינה.",
+     "en": "The Malbim: \"shekel\" is from the word for weight, and depends on the agreement of the country."
+    },
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Bekhukotai 14",
+     "quote": "ומעשרים גרה הוסיפו עד כ\"ד מעות",
+     "he": "משך חכמה: מעשרים גרה הוסיפו עד עשרים וארבע מעות, והוא מפנה לבכורות נ׳ ולרמב״ם בהלכות ערכין.",
+     "en": "The Meshekh Chokhmah: from twenty gerah they added up to twenty-four ma'ot, and he refers to Bekhorot 50 and the Rambam in Hilkhot Arakhin."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 27:17:3",
+     "quote": "ארבעים ותשע סלעים וארבעים ותשע פונדיונות",
+     "he": "התורה תמימה מביא את הברייתא שנותן ארבעים ותשעה סלעים וארבעים ותשעה פונדיונות, ופונדיון זה הוא קולבון לפרוטרוט.",
+     "en": "The Torah Temimah cites the baraita that one gives forty-nine sela'im and forty-nine pundyonot, this pundyon being a kolbon for the fractions."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Sheqel Dues 1:3:1",
+     "quote": "עי' תוס' קדושין ד' י\"א ע\"ב דלא הוה מטבע רק משקל",
+     "he": "צפנת פענח מפנה לתוספות בקדושין שהגרה לא הייתה מטבע אלא משקל, ודן בכך בהקשר לדברי הגמרא בבכורות.",
+     "en": "The Tzafnat Pa'neach refers to Tosafot in Kiddushin that the gerah was not a coin but a weight, and discusses this alongside the Gemara in Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    7
+   ],
+   "he": {
+    "title": "רב אשי ורב אחא בריה דרבינא — שבסר זוזי",
+    "gemara": "רב אשי שלח לרב אחא בנו של רבינא שבעה עשר זוזים לפדיון הבן. רב אחא ביקש שישלח לו שליש יתר שיש עליהם, ורב אשי השיב שירצה שישלח לו שליש אחר שהוסיפו עליהם.",
+    "halakha": "השולחן ערוך פוסק: מצוות עשה לפדות את הבן הבכור בחמש סלעים, שהם מאה ועשרים מעים."
+   },
+   "en": {
+    "title": "Rav Ashi and Rav Acha son of Ravina — seventeen zuzim",
+    "gemara": "Rav Ashi sent Rav Acha son of Ravina seventeen zuzim for a Pidyon HaBen. Rav Acha asked him to send the extra third that is on them, and Rav Ashi answered by asking that Rav Acha send him another third, since they had added to them.",
+    "halakha": "The Shulchan Arukh rules: it is a positive commandment to redeem a firstborn son with five sela'im, which are one hundred and twenty ma'in."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:14",
+     "quote": "לישדר לי מר תילתא יתירא דאיכא עליהו דשדרית לך טפי",
+     "he": "רבינו גרשום: חמש סלעים לפי רבא הם שבעה עשר דינרים פחות שליש, ורב אחא ביקש את השליש היתר.",
+     "en": "Rabbeinu Gershom: five sela'im according to Rava come to seventeen dinars less a third, and Rav Acha asked for the extra third."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:15",
+     "quote": "דבסלע איכא ד' דינרין ועולין ה' סלעים לכ' דינרין",
+     "he": "רבינו גרשום: בסלע ארבעה דינרים, וחמש סלעים עולים לעשרים דינרים.",
+     "en": "Rabbeinu Gershom: a sela has four dinars, and five sela'im come to twenty dinars."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:7:1",
+     "quote": "רב אחא כהן היה ושלח רב אשי לרב אחא",
+     "he": "רש״י מציין שרב אחא כהן היה.",
+     "en": "Rashi notes that Rav Acha was a kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:7:2",
+     "quote": "שנתתי לך יותר מדאי כרבא דאמר סלע דאורייתא שלש דינרין ותילתא",
+     "he": "רש״י: רב אשי נתן יותר מדי לפי רבא, שאמר שסלע דאורייתא שלושה דינרים ושליש.",
+     "en": "Rashi: Rav Ashi gave too much according to Rava, who said the Torah's sela is three dinars and a third."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:7:3",
+     "quote": "דהא אוסיפו עלייהו ועשאום למדת צורי דהוו חמש סלעים עשרים זוז",
+     "he": "רש״י: רב אשי השיב שהוסיפו עליהם והפכו אותם למידה צורית — חמש סלעים עשרים זוז.",
+     "en": "Rashi: Rav Ashi replied that they added to them and made them the Tyrian measure — five sela'im are twenty zuz."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Ketubot 10a:6:1",
+     "quote": "לישדר מר תילתא אחרינא דאוסיפו עלייהו ושדר להו",
+     "he": "תוספות בכתובות מביאים את הגמרא כאן בבכורות כדוגמה לפדיון בכור בחמש סלעים.",
+     "en": "Tosafot on Ketubot cite our Gemara in Bekhorot as an example regarding the five sela'im of a firstborn's redemption."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Teshuvot HaRosh 49:1:1",
+     "quote": "חייב לפדותו בחמש סלעין כסף לאחר שיהא בן שלשים יום",
+     "he": "הרא״ש בתשובה: מי שנולד לו בן בכור חייב לפדותו בחמש סלעים כסף לאחר שיהיה בן שלושים יום.",
+     "en": "The Rosh in a responsum: one whose firstborn son was born must redeem him with five sela'im of silver once he is thirty days old."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 305",
+     "quote": "משקל אלף ותשע מאות ועשרים שעורים כסף",
+     "he": "הטור: חמש סלעים הם שתי אונקיות וחצי לרש״י, ולדברי הגאונים משקל אלף תשע מאות ועשרים שעורים כסף.",
+     "en": "The Tur: five sela'im are two and a half ounces according to Rashi, and according to the Geonim the weight of 1,920 barleycorns of silver."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50a:6",
+     "quote": "והתילתא אינון שתי דינרין",
+     "he": "הרש״ש מתקן את נוסח רש״י: \"והתילתא אינון שתי דינרין\".",
+     "en": "The Rashash corrects the text of Rashi: \"and the third is two dinars\"."
+    },
+    {
+     "who": {
+      "he": "משפטי עוזיאל",
+      "en": "Mishpetei Uziel"
+     },
+     "ref": "Mishpetei Uziel, Volume I, Yoreh De'ah 25:9",
+     "quote": "שלא שלח זוזים אלה בדרך שליחות",
+     "he": "משפטי עוזיאל לומד מלשון \"שדר ליה\" שרב אשי לא שלח את הזוזים בדרך שליחות אלא כפרעון חוב.",
+     "en": "Mishpetei Uziel infers from the wording \"shadar leih\" that Rav Ashi did not send these zuzim by way of agency but as repayment of a debt."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 305:8",
+     "quote": "שהקפידה תורה שהמעות יהיה דווקא של האב",
+     "he": "ערוך השולחן, בדיון על פדיון על ידי שליח: התורה הקפידה שהמעות יהיו דווקא של האב.",
+     "en": "The Arukh HaShulchan, discussing redemption through an agent: the Torah was particular that the money be specifically the father's."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:1",
+     "quote": "מצות עשה לפדות כל איש מישראל בנו שהוא בכור לאמו הישראלית בה' סלעים שהם ק\"כ מעים",
+     "he": "השולחן ערוך: מצוות עשה לפדות את הבן הבכור לאמו הישראלית בחמש סלעים שהם מאה ועשרים מעים.",
+     "en": "The Shulchan Arukh: it is a positive commandment to redeem one's son who is the firstborn of his Israelite mother with five sela'im, which are one hundred and twenty ma'in."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    8
+   ],
+   "he": {
+    "title": "רבי חנינא: כסף בתורה, בנביאים ובכתובים",
+    "gemara": "רבי חנינא אומר שכל כסף האמור בתורה סתם הוא סלע, בנביאים ליטרין ובכתובים קינטרין. חוץ מכספו של עפרון, שאף שכתוב בתורה סתם הוא קינטרין, שנאמר \"עובר לסוחר\", ויש מקום שקוראים לקינטרא \"תיקלא\".",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Rabbi Chanina: silver in the Torah, Prophets and Writings",
+    "gemara": "Rabbi Chanina says that all silver mentioned in the Torah without qualification is a sela, in the Prophets litrin, and in the Writings kintrin. The exception is the silver of Ephron, which is kintrin although written in the Torah, since it says \"passing current with the merchant\", and there is a place where a kintra is called \"tikla\".",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:16",
+     "quote": "משום דקינטרין הוא דאיכא דוכתא",
+     "he": "רבינו גרשום מסביר את ההסבר \"דאיכא דוכתא\" — מקום שבו קוראים כך לקינטרין.",
+     "en": "Rabbeinu Gershom explains the phrase \"there is a place\" — a place where kintrin are called so."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:8:1",
+     "quote": "מנין דהוא עשרים וחמשה סלעים",
+     "he": "רש״י: ליטרין הוא מניין של עשרים וחמישה סלעים.",
+     "en": "Rashi: litrin is a count of twenty-five sela'im."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:8:2",
+     "quote": "מאה סלעים בכל שקל",
+     "he": "רש״י: קינטרין הם מאה סלעים בכל שקל.",
+     "en": "Rashi: kintrin are a hundred sela'im for each shekel."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:8:3",
+     "quote": "שבכל מקום שיש סוחרים מקבלין אותו בתורת שקלים",
+     "he": "רש״י: \"עובר לסוחר\" — בכל מקום שיש סוחרים מקבלים אותו בתורת שקלים.",
+     "en": "Rashi: \"passing current with the merchant\" — everywhere there are merchants they accept it as shekels."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:8:4",
+     "quote": "שגדול במדת קינטרא הלכך קינטריא יהיב ליה",
+     "he": "רש״י על \"תיקלא\": גדול במידת קינטרא, ולכן נתן לו קינטרין.",
+     "en": "Rashi on \"tikla\": it is large in the measure of the kintra, therefore he gave him kintrin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Genesis 23:16:1",
+     "quote": "שנטל ממנו שקלים גדולים שהן קנטרין",
+     "he": "רש״י בבראשית: אברהם נתן לעפרון שקלים גדולים, שהם קנטרין, ומציין לבכורות נ׳.",
+     "en": "Rashi on Genesis: Ephron took large shekels, which are kintrin, and he cites Bekhorot 50."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א (חידושי אגדות)",
+      "en": "Maharsha (Chidushei Agadot)"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 50a:1",
+     "quote": "כל שקל כסף סתם האמור בתורה סתם היא סלע",
+     "he": "המהרש״א: שקל כסף סתם האמור בתורה הוא סלע, אבל כסף שלא כתוב בו שקל אינו סלע אלא דינר, כפירוש רש״י.",
+     "en": "The Maharsha: a plain \"shekel of silver\" in the Torah is a sela, whereas silver where \"shekel\" is not written is not a sela but a dinar, as Rashi explains."
+    },
+    {
+     "who": {
+      "he": "מהרש״א (חידושי אגדות)",
+      "en": "Maharsha (Chidushei Agadot)"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 50a:2",
+     "quote": "פירש\"י הכא מאה סלעים",
+     "he": "המהרש״א מעיר שרש״י פירש כאן קינטרין כמאה סלעים, ובפרק הפועלים פירש בצורה אחרת.",
+     "en": "The Maharsha notes that here Rashi explained kintrin as a hundred sela'im, while in Perek HaPo'alim he explained it differently."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Kiddushin 1:3:4:1",
+     "quote": "ובבבלי בכורות דף נ' יליף לשקלי עפרון דהויין קנטרין",
+     "he": "מראה הפנים על הירושלמי: בבבלי בכורות נ׳ לומדים ששקלי עפרון היו קנטרין.",
+     "en": "Mareh HaPanim on the Yerushalmi: in the Bavli, Bekhorot 50, we learn that Ephron's shekels were kintrin."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Genesis 23:16:2",
+     "quote": "עובר לסוחר. א\"ר חנינא, כל כסף האמור בתורה סתם הוא סלע",
+     "he": "התורה תמימה על \"עובר לסוחר\" מביא את דברי רבי חנינא מבכורות נ׳ ע״א.",
+     "en": "The Torah Temimah on \"passing current with the merchant\" cites Rabbi Chanina's statement from Bekhorot 50a."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 50a:1",
+     "quote": "נמצא הם דוגמת אותיות כסף שהם הולכים ונוספים",
+     "he": "הבן יהוידע מביא דרש: ההתרחבות מסלעים לליטרין לקינטרין דומה לאותיות \"כסף\" שהולכות ונוספות.",
+     "en": "The Ben Yehoyada offers a homiletic reading: the progression from sela'im to litrin to kintrin resembles the letters of \"kesef\", which keep increasing."
+    },
+    {
+     "who": {
+      "he": "מהרז״ו",
+      "en": "Maharzu"
+     },
+     "ref": "Perush Maharzu on Bereshit Rabbah 58:7:3",
+     "quote": "ובבכורות דף נ' א' הגי' כל כסף האמור בתורה סתם סלעים",
+     "he": "המהרז״ו מציין שבבכורות נ׳ ע״א הנוסח הוא \"כל כסף האמור בתורה סתם סלעים\".",
+     "en": "The Maharzu notes that in Bekhorot 50a the text reads \"all silver mentioned in the Torah without qualification is sela'im\"."
+    },
+    {
+     "who": {
+      "he": "עץ יוסף",
+      "en": "Etz Yosef"
+     },
+     "ref": "Etz Yosef on Ruth Rabbah 7:11:10",
+     "quote": "ופירש קנטרין רצונו לומר מאה סלעים בכל שקל",
+     "he": "עץ יוסף מביא את פירוש רש״י ש״קנטרין״ הם מאה סלעים בכל שקל, ומפנה לבכורות.",
+     "en": "Etz Yosef cites Rashi's explanation that \"kintrin\" are a hundred sela'im per shekel, and refers to Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "בקשו לגנוז כסף וזהב — ובאו בה פריצים וחללוה",
+    "gemara": "רבי אושעיא אומר שביקשו לגנוז כל כסף וזהב שבעולם מפני כספה וזהבה של ירושלים, עד שמצאו היתר מ\"ובאו בה פריצים וחללוה\". הגמרא מקשה שירושלים אינה רוב העולם, ואביי מתרץ שביקשו לגנוז דינר הדריינא טירייאנא שייאפא מפני טבעה של ירושלים.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "They wished to hide away silver and gold — \"and violent men shall enter it and profane it\"",
+    "gemara": "Rabbi Oshaya says they wished to hide away all the silver and gold in the world because of the silver and gold of Jerusalem, until they found a verse in the Torah making it permitted: \"and violent men shall enter it and profane it\". The Gemara asks whether Jerusalem was most of the world, and Abaye answers that they wished to hide the Hadrianic-Trajanic dinar because of Jerusalem's coin.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50a:17",
+     "quote": "שאותו מטבע היה של ירושלים שבו היו פודין הקדש ומעשרות",
+     "he": "רבינו גרשום: אותו מטבע היה של ירושלים, שבו היו פודים הקדש ומעשרות.",
+     "en": "Rabbeinu Gershom: that coin was of Jerusalem, with which they redeemed hekdesh and tithes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:9:1",
+     "quote": "שהיה בלשכה והוא של הקדש ואסור לזרים וכשלקחוהו עובדי כוכבים ערבוהו עם זהובים",
+     "he": "רש״י: הכסף והזהב היו בלשכה, והם של הקדש ואסורים לזרים, וכשלקחו אותם עובדי כוכבים ערבבו אותם עם זהובים.",
+     "en": "Rashi: the silver and gold were in the chamber and belonged to hekdesh, forbidden to outsiders, and when idolaters took them they mixed them with their own gold."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:9:2",
+     "quote": "כיון שבאו פריצים חיללוהו נפק לחולין",
+     "he": "רש״י: \"וחיללוה\" — משעה שבאו פריצים חיללו אותו ויצא לחולין.",
+     "en": "Rashi: \"and profane it\" — once violent men came they profaned it and it went out to non-sacred status."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50a:10:2",
+     "quote": "ורובן של אלו באו מירושלים",
+     "he": "רש״י: אלו היו ממטבעות ירושלים, ורובן באו מירושלים.",
+     "en": "Rashi: these were coins of Jerusalem, and most of them came from Jerusalem."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50a:7",
+     "quote": "עירבוהו עם זהבה",
+     "he": "הרש״ש מעיר על נוסח רש״י \"ערבוהו עם זהבה\" — שכך הוא בגרסת כתב היד שלו.",
+     "en": "The Rashash comments on the text of Rashi, \"they mixed it with its gold\" — that this is how it reads in his manuscript."
+    },
+    {
+     "who": {
+      "he": "מהרי״ט",
+      "en": "Maharit"
+     },
+     "ref": "Teshuvot Maharit, I 43:12",
+     "quote": "כל שהוא ביד העכו\"ם נפקעה מקדושתה",
+     "he": "המהרי״ט מביא את סוגייתנו כראיה שכל קדושה שביד עכו״ם נפקעת.",
+     "en": "The Maharit cites our sugya as evidence that anything holy in the hands of a gentile loses its sanctity."
+    },
+    {
+     "who": {
+      "he": "לחם שמים",
+      "en": "Lechem Shamayim"
+     },
+     "ref": "Lechem Shamayim on Mishnah Meilah 6:6:5",
+     "quote": "ופירש\"י שרובן של אותן דינרים. מירושלם באו מן הלשכה",
+     "he": "לחם שמים מביא את סוגייתנו ופירוש רש״י שרוב אותם דינרים באו מן הלשכה.",
+     "en": "Lechem Shamayim cites our sugya and Rashi's explanation that most of those dinars came from the chamber."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Megillah 5b:1",
+     "quote": "בבכורות נ' ע\"א ובאו בה פריצים וחללוה כיון שבאו בה פריצים יצא לחולין",
+     "he": "החתם סופר: מבכורות נ׳ ע״א למדנו שכיון שבאו בה פריצים יצא לחולין, ומשתמש בכך בסוגיית שריפת בית המקדש.",
+     "en": "The Chatam Sofer: from Bekhorot 50a we learn that once violent men entered it, it went out to non-sacred status, and he uses this in the sugya of the burning of the Temple."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "כל כסף האמור בתורה — כסף צורי, ושל דבריהם כסף מדינה",
+    "gemara": "רב יהודה אמר רב אסי: כל כסף האמור בתורה סתם כסף צורי, ושל דבריהם כסף מדינה. הגמרא מקשה מטענה (שבועת הדיינים, שתי כסף), ומתרצת שם שהכסף נדרש מ\"כסף או כלים\": מה כלים שנים, אף כסף שנים.",
+    "halakha": "השולחן ערוך: אין מודה במקצת הטענה חייב לישבע עד שיודה לפחות בפרוטה ותהיה הכפירה לפחות שתי מעין כסף."
+   },
+   "en": {
+    "title": "All silver in the Torah is Tyrian silver, and the Sages' silver is provincial silver",
+    "gemara": "Rav Yehuda said in the name of Rav Assi: all silver mentioned in the Torah without qualification is Tyrian silver, and that of the Sages is provincial silver. The Gemara objects from a claim (the oath of the judges, two silver), and answers that there the verse reads \"silver or vessels\": just as vessels are two, so silver is two.",
+    "halakha": "The Shulchan Arukh: one who admits part of a claim is liable to swear only if he admits at least a perutah and the denial is at least two ma'in of silver."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:1",
+     "quote": "הוא אחד משמונה בכסף של תורה",
+     "he": "רבינו גרשום: כסף מדינה הוא אחד משמונה מכסף התורה.",
+     "en": "Rabbeinu Gershom: provincial silver is one eighth of the Torah's silver."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:1:1",
+     "quote": "והיכא דלא כתיב שקל אלא כסף הוי דינר צורי",
+     "he": "רש״י: כשכתוב שקל הוא סלע צורי, וכשלא כתוב שקל אלא כסף — דינר צורי.",
+     "en": "Rashi: where \"shekel\" is written it is a Tyrian sela, and where only \"silver\" is written it is a Tyrian dinar."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:1:2",
+     "quote": "שמינית של כסף צורי והוא איסתירא סווסריאתא",
+     "he": "רש״י: כסף מדינה הוא שמינית של כסף צורי.",
+     "en": "Rashi: provincial silver is an eighth of Tyrian silver."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:3:1",
+     "quote": "אינו נשבע אלא א\"כ טענו שוה שתי מעות שהן שליש דינר",
+     "he": "רש״י: שבועת הדיינים — אינו נשבע אלא אם טענו שווה שתי מעות, שהן שליש דינר.",
+     "en": "Rashi: the oath of the judges — he does not swear unless the claim is for the worth of two ma'ot, which are a third of a dinar."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:4:1",
+     "quote": "דאקשיה רחמנא לכסף בהדי כלים שנים כל דהו",
+     "he": "רש״י: התורה הקישה כסף לכלים, ושנים כל שהו.",
+     "en": "Rashi: the Torah paired silver with vessels, and two of any amount."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:2",
+     "quote": "שיתחייב בה שבועה בטוענו שתי כסף וקי\"ל שתי מעה כסף",
+     "he": "רבינו גרשום: שבועה חלה בטוען שתי כסף, ואנו אומרים שתי מעה כסף.",
+     "en": "Rabbeinu Gershom: an oath applies for a claim of two silver, and we say two ma'ah of silver."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:3",
+     "quote": "ושתי מעה כסף נמי הוי דבר חשוב",
+     "he": "רבינו גרשום: גם שתי מעה כסף הוא דבר חשוב.",
+     "en": "Rabbeinu Gershom: two ma'ah of silver is also something of substance."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50b:1:1",
+     "quote": "פירש הקונטרס בשם רבותיו דדינר הוי מטבע פחותה שבצורי",
+     "he": "תוספות על רב אסי: הקונטרס פירש בשם רבותיו שדינר הוא המטבע הפחותה שבצורי, ומפנים לקדושין.",
+     "en": "Tosafot on Rav Assi: the Kuntres explained in the name of his teachers that a dinar is the lowest coin among the Tyrian ones, and they refer to Kiddushin."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50b:4:1",
+     "quote": "ותירץ דלכתוב כספים דמשמע שנים ודבר חשוב",
+     "he": "תוספות על \"מה כלים שנים\": מביאים קושיית רש״י בשבועות ותירוצו, ומוסיפים תימה.",
+     "en": "Tosafot on \"what vessels are two\": they cite Rashi's question in Shevuot and his answer, and add a difficulty."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Plaintiff and Defendant 3:2",
+     "quote": "כל כסף האמור בתורה הוא שקל הקדש והוא עשרים מעה",
+     "he": "הרמב״ם: כל כסף האמור בתורה הוא שקל הקודש, והוא עשרים מעה.",
+     "en": "Rambam: all silver mentioned in the Torah is the holy shekel, which is twenty ma'ah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Plaintiff and Defendant 3:1",
+     "quote": "אין מודה במקצת חייב שבועה מן התורה עד שיודה בפרוטה או יתר ויכפור בשתי מעין כסף או יתר",
+     "he": "הרמב״ם: אין מודה במקצת חייב שבועה מן התורה עד שיודה בפרוטה או יותר ויכפור בשתי מעין כסף או יותר.",
+     "en": "Rambam: one who admits part of a claim is not liable to a Torah oath until he admits a perutah or more and denies two ma'in of silver or more."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 88",
+     "quote": "ותהיה הכפירה לפחות שני מעין כסף",
+     "he": "הטור: צריך שהכפירה תהיה לפחות שני מעין כסף.",
+     "en": "The Tur: the denial must be at least two ma'in of silver."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 88:1",
+     "quote": "ותהיה הכפירה לפחות שתי מעין כסף",
+     "he": "השולחן ערוך: הכפירה צריכה להיות לפחות שתי מעין כסף.",
+     "en": "The Shulchan Arukh: the denial must be at least two ma'in of silver."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50b:6",
+     "quote": "שהיה שוה למעה שנעשית",
+     "he": "הרש״ש מתקן את נוסח התוספות \"אלא משקל... שהיה שוה למעה שנעשית\".",
+     "en": "The Rashash corrects the text of Tosafot, \"but a weight... that was equal to the ma'ah that was made\"."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Even HaEzer 66:22",
+     "quote": "דאמרינן בקדושין י\"א ובב\"ק לו ובכורות נ'",
+     "he": "הגר״א באבן העזר ס״ו: מציין שהכלל \"כל כסף וכו׳ ושל דבריהם\" נאמר בקדושין י״א, בבבא קמא ל״ו ובבכורות נ׳.",
+     "en": "The Vilna Gaon on Even HaEzer 66: notes that the rule \"all silver etc. and that of the Sages\" is stated in Kiddushin 11, Bava Kamma 36 and Bekhorot 50."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Shevuot 6:1:1",
+     "quote": "שבועת הדיינים פ\"ק דקדושין דף י\"א",
+     "he": "מלאכת שלמה על משנה בשבועות מפנה לסוגיות שבועת הדיינים, ובהן בכורות נ׳.",
+     "en": "Melekhet Shelomoh on the Mishnah in Shevuot refers to the sugyot on the oath of the judges, among them Bekhorot 50."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    8
+   ],
+   "he": {
+    "title": "מעשר, הקדש וקידושין — והתיקון: כסף קצוב",
+    "gemara": "הגמרא מקשה על רב אסי ממעשר שני (\"וצרת הכסף\", הפורט סלע), מהקדש (\"ונתן הכסף\", הקדש שווה מנה שחילל על שווה פרוטה — מחולל), ומקידושי אשה (\"אין כסף\", בית שמאי בדינר). לבסוף מתקנת: \"כל כסף קצוב האמור בתורה כסף צורי, ושל דבריהם כסף מדינה\".",
+    "halakha": "השולחן ערוך: בכסף נותן לה בפני שנים פרוטה או שווה פרוטה."
+   },
+   "en": {
+    "title": "Maaser, hekdesh and kiddushin — and the correction: fixed-sum silver",
+    "gemara": "The Gemara objects to Rav Assi from second tithe (\"and you shall bind up the silver\", one who changes a sela), from hekdesh (\"and he shall give the silver\", hekdesh worth a maneh redeemed for a perutah is redeemed), and from the betrothal of a woman (\"no silver\", Beit Shammai in a dinar). Finally it corrects: \"all fixed-sum silver mentioned in the Torah is Tyrian silver, and that of the Sages is provincial silver\".",
+    "halakha": "The Shulchan Arukh: for betrothal by money, he gives her before two witnesses a perutah or the worth of a perutah."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:5:1",
+     "quote": "מדמי מעות מעשר שני שהיו לו פרוטות",
+     "he": "רש״י על \"הפורט סלע\": מדובר במעות מעשר שני שהיו לו פרוטות.",
+     "en": "Rashi on \"one who changes a sela\": it refers to second-tithe money that he had in perutot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:5:2",
+     "quote": "תלתא זימני כתיב התם כסף ונתת בכסף וצרת הכסף ונתת בכסף וריבה כל מילי",
+     "he": "רש״י: שלוש פעמים כתוב שם \"כסף\", וריבה כל דבר.",
+     "en": "Rashi: three times \"silver\" is written there, and it includes everything."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:6:2",
+     "quote": "ובהקדש כתיב ואיש כי יקדיש את ביתו קדש",
+     "he": "רש״י: במעשר שני כתוב \"קודש\" ובהקדש כתוב \"ואיש כי יקדיש את ביתו קודש\".",
+     "en": "Rashi: in second tithe \"holy\" is written, and in hekdesh \"and a man who sanctifies his house holy\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:7:1",
+     "quote": "ומהתם גמרינן קדושין דאמרינן אין כסף לאדון זה ויש כסף לאדון אחר",
+     "he": "רש״י: משם לומדים קידושין, שאין כסף לאדון זה ויש כסף לאדון אחר.",
+     "en": "Rashi: from there we learn kiddushin, that there is no silver for this master but there is silver for another master."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:8:1",
+     "quote": "דאיכא שלשים חמשים אבל בכל הנך דפרכינן ליכא קצבה",
+     "he": "רש״י על \"קצוב\": כשיש שלושים וחמישים, אבל בכל אלה שהקשינו אין קצבה.",
+     "en": "Rashi on \"fixed\": where there are thirty and fifty, but in all those we objected from there is no fixed sum."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:4",
+     "quote": "אלמא דמעשר שני חילל על מעות אע\"ג דכתיב ביה ונתתה בכסף",
+     "he": "רבינו גרשום: אם יש לו מעות מעשר שני ורוצה לחלפן — מעשר שני חולל על מעות אף ש״ונתתה בכסף״.",
+     "en": "Rabbeinu Gershom: second-tithe money may be changed, so second tithe was redeemed on coins although \"and you shall give the silver\" is written."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:5",
+     "quote": "האב זכאי בבתו בכסף קידושיה",
+     "he": "רבינו גרשום: הכסף שביציאת האמה הוא האב, שזכאי בבתו בכסף קידושיה.",
+     "en": "Rabbeinu Gershom: the other master in \"no silver\" is the father, who is entitled to the silver of his daughter's betrothal."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:6",
+     "quote": "כגון ה' סלעים של בן ושלשים של עבד",
+     "he": "רבינו גרשום: כסף קצוב — כגון חמש סלעים של בן ושלושים של עבד.",
+     "en": "Rabbeinu Gershom: fixed silver — such as the five sela'im of the son and the thirty of the slave."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 50b:8:1",
+     "quote": "תנן גבי התוקע לחבירו רבי יוסי הגלילי אומר מנה ומסיק בגמרא דהיינו מנה צורי",
+     "he": "תוספות מקשים על הכלל מבבא קמא: רבי יוסי הגלילי אומר \"מנה\" ומסקנת הגמרא שהוא מנה צורי.",
+     "en": "Tosafot raise a difficulty from Bava Kamma: Rabbi Yose HaGelili says \"a maneh\", and the Gemara concludes it is a Tyrian maneh."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Bava Kamma 36b:5",
+     "quote": "כל כסף קצוב האמור בתורה כגון ל' של עבד ונ' של אונס ושל מפתה וק' של מוציא שם רע כולן כסף צורי",
+     "he": "רבינו חננאל: כסף קצוב האמור בתורה — כגון שלושים של עבד, חמישים של אונס ושל מפתה ומאה של מוציא שם רע — כולם כסף צורי.",
+     "en": "Rabbeinu Chananel: fixed silver in the Torah — such as the thirty for a slave, fifty for a rapist or seducer, and a hundred for slander — is all Tyrian silver."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sheqel Dues 1:2",
+     "quote": "באונס ובמפתה ובמוציא שם רע והורג עבד",
+     "he": "הרמב״ם: הכסף האמור בתורה באונס, מפתה, מוציא שם רע והורג עבד הוא השקל.",
+     "en": "Rambam: the silver mentioned in the Torah for the rapist, seducer, slanderer and one who kills a slave is the shekel."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 7:8",
+     "quote": "אפילו הקדש שוה מאה דינר שחללו על",
+     "he": "הרמב״ם בהלכות ערכין: אפילו הקדש השווה מאה דינר שחללו על שווה פרוטה — הרי זה פדוי.",
+     "en": "Rambam in Hilkhot Arakhin: even hekdesh worth a hundred dinars redeemed for the worth of a perutah is redeemed."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Marriage 3:1",
+     "quote": "אם בכסף הוא מקדש אין פחות מפרוטה כסף או שוה פרוטה",
+     "he": "הרמב״ם: אם מקדש בכסף — אין פחות מפרוטה כסף או שווה פרוטה.",
+     "en": "Rambam: if he betroths with money, it may be no less than a perutah of silver or its worth."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Even HaEzer 27",
+     "quote": "בכסף כיצד נותן לה בפני שנים פרוטה או שוה פרוטה",
+     "he": "הטור: בכסף נותן לה בפני שניים פרוטה או שווה פרוטה.",
+     "en": "The Tur: with money, he gives her before two witnesses a perutah or the worth of a perutah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 27:1",
+     "quote": "בכסף כיצד נותן לה בפני שנים פרוטה או  שוה פרוטה",
+     "he": "השולחן ערוך: בכסף נותן לה בפני שניים פרוטה או שווה פרוטה ואומר לה \"הרי את מקודשת לי בזה\".",
+     "en": "The Shulchan Arukh: with money, he gives her before two witnesses a perutah or its worth and says to her \"you are betrothed to me with this\"."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50b:1",
+     "quote": "משמע דהיה גורס קרא דונתת בכסף",
+     "he": "הרש״ש: מדברי רש״י בד״ה \"הפורט\" משמע שהיה גורס את הפסוק \"ונתת בכסף\".",
+     "en": "The Rashash: from Rashi's comment on \"one who changes\" it seems he read the verse \"and you shall give the silver\"."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Kiddushin 1:1:9",
+     "quote": "ורבא מסיק דהיינו טעמא דרבנן אפקעוה לקדושין",
+     "he": "מלאכת שלמה על קידושין: מפנה לסוגייתנו, ורבא מסיק שהסיבה היא שחכמים הפקיעו קידושין.",
+     "en": "Melekhet Shelomoh on Kiddushin: refers to our sugya, and Rava concludes the reason is that the Sages annulled such betrothals."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    11
+   ],
+   "he": {
+    "title": "התוקע לחבירו נותן לו סלע — פלגא דזוזא",
+    "gemara": "הגמרא שואלת מה חידש רב אסי אחרי שכבר שנינו חמש סלעים של בן, ומשיבה שהחידוש הוא בכסף מדינה — המשנה \"התוקע לחבירו נותן לו סלע\" מדברת בחצי זוז. מעשה בחנן בישא שתקע לאדם, ורב הונא פסק שייתן לו חצי זוז.",
+    "halakha": "השולחן ערוך בחושן משפט: כל אלו הסלעים הם מכסף מדינה."
+   },
+   "en": {
+    "title": "One who strikes his fellow gives him a sela — half a zuz",
+    "gemara": "The Gemara asks what Rav Assi teaches, since we already learned the five sela'im of the son, and answers that his novelty is provincial silver — the mishnah \"one who strikes his fellow gives him a sela\" refers to half a zuz. A case is told of Chanan the Wicked who struck a man, and Rav Huna ruled that he give him half a zuz.",
+    "halakha": "The Shulchan Arukh in Choshen Mishpat: all these sela'im are of provincial silver."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 50b:10:1",
+     "quote": "המכה את חבירו באזנו",
+     "he": "רש״י על \"התוקע\": המכה את חבירו באוזנו.",
+     "en": "Rashi on \"hatoke'a\": one who strikes his fellow on the ear."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 50b:7",
+     "quote": "והאי סלע הוי אחד מח' בסלע דאורייתא",
+     "he": "רבינו גרשום: אותו סלע הוא אחד משמונה בסלע של תורה.",
+     "en": "Rabbeinu Gershom: that sela is one eighth of the Torah's sela."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Bava Kamma 36b:5",
+     "quote": "תנן התם התוקע לחבירו נותן לו סלע",
+     "he": "רבינו חננאל מביא את המשנה \"התוקע לחבירו נותן לו סלע\" ומבאר שזה כסף מדינה.",
+     "en": "Rabbeinu Chananel cites the mishnah \"one who strikes his fellow gives him a sela\" and explains that it is provincial silver."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, One Who Injures a Person or Property 3:9",
+     "quote": "הבועט בחבירו ברגלו משלם חמש סלעים",
+     "he": "הרמב״ם בהלכות חובל ומזיק מונה את הסכומים: הבועט בחבירו ברגלו משלם חמש סלעים.",
+     "en": "Rambam in Hilkhot Chovel U'Mazik lists the amounts: one who kicks his fellow with his foot pays five sela'im."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, One Who Injures a Person or Property 3:10",
+     "quote": "כל אלו הסלעים הם מכסף ארץ ישראל באותו הזמן",
+     "he": "הרמב״ם: כל הסלעים האלה הם מכסף ארץ ישראל באותו הזמן.",
+     "en": "Rambam: all these sela'im are from the silver of the Land of Israel of that time."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 420:42",
+     "quote": "כל אלו הסלעים הם מכסף מדינה שאין בו כסף אלא שמינית",
+     "he": "השולחן ערוך: כל הסלעים האלה הם מכסף מדינה, שאין בו כסף אלא שמינית.",
+     "en": "The Shulchan Arukh: all these sela'im are of provincial silver, which contains only an eighth of silver."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 420:41",
+     "quote": "הבועט בחבירו ברגלו משלם ה' סלעים",
+     "he": "השולחן ערוך: הבועט בחבירו ברגלו משלם חמש סלעים.",
+     "en": "The Shulchan Arukh: one who kicks his fellow with his foot pays five sela'im."
+    },
+    {
+     "who": {
+      "he": "יעב״ץ",
+      "en": "Yaavetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 50b:3",
+     "quote": "אל תהי בתוקעי כף",
+     "he": "היעב״ץ מתקן את נוסח רש״י בד״ה \"התוקע\": \"אל תהי בתוקעי כף\".",
+     "en": "The Ya'avetz corrects the text of Rashi on \"hatoke'a\" to read \"do not be among those who give a handclasp\"."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 50b:5",
+     "quote": "אל תהי בתוקעי כף וכו' כצ\"ל והוא במשלי",
+     "he": "הרש״ש: ברש״י \"אל תהי בתוקעי כף\" כך צריך להיות, והוא במשלי.",
+     "en": "The Rashash: Rashi's \"do not be among those who give a handclasp\" should read so, and it is in Mishlei."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Chullin 44b:2",
+     "quote": "ומש\"כ איסתרי סתם היינו סלעי צורי",
+     "he": "הרש״ש בחולין: מה שכתב רש״י \"איסתרי סתם\" הוא סלעי צורי.",
+     "en": "The Rashash on Chullin: what Rashi wrote, \"istari\" without qualification, is Tyrian sela'im."
+    }
+   ]
+  }
+ ]
+}
