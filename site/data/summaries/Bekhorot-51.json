@@ -1,0 +1,1418 @@
+{
+ "ref": "Bekhorot 51",
+ "date": "2026-11-08",
+ "he": {
+  "overview": "הדף עוסק בפדיון בכור אדם. בעמוד א׳ נדונים אופני הפדיון: שקלים, מעשר שני וראיון הנפדים דווקא במטבע, והמשנה שאין פודין בעבדים, שטרות, קרקעות והקדשות, והמחלוקת בין רבי לרבנן בדרשת ״ריבוי ומיעוט״ לעומת ״כלל ופרט״. בעמוד ב׳ נדונים מי שכתב לכהן שהוא חייב לו, נתינה לעשרה כהנים ומנהגם של רבי טרפון ורבי חנינא להחזיר, חיוב אחריות על הפדיון שאבד, ותחילת דין הבכור לנחלה. הראשונים והאחרונים דנים בהסבר ״מתנה על מנת להחזיר״ ובפסק ההלכה בשולחן ערוך.",
+  "title": "סיכום — בכורות נ״א"
+ },
+ "en": {
+  "overview": "The daf deals with the redemption of a human firstborn. Amud a discusses the manner of redemption: sheqalim, second tithe and the appearance-offering, which are redeemed only with a coin; the Mishnah that one does not redeem with slaves, deeds, land or sanctified property; and the dispute between Rabbi and the Rabbis between expounding by inclusion-exclusion and by general-specific. Amud b discusses one who wrote to a kohen that he owes, giving to ten kohanim and the practice of R. Tarfon and R. Chanina of returning the money, liability for a redemption that was lost, and the start of the law of the inheriting firstborn. The Rishonim and Acharonim discuss 'a gift on condition of return' and the ruling in the Shulchan Arukh.",
+  "title": "Summary — Bekhorot 51"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "מצרפין שקלים לדרבונות"
+   ],
+   "he": {
+    "term": "דרבונות",
+    "explanation": "מטבעות זהב טבועות שאליהן מותר להחליף שקלים. רש״י מסביר שזהב שאינו טבוע אינו מתאים, כי הוא עלול להוזל."
+   },
+   "en": {
+    "term": "Darbonot",
+    "explanation": "Minted gold coins into which sheqalim may be exchanged. Rashi explains that unminted gold does not qualify, since it can lose value."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51a:5:1",
+    "quote": "דרבונות הוו זהובים טבועים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "סיגה לעזרה"
+   ],
+   "he": {
+    "term": "סיגה",
+    "explanation": "כסף סיגים, המעורב במתכות אחרות. רבינו גרשום מפרש כך את דברי רב יוסף שבראיון לא יביא סיגה לעזרה."
+   },
+   "en": {
+    "term": "Sigah (dross-silver)",
+    "explanation": "Silver mixed with other metals. Rabbeinu Gershom explains Rav Yosef's teaching in this way, that for the appearance-offering one may not bring dross to the Temple court."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 51a:8",
+    "quote": "כסף סיגים מעורבב בשאר מתכות"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "ריבויי ומיעוטי"
+   ],
+   "he": {
+    "term": "ריבוי ומיעוט",
+    "explanation": "שיטת דרשה של רבי: ״ופדויו… תפדה״ מרבה, ״בערכך כסף״ ממעט, ״תפדה״ מרבה. רש״י מסביר שכאשר יש שתי כללות סמוכות מטילים את הפרט ביניהן ודנים ברבוי ומיעוט."
+   },
+   "en": {
+    "term": "Ribui u'miut (inclusion and exclusion)",
+    "explanation": "Rabbi's method of expounding: 'its redemption… you shall redeem' includes, 'at your valuation, silver' excludes, 'you shall redeem' includes. Rashi explains that when two generals are adjacent, the specific is placed between them and judged by inclusion-exclusion."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51a:17:1",
+    "quote": "אלא מטילין הפרט ביניהן ודנין אותו ברבויי ומיעוטי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "כלל ופרט וכלל"
+   ],
+   "he": {
+    "term": "כלל ופרט וכלל",
+    "explanation": "שיטת הדרשה של הרבנן. רש״י כותב שאף ש״תפדה״ כתוב לפני הפרט, דנים אותו בכלל ופרט."
+   },
+   "en": {
+    "term": "Klal u'frat u'klal (general-specific-general)",
+    "explanation": "The Rabbis' method of exposition. Rashi writes that although 'you shall redeem' is written before the specific, it is still treated as general-and-specific."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51a:12:1",
+    "quote": "אפ\"ה דיינינן ליה בכלל ופרט"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "גזירה שמא יאמרו פודין בשטר"
+   ],
+   "he": {
+    "term": "גזירה שמא יאמרו פודין בשטר",
+    "explanation": "הטעם שבנו אינו פדוי למי שכתב לכהן שהוא חייב לו. רש״י מפרש שהחשש הוא שיאמרו פודין אפילו בלי לתת כלום, או בשטר שיש לו על חברו."
+   },
+   "en": {
+    "term": "Decree lest they say one redeems with a deed",
+    "explanation": "The reason the son is not redeemed for one who wrote to the kohen that he owes. Rashi explains the concern is that people will say one redeems even by giving nothing, or by a deed held on a fellow."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51b:2:1",
+    "quote": "אפי' אין נותנין כלום אי נמי בשטר שיש לו על חבירו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "שהיה נוטל ומחזיר"
+   ],
+   "he": {
+    "term": "נוטל ומחזיר",
+    "explanation": "הכהן רשאי להחזיר לאב את החמישה סלעים, אך האב לא יתן ודעתו שיחזיר. הרמב״ם פוסק שאז אין בנו פדוי עד שיגמור בלבו מתנה גמורה."
+   },
+   "en": {
+    "term": "Takes and returns",
+    "explanation": "The kohen may return the five sela'im to the father, but the father may not give intending their return. Rambam rules that then the son is not redeemed until he decides on a full gift."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:8",
+    "quote": "וְלֹא יִתֵּן לוֹ הוּא וְדַעְתּוֹ שֶׁיַּחְזִיר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "חייב באחריותו"
+   ],
+   "he": {
+    "term": "חייב באחריותו",
+    "explanation": "מי שהפריש פדיון ואבד נשאר חייב לתת אחר. רש״י מסביר שכמו בערכין, הכסף חולין בידו עד שיבוא לידי גזבר."
+   },
+   "en": {
+    "term": "Liable for its loss (acharayut)",
+    "explanation": "One who set aside the redemption and it was lost remains liable to give another. Rashi explains that as with valuations, the money remains ordinary in his hand until it reaches the treasurer."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51b:7:2",
+    "quote": "חולין הן בידך עד שיבאו לידי גזבר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "ולא בראוי כבמוחזק"
+   ],
+   "he": {
+    "term": "ראוי ומוחזק",
+    "explanation": "״מוחזק״ הוא נכס שהיה ברשות האב בשעת מיתתו, ו״ראוי״ הוא נכס שעתיד היה ליפול לו. בראוי אין הבכור נוטל פי שנים."
+   },
+   "en": {
+    "term": "Ra'uy and muchzak (due vs. in hand)",
+    "explanation": "'In hand' is property in the father's possession at his death; 'due' is property that was destined to come to him. In what is due, the firstborn does not take a double share."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 51b:12:3",
+    "quote": "אבל ראויין היו ליפול לו בירושה ונפלו להן לאחר זמן אין הבכור נוטל פי שנים בהן"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "״וכולם בשקל הקודש״: למה חוזרים ושונים זאת",
+    "gemara": "הגמרא דנה בדינר שנפחתה צורתו, ואחר כך שואלת למה צריך לשנות ״וכולם בשקל הקודש״ אחרי שכבר נאמר ״מנה צורי״. מתרצת שבאונס ומוציא שם רע לא כתוב ״שקלים״, ובא התנא ללמד שהם נלמדים זה מזה."
+   },
+   "en": {
+    "title": "Why the Mishnah repeats that all are in the sheqel of the Sanctuary",
+    "gemara": "The Gemara treats a dinar whose image has worn off, then asks why the Mishnah must add that all are in the sheqel of the Sanctuary after it already said the Tyrian maneh. It answers that for the rapist and the slanderer 'sheqalim' is not written, so the Mishnah teaches that they are learned from each other."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:1:2",
+     "quote": "לא היה הדינר שקול ושוה לו כלום",
+     "he": "רש״י מוסיף שמטבע כזה לא היה נלקח בעיר להוצאה ולא היה שוה כלום.",
+     "en": "Rashi adds that such a coin would not be taken in town for spending and was worth nothing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:3:1",
+     "quote": "למיתני האי וכולם בשקל הקודש",
+     "he": "רש״י: האונס ומוציא שם רע הצריכו את התנא לשנות ״וכולם בשקל הקודש״, כי בהם לא כתוב ״שקל״ והיינו סוברים שדי בדינרים צוריים.",
+     "en": "Rashi: the rapist and slanderer require the Mishnah to teach 'all in the sheqel of the Sanctuary', since sheqel is not written for them and one might think Tyrian dinars suffice."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:2",
+     "quote": "דהדר ותני וכולן בשקל הקדש במנה דצורי",
+     "he": "רבינו גרשום מבאר שהשאלה היא למה חזר התנא ושנה שכולן בשקל הקדש אחרי המנה הצורי.",
+     "en": "Rabbeinu Gershom explains that the question is why the Mishnah repeated that all are in the sheqel of the Sanctuary after the Tyrian maneh."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:3",
+     "quote": "מאי פדייה אית בהו",
+     "he": "רבינו גרשום מבאר את קושיית הגמרא על לשון ״נפדין״ בעבד, אונס, מפתה ומוציא שם רע: איזו פדייה יש בהם.",
+     "en": "Rabbeinu Gershom explains the Gemara's difficulty with the word 'redeemed' for the slave, rapist, seducer and slanderer: what redemption is there in them."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 51a:1",
+     "quote": "מצריכינן גז\"ש לר\"ע והקיש לריה\"ג למילף שקלים לאונס ממפתה",
+     "he": "הרש״ש מעיר על דברי רש״י שהסוגיה בכתובות מצריכה גזירה שווה לרבי עקיבא והיקש לרבי יהודה הגלילי כדי ללמוד שקלים באונס ממפתה.",
+     "en": "Rashash remarks on Rashi that in Ketubot a gezerah shavah is required for R. Akiva and a hekesh for R. Yehudah HaGelili to learn sheqalim for the rapist from the seducer."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    6
+   ],
+   "he": {
+    "title": "חוץ מן השקלים, מעשר שני והראיון: רק מטבע",
+    "gemara": "הברייתא שונה שכל הנפדין נפדים בכסף ובשווה כסף חוץ משקלים, מעשר והראיון. השקלים נלמדים ממשנה שמצרפים אותם לדרכונות, המעשר מ״וצרת הכסף״, והראיון מדברי רב יוסף שלא יביא סיגה לעזרה."
+   },
+   "en": {
+    "title": "Except sheqalim, second tithe and the appearance-offering: only a coin",
+    "gemara": "The baraita teaches that whatever is redeemed may be redeemed with money or its worth, except sheqalim, tithe and the appearance-offering. Sheqalim are derived from the Mishnah allowing them to be exchanged for darkonot, tithe from 'and you shall bind up the money', and the appearance-offering from Rav Yosef's teaching not to bring dross to the Temple court."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:5:1",
+     "quote": "דרבונות הוו זהובים טבועים",
+     "he": "רש״י: הדרבונות הם זהובים טבועים, ולא שאר זהב שאינו טבוע.",
+     "en": "Rashi: the darbonot are minted gold coins, not other gold that is unminted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:5:1",
+     "quote": "והוא הדין לכל שוה כסף שמא יזול ונמצא הקדש מפסיד",
+     "he": "רש״י מביא את טעם מסכת שקלים, שמא תיזול מרגלית, ומוסיף שהוא הדין לכל שווה כסף, שמא יוזל ויפסיד ההקדש.",
+     "en": "Rashi cites the reason of tractate Shekalim, lest a pearl lose value, and adds that the same applies to any money's-worth, lest it drop and the Sanctuary lose out."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:6:1",
+     "quote": "דבר שיש עליו צורה",
+     "he": "רש״י מפרש ״וצרת הכסף״ כדבר שיש עליו צורה.",
+     "en": "Rashi explains 'and you shall bind up the money' as something with an image on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:4:1",
+     "quote": "הראייה שתי כסף והנך שתי כסף טבועות בעינן",
+     "he": "רש״י: עולת ראייה נקנית בשתי מעות כסף, ואלה צריכות להיות טבועות.",
+     "en": "Rashi: the appearance-offering is bought with two silver ma'ot, and these must be minted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:6:2",
+     "quote": "כסף סיגים אלא טבוע",
+     "he": "רש״י גורס ״שלא יביא סיגה״ ומפרש: כסף סיגים, אלא טבוע.",
+     "en": "Rashi's text reads 'that he not bring dross' and explains: dross-silver, only minted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51a:6:1",
+     "quote": "זימנין דמייתי נסכא וכסף סיגים שלא ישוה שתי מעות כסף",
+     "he": "התוספות מקשים על גרסת רש״י ומפרשים שאם יביא שווה כסף, פעמים שיביא נסכא או כסף סיגים שלא שווה שתי מעות כסף.",
+     "en": "Tosafot question Rashi's reading and explain that if he brought money's-worth he might bring a lump or dross-silver not worth two silver ma'ot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:4",
+     "quote": "חוץ מן השקלים דאין נפדין בשוה כסף",
+     "he": "רבינו גרשום: כל הנפדין, כגון בכור והקדש, נפדים בכסף ובשווה כסף, חוץ מן השקלים.",
+     "en": "Rabbeinu Gershom: whatever is redeemed, such as a firstborn or sanctified items, is redeemed with money or its worth, except sheqalim."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:5",
+     "quote": "הגזבר יכול לחלף השקלים בדרכונות זהב",
+     "he": "רבינו גרשום מסביר שבאחד באדר מכריזים על השקלים והגזבר רשאי להחליפם בדרכוני זהב.",
+     "en": "Rabbeinu Gershom explains that on the first of Adar the sheqalim are announced and the treasurer may exchange them for gold darkonot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:8",
+     "quote": "כסף סיגים מעורבב בשאר מתכות",
+     "he": "רבינו גרשום מפרש סיגה ככסף סיגים המעורב בשאר מתכות.",
+     "en": "Rabbeinu Gershom explains sigah as dross-silver mixed with other metals."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 4:9",
+     "quote": "אֵין פּוֹדִין פֵּרוֹת מַעֲשֵׂר אֶלָּא בְּכֶסֶף שֶׁנֶּאֱמַר",
+     "he": "הרמב״ם פוסק שאין פודים פירות מעשר אלא בכסף מטבע, מ״וצרת הכסף״.",
+     "en": "Rambam rules that tithe produce is redeemed only with money, from 'and you shall bind up the money'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Festival Offering 1:3",
+     "quote": "לֹא יָבִיא שְׁוֵה כֶּסֶף",
+     "he": "הרמב״ם: מי שעולה לרגל ואין בידו כסף לא יביא שווה כסף, מחשש שלא ימצא למכור או שהמעות יימצאו סיגים.",
+     "en": "Rambam: one going up for the festival without money may not bring money's-worth, out of concern that he cannot sell or that the coins prove to be dross."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Kiddushin 27a:12:1",
+     "quote": "דכתיב בהו כסף הקדש דכתיב ונתן הכסף וקם לו ומעשר שני דכתיב וצרת הכסף דבר שיש בו צורה היינו מטבע",
+     "he": "רש״י בקידושין מזכיר שמעשר שני נלמד מ״וצרת הכסף״, דבר שיש בו צורה, היינו מטבע.",
+     "en": "Rashi in Kiddushin notes that second tithe is learned from 'and you shall bind up the money', something with an image, meaning a coin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Shekalim 2:1:2",
+     "quote": "לדרכונות דוקא יכולין להחליפן ולא לשאר זהב שאינו טבוע",
+     "he": "המלאכת שלמה מביא את סוגייתנו: רק לדרכונות יכולים להחליף ולא לשאר זהב שאינו טבוע.",
+     "en": "Melekhet Shelomoh cites our passage: they may be exchanged only for darkonot, not for other unminted gold."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Mishnah Bekhorot 8:7:2",
+     "quote": "דשקלים הוא דוקא מטבע של כסף",
+     "he": "הרש״ש מסביר למה המשנה מזכירה רק שקלים: שקלים הם דווקא מטבע של כסף.",
+     "en": "Rashash explains why the Mishnah mentions only sheqalim: sheqalim are specifically a silver coin."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Annotations of Minchat Chinukh on Mishneh Torah, Festival Offering 1:3:1",
+     "quote": "דאף נסכא כסף לא יביא רק מטבע",
+     "he": "הערות מנחת חינוך מפנות לגמרא כאן: אפילו נסכא של כסף לא יביא, רק מטבע.",
+     "en": "Annotations of Minchat Chinukh point to our Gemara: one may not even bring a lump of silver, only a coin."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 46:27",
+     "quote": "משמע שצריך להביאו עמו לעזרה",
+     "he": "המפרש על ספר המצוות לרס״ג לומד מדברי רב יוסף ״שלא יביא סיגה לעזרה״ שצריך להביא את הקרבן עמו לעזרה.",
+     "en": "The commentator on Rasag's Sefer Hamitzvot learns from Rav Yosef's 'that he not bring dross to the court' that the offering must be brought with him into the court."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    8
+   ],
+   "he": {
+    "title": "המשנה: אין פודין בעבדים, בשטרות ובקרקעות; כתב לכהן",
+    "gemara": "המשנה קובעת שאין פודין בכור אדם בעבדים, בשטרות, בקרקעות ובהקדשות. מי שכתב לכהן שהוא חייב לו חמישה סלעים חייב לתת, ובנו אינו פדוי, ואם רצה הכהן לתת לו במתנה רשאי.",
+    "halakha": "נותנים לכהן בכסף או בשווה כסף, חוץ מקרקעות, עבדים ושטרות; כתב לכהן שהוא חייב לו, חייב לתת ובנו אינו פדוי (שולחן ערוך יורה דעה שה:ג-ד)."
+   },
+   "en": {
+    "title": "The Mishnah: no redeeming with slaves, deeds or land; one who wrote to a kohen",
+    "gemara": "The Mishnah states that a firstborn son is not redeemed with slaves, deeds, land or sanctified property. One who wrote to a kohen that he owes five sela'im must pay, and his son is not redeemed; if the kohen wishes to give it back as a gift he may.",
+    "halakha": "The five sela'im are given in money or its worth, except land, slaves and deeds; one who wrote to a kohen that he owes it must give and his son is not redeemed (Shulchan Arukh, Yoreh De'ah 305:3-4)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:7:2",
+     "quote": "ונתנו לכהן שיגבה אותו חוב בפדיון בנו אינו פדוי",
+     "he": "רש״י: אם יש לו שטר על חברו ונתנו לכהן שיגבה את החוב בפדיון בנו, אינו פדוי.",
+     "en": "Rashi: if he has a deed on a fellow and gave it to the kohen to collect in redemption of his son, he is not redeemed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:7:6",
+     "quote": "אם רצה הכהן לתנם ולהחזירם לו במתנה רשאי אבל תקנתא אחריתי ליכא",
+     "he": "רש״י: אם רצה הכהן לתתם ולהחזירם לו במתנה רשאי, אבל תקנה אחרת אין.",
+     "en": "Rashi: if the kohen wishes to give them and return them as a gift he may, but there is no other remedy."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:8:1",
+     "quote": "כשיהיה לך הפדיון אז יהיה פדוי",
+     "he": "רש״י על ״יהיה לך ופדה תפדה״: כשיהיה לך הפדיון, אז יהיה פדוי.",
+     "en": "Rashi on 'it shall be yours' and 'you shall surely redeem': when the redemption is yours, then it is redeemed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:9",
+     "quote": "שאין יכול ליתן לכהן שטר חוב שיש לו על אחרים בשביל פדיון הבן",
+     "he": "רבינו גרשום: אי אפשר לתת לכהן שטר חוב שיש לו על אחרים בשביל פדיון הבן.",
+     "en": "Rabbeinu Gershom: one cannot give a kohen a debt-deed he holds on others for the redemption of the son."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51a:11",
+     "quote": "אם רצה הכהן ליתן לו מתנה אותן ה' סלעים שקבל ממנו רשאי",
+     "he": "רבינו גרשום: הואיל והכסף ממון הכהן, רשאי להחזיר לו במתנה את החמישה סלעים שקיבל.",
+     "en": "Rabbeinu Gershom: since the money is the kohen's, he may give back as a gift the five sela'im he received."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51a:7:1",
+     "quote": "ור\"ת מפרש כגון שבא לחייב עצמו באותו שטר אע\"פ שאינו חייב לו כלום",
+     "he": "התוספות מביאים את רבנו תם שמפרש במשנה שבא לחייב עצמו בשטר אף שאינו חייב כלום, ומפנים לסוגיה בכתובות.",
+     "en": "Tosafot cite Rabbeinu Tam, who explains that he came to obligate himself by the deed though he owed nothing, and refer to the discussion in Ketubot."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:6",
+     "quote": "לְפִיכָךְ אֵין פּוֹדִין בְּקַרְקָעוֹת וְלֹא בַּעֲבָדִים מִפְּנֵי שֶׁהֵן כְּקַרְקָעוֹת וְלֹא בִּשְׁטָרוֹת לְפִי שֶׁאֵין גּוּפָן מָמוֹן",
+     "he": "הרמב״ם: אין פודין בקרקעות ולא בעבדים כי הם כקרקעות ולא בשטרות כי אין גופן ממון.",
+     "en": "Rambam: one does not redeem with land or slaves, which are like land, nor with deeds, whose substance is not money."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:7",
+     "quote": "כָּתַב הָאָב לַכֹּהֵן שֶׁהוּא חַיָּב לוֹ חֲמִשָּׁה סְלָעִים חַיָּב לִתֵּן לוֹ וּבְנוֹ אֵינוֹ פָּדוּי",
+     "he": "הרמב״ם פוסק כמשנה: אב שכתב לכהן שהוא חייב לו חמישה סלעים חייב לתת, ובנו אינו פדוי.",
+     "en": "Rambam rules as the Mishnah: a father who wrote to a kohen that he owes five sela'im must give, and his son is not redeemed."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Ketubot 102a:1",
+     "quote": "שמא יאמרו פודין בשטר חוב שיש לו על אחר",
+     "he": "המאירי: אמרו שבנו אינו פדוי מגזרה שמא יאמרו שפודים בשטר חוב שיש לו על אחר.",
+     "en": "Meiri: they said his son is not redeemed as a decree, lest people say one redeems with a debt-deed he holds on another."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Kiddushin 5a:1",
+     "quote": "אלמא אפילו דבר תורה אינו פדוי עכשיו אלא לכשיתן",
+     "he": "הרשב״א מביא את דברי עולא וגורס מהם שאפילו מן התורה אינו פדוי עכשיו אלא לכשיתן.",
+     "en": "Rashba cites Ulla and concludes that even by Torah law the son is not redeemed now but only when he gives."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 305",
+     "quote": "אם כתב לכהן שטר חוב על עצמו בחמשה סלעים בשביל פדיון בנו חייב ליתנם לו ואפילו הכי אין בנו פדוי",
+     "he": "הטור: אם כתב לכהן שטר חוב על עצמו בחמישה סלעים בשביל פדיון בנו, חייב ליתנם ואפילו הכי אין בנו פדוי.",
+     "en": "Tur: if he wrote the kohen a debt-deed on himself for five sela'im for his son's redemption, he must pay them and even so his son is not redeemed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 51a:6",
+     "quote": "פרש\"י בזה דחוק",
+     "he": "הרש״ש כותב שפירוש רש״י ל״לפיכך״ במשנה דחוק, ומציע הסבר לפי משנה בתרומות.",
+     "en": "Rashash writes that Rashi's explanation of 'therefore' in the Mishnah is forced, and proposes a reading based on a Mishnah in Terumot."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:3",
+     "quote": "חוץ מקרקעות ועבדים ושטרות ואם פדהו בהם אינו פדוי",
+     "he": "השולחן ערוך: נותנים לכהן בכסף או בשווה כסף מכל דבר, חוץ מקרקעות, עבדים ושטרות, ואם פדהו בהם אינו פדוי.",
+     "en": "Shulchan Arukh: the five sela'im are given in money or its worth of anything, except land, slaves and deeds, and if he redeemed with them he is not redeemed."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:4",
+     "quote": "כתב לכהן שהוא חייב לו חמשה סלעים בשביל פדיון בנו חייב ליתנם לו ובנו אינו פדוי",
+     "he": "השולחן ערוך פוסק כמשנה שכתב לכהן שהוא חייב לו חמישה סלעים חייב ליתנם ובנו אינו פדוי.",
+     "en": "Shulchan Arukh rules as the Mishnah: one who wrote to the kohen that he owes five sela'im must give them and his son is not redeemed."
+    },
+    {
+     "who": {
+      "he": "פלתי",
+      "en": "Peleti"
+     },
+     "ref": "Peleti on Shulchan Arukh, Yoreh De'ah 84:2",
+     "quote": "אמרינן במשנה דאין פודין לא בקרקעות ועבדים ולא בשטרות",
+     "he": "הפלתי מביא את קושיית הפרי חדש מסוגייתנו, שאומרת במשנה שאין פודין בקרקעות, עבדים ושטרות.",
+     "en": "Peleti brings the Peri Chadash's difficulty from our passage, which says in the Mishnah that one does not redeem with land, slaves or deeds."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Forbidden Foods 2:18:1",
+     "quote": "בגמרא מתניתין דלא כרבי דתניא רבי אומר בכל פודין את בכור האדם חוץ מן השטרות",
+     "he": "המעשה רקח מצטט את הגמרא: המשנה אינה כרבי, שאמר שבכל פודין בכור אדם חוץ מן השטרות.",
+     "en": "Maaseh Rokeach quotes the Gemara: the Mishnah is not like Rabbi, who said one redeems a human firstborn with anything except deeds."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    19
+   ],
+   "he": {
+    "title": "מחלוקת רבי ורבנן: ריבוי ומיעוט או כלל ופרט",
+    "gemara": "המשנה אינה כרבי, שפודה בכל חוץ משטרות, כי דורש ריבוי ומיעוט. רבנן דורשים כלל ופרט וכלל ומוציאים קרקעות, עבדים ושטרות. רבינא מקשה מהמרצע, והגמרא מיישבת שכאן רבי הולך כתנא דבי רבי ישמעאל, ורבנן כמו שאמרו במערבא."
+   },
+   "en": {
+    "title": "Rabbi and the Rabbis: inclusion-and-exclusion or general-and-specific",
+    "gemara": "The Mishnah is not like Rabbi, who allows redemption with anything except deeds, since he expounds inclusions and exclusions. The Rabbis expound general-specific-general and exclude land, slaves and deeds. Ravina objects from the awl, and the Gemara answers that here Rabbi follows the school of R. Yishmael, and the Rabbis follow what was said in the West."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:10:1",
+     "quote": "כסף ולא מידי אחרינא",
+     "he": "רש״י: ״בערכך כסף חמשת שקלים״ ממעט כסף ולא דבר אחר.",
+     "en": "Rashi: 'at your valuation, silver, five sheqalim' excludes anything other than silver."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:11:1",
+     "quote": "דלא חשיבי מידי",
+     "he": "רש״י: מה שמיעט רבי הוא שטרות, כי אינם חשובים כלום.",
+     "en": "Rashi: what Rabbi excluded is deeds, since they are not of any worth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:12:1",
+     "quote": "אפ\"ה דיינינן ליה בכלל ופרט",
+     "he": "רש״י: אף ש״תפדה״ כתוב לפני הפרט, דנים אותו בכלל ופרט.",
+     "en": "Rashi: though 'you shall redeem' is written before the specific, it is still treated as general-and-specific."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:16:2",
+     "quote": "מה הפרט מפורש של מתכת אף כל של מתכת",
+     "he": "רש״י מפרש מחלוקת המרצע: רבי דורש כלל ופרט וכלל, ולכן רק דבר של מתכת.",
+     "en": "Rashi explains the awl dispute: Rabbi expounds general-specific-general, so only something of metal."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:17:1",
+     "quote": "אלא מטילין הפרט ביניהן ודנין אותו ברבויי ומיעוטי",
+     "he": "רש״י מסביר ש״במים במים״ שתי כללות סמוכות, ולכן מטילים את הפרט ביניהן ודנים ברבוי ומיעוט, וכך כאן ב״ופדויו… תפדה״.",
+     "en": "Rashi explains that 'in the water… in the water' are two adjacent generals, so the specific is placed between them and judged by inclusion-exclusion, and so here with 'its redemption… you shall redeem'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51a:19:1",
+     "quote": "סברי כדאמרינן במערבא",
+     "he": "רש״י: הרבנן שדורשים כלל ופרט סוברים כפי שאמרו במערבא.",
+     "en": "Rashi: the Rabbis, who expound general-specific, hold as was said in the West."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פלתי",
+      "en": "Peleti"
+     },
+     "ref": "Peleti on Shulchan Arukh, Yoreh De'ah 84:2",
+     "quote": "בגמ' הואיל וכתיב במים במים",
+     "he": "הפלתי מקשר את מחלוקת ריבוי ומיעוט וכלל ופרט בדין חריצים ונעיצים לסוגייתנו ולפסק הרמב״ם.",
+     "en": "Peleti links the dispute between inclusion-exclusion and general-specific in the law of ditches and pits to our passage and to Rambam's ruling."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Forbidden Foods 2:18:1",
+     "quote": "תנא דבי ר' ישמעאל דריש התם במים במים ב' פעמים אין זה כלל ופרט אלא ריבה ומיעט",
+     "he": "המעשה רקח מקשה על הרמב״ם: אם פסק כתנא דבי רבי ישמעאל במים, היה צריך לפסוק גם כאן כרבי.",
+     "en": "Maaseh Rokeach challenges Rambam: if he ruled like the school of R. Yishmael on the water case, he should have ruled here like Rabbi."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    20,
+    1
+   ],
+   "he": {
+    "title": "״ולא בהקדשות״: הקדש אינו נפדה בכל אלו",
+    "gemara": "הגמרא מקשה שמשנה זו פשוטה שהקדשות אינן ממונו של האב, ומתרצת שהכוונה שגם הקדשות אינן נפדות בכל אלו, כלומר בעבדים, בשטרות ובקרקעות."
+   },
+   "en": {
+    "title": "'Nor with sanctified property': hekdesh too is not redeemed with these",
+    "gemara": "The Gemara asks that it is obvious that sanctified property is not the father's, and answers that the Mishnah means sanctified property too is not redeemed with all of these."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:1:1",
+     "quote": "והתם נפקא לן מקראי בתורת כהנים בפרשת ערכין",
+     "he": "רש״י: שאין הקדשות נפדים בעבדים, שטרות וקרקעות נלמד בתורת כהנים בפרשת ערכין.",
+     "en": "Rashi: that sanctified property is not redeemed with slaves, deeds or land is learned in Torat Kohanim in the section on valuations."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51a:20:1",
+     "quote": "בפרשת ואם בחקותי דריש מוכל ערכך יהיה בשקל הקדש",
+     "he": "התוספות: בתורת כהנים בפרשת בחקותי נלמד זאת מ״וכל ערכך יהיה בשקל הקדש״, ואין הגמרא מביאה תמיד את עיקר הדרשה.",
+     "en": "Tosafot: in Torat Kohanim in Bechukotai this is learned from 'every valuation shall be in the sheqel of the Sanctuary', and the Gemara does not always cite the primary source."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:1",
+     "quote": "משום דכתיב בהקדשות כסף דכתיב ונתן את הכסף וקם לו",
+     "he": "רבינו גרשום: הקדשות נלמדות מכך שנאמר בהן כסף: ״ונתן את הכסף וקם לו״.",
+     "en": "Rabbeinu Gershom: sanctified property is learned from the fact that money is written for it: 'and he shall give the money and it shall be his'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 7:1",
+     "quote": "הַהֶקְדֵּשׁוֹת אֵין פּוֹדִין אוֹתָן לֹא בְּקַרְקַע",
+     "he": "הרמב״ם פוסק שהקדשות אין פודים אותן בקרקע, בעבדים ובשטרות.",
+     "en": "Rambam rules that sanctified property is not redeemed with land, slaves or deeds."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Pesachim 35b:16:1",
+     "quote": "ונראה לר\"י דילפינן בכלל ופרט וכלל",
+     "he": "התוספות בפסחים: לרבי יצחק נלמד בכלל ופרט וכלל, ומוכח מסוגייתנו שבבכור לומדים כך.",
+     "en": "Tosafot in Pesachim: R. Yitzchak holds it is learned by general-specific-general, which is evident from our passage on the firstborn."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Kiddushin 5a:1",
+     "quote": "אבל שטר אין פודין בו הקדשות",
+     "he": "הרשב״א מביא שאין פודים הקדשות בשטר, ומפרש שהכוונה לשטר על הקדש עצמו.",
+     "en": "Rashba cites that sanctified property is not redeemed with a deed, and explains it to mean a deed written on the sanctified item itself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 88:1",
+     "quote": "לא בקרקע ועבדים ושטרות",
+     "he": "המלבי״ם: ״ונתן הכסף וקם לו״ בא ללמד שלא יפדנו אלא בכסף, לא בקרקע, עבדים ושטרות.",
+     "en": "Malbim: 'and he shall give the money and it shall stand' teaches that one redeems only with money, not land, slaves or deeds."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    6
+   ],
+   "he": {
+    "title": "בנו פדוי לכשיתן; נתן לעשרה כהנים; רבי טרפון ורבי חנינא",
+    "gemara": "עולא: מן התורה בנו פדוי, וטעם ״אין בנו פדוי״ גזירה שמא יאמרו פודין בשטר. רב נחמן: הלכה שאין בנו פדוי. הברייתא: נתנו לעשרה כהנים יצא, ונטלו והחזירו יצא, וכך נהג רבי טרפון. רבי חנינא אמר למי שהלך ובא לפניו שלא גמר ונתן, ולכן אין בנו פדוי.",
+    "halakha": "פדיון הבן: נתן חמישה סלעים אפילו לעשרה כהנים בנו פדוי; נתן ודעתו שיחזיר אין בנו פדוי עד שיגמור בלבו מתנה גמורה (שולחן ערוך יורה דעה שה:ז-ח)."
+   },
+   "en": {
+    "title": "The son is redeemed upon giving; ten kohanim; R. Tarfon and R. Chanina",
+    "gemara": "Ulla: by Torah law his son is redeemed, and the reason for 'his son is not redeemed' is a decree lest people say one redeems with a deed. Rav Nachman: the halakha is that his son is not redeemed. The baraita: if he gave to ten kohanim he fulfilled, and if the kohen took and returned it he fulfilled, as R. Tarfon did. R. Chanina told a man who kept coming before him that he had not given fully, so his son is not redeemed.",
+    "halakha": "If he gave five sela'im even to ten kohanim his son is redeemed; if he gave intending its return his son is not redeemed until he decides on a full gift (Shulchan Arukh, Yoreh De'ah 305:7-8)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:2:1",
+     "quote": "אפי' אין נותנין כלום אי נמי בשטר שיש לו על חבירו",
+     "he": "רש״י: ״שמא יאמרו פודין בשטרות״ היינו אפילו כשאין נותנים כלום, או בשטר שיש לו על חברו.",
+     "en": "Rashi: 'lest they say one redeems with deeds' means even when they give nothing, or with a deed one holds on a fellow."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:3:1",
+     "quote": "שהרי נתן הפדיון",
+     "he": "רש״י: בנו פדוי לכשיתן, שהרי כבר נתן הפדיון.",
+     "en": "Rashi: his son is redeemed when he gives, since he already gave the redemption."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:4:1",
+     "quote": "שהניח לפני כולן חמש סלעים והלך לו",
+     "he": "רש״י מפרש ״בבת אחת״ שהניח לפני כולם חמישה סלעים והלך.",
+     "en": "Rashi explains 'at once' as placing five sela'im before all of them and leaving."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:4:2",
+     "quote": "ולכהן אחר הכי תניא ליה בתוספתא",
+     "he": "רש״י מפרש ״בזה אחר זה״ שנתנו לכהן אחד אחר כך, ושנוי בתוספתא.",
+     "en": "Rashi explains 'one after another' as giving to another kohen afterwards, and says it is taught in the Tosefta."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:6:3",
+     "quote": "לא גמרת ונתת נתינה גמורה אלא כדי שאחזירם לך",
+     "he": "רש״י: רבי חנינא אמר שלא נתן נתינה גמורה אלא כדי שיחזיר לו.",
+     "en": "Rashi: R. Chanina said he had not given a full gift but so that it would be returned to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:6:4",
+     "quote": "אפילו לא אחזירם אין בנך פדוי",
+     "he": "רש״י מביא לשון אחר: אפילו לא החזירם אין בנו פדוי.",
+     "en": "Rashi brings another version: even if he did not return it, his son is not redeemed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51b:2:1",
+     "quote": "לכאורה משמע בריש הנושא (כתובות דף קא:) דליתא לדעולא אלא לריש לקיש",
+     "he": "התוספות: מכתובות נראה שעולא כריש לקיש בלבד, ומיישבים שהוא גם לרבי יוחנן.",
+     "en": "Tosafot: from Ketubot it seems Ulla holds like Resh Lakish only, and they reconcile it also with R. Yochanan."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51b:3:1",
+     "quote": "דאפילו זקפם עליו במלוה לא הוה כאילו קבלם הכהן",
+     "he": "התוספות: המשנה באה ללמד שאפילו זקף עליו במלווה לא נחשב כאילו קיבלם הכהן והלווה לו.",
+     "en": "Tosafot: the Mishnah teaches that even if he recorded it as a loan, it is not as if the kohen received and lent it back."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51b:6:1",
+     "quote": "ויש לפרש מידעם לשון מאומה",
+     "he": "התוספות מפרשים ״מידעם״ כלשון מאומה, כלומר לא נתן כלום נתינה גמורה.",
+     "en": "Tosafot explain 'midam' as meaning 'anything', that he did not give anything fully."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51b:6:2",
+     "quote": "נראה ככהן המסייע בבית הגרנות",
+     "he": "התוספות מיישבים למה אינו כמתנה על מנת להחזיר: רבי חנינא רצה רק מתנה גמורה כדי שלא ייראה ככהן המסייע בבית הגרנות.",
+     "en": "Tosafot reconcile with a gift on condition of return: R. Chanina wanted only a full gift so as not to appear as a kohen helping at the threshing floors."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:3",
+     "quote": "לכל חד חצי סלע בבת אחת יצא שהרי נתן ה' סלעים כולן",
+     "he": "רבינו גרשום מפרש שנתן לעשרה כהנים חצי סלע לכל אחד, ויצא כי נתן את כל החמישה סלעים.",
+     "en": "Rabbeinu Gershom explains he gave ten kohanim a half sela each and fulfilled, since he gave all five sela'im."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:5",
+     "quote": "שגילה לכל דהלכה כן דרשאי להחזיר",
+     "he": "רבינו גרשום: מנהג רבי טרפון גילה לכל שהלכה כן, שרשאי להחזיר.",
+     "en": "Rabbeinu Gershom: R. Tarfon's practice revealed to all that the halakha is that one may return it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:8",
+     "quote": "חזינא בדעתך דלא גמרת בדעתך",
+     "he": "רבינו גרשום מבאר את דברי רבי חנינא: ראה בדעתו שלא גמר בלבו, ולכן אם יחזיר לא יהיה בנו פדוי.",
+     "en": "Rabbeinu Gershom explains R. Chanina's words: he saw that the man had not decided fully, so if he returned it his son would not be redeemed."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:10:3",
+     "quote": "גזירה שמא יאמרו פודין בשטרות",
+     "he": "הרא״ש מביא את דברי עולא שטעם ״אין בנו פדוי״ הוא גזירה שמא יאמרו פודין בשטרות, ופוסק שהלכה שאין בנו פדוי.",
+     "en": "The Rosh cites Ulla that the reason is a decree lest people say one redeems with deeds, and rules that the halakha is that his son is not redeemed."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:8",
+     "quote": "וְלֹא יִתֵּן לוֹ הוּא וְדַעְתּוֹ שֶׁיַּחְזִיר",
+     "he": "הרמב״ם: הכהן רשאי להחזיר, אך האב לא יתן ודעתו שיחזיר, ואם עשה כן אין בנו פדוי עד שיגמור בלבו מתנה גמורה.",
+     "en": "Rambam: the kohen may return it, but the father may not give intending that it be returned, and if so his son is not redeemed until he decides on a full gift."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:8",
+     "quote": "וְכֵן אִם פֵּרֵשׁ וְנָתַן לוֹ עַל מְנָת לְהַחְזִיר הֲרֵי בְּנוֹ פָּדוּי",
+     "he": "הרמב״ם: אם פירש ונתן על מנת להחזיר, בנו פדוי.",
+     "en": "Rambam: if he stated explicitly that he gave on condition of return, his son is redeemed."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 119:1",
+     "quote": "מתנה על מנת להחזיר שמיה מתנה בפדיון הבן",
+     "he": "פסקי תוספות: מתנה על מנת להחזיר נחשבת מתנה בפדיון הבן.",
+     "en": "Piskei Tosafot: a gift on condition of return counts as a gift in the redemption of a son."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 120:1",
+     "quote": "לא היו מחזירין אלא לעניים",
+     "he": "פסקי תוספות: רבי טרפון ורבי חנינא לא היו מחזירים אלא לעניים.",
+     "en": "Piskei Tosafot: R. Tarfon and R. Chanina returned it only to the poor."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Kiddushin 6b:9",
+     "quote": "וקשיא לן בפדיון הבן היאך בנו פדוי",
+     "he": "הריטב״א מקשה על מתנה על מנת להחזיר: איך בנו פדוי בפדיון הבן, הרי נאמר בבכורות שהכהן רשאי להחזיר.",
+     "en": "Ritva asks regarding a gift on condition of return: how is the son redeemed in the redemption of a son, given what Bekhorot says about the kohen returning it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 305:15:1",
+     "quote": "ומיהו לא יהא רגיל להחזירם לכל",
+     "he": "הבית יוסף מביא שהכהן לא יהיה רגיל להחזיר לכל אחד.",
+     "en": "Beit Yosef cites that the kohen should not be accustomed to return it to everyone."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 305:10:1",
+     "quote": "לפי זה משמע דלעשרה כהנים בזה אחר זה לא יצא",
+     "he": "הב״ח: לפי רש״י משמע שבעשרה כהנים בזה אחר זה לא יצא, אבל הטור הלך אחר הרמב״ם שפירש שיצא.",
+     "en": "Bach: according to Rashi it seems that with ten kohanim one after another he did not fulfill, but the Tur followed Rambam, who explained that he did."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:7",
+     "quote": "נתן ה' סלעים אפילו לעשרה כהנים בין בבת אחת בין בזה אחר זה בנו פדוי",
+     "he": "השולחן ערוך פוסק שנתן חמישה סלעים אפילו לעשרה כהנים, בבת אחת או בזה אחר זה, בנו פדוי.",
+     "en": "Shulchan Arukh rules that if he gave five sela'im even to ten kohanim, at once or one after another, his son is redeemed."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:8",
+     "quote": "אין בנו פדוי עד שיגמור בלבו ליתן לו מתנה גמורה",
+     "he": "השולחן ערוך: אם נתן ודעתו שיחזיר, אין בנו פדוי עד שיגמור בלבו מתנה גמורה, ואם פירש על מנת להחזיר בנו פדוי.",
+     "en": "Shulchan Arukh: if he gave intending its return, his son is not redeemed until he decides on a full gift, but if he stated 'on condition of return' his son is redeemed."
+    },
+    {
+     "who": {
+      "he": "שפתי כהן",
+      "en": "Siftei Kohen"
+     },
+     "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 305:8:1",
+     "quote": "כיון דלא גמר בלבו שעה אחת לשם מתנה אין בנו פדוי",
+     "he": "השפתי כהן מסביר שכל עוד לא גמר בלבו שעה אחת לשם מתנה, אין בנו פדוי.",
+     "en": "Siftei Kohen explains that as long as he did not decide in his heart for even a moment on a gift, his son is not redeemed."
+    },
+    {
+     "who": {
+      "he": "מגן אבות",
+      "en": "Magen Avot"
+     },
+     "ref": "Magen Avot on Avot 2:15:1",
+     "quote": "ובפרק יש בכור אמרו עליו שהיה נוטל פדיון הבן ומחזירו",
+     "he": "המגן אבות מביא שבפרק יש בכור אמרו על רבי טרפון שהיה נוטל פדיון הבן ומחזירו.",
+     "en": "Magen Avot cites that in our chapter they said of R. Tarfon that he would take the redemption of a son and return it."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    11
+   ],
+   "he": {
+    "title": "המפריש פדיון בנו ואבד חייב באחריותו",
+    "gemara": "המשנה: המפריש פדיון בנו ואבד חייב באחריותו. ריש לקיש לומד מגזרה שווה ״ערך״ ״ערך״ מערכין, ורבי יונתן מ״ריקם״ ״ריקם״ מעולת ראייה. רב פפא מקשה ״קרא לקרא״ ומשיב שהטעם במשנה ״יהיה לך… אך פדה תפדה״. הלימוד נאמר על מי שמת אחר שלשים, שיורשיו חייבים."
+   },
+   "en": {
+    "title": "One who set aside his son's redemption and it was lost remains liable",
+    "gemara": "The Mishnah: one who set aside his son's redemption and it was lost remains liable. Resh Lakish learns from the gezerah shavah 'valuation' 'valuation' from valuations, and R. Yonatan from 'empty' 'empty' from the appearance-offering. Rav Papa objects 'verse from verse' and says the reason is given in the Mishnah: 'it shall be yours… you shall surely redeem'. The teaching was said about one who died after thirty days, whose heirs are liable."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:7:2",
+     "quote": "חולין הן בידך עד שיבאו לידי גזבר",
+     "he": "רש״י: כמו בערכין, שהן חולין בידו עד שיבואו לידי גזבר, כך בפדיון הבן חייב באחריותו.",
+     "en": "Rashi: as with valuations, which remain ordinary in his hand until they reach the treasurer, so the son's redemption carries liability."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:8:1",
+     "quote": "אישתכח דאיתחזי ריקם בעזרה",
+     "he": "רש״י: אם עולת הראייה מתה או נגנבה ולא פרע, נמצא שנראה ריקם בעזרה, ולכן חייב באחריותה.",
+     "en": "Rashi: if the appearance-offering died or was stolen and he did not repay, he is found appearing empty in the Temple court, so he is liable."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:9:1",
+     "quote": "קרא צריך לאיתויי לסיועי לקרא",
+     "he": "רש״י מפרש ״קרא לקרא״: צריך להביא פסוק לסייע לפסוק, ותנא המשנה לומד מפסוק אחר.",
+     "en": "Rashi explains 'verse from verse': a verse need be brought to support a verse, and the Mishnah's teacher derives it from another verse."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:10:2",
+     "quote": "אמר ערכי עלי ומת יתנו היורשים",
+     "he": "רש״י: במסכת ערכין, האומר ״ערכי עלי״ ומת, יתנו היורשים; וכך כשמת אחר שלשים נתחייב האב בפדיון.",
+     "en": "Rashi: in Arakhin, one who says 'my valuation is upon me' and dies, the heirs give; so too one who died after thirty days has become obligated for the redemption."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:11:1",
+     "quote": "האשה שהביאה חטאתה ומתה יביאו יורשין עולתה",
+     "he": "רש״י: בעולת חובה שנינו שהאשה שהביאה חטאתה ומתה, יביאו יורשים עולתה.",
+     "en": "Rashi: for an obligatory burnt-offering we learned that a woman who brought her sin-offering and died, her heirs bring her burnt-offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:9",
+     "quote": "אימתי יהיה לך שלך בזמן שפדה תפדה מיד ליד",
+     "he": "רבינו גרשום: ״יהיה לך״ אומר שרק כשנותן מיד ליד זה שלך.",
+     "en": "Rabbeinu Gershom: 'it shall be yours' means it is yours only when given from hand to hand."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:11",
+     "quote": "מה בערכין חייב באחריותו דקאמר ערך עלי",
+     "he": "רבינו גרשום: כפי שבערכין חייב באחריותו כשאמר ״ערך עלי״, כך בבכור.",
+     "en": "Rabbeinu Gershom: as with valuations one is liable when he said 'a valuation is upon me', so with the firstborn."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:12",
+     "quote": "דלא מצי אתי לעזרה אי לא מייתי",
+     "he": "רבינו גרשום: בעולת ראייה חייב באחריות כי אינו יכול לבוא לעזרה אם לא יביא, וכך פדיון.",
+     "en": "Rabbeinu Gershom: for the appearance-offering one is liable since he cannot come into the court without bringing it, and so too the redemption."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:13",
+     "quote": "כיון דגמרינן לה במתניתין מקרא",
+     "he": "רבינו גרשום מבאר ״קרא לקרא״: כיון שהמשנה לומדת מפסוק, למה צריך ללמוד מפסוק אחר.",
+     "en": "Rabbeinu Gershom explains 'verse from verse': since the Mishnah derives it from a verse, why derive it from another verse."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:14",
+     "quote": "היכא דמת אחר שלשים יורשין חייבין ליתן",
+     "he": "רבינו גרשום: אם מת אחר שלשים, היורשים חייבים לתת, כמו בערכין.",
+     "en": "Rabbeinu Gershom: if he died after thirty days, the heirs are obligated to give, as with valuations."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 528:1",
+     "quote": "מתני' דמפריש פדיון בנו ואבד חייב באחריותו שנאמר יהי' לך ופדה תפדה",
+     "he": "האור זרוע מביא את המשנה שמפריש פדיון בנו ואבד חייב באחריותו, ולומד מ״יהיה לך ופדה תפדה״.",
+     "en": "Ohr Zarua cites the Mishnah that one who set aside his son's redemption and lost it is liable, learned from 'it shall be yours' and 'you shall surely redeem'."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 489:1",
+     "quote": "מתני' המפריש פדיון פטר חמור ומת ר' אליעזר אומר חייב באחריותו",
+     "he": "האור זרוע מביא משנה על פדיון פטר חמור, שרבי אליעזר מחייב באחריות כמו חמישה סלעים של בן.",
+     "en": "Ohr Zarua cites a Mishnah on the redemption of a firstborn donkey, where R. Eliezer holds one is liable like the five sela'im of a son."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 12b:25",
+     "quote": "קודם שבא ליד כהן חייב ישראל באחריותו",
+     "he": "רבינו גרשום בדף י״ב: קודם שבא ליד כהן חייב ישראל באחריותו, כדתנן בפרק יש בכור.",
+     "en": "Rabbeinu Gershom on 12b: before it reaches the kohen the Israelite is liable, as we learned in this chapter."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Bekhorot 8:6:3",
+     "quote": "מה עולת ראיה יורשין חייבין דחובה היא",
+     "he": "המלאכת שלמה מביא את הגמרא שמ״ריקם״ ״ריקם״ לומדים שיורשים חייבים כמו בעולת ראייה שחובה היא.",
+     "en": "Melekhet Shelomoh cites the Gemara that from 'empty' 'empty' we learn that heirs are liable as with the appearance-offering, which is obligatory."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Kiddushin 17a:7",
+     "quote": "ולא ידעתי מהיכא פסיקא להו למילף מבכור לעולת ראיה",
+     "he": "הפני יהושע תמה על התוספות מהיכן לומדים מבכור לעולת ראייה, ומציע שהסוגיה כאן מראה שהם כהיקש או כגזרה שווה.",
+     "en": "Penei Yehoshua is puzzled how Tosafot learn from the firstborn to the appearance-offering, and suggests our passage treats them as a hekesh or gezerah shavah."
+    },
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Numbers 18:15:1",
+     "quote": "כי בבכור אדם הפדיון חיוב הכרחי",
+     "he": "הכתב והקבלה מסביר שבבכור אדם הפדיון חיוב הכרחי, ולכן חייב באחריותו, בניגוד לבכור בהמה.",
+     "en": "HaKtav VeHaKabalah explains that for a human firstborn redemption is a necessary obligation, so one is liable, unlike a firstborn animal."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Festival Offering 1:10:1",
+     "quote": "פרק יש בכור נקיט לה בפשיטות על מתניתין דמת לאחר שלשים יום",
+     "he": "הכסף משנה מעיר שבפרק יש בכור הדין נאמר בפשיטות על המשנה של מת לאחר שלשים יום, ומביא את הירושלמי.",
+     "en": "Kessef Mishneh notes that our chapter states the law plainly on the Mishnah of one who died after thirty days, and brings the Yerushalmi."
+    },
+    {
+     "who": {
+      "he": "מעשי למלך",
+      "en": "Ma'asai LaMelekh"
+     },
+     "ref": "Ma'asai LaMelekh on Mishneh Torah, Sacrificial Procedure 14:14:3",
+     "quote": "המפריש עולת ראייתו ומת היורשים חייבים להביא",
+     "he": "המעשי למלך מביא את הרמב״ם שהמפריש עולת ראייתו ומת, היורשים חייבים להביא, ומקשר זאת לגמרא בבכורות.",
+     "en": "Ma'asai LaMelekh cites Rambam that one who set aside his appearance-offering and died, the heirs must bring it, and links this to the Gemara in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 51b:4",
+     "quote": "כי במסכת ערכין ליתא",
+     "he": "הרש״ש מעיר על דברי רש״י ״ערך ערך״ שהלימוד מקרא נלמד בתורת כהנים, כי במסכת ערכין אינו.",
+     "en": "Rashash remarks on Rashi's 'valuation, valuation' that the derivation from a verse is in Torat Kohanim, since it is not in tractate Arakhin."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    12
+   ],
+   "he": {
+    "title": "המשנה: הבכור נוטל פי שנים בנכסי האב ולא בשבח ולא בראוי",
+    "gemara": "המשנה פותחת בדין הבכור לנחלה: הוא נוטל פי שנים בנכסי האב ולא בנכסי האם, ואינו נוטל בשבח ולא בראוי כבמוחזק.",
+    "halakha": "הבכור נוטל פי שנים בנכסי אביו, ואינו נוטל פי שנים בנכסי האם, בשבח ובראוי (רמב״ם הלכות נחלות ב:א, ב:ח, ג:א, ג:ד)."
+   },
+   "en": {
+    "title": "The Mishnah: the firstborn takes a double share of the father's estate, not in appreciation or in what is due",
+    "gemara": "The Mishnah opens the law of the inheriting firstborn: he takes a double share in his father's estate and not his mother's, and not in appreciation or in what is merely due, as in what is in hand.",
+    "halakha": "The firstborn takes a double share in his father's estate, but not in his mother's, in appreciation, or in what is due (Rambam, Inheritances 2:1, 2:8, 3:1, 3:4)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:12:2",
+     "quote": "אלא שמין מה שהיו שוין בשעת מיתת אביהן",
+     "he": "רש״י: בשבח, שמים מה שהיו שווים בשעת מיתת האב והבכור נותן מעות עבור שבח החלק השני.",
+     "en": "Rashi: for appreciation, they appraise what the estate was worth at the father's death and the firstborn pays money for the appreciation of the second portion."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 51b:12:3",
+     "quote": "אבל ראויין היו ליפול לו בירושה ונפלו להן לאחר זמן אין הבכור נוטל פי שנים בהן",
+     "he": "רש״י: נכסים שלא היה האב מוחזק בהם בשעת מיתתו, ונפלו להם לאחר זמן, אין הבכור נוטל בהם פי שנים.",
+     "en": "Rashi: property in which the father was not in possession at his death, which fell to them later, the firstborn does not take a double share in."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 51b:12:1",
+     "quote": "דאין הבכור נוטל פי שנים במלוה בין שגבו מעות בין שלא גבו מעות",
+     "he": "התוספות: בבבא בתרא נפסקה ההלכה שאין הבכור נוטל פי שנים במלווה, בין שגבו מעות ובין שלא גבו.",
+     "en": "Tosafot: in Bava Batra the halakha was ruled that the firstborn does not take a double share in a loan, whether or not the money was collected."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 51b:17",
+     "quote": "שאם מת אחי אביו בלא בנים לאחר מיתת אביו",
+     "he": "רבינו גרשום מפרש ״ראוי״: אם מת אחי האב בלא בנים אחרי מות האב, אין הבכור נוטל פי שנים.",
+     "en": "Rabbeinu Gershom explains 'what is due': if the father's brother died childless after the father's death, the firstborn does not take a double share."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Inheritances 2:1",
+     "quote": "הַבְּכוֹר נוֹטֵל פִּי שְׁנַיִם בְּנִכְסֵי אָבִיו",
+     "he": "הרמב״ם: הבכור נוטל פי שנים בנכסי אביו, שנאמר ״לתת לו פי שנים״.",
+     "en": "Rambam: the firstborn takes a double share in his father's estate, as it says 'to give him a double portion'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Inheritances 2:8",
+     "quote": "אֵין הַבְּכוֹר נוֹטֵל פִּי שְׁנַיִם בְּנִכְסֵי הָאֵם",
+     "he": "הרמב״ם: אין הבכור נוטל פי שנים בנכסי האם, והבכור והפשוט חולקים בשווה.",
+     "en": "Rambam: the firstborn does not take a double share in the mother's estate; the firstborn and ordinary son divide equally."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Inheritances 3:4",
+     "quote": "אֵין הַבְּכוֹר נוֹטֵל פִּי שְׁנַיִם בַּשֶּׁבַח שֶׁשָּׁבְחוּ נְכָסִים לְאַחַר מִיתַת אָבִיו",
+     "he": "הרמב״ם: אין הבכור נוטל פי שנים בשבח שנעשה אחר מיתת האב, אלא מעלה אותו בדמים.",
+     "en": "Rambam: the firstborn does not take a double share in appreciation after the father's death, but reckons it in money."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:11:1",
+     "quote": "הבכור נוטל פי שנים בנכסי האב ואינו נוטל פי שנים בנכסי האם",
+     "he": "הרא״ש מביא את המשנה בסוף הפרק הבכור נוטל פי שנים בנכסי האב ולא בנכסי האם.",
+     "en": "The Rosh cites the Mishnah that the firstborn takes a double share in the father's estate and not the mother's."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 121:1",
+     "quote": "הגאונים תקנו שאשה וב\"ח גובה ממטלטלי דיתמי",
+     "he": "פסקי תוספות: הגאונים תיקנו שאשה ובעל חוב גובים ממטלטלי יתומים.",
+     "en": "Piskei Tosafot: the Geonim enacted that a woman and a creditor collect from orphans' movables."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 51b:6",
+     "quote": "נראה דאינה גובה כתובה ממלוה",
+     "he": "הרש״ש מתקן בתוספות את הגרסה ״ומתוך כך נראה דאינה גובה כתובה ממלוה״.",
+     "en": "Rashash corrects the text of Tosafot to read 'and from this it seems she does not collect her ketubah from a loan'."
+    }
+   ]
+  }
+ ]
+}
