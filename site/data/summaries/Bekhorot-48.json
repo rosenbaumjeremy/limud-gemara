@@ -1,0 +1,1108 @@
+{
+ "ref": "Bekhorot 48",
+ "date": "2026-11-05",
+ "he": {
+  "overview": "הדף עוסק במשנה של שני תאומים זכרים שלא ידוע מי בכור: האב נותן חמש סלעים לכהן, ואם מת אחד בתוך שלושים פטור. בעמוד א שואלת הגמרא מתי מת האב, ומביאה את דברי רבי ירמיה על שני יוסף בן שמעון ואת קושיית רבא מערב. רבא מעמיד את המחלוקת בין רבי מאיר לרבי יהודה כשאין אלא חמש סלעים, בדברי רב אסי ורב פפא. בעמוד ב נדון ׳חמש ולא חצי חמש׳ והברייתא של עשרה זוז, ואחר כך הלשון השנייה והמשנה בשתי נשים ושני כהנים. הראשונים והאחרונים דנים בברירה, במלוה הכתובה בתורה ובדין ערב.",
+  "title": "סיכום — בכורות מ״ח"
+ },
+ "en": {
+  "overview": "The daf deals with the Mishnah of two male twins where it is unknown which is the firstborn: the father gives five sela'im to the kohen, and if one dies within thirty days he is exempt. On amud a the Gemara asks when the father died, and brings R. Yirmeya on the two Yosef ben Shimons and Rava's challenge from a guarantor. Rava establishes the dispute of R. Meir and R. Yehuda as being where only five sela'im exist, over the statements of Rav Assi and Rav Papa. Amud b discusses 'five and not half of five' and the baraita of ten zuz, then a second version and the Mishnah on two wives and two kohanim. The Rishonim and Acharonim discuss bereira, a debt written in the Torah, and the law of a guarantor.",
+  "title": "Summary — Bekhorot 48"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "חמש סלעים"
+   ],
+   "he": {
+    "term": "פדיון הבן – חמש סלעים",
+    "explanation": "בכור לאמו הישראלית נפדה מן הכהן בחמש סלעים. כשיש ספק איזה מן התאומים הבכור, נותן האב חמש סלעים לכהן."
+   },
+   "en": {
+    "term": "Pidyon haben (five sela'im)",
+    "explanation": "A firstborn son of an Israelite mother is redeemed from a kohen for five sela'im. Where it is unclear which twin is the firstborn, the father gives five sela'im to the kohen."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:1:1",
+    "quote": "דאחד מהן בכור"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "אין כאן לכהן כלום"
+   ],
+   "he": {
+    "term": "המוציא מחברו עליו הראיה",
+    "explanation": "כלל ממוני: מי שתובע מחברו צריך להביא ראיה. כאן הכהן הוא התובע, ולכן כשספק אם הנקבה יצאה ראשונה, האב פטור."
+   },
+   "en": {
+    "term": "The claimant bears the burden of proof",
+    "explanation": "A monetary rule: whoever claims from another must bring proof. Here the kohen is the claimant, so when it is uncertain whether the female came first, the father is exempt."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:2:3",
+    "quote": "דהמוציא מחבירו עליו הראיה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "נתחיּיבוּ נכָסים"
+   ],
+   "he": {
+    "term": "נתחייבו נכסים",
+    "explanation": "לדעת רבי יהודה נכסי האב נשתעבדו לכהן כבעל חוב, והבנים חייבים לפרוע ממנו גם אם חלקו."
+   },
+   "en": {
+    "term": "The estate became obligated",
+    "explanation": "According to R. Yehuda the father's estate was bound to the kohen like a creditor's lien, so the sons must pay from it even if they divided."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:2:2",
+    "quote": "נכסי האב לכהן כבעל חוב"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "נכסי דבר אינש אינון ערבין ביה"
+   ],
+   "he": {
+    "term": "נכסי האדם ערבים בו",
+    "explanation": "קושיית רבא: הנכסים הם כערב של האדם, ולכן אין לגבות מהם מה שאי אפשר לגבות ממנו עצמו, וממילא ערב אינו נתבע לפני הלווה."
+   },
+   "en": {
+    "term": "A person's property is his guarantor",
+    "explanation": "Rava's point: a person's property acts as his guarantor, so one cannot collect from it what cannot be collected from the man himself, and a guarantor is not pursued before the borrower."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:6:2",
+    "quote": "דלא יתבע לערב תחלה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "האחין שחלקו"
+   ],
+   "he": {
+    "term": "אחים שחלקו – מחצה יורשים ומחצה לקוחות",
+    "explanation": "לדעת רב אסי, אחים שחלקו נחשבים בספק: אולי יורשים ואולי לקוחות, ולכן מחצה כך ומחצה כך."
+   },
+   "en": {
+    "term": "Brothers who divided – half heirs, half buyers",
+    "explanation": "In Rav Assi's view, brothers who divided are in doubt: perhaps heirs, perhaps buyers, so half each."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:8:2",
+    "quote": "דמספקא ליה אם ברירה ויורשין נינהו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "מלוה הכתובה בתורה"
+   ],
+   "he": {
+    "term": "מלוה הכתובה בתורה",
+    "explanation": "חוב שנקבע בתורה עצמה, כמו פדיון הבן; השאלה אם דינו ככתוב בשטר וגובה מנכסים משועבדים."
+   },
+   "en": {
+    "term": "A debt written in the Torah",
+    "explanation": "A debt fixed in the Torah itself, such as redemption of a son; the question is whether it is treated like one written in a document and collected from encumbered property."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48a:8:3",
+    "quote": "כגון פדיון הבן ה' סלעים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "חמש ולא חצי חמש"
+   ],
+   "he": {
+    "term": "חמש ולא חצי חמש",
+    "explanation": "הכהן זכאי לחמש סלעים שלמות; אם אין בנכסי הירושה חמש, רבי מאיר סובר שאינו גובה חצי."
+   },
+   "en": {
+    "term": "Five, and not half of five",
+    "explanation": "The kohen is entitled to five full sela'im; where the inherited property does not cover five, R. Meir holds he does not collect half."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 48b:2:1",
+    "quote": "דכיון דחלקו הוה ליה מחצה לקוחות"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "תאומים זכרים: מת אחד בתוך שלושים, ומות האב",
+    "gemara": "המשנה: מי שלא בכרה אשתו וילדה שני זכרים נותן חמש סלעים לכהן. אם מת אחד מהם בתוך שלושים יום האב פטור. מת האב והבנים קיימים – לרבי מאיר אם נתנו עד שלא חלקו נתנו ואם לאו פטורים, ולרבי יהודה נתחייבו הנכסים. זכר ונקבה – אין כאן לכהן כלום.",
+    "halakha": "השולחן ערוך פוסק שמי שילדה אשתו שני זכרים נותן חמש סלעים לכהן, ואם מת אחד מהם בתוך שלושים יום האב פטור."
+   },
+   "en": {
+    "title": "Two male twins: one dies within thirty days, and the father's death",
+    "gemara": "The Mishnah: a man whose wife had not given birth before and who bore two males gives five sela'im to the kohen. If one died within thirty days the father is exempt. If the father died and the sons are alive, R. Meir says that if they gave before dividing the estate they have given, and if not they are exempt, while R. Yehuda says the estate became obligated. For a male and a female the kohen gets nothing.",
+    "halakha": "The Shulchan Arukh rules that a man whose wife bore two males gives five sela'im to the kohen, and if one of them died within thirty days the father is exempt."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:1:1",
+     "quote": "דאחד מהן בכור",
+     "he": "רש״י מסביר שנותן חמש סלעים משום שאחד מהם בכור.",
+     "en": "Rashi explains that he gives five sela'im because one of the two is the firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:1:2",
+     "quote": "דמצי למימר הבכור מת",
+     "he": "רש״י: האב פטור כשמת אחד, כי הוא יכול לומר שהבכור הוא שמת, והוא הדין לבן שנשאר.",
+     "en": "Rashi: the father is exempt when one dies, since he can say the firstborn is the one who died; the same holds for the surviving son."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:1",
+     "quote": "האב פטור דמצי למימר הבכור מת",
+     "he": "רבינו גרשום מסביר באותו אופן שהאב יכול לומר שהבכור מת.",
+     "en": "Rabbeinu Gershom likewise explains that the father can say the firstborn died."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:2:3",
+     "quote": "דהמוציא מחבירו עליו הראיה",
+     "he": "רש״י על זכר ונקבה: האב אומר שהנקבה יצאה ראשונה, והכהן ידו על התחתונה, כי המוציא מחברו עליו הראיה.",
+     "en": "Rashi on a male and a female: the father says the female came out first, and the kohen is the weaker party, since whoever claims from another must bring proof."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:5",
+     "quote": "נותן ה' סלעים לכהן בשביל ההיא דילדה זכר לחוד",
+     "he": "רבינו גרשום מפרש את המשנה בשתי נשים: נותן חמש סלעים בשביל האשה שילדה זכר בלבד.",
+     "en": "Rabbeinu Gershom explains the Mishnah's case of two wives: he gives five sela'im because of the one who bore only a male."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:5:2",
+     "quote": "והוא הדין נמי דהבן פטור אלא אגב דבעי למיתני סיפא",
+     "he": "הרא״ש: גם הבן שנשאר פטור, והמשנה נקטה ׳האב׳ רק משום הסיפא (מת האב).",
+     "en": "The Rosh: the surviving son is exempt too; the Mishnah says 'the father' only because of the clause that follows (the father died)."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:20",
+     "quote": "מֵת אֶחָד מֵהֶן בְּתוֹךְ שְׁלֹשִׁים יוֹם פָּטוּר שֶׁהַמּוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה",
+     "he": "הרמב״ם פוסק שאם מת אחד בתוך שלושים יום האב פטור, כי המוציא מחברו עליו הראיה.",
+     "en": "The Rambam rules that if one died within thirty days the father is exempt, since the one who claims from another bears the burden of proof."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 515:1",
+     "quote": "וה\"ה בנו הנשאר פטור",
+     "he": "האור זרוע כותב שגם הבן הנשאר פטור.",
+     "en": "Ohr Zarua writes that the surviving son is exempt as well."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:25",
+     "quote": "מת אחד מהם בתוך ל' יום פטור דשמא הבכור מת והמוציא מחבירו עליו הראיה",
+     "he": "השולחן ערוך: מת אחד בתוך שלושים – פטור, שמא הבכור מת, והמוציא מחברו עליו הראיה.",
+     "en": "The Shulchan Arukh: if one died within thirty days he is exempt, since perhaps the firstborn died, and the one who claims from another must bring proof."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    4
+   ],
+   "he": {
+    "title": "מתי מת האב – שאלות הגמרא",
+    "gemara": "הגמרא שואלת מתי מת האב. אם מת לאחר שלושים יום, מדוע פוטר רבי מאיר כשחלקו, והרי נשתעבדו הנכסים. ואם מת בתוך שלושים, מה שונה כשחלקו מכשלא חלקו, שהרי בכל מקרה כל אחד מהבנים יכול לדחות את הכהן.",
+    "halakha": "השולחן ערוך פוסק שמת האב, בין בתוך שלושים ובין לאחר שלושים, נותנים הבנים ביניהם חמש סלעים אפילו חלקו כבר את הנכסים."
+   },
+   "en": {
+    "title": "When did the father die? The Gemara's questions",
+    "gemara": "The Gemara asks when the father died. If after thirty days, why does R. Meir exempt them once they divided, when the estate was already bound? If within thirty days, what is the difference between dividing and not dividing, since in either case each son can put off the kohen.",
+    "halakha": "The Shulchan Arukh rules that if the father died, whether within or after thirty days, the sons give five sela'im between them even if they already divided the estate."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:3:1",
+     "quote": "דחוב מעליא הוא",
+     "he": "רש״י: הקושיה על לאחר שלושים היא שהנכסים כבר נשתעבדו, שהוא חוב גמור.",
+     "en": "Rashi: the difficulty on the 'after thirty days' reading is that the estate was already bound, as it is a full debt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:4:1",
+     "quote": "ואומר אין אני בכור אלא אחי",
+     "he": "רש״י מפרש ׳ומדחי ליה׳: כל בן אומר שאינו הבכור אלא אחיו.",
+     "en": "Rashi explains 'he puts him off': each son says he is not the firstborn but his brother is."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:4:2",
+     "quote": "דהא האב לא נתחייב כלום אלא בשביל הבנים",
+     "he": "רש״י: אי אפשר לומר שהכהן גובה בשל האב, כי האב עצמו לא נתחייב אלא בשביל הבנים.",
+     "en": "Rashi: it cannot be said that the kohen collects because of the father, for the father himself was only obligated on account of the sons."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 48a:3:1",
+     "quote": "דקסבר השתא האחין שחלקו יורשין הן ומלוה על פה גובה מן היורשין",
+     "he": "התוספות: הקושיה ׳והא אשתעבדו׳ היא מפני שסבור עכשיו שאחים שחלקו יורשים הם ומלוה על פה גובה מן היורשים, אבל במסקנה הם חלוקים בכך.",
+     "en": "Tosafot: the challenge 'but the estate was bound' assumes for now that brothers who divided are heirs and an oral loan is collected from heirs, though in the conclusion they in fact dispute this."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:2",
+     "quote": "דכל חד וחד מצי מדחי ליה",
+     "he": "רבינו גרשום: אם לא נתנו וחלקו פטורים, כי כל אחד יכול לדחות את הכהן.",
+     "en": "Rabbeinu Gershom: if they did not give and had divided they are exempt, because each can put the kohen off."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:3",
+     "quote": "ולא מצו מדחו ליה",
+     "he": "רבינו גרשום: לרבי יהודה, שאמר נתחייבו נכסים, הבנים אינם יכולים לדחות את הכהן.",
+     "en": "Rabbeinu Gershom: according to R. Yehuda, who said the estate became obligated, the sons cannot put the kohen off."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:26",
+     "quote": "נותנין בין שניהם ה' סלעים אפי' חלקו כבר הנכסים",
+     "he": "השולחן ערוך: מת האב, תוך שלושים או לאחריהם, הבנים נותנים ביניהם חמש סלעים אפילו חלקו.",
+     "en": "Shulchan Arukh: if the father died, within thirty days or after, the sons give five sela'im between them even if they already divided."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 305:38:1",
+     "quote": "וכתב שזה דבר מבואר ובחיבור חזר בו",
+     "he": "בית יוסף מביא שהרמב״ם בפירוש המשנה כתב כדברי הטור, וכתב שזה דבר מבואר, ובחיבורו חזר בו.",
+     "en": "The Beit Yosef notes that the Rambam in his Mishnah commentary wrote as the Tur does and called it clear, and in his code retracted."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:20:2",
+     "quote": "הטור כתב על זה ואינו נראה כן בגמרא",
+     "he": "הכסף משנה מביא את השגת הטור על הרמב״ם שאינו נראה כן בגמרא, ומעתיק את לשון המשנה והגמרא כדי לברר.",
+     "en": "The Kessef Mishneh cites the Tur's objection that the Rambam's ruling does not appear so in the Gemara, and copies the Mishnah and Gemara to clarify it."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    6
+   ],
+   "he": {
+    "title": "שני יוסף בן שמעון והקושיה מערב",
+    "gemara": "רבי ירמיה: משמע שאם שני יוסף בן שמעון שהיו בעיר אחת לקחו שדה בשותפות, בעל חוב גובה אותה, שאומר לכל אחד: אם בך אני מסיק – חלקך אני נוטל, ואם בחברך – חלק חברך. רבא מקשה: הנכסים הם ערבים, וכי יש דבר שלחייב אינו יכול לתבוע ולערב יכול, והרי אין תובעים את הערב תחילה.",
+    "halakha": "השולחן ערוך: בשני יוסף בן שמעון, כשהשדה נמצאה אצל אחד שקנה מהשני, אין המלווה יכול לטרוף ולומר אם לך הלויתי מוטב ואם לחברך."
+   },
+   "en": {
+    "title": "The two Yosef ben Shimons and Rava's challenge from a guarantor",
+    "gemara": "R. Yirmeya: if two men named Yosef ben Shimon lived in one town and bought a field in partnership, a creditor collects from it, saying to each: if I am collecting from you, I take your share; if from your friend, I take his. Rava objects: a person's property is his guarantor, and is there something the debtor himself cannot be pursued for yet the guarantor can? We learned that the guarantor is not pursued first.",
+    "halakha": "The Shulchan Arukh: for two Yosef ben Shimons, where one holds a field bought from the other, the lender cannot seize it by saying 'if I lent to you, good; if to your friend...'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:8",
+     "quote": "בעל חוב שיש לו שטר על יוסף בן שמעון גובה אותה מהן",
+     "he": "רבינו גרשום: בעל חוב שיש לו שטר על יוסף בן שמעון גובה מהשדה.",
+     "en": "Rabbeinu Gershom: a creditor holding a note against 'Yosef ben Shimon' collects from the field."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:5:1",
+     "quote": "אם אתה הבכור מחלקך אני נוטל ואם אחיך הבכור מחלקו אני נוטל",
+     "he": "רש״י מקביל: כך הכהן אומר לשני האחים – אם אתה הבכור אטול מחלקך, ואם אחיך אטול מחלקו.",
+     "en": "Rashi draws the parallel: the kohen says to the two brothers – if you are the firstborn I take from your share, and if your brother is, from his."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:6:1",
+     "quote": "דכל חד וחד מדחי ליה",
+     "he": "רש״י: אין הכהן יכול לתבוע מהם כי כל אחד דוחה אותו.",
+     "en": "Rashi: the kohen cannot claim from them since each one puts him off."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:6:2",
+     "quote": "דלא יתבע לערב תחלה",
+     "he": "רש״י: ׳לא יפרע׳ פירושו שלא יתבע את הערב תחילה עד שיתבע מן הלווה.",
+     "en": "Rashi: 'he shall not collect' means he does not pursue the guarantor first, until he has pursued the borrower."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:9",
+     "quote": "אינון ערבין ביה שבעל חוב גובה מהן",
+     "he": "רבינו גרשום: הנכסים ערבים, שבעל חוב גובה מהם, והכא בעל חוב (הכהן) אינו יכול לתבוע.",
+     "en": "Rabbeinu Gershom: the assets are guarantors from which a creditor collects, yet here the creditor (the kohen) cannot claim."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Creditor and Debtor 25:3",
+     "quote": "לֹא יִתְבַּע אֶת הֶעָרֵב תְּחִלָּה",
+     "he": "הרמב״ם פוסק שהמלווה לא יתבע את הערב תחילה.",
+     "en": "The Rambam rules that the lender does not pursue the guarantor first."
+    },
+    {
+     "who": {
+      "he": "מהר״ם מרוטנבורג",
+      "en": "Maharam of Rothenburg"
+     },
+     "ref": "Teshuvot Maharam, Cremona Edition 187:2",
+     "quote": "אלמא דלכל מילי יהבינן לנכסי דין ערב",
+     "he": "מהר״ם לומד מכאן שלכל דבר נותנים לנכסי האדם דין ערב.",
+     "en": "Maharam learns from here that for all purposes a person's assets are given the law of a guarantor."
+    },
+    {
+     "who": {
+      "he": "מרדכי",
+      "en": "Mordechai"
+     },
+     "ref": "Mordechai on Bava Batra 10:34",
+     "quote": "פטור שמעון מערבותו נגד לוי",
+     "he": "המרדכי מביא את פסק מהר״ם: אם הלווה אומר שפרע, פטור גם הערב, ומביא ראיה מסוגיית בכורות.",
+     "en": "The Mordechai cites Maharam's ruling: if the borrower says he paid, the guarantor is exempt too, bringing proof from our sugya."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אורים ותומים",
+      "en": "Urim VeTumim"
+     },
+     "ref": "Urim VeTumim, Tumim 49:19",
+     "quote": "מכדי נכסי בר נש אינון ערבין",
+     "he": "האורים ותומים מציין שמקורו של דין שני יוסף בן שמעון הוא בגמרא בבכורות, ומביא את קושיית רבא על כך.",
+     "en": "The Urim VeTumim notes that the source of the law of the two Yosef ben Shimons is this Gemara in Bekhorot, and brings Rava's challenge."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 49:10",
+     "quote": "אין המלוה יכול לטרוף השד' ולומר אם לך הלויתי מוטב",
+     "he": "השולחן ערוך פוסק שכשהשדה אצל אחד מהם שקנה מחברו, אין המלווה יכול לטרוף ולומר אם לך הלויתי מוטב.",
+     "en": "The Shulchan Arukh rules that where one holds a field bought from the other, the lender cannot seize it saying 'if I lent to you, good'."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Choshen Mishpat 129:39",
+     "quote": "וכשם שאין נפרעין ממנו כך מהערב",
+     "he": "הגר״א מציין את בכורות מ״ח: כשם שאין נפרעים מהלווה כך אין נפרעים מהערב.",
+     "en": "The Vilna Gaon cites Bekhorot 48: just as one does not collect from the borrower, so too not from the guarantor."
+    },
+    {
+     "who": {
+      "he": "נתיבות המשפט",
+      "en": "Netivot HaMishpat"
+     },
+     "ref": "Netivot HaMishpat, Beurim on Shulchan Arukh, Choshen Mishpat 176:49",
+     "quote": "וע\"ש שהבאתי ראי' לזה מבכורות ד' מ\"ח ע\"א",
+     "he": "נתיבות המשפט מביא ראיה מבכורות מ״ח לדין תפיסה מבית השותף החייב.",
+     "en": "The Netivot HaMishpat brings proof from Bekhorot 48a for a law of seizing from the indebted partner's house."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    7,
+    1
+   ],
+   "he": {
+    "title": "תשובת רבא: אין אלא חמש סלעים, ורב אסי ורב פפא",
+    "gemara": "רבא מעמיד שמת לאחר שלושים ויש נכסים הרבה – גם כשחלקו הכהן גובה. והמשנה עוסקת כשאין אלא חמש סלעים. לכולי עלמא כרב אסי (אחים שחלקו מחצה יורשים ומחצה לקוחות), וכולם סוברים שמלוה הכתובה בתורה אינה ככתובה בשטר, וכרב פפא (מלוה על פה גובה מן היורשים ולא מן הלקוחות)."
+   },
+   "en": {
+    "title": "Rava's answer: only five sela'im, and Rav Assi and Rav Papa",
+    "gemara": "Rava establishes that the father died after thirty days; if there is much property the kohen collects even after division, and the Mishnah deals with the case where there are only five sela'im. All hold like Rav Assi (brothers who divided are half heirs and half buyers), that a debt written in the Torah is not like one written in a document, and like Rav Papa (an oral loan is collected from heirs but not from buyers)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:10",
+     "quote": "ודאיכא נכסי טובא לכל חד וחד הכי נמי דשקיל אע\"ג דחלקו",
+     "he": "רבינו גרשום: כשיש נכסים הרבה לכל אחד, הכהן נוטל אף על פי שחלקו.",
+     "en": "Rabbeinu Gershom: where each has ample property the kohen takes even though they divided."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:7:1",
+     "quote": "אפי' חלקו דהא אישתעבדו נכסים בחיי האב",
+     "he": "רש״י: גובה אפילו חלקו, כי הנכסים נשתעבדו בחיי האב, ומלוה על פה גובה מן היורשים אם יש ירושה כשיעור החוב.",
+     "en": "Rashi: he collects even if they divided, as the estate was bound in the father's lifetime, and an oral loan is collected from heirs if the inheritance covers the debt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:8:2",
+     "quote": "דמספקא ליה אם ברירה ויורשין נינהו",
+     "he": "רש״י: רב אסי מסתפק אם יש ברירה והם יורשים, או אין ברירה והם לקוחות, ולכן מחצה יורשים ומחצה לקוחות.",
+     "en": "Rashi: Rav Assi is in doubt whether there is retroactive clarification so they are heirs, or not so they are buyers, hence half heirs and half buyers."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48a:8:3",
+     "quote": "כגון פדיון הבן ה' סלעים",
+     "he": "רש״י: מלוה הכתובה בתורה היא כגון פדיון הבן, חמש סלעים שזכתה התורה לכהן.",
+     "en": "Rashi: a debt written in the Torah is for instance the redemption of a son, the five sela'im the Torah granted the kohen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:11",
+     "quote": "שהקנה זה לזה חלקו בשביל מה שתופש",
+     "he": "רבינו גרשום מפרש מחצה יורשים ומחצה לקוחות – כל אחד הקנה לחברו את חלקו בעבור מה שתופס.",
+     "en": "Rabbeinu Gershom explains half heirs and half buyers: each transferred his share to the other in exchange for what he took."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48a:12",
+     "quote": "כגון ה' סלעים של בכור",
+     "he": "רבינו גרשום: מלוה הכתובה בתורה היא חמש סלעים של בכור.",
+     "en": "Rabbeinu Gershom: a debt written in the Torah is the five sela'im of the firstborn."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 48a:8:1",
+     "quote": "משמע הכא דר\"מ מספקא ליה אי אית ברירה או לא כרב אסי",
+     "he": "התוספות: משמע שרבי מאיר מסופק אם יש ברירה כרב אסי, ומקשים מדברי רבי מאיר במקומות אחרים, ומחלקים שיש ברירה כשמתנה בפירוש.",
+     "en": "Tosafot: it implies R. Meir is in doubt about bereira like Rav Assi, raising a difficulty from R. Meir elsewhere and distinguishing that bereira applies where one stipulates explicitly."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 48a:8:4",
+     "quote": "היינו דוקא כגון פדיון הבן וערכין ונזקין",
+     "he": "התוספות: מלוה הכתובה בתורה היא דווקא כגון פדיון הבן, ערכין ונזקין.",
+     "en": "Tosafot: a debt written in the Torah means specifically such as redemption of a son, valuations and damages."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 25b:1:2",
+     "quote": "מוקי רבא דר\"מ ורבי יהודה כרב אסי דאמר האחין שחלקו מחצה יורשין ומחצה לקוחות",
+     "he": "התוספות בגיטין מציינים שרבא מעמיד כאן את רבי מאיר ורבי יהודה כרב אסי, ולכן נראה שהם מסופקים בברירה.",
+     "en": "Tosafot in Gittin note that Rava here establishes R. Meir and R. Yehuda like Rav Assi, so they seem to be in doubt about bereira."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Bava Batra 107a:3",
+     "quote": "דבענין האחין יש ברירה משום דאבא לגבי בריה אחולי אחיל",
+     "he": "הרמב״ן: בענין אחים יש ברירה, כי האב מוחל לבנו.",
+     "en": "The Ramban: regarding brothers there is bereira because a father cedes in favor of his son."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Chullin 135a:3",
+     "quote": "וה\"נ מוכח במס' בכורות פ' יש בכור לנחלה גבי מי שלא ביכרה אשתו וילדה שני זכרים",
+     "he": "הריטב״א מביא סוגיה זו כראיה לענין אחים שחלקו ואין ברירה.",
+     "en": "The Ritva brings this sugya as proof regarding brothers who divided and the lack of bereira."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Kiddushin 29b:1",
+     "quote": "רבי יהודה לטעמיה דאמר מלוה הכתובה בתורה ככתובה בשטר דמיא",
+     "he": "הריטב״א בקידושין: רבי יהודה לשיטתו שמלוה הכתובה בתורה ככתובה בשטר דמיא.",
+     "en": "The Ritva in Kiddushin: R. Yehuda follows his view that a debt written in the Torah is like one written in a document."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Kiddushin 29b:1",
+     "quote": "סבר רבי יהודה לאו ככתובה בשטר דמיא",
+     "he": "הרמב״ן בקידושין מקשה שבבכורות מ״ח רבי יהודה סבר שאינה ככתובה בשטר.",
+     "en": "The Ramban in Kiddushin raises the difficulty that in Bekhorot 48a R. Yehuda holds it is not like a document."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Kamma 9a:10",
+     "quote": "פירש רש\"י ז\"ל שני לשונות",
+     "he": "השיטה מקובצת מביאה שרש״י פירש שני לשונות בדברי רב אסי.",
+     "en": "The Shita Mekubetzet notes that Rashi gave two explanations of Rav Assi's statement."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 48a:1",
+     "quote": "ותימה דר\"מ אית ליה ברירה",
+     "he": "הרש״ש מגיה בתוספות ׳ותימה דר״מ אית ליה ברירה׳.",
+     "en": "The Rashash emends Tosafot: 'it is surprising, for R. Meir holds bereira'."
+    },
+    {
+     "who": {
+      "he": "יעב״ץ",
+      "en": "Yaavetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 48a:1",
+     "quote": "ורב אסי מספקא לי' בנכסים",
+     "he": "הגהות יעב״ץ מגיה בתוספות ׳ורב אסי מספקא ליה בנכסים׳.",
+     "en": "Haggahot Yaavetz emends Tosafot to read 'and Rav Assi is in doubt about the property'."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Yoreh De'ah 293:7",
+     "quote": "דכ\"ע סבירא ליה מלוה הכתובה בתורה לאו ככתובה בשטר דמי",
+     "he": "החתם סופר: לפי העמדת רבא כאן, כולם סוברים שמלוה הכתובה בתורה אינה ככתובה בשטר.",
+     "en": "The Chatam Sofer: according to Rava's establishment here, all hold that a debt written in the Torah is not like one written in a document."
+    },
+    {
+     "who": {
+      "he": "אורים ותומים",
+      "en": "Urim VeTumim"
+     },
+     "ref": "Urim VeTumim, Tumim 117:7",
+     "quote": "מלוה הכתובה בתורה ככתוב בשטר דמי",
+     "he": "האורים ותומים מציין שרבי יהודה סובר במקום אחר שמלוה הכתובה בתורה ככתובה בשטר.",
+     "en": "The Urim VeTumim notes that R. Yehuda holds elsewhere that a debt written in the Torah is like one in a document."
+    },
+    {
+     "who": {
+      "he": "חידושי הרי״ם",
+      "en": "Chiddushei HaRim"
+     },
+     "ref": "Chiddushei HaRim on Gittin 25b:3",
+     "quote": "גבי פדיון בבכורות אמר דר\"מ ור\"י סברי כר\"א",
+     "he": "החידושי הרי״ם עוסק בקושיית התוספות שרבי מאיר ורבי יהודה סוברים כרב אסי גבי פדיון בבכורות, אם יש ברירה.",
+     "en": "The Chiddushei HaRim takes up Tosafot's point that R. Meir and R. Yehuda hold like Rav Assi regarding redemption in Bekhorot, on whether there is bereira."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    6
+   ],
+   "he": {
+    "title": "חמש ולא חצי חמש – מחלוקת רבי מאיר ורבי יהודה",
+    "gemara": "לפי הלשון הראשונה רבי מאיר סובר חמש ולא חצי חמש, ורבי יהודה חמש ואפילו חצי חמש. הגמרא מקשה מלשון ׳נתחייבו נכסים׳ ומברייתא של רבי יהודה (עשרה זוז לזה ועשרה לזה), ומסיקה שהכל סוברים חמש ולא חצי חמש, וחלוקים בדברי רב אסי ורב פפא."
+   },
+   "en": {
+    "title": "'Five and not half of five' – R. Meir and R. Yehuda",
+    "gemara": "On the first version, R. Meir holds 'five and not half of five' and R. Yehuda 'five, even half of five'. The Gemara objects from the wording 'the estate became obligated' and from R. Yehuda's baraita (ten zuz for each), and concludes that all hold 'five and not half of five', and they differ over Rav Assi and Rav Papa."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:1",
+     "quote": "ר' מאיר סבר ה' סלעים הוא דבעי למיהב לכהן ולא חצי ה'",
+     "he": "רבינו גרשום: רבי מאיר סובר שצריך לתת חמש סלעים ולא חצי חמש, ולכן פוטר כשחלקו.",
+     "en": "Rabbeinu Gershom: R. Meir holds one must give five sela'im and not half of five, so he exempts them once they divided."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:2:1",
+     "quote": "דכיון דחלקו הוה ליה מחצה לקוחות",
+     "he": "רש״י: כיון שחלקו, מחצה לקוחות ונשארה ירושה של שתי סלעים וחצי בלבד, ומלוה על פה אינה גובה מלקוחות.",
+     "en": "Rashi: once they divided, half are buyers and only two and a half sela'im of inheritance remain, and an oral loan is not collected from buyers."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:2:2",
+     "quote": "ושקיל ההוא פלגא דהוי ירושה",
+     "he": "רש״י: לרבי יהודה נוטל הכהן את אותו חצי שהוא ירושה.",
+     "en": "Rashi: according to R. Yehuda the kohen takes that half which is inheritance."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 48b:2:1",
+     "quote": "ולא מקיימא בפחות מחמש",
+     "he": "התוספות: מצוות חמש סלעים אינה מתקיימת בפחות מחמש, ולכן אין זה כחמשה בקר שאפילו חמשה חצאי בקר.",
+     "en": "Tosafot: the mitzvah of five sela'im is not fulfilled with less than five, so it is unlike five oxen where even five half-oxen suffice."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:3:4",
+     "quote": "דהיינו ב' סלעים ופלגא",
+     "he": "רש״י: עשרה זוז הם שתי סלעים וחצי.",
+     "en": "Rashi: ten zuz is two and a half sela'im."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:4",
+     "quote": "דהיינו כ' זוז שהן ה' סלעים",
+     "he": "רבינו גרשום: עשרה לזה ועשרה לזה הם עשרים זוז שהם חמש סלעים.",
+     "en": "Rabbeinu Gershom: ten for this one and ten for that one make twenty zuz, which are five sela'im."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:6:1",
+     "quote": "ור' יהודה אית ליה דרב אסי דפלגא הוי לקוחות ולית ליה דרב פפא",
+     "he": "רש״י: רבי יהודה סובר כרב אסי שחצי לקוחות, אך לא כרב פפא, אלא שמלוה על פה גובה מן הלקוחות.",
+     "en": "Rashi: R. Yehuda holds like Rav Assi that half are buyers, but not like Rav Papa, holding rather that an oral loan is collected from buyers."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:8",
+     "quote": "בדר' אסי ורב פפא קמיפלגי",
+     "he": "רבינו גרשום מפרש שרבי מאיר סבר כרב פפא שמלוה על פה אינה גובה מלקוחות, ושנחלקו בדברי רב אסי ורב פפא.",
+     "en": "Rabbeinu Gershom explains that R. Meir held like Rav Papa that an oral loan is not collected from buyers, and they differ over the statements of Rav Assi and Rav Papa."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Kamma 40a:15:2",
+     "quote": "דוקא לענין כופר דכפרה היא",
+     "he": "התוספות בבבא קמא: ׳כופר שלם ולא חצי כופר׳ נאמר דווקא לענין כופר שהוא כפרה.",
+     "en": "Tosafot in Bava Kamma: 'a full ransom and not half a ransom' applies specifically to ransom, which is an atonement."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Sanhedrin 86a:5",
+     "quote": "ובפ' יש בכור חמש ולא חצי חמש",
+     "he": "הרש״ש מגיה בתוספות סנהדרין שהמקור לדין ׳חמש ולא חצי חמש׳ הוא בפרק יש בכור.",
+     "en": "The Rashash emends Tosafot in Sanhedrin to read that 'five and not half of five' is in the chapter Yesh Bekhor."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 48b:3",
+     "quote": "משום דרב אסי",
+     "he": "הרש״ש מגיה ברש״י ׳משום דרב אסי׳ בדיבור נתנו עד שלא חלקו.",
+     "en": "The Rashash emends Rashi on 'if they gave before dividing' to read 'because of Rav Assi'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    10
+   ],
+   "he": {
+    "title": "הלשון השנייה: מקשים על הסיפא ׳נתחייבו הנכסים׳",
+    "gemara": "יש שונים את הסוגיה על סיפא של רבי יהודה (נתחייבו הנכסים): אם מת לאחר שלושים, מכלל שרבי מאיר פוטר כשחלקו – והרי נשתעבדו. ואם בתוך שלושים, כשחלקו מדוע מחייב רבי יהודה, שיילך לכל אחד ויידחה. רבי ירמיה: שני יוסף בן שמעון שלקח אחד מהם שדה מחברו – בעל חוב גובה ממנו. רבא מקשה שוב מערב, וכולה כלשון ראשונה."
+   },
+   "en": {
+    "title": "The second version: the objection placed on R. Yehuda's clause",
+    "gemara": "Some teach the whole sugya on R. Yehuda's clause ('the estate became obligated'): if the father died after thirty days, it follows R. Meir exempts after division, though the estate was bound; if within thirty days, why does R. Yehuda obligate after division, when each can put off the kohen? R. Yirmeya: two Yosef ben Shimons, where one bought a field from the other – the creditor collects from him. Rava objects again from a guarantor, and all is like the first version."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:7:1",
+     "quote": "איכא דמתני לה לכולה הך שמעתא אסיפא",
+     "he": "רש״י: יש ששונים את כל השמועה על הסיפא, דברי רבי יהודה.",
+     "en": "Rashi: some teach this entire discussion on the final clause, R. Yehuda's statement."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:9:1",
+     "quote": "דסבירא לן האחין שחלקו לקוחות הן דאין ברירה",
+     "he": "רש״י: בלשון זו סוברים שאחים שחלקו לקוחות הם, שאין ברירה, ולכן רבי יהודה מחייבם.",
+     "en": "Rashi: in this version we hold that brothers who divided are buyers, as there is no bereira, which is why R. Yehuda obligates them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:9",
+     "quote": "האי דמי לחלקו דאידך לית חילק בה ובעל חוב גובה ממנו",
+     "he": "רבינו גרשום: מי שלקח שדה מחברו, בעל חוב גובה ממנו, כי לאחר אין חלק בה.",
+     "en": "Rabbeinu Gershom: whoever bought a field from his friend, the creditor collects from him, as the other has no share in it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:10",
+     "quote": "וכולהי קשייתא דאקשינן ברישא",
+     "he": "רבינו גרשום: כל הקושיות שהקשינו בתחילה חוזרות.",
+     "en": "Rabbeinu Gershom: all the difficulties we raised at the start apply again."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:10:1",
+     "quote": "אלא בדרב אסי ורב פפא פליגי",
+     "he": "רש״י: גם כאן המסקנה שחלוקים בדברי רב אסי ורב פפא.",
+     "en": "Rashi: here too the conclusion is that they differ over Rav Assi and Rav Papa."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אורים ותומים",
+      "en": "Urim VeTumim"
+     },
+     "ref": "Urim VeTumim, Urim 49:30",
+     "quote": "כיון דאין יכול לגבות ממנו ה\"ל כאילו אין לו ב\"ח",
+     "he": "האורים ותומים מסביר שכיון שאין יכול לגבות מחברו, זה כאילו אין לו בעל חוב.",
+     "en": "The Urim VeTumim explains that since he cannot collect from his friend, it is as if he has no creditor."
+    },
+    {
+     "who": {
+      "he": "חידושי הרי״ם",
+      "en": "Chiddushei HaRim"
+     },
+     "ref": "Chiddushei HaRim on Ketubot 16a:6",
+     "quote": "כיון שלקח הקרקע מחבירו אעפ\"כ אינו יכול לגבות",
+     "he": "החידושי הרי״ם דן בדין שני יוסף בן שמעון שלקח הקרקע מחברו, שלדעתו אינו יכול לגבות.",
+     "en": "The Chiddushei HaRim discusses the two Yosef ben Shimons where one took the land from his friend, arguing the creditor may not collect."
+    },
+    {
+     "who": {
+      "he": "נתיבות המשפט",
+      "en": "Netivot HaMishpat"
+     },
+     "ref": "Netivot HaMishpat, Beurim on Shulchan Arukh, Choshen Mishpat 58:4",
+     "quote": "שותפין כש\"ש דמי וכמשועבדים דמי",
+     "he": "נתיבות המשפט: שותפים כשותפות שומרים, ודינם כמשועבדים.",
+     "en": "The Netivot HaMishpat: partners are treated like shared guards, and as bound to each other."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    19
+   ],
+   "he": {
+    "title": "שתי נשים ושני כהנים – המשנה השנייה",
+    "gemara": "המשנה השנייה עוסקת בשתי נשים שילדו שני זכרים: נותן עשרה סלעים, ואם מת אחד בתוך שלושים – אם נתן לכהן אחד יחזיר חמש, ואם לשני כהנים אינו יכול להוציא מידם. זכר ונקבה, או שתי נקבות וזכר – דינים שונים. בגמרא שואלים מה שונה שני כהנים מכהן אחד.",
+    "halakha": "השולחן ערוך פוסק כמשנה שבשתי נשים שלא בכרו ומת אחד בתוך שלושים, אם נתן לכהן אחד יחזיר חמש סלעים, ואם לשני כהנים אינו יכול להוציא מהם."
+   },
+   "en": {
+    "title": "Two wives and two kohanim – the second Mishnah",
+    "gemara": "The second Mishnah concerns two wives who bore two males: he gives ten sela'im, and if one died within thirty days – if he gave to one kohen he is refunded five, and if to two kohanim he cannot recover from them. Other combinations of males and females have other rulings. The Gemara asks what distinguishes two kohanim from one.",
+    "halakha": "The Shulchan Arukh rules as the Mishnah: for two wives, if one died within thirty days, he is refunded five sela'im if he gave to one kohen, and cannot recover if he gave to two."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 48b:12",
+     "quote": "דמצו למידחינהו דכל חד וחד אמר פדיון דחי תפיסנא",
+     "he": "רבינו גרשום: אין יכולים להוציא כי הכהנים יכולים לדחות, כל אחד אומר שפדיון החי הוא מה שתפס.",
+     "en": "Rabbeinu Gershom: they cannot recover because the kohanim can put them off, each saying what he holds is the redemption of the living one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:11:3",
+     "quote": "איגלאי מילתא דנפל הוא",
+     "he": "רש״י: כשנתן לכהן אחד יחזיר חמש, כי נתגלה שהמת נפל היה והכהן נטל שלא כדין.",
+     "en": "Rashi: when he gave to one kohen he gets five back, since it became clear the one who died was a nefel and the kohen took it unjustly."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:11:4",
+     "quote": "הריני מחזיק בם בשביל פדיון החי",
+     "he": "רש״י: שני כהנים אומרים כל אחד שהוא מחזיק בכסף בשביל פדיון החי.",
+     "en": "Rashi: with two kohanim, each says he holds the money for the redemption of the living one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:12:1",
+     "quote": "דממה נפשך חד הוי בכור",
+     "he": "רש״י: בשתי נשים ושני זכרים ונקבה נותן חמש, כי ממה נפשך יש בכור אחד.",
+     "en": "Rashi: with two wives and two males and a female he gives five, since in any case there is one firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:13:1",
+     "quote": "דמצי למימר בן המבכרת מת",
+     "he": "רש״י: האב פטור כי יכול לומר שבן המבכרת מת.",
+     "en": "Rashi: the father is exempt as he can say the son of the one who had given birth before died."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:16:1",
+     "quote": "דכל חד וחד אמר ליה לכהן הנקבה שלי היא",
+     "he": "רש״י: האבות פטורים, כי כל אחד אומר לכהן שהנקבה שלו.",
+     "en": "Rashi: the fathers are exempt, as each tells the kohen the female is his."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:16:2",
+     "quote": "דמכל מקום בכור הוא",
+     "he": "רש״י: הבן חייב לפדות את עצמו, כי בכל מקרה הוא בכור.",
+     "en": "Rashi: the son must redeem himself, as he is a firstborn in any case."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 48b:11:1",
+     "quote": "דאין יודע ממי להוציא",
+     "he": "התוספות: ׳אין יכול להוציא׳ מובן בשני כהנים כי אינו יודע ממי להוציא.",
+     "en": "Tosafot: 'he cannot recover' is easier to understand with two kohanim as he does not know from whom to recover."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 48b:19:1",
+     "quote": "ולימא לא שלך מת אלא של חבירך",
+     "he": "רש״י על שאלת הגמרא: גם כהן אחד יוכל לומר לאב: לא שלך מת אלא של חברך.",
+     "en": "Rashi on the Gemara's question: a single kohen too could say to the father: yours did not die but your friend's."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:27",
+     "quote": "שהרי לא עיין פדיון זה על בן זה",
+     "he": "השולחן ערוך: אינו יכול להוציא מהכהנים, שהרי לא נקבע הפדיון הזה על בן זה.",
+     "en": "The Shulchan Arukh: he cannot recover from the kohanim, since this redemption was not designated for this particular son."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 48b:2",
+     "quote": "ואיגלאי מילתא דנפל הוא",
+     "he": "הרש״ש מציין לרש״י על ׳אם לכהן אחד׳, שנתגלה שהוא נפל, ומפנה לתוספות במט׳.",
+     "en": "The Rashash notes Rashi on 'if to one kohen', that it became clear he was a nefel, and refers to Tosafot on the following daf."
+    }
+   ]
+  }
+ ]
+}
