@@ -1,0 +1,1137 @@
+{
+ "ref": "Bekhorot 49",
+ "date": "2026-11-06",
+ "he": {
+  "overview": "בעמוד א׳ מסיימים את סוגיית שני זכרים ונקבה ועוברים לדיני מת הבן בתוך שלושים יום: טעמם של רבנן מ״חדש חדש״, ספקו של רבי עקיבא, ועניין אבלות ביום שלושים. אחר כך חזקת פדיון כשמת האב ומחלוקת רב ושמואל בפודה את בנו תוך שלושים. בעמוד ב׳ מחלוקת תנא קמא ורבי יהודה במי קודם בפדיון (הוא או בנו) ושיעור ״מנה צורי״ בחמש סלעים. הראשונים והאחרונים דנים בהרשאה על מטלטלין, בפירוש ״כיום שלפניו״ לענין שמועה קרובה ורחוקה, בהכרעה כרב או כשמואל ובשיעור המטבעות.",
+  "title": "סיכום — בכורות מ״ט"
+ },
+ "en": {
+  "overview": "On amud a the discussion of two sons and a daughter is completed, and the daf turns to the laws of a son who dies within thirty days: the Rabbis' source from 'chodesh – chodesh', Rabbi Akiva's doubt, and the question of mourning on the thirtieth day. It then treats the presumption of redemption when the father dies, and the dispute of Rav and Shmuel about one who redeems his son within thirty days. On amud b it treats the dispute of the first Tanna and Rabbi Yehuda over who comes first when both he and his son need redeeming, and the measure of the 'Tyrian maneh' for the five sela'im. The Rishonim and Acharonim discuss authorization on movable property, the meaning of 'like the day before it' regarding a near or distant report of death, whether the halakha follows Rav or Shmuel, and the value of the coins.",
+  "title": "Summary — Bekhorot 49"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "אדרכתא"
+   ],
+   "he": {
+    "term": "הרשאה (אדרכתא)",
+    "explanation": "מסמך שבו בעל ממון מרשה לאחר לתבוע ולגבות את חובו בשמו ולקחת לעצמו, כשהוא קונה לו את הזכות. נהרדעי אמרו שאין כותבים אותה על מטלטלין, או לפחות כשהנתבע כפר בהם."
+   },
+   "en": {
+    "term": "Hara'ah (adrakhta, authorization to collect)",
+    "explanation": "A document by which the owner of a claim authorizes another to sue and collect in his name and keep what he collects, with the right transferred to him. The Nehardeans said it is not written on movable property, or at least not where the debtor denied owing it."
+   },
+   "source": {
+    "who": {
+     "he": "הרמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Agents and Partners 3:1",
+    "quote": "ואומר לו דון וזכה והוצא לעצמך"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "גמרי חדש חדש ממדבר"
+   ],
+   "he": {
+    "term": "גזירה שווה ״חדש חדש״",
+    "explanation": "לימוד מילה שווה בשני מקומות: בפדיון הבכור נאמר ״מבן חדש״ ובמדבר נאמר ״מבן חדש ומעלה״, ולכן מסיקים שהפדיון מתחיל אחרי שלושים יום."
+   },
+   "en": {
+    "term": "Gezerah shavah 'chodesh – chodesh'",
+    "explanation": "Learning from the same word in two places: for redeeming the firstborn it says 'from a month old', and in Bamidbar 'from a month old and upward', so the Rabbis conclude that redemption starts after thirty days."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49a:6:1",
+    "quote": "פקוד כל בכור זכר מבן חדש ומעלה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "שני כתובים הבאים כאחד"
+   ],
+   "he": {
+    "term": "שני כתובים הבאים כאחד",
+    "explanation": "כלל שאם שני פסוקים מלמדים את אותו עניין, אין אפשרות ללמוד מהם על דברים אחרים. רבי עקיבא מסופק אם כלל זה חל גם כשלומדים על עניינם עצמם."
+   },
+   "en": {
+    "term": "Two verses that come as one",
+    "explanation": "The rule that if two verses teach the same matter, nothing else can be learned from them. Rabbi Akiva is in doubt whether the rule also applies when learning about the matters themselves."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49a:7:2",
+    "quote": "שני כתובין הבאין כאחד ואין מלמדין על פדיון הבן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "יום שלשים כיום שלפניו"
+   ],
+   "he": {
+    "term": "יום שלושים כיום שלפניו",
+    "explanation": "לענין אבלות יום שלושים נחשב כיום עשרים ותשעה, כלומר כספק נפל. נחלקו הראשונים אם גם לענין שמועה קרובה ורחוקה לומדים ממנו."
+   },
+   "en": {
+    "term": "The thirtieth day is like the day before it",
+    "explanation": "For mourning, the thirtieth day counts as the twenty-ninth, that is, as a doubtful non-viable birth. The Rishonim dispute whether one also learns from it for a near or distant report."
+   },
+   "source": {
+    "who": {
+     "he": "הרי״ף",
+     "en": "Rif"
+    },
+    "ref": "Rif Moed Katan 12b:1",
+    "quote": "וקאמר רב אשי שאם מת הולד ביום ל' כאלו מת ביום שלפניו שהוא כ\"ט"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "בחזקת שלא נפדה"
+   ],
+   "he": {
+    "term": "חזקה",
+    "explanation": "הנחה משפטית שמעמידים את הדבר על מצבו הרגיל כל עוד אין ראיה אחרת. כאן: בתוך שלושים סביר שלא נפדה, ואחר שלושים סביר שנפדה."
+   },
+   "en": {
+    "term": "Chazaka (presumption)",
+    "explanation": "A legal presumption that a matter stays in its usual state until there is proof otherwise. Here: within thirty days it is likely he was not redeemed, after thirty days it is likely he was."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49a:11:3",
+    "quote": "דהך חזקה דמחזקינן ליה בחזקת שנפדה לאו זו היא חזקה מעלייתא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "נתעכלו המעות"
+   ],
+   "he": {
+    "term": "נתעכלו המעות",
+    "explanation": "המעות כבר אינן בעין אצל הכהן. זה התנאי שבו נחלקו רב ושמואל בפדיון תוך שלושים – האם הפדיון תקף למפרע אחרי שלושים."
+   },
+   "en": {
+    "term": "Nit'akhlu hama'ot (the money was used up)",
+    "explanation": "The money is no longer in the kohen's hands. This is the condition on which Rav and Shmuel disagree about redemption within thirty days – whether the redemption takes effect after thirty days."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49a:12:1",
+    "quote": "ואיתנהו מעות ביד כהן בעין לאחר שלשים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "מלוה הכתובה בתורה"
+   ],
+   "he": {
+    "term": "מלוה הכתובה בתורה",
+    "explanation": "חוב שהתורה מחייבת (כמו פדיון הבן). רבי יהודה רואה אותו כחוב בשטר, שהכהן טורף בו מנכסים משועבדים; רבנן אינם רואים אותו כך."
+   },
+   "en": {
+    "term": "A debt written in the Torah",
+    "explanation": "A debt the Torah itself imposes (such as redeeming a son). Rabbi Yehuda treats it as a debt written in a document, which the kohen can collect from encumbered property; the Rabbis do not."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49b:9:1",
+    "quote": "ואי יהיב בני חרי בשביל פדיון בנו תו לא מיפריק איהו דכהן לא מצי טריף לקוחות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "מנה צורי"
+   ],
+   "he": {
+    "term": "מנה צורי",
+    "explanation": "המטבע שלפיו מחשבים חמש סלעים של פדיון הבן. מחלוקת אמוראים ופירושי הראשונים בשיעורו."
+   },
+   "en": {
+    "term": "Maneh Tzori (Tyrian maneh)",
+    "explanation": "The coin standard by which the five sela'im of redeeming a son are reckoned. The Amoraim and Rishonim dispute its measure."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 49b:12:1",
+    "quote": "היוצא במדינת צורי דהסלע ד' זוזים והזוז במשקל זהב של משקל שני פשיטין ומחצה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "הרשאה על מטלטלין – ״בבא בהרשאה״ ודברי נהרדעי",
+    "gemara": "הגמרא מסבירה את המשנה במקרה ״בבא בהרשאה״; והקשו: והרי אמרו נהרדעי שאין כותבים אדרכתא (הרשאה) על מטלטלין! ותירצו: זה דווקא כשהנתבע כפר, אבל כשלא כפר – כותבים.",
+    "halakha": "השולחן ערוך (חו״מ קכ״ג:א): מדינא דגמרא אין כותבין הרשאה אלא לתבוע פקדון שביד חבירו ולא כפר לו; והטור (חו״מ קכ״ג) מוסיף שהיום נהגו לכתוב על הכל."
+   },
+   "en": {
+    "title": "Hara'ah (authorization to collect) on movable property – 'one who comes by authorization' and the Nehardeans' rule",
+    "gemara": "The Gemara explains the Mishnah as a case of one who comes by authorization; it objects that the Nehardeans said an authorization (adrakhta) is not written for movable property. It answers that this applies only where the debtor denied the debt; where he did not deny it, one writes it.",
+    "halakha": "Shulchan Arukh (CM 123:1): by the law of the Gemara an authorization is written only to claim a deposit held by another who did not deny it; the Tur (CM 123) adds that nowadays the custom is to write it for everything."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:2:1",
+     "quote": "הואיל ואינן בעין מיחזי כשיקרא",
+     "he": "רש״י: אין כותבים הרשאה על מטלטלין, כיוון שאינם בעין נראה הדבר כשקר.",
+     "en": "Rashi: an authorization is not written on movable property, since it is not at hand and the document looks like a falsehood."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:2:2",
+     "quote": "משום דמיחזי כשיקרא",
+     "he": "רש״י: ״היכא דכפריה״ – כשהלוה כפר, המלוה אינו כותב עליהם הרשאה משום שנראה כשקר.",
+     "en": "Rashi: 'where he denied it' – when the borrower denied the debt, the lender does not write an authorization on it, because it looks like a falsehood."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49a:2:2",
+     "quote": "נוהגים עכשיו לכתוב הרשאה אפילו כפריה",
+     "he": "תוספות: על מה שנוהגים עכשיו לכתוב הרשאה אפילו כשכפר – ר״ת מסביר שהטעם של נהרדעי היה ״מחזי כשיקרא״, ולמחזי כשיקרא אין חוששים.",
+     "en": "Tosafot: on the present custom of writing an authorization even where he denied – Rabbeinu Tam explains that the Nehardeans' reason was 'it looks like a falsehood', which is not a concern."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49a:2:1",
+     "quote": "אי נמי איכא לאוקמה כרבי נתן דמדרבי נתן יכול להוציא מידו אם חבירו חייב",
+     "he": "תוספות: בין התירוצים לסוגיית שבועות – אפשר לבאר כרבי נתן, שלפיו אפשר להוציא ממי שחייב לחבירו.",
+     "en": "Tosafot: among the answers for the Shevuot passage, it can be explained according to Rabbi Natan, by whom one may collect from a person who owes his fellow."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 109:1",
+     "quote": "כותבין הרשאה אפילו אמטלטלי דכפרי ולמיחזי כשיקרא לא חיישינן",
+     "he": "פסקי תוספות: כותבים הרשאה אפילו על מטלטלין שכפר, ולמחזי כשיקרא לא חוששים.",
+     "en": "Piskei Tosafot: one writes an authorization even on movable property that was denied; the appearance of falsehood is not a concern."
+    },
+    {
+     "who": {
+      "he": "מלחמות ה׳",
+      "en": "Milchemet Hashem"
+     },
+     "ref": "Milchemet Hashem on Bava Kamma 27b:1",
+     "quote": "ואין לנו בה אלא מה שהסכימו עליו רבינו הגדול אלפסי ז\"ל ורבינו חננאל ז\"ל דודאי איתא לנהרדעי",
+     "he": "מלחמות ה׳: על שמועה זו יצאו כמה עסיקין, ואין לנו אלא מה שהסכימו הרי״ף ורבינו חננאל – שדברי נהרדעי ודאי קיימים.",
+     "en": "Milchemet Hashem: much contention has gone out over this passage, and all we have is what the Rif and Rabbeinu Chananel agreed – that the Nehardeans' rule certainly stands."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Bava Kamma 27a:13",
+     "quote": "נהגו לכתוב אדרכתא אפי' אמטלטלי דכפריה",
+     "he": "נימוקי יוסף: מביא את דברי רבינו חננאל שהיום נהגו לכתוב הרשאה אפילו על מטלטלין שכפר בהם, ואת טעמו של ר״ת.",
+     "en": "Nimukei Yosef: cites Rabbeinu Chananel that nowadays it is the custom to write an authorization even on movable property that was denied, and Rabbeinu Tam's reason."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Kamma 70a:3",
+     "quote": "מקשי מנהרדעי בשבועות פרק שבועת העדות ובבכורות פרק יש בכור לנחלה",
+     "he": "שיטה מקובצת: בכל התלמוד מקשים מדברי נהרדעי – בשבועות ובבכורות – ומכאן שהלכה כמותם.",
+     "en": "Shita Mekubetzet: throughout the Talmud the objection is raised from the Nehardeans' rule – in Shevuot and in Bekhorot – which shows the halakha follows them."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Agents and Partners 3:6",
+     "quote": "אינו יכול לכתוב הרשאה עליו שנמצא זה כמשקר",
+     "he": "הרמב״ם: התובע חברו על מטלטלין או מעות שהפקיד וכפר בו – אינו יכול לכתוב עליו הרשאה, שנמצא כמשקר.",
+     "en": "Rambam: one who sues his fellow over movables or money deposited with him, who denied it, cannot write an authorization on him, since he would appear to be lying."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 123",
+     "quote": "כל זה מדינא דגמרא אבל נהגו עכשיו לכתוב על הכל",
+     "he": "הטור: כל זה מדין הגמרא, אבל נהגו עכשיו לכתוב על הכל.",
+     "en": "Tur: all this is by the law of the Gemara, but nowadays the custom is to write it for everything."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 123:1",
+     "quote": "מדינא דגמרא אין כותבין הרשאה אלא לתבוע פקדונו שביד חבירו ולא כפר לו",
+     "he": "שולחן ערוך: מדינא דגמרא אין כותבין הרשאה אלא לתבוע פקדון שביד חבירו שלא כפר בו; והגאונים תקנו לכתוב גם על מלווה, כדי שלא יטול כל אחד ממון חברו וילך למדינה אחרת.",
+     "en": "Shulchan Arukh: by the law of the Gemara an authorization is written only to claim a deposit held by one who did not deny it; the Geonim ordained writing one also for a loan, so that each not take the other's money and go to another country."
+    },
+    {
+     "who": {
+      "he": "הפרישה",
+      "en": "Prisha"
+     },
+     "ref": "Prisha, Choshen Mishpat 123:1:1",
+     "quote": "אבל אהלואה בלא שטר אפילו אג\"ק אינו יכול להרשות כיון דלהוצאה ניתנה",
+     "he": "פרישה: על הלוואה בלי שטר אי אפשר להרשות אפילו באגב קרקע, כיוון שניתנה להוצאה ואינה נקנית.",
+     "en": "Prisha: on a loan without a document one cannot authorize even by acquisition together with land, since a loan is given to be spent."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    4
+   ],
+   "he": {
+    "title": "שני זכרים ונקבה – מי שלא בכרה אשתו",
+    "gemara": "רב הונא מוסיף על המשנה: שתי נשים של שני אנשים ילדו שני זכרים ונקבה – אין כאן לכהן כלום. התנא של המשנה לא שנה זאת, משום שאין מקרה כזה באיש אחד ושתי נשים.",
+    "halakha": "השולחן ערוך (יו״ד ש״ה:לא): זכר ונקבה או שני זכרים ונקבה – אין כאן לכהן כלום."
+   },
+   "en": {
+    "title": "Two sons and a daughter – the man whose wife did not give birth to a firstborn",
+    "gemara": "Rav Huna adds to the Mishnah: two women of two men gave birth to two sons and a daughter – the kohen receives nothing. The Mishnah's tanna did not teach this, because this case cannot arise with one man and two wives.",
+    "halakha": "Shulchan Arukh (YD 305:31): a son and a daughter, or two sons and a daughter – the kohen receives nothing."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:3:1",
+     "quote": "ואפ\"ה הבן אינו חייב לפדות את עצמו דא\"ל שמא אין אני בכור אלא חבירי",
+     "he": "רש״י: אף שבהכרח אחד הוא בכור, הבן אינו חייב לפדות את עצמו, כי יכול לומר: שמא אינני בכור אלא חברי.",
+     "en": "Rashi: even though one of them is certainly the firstborn, the son need not redeem himself, for he can say: perhaps I am not the firstborn but my fellow."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49a:3",
+     "quote": "מצי אמר מי שלא בכרה אשתו דלמא איתתי יליד זכר ונקבה ואיני יודע איזה יצא ראשון",
+     "he": "רבינו גרשום: מי שלא בכרה אשתו יכול לטעון: אולי אשתי ילדה זכר ונקבה ואיני יודע מי יצא ראשון.",
+     "en": "Rabbeinu Gershom: the man whose wife had not given birth can argue: perhaps my wife bore a son and a daughter, and I do not know which came first."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:4:1",
+     "quote": "דכיון דאיכא חד בכור יהיב ה' סלעים לכהן",
+     "he": "רש״י: באיש אחד ושתי נשים, כיוון שיש בכור אחד – נותן חמש סלעים; לכן לא שנה זאת התנא.",
+     "en": "Rashi: with one man and two wives, since there is a firstborn, he gives five sela'im; therefore the tanna did not teach it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49a:4",
+     "quote": "דלא משכחת לה באיש ושתי נשיו",
+     "he": "רבינו גרשום: אין מקרה כזה באיש ושתי נשיו, שהרי ממה נפשך חייב בחמש סלעים.",
+     "en": "Rabbeinu Gershom: this case does not occur with a man and his two wives, since either way he owes the five sela'im."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:31",
+     "quote": "זכר ונקבה או שני זכרים ונקבה אין כאן לכהן כלום",
+     "he": "שולחן ערוך: פוסק כדברי רב הונא – זכר ונקבה או שני זכרים ונקבה, אין כאן לכהן כלום.",
+     "en": "Shulchan Arukh: rules as Rav Huna – a son and a daughter, or two sons and a daughter, the kohen receives nothing."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "מת הבן בתוך שלושים יום; ״חדש חדש״ וספקו של רבי עקיבא; ״יום שלושים כיום שלפניו״",
+    "gemara": "לרבנן ילפינן ״חדש״ ״חדש״ ממדבר: כמו שם נאמר ״ומעלה״ – אחרי שלושים יום, כך כאן. רבי עקיבא מסופק: מאחר שנכתב ״ומעלה״ בערכין ולא למדו ממדבר, הרי שני כתובים הבאים כאחד שאין מלמדים; או שמא אין מלמדים לעלמא אבל לגופייהו מלמדים. לכן לדעתו ״אם נתן לא יטול ואם לא נתן לא יתן״. רב אשי: הכל מודים לענין אבילות שיום שלושים כיום שלפניו, ושמואל אמר: הלכה כדברי המיקל באבל.",
+    "halakha": "הרמב״ם (ביכורים י״א:יז) והשולחן ערוך (יו״ד ש״ה:יב): מת הבן בתוך שלושים, ואפילו ביום שלושים – פטור מחמש סלעים, ואם הקדים ונתן יחזיר לו."
+   },
+   "en": {
+    "title": "A son who dies within thirty days; 'chodesh chodesh' and Rabbi Akiva's doubt; 'the thirtieth day is like the day before it'",
+    "gemara": "According to the Rabbis, 'chodesh' is learned from 'chodesh' in Bamidbar: as there it says 'and upward', after thirty days, so here. Rabbi Akiva is in doubt: since 'and upward' had to be written in Arakhin and was not learned from Bamidbar, they are two verses that come as one, which teach nothing; or perhaps they teach nothing for other matters but do teach about themselves. So in his view, 'if he gave he may not take it back, and if he did not give he need not give'. Rav Ashi: all agree regarding mourning that the thirtieth day is like the day before it, and Shmuel said the halakha follows the lenient view in mourning.",
+    "halakha": "Rambam (First Fruits 11:17) and Shulchan Arukh (YD 305:12): if the son died within thirty days, even on the thirtieth, the father is exempt from the five sela'im, and if he had already given he must be returned the money."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:5:2",
+     "quote": "דנפל הוה ולא מיחייב בפדיון עד לאחר שלשים",
+     "he": "רש״י: ״יחזיר״ – כי נפל היה, ואין חיוב פדיון עד לאחר שלושים.",
+     "en": "Rashi: 'he must return' – because it was a non-viable birth (nefel), and there is no obligation of redemption until after thirty days."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49a:5:1",
+     "quote": "ובחנם פירש כן דאפילו קים לן ביה דכלו לו חדשיו בבן חדש תלה רחמנא",
+     "he": "תוספות: חולקים על רש״י – גם אם ברור שכלו לו חדשיו, התורה תלתה את הפדיון בבן חדש.",
+     "en": "Tosafot: disagree with Rashi – even if we know the baby's months were complete, the Torah made redemption depend on being a month old."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:6:2",
+     "quote": "משמע לאחר שלשים",
+     "he": "רש״י: ״ומעלה״ – משמע לאחר שלושים יום.",
+     "en": "Rashi: 'and upward' – implies after thirty days."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49a:7",
+     "quote": "במדבר כתי' ומעלה דהיינו שלשים ויותר",
+     "he": "רבינו גרשום: במדבר נכתב ״ומעלה״ – שלושים יום ויותר; ביום שלפניו פטור.",
+     "en": "Rabbeinu Gershom: in Bamidbar it is written 'and upward' – thirty days and more; on the day before, he is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:9:2",
+     "quote": "בכורי דורות מבכורי מדבר דאידי ואידי בבכור הוא משתעי מלמדין",
+     "he": "רש״י: ״אבל לגופייהו״ – כמו בכורי דורות מבכורי מדבר, ששניהם עוסקים בבכור, מלמדים; ומתוך הספק אמר ״אם נתן לא יטול״.",
+     "en": "Rashi: 'but about themselves' – such as the firstborn of later generations from those of the wilderness, both speaking of a firstborn, they do teach; and from the doubt he said 'if he gave he may not take it back'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49a:9",
+     "quote": "ודלמא דמלמדין להכי מספקא ליה",
+     "he": "רבינו גרשום: ר״ע מסופק אם מלמדים לגופייהו, ולכן אמר ״אם נתן לא יטול״.",
+     "en": "Rabbeinu Gershom: Rabbi Akiva is in doubt whether they teach about themselves, and so he said 'if he gave he may not take it back'."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 1:15:2",
+     "quote": "משום דספיקא הוא ולא מפקינן ממונא ממאן דתפס הואיל ותפס ברשות",
+     "he": "הרא״ש: דברי ר״ע ״אם נתן לא יטול״ הם כדין כל ספק ממון – אין מוציאים ממי שתפס ברשות.",
+     "en": "Rosh: Rabbi Akiva's 'if he gave he may not take it back' is the law of any monetary doubt – we do not take money from one who took it with permission."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 113:1",
+     "quote": "תקפו כהן ספק מוציאין אותו מידו נולד לו ספק לא יוציא מידו",
+     "he": "פסקי תוספות: אם תפס הכהן כשכבר היה ספק – מוציאים מידו; אם נולד הספק אחרי שתפס – לא מוציאים.",
+     "en": "Piskei Tosafot: if the kohen seized when the doubt already existed, it is taken from him; if the doubt arose after he took it, it is not taken."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Moed Katan 21a:3",
+     "quote": "מת הבן ביום שלשים כיום שלפניו פי' כיום ל\"א",
+     "he": "רבינו חננאל: מפרש ״יום שלושים כיום שלפניו״ – כיום שלושים ואחד; ולכן ששמע ביום שלושים, השמועה רחוקה.",
+     "en": "Rabbeinu Chananel: explains 'the thirtieth day is like the day before it' as like the thirty-first; so one who heard on the thirtieth has a distant report."
+    },
+    {
+     "who": {
+      "he": "הרי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Moed Katan 12b:1",
+     "quote": "וקאמר רב אשי שאם מת הולד ביום ל' כאלו מת ביום שלפניו שהוא כ\"ט",
+     "he": "הרי״ף: חולק – ״כיום שלפניו״ פירושו כיום עשרים ותשעה, שהוא כנפל ואין מתאבלים עליו, ולכן אין ללמוד מכאן לשמועה רחוקה.",
+     "en": "Rif: disagrees – 'like the day before it' means like the twenty-ninth day, as a non-viable birth, over whom one does not mourn, so one cannot learn from here about a distant report."
+    },
+    {
+     "who": {
+      "he": "הריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Moed Katan 20a:10",
+     "quote": "והגאונים ז\"ל שלפני רבינו אלפסי ז\"ל היו אומרים דיום ל' כיום ל\"א ושמועה רחוקה היא",
+     "he": "הריטב״א: מביא שהגאונים שלפני הרי״ף אמרו שיום שלושים כיום שלושים ואחד ושמועה רחוקה; ונדחק להסביר מדוע הרי״ף חולק.",
+     "en": "Ritva: reports that the Geonim before the Rif said the thirtieth day is like the thirty-first and a distant report, and he works to explain why the Rif disagrees."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Moed Katan 20a:5",
+     "quote": "וכבר נשתבשו קצת גאוני הראשוני' לומר שיום ל' עצמו נדון כשמועה רחוקה",
+     "he": "המאירי: קצת גאונים נשתבשו לומר שיום שלושים נדון כשמועה רחוקה; ״יום שלפניו״ פירושו יום עשרים ותשעה.",
+     "en": "Meiri: some early Geonim erred in saying the thirtieth day itself counts as a distant report; 'the day before' means the twenty-ninth."
+    },
+    {
+     "who": {
+      "he": "תוספות (יבמות)",
+      "en": "Tosafot (Yevamot)"
+     },
+     "ref": "Tosafot on Yevamot 36b:12:1",
+     "quote": "ומיהו לענין אבילות לא החמירו שיש להקל באבלות",
+     "he": "תוספות ביבמות: לענין אבלות לא החמירו, כי יש להקל באבלות.",
+     "en": "Tosafot on Yevamot: regarding mourning they did not take the stricter view, for one is lenient in mourning."
+    },
+    {
+     "who": {
+      "he": "הרמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Moed Katan 26b:5",
+     "quote": "ולא נראה לי זאת הסברא. שהקריעה עצמה מדברי סופרים וספקא לקולא",
+     "he": "הרמב״ן: אינו מקבל את הסברה שבקריעה נחמיר; הקריעה עצמה מדברי סופרים וספק – לקולא.",
+     "en": "Ramban: does not accept the view that one is strict about tearing the garment; the tearing itself is rabbinic and a doubt is resolved leniently."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Mourning 12:10",
+     "quote": "בן שלשים יום גמורים יוצא בגלוסקמא קטנה",
+     "he": "הרמב״ם: תינוק שמת בתוך שלושים יוצא בחיק, בלי עמידה וברכת אבלים; בן שלושים יום גמורים יוצא בגלוסקמא קטנה ועומדים עליו בשורה.",
+     "en": "Rambam: an infant who died within thirty days is carried out in the arms, without the line and the mourners' blessing; one of thirty full days is carried out in a small coffin and the line is formed."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:17",
+     "quote": "מת הבן בתוך שלשים ואפילו ביום שלשים",
+     "he": "הרמב״ם: מת הבן בתוך שלושים ואפילו ביום שלושים – אינו חייב בחמש סלעים; ואם הקדים ונתן לכהן יחזיר לו.",
+     "en": "Rambam: if the son died within thirty days, even on the thirtieth, he owes no five sela'im; and if he gave early the kohen must return it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 49a:1",
+     "quote": "כוונת ר\"ע אם נתן דוקא טרם שמת דהיינו קודם שנולד הספק",
+     "he": "רש״ש: כוונת ר״ע ״אם נתן״ – דווקא כשנתן לפני שמת, קודם שנולד הספק; אם נתן אחרי שמת יחזיר.",
+     "en": "Rashash: Rabbi Akiva's 'if he gave' means only if he gave before the son died, before the doubt arose; if he gave after the death he must be returned the money."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 49a:2",
+     "quote": "מתחלה היה רוצה למילף בבמה מצינו כולם משנת ס'",
+     "he": "רש״ש: מסביר את רש״י – בערכין רצו תחילה ללמוד הכל משנת ששים, ואחר כך למדו בגזירה שוה; ולכן שפיר אומר ר״ע שאם ילפינן ״חדש חדש״ ילפינן גם בערכין.",
+     "en": "Rashash: explains Rashi – in Arakhin they first wished to learn everything from age sixty and then learned by a gezerah shavah; so Rabbi Akiva rightly says that if we learn 'chodesh' from 'chodesh' we would learn Arakhin as well."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 49a:4",
+     "quote": "ולי לק\"מ דהרי עיקר ילפותא דרשב\"ג הוא מפדיון בכור",
+     "he": "רש״ש: על קושיית המהרש״א – אצלו אין קושי, שהרי עיקר הלימוד של רשב״ג הוא מפדיון בכור.",
+     "en": "Rashash: on the Maharsha's difficulty – for him there is none, since the main source of Rabban Shimon ben Gamliel's rule is the redemption of the firstborn."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 397:2",
+     "quote": "וכאן ספקו להקל כמ\"ש בבכורות",
+     "he": "ביאור הגר״א: בספק אבלות, ספקו להקל, כמו שאמרו בבכורות.",
+     "en": "Beur HaGra: in a doubt about mourning the doubt is treated leniently, as stated in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 305:39",
+     "quote": "והפדיון הוא ביום ל\"א דילפינן חדש חדש ממדבר",
+     "he": "ערוך השולחן: הפדיון הוא ביום שלושים ואחד, שלמדנו ״חדש חדש״ ממדבר.",
+     "en": "Arukh HaShulchan: the redemption is on the thirty-first day, since we learn 'chodesh' from 'chodesh' in Bamidbar."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:12",
+     "quote": "מת הבן בתוך שלשים ואפי' ביום שלשים",
+     "he": "שולחן ערוך: מת הבן בתוך שלושים ואפילו ביום שלושים – אינו חייב בפדיון, ואפילו הקדים ונתן יחזיר.",
+     "en": "Shulchan Arukh: if the son died within thirty days, even on the thirtieth, there is no obligation, and even if he gave early it is returned."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 353:5",
+     "quote": "בן ל' יום גמורות יוצא בגלוסקמא",
+     "he": "שולחן ערוך: בן שלושים יום גמורות יוצא בגלוסקמא ועומדים עליו בשורה ואומרים ברכת אבלים.",
+     "en": "Shulchan Arukh: one of thirty full days is carried out in a coffin, the line is formed and the mourners' blessing is said."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    11
+   ],
+   "he": {
+    "title": "מת האב – חזקת פדיון תוך שלושים ואחרי שלושים",
+    "gemara": "המשנה: מת האב בתוך שלושים – הבן בחזקת שלא נפדה עד שיביא ראיה; אחרי שלושים – בחזקת שנפדה עד שיאמרו לו שלא נפדה.",
+    "halakha": "הרמב״ם (ביכורים י״א:יט) והשולחן ערוך (יו״ד ש״ה:יד): מת האב בתוך שלושים – הבן בחזקת שלא נפדה עד שיביא ראיה; אחרי שלושים – בחזקת פדוי עד שיודיעוהו."
+   },
+   "en": {
+    "title": "The father dies – the presumption of redemption within and after thirty days",
+    "gemara": "The Mishnah: if the father died within thirty days the son is presumed unredeemed until he brings proof; after thirty days he is presumed redeemed until they tell him he was not.",
+    "halakha": "Rambam (First Fruits 11:19) and Shulchan Arukh (YD 305:14): if the father died within thirty days the son is presumed unredeemed until he brings proof; after thirty days he is presumed redeemed until he is informed otherwise."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:11:1",
+     "quote": "דלא עביד איניש דפריק תוך שלשים עד שיביא ראיה",
+     "he": "רש״י: אין אדם פודה בתוך שלושים, ולכן בחזקת שלא נפדה עד שיביא ראיה.",
+     "en": "Rashi: a person does not redeem within thirty days, so he is presumed unredeemed until he brings proof."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:11:2",
+     "quote": "דכהן הוי מוציא מחבירו והורע כחו",
+     "he": "רש״י: אחרי שלושים הבן בחזקת שנפדה, שהכהן הוא המוציא מחברו וכוחו רע.",
+     "en": "Rashi: after thirty days he is presumed redeemed, since the kohen is the one taking from his fellow and his claim is weaker."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:11:3",
+     "quote": "דהך חזקה דמחזקינן ליה בחזקת שנפדה לאו זו היא חזקה מעלייתא",
+     "he": "רש״י: החזקה שנפדה אינה חזקה מעולה, ולכן מספיק שיאמרו לו שלא נפדה בלי עדות גמורה.",
+     "en": "Rashi: the presumption that he was redeemed is not a strong presumption, so it is enough that he be told he was not redeemed, without full testimony."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49a:12",
+     "quote": "בין עבד בין אשה בין קטן נאמנין",
+     "he": "רבינו גרשום: ״עד שיאמרו לו״ – בין עבד בין אשה בין קטן נאמנים.",
+     "en": "Rabbeinu Gershom: 'until they tell him' – a slave, a woman or a minor are all believed."
+    },
+    {
+     "who": {
+      "he": "הרשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Bava Batra 5a:5",
+     "quote": "שאני לפי שאין לו תובעין ולפיכך אינו חושש לפרוע תוך זמנו",
+     "he": "הרשב״א: מסביר שבפדיון אין אדם מקדים לפרוע בתוך זמנו, כי אין לו תובעים.",
+     "en": "Rashba: explains that here a person does not pay early, within the term, because he has no creditors pressing him."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:19",
+     "quote": "הרי הוא בחזקת פדוי עד שיודיעוהו שלא נפדה",
+     "he": "הרמב״ם: מת האב לאחר שלושים – בחזקת פדוי עד שיודיעוהו שלא נפדה; ספק אם חייב בפדיון פטור, שהמוציא מחברו עליו הראיה.",
+     "en": "Rambam: if the father died after thirty days the son is presumed redeemed until he is told otherwise; one in doubt whether he owes is exempt, for the one who takes from his fellow must bring proof."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:14",
+     "quote": "מת האב בתוך שלשים יום הרי הבן בחזקת שלא נפדה עד שיביא ראיה שפדאו אביו",
+     "he": "שולחן ערוך: מת האב בתוך שלושים – הבן בחזקת שלא נפדה עד שיביא ראיה; לאחר שלושים – בחזקת שנפדה עד שיודיעוהו שצוה בשעת מיתה שלא נפדה.",
+     "en": "Shulchan Arukh: if the father died within thirty days the son is presumed unredeemed until he brings proof; after thirty, presumed redeemed until told that the father commanded at his death that he was not redeemed."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    12,
+    5
+   ],
+   "he": {
+    "title": "הפודה את בנו בתוך שלושים – מחלוקת רב ושמואל",
+    "gemara": "רב: בנו פדוי; שמואל: אין בנו פדוי. לכולי עלמא אם אמר ״מעכשיו״ – אינו פדוי, ואם אמר ״לאחר שלושים״ והמעות בעין – פדוי. נחלקו כשנתעכלו המעות: רב מדמה לקידושי אשה, ושמואל מחלק – שם בידו לקדשה מעכשיו, כאן אין בידו לפדותו מעכשיו. הגמרא מסיקה שהלכה כשמואל, אף שבדרך כלל הלכה כרב באיסורי, ומוכיחה מהמשנה ומברייתא שמדובר כשהמעות בעין.",
+    "halakha": "השולחן ערוך (יו״ד ש״ה:יג): מי שפדה בנו בתוך שלושים – אם אמר מעכשיו אין בנו פדוי, ואם אמר לאחר שלושים בנו פדוי אף שאין המעות קיימים. הרמ״א: וטוב להחמיר לחזור לפדותו."
+   },
+   "en": {
+    "title": "One who redeems his son within thirty days – the dispute of Rav and Shmuel",
+    "gemara": "Rav: his son is redeemed; Shmuel: his son is not redeemed. All agree that if he said 'from now' it is not a redemption, and if he said 'after thirty days' and the money is still there, it is. They differ when the money was used up: Rav compares it to betrothal of a woman, and Shmuel distinguishes – there he could betroth her now, here he cannot redeem him now. The Gemara concludes that the halakha follows Shmuel, though generally it follows Rav in matters of prohibition, and shows from the Mishnah and a baraita that those cases speak of money still in hand.",
+    "halakha": "Shulchan Arukh (YD 305:13): one who redeemed his son within thirty days – if he said 'from now' the son is not redeemed; if he said 'after thirty days' the son is redeemed even though the money no longer exists. The Rema adds: it is good to be stringent and redeem him again."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:12:1",
+     "quote": "ואי אמר בתוך ל' הרי לך המעות ולאחר שלשים יחול פדיון בני",
+     "he": "רש״י: אם אמר ״מעכשיו״ זו מתנה בלבד, כי בתוך שלושים אין פדיון; ואם אמר ״הרי לך המעות ולאחר שלושים יחול פדיון בני״ – ואיתנהו מעות בעין – פדוי.",
+     "en": "Rashi: if he said 'from now' it is only a gift, as within thirty days there is no redemption; if he said 'here is the money and after thirty days my son's redemption takes effect', with the money still in hand, he is redeemed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:13:2",
+     "quote": "דאי יהיב לה השתא מידי ואמר לה התקדשי לאחר שלשים יום הויא מקודשת",
+     "he": "רש״י: כמו קידושי אשה – אם נתן לה עכשיו ואמר ״התקדשי לאחר שלושים יום״ היא מקודשת.",
+     "en": "Rashi: like betrothal – if he gave her something now and said 'be betrothed after thirty days', she is betrothed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49b:1",
+     "quote": "התם בידו לקדשה מעכשיו אפי' בתוך שלשים הלכך הוו קדושי",
+     "he": "רבינו גרשום: בקידושין בידו לקדשה מעכשיו, ולכן הם קידושין אף שנתעכלו המעות.",
+     "en": "Rabbeinu Gershom: in betrothal he can betroth her immediately, so it is valid even though the money was used up."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:4:2",
+     "quote": "ואי מייתי ראיה הוי פדוי וקשיא לשמואל",
+     "he": "רש״י: על המשנה ״עד שיביא ראיה״ – אם מביא ראיה הוא פדוי, וקשה לשמואל.",
+     "en": "Rashi: on the Mishnah's 'until he brings proof' – if he brings proof he is redeemed, which is difficult for Shmuel."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:5:7",
+     "quote": "ונראה דהלכתא כרב דהך ברייתא מסייע ליה ועוד דהלכתא כרב באיסורי",
+     "he": "הרא״ש: נראה שהלכה כרב, כי הברייתא מסייעת לו וכי הלכה כרב באיסורי.",
+     "en": "Rosh: it appears the halakha follows Rav, since the baraita supports him and since the halakha follows Rav in prohibitions."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:18",
+     "quote": "אם אמר לו לאחר שלשים יום בנו פדוי ואף על פי שאין המעות קיימין",
+     "he": "הרמב״ם: אם אמר ״מעכשיו״ אין בנו פדוי; ואם אמר ״לאחר שלושים יום״ בנו פדוי אף על פי שאין המעות קיימין.",
+     "en": "Rambam: if he said 'from now' the son is not redeemed; if he said 'after thirty days' the son is redeemed even though the money no longer exists."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:18:1",
+     "quote": "ולפי זה יש לתמוה למה פסק רבינו כרב",
+     "he": "כסף משנה: לפי הגמרא שהלכה כשמואל, תמוה למה פסק הרמב״ם כרב; ומיישב שדעתו כדעת הרא״ש.",
+     "en": "Kessef Mishneh: given the Gemara that the halakha follows Shmuel, it is surprising that the Rambam ruled as Rav; he explains that the Rambam shares the Rosh's view."
+    },
+    {
+     "who": {
+      "he": "יצחק ירנן",
+      "en": "Yitzchak Yeranen"
+     },
+     "ref": "Yitzchak Yeranen on Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:18:1",
+     "quote": "כתב מרן ומהר\"י קורקוס ז\"ל דרבינו והרא\"ש לא היו גורסים כגירסת הספרים",
+     "he": "יצחק ירנן: הבית יוסף ומהר״י קורקוס כתבו שהרמב״ם והרא״ש לא גרסו את הדברים כנוסח הספרים שלנו.",
+     "en": "Yitzchak Yeranen: Maran and Maharik Korkos wrote that the Rambam and the Rosh did not have the reading found in our books."
+    },
+    {
+     "who": {
+      "he": "הט״ז",
+      "en": "Turei Zahav"
+     },
+     "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 305:14",
+     "quote": "ותימה רבה על הב\"י שכתב דהטור פוסק כשמואל",
+     "he": "הט״ז: תמה על הבית יוסף שכתב שהטור פוסק כשמואל, כי הטור פסק כרב.",
+     "en": "Turei Zahav: wonders at the Beit Yosef who wrote that the Tur rules as Shmuel, since the Tur ruled as Rav."
+    },
+    {
+     "who": {
+      "he": "שפתי כהן",
+      "en": "Siftei Kohen"
+     },
+     "ref": "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 305:19:1",
+     "quote": "דהתם בידו לקדשה מעכשיו אבל הכא אין בידו לפדותו מעכשיו",
+     "he": "שפתי כהן: אין הדבר דומה לקידושין, כי שם בידו לקדשה מעכשיו אבל כאן אין בידו לפדותו מעכשיו.",
+     "en": "Siftei Kohen: it is unlike betrothal, since there he could betroth her now but here he cannot redeem him now."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 49b:1",
+     "quote": "ואני תמה אמאי קרי ליה איסורא דהא ספק בכור אדם קי\"ל הממע\"ה",
+     "he": "רש״ש: תמה למה הגמרא קוראת לזה ״איסורי״, והרי ספק בכור אדם הוא דין ממון, והמוציא מחברו עליו הראיה.",
+     "en": "Rashash: wonders why the Gemara calls this a matter of prohibition, since a doubt about a human firstborn is a monetary matter, where the burden of proof is on the one who seeks to take."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:13",
+     "quote": "מי שפדה בנו בתוך שלשים יום אם אמר ליה מעכשיו אין בנו פדוי",
+     "he": "שולחן ערוך: מי שפדה בנו בתוך שלושים – אם אמר ״מעכשיו״ אין בנו פדוי; ואם אמר ״לאחר שלושים״ בנו פדוי. הרמ״א: וטוב להחמיר לחזור לפדותו.",
+     "en": "Shulchan Arukh: one who redeemed his son within thirty days – if he said 'from now' the son is not redeemed; if 'after thirty' he is. The Rema adds that it is good to be stringent and redeem him again."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    9
+   ],
+   "he": {
+    "title": "״הוא לפדות ובנו לפדות״ – מי קודם",
+    "gemara": "תנא קמא: הוא קודם לבנו; רבי יהודה: בנו קודמו, ״שמצותו על אביו ומצות בנו עליו״. רבי ירמיה: הכל מודים שכשאין אלא חמש סלעים הוא קודם; נחלקו כשיש חמש משועבדות וחמש בני חורין. לרבי יהודה מלוה הכתובה בתורה ככתובה בשטר – וכהן טורף ממשועבדים, ובבני חורין פודה את בנו; לרבנן אינה כשטר, ולכן מצותו שלו עדיפה.",
+    "halakha": "הרמב״ם (ביכורים י״א:ג) והשולחן ערוך (יו״ד ש״ה:טו): היה הוא לפדות ובנו לפדות – יפדה עצמו תחילה, ואם אין לו אלא כדי פדיון אחד יפדה עצמו."
+   },
+   "en": {
+    "title": "'He to redeem and his son to redeem' – who comes first",
+    "gemara": "The first Tanna: he comes before his son; Rabbi Yehuda: his son comes first, 'for his own mitzva was on his father, and his son's mitzva is on him'. Rabbi Yirmeya: all agree that where he has only five sela'im he comes first; they differ where he has five encumbered and five free assets. For Rabbi Yehuda a debt written in the Torah is like one written in a document – the kohen collects from encumbered property, and with the free property he redeems his son; for the Rabbis it is not like a document, so his own mitzva takes precedence.",
+    "halakha": "Rambam (First Fruits 11:3) and Shulchan Arukh (YD 305:15): if he and his son both need redeeming, he redeems himself first, and if he has only enough for one redemption he redeems himself."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:8:1",
+     "quote": "חמש סלעים דידיה אזיל כהן וטריף ממשעבדי שהרי שיעבודו של כהן קדם",
+     "he": "רש״י: לרבי יהודה הכהן טורף ממשועבדים את חמש הסלעים של האב, כי שעבודו של הכהן קדם.",
+     "en": "Rashi: according to Rabbi Yehuda the kohen collects the father's own five sela'im from encumbered property, since the kohen's lien came first."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:8:2",
+     "quote": "תו לא מיפריק בנו דשמא שיעבוד הלקוחות קודם ללידת בנו",
+     "he": "רש״י: אילו נתן בני חורין לפדיון עצמו, הבן לא היה נפדה, שמא שעבוד הלקוחות קדם ללידת הבן.",
+     "en": "Rashi: if he gave the free property for his own redemption, his son could not be redeemed, since perhaps the purchasers' lien preceded the son's birth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:9:1",
+     "quote": "ואי יהיב בני חרי בשביל פדיון בנו תו לא מיפריק איהו דכהן לא מצי טריף לקוחות",
+     "he": "רש״י: לרבנן, אם נתן בני חורין בשביל בנו, הוא עצמו לא ייפדה, כי הכהן אינו יכול לטרוף מלקוחות.",
+     "en": "Rashi: according to the Rabbis, if he gave the free property for his son, he himself could not be redeemed, since the kohen cannot collect from purchasers."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49b:4",
+     "quote": "ולא גבי ממשעבדי וליכא אלא ה' בני חורין",
+     "he": "רבינו גרשום: לרבנן הכהן אינו גובה ממשועבדים, ואין אלא חמש בני חורין.",
+     "en": "Rabbeinu Gershom: according to the Rabbis the kohen does not collect from encumbered property, and there are only five free assets."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49b:8:1",
+     "quote": "וא\"ת היכי טריף ממשעבדי הא אין נפרעין מנכסים משועבדים במקום שיש בני חורין",
+     "he": "תוספות: מקשים איך הכהן טורף ממשועבדים כשיש בני חורין, ומתרצים שמדובר בלקוחות שקנו מאביו ובנכסים שירש.",
+     "en": "Tosafot: ask how the kohen collects from encumbered property where free property exists, and answer that it concerns purchasers from his father and property he inherited."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:7:2",
+     "quote": "והלכתא כת\"ק דאמר מצוה דידיה עדיף",
+     "he": "הרא״ש: הלכה כתנא קמא – מצותו שלו עדיפה; ואפילו כשיש חמש משועבדות וחמש בני חורין.",
+     "en": "Rosh: the halakha follows the first Tanna – his own mitzva takes precedence, even where there are five encumbered and five free assets."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:3",
+     "quote": "יפדה עצמו תחלה ואחר כך בנו",
+     "he": "הרמב״ם: היה הוא לפדות ובנו לפדות – יפדה עצמו תחילה ואחר כך בנו; ואם אין לו אלא פדיון אחד יפדה עצמו.",
+     "en": "Rambam: if he and his son are to be redeemed, he redeems himself first and then his son; if he has only one redemption's worth he redeems himself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:15",
+     "quote": "יפדה עצמו תחלה ואח\"כ יפדה את בנו ואם אין לו אלא כדי פדיון אחד יפדה עצמו",
+     "he": "שולחן ערוך: היה הוא לפדות ובנו לפדות – יפדה עצמו תחילה ואחר כך את בנו; ואם אין לו אלא כדי פדיון אחד יפדה עצמו.",
+     "en": "Shulchan Arukh: if he and his son are to be redeemed, he redeems himself first and then his son; if he has only enough for one redemption he redeems himself."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    12
+   ],
+   "he": {
+    "title": "״מנה צורי״ ושיעור חמש סלעים; ״חוץ משקלים״",
+    "gemara": "המשנה: חמש סלעים של בן – במנה צורי; כל הסכומים בשקל הקדש, ונפדים בכסף ובשווה כסף חוץ משקלים. בגמרא שלוש דעות במנה צורי: רבי אסי – מנה של צור; רבי אמי – דינרא ערביא; רבי חנינא – איסתרא סורסיא שנמכרת שמונה בדינר, וחמש מהן לפדיון הבן.",
+    "halakha": "השולחן ערוך (יו״ד ש״ה:א): מצוות עשה לפדות את הבן הבכור בחמש סלעים, שהם מאה ועשרים מעים, שהם שלושים דרהמים כסף מזוקק."
+   },
+   "en": {
+    "title": "'Maneh Tzori' and the measure of five sela'im; 'except sheqalim'",
+    "gemara": "The Mishnah: five sela'im for a son – by the Tyrian maneh; all sums are in the holy sheqel, and they are redeemed with money or its equivalent, except sheqalim. The Gemara gives three views on the Tyrian maneh: Rabbi Assi – a maneh of Tyre; Rabbi Ammi – an Arabian dinar; Rabbi Chanina – a Syrian istera, eight of which sell for a dinar, five of them for the redemption of a son.",
+    "halakha": "Shulchan Arukh (YD 305:1): it is a positive commandment to redeem a firstborn son with five sela'im, which are 120 ma'ah, which are thirty drachmas of refined silver."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:12:1",
+     "quote": "היוצא במדינת צורי דהסלע ד' זוזים והזוז במשקל זהב של משקל שני פשיטין ומחצה",
+     "he": "רש״י: מנה צורי – היוצא במדינת צור; הסלע ארבעה זוזים והזוז במשקל זהוב של שני פשיטין ומחצה.",
+     "en": "Rashi: the Tyrian maneh is that current in the province of Tyre; the sela is four zuz, and the zuz is the weight of a gold coin of two and a half pashitin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:12:2",
+     "quote": "סלע צורי היינו דינר ערבא ישמעאלי",
+     "he": "רש״י: לרבי אמי, סלע צורי הוא דינר ערבי ישמעאלי; ומביא תשובת הגאונים הבבליים על שיעורו.",
+     "en": "Rashi: according to Rabbi Ammi, a Tyrian sela is an Ishmaelite Arabian dinar; he cites a responsum of the Babylonian Geonim on its measure."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49b:11:3",
+     "quote": "שקלים הבאים בלשכה באדר אין מביאין שם אלא מטבע של חצי שקלים",
+     "he": "רש״י: ״חוץ משקלים״ – השקלים שבאים ללשכה באדר אין מביאים אלא מטבע של חצי שקלים.",
+     "en": "Rashi: 'except sheqalim' – the sheqalim brought to the chamber in Adar are brought only in coin, as half-sheqalim."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49b:12:2",
+     "quote": "ודבריו סותרין זה את זה",
+     "he": "תוספות: חולקים על רש״י – דברי רש״י סותרים זה את זה, ואין דינר ערבי שווה לסלע צורי; מדובר בדינרי זהב.",
+     "en": "Tosafot: disagree with Rashi – his words contradict one another, and the Arabian dinar cannot be the Tyrian sela; it speaks of gold dinars."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49b:12:1",
+     "quote": "נמצא דחמש סלעים של בן אין שוין פשוט אחד ממטבע שלנו לר' חנינא",
+     "he": "תוספות: על פירוש רש״י לרבי חנינא – יוצא שחמש סלעים של בן אינן שוות אפילו פרוטה אחת, ולכן אין לפרש כך.",
+     "en": "Tosafot: on Rashi's explanation of Rabbi Chanina – it would follow that the five sela'im for a son are not worth even one pashut of our money, so it cannot be explained so."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49b:12:3",
+     "quote": "ששוה שמונה של בן היינו שלשים ושנים דינר של כסף שהסלע ארבעה דינרין",
+     "he": "תוספות: איסתרא סורסיא ששווה שמונה לדינר – היינו שלושים ושניים דינר כסף, כי הסלע ארבעה דינרים.",
+     "en": "Tosafot: the Syrian istera of which eight sell for a gold dinar equals thirty-two silver dinars, since a sela is four dinars."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 49b:10:1",
+     "quote": "אשם בכסף שקלים וערכין לא איצטריך ליה לתנא למיתני",
+     "he": "תוספות: התנא לא היה צריך לשנות אשם ערכין בשקל הקדש, כי כתוב בהם בפירוש שקל הקדש.",
+     "en": "Tosafot: the tanna did not need to teach the guilt-offering and valuations, since the Torah states the holy sheqel explicitly there."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 49b:5",
+     "quote": "מנה של צור כ\"ה שקלים במנה של תורה",
+     "he": "רבינו גרשום: מנה של צור הוא עשרים וחמישה שקלים במנה של תורה.",
+     "en": "Rabbeinu Gershom: the maneh of Tyre is twenty-five sheqalim in the Torah's maneh."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:9:2",
+     "quote": "נמצא חמשה סלעים משקל אלף ותשע מאות ועשרים שעורים כסף",
+     "he": "הרא״ש: מביא את הגאונים – חמש סלעים משקלם אלף תשע מאות ועשרים שעורים כסף.",
+     "en": "Rosh: cites the Geonim – five sela'im weigh 1,920 grains of barley in silver."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 116:1",
+     "quote": "דינרי זהב בכל הש\"ס נמכר בעשרים וחמשה דל זוזא ישאר עשרים וארבע",
+     "he": "פסקי תוספות: דינר זהב שבכל הש״ס נמכר בעשרים וחמישה; מורידים זוז ונשארים עשרים וארבעה, ואחר כך שתות.",
+     "en": "Piskei Tosafot: the gold dinar of the whole Talmud sells for twenty-five; remove a zuz and twenty-four remain, then a sixth is subtracted."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 49b:4",
+     "quote": "דשקלים הוא דוקא מטבע של כסף",
+     "he": "רש״ש: שקלים הוא דווקא מטבע של כסף, ולכן אמרה המשנה ״חוץ משקלים״; מעשר שני נפדה אפילו במטבע פרוטות.",
+     "en": "Rashash: sheqalim must be a silver coin, which is why the Mishnah says 'except sheqalim'; second tithe is redeemed even with small coins."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:1",
+     "quote": "מצות עשה לפדות כל איש מישראל בנו שהוא בכור לאמו הישראלית בה' סלעים",
+     "he": "שולחן ערוך: מצוות עשה לפדות את הבן הבכור בחמש סלעים, שהם מאה ועשרים מעים, שלושים דרהמים כסף מזוקק.",
+     "en": "Shulchan Arukh: it is a positive commandment to redeem the firstborn son with five sela'im, 120 ma'ah, thirty drachmas of refined silver."
+    }
+   ]
+  }
+ ]
+}
