@@ -1,0 +1,1167 @@
+{
+ "ref": "Bekhorot 47",
+ "date": "2026-11-04",
+ "he": {
+  "overview": "דף מ״ז עוסק בבכור ובמעמדם של גרים וגויים. בעמוד א׳ נידונה מחלוקת רבי יוחנן וריש לקיש בגר שהיו לו בנים בגיותו, והאם יש לו בכור לנחלה ומצוות פריה ורביה, וכן בלויה וכהנת שנתעברו מגוי ובנם פטור מחמש סלעים. בעמוד ב׳ נידון כהן שמת והניח בן חלל – האם חייב לפדות את עצמו, ספק בכור והבא אחריו והרשאה, ומתני׳ ״איזהו בכור לנחלה ולכהן״ ביוצא דופן ובמפלות. הראשונים והאחרונים דנים בהבדל בין ״יכיר״ להכרת פנים, בטעם ״אין אב לעובד כוכבים״ ובדעת רבי שמעון ביוצא דופן.",
+  "title": "סיכום — בכורות מ״ז"
+ },
+ "en": {
+  "overview": "Daf 47 deals with the firstborn and the status of converts and gentiles. On amud a the Gemara discusses Rabbi Yochanan and Reish Lakish on a convert who had children as a gentile – whether he has a firstborn for inheritance and fulfils procreation – and a Levite woman or kohenet who conceived from a gentile, whose son is exempt from the five sela’im. On amud b it discusses a kohen who died leaving a challal son – must he redeem himself – a doubtful firstborn and the one after him and harsha’ah, and the Mishnah “who is a firstborn for inheritance and for the kohen” regarding miscarriages and a caesarean child. The Rishonim and Acharonim discuss “yakir” versus recognition of the face, the reason “a gentile has no father”, and Rabbi Shimon’s view on a caesarean child.",
+  "title": "Summary — Bekhorot 47"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "גר שנתגייר כקטן שנולד דמי"
+   ],
+   "he": {
+    "term": "גר שנתגייר כקטן שנולד דמי",
+    "explanation": "הגר שנתגייר נחשב כמי שנולד מחדש, ויחסי הקרבה שלו לאנשים שלפני הגיור נחתכים. מכאן נלמד אם בנים שנולדו לו בגיותו נחשבים בנים לענין בכורה ופריה ורביה."
+   },
+   "en": {
+    "term": "A convert is like a newborn child",
+    "explanation": "A convert who has converted is considered newly born, and his family ties from before conversion are severed. From this we examine whether children born to him as a gentile count as children for the firstborn law and for procreation."
+   },
+   "source": {
+    "who": {
+     "he": "פתח עינים",
+     "en": "Petach Einayim"
+    },
+    "ref": "Petach Einayim on Bekhorot 47a:1",
+    "quote": "גם ר' יוחנן מודה בהא דגר שנתגייר כקטן שנולד דמי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "ראשית אונו"
+   ],
+   "he": {
+    "term": "ראשית אונו",
+    "explanation": "הפסוק ״בכור... ראשית אונו״ מגדיר את הבן הראשון שנולד לאב. מי שכבר היה לו בן קודם – הבא אחריו אינו ״ראשית אונו״ ואינו נוטל פי שנים."
+   },
+   "en": {
+    "term": "Reishit ono (the first of his strength)",
+    "explanation": "The verse calls the firstborn “the first of his strength”, the father’s first child. If he already had an earlier child, the next is not “first of his strength” and does not take a double share."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47a:11:3",
+    "quote": "לגביה נמי לא חשיבי ראשונים והוי האי ראשית אונו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "פטר רחם"
+   ],
+   "he": {
+    "term": "פטר רחם",
+    "explanation": "בכור לכהן נקבע לפי מי שפתח את הרחם. בן שקדמו לו ילדים שנחשבים ולד, אפילו בנים שנולדו קודם בגיותה, כבר פטרו את הרחם."
+   },
+   "en": {
+    "term": "Peter rechem (first-issue of the womb)",
+    "explanation": "The firstborn for the kohen is determined by who opened the womb. A child preceded by earlier offspring who count as children has had the womb already opened."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47a:9:1",
+    "quote": "דאינו בכור לכהן דבנים הראשונים מיקרו פטר רחם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "אין מזהמין את הולד"
+   ],
+   "he": {
+    "term": "אין מזהמין את הולד",
+    "explanation": "מחלוקת תנאים לאיזה צד הולך ולד של עובד כוכבים עם בת ישראל. ״מזהמין״ – הולכים אחר העובד כוכבים; ״אין מזהמין״ – הולד הולך אחר האם הישראלית."
+   },
+   "en": {
+    "term": "“We do not defile the offspring”",
+    "explanation": "A dispute over which side the child of a gentile and an Israelite woman follows. “They defile” – we follow the gentile; “they do not defile” – the child follows the Israelite mother."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Bekhorot 47a:14:1",
+    "quote": "ומ\"ד מזהמין היינו מאן דשדי ליה בתר עובד כוכבים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "אתינא מכח גברא"
+   ],
+   "he": {
+    "term": "אתינא מכח גברא",
+    "explanation": "הבן החלל אומר לכהן התובע ממנו פדיון: אני בא מכוחו של אבי, שגם אותו אתה לא יכול לתבוע. טענה זו בדין היא שמשחררת את הבן מפדיון."
+   },
+   "en": {
+    "term": "“I come through the power of a man”",
+    "explanation": "The challal son tells the kohen claiming redemption: I come through my father, from whom you also cannot claim. This argument is what frees the son from redemption."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47b:2:2",
+    "quote": "האי חלל לכהן אתינא מכח גברא כהן דלא מצית אישתעויי דינא בהדיה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "הרשאה"
+   ],
+   "he": {
+    "term": "הרשאה",
+    "explanation": "כתב שבו אדם ממנה את חברו לתבוע בשמו. כאן – שני אחים ספק כותבים זה לזה, כדי שכל אחד יתבע גם בשם חברו."
+   },
+   "en": {
+    "term": "Harsha’ah (power of attorney)",
+    "explanation": "A document by which one authorizes another to claim in his name. Here two brothers of doubtful status write them to each other so each can claim also in the other’s name."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47b:8:1",
+    "quote": "אם אני בכור תנו לי בשביל עצמי ואם אחי בכור תנו לי בשביל אחי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "יוצא דופן"
+   ],
+   "he": {
+    "term": "יוצא דופן",
+    "explanation": "ולד שיצא לא דרך הרחם אלא מן הדופן. לדעת חכמים אינו בכור, ורבי שמעון מחשיבו ללידה לנחלה."
+   },
+   "en": {
+    "term": "Yotzei dofen (born by caesarean)",
+    "explanation": "A child who comes out not by the womb but through the side. According to the Sages he is not a firstborn, while Rabbi Shimon counts him as birth for inheritance."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47b:12:1",
+    "quote": "דרך רחם שניהן אינן בכור"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 14,
+   "anchors": [
+    "בכור לדבר אחד"
+   ],
+   "he": {
+    "term": "בכור לדבר אחד",
+    "explanation": "מי שהוא בכור לצד אחד בלבד – כגון לרחם ולא לולדות – והמחלוקת אם נחשב בכור לשאר הדינים."
+   },
+   "en": {
+    "term": "Bekhor le-davar echad (firstborn for one matter)",
+    "explanation": "One who is firstborn on one count only – for example of the womb but not of offspring – and the dispute is whether he counts as firstborn for the other laws."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 47b:14:1",
+    "quote": "ואינו בכור לוולדות דהא הוה לו ולד זכר קודם לו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "״יכיר״ והכרת פנים",
+    "gemara": "הגמרא מסיימת את הסוגיה הקודמת בתירוץ: ״יכיר״ שנאמר בבכור לנחלה הוא דבר אחד, והכרת פנים שנאמרה בעדות על אדם היא דבר אחר.",
+    "halakha": "הטור: ״ואם יצא רוב פדחת בחיי האב הרי הוא כילוד ונוטל פי שנים״."
+   },
+   "en": {
+    "title": "“Yakir” versus recognition of the face",
+    "gemara": "The Gemara closes the preceding discussion with the answer that “yakir”, said of the firstborn for inheritance, is one thing, and recognition of the face, said of identifying a person, is another.",
+    "halakha": "The Tur: “if most of the forehead came out during the father’s lifetime, he is as one born and takes a double share.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:1:1",
+     "quote": "דלא כתיב פנים הוי פדחת היכר",
+     "he": "רש״י: משום שלא נכתב ״פנים״, די בפדחת כהיכר.",
+     "en": "Rashi: because “face” is not written, the forehead is a sufficient mark."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47a:1",
+     "quote": "בהכרת פדחת לחוד סגי לנחלה",
+     "he": "רבינו גרשום: לנחלה די בהכרת הפדחת לבדה.",
+     "en": "Rabbeinu Gershom: for inheritance, recognition of the forehead alone suffices."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 277",
+     "quote": "ואם יצא רוב פדחת בחיי האב הרי הוא כילוד ונוטל פי שנים",
+     "he": "הטור: אם יצא רוב הפדחת בחיי האב, הרי הוא כילוד ונוטל פי שנים.",
+     "en": "The Tur: if most of the forehead came out in the father’s lifetime, he is as one born and takes a double share."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שו״ת חתם סופר",
+      "en": "Responsa Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Even HaEzer 2:144:20",
+     "quote": "יכיר לחוד סגי בפדחת והכרת פנים לחוד צריך פרצוף פנים עם חוטם",
+     "he": "החתם סופר: ב״יכיר״ די בפדחת, ובהכרת פנים צריך פרצוף פנים עם חוטם.",
+     "en": "The Chatam Sofer: for “yakir” the forehead suffices; for recognition of the face one needs the face with the nose."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Even HaEzer 17:188",
+     "quote": "ובכלל הפנים הם הפדחת והחוטם והלחיים עצמם",
+     "he": "ערוך השולחן: בכלל ״הפנים״ הם הפדחת, החוטם והלחיים עצמם.",
+     "en": "The Arukh HaShulchan: “the face” includes the forehead, the nose and the cheeks themselves."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    5
+   ],
+   "he": {
+    "title": "גר שהיו לו בנים בגיותו – בכורה ופריה ורביה",
+    "gemara": "נחלקו רבי יוחנן וריש לקיש במי שהיו לו בנים בגיותו ונתגייר. רבי יוחנן סבור שאין לו בכור לנחלה, שהרי כבר היה לו ״ראשית אונו״, ושקיים פריה ורביה ״לא תהו בראה לשבת יצרה״; ריש לקיש סבור שיש לו בכור לנחלה ושלא קיים פריה ורביה, ״גר שנתגייר כקטן שנולד דמי״. הגמרא מסבירה שצריך להשמיע את שתי המחלוקות.",
+    "halakha": "שולחן ערוך: ״היה לו בנים כשהיה עכו״ם ונתגייר אין לו בכור לנחלה״."
+   },
+   "en": {
+    "title": "A convert who had children as a gentile – the firstborn and procreation",
+    "gemara": "Rabbi Yochanan and Reish Lakish dispute over one who had children as a gentile and converted. Rabbi Yochanan holds he has no firstborn for inheritance, since he already had “the first of his strength”, and that he fulfilled procreation, “He did not create it a waste, He formed it to be inhabited”; Reish Lakish holds he has a firstborn for inheritance and did not fulfil procreation, since a convert is like a newborn child. The Gemara explains why both disputes must be stated.",
+    "halakha": "Shulchan Arukh: “If he had children when he was a gentile and converted, he has no firstborn for inheritance.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:2:1",
+     "quote": "עובדי כוכבים אינן בני נחלה לירש את אביהם",
+     "he": "רש״י: עובדי כוכבים אינם בני נחלה לירש את אביהם.",
+     "en": "Rashi: gentiles are not heirs to inherit their father."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47a:2",
+     "quote": "בגיותן לאו בני נחלה נינהו דאין אב לעובד כוכבים",
+     "he": "רבינו גרשום: בגיותם אינם בני נחלה, שאין אב לעובד כוכבים.",
+     "en": "Rabbeinu Gershom: in their gentile state they are not heirs, for a gentile has no paternal relationship."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:3:1",
+     "quote": "את העולם אלא לשבת יצרה",
+     "he": "רש״י: הקב״ה לא בראה את העולם לתוהו אלא לשבת יצרה.",
+     "en": "Rashi: the Holy One did not create the world as a waste but formed it to be inhabited."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:4:1",
+     "quote": "פירש בקונטרס עובדי כוכבים אינם בני נחלה משנתגיירו",
+     "he": "תוספות: בקונטרס פירש שעובדי כוכבים אינם בני נחלה משנתגיירו, ומקשים מקידושין שגוי יורש את אביו.",
+     "en": "Tosafot: the commentary explains that gentiles are not heirs once they convert, and they raise the difficulty from Kiddushin that a gentile inherits his father."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:4:2",
+     "quote": "דזרעו מתייחס אחריו והיינו עבד ליה שבת",
+     "he": "תוספות: ״עבד ליה שבת״ פירושו שזרעו מתייחס אחריו.",
+     "en": "Tosafot: “he made it inhabited” means that his offspring are attributed after him."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 277:9",
+     "quote": "היה לו בנים כשהיה עכו\"ם ונתגייר אין לו בכור לנחלה",
+     "he": "שולחן ערוך: מי שהיו לו בנים כשהיה עכו״ם ונתגייר, אין לו בכור לנחלה.",
+     "en": "Shulchan Arukh: one who had children as a gentile and converted has no firstborn for inheritance."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 1:7",
+     "quote": "היו לו בנים בהיותו עכו\"ם ונתגייר הוא והם ה\"ז קיים מצוה זו",
+     "he": "שולחן ערוך: מי שהיו לו בנים בהיותו עכו״ם ונתגייר הוא והם, הרי זה קיים מצוה זו.",
+     "en": "Shulchan Arukh: one who had children as a gentile and he and they converted has fulfilled this commandment."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 47a:1",
+     "quote": "גם ר' יוחנן מודה בהא דגר שנתגייר כקטן שנולד דמי",
+     "he": "פתח עינים: גם רבי יוחנן מודה שגר שנתגייר כקטן שנולד דמי.",
+     "en": "Petach Einayim: Rabbi Yochanan too agrees that a convert is like a newborn child."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Even HaEzer 1:17",
+     "quote": "הבנים שנתגיירו ואינן בנים שלו",
+     "he": "הגר״א: הכוונה לבנים שנתגיירו, ואינם בנים שלו.",
+     "en": "The Gra: this refers to the children who converted, who are not his children."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Marriage 15:6:1",
+     "quote": "ס\"ל לרבינו דאם לא נתגיירו הבנים לא מהני",
+     "he": "מעשה רקח: לדעת הרמב״ם, אם הבנים לא נתגיירו – אין בכך כלום.",
+     "en": "Maaseh Rokeach: the Rambam holds that if the children did not convert, it does not count."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 21:17:10",
+     "quote": "אין לו בכור לנחלה, מאי טעמא, דהא הוי ליה ראשית אונו",
+     "he": "תורה תמימה: מביא את דברי רבי יוחנן שאין לו בכור לנחלה, שהרי כבר היה לו ״ראשית אונו״.",
+     "en": "Torah Temimah: cites Rabbi Yochanan that he has no firstborn for inheritance, since he already had “the first of his strength”."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    11
+   ],
+   "he": {
+    "title": "המשנה ״ילדה ממאן״ ורבי יוסי הגלילי",
+    "gemara": "הגמרא מקשה מן המשנה על רבי יוחנן: אם הבאה מישראל, מה חידשה בגיורת ושפחה? אלא ודאי מגר שהיו לו בנים – ויש לו בכור לנחלה. מתרצים שהמשנה באה לומר ״אינו בכור לכהן״, לאפוקי מרבי יוסי הגלילי הסובר ״פטר רחם בישראל״. ברייתא שאומרת שיש לו בכור לנחלה היא כרבי יוסי הגלילי.",
+    "halakha": null
+   },
+   "en": {
+    "title": "The Mishnah “from whom did she give birth” and Rabbi Yose HaGelili",
+    "gemara": "The Gemara challenges Rabbi Yochanan from the Mishnah: if the child came from an Israelite, why mention a convert or a freed maidservant? It must be from a convert who had children. The answer is that the Mishnah teaches “he is not a firstborn for the kohen”, to exclude Rabbi Yose HaGelili, who reads “the first-issue of the womb in Israel”. A baraita saying he does have a firstborn for inheritance follows Rabbi Yose HaGelili.",
+    "halakha": null
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:7:3",
+     "quote": "דהא באב תליא מילתא ולא באם",
+     "he": "רש״י: אפילו בת ישראל – שהרי הדבר תלוי באב ולא באם.",
+     "en": "Rashi: even an Israelite woman – for the matter depends on the father, not the mother."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:8:1",
+     "quote": "ותיובתא דר' יוחנן",
+     "he": "רש״י: מפרש שהמשנה מדברת בגיורת שהיו לה בנים בגיותה, וזו תיובתא של רבי יוחנן.",
+     "en": "Rashi: he explains the Mishnah as speaking of a convert who had children in her gentile state, and this refutes Rabbi Yochanan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:9:1",
+     "quote": "דאינו בכור לכהן דבנים הראשונים מיקרו פטר רחם",
+     "he": "רש״י: המשנה צריכה לומר שאינו בכור לכהן, שהרי הבנים הראשונים נקראים פטר רחם, לאפוקי מרבי יוסי הגלילי.",
+     "en": "Rashi: the Mishnah needs to say he is not a firstborn for the kohen, because the earlier children are called first-issue of the womb, to exclude Rabbi Yose HaGelili."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:11:3",
+     "quote": "לגביה נמי לא חשיבי ראשונים והוי האי ראשית אונו",
+     "he": "רש״י: כשם שלגבי האשה הקודמים אינם ראשונים, כך גם לגבי הבעל, והבן הזה הוא ״ראשית אונו״.",
+     "en": "Rashi: just as for her the earlier children do not count as first, so too for him, and this child is “the first of his strength”."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    12,
+    15
+   ],
+   "he": {
+    "title": "לויה שילדה – בנה פטור מחמש סלעים",
+    "gemara": "רב אדא בר אהבה אומר שבן ללויה פטור מחמש סלעים. הגמרא שואלת מאיזה אב נתעברה: אם מכהן ולוי – מה חידשה בלויה? אם מישראל – ״למשפחותם לבית אבותם״. רב פפא: מגוי, ואפילו למאן דאמר ״מזהמין את הולד״, לוי פסול מיקרי. מר בריה דרב יוסף משמיה דרבא: מישראל, כי ״בפטר רחם תלא רחמנא״.",
+    "halakha": null
+   },
+   "en": {
+    "title": "A Levite woman who gave birth – her son is exempt from the five sela’im",
+    "gemara": "Rav Adda bar Ahava says the son of a Levite woman is exempt from the five sela’im. The Gemara asks from whom she conceived: from a kohen or Levite, why single out a Levite woman? From an Israelite – “by their families, by their fathers’ houses”. Rav Pappa: from a gentile, and even according to the one who says “they defile the offspring”, a Levite counts as disqualified. Mar son of Rav Yosef in the name of Rava: from an Israelite, because the Torah made it depend on the first-issue of the womb.",
+    "halakha": null
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:13:1",
+     "quote": "דמשפחת אב נפקא מהכא דקרויה משפחה ולא משפחת אם",
+     "he": "רש״י: מ״לבית אבותם״ לומדים שמשפחת האב היא הנקראת משפחה ולא משפחת האם.",
+     "en": "Rashi: from “their fathers’ houses” we learn that the father’s family is called a family, not the mother’s."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:14:1",
+     "quote": "ושייך הבן בתר אם ישראלית טפי מבתר אבוה עובד כוכבים",
+     "he": "רש״י: הבן שייך אחר אם ישראלית יותר מאחר אביו העובד כוכבים, ולכן פטור.",
+     "en": "Rashi: the son follows the Israelite mother more than his gentile father, therefore he is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:14:3",
+     "quote": "דלוי פסול מיקרי הואיל ואית ליה שמא דלוי פטור",
+     "he": "רש״י: אפילו למאן דמזהמין, לוי פסול נקרא, והואיל ויש לו שם לוי – פטור.",
+     "en": "Rashi: even according to “they defile”, a disqualified Levite is still called a Levite, and since he bears the name Levi he is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:15:1",
+     "quote": "אחר האם אזיל לענין ה' סלעים",
+     "he": "רש״י: לענין חמש סלעים הולכים אחר האם.",
+     "en": "Rashi: for the five sela’im one follows the mother."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:14:1",
+     "quote": "ומ\"ד מזהמין היינו מאן דשדי ליה בתר עובד כוכבים",
+     "he": "תוספות: ״מזהמין״ הוא מי שמשליך את הולד אחר העובד כוכבים, ואומרים שפירוש הקונטרס הפוך.",
+     "en": "Tosafot: “they defile” is the one who casts the child after the gentile, and they say the commentary explained it the opposite way."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:15:1",
+     "quote": "לפטור בן לויה וכהנת אשת ישראל מחמש סלעים",
+     "he": "תוספות: כדעת מר בריה דרב יוסף פוסקים בחולין, ועליה סומכים לפטור בן לויה וכהנת אשת ישראל מחמש סלעים.",
+     "en": "Tosafot: we rule like Mar son of Rav Yosef’s position, as in Chullin, and rely on it to exempt the son of a Levite or kohenet married to an Israelite from the five sela’im."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    16,
+    23
+   ],
+   "he": {
+    "title": "כהנת שנתעברה מגוי",
+    "gemara": "המשנה אומרת ״והיא כהנת והיא לויה״ שבנן פטור; מאיזה אב? אם מכהן – מה חידשה? אם מגוי – הרי רב פפא שאל את רבה על כהנת שנתעברה מגוי. רבה הבחין: לויה בקדושתה עומדת, אך כהנת נעשית ״זרה״. הגמרא מציעה שהמשנה מדברת במי שנתעברה מכהן והיא בת ישראל, ונקראת ״כהנת״ מפני שבנה כהן.",
+    "halakha": null
+   },
+   "en": {
+    "title": "A kohen’s daughter who conceived from a gentile",
+    "gemara": "The Mishnah says “she is a kohenet and she is a Levite” whose son is exempt; from whom did she conceive? If from a kohen, what is new? If from a gentile, Rav Pappa asked Rabbah about a kohenet who conceived from a gentile. Rabbah distinguished: a Levite woman remains in her sanctity, but a kohenet becomes a “stranger”. The Gemara suggests the Mishnah speaks of one who conceived from a kohen and is an Israelite woman, called “kohenet” because she built up a kohen.",
+    "halakha": null
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:20:1",
+     "quote": "אע\"ג דנבעלה לעובד כוכבים וכי שדינן בנה בתרה הוי כלוי פסול ופטור",
+     "he": "רש״י: לויה בקדושתה עומדת, ואף שנבעלה לעובד כוכבים ובנה הולך אחריה, הוא כלוי פסול ופטור.",
+     "en": "Rashi: a Levite woman remains in her sanctity; even though she had relations with a gentile and her son follows her, he is a disqualified Levite and exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:21:2",
+     "quote": "כיון שנבעלה לפסול לה פסלה",
+     "he": "רש״י: מביא מיבמות שכיון שכהנת נבעלה לפסול לה, פסלה.",
+     "en": "Rashi: he cites Yevamot that once a kohenet had relations with one disqualified for her, he disqualified her."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:21:3",
+     "quote": "וכיון דזרה היא בנה חייב בה' סלעים",
+     "he": "רש״י: וכיון שהיא זרה, בנה חייב בחמש סלעים.",
+     "en": "Rashi: and since she is a stranger, her son is obligated in the five sela’im."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47a:23:1",
+     "quote": "אבל בת כהן דלא איעבר מכהן לא מיפטרא",
+     "he": "רש״י: אבל בת כהן שלא נתעברה מכהן – אינה נפטרת.",
+     "en": "Rashi: but a kohen’s daughter who did not conceive from a kohen is not exempt."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:21:1",
+     "quote": "אבל כהנת דקדושתה מגופה אתיא כשמתחללת פקעה קדושתה לגמרי",
+     "he": "תוספות: כהנת קדושתה מגופה, ולכן כשמתחללת פקעה קדושתה לגמרי, משא״כ לויה שנשבית.",
+     "en": "Tosafot: a kohenet’s sanctity comes from her own body, so when she is profaned her sanctity is lost entirely, unlike a captive Levite woman."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47a:20:1",
+     "quote": "אין חולקין לאשה בגורן אבל מחלקין להם בבתיהם",
+     "he": "תוספות: ״נותנין לה מן המעשר״ – אין חולקין לאשה בגורן, אבל מחלקים להם בבתיהם.",
+     "en": "Tosafot: on “they give her from the tithe”: they do not distribute to a woman at the threshing floor, but they distribute to them in their homes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלמד להועיל",
+      "en": "Melammed Lehoil"
+     },
+     "ref": "Melammed Lehoil Part II 99:1",
+     "quote": "היטב ראית בבכורות מ\"ז ע\"ב וברא\"ש שם שחייב בפדיון אפילו בכהנת",
+     "he": "מלמד להועיל: בבכורות מ״ז ובראש שם, בכור שנתעברה אמו מנכרי חייב בפדיון, אפילו בכהנת.",
+     "en": "Melammed Lehoil: in Bekhorot 47 and the Rosh there, a firstborn whose mother conceived from a gentile is obligated in redemption, even for a kohenet."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "כהן שמת והניח בן חלל – האם חייב לפדות את עצמו",
+    "gemara": "רב חסדא ורבה בר רב הונא נחלקו בכהן שמת והניח בן חלל. אם מת אחרי שלושים – הכל מודים שהבן אינו חייב, שהרי זכה האב בפדיונו. נחלקו כשמת בתוך שלושים: רב חסדא מחייב כי לא זכה האב; רבה בר רב הונא פוטר, ״אתינא מכח גברא דלא מצית לאשתעויי דינא בהדיה״. מן המשנה ״נתגיירה מעוברת״ מקשים על רבה, ומתרצים ש״גוי לית ליה חייס״. ריש לקיש פוסק כרב חסדא.",
+    "halakha": "שולחן ערוך: ״כהן שנולד לו בן חלל מת האב בתוך שלשים יום חייב הבן לפדות את עצמו ... ואם מת האב לאחר שלשים יום ... יפריש הפדיון ויעכבנו לעצמו״."
+   },
+   "en": {
+    "title": "A kohen who died leaving a challal son – must the son redeem himself",
+    "gemara": "Rav Chisda and Rabbah bar Rav Huna dispute about a kohen who died leaving a challal son. If he died after thirty days, all agree the son is not obligated, since the father already acquired his redemption. They dispute when he died within thirty days: Rav Chisda obligates him because the father did not acquire; Rabbah bar Rav Huna exempts him, “I come through the power of a man with whom you cannot litigate.” From the Mishnah “she converted while pregnant” they challenge Rabbah, and answer that a gentile has no lineage. Reish Lakish rules like Rav Chisda.",
+    "halakha": "Shulchan Arukh: “A kohen who had a challal son and died within thirty days – the son must redeem himself ... if the father died after thirty days ... he sets aside the redemption and keeps it for himself.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:1",
+     "quote": "דהוי כזר וצריך לפדות עצמו",
+     "he": "רבינו גרשום: הבן החלל הוא כזר וצריך לפדות את עצמו.",
+     "en": "Rabbeinu Gershom: the challal son is like a stranger and must redeem himself."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:2",
+     "quote": "שאביו זכה בפדיונו והוא יורש נכסי אביו והנכסים פטורין",
+     "he": "רבינו גרשום: לרבה בר רב הונא – אביו זכה בפדיונו, והוא יורש את נכסי אביו והנכסים פטורים.",
+     "en": "Rabbeinu Gershom: for Rabbah bar Rav Huna, his father acquired his redemption and he inherits his father’s property, and the property is exempt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:3",
+     "quote": "דאילו הוה אבא קיים לא מצית למיתבעיה",
+     "he": "רבינו גרשום: אילו היה האב קיים, לא היה אפשר לתבוע ממנו.",
+     "en": "Rabbeinu Gershom: had the father been alive, one could not claim from him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:1:3",
+     "quote": "וכיון דזכה האב בפדיונו מורישו לבנו עם שאר נכסיו",
+     "he": "רש״י: כיון שזכה האב בפדיונו, מוריש אותו לבנו עם שאר נכסיו.",
+     "en": "Rashi: since the father acquired his redemption, he bequeaths it to his son along with his other property."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:2:1",
+     "quote": "דהא לא איחייב אב מעולם אלא בן נתחייב לאחר מיתת אביו",
+     "he": "רש״י: האב לא התחייב מעולם, אלא הבן נתחייב אחרי מות אביו.",
+     "en": "Rashi: the father was never obligated; rather, the son became obligated after his father’s death."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:3:3",
+     "quote": "לית ליה שום יחס ואין זה בא מכחו דכקטן שנולד דמי",
+     "he": "רש״י: ״גוי לית ליה חייס״ – אין לו יחס כלפי ישראל, ואין הבן בא מכוחו.",
+     "en": "Rashi: “a gentile has no lineage” – he has no lineage in relation to Israel, and the son does not come through him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47b:1:1",
+     "quote": "אבל הכא אם היה לו אב ישראל היה חייב לפדותו",
+     "he": "תוספות: שונה הבן מאשה, כי כאן אילו היה לו אב ישראל – היה חייב לפדותו.",
+     "en": "Tosafot: this son differs from a woman, since here, had he an Israelite father, the father would have been obligated to redeem him."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:3:1",
+     "quote": "והוי כאילו הפריש האב ה' סלעים ופדה בהו את בנו ועכבם לעצמו",
+     "he": "הרא״ש: כאילו הפריש האב חמש סלעים ופדה בהם את בנו ועיכבם לעצמו.",
+     "en": "The Rosh: it is as if the father set aside five sela’im, redeemed his son with them, and kept them for himself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:19",
+     "quote": "יפריש הפדיון ויעכבנו לעצמו",
+     "he": "שולחן ערוך: כשמת האב לאחר שלושים – הבן יפריש הפדיון ויעכבנו לעצמו.",
+     "en": "Shulchan Arukh: where the father died after thirty days, the son sets aside the redemption and keeps it for himself."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 47b:4",
+     "quote": "לכאורה הכא יש חיוב באב אלא שזוכה לעצמו",
+     "he": "רש״ש: לכאורה כאן יש חיוב באב, אלא שהוא זוכה לעצמו.",
+     "en": "Rashash: seemingly here there is an obligation on the father, but he acquires it for himself."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 47b:1",
+     "quote": "אף בנתגייר מ\"מ הרי אינו אביו",
+     "he": "רש״ש: אף בנתגייר, הרי אינו אביו.",
+     "en": "Rashash: even if he converted, he is not his father."
+    },
+    {
+     "who": {
+      "he": "חידושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 47b:3",
+     "quote": "ר\"ל דמתני' איירי אף בכשר שאינו חלל",
+     "he": "חידושי הלכות: ר״ל שהמשנה מדברת אף בכשר שאינו חלל.",
+     "en": "Chidushei Halachot: he means the Mishnah speaks also of a valid one who is not a challal."
+    },
+    {
+     "who": {
+      "he": "הרחב דבר",
+      "en": "Harchev Davar"
+     },
+     "ref": "Harchev Davar on Numbers 3:48",
+     "quote": "מכ\"מ פרש\"י והרא\"ש שצריך להפריש וליקח לעצמו",
+     "he": "הרחב דבר: רש״י והרא״ש מפרשים שצריך להפריש וליקח לעצמו.",
+     "en": "Harchev Davar: Rashi and the Rosh explain that he must set aside and take for himself."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    10
+   ],
+   "he": {
+    "title": "ספק בכור והבא אחריו – ״הרשאה״",
+    "gemara": "המשנה: מי שלא שהתה ג׳ חודשים אחר בעלה ונישאת וילדה – בכור לכהן ואינו בכור לנחלה. הגמרא שואלת: הרי הוא נוטל כפשוט, ואמאי? רבי ירמיה: לא נצרכה אלא לבא אחריו. מקשים: ״ולכתבו הרשאה לההדדי״, ומסיימים בדברי רבי ינאי: הוכרו ולבסוף נתערבו – כותבין הרשאה; לא הוכרו – אין כותבין.",
+    "halakha": "שולחן ערוך: ״אם הוכרו ולבסוף נתערבו כותבים הרשאה זה לזה ונוטלים חלק בכורה ואם לא הוכרו ... אין נוטלין חלק בכורה״."
+   },
+   "en": {
+    "title": "A doubtful firstborn and the one after him – “harsha’ah” (power of attorney)",
+    "gemara": "The Mishnah: a woman who did not wait three months after her husband, married and gave birth – the child is a firstborn for the kohen but not for inheritance. The Gemara asks: he takes as an ordinary son, so why? Rabbi Yirmeya: it is needed only for the one who comes after him. They ask: let them write powers of attorney to each other, and conclude with Rabbi Yannai: if they were identified and later mixed, they write powers of attorney; if they were never identified, they do not.",
+    "halakha": "Shulchan Arukh: “If they were identified and later mixed up, they write a power of attorney to each other and take the firstborn’s share; if they were not identified ... they do not take.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:6",
+     "quote": "דבנים של ראשון מצו מדחו ליה",
+     "he": "רבינו גרשום: בני הראשון יכולים לדחותו.",
+     "en": "Rabbeinu Gershom: the sons of the first can push him aside."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:7",
+     "quote": "ספק בן תשעה לראשון ספק בן ז' לאחרון ודאי בכור לכהן הוא",
+     "he": "רבינו גרשום: ספק בן תשעה לראשון ספק בן שבעה לאחרון – ודאי בכור לכהן הוא.",
+     "en": "Rabbeinu Gershom: doubtful whether a nine-month child of the first or a seven-month child of the second – he is certainly a firstborn for the kohen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:10",
+     "quote": "דהכא לא הוכרו מעולם האי ספק להכי אין כותבין הרשאה",
+     "he": "רבינו גרשום: כאן לא הוכרו מעולם, ולכן אין כותבים הרשאה.",
+     "en": "Rabbeinu Gershom: here they were never identified, so they do not write a power of attorney."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:7:1",
+     "quote": "דבנו הראשון אומר לו לא בן ראשון אתה",
+     "he": "רש״י: בנו הראשון אומר לו ״לא בן ראשון אתה״.",
+     "en": "Rashi: the first one’s son says to him, “you are not the first one’s son.”"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:7:2",
+     "quote": "הוי האי ספק ממה נפשך דהאי פטר רחם הוא וחייב לפדות את עצמו",
+     "he": "רש״י: הספק הוא פטר רחם ממה נפשך וחייב לפדות את עצמו.",
+     "en": "Rashi: the doubtful child is in either case first-issue of the womb and must redeem himself."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:8:1",
+     "quote": "אם אני בכור תנו לי בשביל עצמי ואם אחי בכור תנו לי בשביל אחי",
+     "he": "רש״י: כל אחד יאמר: אם אני בכור – תנו לי בשביל עצמי, ואם אחי בכור – תנו לי בשביל אחי.",
+     "en": "Rashi: each says, “if I am the firstborn give me for myself; if my brother is, give me for my brother.”"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:9:2",
+     "quote": "אבל לא הוכרו מעולם אין כותבין",
+     "he": "רש״י: אבל כשלא הוכרו מעולם – אין כותבין, שלא היתה להם זכיה מעולם בנכסי האב.",
+     "en": "Rashi: but if they were never identified, they do not write, because they never had a claim in the father’s property."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 7:4:1",
+     "quote": "הוכרו ולבסוף נתערבו כותבין הרשאה זה לזה",
+     "he": "הרא״ש: מביא את דברי רבי ינאי שהוכרו ולבסוף נתערבו כותבין הרשאה זה לזה.",
+     "en": "The Rosh: cites Rabbi Yannai that if they were identified and later mixed, they write powers of attorney to each other."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 277:11",
+     "quote": "אם הוכרו ולבסוף נתערבו כותבים הרשאה זה לזה ונוטלים חלק בכורה",
+     "he": "שולחן ערוך: אם הוכרו ולבסוף נתערבו, כותבים הרשאה זה לזה ונוטלים חלק בכורה.",
+     "en": "Shulchan Arukh: if they were identified and later mixed, they write powers of attorney to each other and take the firstborn’s share."
+    },
+    {
+     "who": {
+      "he": "הגהת הרמ״א",
+      "en": "Rema’s gloss"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 277:11",
+     "quote": "אינו יורש אחד מהן והבא אחריו אינו נוטל חלק בכורה אפי' בהרשאה מן הספק",
+     "he": "הגהה: ספק בן ט׳ לראשון או בן שבעה לאחרון – אינו יורש אחד מהן, והבא אחריו אינו נוטל חלק בכורה אפילו בהרשאה מן הספק.",
+     "en": "The gloss: a doubtful nine-month child of the first or seven-month of the second inherits from neither, and the one after him does not take a firstborn’s share even by power of attorney from the doubtful one."
+    },
+    {
+     "who": {
+      "he": "פרישה",
+      "en": "Prisha"
+     },
+     "ref": "Prisha, Choshen Mishpat 277:13:1",
+     "quote": "ודוקא בבכור דינא הכי דכתיב ביה יכיר",
+     "he": "הפרישה: דוקא בבכור הדין כך, שכתוב בו ״יכיר״.",
+     "en": "The Prisha: this law applies specifically to a firstborn, of whom “yakir” is written."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    11
+   ],
+   "he": {
+    "title": "מתני׳: איזהו בכור לנחלה ולכהן – מפלות שאינן פוטרות",
+    "gemara": "המשנה מונה מי שהמפלת שפיר מלא מים, דם או גנינין, כמין דגים וחגבים שקצים ורמשים, או ליום ארבעים – הבא אחריהם בכור לנחלה ולכהן.",
+    "halakha": "שולחן ערוך: ״הנולד אחר כל אלו בכור לפדיון״."
+   },
+   "en": {
+    "title": "Mishnah: who is a firstborn for inheritance and for the kohen – miscarriages that do not exempt",
+    "gemara": "The Mishnah lists one who miscarried a sac full of water, blood or colors, something in the form of fish, locusts, creeping things, or on the fortieth day – the one who follows them is a firstborn for inheritance and for the kohen.",
+    "halakha": "Shulchan Arukh: “One born after all these is a firstborn for redemption.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:11",
+     "quote": "דלא הוי מרוקם לוולד",
+     "he": "רבינו גרשום: ״גנינים״ הם גוונים סרוחים, שאינם מרוקמים לולד.",
+     "en": "Rabbeinu Gershom: “genunin” are putrid colors, not formed as a fetus."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:12",
+     "quote": "דאכתי לא איגמרא צורה",
+     "he": "רבינו גרשום: המפלת ליום ארבעים – שעדיין לא נגמרה הצורה.",
+     "en": "Rabbeinu Gershom: one who miscarries on the fortieth day – for the form is not yet complete."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:11:3",
+     "quote": "שלא נאמרה בהן יצירה כלגבי אדם",
+     "he": "רש״י: דגים וחגבים אינם ולד, שלא נאמרה בהם יצירה כלגבי אדם.",
+     "en": "Rashi: fish and locusts are not offspring, since formation is not said of them as it is of a human."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:11:4",
+     "quote": "שנתעברה דמיא בעלמא הוא עד דמטי למחר דמ' יום הוי יצירת הוולד",
+     "he": "רש״י: עד ארבעים יום מיום שנתעברה הוא מים בעלמא, וביום הארבעים נעשית יצירת הולד.",
+     "en": "Rashi: until forty days from conception it is mere water, and at forty days the formation of the fetus occurs."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 305:23",
+     "quote": "הנולד אחר כל אלו בכור לפדיון",
+     "he": "שולחן ערוך: הנולד אחר כל אלו – בכור לפדיון.",
+     "en": "Shulchan Arukh: one born after all these is a firstborn for redemption."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    16
+   ],
+   "he": {
+    "title": "יוצא דופן והבא אחריו – ורבי שמעון",
+    "gemara": "המשנה: יוצא דופן והבא אחריו שניהם אינם בכור; רבי שמעון: הראשון לנחלה והשני לחמש סלעים. הגמרא: הראשון לנחלה לא – ״וילדו לו״ בעינן, ולכהן לא – ״פטר רחם״; השני לנחלה לא – ״ראשית אונו״, ולכהן לא – סבר ״בכור לדבר אחד לא הוי בכור״. רבי שמעון לטעמיה ש״תלד״ לרבות יוצא דופן, והשני סבר ״בכור לדבר אחד הוי בכור״.",
+    "halakha": "שולחן ערוך: ״יוצא דופן והבא אחריו שניהם אינם בכורים הראשון לפי שלא נולד ונאמר וילדו לו בנים והשני שהרי קדמו אחר״."
+   },
+   "en": {
+    "title": "A child born by caesarean and the one after him – Rabbi Shimon",
+    "gemara": "The Mishnah: a caesarean child and the one after him are both not firstborn; Rabbi Shimon: the first for inheritance and the second for five sela’im. The Gemara: the first not for inheritance – “and they bear him” is required, and not for the kohen – “first-issue of the womb” is required; the second not for inheritance – “first of his strength” is required, and not for the kohen – he holds “firstborn for one purpose is not a firstborn”. Rabbi Shimon follows his reasoning that “bears” includes a caesarean child, and the second holds “firstborn for one purpose is a firstborn”.",
+    "halakha": "Shulchan Arukh: “A caesarean child and the one after him are both not firstborn: the first because he was not born, and it says ‘and they bear him sons’, and the second because another preceded him.”"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:13",
+     "quote": "דרך לידה בעינן ויוצא דופן לא הוי לידה",
+     "he": "רבינו גרשום: צריך דרך לידה, ויוצא דופן אינו לידה.",
+     "en": "Rabbeinu Gershom: we need the way of birth, and a caesarean is not birth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:14",
+     "quote": "בכור לדבר אחד. לרחמים גרידא",
+     "he": "רבינו גרשום: ״בכור לדבר אחד״ – לרחם בלבד.",
+     "en": "Rabbeinu Gershom: “firstborn for one matter” – for the womb alone."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 47b:15",
+     "quote": "ואם נקבה תלד לרבות יוצא דופן",
+     "he": "רבינו גרשום: ״ואם נקבה תלד״ – לרבות יוצא דופן.",
+     "en": "Rabbeinu Gershom: “and if she bear a female” – to include a caesarean child."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:12:1",
+     "quote": "דרך רחם שניהן אינן בכור",
+     "he": "רש״י: דרך רחם – שניהם אינם בכור.",
+     "en": "Rashi: by way of the womb, neither is a firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:14:1",
+     "quote": "ואינו בכור לוולדות דהא הוה לו ולד זכר קודם לו",
+     "he": "רש״י: ״בכור לדבר אחד״ – בכור לרחם ואינו בכור לולדות, כי היה לה ולד זכר קודם.",
+     "en": "Rashi: “firstborn for one matter” – firstborn of the womb but not of the offspring, since a male child preceded him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:15:1",
+     "quote": "דהוי לידה מעליא ויושבת עליו ימי טומאה וטהרה",
+     "he": "רש״י: רבי שמעון סבור שיוצא דופן הוי לידה מעליא, ויושבת עליו ימי טומאה וטהרה.",
+     "en": "Rashi: Rabbi Shimon holds that a caesarean is a proper birth, and she sits the days of impurity and purity for it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 47b:16:1",
+     "quote": "דבפטר רחם תלא רחמנא",
+     "he": "רש״י: הראשון אינו בכור, כי ״פטר רחם״ תלה הכתוב.",
+     "en": "Rashi: the first is not a firstborn, because the Torah made it depend on first-issue of the womb."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47b:13:1",
+     "quote": "מתוך פירוש הקונטרס משמע דמלשון לידה גמר וקשה",
+     "he": "תוספות: מפירוש הקונטרס משמע שלמד מלשון ״לידה״, וקשה מנדה.",
+     "en": "Tosafot: from the commentary it seems he learns from the word “birth”, which is difficult from Niddah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 47b:16:1",
+     "quote": "מ\"מ יוצא דופן גרע ליה וממעט ליה מפטר רחם",
+     "he": "תוספות: יוצא דופן גרוע יותר, ומיעטו מ״פטר רחם״.",
+     "en": "Tosafot: a caesarean child is worse, and he excludes it from “first-issue of the womb”."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 2:5:2",
+     "quote": "והלכה כר' עקיבא דהוה ליה מחלוקת",
+     "he": "הרא״ש: הלכה כרבי עקיבא, שהיתה מחלוקת ואחר כך סתם משנה.",
+     "en": "The Rosh: the halakha follows Rabbi Akiva, since there was a dispute and afterwards a plain Mishnah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 277:7",
+     "quote": "יוצא דופן והבא אחריו שניהם אינם בכורים הראשון לפי שלא נולד",
+     "he": "שולחן ערוך: יוצא דופן והבא אחריו שניהם אינם בכורים; הראשון לפי שלא נולד.",
+     "en": "Shulchan Arukh: a caesarean child and the one after him are both not firstborn; the first because he was not born."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Choshen Mishpat 277:8:1",
+     "quote": "וידוע דהלכה כת\"ק",
+     "he": "בית יוסף: ידוע שהלכה כתנא קמא.",
+     "en": "Beit Yosef: it is known that the halakha follows the first Tanna."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Deuteronomy 21:15:4",
+     "quote": "שר\"ש סתמא דספרי לשטתו שס\"ל שגם יוצא דופן מקרי לידה",
+     "he": "מלבי״ם: רבי שמעון סתם הספרי לשיטתו, שסבור שגם יוצא דופן נקרא לידה.",
+     "en": "Malbim: the unattributed Sifrei is Rabbi Shimon, following his view that a caesarean child too is called birth."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 21:15:4",
+     "quote": "אמנם ידוע דסתם ספרי ר' שמעון",
+     "he": "תורה תמימה: ידוע שסתם ספרי הוא רבי שמעון.",
+     "en": "Torah Temimah: it is known that the plain Sifrei is Rabbi Shimon."
+    },
+    {
+     "who": {
+      "he": "טורי זהב",
+      "en": "Turei Zahav"
+     },
+     "ref": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 305:20",
+     "quote": "בכור לדבר א' דהיינו לרחם ולא לולדות לא הוה בכור",
+     "he": "טורי זהב: בכור לדבר אחד, דהיינו לרחם ולא לולדות – לא הוי בכור.",
+     "en": "Turei Zahav: a firstborn for one matter, i.e. of the womb and not of offspring, is not a firstborn."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 47b:5",
+     "quote": "הוא רק כדי שלא נילף לידה לידה מבכור בהמה",
+     "he": "רש״ש: הצורך ללמוד מ״תלד״ הוא רק כדי שלא נלמד לידה לידה מבכור בהמה.",
+     "en": "Rashash: the need to learn from “bears” is only so that we should not learn birth–birth from an animal firstborn."
+    }
+   ]
+  }
+ ]
+}
