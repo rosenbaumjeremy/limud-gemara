@@ -1,0 +1,1024 @@
+{
+ "ref": "Bekhorot 53",
+ "date": "2026-11-10",
+ "he": {
+  "overview": "הדף פותח בפרק האחרון של מסכת בכורות – מעשר בהמה. בעמוד א שואלת הגמרא אם המשנה (הנוהגת בחוצה לארץ) כרבי עקיבא, ומה פשר ״שלא בפני הבית״ – גזירה משום יתום ומשום תקלה, ועיקור בהמה שהוקדשה בזמן הזה. בעמוד ב נדונה הטלת מום מראש כדי להתיר, ומדוע ״בחולין ולא במוקדשין״ וקדושה חמורה על קלה. לבסוף – ״אינם מתעשרים מזה על זה״: חדש וישן ומין על שאינו מינו, מהיקש ל״עשר תעשר״ ו״שנה שנה״. הראשונים והאחרונים דנים בהלכה לגבי חוצה לארץ והטלת מום בזמן הזה.",
+  "title": "סיכום — בכורות נ״ג"
+ },
+ "en": {
+  "overview": "The daf opens the last chapter of Bekhorot – the animal tithe. On amud a the Gemara asks whether the Mishnah (which applies outside the Land) follows Rabbi Akiva, and why it does not apply 'when the Temple does not stand' – a decree because of an orphan and because of takalah, and the uprooting of an animal consecrated nowadays. On amud b it considers imposing a blemish in advance as a solution, why the tithe applies to chullin but not muqdashin, and a stricter sanctity on a lighter one. Finally it turns to 'not tithed one for another': new and old, and one kind for another, from the hekesh to 'asser te'asser' and 'shanah shanah'. The Rishonim and Acharonim discuss the law outside the Land and imposing a blemish nowadays.",
+  "title": "Summary — Bekhorot 53"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "מַעְשַׂר בְּהֵמָה"
+   ],
+   "he": {
+    "term": "מעשר בהמה",
+    "explanation": "אחד מעשרה מהבהמות הטהורות (בקר וצאן) שנולדו באותה שנה מופרש וקדוש; הוא נאכל לבעלים בירושלים אחרי הקרבת החלב והדם."
+   },
+   "en": {
+    "term": "Maaser behema (animal tithe)",
+    "explanation": "One in ten of the kosher animals (cattle and flock) born that year is set aside and sanctified; its owner eats it in Jerusalem after the fat and blood are offered."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Firstlings 6:1",
+    "quote": "לְהַפְרִישׁ אֶחָד מֵעֲשָׂרָה מִכָּל בְּהֵמוֹת טְהוֹרוֹת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "בֶּחָדָשׁ וּבַיָּשָׁן"
+   ],
+   "he": {
+    "term": "חדש וישן",
+    "explanation": "הנולדים לפני אלול (שנה אחת) ואחרי אלול (שנה שלאחריה) אינם מתעשרים זה על זה, כמו מעשר דגן."
+   },
+   "en": {
+    "term": "Chadash and yashan (new and old)",
+    "explanation": "Animals born before Elul and after Elul belong to different tithing years, and are not tithed one for the other, like grain."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 53a:2:1",
+    "quote": "שנולדו לאחר אלול"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "כָּאן לִיקְרַב, כָּאן לִיקְדַּשׁ"
+   ],
+   "he": {
+    "term": "ליקרב וליקדש",
+    "explanation": "ההבחנה בין הקרבה על המזבח לבין חלות קדושה: רבי עקיבא ממעט מהקרבה בחוצה לארץ, אך הקדושה חלה."
+   },
+   "en": {
+    "term": "Likarev vs. likadesh",
+    "explanation": "Distinguishing offering on the altar from taking on sanctity: Rabbi Akiva excludes offering from outside the Land, but the sanctity still takes hold."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 53a:5:1",
+    "quote": "ומתני' דקתני נוהג ליקדש קאמר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "גְּזֵירָה מִשּׁוּם יָתוֹם"
+   ],
+   "he": {
+    "term": "גזירה משום יתום",
+    "explanation": "גזירה שמא יכניס אדם לדיר ״יתום״ – בהמה שאינה ראויה להתעשר – ויעשרנה."
+   },
+   "en": {
+    "term": "Gezeirah mishum yatom (decree because of an orphan)",
+    "explanation": "A decree lest one bring an 'orphan' – an animal not eligible for tithing – into the pen to be tithed."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 53a:7:2",
+    "quote": "שלא יכניס יתום לדיר להתעשר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "מִשּׁוּם תַּקָּלָה"
+   ],
+   "he": {
+    "term": "תקלה",
+    "explanation": "החשש שמא ייכשל אדם: כשאין מקדש, עליו להמתין עד שיוטל מום – ועלול לגזוז, לעבוד או לשחוט בלא מום."
+   },
+   "en": {
+    "term": "Takalah (stumbling)",
+    "explanation": "Concern that one will stumble: without a Temple one must wait until it is blemished, and may shear, work or slaughter it unblemished."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 53a:9:1",
+    "quote": "אין לנו על מה להקריב וצריך לשהויי עד שיומם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "תֵּיעָקֵר",
+    "נוֹעֵל דֶּלֶת בְּפָנֶיהָ"
+   ],
+   "he": {
+    "term": "עיקור",
+    "explanation": "הדרך לאבד בהמה שהוקדשה בזמן הזה: נועלים דלת בפניה והיא מתה מאליה."
+   },
+   "en": {
+    "term": "Iqur (uprooting)",
+    "explanation": "The method of disposing of an animal consecrated nowadays: one locks the door before it and it dies of itself."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 8:8",
+    "quote": "נוֹעֵל דֶּלֶת בְּפָנֶיהָ עַד שֶׁתָּמוּת מֵאֵלֶיהָ"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "אֲבָל מַקְדִּישִׁין אוֹתָן הֶקְדֵּשׁ עִילּוּי"
+   ],
+   "he": {
+    "term": "הקדש עילוי",
+    "explanation": "הקדשה נוספת לבדק הבית של ״טובת ההנאה״ שיש לבעלים בבהמת הקדש מזבח; מעלה אותה בדמים ונותן לגזבר."
+   },
+   "en": {
+    "term": "Hekdesh iluy",
+    "explanation": "A further consecration, for Temple upkeep, of the owner's benefit in an altar-sanctified animal; he raises it in value and gives it to the treasurer."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 53b:10:3",
+    "quote": "טובת הנאה שיש לו מקדושת מזבח יכול ליתן לבדק הבית"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "מעשר בהמה: היקף הדין במשנה",
+    "gemara": "המשנה קובעת שמעשר בהמה נוהג בארץ ובחוצה לארץ, בפני הבית ושלא בפני הבית, בחולין ולא במוקדשין; בבקר ובצאן, ואין מתעשרים מזה על זה. כבשים ועזים מתעשרים מזה על זה, אך חדש וישן אינם מתעשרים מזה על זה, שנאמר ״וצאן״ – כל צאן אחד.",
+    "halakha": "הרמב״ם פוסק שמעשר בהמה נוהג בחולין ולא במוקדשין, בארץ ובחוצה לארץ, ושחכמים אסרו לעשר בזמן הזה."
+   },
+   "en": {
+    "title": "Maaser behema: the scope of the law in the Mishnah",
+    "gemara": "The Mishnah states that the animal tithe applies in Eretz Yisrael and outside it, whether or not the Temple stands, to unconsecrated animals and not to consecrated ones. It applies to cattle and to flocks, which are not tithed one for the other; sheep and goats are tithed one for the other, but new-year and old-year animals are not, since the verse says 'tzon' – all flock is one.",
+    "halakha": "The Rambam rules that the animal tithe applies to unconsecrated animals and not to consecrated ones, in Eretz Yisrael and outside it, and that the Sages forbade tithing now, in our time."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:1",
+     "quote": "שלא בפני הבית. לאחר חרבן הבית",
+     "he": "רבינו גרשום מפרש ״שלא בפני הבית״ – לאחר חורבן הבית.",
+     "en": "Rabbeinu Gershom explains 'not in the presence of the Temple' as after the Temple's destruction."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:2:1",
+     "quote": "שנולדו לאחר אלול",
+     "he": "רש״י מפרש ״חדש״ – הנולדים לאחר אלול (ו״ישן״ – לפני אלול).",
+     "en": "Rashi explains 'new' as those born after Elul (and 'old' as those born before Elul)."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53a:1:2",
+     "quote": "הא דאמרי' בריש שילוח הקן",
+     "he": "תוספות מיישבים את הלשון ״בארץ ובחוצה לארץ״ במשנה לעומת הכלל שבחולין (שילוח הקן), שכאן הדין נוהג ״לצורך״.",
+     "en": "Tosafot reconcile the Mishnah's 'in Eretz Yisrael and outside it' with the rule cited from Chullin (Shiluach HaKen), saying that here it applies 'for a purpose' (le-tzorekh)."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:2",
+     "quote": "אֲבָל חֲכָמִים אָסְרוּ לְעַשֵּׂר בְּהֵמָה בַּזְּמַן הַזֶּה",
+     "he": "הרמב״ם: נוהג בארץ ובחוצה לארץ בפני הבית ושלא בפני הבית, אבל חכמים אסרו לעשר בזמן הזה.",
+     "en": "The Rambam: it applies in the Land and outside it, with or without the Temple, but the Sages forbade tithing animals now."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:1",
+     "quote": "לְהַפְרִישׁ אֶחָד מֵעֲשָׂרָה מִכָּל בְּהֵמוֹת טְהוֹרוֹת",
+     "he": "הרמב״ם: מצוות עשה להפריש אחד מעשרה מכל בהמות טהורות שיולדו, ואינה נוהגת אלא בבקר ובצאן.",
+     "en": "The Rambam: a positive commandment to separate one of ten from all kosher animals born each year, and it applies only to cattle and flocks."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 360:1",
+     "quote": "הַנּוֹלָדִים בַּעֲדָרֵינוּ בְּכָל שָׁנָה וְשָׁנָה",
+     "he": "ספר החינוך מביא את מצוות מעשר בהמה (ומציין בכורות נג א) לעשר את הנולדים בעדרים בכל שנה ושנה.",
+     "en": "Sefer HaChinukh presents the mitzvah (citing Bekhorot 53a) of tithing the animals born in the herds each year."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    5
+   ],
+   "he": {
+    "title": "מעשר בהמה בחוצה לארץ ודברי רבי עקיבא",
+    "gemara": "הגמרא שואלת אם המשנה, הנוהגת בחוצה לארץ, אינה כרבי עקיבא, שדרש ״והבאתם שמה… ואת מעשרותיכם״: ממקום שמעלים מעשר דגן מעלים מעשר בהמה. תירוץ: אף לרבי עקיבא ההבדל הוא בין הקרבה לקדושה – ״ליקרב״ לא, אך ״ליקדש״ כן. והראיה: התלמוד הביא את הפסוק ״והבאתם שמה״.",
+    "halakha": "הערוך השולחן מציין שהרמב״ם פסק כרבי עקיבא בבכור ובמעשר, ושרוב הפוסקים אינם כמותו."
+   },
+   "en": {
+    "title": "Maaser behema outside Eretz Yisrael and Rabbi Akiva",
+    "gemara": "The Gemara asks whether the Mishnah, which applies outside Israel, is not like Rabbi Akiva, who derives from 'and you shall bring there… your tithes' that where grain tithe is brought up, animal tithe is brought up. The answer: even Rabbi Akiva distinguishes offering from sanctity – it cannot be offered, but it is sanctified. The proof is that the Talmud cites the verse 'and you shall bring there'.",
+    "halakha": "The Arukh HaShulchan notes that the Rambam ruled like Rabbi Akiva for bekhor and for maaser, and that most poskim do not follow him."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:5:1",
+     "quote": "ומתני' דקתני נוהג ליקדש קאמר",
+     "he": "רש״י: ״ליקרב״ אינו קדושה; והמשנה שאומרת ״נוהג״ מדברת על קדושה.",
+     "en": "Rashi: 'to be offered' is not about sanctity; the Mishnah's 'applies' refers to becoming sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:4:1",
+     "quote": "אינה נוהגת אלא בארץ",
+     "he": "רש״י: מעשר דגן נוהג רק בארץ, שכל מצוה שהיא חובת קרקע אינה נוהגת אלא בארץ (קידושין לז.).",
+     "en": "Rashi: grain tithe applies only in the Land, since any mitzvah dependent on the land applies only there (Kiddushin 37a)."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:5:2",
+     "quote": "מהקרבה הוא דקממעט לה",
+     "he": "רש״י: מכך שהגמרא מביאה ״והבאתם שמה״ – הלשון של הבאה – ר״ע ממעט מהקרבה בלבד.",
+     "en": "Rashi: since the Gemara cites 'and you shall bring there', Rabbi Akiva excludes only from offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:3",
+     "quote": "אבל מיקדש קדיש אפי' בחוצה לארץ",
+     "he": "רבינו גרשום: דברי ר״ע ״אי אתה מעלה״ נאמרו על הקרבה, אבל הקדושה חלה אף בחוצה לארץ.",
+     "en": "Rabbeinu Gershom: Rabbi Akiva's 'you do not bring up' is about offering; sanctity does take hold even outside the Land."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:4",
+     "quote": "ומהקרבה הוא דמעטיה אבל מקדושה לא",
+     "he": "רבינו גרשום: הפסוק ״והבאתם״ עוסק בהקרבה, ומיעוטו הוא מהקרבה ולא מקדושה.",
+     "en": "Rabbeinu Gershom: the verse 'and you shall bring' speaks of offering, and its exclusion is from offering, not sanctity."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53a:3:1",
+     "quote": "בן אנטיגנוס העלה בכורות מבבל",
+     "he": "תוספות מביאים שרבי עקיבא אמר כן גם בתמורה (כא:) לגבי בכור הבא מחוצה לארץ, שאינו קרב.",
+     "en": "Tosafot cite that Rabbi Akiva says the same in Temurah (21b) about a bekhor brought from outside the Land: it is not offered."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Sefer HaMitzvot, Positive Commandments 78:1",
+     "quote": "שזאת המצוה נוהגת בחוצה לארץ גם כן ושלא בפני הבית",
+     "he": "הרמב״ם בספר המצוות: מצוה זו נוהגת בחוצה לארץ וגם שלא בפני הבית מדין תורה.",
+     "en": "The Rambam in Sefer HaMitzvot: this mitzvah applies outside the Land and without the Temple by Torah law."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 306:3:1",
+     "quote": "אדרבא כתב שנוהג בח\"ל",
+     "he": "הבית יוסף מדייק בדברי הרמב״ם שכתב שהבכור נוהג בחוצה לארץ, והחילוק הוא רק לענין הבאתו לארץ.",
+     "en": "The Beit Yosef observes that the Rambam wrote that bekhor applies outside the Land; the distinction is only about bringing it to the Land."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Firstlings 1:5:1",
+     "quote": "ובאין מח\"ל חוץ מן הבכור והמעשר",
+     "he": "הקרית ספר מבאר את דין בכור מחוצה לארץ לפי משנת תמורה והגמרא (בן אטוטוס) ודברי ר״ע.",
+     "en": "The Kiryat Sefer explains the law of a bekhor from outside the Land from the Mishnah in Temurah, the Gemara (ben Atutus) and Rabbi Akiva."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 306:7",
+     "quote": "עכ\"פ איך שהוא דעת הרמב\"ם היא דיעה יחידאי",
+     "he": "ערוך השולחן: דעת הרמב״ם יחידאה, וקיימא לן כרוב הפוסקים.",
+     "en": "The Arukh HaShulchan: the Rambam's view is a lone opinion, and we rule like most poskim."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "נאכל במומו, וגזירה משום יתום",
+    "gemara": "אם מעשר אינו קרב בחוץ לארץ, מדוע הוא קדוש? כדי שיהא נאכל במומו לבעלים. ובלשון המשנה ״שלא בפני הבית״: אם כן אף היום ינהג, ותירצו – גזירה משום יתום (כדברי רב הונא). שואלים: לפי זה אף בפני הבית לא ינהג, ותשובה: אפשר בהכרזה, וחוזרים ושואלים כך גם האידנא.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Eaten when blemished, and the decree about an orphan",
+    "gemara": "If the tithe cannot be offered outside the Land, why is it sanctified? So that it is eaten, once blemished, by its owners. Regarding 'when the Temple does not stand': then it should apply today too – the answer is a decree because of an orphan (Rav Huna). The Gemara objects that then it should not apply even in Temple times, and answers that this can be dealt with by proclamation – but then the same could be done now.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:6:1",
+     "quote": "בין תם בין בעל מום דבעלים הוא",
+     "he": "רש״י: מעשר בהמה, בין תם ובין בעל מום, הוא של הבעלים, שלא מצאנו פסוק שנותנו לכהן.",
+     "en": "Rashi: the animal tithe, whether unblemished or blemished, belongs to its owner; we find no verse giving it to the kohen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:5",
+     "quote": "לנאכל במומו. ולא כשהוא תם",
+     "he": "רבינו גרשום: נאכל במומו – ולא כשהוא תם.",
+     "en": "Rabbeinu Gershom: eaten when blemished – and not when unblemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:7:2",
+     "quote": "שלא יכניס יתום לדיר להתעשר",
+     "he": "רש״י: הגזירה משום יתום – שלא יכניס יתום לדיר להתעשר, שהרי יתום אינו מתעשר.",
+     "en": "Rashi: the decree is lest one bring an orphan into the pen to be tithed – an orphan is not tithed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:7",
+     "quote": "שלא יכניסו לדיר להתעשר ולאו בר עשורי הוא",
+     "he": "רבינו גרשום: אותה גזירה – שלא יכניסו לדיר להתעשר מי שאינו בר מעשר, כמו במשנה.",
+     "en": "Rabbeinu Gershom: the same – lest they bring into the pen one that is not eligible for tithing, as in the Mishnah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53a:7:1",
+     "quote": "דנקט הכא דוקא יתום דטעו ביה טפי",
+     "he": "תוספות: הגמרא נקטה כאן דווקא ״יתום״ כי בו טועים יותר, שאין יודעים אותו – זה פירש למיתה וזה לחיים.",
+     "en": "Tosafot: the Gemara mentions specifically an 'orphan' because people err about it more – this one separated toward death and that toward life."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:8:2",
+     "quote": "אפשר בהכרזת ב\"ד",
+     "he": "רש״י: בזמן הבית אפשר בהכרזת בית דין שלא יכניס אדם יתום לדיר, ולכן אף האידנא יפרשו.",
+     "en": "Rashi: in Temple times this can be handled by a court proclamation not to bring an orphan into the pen, and therefore now too they could be separated."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 53a:2",
+     "quote": "זה פירש כו'. חולין (לח ב)",
+     "he": "הרש״ש מציין בדברי רש״י ״זה פירש למיתה״ מראה מקום לחולין לח ב.",
+     "en": "The Rashash adds a cross-reference to Chullin 38b at Rashi's 'this one separated toward death'."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    11
+   ],
+   "he": {
+    "title": "משום תקלה: איסור הקדשה בזמן הזה ועיקור",
+    "gemara": "רבה: הטעם משום תקלה. מקור: ״אין מקדישין ואין מעריכין ואין מחרימין בזמן הזה״ ואם עשה כן, בהמה תיעקר, ומעות יוליך לים המלח. הגמרא שואלת: אם כך גם בכור לא יתקדש. ומשיבה שבכור קדוש מרחם, ולכן הכוונה שיקנה אוזני הבהמות לגוי, שלא יתקדש מעיקרא.",
+    "halakha": "הרמב״ם: אין מקדישים ולא מעריכים ולא מחרימים בזמן הזה, ואם עשה – נועל דלת בפני הבהמה עד שתמות."
+   },
+   "en": {
+    "title": "Takalah: no consecration nowadays, and 'iqur'",
+    "gemara": "Rabbah: the reason is takalah (a stumbling). Source: 'one may not consecrate, assess or devote nowadays', and if one did, an animal is uprooted (iqur), and money goes to the Dead Sea. The Gemara asks that then a bekhor should not become sanctified either; it replies that a bekhor is sanctified from the womb, so the point is to sell the animals' ears to a gentile so it is never sanctified at all.",
+    "halakha": "The Rambam: one may not consecrate, assess or devote now, and if one did, one locks the door before the animal until it dies."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:9:1",
+     "quote": "אין לנו על מה להקריב וצריך לשהויי",
+     "he": "רש״י: משום תקלה – אין לנו על מה להקריב וצריך להמתין עד שיומם, ויבוא לגיזה ועבודה או לשחיטה בלא מום.",
+     "en": "Rashi: takalah – we have nothing to offer it on, and one must wait until it is blemished, and may come to shear or work it or slaughter it unblemished."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:10",
+     "quote": "ובזמן בהמ\"ק ליכא למיחש לתקלה",
+     "he": "רבינו גרשום: בזמן בית המקדש אין לחשוש לתקלה, שהרי אפשר להקריב לגבוה כשירצה.",
+     "en": "Rabbeinu Gershom: in the Temple's time there is no concern of takalah, since one can offer it whenever one wishes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:10:1",
+     "quote": "דלא ליתי בה לידי תקלה",
+     "he": "רש״י: ״תיעקר״ – כדי שלא יבוא בה לידי תקלה.",
+     "en": "Rashi: 'it is uprooted' – so that it will not lead to takalah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:11",
+     "quote": "בזמן הזה. דכל הני הוו לבדק הבית",
+     "he": "רבינו גרשום: דברים אלה הם לבדק הבית ואי אפשר לשמרם עד שיבנה הבית ובאים לידי תקלה.",
+     "en": "Rabbeinu Gershom: these are for the Temple's upkeep and cannot be kept until the Temple is rebuilt, so they lead to takalah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53a:11:2",
+     "quote": "לקנינהו לאודנייהו דאימהות לעובדי כוכבים",
+     "he": "רש״י: הואיל וחוששים לתקלה – יקנה אוזני האמהות לגוי, כך שיהיה יד גוי באמצע ולא יבוא לבכורה.",
+     "en": "Rashi: since you are concerned about takalah, sell the mothers' ears to gentiles so a gentile's hand is involved and it does not come to bekhorah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53a:13",
+     "quote": "לקנינהו לאודניהו לעובד כוכבים עד שהן במעי אימן",
+     "he": "רבינו גרשום: יקנה לעובד כוכבים בעודן במעי אמן, שתהיה שותפות עובד כוכבים ולא יתקדש.",
+     "en": "Rabbeinu Gershom: sell to a gentile while still in their mothers' womb, creating a gentile partnership, so it is not sanctified."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53a:9:1",
+     "quote": "והקשה ר\"ת בפרק במה בהמה יוצאה",
+     "he": "תוספות מביאים קושיית רבנו תם: רבי אלעזר בן עזריה היה מעשר י״ב אלף עגלים בכל שנה, בזמן שלאחר החורבן.",
+     "en": "Tosafot cite Rabbeinu Tam's difficulty: Rabbi Elazar ben Azariah tithed twelve thousand calves each year, at a time after the destruction."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yoma 66a:3:1",
+     "quote": "דלאחר חורבן בטלו מעשר בהמה משום תקלה",
+     "he": "תוספות ביומא: בבכורות (נג.) נאמר שלאחר החורבן בטלו מעשר בהמה משום תקלה, ומקשים על כך מרבי אלעזר בן עזריה.",
+     "en": "Tosafot in Yoma: Bekhorot 53a says that after the destruction maaser behema was suspended because of takalah, and they raise the case of Rabbi Elazar ben Azariah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 8:8",
+     "quote": "נוֹעֵל דֶּלֶת בְּפָנֶיהָ עַד שֶׁתָּמוּת מֵאֵלֶיהָ",
+     "he": "הרמב״ם: אין מקדישין ולא מעריכין ולא מחרימין בזמן הזה, ואם הקדיש בהמה נועל דלת בפניה עד שתמות מאליה.",
+     "en": "The Rambam: one may not consecrate, assess or devote now; if one consecrated an animal, one locks the door before it until it dies of itself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Yoreh De'ah 306:4",
+     "quote": "מה ראו חז\"ל על ככה להפקיענו ממ\"ע דאוריי' לעשר בהמתינו",
+     "he": "החתם סופר מתפלא מה ראו חז״ל לבטל מצוות עשה דאורייתא של מעשר בהמה משום תקלה, ומציין לדף נג ע״א.",
+     "en": "The Chatam Sofer wonders why the Sages cancelled the Torah positive commandment of tithing animals because of takalah, citing Bekhorot 53a."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 53a:3",
+     "quote": "תד\"ה מעות וכ\"מ יוליך לים המלח",
+     "he": "הרש״ש מגיה בתוספות ד״ה ״מעות וכלי מתכות יוליך לים המלח״.",
+     "en": "The Rashash emends the Tosafot on 'money and metal vessels shall be taken to the Dead Sea'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "הטלת מום קודם שיצא וקושיית ״מהרה יבנה בית המקדש״",
+    "gemara": "אפשר להתיר כרב יהודה – להטיל מום בבכור קודם צאתו, וכן במעשר. ״מי ידע הי נפיק״ – וה״לא יבקר״. ואם יטיל מום בכל עדרו – מהרה יבנה המקדש ויחסרו בהמות להקרבה; ובבכור יש לתקן בפשוטין, וכאן בלקוחין. תשובה: שכיחים מומים שפסולים בקדשים ולא שכיחים תמימים.",
+    "halakha": "הרמב״ם והשולחן ערוך: מותר להטיל מום בבכור בזמן הזה קודם שיצא לאויר העולם."
+   },
+   "en": {
+    "title": "Imposing a blemish before birth, and the objection 'may the Temple be rebuilt speedily'",
+    "gemara": "One could follow Rav Yehuda – blemish the bekhor before it emerges, and likewise for maaser. But 'who knows which will emerge' tenth, and the verse 'he shall not search between good and bad'. If one blemishes the whole flock, the Temple may soon be rebuilt and animals for offering will be lacking; for bekhor there is a solution with ordinary animals, and here with purchased ones. Answer: blemishes that disqualify in sacrifices are common and unblemished animals are not.",
+    "halakha": "The Rambam and Shulchan Arukh: one may impose a blemish on a bekhor nowadays before it emerges to the world."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:1",
+     "quote": "דמטיל בו מום קודם שיצא לאויר העולם",
+     "he": "רבינו גרשום: אפשר כרב יהודה שמטיל בו מום קודם שיצא לאויר העולם, ולא יאכל תם.",
+     "en": "Rabbeinu Gershom: possible like Rav Yehuda, who imposes a blemish before it emerges, so it is not eaten unblemished."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:2",
+     "quote": "קודם שיצא עשירי והוי בעל מום",
+     "he": "רבינו גרשום: במעשר אפשר להטיל מום מעיקרא קודם שיצא העשירי, ואין בו תקלה.",
+     "en": "Rabbeinu Gershom: for maaser too one could impose a blemish beforehand, before the tenth emerges, with no takalah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:2:3",
+     "quote": "שהוא לא יוציאנו אלא הוא יוצא מעצמו",
+     "he": "רש״י: ״לא יבקר״ – הוא לא יוציאנו אלא הוא יוצא מעצמו, ולכן אי אפשר לזהות.",
+     "en": "Rashi: 'he shall not search' – he does not bring it out; it comes out on its own."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:3:1",
+     "quote": "קודם שיעשר דעדיין הן חולין ומותר להטיל מום",
+     "he": "רש״י: אפשר להטיל מום בכל העדר קודם שיעשר, שעדיין הן חולין, ואחר כך המעשר חל על בעל מום.",
+     "en": "Rashi: one could blemish the whole flock before tithing, since they are still chullin, and the tithe then takes hold on a blemished one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:5:2",
+     "quote": "ושכיחי מומי טובא דפסלי בקדשים",
+     "he": "רש״י: הנולדים אצלו נחשבים כלקוחים, ויש מומים רבים הפוסלים בקדשים ואפילו דוקין שבעין, ולכן אין בהמות להקרבה.",
+     "en": "Rashi: the newborns count as purchased, and many blemishes disqualify in sacrifices, even specks in the eye, so animals for offering are not found."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:4",
+     "quote": "אסיר למישדא מומא בעדריה ומשום הכי לא קדיש מעשר האידנא",
+     "he": "רבינו גרשום: אסור להטיל מום בעדרו, ולכן לא קדוש מעשר בזמן הזה.",
+     "en": "Rabbeinu Gershom: it is forbidden to impose a blemish on one's flock, and therefore maaser is not sanctified nowadays."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53b:1:1",
+     "quote": "לדידן שרי לאקנויי לעובד כוכבים",
+     "he": "תוספות: לדידן מותר להקנות לעובד כוכבים, כיון שאין הלכה כרב יהודה.",
+     "en": "Tosafot: for us it is permitted to sell to a gentile, since we do not follow Rav Yehuda."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Bekhorot 1:2:1",
+     "quote": "וכן סתמא דהש\"ס לקמן בפרק בתרא",
+     "he": "הרא״ש: וכן סתם הש״ס בפרק האחרון (נג.) אומר ״ולייקני אזנייהו לעובדי כוכבים״.",
+     "en": "The Rosh: likewise the Gemara's anonymous passage in the last chapter (53a) says 'let them sell their ears to gentiles'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 2:14",
+     "quote": "מֻתָּר לְהַטִּיל מוּם בִּבְכוֹר קֹדֶם שֶׁיֵּצֵא לַאֲוִיר הָעוֹלָם",
+     "he": "הרמב״ם: מותר להטיל מום בבכור קודם שיצא, בזמן הזה שאין בית, כי סופו להיאכל במומו; בזמן הבית אסור.",
+     "en": "The Rambam: one may blemish a bekhor before birth nowadays, when there is no Temple, since it will be eaten blemished; while the Temple stands it is forbidden."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 313",
+     "quote": "אסור להטיל מום בבכור",
+     "he": "הטור: אסור להטיל מום בבכור, ואף לגרום לו מום.",
+     "en": "The Tur: it is forbidden to blemish a bekhor, even to cause it a blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 313:7",
+     "quote": "מותר להטיל מום בבכור בזמן הזה קודם שיצא לאויר העולם",
+     "he": "השולחן ערוך: מותר להטיל מום בבכור בזמן הזה קודם שיצא לאויר העולם.",
+     "en": "The Shulchan Arukh: one may impose a blemish on a bekhor nowadays before it emerges to the world."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 53b:1",
+     "quote": "ושכיחי מומי דפסילי בקדשים",
+     "he": "הרש״ש מציין על ״ושכיחי מומי דפסילי בקדשים״ מקורות בעבודה זרה ובמנחות.",
+     "en": "The Rashash gives cross-references (Avodah Zarah, Menachot) for 'blemishes that disqualify in sacrifices are common'."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Responsa Chatam Sofer, Yoreh De'ah 306:4",
+     "quote": "ויעשר בהמתו ויטיל בה מום ויפדה",
+     "he": "החתם סופר מקשה: מדוע לא התירו להטיל מום, לעשר, לפדות ולאכול במומו – ומעיין בטעם האיסור בקדשי מזבח בזמן הזה.",
+     "en": "The Chatam Sofer asks why they did not permit imposing a blemish, tithing, redeeming and eating it blemished, and examines the reason for the prohibition for altar-sanctities nowadays."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    12
+   ],
+   "he": {
+    "title": "״בחולין ולא במוקדשין״: קדשים קלים וקדושה חמורה על קלה",
+    "gemara": "המשנה אומרת ״בחולין ולא במוקדשין״ – אך מוקדשין פשיטא שאינם שלו! מדובר בקדשים קלים לרבי יוסי הגלילי שהם ממון בעלים. ושואלת: ״יהיה קדש״ – ולא שכבר קדוש. אמנם אילולא הפסוק, היה אפשר לומר שהקדושה חלה; ואם קדושה חמורה לא חלה על קלה, קל וחומר קלה על קלה. משנה: ״אין משנין מקדושה לקדושה אבל מקדישין הקדש עילוי ומחרימין״, ונפקא מינה ללא יגאל ולא ימכר.",
+    "halakha": "הרמב״ם: מי שהחרים בהמה נדבה – אומדים כמה אדם רוצה לתת בה להעלותה עולה."
+   },
+   "en": {
+    "title": "'Unconsecrated but not consecrated': peace-offerings, and a stricter sanctity on a lighter one",
+    "gemara": "The Mishnah says 'chullin but not muqdashin' – but it is obvious that consecrated animals are not his! It refers to kodashim kallim according to Rabbi Yosi HaGelili, who holds they are the owner's property. The Gemara asks: 'shall be holy' – and not that it is already holy. Without the verse, one might say the tithe's sanctity takes hold; and if a stricter sanctity does not take hold on a lighter one, a lighter on a lighter, all the more so. The Mishnah: 'one may not change from sanctity to sanctity, but one may consecrate hekdesh iluy and devote them', with a practical difference regarding 'not be redeemed, not be sold'.",
+    "halakha": "The Rambam: one who devoted a voluntary animal – they assess how much a person would pay to offer it as an olah."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:7:1",
+     "quote": "לרבות קדשים קלים שאם הפקיד אצל חבירו",
+     "he": "רש״י: צריך לאשמועינן לרבות קדשים קלים – שאם הפקיד אצל חבירו בהמות שלמים וכפר ונשבע, ישלם קרן וחומש ואשם.",
+     "en": "Rashi: it is needed to include kodashim kallim – if one deposited peace-offerings with a friend who denied it under oath, he pays principal, fifth and asham."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:9:1",
+     "quote": "מפרש לקמן ויעבור עלייהו בלא ימכר ולא יגאל",
+     "he": "רש״י: קדושת מעשר – מפרש לקמן שיעבור עליהם בלא ימכר ולא יגאל.",
+     "en": "Rashi: the sanctity of maaser – explained later: that he transgresses 'it shall not be sold or redeemed' over them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:5",
+     "quote": "קדושה קלה לחמורה כגון שלמים לעולה",
+     "he": "רבינו גרשום: ״אין משנין״ – קדושה קלה לחמורה, כגון שלמים לעולה.",
+     "en": "Rabbeinu Gershom: 'one may not change' – from a lighter sanctity to a stricter one, for instance peace-offering to olah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:10:3",
+     "quote": "טובת הנאה שיש לו מקדושת מזבח יכול ליתן לבדק הבית",
+     "he": "רש״י: ״הקדש עילוי״ – טובת ההנאה שיש לו מקדושת מזבח יכול ליתן לבדק הבית, ושמעלה בדמים ונותן לגזבר.",
+     "en": "Rashi: 'hekdesh iluy' – the benefit (tovat hana'ah) he has from altar-sanctity he may give to the Temple upkeep, adding in value and giving it to the treasurer."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53b:10:1",
+     "quote": "ובמס' ערכין (דף כח.) מפרש בענין אחר",
+     "he": "תוספות: ״הקדש עלוי״ – מביאים פירוש הקונטרס ואחריו מפרשים אחרת לפי ערכין כח.",
+     "en": "Tosafot: 'hekdesh iluy' – they cite Rashi's explanation and then explain differently, from Arakhin 28a."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:11:1",
+     "quote": "דכל בהמה למעשר קיימא אע\"ג דאקדשה לשלמים",
+     "he": "רש״י: לגבי מעשר, כל בהמה עומדת למעשר, ולכן אף אם הקדישה לשלמים לא פקע תורת מעשר ממנה.",
+     "en": "Rashi: for maaser, every animal is destined for the tithe, so even if consecrated as a peace-offering the status of maaser is not removed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:12:2",
+     "quote": "למיקם עלה בלא ימכר ולא יגאל",
+     "he": "רש״י: שלמים היו בני פדיון, והפסוק ״יהיה קדש״ מלמד ולא שכבר קדוש; נפקא מינה – לעבור בלא ימכר ולא יגאל.",
+     "en": "Rashi: peace-offerings are redeemable; the verse 'shall be holy' teaches 'not that it is already holy'; the practical difference is transgressing 'not sold, not redeemed'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:10",
+     "quote": "קדשים קלים אית להו פדיון ומעשר בהמה לית ליה",
+     "he": "רבינו גרשום: קדשים קלים יש להם פדיון, ולמעשר בהמה אין פדיון.",
+     "en": "Rabbeinu Gershom: kodashim kallim have redemption, while maaser behema has none."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 6:12",
+     "quote": "אוֹמְדִים כַּמָּה אָדָם רוֹצֶה לִתֵּן בִּבְהֵמָה זוֹ",
+     "he": "הרמב״ם: אומדים כמה אדם רוצה לתת בבהמה זו להעלותה עולה שאינו חייב בה.",
+     "en": "The Rambam: they assess how much a person would pay for this animal to offer it as an olah he is not obligated in."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 53b:2",
+     "quote": "הנולדים כו'. כצ\"ל ומלת פטורין למחוק",
+     "he": "הרש״ש מגיה את דברי רש״י ״בכוליה עדריה״ ומוחק את המלה ״פטורין״.",
+     "en": "The Rashash corrects Rashi's comment on 'bekhulei edrei' and deletes the word 'peturin'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    13,
+    17
+   ],
+   "he": {
+    "title": "אין מתעשרים: חדש וישן, ומין על שאינו מינו",
+    "gemara": "קל וחומר: אם כבשים ועזים (כלאיים) מתעשרים מזה על זה, חדש וישן ק״ו. תשובה: ״עשר תעשר״ – בשתי מעשרות, ומקיש מעשר בהמה למעשר דגן: אין מחדש על ישן. ושואלים: אם כך, אף מין על שאינו מינו – ״צאן״ ריבה. ואם כך, חדש וישן נמי? אמר רבא ״שנה שנה״ – לשנה הקשתיו ולא לדבר אחר. מקור לדין תרומה: ״כל חלב יצהר… וכל חלב תירוש ודגן״.",
+    "halakha": "הרמב״ם: אין מעשרין מהנולדים בשנה זו על הנולדים בשנה אחרת, ואם עישר – נראה לו שהוא מעשר מפני חומרת הקדשים."
+   },
+   "en": {
+    "title": "Not tithed one for another: new and old, and one kind for another",
+    "gemara": "A kal vachomer: if sheep and goats, which are kilayim, are tithed one for another, then new and old all the more. The answer: 'asser te'asser' speaks of two tithes, and links animal tithe to grain tithe: grain is not tithed new for old. The Gemara asks that then even one kind for another should not be tithed – 'tzon' includes it. And then new and old too? Rava: 'shanah shanah' – I linked it to the year and to nothing else. The source for terumah: 'all the best of the oil… and the best of the wine and grain'.",
+    "halakha": "The Rambam: one does not tithe animals born in one year for those born in another; if one did, it appears to him it is a valid tithe because of the stringency of consecrated things."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:14:1",
+     "quote": "היוצא השדה שנה שנה היוצא שנה אתה מעשר",
+     "he": "רש״י: כתיב ״היוצא השדה שנה שנה״ – אתה מעשר את היוצא באותה שנה, ולא משנה זו לשנה שעברה ולא משנה שעברה לשנה הבאה.",
+     "en": "Rashi: it is written 'that which comes out of the field year by year' – you tithe that year's produce, not this year for last year or last year for next."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:16:2",
+     "quote": "מעשר בהמה למעשר דגן שלא יתרום משל שנה שעברה",
+     "he": "רש״י: ״לשנה הקשתיו״ – מעשר בהמה למעשר דגן, שלא יתרום משל שנה שעברה שנולד קודם אלול על שנולדו לאחר אלול.",
+     "en": "Rashi: 'I linked it to the year' – animal tithe to grain tithe, that one does not tithe from last year's, born before Elul, on those born after Elul."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 53b:17:2",
+     "quote": "היינו תרומה ומעשר כדכתיב",
+     "he": "רש״י: ״תן חלב לזה וחלב לזה״ – תרומה ומעשר, שיתן לכל אחד מעשרותיו בפני עצמו.",
+     "en": "Rashi: 'give the best to this and the best to that' – terumah and maaser, each one's tithes separately."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:14",
+     "quote": "ולא ממין על שאינו מינו ולא מחדש אישן",
+     "he": "רבינו גרשום: מהספרי – ״והרמותם ממנו מן המובחר״, ולא ממין על שאינו מינו ולא מחדש אישן; ותרומה מוקשה למעשר.",
+     "en": "Rabbeinu Gershom: from the Sifrei – 'and you shall raise from it the best' – not from one kind for another, nor from new for old; and terumah is linked to maaser."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:13",
+     "quote": "כל משמע כל צאן אחד",
+     "he": "רבינו גרשום: ״וצאן… כל משמע כל צאן אחד״ – כבשים ועזים נקראים צאן.",
+     "en": "Rabbeinu Gershom: 'tzon… implies all flock is one' – sheep and goats are both called tzon."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 53b:16",
+     "quote": "מעשר בהמה למעשר דגן מה מעשר דגן",
+     "he": "רבינו גרשום: ״לשנה הקשתיו״ – כמו שאין מעשרין מזה על זה בדגן, כך במעשר בהמה.",
+     "en": "Rabbeinu Gershom: 'I linked it to the year' – as grain is not tithed from one year for another, so with animal tithe."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 53b:14:1",
+     "quote": "הכא אתיא היקישא ומפקא מק\"ו",
+     "he": "תוספות: כאן בא ההיקש ומוציא מקל וחומר, ולהפך בבכורות לג. (פלוגתת בית שמאי ובית הלל).",
+     "en": "Tosafot: here the hekesh comes and removes the kal vachomer, while in Bekhorot 33a the opposite occurs (Beit Shammai and Beit Hillel)."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:5",
+     "quote": "אֵין מְעַשְּׂרִים מִן הַנּוֹלָדִים בְּשָׁנָה זוֹ",
+     "he": "הרמב״ם: אין מעשרים מהנולדים בשנה זו על הנולדים בשנה אחרת, ונראה לו שאם עישר – הרי זה מעשר.",
+     "en": "The Rambam: one does not tithe animals born in one year for those born in another; he adds that if one did, it is a valid tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:4",
+     "quote": "אֲבָל מְעַשְּׂרִין מִן הַכְּבָשִׂים עַל הָעִזִּים",
+     "he": "הרמב״ם: אין מעשרין מן הצאן על הבקר, אבל מעשרין מן הכבשים על העזים, כי ״כל צאן אחד״.",
+     "en": "The Rambam: one does not tithe flock for cattle, but one tithes sheep for goats, since all flock is one."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Bekhorot 9:1:6",
+     "quote": "וכן הוא בסוגיא",
+     "he": "התוספות יום טוב מציין את מקור הדין ״שנה שנה״ בסוגיא ובתוספות, וההיקש והק״ו.",
+     "en": "Tosafot Yom Tov notes the source of 'shanah shanah' in our sugya and in Tosafot, and the interplay of hekesh and kal vachomer."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Rosh Hashanah 8a:2",
+     "quote": "בשני מעשרות הכתוב מדבר",
+     "he": "הערוך לנר מביא שהרמב״ם סבר שאם עישר מהחדש על הישן – בדיעבד כשר, ומבאר שדרשת ״בשני מעשרות הכתוב מדבר״ אסמכתא, ושנחלקו התנאים.",
+     "en": "The Arukh LaNer notes the Rambam holds that if one tithed from new on old it is valid after the fact, and explains that 'the verse speaks of two tithes' is an asmachta over which tannaim differ."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Rosh Hashanah 12a:2",
+     "quote": "ההיא דפרק מעשר בהמה יש לפרש",
+     "he": "הפני יהושע מפרש את הסוגיה במעשר בהמה כשאלה על פירות וירקות שחיובם מדרבנן.",
+     "en": "The Penei Yehoshua explains the sugya in Maaser Behema as a question about fruits and vegetables whose obligation is rabbinic."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Deuteronomy 14:22:1",
+     "quote": "בכורות (דף נג ע\"ב)",
+     "he": "המלבי״ם: ״שנה שנה״ – בכל שנה תפריש מעשר מיוחד ולא משנה לחברתה, כמובא בגמרא בכורות נג ע״ב.",
+     "en": "The Malbim: 'shanah shanah' – each year separate its own tithe and not from one year for another, as in Bekhorot 53b."
+    }
+   ]
+  }
+ ]
+}
