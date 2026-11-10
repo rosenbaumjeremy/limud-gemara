@@ -7,7 +7,7 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   X-Frame-Options: DENY
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://manuscripts.sefaria.org; connect-src 'self' https://www.sefaria.org; frame-ancestors 'none'; base-uri 'none'; form-action 'none'
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self'; img-src 'self' data: https://manuscripts.sefaria.org; connect-src 'self' https://www.sefaria.org https://cloudflareinsights.com; frame-ancestors 'none'; base-uri 'none'; form-action 'none'
 
 /data/*
   Cache-Control: no-cache
