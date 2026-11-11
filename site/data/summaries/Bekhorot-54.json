@@ -1,0 +1,1209 @@
+{
+ "ref": "Bekhorot 54",
+ "date": "2026-11-11",
+ "he": {
+  "overview": "הדף עוסק בשני נושאים: בעמוד א׳ ובתחילת עמוד ב׳ — כיצד אנו יודעים שאין מעשרים ממין על שאינו מינו, בדגן, תירוש ויצהר ובמינים אחרים, ובמעשר בהמה (בקר וצאן, כבשים ועזים), ובעיקר הק״ו מתירוש ויצהר וקושיית רבי יאשיה; ובהמשך עמוד ב׳ — משנת צירוף מעשר בהמה כמלא רגל בהמה רועה (ט״ז מיל), עם מחלוקת רב ושמואל בכמה בהמות צריך באמצע. הראשונים והאחרונים דנים בעיקר בשיטת רש״י ותוספות בכלאי זרעים וכלאי הכרם, בשאלה אילו מינים חייבים במעשר מן התורה (דגן, תירוש ויצהר בלבד, או גם שאר מינים כדעת הרמב״ם), ובשיעור הצירוף לפי ״שליטת עין הרועה״.",
+  "title": "סיכום — בכורות נ״ד"
+ },
+ "en": {
+  "overview": "The daf deals with two subjects. In amud a and the start of amud b: how we know that one does not tithe from one kind on another, for grain, wine and oil and for other kinds, and for animal tithe (herd and flock, lambs and goats), mainly the a fortiori from wine and oil and the difficulty of Rabbi Yoshiya. Later in amud b: the mishnah on combining animal tithe within a grazing animal's foot-space (sixteen mil), with the dispute of Rav and Shmuel on how many animals are needed in the middle. The Rishonim and Acharonim discuss mainly Rashi and Tosafot on kilayim of seeds and kilayim of the vineyard, which kinds are subject to tithes by the Torah (only grain, wine and oil, or others too, as the Rambam holds), and the measure of combining according to \"the shepherd's eye commands\".",
+  "title": "Summary — Bekhorot 54"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "אין מתעשרין מזה על זה"
+   ],
+   "he": {
+    "term": "אין מעשרין ממין על שאינו מינו",
+    "explanation": "הדין שאין מפרישים תרומה או מעשר מפירות של מין אחד על פירות של מין אחר. הגמרא לומדת אותו מכך שנכתב ״חלב״ בנפרד לתירוש וליצהר, ואחר כך מהק״ו לדגן. הפרשה מהמין הלא־נכון אינה פוטרת את הפירות."
+   },
+   "en": {
+    "term": "Not tithing from one kind on another",
+    "explanation": "The rule that one may not separate teruma or ma'aser from the produce of one kind on behalf of another kind. The Gemara learns it from the separate mention of the choicest portion for wine and for oil, and then by an a fortiori for grain. Separating from the wrong kind does not release the produce."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54a:1:1",
+    "quote": "דאין מעשרין מזה על זה דהכי כתיב חלב לכל אחד"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "כלאים"
+   ],
+   "he": {
+    "term": "כלאי זרעים וכלאי הכרם",
+    "explanation": "כלאי הכרם הם זריעת זרעים בכרם, אסורים באכילה ובהנאה; כלאי זרעים הם זריעת שני מיני זרעים יחד, ולפי תוספות אסורים מן התורה אך מותרים באכילה. רש״י כאן כתב שכלאי זרעים של דגן ודגן הם מדרבנן, ותוספות תמהו על כך."
+   },
+   "en": {
+    "term": "Kilayim of seeds and kilayim of the vineyard",
+    "explanation": "Kilayim of the vineyard means sowing seeds in a vineyard, forbidden for eating and benefit; kilayim of seeds means sowing two kinds of seed together, which according to Tosafot is forbidden by the Torah but permitted for eating. Rashi here wrote that kilayim of seeds for grain with grain is Rabbinic, and Tosafot were puzzled by this."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54a:1:3",
+    "quote": "דגן ודגן כלאי זרעים מדרבנן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "במפולת יד"
+   ],
+   "he": {
+    "term": "במפולת יד",
+    "explanation": "צורת הזריעה שרבי יאשיה דורש לחיוב בכלאי הכרם: זריעה של שלושת המינים — חיטה, שעורה וחרצן — בבת אחת בזריקה מהיד (״במפולת יד״), ולא כשהם נשארים בנפרד."
+   },
+   "en": {
+    "term": "\"In a handful\" (be-mapolet yad)",
+    "explanation": "The manner of sowing that Rabbi Yoshiya requires for liability for kilayim of the vineyard: sowing all three kinds, wheat, barley and a grape seed, together in a single cast from the hand, not separately."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54a:2:1",
+    "quote": "עד שיזרע שלשתן בבת אחת במפולת יד"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "כעין דאורייתא תקינו"
+   ],
+   "he": {
+    "term": "תקנת חכמים כעין דאורייתא",
+    "explanation": "עיקרון שחכמים כשתיקנו דין מדרבנן תיקנו אותו בדומה לדין מן התורה. כאן: מכיוון שמן התורה אין מעשרים ממין על שאינו מינו, גם בשאר המינים שהמעשר שלהם מדרבנן אין מעשרים כך."
+   },
+   "en": {
+    "term": "Rabbinic enactments in the likeness of the Torah",
+    "explanation": "A principle that when the Sages enacted a law they modeled it on a Torah law. Here: since by the Torah one does not tithe from one kind on another, the same applies to other kinds whose tithing is Rabbinic."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54a:4:2",
+    "quote": "וכל דתקון כעין דאורייתא תקון"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "ראשיתם"
+   ],
+   "he": {
+    "term": "ראשיתם",
+    "explanation": "המילה בפסוק ״ראשיתם״ (במדבר יח, יב), שאביי ורבי אילעא דורשים כך: תן ראשית לכל דגן ודגן, ולכן אין מפרישים מחיטים על שעורים. רבא סבור שהמיעוט נלמד מהמילה ״דגן״ ולא מ״ראשיתם״."
+   },
+   "en": {
+    "term": "\"Their first portion\" (reshitam)",
+    "explanation": "The word in the verse (Numbers 18:12) that Abaye and Rabbi Ila'a expound as: give a first portion for each kind of grain, so one does not separate from wheat on barley. Rava holds that the exclusion is learned from the word \"grain\" and not from \"their first\"."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54b:2:1",
+    "quote": "תן ראשית לכל דגן ודגן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "דאיתקש מעשר בהמה למעשר דגן"
+   ],
+   "he": {
+    "term": "היקש מעשר בהמה למעשר דגן",
+    "explanation": "לפי רבא נלמד מ״עשר תעשר״ ששני המעשרות הוקשו: כשם שבמעשר דגן אין מעשרים מחדש על ישן וממין על שאינו מינו, כך במעשר בהמה."
+   },
+   "en": {
+    "term": "The analogy of animal tithe to grain tithe",
+    "explanation": "According to Rava, \"you shall surely tithe\" analogizes the two tithes: as with grain tithe one does not tithe from new on old or from one kind on another, so too with animal tithe."
+   },
+   "source": {
+    "who": {
+     "he": "תורה תמימה",
+     "en": "Torah Temimah"
+    },
+    "ref": "Torah Temimah on Torah, Deuteronomy 14:22:2",
+    "quote": "ואיתקש מעשר בהמה למעשר דגן, מה מעשר דגן אין מעשרין מחדש על הישן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "כמלא רגל בהמה רועה"
+   ],
+   "he": {
+    "term": "כמלא רגל בהמה רועה",
+    "explanation": "שיעור הצירוף של בהמות הנמצאות במקומות שונים למעשר בהמה אחד: המרחק שבהמה רועה מתרחקת, והוא שישה עשר מיל. בהמות הנמצאות בתוך שיעור זה מצטרפות."
+   },
+   "en": {
+    "term": "The distance of a grazing animal's foot-space",
+    "explanation": "The measure within which animals in different places combine for a single animal tithe: the distance a grazing animal strays, which is sixteen mil. Animals within this measure combine."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 54b:10:1",
+    "quote": "כפי שיעור שהבהמה מתרחקת והולכת כשהיא רועה דהיינו ט\"ז מילין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "שיתסר מיל קא שלטא ביה עינא דרועה"
+   ],
+   "he": {
+    "term": "שליטת עין הרועה",
+    "explanation": "הטעם לשיעור ט״ז מיל: חכמים קיבלו שעד מרחק זה עין הרועה שולטת ויכול רועה אחד לשמור על העדר ולמנותו, ולכן הוא נחשב עדר אחד."
+   },
+   "en": {
+    "term": "The shepherd's eye commands the distance",
+    "explanation": "The reason for the sixteen-mil measure: the Sages received that up to this distance the shepherd's eye commands, so one shepherd can guard and count the flock, and it counts as one flock."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 54b:17",
+    "quote": "דרועה אחד יכול לשמור ולמנות הוי עדר"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "הק״ו מתירוש ויצהר: דגן ותירוש, ודגן ודגן, ורבי יאשיה",
+    "gemara": "הגמרא שואלת מנין שאין מעשרים מדגן על תירוש או מדגן על דגן, כשבתירוש ודגן נאמר ״חלב״ פעם אחת בלבד. מתירוש ויצהר, שנאמר בהם ״חלב״ בכל אחד, והם אינם כלאים זה בזה ובכל זאת אין מעשרים מזה על זה — קל וחומר לדגן ולתירוש, שהם כלאים. על כך מקשים לרבי יאשיה, שאינו מחייב משום כלאים עד שיזרע חיטה ושעורה וחרצן במפולת יד: כיצד לומד הוא את הק״ו? והגמרא מבארת את הק״ו כך שיעמוד גם לשיטתו, כשהכלאים הם ״על ידי דבר אחר״."
+   },
+   "en": {
+    "title": "The a fortiori from wine and oil: grain and wine, grain and grain, and Rabbi Yoshiya",
+    "gemara": "The Gemara asks how we know one may not tithe from grain on wine, or from one grain on another, when \"choicest\" is written only once for wine and grain. From wine and oil, for which it is written for each and which are not kilayim with each other yet may not be tithed from one on the other, the a fortiori is drawn to grain and wine, which are kilayim. It then asks how Rabbi Yoshiya, who holds one liable for kilayim only for wheat, barley and a grape seed in a handful, learns this, and the Gemara words the argument so that it also fits his view, with the kilayim arising \"through something else\"."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54a:1:3",
+     "quote": "דגן ודגן כלאי זרעים מדרבנן",
+     "he": "רש״י מפרש שגפנים וזיתים אינם כלאים זה בזה, ש״דגן ודגן״ הם כלאי זרעים מדרבנן, ו״דגן ותירוש״ כלאי כרם מדאורייתא.",
+     "en": "Rashi explains that vines and olives are not kilayim with each other, that wheat with barley is kilayim of seeds only by Rabbinic law, and that grain with grapes is kilayim of the vineyard by Torah law."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54a:1:2",
+     "quote": "ואפי' ר' יאשיה נמי אית ליה כלאי זרעים ומחייב אפי' בחטה ושעורה לחודייהו משום כלאי זרעים",
+     "he": "תוספות מעירים שנראה בדברי רש״י טעות סופר, שהרי אף רבי יאשיה מחייב בחטה ושעורה לבדן משום כלאי זרעים; ולכן ״על ידי דבר אחר״ נאמר רק לעניין כלאי הכרם.",
+     "en": "Tosafot note that Rashi's wording seems to be a scribal error, since even Rabbi Yoshiya holds one liable for wheat and barley alone as kilayim of seeds; so \"through something else\" is said only about kilayim of the vineyard."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54a:1:1",
+     "quote": "דלא מצינו במעשר בהמה דברים של שנה אחת דאינם כלאים",
+     "he": "תוספות מסבירים מדוע אין מקום להקשות מ״כבשים ועזים״ על הק״ו שבדף: במעשר בהמה אין דברים של שנה אחת שאינם כלאים ואינם מתעשרים זה מזה, כמו תירוש ויצהר.",
+     "en": "Tosafot explain why one cannot object to the a fortiori from lambs and goats: in animal tithes there are no things of one year that are not kilayim yet may not be tithed from each other, as there are with wine and oil."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Pesachim 47a:8:1",
+     "quote": "ע\"י ד\"א דקאמר לא קאי אדגן ודגן דבלאו דבר אחר מיחייב בחטים ושעורים לחוד",
+     "he": "תוספות בפסחים מפרשים שהמילים ״על ידי דבר אחר״ אינן אמורות על ״דגן ודגן״, שהרי גם בלי דבר אחר חייב בחיטים ושעורים לבדם.",
+     "en": "Tosafot in Pesachim explain that \"through something else\" does not refer to grain with grain, since one is liable for wheat and barley alone even without anything else."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54a:2",
+     "quote": "דעד דאיכא חטה ושעורה וחרצן לא הוי כלאים היכי מייתו לה בק\"ו",
+     "he": "רבינו גרשום מפרש את שאלת הגמרא: לרבי יאשיה אין כלאים עד שיש חיטה ושעורה וחרצן, ולכן קשה כיצד לומדים בק״ו מדגן ותירוש.",
+     "en": "Rabbeinu Gershom explains the question: for Rabbi Yoshiya there are no kilayim until wheat, barley and a grape seed are together, so how can the a fortiori be brought from grain and wine?"
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54a:3",
+     "quote": "אפילו ע\"י דבר אחר אם יצרף עמהן עוד מין אחר",
+     "he": "רבינו גרשום מסביר שגם אם מצרפים מין נוסף של חיטים או שעורים, אין הם כלאים לרבי יאשיה — ועם זאת אין מעשרים מזה על זה.",
+     "en": "Rabbeinu Gershom explains that even if one adds another kind of wheat or barley they are not kilayim, yet one still may not tithe from one on the other."
+    },
+    {
+     "who": {
+      "he": "רא״ה",
+      "en": "Ra'ah"
+     },
+     "ref": "Chiddushei HaRa'ah on Berakhot 22a:2",
+     "quote": "כרבי יאשיה דאמר אינו חייב עד שיזרע חטה ושעורה וחרצן במפולת יד",
+     "he": "הרא״ה מביא שנוהגים כרבי יאשיה בכלאי הכרם, שאינו חייב עד שיזרע חטה ושעורה וחרצן במפולת יד.",
+     "en": "The Ra'ah writes that the custom follows Rabbi Yoshiya on kilayim of the vineyard: one is not liable until he sows wheat, barley and a grape seed in a handful."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Diverse Species 5:2",
+     "quote": "וְאֵינוֹ לוֹקֶה מִשּׁוּם זוֹרֵעַ כִּלְאֵי הַכֶּרֶם עַד שֶׁיִּזְרַע בְּאֶרֶץ יִשְׂרָאֵל חִטָּה וּשְׂעוֹרָה וְחַרְצָן",
+     "he": "הרמב״ם פוסק שאינו לוקה משום כלאי הכרם עד שיזרע בארץ ישראל חיטה ושעורה וחרצן במפולת יד.",
+     "en": "The Rambam rules that one is not flogged for sowing kilayim of the vineyard until he sows wheat, barley and a grape seed in the Land of Israel in a handful."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 296",
+     "quote": "והראב\"ד כתב הא דבעי' חטה ושעורה וחרצן במפולת יד היינו דוקא למלקות אבל איסורא איכא",
+     "he": "הטור מביא שהראב״ד כתב שדרישת חיטה ושעורה וחרצן במפולת יד היא דווקא לעניין מלקות, אבל איסור יש.",
+     "en": "The Tur cites the Ra'avad that the requirement of wheat, barley and a grape seed in a handful applies only to flogging, but a prohibition exists."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Semag"
+     },
+     "ref": "Sefer Mitzvot Gadol, Negative Commandments 280:1",
+     "quote": "דהאי דבר אחר לא קאי אדגן ודגן אלא אתירוש ודגן",
+     "he": "הסמ״ג מביא את רבינו יצחק (בתוספות) ש״דבר אחר״ אינו אמור על דגן ודגן אלא על תירוש ודגן.",
+     "en": "The Semag cites Rabbeinu Yitzchak (in Tosafot) that \"something else\" refers not to grain with grain but to wine with grain."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 296:1",
+     "quote": "ואינו לוקה משום לא תזרע כרמך כלאים עד שיזרע בא\"י חטה ושעורה וחרצן במפולת יד",
+     "he": "השולחן ערוך פוסק שאינו לוקה משום ״לא תזרע כרמך כלאים״ עד שיזרע בארץ ישראל חיטה ושעורה וחרצן במפולת יד.",
+     "en": "The Shulchan Arukh rules that one is not flogged for \"do not sow your vineyard with kilayim\" until he sows wheat, barley and a grape seed in a handful in the Land of Israel."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Forbidden Foods 10:6:1",
+     "quote": "ויש לתרץ לזה דרבינו סובר דדגן ודגן לא הוי איסור מן התורה לרבי יאשיה אלא הוי איסור מדרבנן",
+     "he": "הלחם משנה מיישב את שיטת הרמב״ם מול סוגיית הדף: לרבי יאשיה דגן ודגן אינו איסור מן התורה אלא מדרבנן.",
+     "en": "The Lechem Mishneh reconciles the Rambam with our sugya: for Rabbi Yoshiya grain with grain is not a Torah prohibition but a Rabbinic one."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Diverse Species 5:7:1",
+     "quote": "מוכח בהדיא דחטה עם חרצן ליכא משום כלאים אפילו דרך זריעה",
+     "he": "המעשה רקח מביא קושיה על הרמב״ם מסוגיית הדף: מדברי הגמרא מוכח שחיטה עם חרצן אין בה משום כלאים אפילו בזריעה.",
+     "en": "The Maaseh Rokeach brings a difficulty on the Rambam from our sugya: it is evident that wheat with a grape seed involves no kilayim even by sowing."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Diverse Species 5:7:2",
+     "quote": "דרבינו פסק כרבי יאשיה לענין המלקות בלבד",
+     "he": "המעשה רקח מיישב שהרמב״ם פסק כרבי יאשיה לעניין המלקות בלבד.",
+     "en": "The Maaseh Rokeach answers that the Rambam ruled like Rabbi Yoshiya for the matter of flogging alone."
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:6:3",
+     "quote": "הוי ק\"ו מה תירוש ויצהר שאינן כלאים זה בזה אפילו ע\"י דבר א'",
+     "he": "רבי עקיבא איגר מסביר שגם אם אין חיוב משום כלאים בדגן ותירוש, הק״ו עומד: אם תירוש ויצהר שאינם כלאים אפילו על ידי דבר אחר אין מתעשרים זה מזה, קל וחומר לאלה.",
+     "en": "Rabbi Akiva Eiger explains that even if there is no liability for kilayim for grain and wine, the a fortiori stands: if wine and oil, which are not kilayim even through something else, may not be tithed from each other, all the more so these."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 295:5",
+     "quote": "דחטים וחרצנים חייב משום כלאי הכרם וכר' יונתן דלא כר' יאשיה",
+     "he": "הגר״א מבאר שבסוגיית הדף חיטים וחרצנים חייבים משום כלאי הכרם — כרבי יונתן ולא כרבי יאשיה.",
+     "en": "The Vilna Gaon explains that wheat and grape seeds are liable as kilayim of the vineyard, following Rabbi Yonatan and not Rabbi Yoshiya."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Diverse Species 1:1:1",
+     "quote": "רש\"י בפ\"ט דשבת (דף פ\"ד) כתב דכלאי זרעים לא אסירי כי אם מדרבנן וכבר תמהו עליו התוספות שם",
+     "he": "המשנה למלך מזכיר שרש״י בשבת כתב שכלאי זרעים אסורים מדרבנן בלבד, ושתוספות תמהו עליו, ומפנה לעיין בסוגיית בכורות נ״ד.",
+     "en": "The Mishneh LaMelech notes that Rashi in Shabbat wrote that kilayim of seeds are forbidden only Rabbinically, that Tosafot were puzzled by this, and he refers the reader to our sugya in Bekhorot 54."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 54a:1",
+     "quote": "במשנה פרש\"י שהן דרבנן",
+     "he": "הרש״ש מעיר שגם בשבת במשנה פירש רש״י שכלאי זרעים הם מדרבנן, ולכן לדעתו אין זו טעות סופר בלבד בדברי התוספות.",
+     "en": "The Rashash remarks that in Shabbat too Rashi explained, in the mishnah, that kilayim of seeds are Rabbinic."
+    },
+    {
+     "who": {
+      "he": "יד אברהם",
+      "en": "Yad Avraham"
+     },
+     "ref": "Yad Avraham on Shulchan Arukh, Yoreh Deah 296:2",
+     "quote": "אך לא משמע כן בבכורות (דף נ\"ד)",
+     "he": "היד אברהם, אחרי שהביא את דעת השולחן ערוך והרמב״ם שיש איסור גם במין אחד בין הגפנים, מעיר שזה אינו משתמע מסוגיית בכורות נ״ד.",
+     "en": "The Yad Avraham, after presenting the view of the Shulchan Arukh and the Rambam that there is a prohibition even with one species among the vines, remarks that this is not implied by Bekhorot 54."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    4
+   ],
+   "he": {
+    "title": "שני מינים בעלמא: מעשר מדרבנן כעין דאורייתא",
+    "gemara": "הגמרא שואלת מנין שאין מעשרים זה מזה גם בשאר מינים שאינם דגן, תירוש ויצהר. היא עונה שאלה מדרבנן, וכל מה שתיקנו חכמים תיקנו כעין דאורייתא: כשם שבמה שמן התורה שני מינים אינם מתעשרים זה מזה, כך גם בדרבנן.",
+    "halakha": "הרמב״ם והשולחן ערוך פוסקים שאין מעשרים ממין על שאינו מינו."
+   },
+   "en": {
+    "title": "Two kinds in general: the Rabbinic tithe in the likeness of the Torah",
+    "gemara": "The Gemara asks how we know that one may not tithe from one on another even for other kinds beyond grain, wine and oil. It answers that these are Rabbinic, and whatever the Sages instituted they instituted in the likeness of the Torah: as in the Torah two kinds are not tithed from one on the other, so too in the Rabbinic.",
+    "halakha": "The Rambam and the Shulchan Arukh rule that one does not tithe from one kind on a different kind."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54a:4:2",
+     "quote": "וכל דתקון כעין דאורייתא תקון שלא יתעשרו ממין על שאינו מינו",
+     "he": "רש״י: מן התורה אין חיוב מעשר אלא בדגן, תירוש ויצהר; שאר המינים מדרבנן, וחכמים תיקנו כעין דאורייתא שלא יתעשרו ממין על שאינו מינו.",
+     "en": "Rashi: by the Torah only grain, wine and oil are subject to tithes; other kinds are Rabbinic, and the Sages instituted in the likeness of the Torah that one not tithe from one kind on another."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54a:4",
+     "quote": "ושאר מינין דעלמא כגון פולין ועדשין מנא לן דאין מעשרין מזה על זה",
+     "he": "רבינו גרשום מפרש ״שני מינין בעלמא״ כשאר המינים, כגון פולים ועדשים.",
+     "en": "Rabbeinu Gershom explains \"two kinds in general\" as the other kinds, such as beans and lentils."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54a:4:1",
+     "quote": "וכל הנהו דרשות דספרי דמרבין אפי' קטנית ופירות האילן וירק לענין מעשר אסמכתא בעלמא נינהו",
+     "he": "תוספות: כל דרשות הספרי המרבות קטניות, פירות האילן וירק לעניין מעשר הן אסמכתא בעלמא.",
+     "en": "Tosafot: all the Sifrei expositions that include legumes, tree fruit and vegetables for tithing are mere asmachta."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Rosh Hashanah 12a:7:1",
+     "quote": "דלא מחייב מדאורייתא אלא דגן ותירוש ויצהר",
+     "he": "תוספות בראש השנה מביאים את סוגייתנו בין ראיותיהם שמן התורה חייבים רק דגן, תירוש ויצהר.",
+     "en": "Tosafot in Rosh Hashanah bring our sugya among their proofs that by Torah law only grain, wine and oil are obligated."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Bava Metzia 88a:3",
+     "quote": "אסמכתא נינהו וכל פירות האילן וירק מדרבנן",
+     "he": "הרמב״ן כותב שלפי גמרתנו דרשות הספרי אסמכתא, ופירות האילן וירק מדרבנן; ומביא את סוגייתנו ״ושני מינין בעלמא״ כראיה.",
+     "en": "The Ramban writes that according to our Gemara the Sifrei expositions are asmachta and tree fruit and vegetables are Rabbinic, and he brings our sugya, \"two kinds in general\", as proof."
+    },
+    {
+     "who": {
+      "he": "ר״ש משאנץ",
+      "en": "Rash of Shantz"
+     },
+     "ref": "Rash MiShantz on Mishnah Maasrot 1:1:3",
+     "quote": "דמדאורייתא לא מחייבי אלא דגן תירוש ויצהר",
+     "he": "הר״ש משאנץ: מן התורה לא חייבים אלא דגן, תירוש ויצהר, ובכלל זה הוא מביא את מה שנאמר בפרק מעשר בהמה.",
+     "en": "The Rash of Shantz: by Torah law only grain, wine and oil are obligated, and among his sources he cites what is said in the chapter on animal tithes."
+    },
+    {
+     "who": {
+      "he": "תשב״ץ",
+      "en": "Tashbetz"
+     },
+     "ref": "Sefer HaTashbetz, Part III 203:2",
+     "quote": "ומדאוריתא לא מיחייב אלא דגן ותירוש ויצהר",
+     "he": "התשב״ץ מביא שמן התורה לא חייבים אלא דגן, תירוש ויצהר, ומזכיר את הסוגיה בפרק מעשר בהמה (בכורות נ״ד).",
+     "en": "The Tashbetz states that by Torah law only grain, wine and oil are obligated, and he mentions the sugya in the chapter on animal tithes (Bekhorot 54)."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tithes 1:6",
+     "quote": "אֲבָל אֵין מְעַשְּׂרִין מִמִּין עַל שֶׁאֵינוֹ מִינוֹ",
+     "he": "הרמב״ם פוסק שאין מעשרים ממין על שאינו מינו.",
+     "en": "The Rambam rules that one does not tithe from one kind on a different kind."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חוות יאיר",
+      "en": "Havot Yair"
+     },
+     "ref": "Havot Yair 224:44",
+     "quote": "דעת הרמב\"ם דס\"ל דכל הפירות חייבי' במעשר חוץ מהחרובין",
+     "he": "החוות יאיר מציין שדעת הרמב״ם שכל הפירות חייבים במעשר חוץ מחרובין, ושרש״י, התוספות והראב״ד חולקים וסוברים שמן התורה רק דגן, תירוש ויצהר.",
+     "en": "The Havot Yair notes that the Rambam holds all fruits are subject to tithes except carobs, while Rashi, Tosafot and the Ra'avad dispute this and hold that by Torah law only grain, wine and oil are."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Heave Offerings 2:1:1",
+     "quote": "מוכח התם דמאי דלא כתיב בתורה אין חיובו כי אם מדרבנן וצ\"ע",
+     "he": "המשנה למלך מעיר שמסוגיית בכורות נ״ד מוכח שמה שלא נכתב בתורה חיובו מדרבנן, וזה קשה על שיטת הרמב״ם.",
+     "en": "The Mishneh LaMelech remarks that Bekhorot 54 shows that whatever is not written in the Torah is obligated only Rabbinically, which is hard on the Rambam's view."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Heave Offerings 2:1:1",
+     "quote": "מוכרח שתרומת התאנים היא מדאורייתא",
+     "he": "המעשה רקח מיישב את דעת הרמב״ם: משנת פרה על דבילה של תרומה מוכיחה שתרומת התאנים מדאורייתא, והוא דוחה את ההוכחה מסוגייתנו.",
+     "en": "The Maaseh Rokeach defends the Rambam: the mishnah in Parah about a fig cake of teruma shows that the teruma of figs is from the Torah, and he answers the proof from our sugya."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Heave Offerings 2:1:1",
+     "quote": "ורבותינו בתוס' בכורות פרק מעשר בהמה פירשו דלוקה מכת מרדות",
+     "he": "האור שמח מביא שתוספות בבכורות פירשו שהלוקה על אכילת תאנה של טבל לוקה מכת מרדות, אך מביא כמה משניות וסוגיות שמכריעות כפסק הרמב״ם.",
+     "en": "The Ohr Sameach notes that Tosafot in Bekhorot explained that the flogging for eating a fig of tevel is rabbinic disciplinary flogging, but he brings several mishnayot and sugyot that decide in favour of the Rambam's ruling."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 395:1:1",
+     "quote": "וכל הדרשות שבספרי הם אסמכתות",
+     "he": "המנחת חינוך מסכם שלוש שיטות במינים החייבים במעשר, ומציין שלפי התוספות (בבכורות נ״ד ועוד) כל הדרשות שבספרי הן אסמכתות.",
+     "en": "The Minchat Chinukh summarizes three views on which kinds are subject to tithes, and notes that according to Tosafot (in Bekhorot 54 and elsewhere) all the expositions in the Sifrei are asmachtot."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן העתיד",
+      "en": "Arukh HaShulchan HeAtid"
+     },
+     "ref": "Arukh HaShulchan HeAtid, Laws of Zeraim 54:1",
+     "quote": "דמן התורה אינו חייב בתו\"מ רק בדגן תירוש ויצהר",
+     "he": "ערוך השולחן העתיד: רש״י בבכורות (נ״ד) כתב שמן התורה אין חיוב תרומות ומעשרות אלא בדגן, תירוש ויצהר, וכן דעת בעלי התוספות והראב״ד.",
+     "en": "The Arukh HaShulchan HeAtid: Rashi in Bekhorot (54) wrote that by Torah law only grain, wine and oil carry the obligation of terumot and ma'asrot, and this is the view of the Tosafists and the Ra'avad too."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Terumot 2:2:2:1",
+     "quote": "והרמב\"ם ז\"ל בדרשא דהאי דינא כתב מקרא אחר",
+     "he": "מראה הפנים מציין שהרמב״ם למד את הדין שאין תורמים ממין על שאינו מינו מפסוק אחר, ומבאר מדוע.",
+     "en": "The Mareh HaPanim notes that the Rambam derives the rule against giving from one kind on another from a different verse, and explains why."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 331:72",
+     "quote": "כל שאמרנו בתרומה אין תורמין מזה על זה כך במעשר אין מעשרין מזה על זה",
+     "he": "השולחן ערוך פוסק שכל מה שנאמר בתרומה — שאין תורמים מזה על זה — כך גם במעשר.",
+     "en": "The Shulchan Arukh rules that whatever was said of teruma, that one does not separate from one on another, applies equally to ma'aser."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    5,
+    2
+   ],
+   "he": {
+    "title": "מעשר בהמה: ״בקר וצאן״, ״העשירי״ ודרשת ״ראשיתם״",
+    "gemara": "רבא בר רב חנן מקשה לאביי: אם במעשר בהמה לא נאמר ״וכל מעשר בקר ומעשר צאן״, יתעשרו בקר וצאן זה מזה. אביי עונה: נאמר ״העשירי״ — תן עשירי לזה ועשירי לזה. ואם כך, גם כבשים ועזים לא יתעשרו זה מזה? ״וצאן״ משמע כל צאן אחד. ושואלים: אם כן גם בדגן נאמר ״כל דגן אחד״; אביי עונה ״ראשיתם״, וכן אמר רבי אילעא.",
+    "halakha": "הרמב״ם פוסק שאין מעשרים מן הצאן על הבקר ולא מן הבקר על הצאן, אבל מעשרים מכבשים על עזים ומעזים על כבשים."
+   },
+   "en": {
+    "title": "Animal tithe: \"herd and flock\", \"the tenth\", and the exposition of \"their first\"",
+    "gemara": "Rava bar Rav Chanan asks Abaye: if for animal tithe \"and every tithe of the herd and the flock\" is not written in the double form, the herd and the flock would be tithed from each other. Abaye answers that \"the tenth\" is written: give a tenth for this and a tenth for that. If so, lambs and goats too? \"And flock\" means every flock as one. The Gemara then asks the same of grain, and Abaye answers \"their first\", as Rabbi Ila'a also said.",
+    "halakha": "The Rambam rules that one does not tithe from the flock on the herd or from the herd on the flock, but one does tithe from lambs on goats and from goats on lambs."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54a:6",
+     "quote": "הכי נמי דיתעשרו מזה על זה",
+     "he": "רבינו גרשום מסביר את שאלת רבא בר רב חנן: כיוון שלמדנו שאין מעשרים ממין על שאינו מינו מכך שנכתב ״חלב״ פעמיים, אם במעשר בהמה לא נכתב ״מעשר בקר ומעשר צאן״ יתעשרו מזה על זה.",
+     "en": "Rabbeinu Gershom explains the question of Rava bar Rav Chanan: since we learned that one does not tithe from one kind on another from \"choicest\" being written twice, if for animal tithe \"tithe of the herd and tithe of the flock\" is not written, they would be tithed from each other."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:1:2",
+     "quote": "דסמך מעשר אבקר ועשירי סמך אצאן",
+     "he": "רש״י מפרש את התשובה ״העשירי״: ״מעשר״ נסמך לבקר ו״עשירי״ נסמך לצאן, ועכשיו נכתב ״מעשר״ על כל אחד לחוד.",
+     "en": "Rashi explains the answer \"the tenth\": \"tithe\" is attached to the herd and \"tenth\" to the flock, so now a tithe is written for each separately."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:1",
+     "quote": "הדר אמר קרא העשירי כדכתיב תרי זימני מעשר מעשר דמי",
+     "he": "רבינו גרשום: ״העשירי״ הוא כמו שנכתב ״מעשר״ פעמיים — כמו שנכתב ״חלב״ פעמיים בתירוש ויצהר.",
+     "en": "Rabbeinu Gershom: \"the tenth\" is as if \"tithe\" were written twice, like \"choicest\" written twice for wine and oil."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:3",
+     "quote": "הא כתיב וצאן משמע כל צאן אחד",
+     "he": "רבינו גרשום: כבשים ועזים כן מתעשרים זה מזה, כי נכתב ״וצאן״ שמשמעו כל צאן אחד.",
+     "en": "Rabbeinu Gershom: lambs and goats are tithed from each other, since \"and flock\" is written, which means every flock as one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:2:1",
+     "quote": "תן ראשית לכל דגן ודגן",
+     "he": "רש״י מבאר את דרשת אביי ״ראשיתם״: הוא סמוך ל״דגן״ ללמד שיתן ראשית לכל דגן ודגן בנפרד.",
+     "en": "Rashi explains Abaye's exposition of \"their first\": it is placed next to \"grain\" to teach that one gives a first portion for each kind of grain separately."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:5",
+     "quote": "תן ראשית לזה וראשית לזה שלא יתעשרו מזה על זה",
+     "he": "רבינו גרשום: ״ראשיתם״ — תן ראשית לזה וראשית לזה, ולא יתעשרו מזה על זה.",
+     "en": "Rabbeinu Gershom: \"their first\" means give a first portion for this and a first portion for that, so they are not tithed from one on the other."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54b:2:1",
+     "quote": "וי\"ל דלאביי ודאי משמע דהאי ראשית לחלק במיני דגן",
+     "he": "תוספות מקשים על דברי אביי מהגמרא בתמורה (שדרשה ״ראשיתם״ אף על תירוש ויצהר), ומתרצים שלאביי ״ראשית״ בא ללמד חלוקה בין מיני דגן.",
+     "en": "Tosafot raise a difficulty with Abaye from the Gemara in Temurah (which expounds \"their first\" even for wine and oil), and answer that for Abaye \"first\" certainly teaches a division among the kinds of grain."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:4",
+     "quote": "אֲבָל מְעַשְּׂרִין מִן הַכְּבָשִׂים עַל הָעִזִּים וּמִן הָעִזִּים עַל הַכְּבָשִׂים",
+     "he": "הרמב״ם פוסק שאין מעשרים מצאן על בקר ולא מבקר על צאן, אבל מעשרים מכבשים על עזים ומעזים על כבשים.",
+     "en": "The Rambam rules that one does not tithe from the flock on the herd or from the herd on the flock, but one does tithe from lambs on goats and from goats on lambs."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 14:22:2",
+     "quote": "בשני מעשרות הכתוב מדבר, אחד מעשר בהמה ואחד מעשר דגן",
+     "he": "התורה תמימה מסביר את דרשת ״עשר תעשר״: הכתוב מדבר בשני מעשרות, מעשר בהמה ומעשר דגן, ומהם נלמד ההיקש.",
+     "en": "The Torah Temimah explains the exposition of \"you shall surely tithe\": the verse speaks of two tithes, animal tithe and grain tithe, and from them the analogy is learned."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 115:1",
+     "quote": "שכל מקום שהענינים מחולקים יבא שם הסומך בכל פעם",
+     "he": "המלבי״ם מביא כלל: כל מקום שהעניינים מחולקים יבוא השם הסומך בכל פעם, ומזכיר בין הדוגמאות את סוגייתנו ״אלא מעתה גבי מעשר בהמה״.",
+     "en": "The Malbim states a rule: wherever the matters are separate, the governing noun comes each time, and he lists among his examples our sugya, \"if so, for animal tithe\"."
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:6:3",
+     "quote": "משום דוצאן כתיב משמע כל צאן א'",
+     "he": "רבי עקיבא איגר מבחין בין מעשר בהמה למעשר דגן: בכבשים ועזים הק״ו מחדש וישן אינו מונע את צירופם משום ש״וצאן״ משמע כל צאן אחד.",
+     "en": "Rabbi Akiva Eiger distinguishes animal tithes from grain: for lambs and goats the a fortiori from new and old does not prevent combining them, because \"and flock\" means every flock as one."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 54b:1",
+     "quote": "נראה דהשתא תו לא צריכנא להק\"ו דלעיל מתירוש ויצהר",
+     "he": "הרש״ש מעיר שלפי דרשת אביי ״ראשיתם״ אין עוד צורך בק״ו שלמעלה מתירוש ויצהר.",
+     "en": "The Rashash observes that, with Abaye's exposition of \"their first\", there is no longer any need for the a fortiori above from wine and oil."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 18:12:1",
+     "quote": "כלומר סמוך לדגן הוי ראשיתם, לומר תן ראשית לכל דגן ודגן",
+     "he": "התורה תמימה מבאר ש״ראשיתם״ נכתב סמוך ל״דגן״ ללמד שנותנים ראשית לכל דגן ודגן, ומציין את הסוגיה בתמורה ה׳ א׳.",
+     "en": "The Torah Temimah explains that \"their first\" is written next to \"grain\" to teach that a first portion is given for each grain separately, and he refers to the sugya in Temurah 5a."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    6
+   ],
+   "he": {
+    "title": "רבא: ״ראשיתם״ אינו נצרך, ו״בקר וצאן״ בא ללמד שכבשים ועזים מתעשרים",
+    "gemara": "רבא אומר שבלי ״ראשיתם״ לא היינו יכולים לומר ״כל דגן אחד״, אף שבמעשר בהמה אומרים ״וצאן״ משמע כל צאן אחד — כי אילו ״כבשים ועזים״ לא היו מתעשרים זה מזה, היה מספיק לכתוב ״כל מעשר בהמה״. ואם יאמרו שמא כתיבת ״בהמה״ הייתה כוללת גם חיה — ״תחת תחת״ מקדשים; ובק״ו מחדש וישן היינו יודעים. לכן ״בקר וצאן״ בא להורות שדווקא בקר וצאן אינם מתעשרים, אבל כבשים ועזים כן. אולם בדגן, אי אפשר שלא יכתוב ״דגן״ — כדי למעט שאר מינים."
+   },
+   "en": {
+    "title": "Rava: \"their first\" is not needed, and \"herd and flock\" teaches that lambs and goats are tithed together",
+    "gemara": "Rava says that without \"their first\" we could not say \"every grain as one\", even though for animal tithe we say \"and flock\" means every flock as one: if lambs and goats were not to be tithed from each other, the Torah could have written \"every animal tithe\". If one says that writing \"animal\" would have included wild animals, \"under, under\" is learned from sanctified animals, and the a fortiori from new and old would give the rest. So \"herd and flock\" teaches that only herd and flock are not tithed from each other, while lambs and goats are. But for grain, the Torah could not omit \"grain\", which excludes other kinds."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:6",
+     "quote": "לא יתעשרו זה על זה לכתוב כל מעשר בהמה ולא לכתוב בקר וצאן",
+     "he": "רבינו גרשום מבאר את דברי רבא: אם כבשים ועזים לא היו מתעשרים זה מזה, היה מספיק לכתוב ״כל מעשר בהמה״ ולא לפרט בקר וצאן.",
+     "en": "Rabbeinu Gershom explains Rava: if lambs and goats were not to be tithed from each other, it would suffice to write \"every animal tithe\" without specifying herd and flock."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:3:2",
+     "quote": "לכתוב רחמנא וכל מעשר בהמה ואנא ידענא דמין על שאינו מינו לא דאתי מק\"ו מחדש וישן",
+     "he": "רש״י: התורה הייתה יכולה לכתוב ״בהמה״ ואנו יודעים ממין על שאינו מינו לא מק״ו מחדש וישן; ולכן הפרוט ״בקר וצאן״ בא ללמד שדווקא בקר וצאן אינם מתעשרים.",
+     "en": "Rashi: the Torah could have written \"animal\" and we would know that one kind is not tithed on another by the a fortiori from new and old; so the specification \"herd and flock\" teaches that only herd and flock are not tithed from each other."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:4:1",
+     "quote": "דאנא גמיר תחת תחת מקדשים",
+     "he": "רש״י מסביר: אילו נכתב ״בהמה״ היינו אומרים שחיה בכלל, ואין צורך בפרט ״בקר וצאן״ כדי להוציאה, כי אנו לומדים ״תחת תחת״ מקדשים, ושם אין חיה.",
+     "en": "Rashi explains: had \"animal\" been written we might say a wild animal is included, and \"herd and flock\" is not needed to exclude it, since we learn \"under, under\" from sanctified animals, where no wild animal appears."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:7",
+     "quote": "דמעשר תחת תחת מקדשים גמר וחיה ליכא בקדשים",
+     "he": "רבינו גרשום: מעשר למד ״תחת תחת״ מקדשים, וחיה אינה בקדשים — ועדיין היה אפשר לכתוב ״כל מעשר בהמה״ ולבוא בק״ו מחדש וישן.",
+     "en": "Rabbeinu Gershom: tithe learns \"under, under\" from sanctified animals, and wild animals are not among sanctified animals, yet one could still have written \"every animal tithe\" and come by the a fortiori from new and old."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54b:5:1",
+     "quote": "לא הוי מצי למימר דאתי בהיקישא דעשר תעשר דלעיל",
+     "he": "תוספות: אי אפשר לומר שהדין בא מההיקש ״עשר תעשר״ שלמעלה, כי אמר רבא למעלה ״שנה לשנה הקשתיו ולא לדבר אחר״.",
+     "en": "Tosafot: one cannot say the law comes from the analogy of \"you shall surely tithe\" above, since Rava said above, \"I analogized year to year, and not to something else\"."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubetzet"
+     },
+     "ref": "Shita Mekubetzet on Bava Kamma 78a:7",
+     "quote": "ה\"ר שמואל מוורדוס ז\"ל בפרק בתרא דבכורות",
+     "he": "השיטה מקובצת מביא את קושיית רבי שמואל מוורדוס מסוגייתנו (״אי גמר תחת תחת מקדשים״) על שיטת רש״י, שצאן כמאן דכתיב ביה שה, ומביא את התירוץ שצאן אינו נחשב כשה.",
+     "en": "The Shita Mekubetzet brings the difficulty of Rabbi Shmuel of Vordus from our sugya (\"if he learns under, under from sanctified animals\") on Rashi's view that \"flock\" is as if \"lamb\" were written, and he brings the answer that flock is not counted as \"lamb\"."
+    },
+    {
+     "who": {
+      "he": "מהר״ם",
+      "en": "Maharam"
+     },
+     "ref": "Maharam on Ketubot 32b:4",
+     "quote": "מאחר דנתקבלה נ\"ש דתחת תחת מסיני מצינו למילף בכל דוכתא",
+     "he": "המהר״ם מעיר על לימוד ״תחת תחת״ בפרק מעשר בהמה: מאחר שהגזירה שווה התקבלה מסיני אפשר ללמוד בכל מקום שנמצא ״תחת תחת״ בתורה.",
+     "en": "The Maharam comments on the learning of \"under, under\" in the chapter on animal tithes: since the verbal analogy was received from Sinai, one may learn wherever \"under, under\" is found in the Torah."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Even HaEzer 129:44",
+     "quote": "דהך דבכורות היינו רבא לבתר דהדר ביה ביבמות",
+     "he": "הנודע ביהודה מיישב סתירה בין דברי רבא בתמורה ובבכורות: דברי רבא בבכורות נאמרו אחרי שחזר בו ביבמות.",
+     "en": "The Noda BiYehudah resolves a contradiction between Rava's statements in Temurah and Bekhorot: the statement in Bekhorot is Rava after he retracted in Yevamot."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    9
+   ],
+   "he": {
+    "title": "רב הונא בריה דרב נחמן, ההיקש של רבא, וחזרתו",
+    "gemara": "רב הונא בריה דרב נחמן מקשה: אולי ״בקר בצאן״ נכתב כדי לערבם. מר זוטרא עונה שיש גם ״העשירי״. ויש גורסים: אמר רבא שגם בלי ״עשירי״ אי אפשר לומר שבקר וצאן מתעשרים זה מזה, כי הוקש מעשר בהמה למעשר דגן. ושואלים: והרי רבא עצמו אמר ״שנה לשנה הקשתיו ולא לדבר אחר״! רבא חזר בו, ויש אומרים: רב פפא אמרה."
+   },
+   "en": {
+    "title": "Rav Huna son of Rav Nachman, Rava's analogy, and his retraction",
+    "gemara": "Rav Huna son of Rav Nachman objects: perhaps \"herd with flock\" was written to mix them. Mar Zutra answers that \"the tenth\" is also there. Some say that Rava said that even without \"the tenth\" one cannot say herd and flock are tithed together, since animal tithe was compared to grain tithe. The Gemara objects that Rava himself said \"I analogized year to year, and not to something else\"; Rava retracted, or else Rav Papa said it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:7:1",
+     "quote": "אימא להכי פרטינהו קרא בהדיא לערבינהו דליעשרו אהדדי",
+     "he": "רש״י מפרש את קושיית רב הונא: אולי הפרט ״בקר וצאן״ בא כדי לערבם ולהתעשר זה מזה, שאילו כתב ״בהמה״ היינו למדים מחדש וישן שאין מתעשרים.",
+     "en": "Rashi explains Rav Huna's objection: perhaps the Torah specified \"herd and flock\" in order to combine them so they are tithed together, since had it written \"animal\" we would learn from new and old that they are not."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54b:7:1",
+     "quote": "דכתבינהו בחד מעשר ולא כתב ומעשר צאן",
+     "he": "תוספות מפרשים ״אימא לערובי בצאן״: שהתורה כתבה את שניהם במעשר אחד ולא כתבה ״ומעשר צאן״.",
+     "en": "Tosafot explain \"perhaps to mix it with the flock\": the Torah wrote both under one tithe and did not write \"and the tithe of the flock\"."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:10",
+     "quote": "אלא לערבן בקר בצאן דמעשרין מן הבקר על הצאן ומן הצאן על הבקר",
+     "he": "רבינו גרשום מסביר את קושיית רב הונא: ״בצאן״ נכתב אולי כדי לערב את הבקר בצאן, שיעשרו מהבקר על הצאן ומהצאן על הבקר.",
+     "en": "Rabbeinu Gershom explains Rav Huna's objection: \"the flock\" may have been written to combine the herd with the flock, so that they are tithed from the herd on the flock and from the flock on the herd."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:11",
+     "quote": "לרבא נמי דמפיק וצאן לכל צאן משמע אית ליה נמי העשירי",
+     "he": "רבינו גרשום מסביר את תשובת מר זוטרא: גם לרבא, שדורש ״וצאן״ כל צאן אחד, יש את ״העשירי״ ללמד תן עשירי לבקר ועשירי לצאן.",
+     "en": "Rabbeinu Gershom explains Mar Zutra's answer: even for Rava, who expounds \"and flock\" as every flock, there is \"the tenth\", teaching to give a tenth for the herd and a tenth for the flock."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:8:1",
+     "quote": "וא\"ת בכבשים ועזים נמי א\"כ ריבויא דבקר וצאן מאי אהני",
+     "he": "רש״י מקשה על ההיקש שבלשון ״איתקש מעשר בהמה למעשר דגן״: אם כן גם כבשים ועזים לא יתעשרו, ומה אפוא מועיל הריבוי של ״בקר וצאן״? ומתרץ שכבשים ועזים דומים זה לזה ולכן נרבו.",
+     "en": "Rashi objects to the analogy \"animal tithe was compared to grain tithe\": then lambs and goats would not be tithed together either, so what does the inclusion of \"herd and flock\" accomplish? He answers that lambs and goats resemble each other and so were included."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:9:1",
+     "quote": "דהא בחדש וישן כתיב בקרא בהדיא דאיתקוש דהא בקרא דהקישא כתיב שנה שנה",
+     "he": "רש״י מסביר שרבא חזר בו, והקשיה ״חדש וישן״ אינה קושיה, כי שם נאמר בפירוש בפסוק ההיקש ״שנה שנה״.",
+     "en": "Rashi explains that Rava retracted, and the question about new and old is no objection, since the analogy there is stated explicitly in the verse: \"year, year\"."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 54b:9:1",
+     "quote": "ועל רב פפא רגיל לומר כן שמלך אחר רבא",
+     "he": "תוספות: ״חדא מינייהו רב פפא אמרה״ — רגילים לומר כן על רב פפא, שמלך אחרי רבא.",
+     "en": "Tosafot: \"Rav Papa said one of them\" — it is usual to say this of Rav Papa, who followed Rava."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bava Batra 22a:11:2",
+     "quote": "בפרק אחרון דבכורות ורבא אמרינהו בסופא דפירקא",
+     "he": "רש״י בבבא בתרא מציין ש״שמעתתא דמעשר בהמה״ הן בפרק האחרון של בכורות, ורבא אמרן בסוף הפרק.",
+     "en": "Rashi in Bava Batra notes that the \"traditions of animal tithe\" are in the last chapter of Bekhorot, and Rava said them at the end of the chapter."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Deuteronomy 14:22:2",
+     "quote": "ואיתקש מעשר בהמה למעשר דגן, מה מעשר דגן אין מעשרין מחדש על הישן וממין על שאינו מינו",
+     "he": "התורה תמימה מבאר את ההיקש ״עשר תעשר״: מעשר בהמה הוקש למעשר דגן — מה מעשר דגן אין מעשרין ממנו מחדש על ישן וממין על שאינו מינו, אף מעשר בהמה.",
+     "en": "The Torah Temimah explains the analogy of \"you shall surely tithe\": animal tithe is compared to grain tithe — as one does not tithe grain from new on old or from one kind on another, so too animal tithe."
+    },
+    {
+     "who": {
+      "he": "אמרי יושר",
+      "en": "Imrei Yosher"
+     },
+     "ref": "Imrei Yosher on Ruth 4",
+     "quote": "ובבכורות אמרו דמעשר בהמה מצטרף כמלא רגל בהמה רועה",
+     "he": "האמרי יושר מביא את הדין שבבכורות (נ״ד) — מעשר בהמה מצטרף כמלא רגל בהמה רועה — כראיה לדעת הרמב״ם בעניין ריחוק ״נראה ואינו סמוך״.",
+     "en": "The Imrei Yosher brings the law in Bekhorot 54 — animal tithe combines within a grazing animal's foot-space — as proof for the Rambam's position on \"seen but not adjacent\"."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    13
+   ],
+   "he": {
+    "title": "מתניתין: מעשר בהמה מצטרף כמלא רגל בהמה רועה (ט״ז מיל)",
+    "gemara": "המשנה: מעשר בהמה מצטרף כמלא רגל בהמה רועה, והיא ששה עשר מיל; בין עדרים שלושים ושניים מיל — אין מצטרפים; היו לו באמצע — מביא ומעשרן באמצע; ורבי מאיר אומר: הירדן מפסיק. הגמרא שואלת על מקור הדין, ורבה בר שילא לומד מ״עוד תעברנה הצאן על ידי מונה״ שחכמים קיבלו שעד ט״ז מיל שולטת עין הרועה. ושואלת מדוע נשנה ״שלושים ושניים״ ולא פחות מזה, ועונה: כדי לשנות את הסיפא ״היו לו באמצע״.",
+    "halakha": "הרמב״ם פוסק שחמישה טלאים בירושלים וחמישה בעכו אינם מצטרפים וכולם פטורים מן המעשר."
+   },
+   "en": {
+    "title": "The mishnah: animal tithe combines within a grazing animal's foot-space (sixteen mil)",
+    "gemara": "The mishnah: animal tithe combines within a grazing animal's foot-space, which is sixteen mil; thirty-two mil between flocks, they do not combine; if he had some in the middle, he brings them and tithes them in the middle; and Rabbi Meir says the Jordan divides. The Gemara asks for the source, and Rabbah bar Sheila learns from \"again shall the flock pass under the hands of the counter\" that the Sages received that the shepherd's eye controls up to sixteen mil. It asks why the mishnah taught \"thirty-two\" and not less, and answers: to teach the latter clause, \"he had some in the middle\".",
+    "halakha": "The Rambam rules that five lambs in Jerusalem and five in Acre do not combine and all are exempt from the tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:10:1",
+     "quote": "כפי שיעור שהבהמה מתרחקת והולכת כשהיא רועה דהיינו ט\"ז מילין",
+     "he": "רש״י מפרש ״כמלא רגל בהמה רועה״ — כפי שיעור שהבהמה מתרחקת והולכת כשהיא רועה, והוא ט״ז מילין.",
+     "en": "Rashi explains \"a grazing animal's foot-space\" as the distance an animal moves away while grazing, sixteen mil."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:10:3",
+     "quote": "אותן האמצעיות מצרפות את הצדדין",
+     "he": "רש״י: בדין ״היו לו באמצע״ — אותן האמצעיות מצרפות את הצדדים, והמשנה אינה אומרת שמביא ממש לאמצע.",
+     "en": "Rashi: in the case \"he had some in the middle\", the middle ones combine the sides, and the mishnah does not mean he literally brings them to the middle."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:10:4",
+     "quote": "אם יש לו חמשה בהמות מכאן וחמשה מכאן וירדן באמצע אין מצטרפות ופטורות",
+     "he": "רש״י מסביר את דעת רבי מאיר: אם יש חמש בהמות מכאן וחמש מכאן והירדן באמצע, הן אינן מצטרפות ופטורות.",
+     "en": "Rashi explains Rabbi Meir: if one has five animals on one side, five on the other, and the Jordan in between, they do not combine and are exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:12:1",
+     "quote": "משמע אם יכולות להמנות ברועה א' מיקרו צאן",
+     "he": "רש״י מבאר את הדרשה מ״עוד תעברנה הצאן על ידי מונה״: אם אפשר למנות אותן על ידי רועה אחד הן נקראות צאן ומתעשרות.",
+     "en": "Rashi explains the exposition from \"again shall the flock pass under the hands of the counter\": if they can be counted by one shepherd they are called a flock and are tithed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:12",
+     "quote": "כל אותן בהמות של אדם אחד שרועות בשדה אחד כשיעור שרגל בהמה הולכת ורועה",
+     "he": "רבינו גרשום מבאר: כל הבהמות של אדם אחד הרועות בשיעור שרגל בהמה הולכת ורועה, ורועה אחד יכול לשמרן, מצטרפות ונחשבות עדר אחד.",
+     "en": "Rabbeinu Gershom explains: all one person's animals grazing within the distance an animal walks and grazes, which one shepherd can guard, combine and count as one flock."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:15",
+     "quote": "היה לו עדר באמצע אלו ל\"ב מביא ומעשרן כולן עד אותו עדר שבאמצע",
+     "he": "רבינו גרשום מבאר: אם היה לו עדר באמצע בין שני העדרים שלושים ושני מיל זה מזה, מעשר את כולם, כי עכשיו אין בין עדר לעדר ט״ז מיל.",
+     "en": "Rabbeinu Gershom explains: if he had a flock in the middle between two flocks thirty-two mil apart, he tithes them all, since now there are not sixteen mil between any flock and the next."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 54b:19",
+     "quote": "משום הכי קתני שלשים ושתים משום דקא בעי למיתנא סיפא",
+     "he": "רבינו גרשום מבאר את תירוץ הגמרא: המשנה שנתה ״שלושים ושניים״ כי רצתה לשנות אחר כך ״היו לו באמצע״.",
+     "en": "Rabbeinu Gershom explains the Gemara's answer: the mishnah taught \"thirty-two\" because it wanted to teach next the case of \"he had some in the middle\"."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:2",
+     "quote": "הָיוּ לוֹ חֲמִשָּׁה טְלָאִים בִּירוּשָׁלַיִם וַחֲמִשָּׁה טְלָאִים בְּעַכּוֹ אֵין מִצְטָרְפִין וְכֻלָּן פְּטוּרִין מִן הַמַּעֲשֵׂר",
+     "he": "הרמב״ם פוסק: היו לו חמישה טלאים בירושלים וחמישה בעכו — אין מצטרפים וכולם פטורים מן המעשר, והשיעור לצירוף הוא ששה עשר מיל.",
+     "en": "The Rambam rules: if he had five lambs in Jerusalem and five in Acre, they do not combine and all are exempt from the tithe; the distance within which they combine is sixteen mil."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Semag"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 212",
+     "quote": "פירוש כמו שהרועה מניח רגל בהמותיו לרוץ ולרעות וכמה היא רגל בהמה רועה ששה עשר מיל",
+     "he": "הסמ״ג מביא את דין המשנה ומפרש: כמו שהרועה מניח רגל בהמותיו לרוץ ולרעות, ושיעורה ששה עשר מיל.",
+     "en": "The Semag brings the mishnah's law and explains: as the shepherd lets his animals' feet run and graze, and its measure is sixteen mil."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "אמרי יושר",
+      "en": "Imrei Yosher"
+     },
+     "ref": "Imrei Yosher on Ruth 4",
+     "quote": "ופי' רש\"י הטעם דט\"ז מיל שלטא עינא דרועה",
+     "he": "האמרי יושר מדגיש שרש״י פירש את הטעם בש״ס — ט״ז מיל שולטת עין הרועה — ולכן אפשר לראות בבירור גם במרחק גדול.",
+     "en": "The Imrei Yosher emphasizes that Rashi explained the reason — the shepherd's eye controls sixteen mil — so one can see clearly even at a great distance."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Exodus 23:4:1",
+     "quote": "כמ\"ש בבכורות שעד ט\"ז מיל שלטה עינו דרועה",
+     "he": "המלבי״ם מזכיר את הדין בבכורות שעד ט״ז מיל שולטת עין הרועה, בבואו ללמוד שאין ״כי תפגע״ במרחק רב.",
+     "en": "The Malbim mentions the law in Bekhorot that the shepherd's eye controls up to sixteen mil, in discussing that \"if you meet\" does not mean a great distance."
+    },
+    {
+     "who": {
+      "he": "נשמת אדם",
+      "en": "Nishmat Adam"
+     },
+     "ref": "Nishmat Adam, Shabbat and Festivals 49:2",
+     "quote": "אם הוא כדאמרינן בבכורות רגל בהמה רועה שהוא ט\"ז מילין שבכך שולט עין הרועה וצ\"ע",
+     "he": "נשמת אדם שואל אם שיעור הראייה שבדיני מחיצות הוא כמו ״רגל בהמה רועה״ שבבכורות, ט״ז מילין, וכותב ״וצ״ע״.",
+     "en": "Nishmat Adam asks whether the measure of sight for partitions is as in Bekhorot, \"a grazing animal's foot-space\", sixteen mil, and concludes that it needs further study."
+    },
+    {
+     "who": {
+      "he": "מהרז״ו",
+      "en": "Maharzu"
+     },
+     "ref": "Perush Maharzu on Kohelet Rabbah 1:13:1:17",
+     "quote": "דקים להו לרבנן דשיתסר מילי שלטא ביה עינא דרועה",
+     "he": "המהרז״ו מצטט מבכורות נ״ד ש״קים להו לרבנן דשיתסר מילי שלטא ביה עינא דרועה״ כדי להבין מקום מרעה בארץ ישראל.",
+     "en": "The Maharzu cites Bekhorot 54 that \"the Rabbis know that the shepherd's eye controls sixteen mil\", in explaining a grazing area in the Land of Israel."
+    },
+    {
+     "who": {
+      "he": "חוות יאיר",
+      "en": "Havot Yair"
+     },
+     "ref": "Havot Yair 192:83",
+     "quote": "מקרא תעבורנ' צאן ע\"י מונה",
+     "he": "החוות יאיר מונה ברשימת הלכות שנלמדות מפסוקים בספרי הנביאים והכתובים: ״ודין צירוף כמלא רגל רועה בפרק תשיעי דבכורות מקרא תעבורנה צאן על ידי מונה״.",
+     "en": "The Havot Yair lists among laws learned from verses in the Prophets and Writings: \"the law of combining within a shepherd's foot-space in the ninth chapter of Bekhorot, from the verse 'the flock shall pass again under the hands of the counter'\"."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Gifts to the Poor 3:21:1",
+     "quote": "דמצטרף כל היכא דשלטא עינא דרועה",
+     "he": "הצפנת פענח מציין לסוגיית בכורות נ״ד על מעשר בהמה — מצטרף כל מקום ששולטת עין הרועה — בדיון על ביטול איסורים ופיאה.",
+     "en": "The Tzafnat Pa'neach refers to Bekhorot 54 on animal tithe — it combines wherever the shepherd's eye controls — in a discussion of the combining of crop portions for peah."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    15
+   ],
+   "he": {
+    "title": "כמה צריך באמצע: מחלוקת רב ושמואל",
+    "gemara": "הגמרא שואלת כמה בהמות צריכות להיות באמצע. רב אומר: חמש מכאן, חמש מכאן וחמש באמצע, כי החמש האמצעיות ראויות להצטרף לכאן ולכאן. ושמואל אומר: אפילו חמש מכאן וחמש מכאן ואחת באמצע — רואים את הרועה כמי שעומד שם, וקוראים בו ״מונה״."
+   },
+   "en": {
+    "title": "How many are needed in the middle: Rav and Shmuel",
+    "gemara": "The Gemara asks how many animals must be in the middle. Rav says: five here, five there and five in the middle, since the middle five are fit to combine in both directions. Shmuel says: even five here, five there and one in the middle — we see the shepherd as if he stood there, and we call him \"the counter\"."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:14:2",
+     "quote": "מצטרפות ומביאן לתוך דיר א' ומעשרן",
+     "he": "רש״י: חמש מכאן וחמש באמצע מצטרפות ומביאן לתוך דיר אחד ומעשרן, והחמש הנותרות מצטרפות לגורן אחר כשיולדו עוד טלאים.",
+     "en": "Rashi: five on one side and five in the middle combine, and he brings them into one pen and tithes them; the remaining five combine with another threshing floor when more lambs are born."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:14:3",
+     "quote": "אבל אם יש מכאן ה' ומכאן ד' ובאמצע ה' אין הד' מצטרפות",
+     "he": "רש״י מוסיף: אבל אם יש מכאן חמש ומכאן ארבע ובאמצע חמש, ארבע אינן מצטרפות.",
+     "en": "Rashi adds: but if there are five here, four there and five in the middle, the four do not combine."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:1",
+     "quote": "דהני חמש חזיין לאיצטרופי להכא ולהכא",
+     "he": "רבינו גרשום מסביר את דברי רב: החמש האמצעיות ראויות להצטרף לכאן ולכאן, כי הרועה שבאמצע שולט בעיניו ט״ז מיל לכאן וט״ז מיל לכאן.",
+     "en": "Rabbeinu Gershom explains Rav: the five in the middle are fit to combine here and there, because the shepherd in the middle commands sixteen mil in each direction."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 54b:15:1",
+     "quote": "הואיל ורועה אורחיה למיזל התם ואיתויי הויא כמאן דקאי התם וקרינא ביה מונה",
+     "he": "רש״י מבאר את שמואל: אף שהאחת שבאמצע אינה ראויה להשלים מנין, הואיל והרועה רגיל ללכת שם הוא כמי שעומד שם ונקרא ״מונה״.",
+     "en": "Rashi explains Shmuel: even though the single one in the middle is not itself fit for the count, since the shepherd habitually goes there, it is as if he stands there and is called \"the counter\"."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 54b:2",
+     "quote": "דלרב האמצעי מצטרף עם כ\"א מהצדדין אבל זה אין בו כח שעל ידו יצטרפו גם הצדדין זל\"ז",
+     "he": "הרש״ש מסיק מרש״י שלרב האמצעי מצטרף עם כל אחד מהצדדים, אך אין בו כוח לצרף את הצדדים זה לזה, ושלא כשמואל.",
+     "en": "The Rashash concludes from Rashi that for Rav the middle one combines with either side but has no power to join the sides to each other, unlike Shmuel."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Gifts to the Poor 5:6:1",
+     "quote": "גבי ג' עדרים אם היה באחד מהם עשרה דא\"צ לצרפם לאחרים אז לא מצטרפי",
+     "he": "הצפנת פענח מזכיר את הסוגיה בדיון על צירוף עומרים לשכחה: במעשר בהמה, בשלושה עדרים שבאחד מהם עשרה, אין צורך לצרף אותו לאחרים ולכן אינו מצטרף.",
+     "en": "The Tzafnat Pa'neach mentions this sugya in a discussion on combining sheaves for forgotten produce: in animal tithe, with three flocks where one has ten, there is no need to join it to the others, so it does not combine."
+    }
+   ]
+  }
+ ]
+}
