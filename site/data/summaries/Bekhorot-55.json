@@ -1,0 +1,1064 @@
+{
+ "ref": "Bekhorot 55",
+ "date": "2026-11-12",
+ "he": {
+  "overview": "הדף עוסק בצירוף עדרים למעשר בהמה ובשאלה אם הירדן מפסיק ביניהם. בעמוד א׳ הגמרא דנה בבהמה שבאמצע, ברועה ובכלבו, ובמחלוקת רבי מאיר ורבי אמי על הגשר, וברבי יוחנן ש״עשאו גבול בפני עצמו״, ובגבולו של הירדן ובשמו. מכאן עוברת הסוגיה לדין הנודר ממימי פרת ולשאלת מקורות הנהרות, וממנה לדעת שמואל ״נהרא מכיפיה מיבריך״ ולמקוה של אבוה דשמואל. הראשונים והאחרונים דנים בכל אלה, ובהם רש״י, תוספות, ר״ת והר״ן, ובפסיקת ההלכה בנדרים ובטבילה. בסוף הדף מתחילה המשנה בדין לוקח ומקבל מתנה.",
+  "title": "סיכום — בכורות נ״ה"
+ },
+ "en": {
+  "overview": "The daf deals with joining flocks for the animal tithe and whether the Jordan divides between them. On amud a the Gemara discusses an animal in the middle, the shepherd and his dog, the dispute of R. Meir and R. Ammi over a bridge, R. Yochanan's ‘made it a boundary by itself’, and the Jordan's extent and name. The sugya then turns to a vow off Euphrates water and to the sources of rivers, and from there to Shmuel's ‘a river is blessed from its rock’ and the mikveh of Shmuel's father. The Rishonim and Acharonim take these up, among them Rashi, Tosafot, Rabbeinu Tam and the Ran, together with the rulings on vows and immersion. At the end of the daf the Mishna begins on one who buys or receives a gift.",
+  "title": "Summary — Bekhorot 55"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "אפילו רועה מצרפן"
+   ],
+   "he": {
+    "term": "צירוף למעשר בהמה",
+    "explanation": "כדי להתחייב במעשר בהמה צריך עשר בהמות. כאן שואלים מתי בהמות הנמצאות במקומות שונים נחשבות כעדר אחד. לפי שמואל אפילו רועה העומד באמצע או כליו מצרפים אותן."
+   },
+   "en": {
+    "term": "Tzeruf (joining for the animal tithe)",
+    "explanation": "The animal tithe requires ten animals. The sugya asks when animals in different places count as one flock. Per Shmuel even a shepherd standing in the middle, or his gear, joins them."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 55a:3:2",
+    "quote": "מונחין באותו כפר מצרפן הואיל"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "דלא מיקרבן"
+   ],
+   "he": {
+    "term": "״דלא מיקרבן״",
+    "explanation": "טעמו של רבי אמי לכך שהירדן מפסיק: אי אפשר לקרב את הבהמות או הרועה מצד לצד. לכן עם גשר הן מצטרפות."
+   },
+   "en": {
+    "term": "‘Lo mikarvan’ (cannot be brought near)",
+    "explanation": "R. Ammi's reason the Jordan divides: the animals or shepherd cannot be brought from one side to the other. Hence with a bridge they join."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 55a:6:1",
+    "quote": "שאין יכולין לילך זו אצל זו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "אבטילאות"
+   ],
+   "he": {
+    "term": "אבטילאות",
+    "explanation": "שני אזורים במלכות אחת, כגון נמר ונמורי. הברייתא אומרת שאין מצטרפים אף שהם קרובים."
+   },
+   "en": {
+    "term": "Avtilaot",
+    "explanation": "Two districts within one kingdom, such as Namer and Nemori. The baraita says animals there do not join even though close."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 55a:6:2",
+    "quote": "שני אפרכיות ובמלכות אחת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "הכתוב עשאו גבול בפני עצמו"
+   ],
+   "he": {
+    "term": "גבול בפני עצמו",
+    "explanation": "לפי רבי יוחנן הירדן הוא גבול נפרד שמפסיק, בדומה לגבול בין שני שבטים."
+   },
+   "en": {
+    "term": "Gevul bifnei atzmo (a boundary by itself)",
+    "explanation": "Per R. Yochanan the Jordan is a separate boundary that divides, like the border between two tribes."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 55a:11",
+    "quote": "ומפסיק הכי נמי דאם יש לו בהמות בגבול של ב' שבטים דלא מיצטרפי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "זכרותיה דירדנא"
+   ],
+   "he": {
+    "term": "זכרותא",
+    "explanation": "עיקרו ושורשו של דבר, מקום שממנו הוא יוצא. כך הירדן ממערת פמייס, הדם בכבד והמים בפרת."
+   },
+   "en": {
+    "term": "Zakhruta (the root)",
+    "explanation": "The main root of a thing, from which it comes. So the Jordan from the Pamias cave, blood in the liver and water in the Euphrates."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 55a:18",
+    "quote": "עיקרו של ירדן שמשם גדל היינו ממערת פמייס"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 19,
+   "anchors": [
+    "כבד שנימוח"
+   ],
+   "he": {
+    "term": "כבד שנימוח מטמא ברביעית",
+    "explanation": "כבד של מת שנמס מטמא באהל כרביעית דם המת. לכן הכבד נחשב עיקר הדם."
+   },
+   "en": {
+    "term": "A melted liver defiles with a revi'it",
+    "explanation": "A corpse's liver that has melted defiles in a tent like a revi'it of a corpse's blood. Hence the liver is the root of blood."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 55a:19:3",
+    "quote": "בתורת דם המת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "נהרא מכיפיה מיבריך"
+   ],
+   "he": {
+    "term": "נהרא מכיפיה מיבריך",
+    "explanation": "דעת שמואל שהנהר גדל ממקורו ולא ממי גשמים. לעומתו רב אומר שהגשמים בארץ ישראל הם העדים לגדילת פרת."
+   },
+   "en": {
+    "term": "Nahara mikeifeih mivrich",
+    "explanation": "Shmuel holds a river grows from its source, not from rainwater. Rav by contrast sees rain in the west as the witness to the Euphrates' growth."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Bekhorot 55b:5:2",
+    "quote": "מסלע שלו כדמתרגם סלע כיפה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 6,
+   "anchors": [
+    "שמא ירבו נוטפין על הזוחלין"
+   ],
+   "he": {
+    "term": "נוטפין וזוחלין",
+    "explanation": "״נוטפין״ מי גשמים ״וזוחלין״ מים נובעים הזורמים. החשש הוא שמי הגשמים ירבו על המים הזוחלים ויפסלו הטבילה בנהר."
+   },
+   "en": {
+    "term": "Notefin and zochalin (drippings and flowing water)",
+    "explanation": "‘Drippings’ are rainwater and ‘zochalin’ are flowing spring waters. The worry is that rainwater outnumbers the flowing water and invalidates immersion in a river."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 55b:8:2",
+    "quote": "דכל שעה הוו מים נוטפין רבין עליהן"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "צירוף עדרים: הבהמה שבאמצע, הרועה והכלב",
+    "gemara": "הברייתא מקשה על רב: חמש בכפר חנניה וחמש בכפר עותני אינן מצטרפות עד שיש אחת בציפורי. שמואל מתרץ שכוונתה לתשע מכאן ותשע מכאן ואחת באמצע. רב פפא מוסיף שלשמואל אפילו רועה וכליו מצרפים. רב אשי שואל על כלב הרועה, והדבר נשאר בתיקו.",
+    "halakha": "הרמב״ם (הלכות בכורות ז׳:ג׳) פוסק ששלושה עדרים ששה עשר מיל זה מזה מצטרפים אם אחת באמצע."
+   },
+   "en": {
+    "title": "Joining flocks: the animal in the middle, the shepherd and the dog",
+    "gemara": "A baraita challenges Rav: five in Kfar Chananya and five in Kfar Otnai do not join until he has one in Tzippori. Shmuel reads it as nine on each side and one in the middle. Rav Pappa adds that per Shmuel even a shepherd or his gear joins them. Rav Ashi asks about the shepherd's dog, left unresolved.",
+    "halakha": "The Rambam (Firstlings 7:3) rules that three flocks sixteen mil apart join if one animal is in the middle."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:4",
+     "quote": "דההיא חדא חזיא לאיצטרף הכא והכא",
+     "he": "האחת שבאמצע נראית להצטרף לכאן ולכאן, ולכן היא מצרפת את שני העדרים.",
+     "en": "The one in the middle can be joined to this side and to that, so it joins the two flocks."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:5",
+     "quote": "דהא מצי חזי הכא והכא",
+     "he": "אפילו רועה העומד באמצע מצרף, כי הוא יכול לראות לכאן ולכאן.",
+     "en": "Even a shepherd standing in the middle joins them, since he can see both sides."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:7",
+     "quote": "ולא שליט עיניה להכא והכא לא מצרפן",
+     "he": "בשאלת הכלב: אם הכלב הולך אל הרועה והרועה אינו צריך ללכת אליו, אין עיניו שולטות לכאן ולכאן ולא מצרפן – או שמא כך אינו.",
+     "en": "On the dog: if it comes to him and he need not go, his eye does not reach both sides and it does not join them — or perhaps not."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:3:1",
+     "quote": "אפילו רועה יש לו דירה באמצע",
+     "he": "לשמואל אין צורך שבהמה תהיה באמצע; אפילו רועה שיש לו דירה באמצע מצרף.",
+     "en": "Per Shmuel the middle need not hold an animal: even a shepherd with a dwelling in the middle joins them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:3:2",
+     "quote": "מונחין באותו כפר מצרפן הואיל",
+     "he": "אף כליו של רועה המונחים באותו כפר מצרפים, הואיל והרועה עתיד ללכת שם ולקחתם.",
+     "en": "Even a shepherd's gear lying in that village joins them, since he will go there to take it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:4:1",
+     "quote": "ולא מיצטריך רועה מיזל התם ולא קרינא ביה מונה",
+     "he": "בכלב שקורא לו הרועה והוא בא, הרועה אינו צריך ללכת שם, ואין קוראים בו ״מונה״.",
+     "en": "When the shepherd calls the dog and it comes, he need not go there, and he is not called one who ‘counts’ there."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:3",
+     "quote": "הֲרֵי שְׁלָשְׁתָּן נִכְנָסִין לַדִּיר לְהִתְעַשֵּׂר",
+     "he": "שלושה עדרים בין כל אחד ששה עשר מיל – אם באמצע אחד, שלושתם נכנסים לדיר להתעשר.",
+     "en": "Three flocks sixteen mil apart, with one animal in the middle, all enter the pen to be tithed."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    14
+   ],
+   "he": {
+    "title": "הירדן מפסיק למעשר בהמה? גשר וגבול בפני עצמו",
+    "gemara": "רבי מאיר: הירדן מפסיק. רבי אמי: רק כשאין גשר. הגמרא מקשה מברייתא על חוץ לארץ וארץ, ורבי חייא בר אבא בשם רבי יוחנן מבאר שהכתוב עשאו גבול בפני עצמו. מקשים מ״ותאר הגבול״ ומיישבים ב״זאת תהיה לכם הארץ לגבולותיה״, ומנסים להעמיד זאת כמחלוקת תנאים ביחס לרבי יהודה בן בתירא ורבי שמעון בן יוחאי.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Does the Jordan divide for the animal tithe? Bridge and separate boundary",
+    "gemara": "R. Meir: the Jordan divides. R. Ammi: only when there is no bridge. A baraita about abroad versus the Land is challenged, and R. Chiyya bar Abba citing R. Yochanan says Scripture made it a boundary of its own. ‘And the border turned’ is raised and answered with ‘this shall be your land by its borders’, and the sugya tries to frame it as a tannaitic dispute, R. Yehuda ben Beteira against R. Shimon bar Yochai.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:8",
+     "quote": "דהאי דקאמר ירדן מפסיק משום דלא מיקרבן הוא בשאין שם גשר",
+     "he": "טעם רבי אמי: הירדן מפסיק משום שאי אפשר לקרב אלו לאלו כשאין גשר.",
+     "en": "R. Ammi's reason: the Jordan divides because, without a bridge, one side cannot be brought to the other."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:11",
+     "quote": "ומפסיק הכי נמי דאם יש לו בהמות בגבול של ב' שבטים דלא מיצטרפי",
+     "he": "לר׳ יוחנן ״עשאו גבול בפני עצמו״ – כשם שבהמות בגבול של שני שבטים אינן מצטרפות.",
+     "en": "On R. Yochanan: ‘made it a boundary by itself’ — as animals in the borders of two tribes do not join."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:12",
+     "quote": "כולה א\"י גבול אחד היא",
+     "he": "על ״כולה ארץ ישראל גבול אחד״ – ולכן מצטרפות.",
+     "en": "On ‘all of Eretz Yisrael is one boundary’ — hence they join."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:14",
+     "quote": "ליתני כל נהר סתם מפסיק",
+     "he": "לרבי אמי, שהטעם הוא שאי אפשר לקרב, היה צריך לשנות ״כל נהר״ מפסיק.",
+     "en": "On R. Ammi's view the Mishna should have taught that any river divides."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:7:1",
+     "quote": "אלא שזו בארץ וזו בח\"ל אין מצטרפין",
+     "he": "אף כשהכל בתוך מיל, אם זו בארץ וזו בחוץ לארץ אין מצטרפות – כמקום שיש גשר.",
+     "en": "Even all within a mil, if one is in the Land and one abroad they do not join — like a place with a bridge."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:9:1",
+     "quote": "כל שבט ושבט גבול בפני עצמו",
+     "he": "הקושיה: אם ״ותאר הגבול״ עושה כל שבט גבול בפני עצמו, אין מצטרפות אף בתוך ששה עשר מיל.",
+     "en": "The challenge: if ‘the border turned’ makes each tribe its own boundary, they would not join even within sixteen mil."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:10:2",
+     "quote": "דארץ חשיב חד ולא גבולות דירדן",
+     "he": "״ארץ״ מלמד שהארץ חשובה אחד, ולא גבולות הירדן.",
+     "en": "‘Land’ teaches that the Land counts as one, not the Jordan's borders."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:13:1",
+     "quote": "אי ירדן חשוב ארץ כנען ולא יפסיק אי לא",
+     "he": "המחלוקת התנאים: האם הירדן חשוב ארץ כנען ולא יפסיק, או לא.",
+     "en": "The tannaim dispute whether the Jordan counts as Eretz Canaan and so does not divide, or not."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55a:10:1",
+     "quote": "דכל גבול ארץ ישראל אחד ולא כמו שפי' הקונטרס",
+     "he": "תוספות מסבירים שהפסוק בפרשת מסעי מלמד שכל גבול ארץ ישראל אחד, ולא כפי שפירש הקונטרס.",
+     "en": "Tosafot explain that the verse in Massei teaches that all of Eretz Yisrael's border is one, not as the Kuntres explained."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55a:8:1",
+     "quote": "בגבול בנימין כתיב בס' יהושע",
+     "he": "תוספות מציינים שהפסוק ״והירדן יגבול אותו״ נאמר בגבול בנימין בספר יהושע.",
+     "en": "Tosafot note the verse ‘and the Jordan bounded it’ is written of Benjamin's border in Joshua."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Bekhorot 9:2:2",
+     "quote": "ארץ כתיב בקרא זאת תהיה לכם הארץ גבולות דארץ חשיב חד",
+     "he": "מביא את הגמרא ורש״י: ״ארץ״ מלמד שגבולות הארץ נחשבים אחד.",
+     "en": "Cites the Gemara and Rashi: ‘Land’ teaches the Land's borders count as one."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 34:12:1",
+     "quote": "מלמד שכולה ארץ ישראל גבול אחד הוא",
+     "he": "מלמד שכל ארץ ישראל גבול אחד, ולכן חמשה בגבול שבט אחד וחמשה בגבול אחר מצטרפים.",
+     "en": "Teaches that all Eretz Yisrael is one boundary, with consequences for joining animals for the tithe."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 34:15:1",
+     "quote": "ואמר על זה דגם ירדן חשוב ארץ כנען",
+     "he": "על ״מעבר לירדן ירחו״: גם הירדן חשוב ארץ כנען, ולכן עשרה טלאים משני צדדיו מצטרפים.",
+     "en": "On ‘across the Jordan at Jericho’: the Jordan too counts as Eretz Canaan, so ten lambs on both banks join."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Ketubot 110a:4",
+     "quote": "אבל הירדן הוא עצמו ג\"כ בכלל ארץ כנען",
+     "he": "הירדן עצמו בכלל ארץ כנען, ומפנה לבכורות נ״ה.",
+     "en": "The Jordan itself is within Eretz Canaan, referring to Bekhorot 55."
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Numbers 35:10:2",
+     "quote": "ארצה ארצה כנען ולא הירדן ארצה כנען",
+     "he": "מזכיר את הדרשה בבכורות נ״ה ״ארצה ארץ כנען ולא הירדן״, ומציין שיש בה מחלוקת.",
+     "en": "Mentions the derasha in Bekhorot 55, ‘Eretz Canaan and not the Jordan’, noting there is a dispute about it."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Bekhorot 55a:1",
+     "quote": "כתנאי אי ירדן חשיב ארץ כנען ולא יפסיק אי לא",
+     "he": "מביא את פירש״י ל״כתנאי״ ודן בו בשם חידושי כתב יד.",
+     "en": "Cites Rashi's reading of ‘like the tannaim’ and discusses it in the name of a manuscript commentator."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    15,
+    18
+   ],
+   "he": {
+    "title": "״אין ירדן אלא מבית יריחו ולמטה״ ושם הירדן מדן",
+    "gemara": "רבה בר בר חנה בשם רבי יוחנן: ירדן הוא רק מבית יריחו ולמטה, לענין מעשר בהמה ולא לנודר. הברייתא מתארת את מסלולו ממערת פמייס. הירדן נקרא כך כי יורד מדן, ומלשם דן הוא פמייס. רב כהנא: האומר ״לא שתינא ממערת פמייס״ אסור בכל הירדן.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "‘The Jordan is only from Beth Yericho down’, and why it is called Jordan",
+    "gemara": "Rabbah bar bar Channa citing R. Yochanan: ‘Jordan’ is only from Beth Yericho down, relevant for the animal tithe and not for a vower. A baraita traces its course from the Pamias cave. It is called Jordan since it descends from Dan, and Leshem Dan is Pamias. Rav Kahana: one who says ‘I will not drink from the Pamias cave’ is forbidden the whole Jordan.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:15:1",
+     "quote": "אבל כל מה דמשיך למעלה מיריחו לא ירדן הוא",
+     "he": "אין ״ירדן״ אלא מבית יריחו ולמטה; למעלה בטלה חשיבותו כי הוא מתערב בימים גדולים.",
+     "en": "‘Jordan’ is only from Beth Yericho down; above, its importance is gone as it mixes with great seas."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:15:2",
+     "quote": "דהנודר מן הירדן יהא מותר לשתות מיריחו ולמעלה",
+     "he": "למסקנת ההו״א, הנודר מן הירדן יהיה מותר לשתות מיריחו ולמעלה.",
+     "en": "On the initial suggestion, one who vows off the Jordan would be permitted above Jericho."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55a:15:1",
+     "quote": "וקשה לפירושו דאם למעלה בטל חשיבותו לפי שמתערב",
+     "he": "תוספות מקשים על פירוש רש״י: אם למעלה בטלה חשיבותו כי מתערב, גם למטה כבר נתערב.",
+     "en": "Tosafot object to Rashi: if above its importance lapses by mixing, below it has also already mixed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:17",
+     "quote": "להפסיק דלא מפסיק אלא דמבית יריחו ולמטה",
+     "he": "למעשר בהמה: מפסיק רק מבית יריחו ולמטה.",
+     "en": "For the animal tithe: it divides only from Beth Yericho down."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:16",
+     "quote": "בין למטה בין למעלה ליתסר",
+     "he": "בהו״א נודר מהירדן היה אסור בין למטה בין למעלה.",
+     "en": "On the initial suggestion, a vower would be forbidden both below and above."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:17:3",
+     "quote": "אלמא מדן אתי",
+     "he": "הפסוק והמערה בפמייס מראים שהוא בא מדן.",
+     "en": "The verse and the Pamias cave show that it comes from Dan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Megillah 6a:15:2",
+     "quote": "שמשם ירדן יוצא כדאמר מר ירדן יוצא ממערת פמייס",
+     "he": "מפנה לבכורות: משם יוצא הירדן.",
+     "en": "Refers to Bekhorot: the Jordan emerges from there."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 55a:1",
+     "quote": "אע\"ג דבימי משה נקרא ירדן ולא נקרא לשם דן",
+     "he": "מקשה: בימי משה נקרא ירדן ולא נקרא לשם עדיין דן, ומיישב שהכתוב קרא לעתיד.",
+     "en": "Asks: in Moshe's time it was called Jordan, before Leshem was called Dan, and answers that Scripture names it for the future."
+    },
+    {
+     "who": {
+      "he": "מצודת דוד",
+      "en": "Metzudat David"
+     },
+     "ref": "Metzudat David on Joshua 19:47:1",
+     "quote": "ירדן נקרא על שם שיורד מדן",
+     "he": "מביא את חז״ל שהירדן נקרא על שם שיורד מדן, היא לשם.",
+     "en": "Cites the Sages that the Jordan is named for descending from Dan, that is Leshem."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השגות הראב״ד",
+      "en": "Raavad"
+     },
+     "ref": "Hasagot HaRa'avad on Mishneh Torah, Vows 9:18:1",
+     "quote": "עיקרא דהא מלתא בסוף מסכת בכורות",
+     "he": "מציין שמקור דין נדר ממעין הוא בבכורות.",
+     "en": "Notes that the source for the law of vowing off a spring is in Bekhorot."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    18,
+    3
+   ],
+   "he": {
+    "title": "הנודר ממימי פרת, וסולמי פרת, והנהר הרביעי",
+    "gemara": "רב כהנא קובע את מקורות הירדן, הדם והמים: ״זכרותא דמיא – פרת״. לפי רב יהודה בשם רב הנודר ממימי פרת אסור בכל מימות העולם, כי כל הנהרות למטה משלושה נהרות והשלושה למטה מפרת. על עינות במקומות גבוהים עונה רב משרשיא ״סולמי דפרת נינהו״, ועל ״והנהר הרביעי הוא פרת״ עונה רב נחמן בר יצחק ״הוא פרת דמעיקרא״.",
+    "halakha": "הרמב״ם והשולחן ערוך: הנודר מהמים הנמשכים ממעיין פלוני אסור בכל הנהרות היונקות ממנו."
+   },
+   "en": {
+    "title": "A vow off Euphrates water, the ladders of the Euphrates, and the ‘fourth river’",
+    "gemara": "Rav Kahana fixes the root of the Jordan, of blood and of water: ‘the root of water is the Euphrates’. Per Rav Yehuda citing Rav, one who vows off Euphrates water is forbidden all the world's waters, since all rivers are below three and the three are below the Euphrates. To springs on high places Rav Mesharshiya answers ‘they are the Euphrates' ladders’, and to ‘the fourth river is the Euphrates’ Rav Nachman bar Yitzchak answers ‘the original Euphrates’.",
+    "halakha": "The Rambam and Shulchan Arukh: one who vows off waters drawn from a given spring is forbidden all rivers nourished by it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55a:20",
+     "quote": "עיקרו של כל מימות של עולם פרת ממנו יוצאין",
+     "he": "פרת הוא עיקר כל מימות העולם, וממנו יוצאין.",
+     "en": "The Euphrates is the root of all the world's waters; they go out from it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55b:2",
+     "quote": "סילונות נמשכין ממנו תחת הארץ ונובעין על ראשי ההרים",
+     "he": "סולמי פרת הם סילונות הנמשכים תחת הארץ ונובעים בראשי ההרים.",
+     "en": "The ‘ladders of the Euphrates’ are channels running underground and welling up on mountaintops."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55b:3",
+     "quote": "להכי כתוב ביה הוא לומר שהוא קודם לאלו",
+     "he": "״הוא״ כתוב לומר שפרת קודם לשלושת האחרים.",
+     "en": "‘He’ is written to say that the Euphrates precedes the other three."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:21:1",
+     "quote": "והלך אחר לשון בנ\"א",
+     "he": "הנודר ממימי פרת – אחר לשון בני אדם הולכים, ולכן ההוה אמינא שאסור רק מימי פרת.",
+     "en": "A vow is read by people's language, hence the initial reading that only Euphrates water is forbidden."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55a:22:1",
+     "quote": "שכל הנהרות שבעולם באים משם",
+     "he": "כל הנהרות שבעולם למטה משלושת הנהרות, שכולם באים משם.",
+     "en": "All the rivers of the world are below those three, since all come from there."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:1:2",
+     "quote": "מקלחין תחת הקרקע ועולין בהרים כמו סולם",
+     "he": "סולמי פרת – מים המקלחים תחת הקרקע ועולים בהרים כסולם.",
+     "en": "The ladders of the Euphrates — waters gushing underground and climbing mountains like a ladder."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:3:1",
+     "quote": "הוא פרת הנזכר למעלה ונהר יוצא מעדן",
+     "he": "״הוא פרת דמעיקרא״ – הנהר היוצא מעדן שממנו נפרדים השלושה.",
+     "en": "‘The original Euphrates’ — the river going out of Eden from which the three separate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:2:1",
+     "quote": "דכחד מינייהו חשיב להו",
+     "he": "הקושיה: הכתוב מונה את פרת כאחד מהנהרות, ואתה אומר שמפרת באו.",
+     "en": "The challenge: Scripture counts the Euphrates as one of them, yet you say they come from it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55b:3:1",
+     "quote": "ולא מפני שהוא קטן קורהו רביעי",
+     "he": "תוספות: אין קוראים לו רביעי מפני שהוא קטן, כי הוא פרת מקודם שנפרד.",
+     "en": "Tosafot: it is not called ‘fourth’ because it is small, but it is the original Euphrates before it divides."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Sukkah 53b:2:4",
+     "quote": "לפי שפרת גבוה מוצאו מאד",
+     "he": "מסולמי פרת: מים העולים תחת הקרקע לפי שמוצא פרת גבוה מאד.",
+     "en": "On the ladders of the Euphrates: waters rise underground because the Euphrates' source is very high."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Niddah 13a:14:1",
+     "quote": "סמוך לפרת שהיא גבוה מכל הנהרות",
+     "he": "מיישבים שבבבל סמוך לפרת, שהיא גבוהה מכל הנהרות.",
+     "en": "They explain that this is near the Euphrates, which is higher than all the rivers."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vows 9:18",
+     "quote": "אָסוּר בְּכָל הַנְּהָרוֹת הַיּוֹנְקוֹת מִמֶּנּוּ",
+     "he": "הנודר מן המים הנמשכין ממעיין פלוני אסור בכל הנהרות היונקות ממנו.",
+     "en": "One who vows off waters drawn from a given spring is forbidden all rivers nourished by it."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Nedarim 41b:3",
+     "quote": "וכלהו נהרי ממיא דפרת מתברכי",
+     "he": "מביא את הסוגיה בבכורות ומפרש שכל הנהרות מתברכים ממימי פרת.",
+     "en": "Cites the sugya in Bekhorot and explains that all rivers are blessed by the Euphrates' water."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vows 9:18:1",
+     "quote": "כלומר עיקר המים שבעולם פרת",
+     "he": "מביא מבכורות נ״ה את מקור דין הרמב״ם: פרת הוא עיקר המים שבעולם.",
+     "en": "Brings from Bekhorot 55 the source of the Rambam's law: the Euphrates is the root of the world's waters."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 217:25",
+     "quote": "אסור בכל הנהרות היונקות ממנו",
+     "he": "הנודר מהמים הנמשכים ממעין פלוני אסור בכל הנהרות היונקות ממנו.",
+     "en": "One who vows off waters drawn from a given spring is forbidden all rivers nourished by it."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 217:44:1",
+     "quote": "אסור אף בכל הנהרות היונקות ממנו",
+     "he": "מסביר שהרמב״ם למד מדין פרת בבכורות לשאר נהרות.",
+     "en": "Explains that the Rambam learned from the Euphrates law in Bekhorot for other rivers."
+    },
+    {
+     "who": {
+      "he": "באר הגולה",
+      "en": "Be'er HaGolah"
+     },
+     "ref": "Be'er HaGolah on Shulchan Arukh, Yoreh De'ah 217:55",
+     "quote": "ואין מלוין אותם לשם המעין הנדור",
+     "he": "מפרש: אין קוראים להם בלווי לשם המעין שנדר ממנו.",
+     "en": "Explains: they are not called by the name of the spring he vowed off."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 55b:1",
+     "quote": "ומן פרת זה נפרדים ג' נהרות ועם חלק פרת עצמו נעשו ארבעה",
+     "he": "מסביר: מפרת הראשון נפרדים שלושה נהרות, ועם חלק פרת עצמו נעשו ארבעה.",
+     "en": "Explains: from the first Euphrates three rivers separate, and with the Euphrates' own part they become four."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    8
+   ],
+   "he": {
+    "title": "״מכיפיה מיבריך״ ומקוה בימי ניסן",
+    "gemara": "לדעת רבי מאיר פרת נקרא כך ש״מימיו פרין ורבין״. זה מסייע לשמואל שנהר מתברך מכיפיו, ופליגא דרב ״מיטרא במערבא סהדא רבה פרת״. אבוה דשמואל עשה מקוה לבנותיו בניסן ומחצלות בתשרי. שמואל נראה כסותר עצמו באמרו שאין מים נטהרים בזוחלין אלא פרת בתשרי.",
+    "halakha": "ר״ת (תוספות; ר״ן; הרא״ש) פסק כשמואל ״נהרא מכיפיה מבריך״; ר״ח והרי״ף פסקו כרב ואבוה דשמואל (ר״ן; הגר״א)."
+   },
+   "en": {
+    "title": "‘From its own rock’ and the mikveh in Nisan",
+    "gemara": "Per R. Meir the Euphrates is so named because its waters ‘bear fruit and multiply’. This supports Shmuel that a river is blessed from its rock, disputing Rav's ‘rain in the west is the Euphrates' witness’. Shmuel's father made a mikveh for his daughters in Nisan and mats in Tishrei. Shmuel seems to contradict himself, saying waters purify in flow only for the Euphrates in Tishrei.",
+    "halakha": "Rabbeinu Tam (Tosafot; Ran; Rosh) ruled like Shmuel's ‘a river is blessed from its rock’; Rabbeinu Chananel and the Rif ruled like Rav and Shmuel's father (Ran; Beur HaGra)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55b:5",
+     "quote": "שאינו מתגדל לא מגשמים ולא ממעינות אלא מעצמו",
+     "he": "״מכיפיה מתברך״ – אינו גדל מגשמים או ממעינות אלא מעצמו, וזו פליגא דרב.",
+     "en": "‘From its rock it is blessed’ — it does not grow from rain or springs but from itself, which disputes Rav."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 55b:6",
+     "quote": "כדי שלא ישקעו רגליהן בטיט וליהוי חציצה לטבילה",
+     "he": "המפצים נועדו שלא ישקעו רגליהן בטיט ויהיה חציצה לטבילה.",
+     "en": "The mats were so their feet not sink in mud and form a barrier to immersion."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:4:2",
+     "quote": "שגדל ורבה בלא שום מטר",
+     "he": "״פרין ורבין״ – שגדל ורבה בלא שום מטר.",
+     "en": "‘Fruitful and multiplying’ — it grows without any rain."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:5:1",
+     "quote": "פרת יורד מא\"י לבבל",
+     "he": "פרת יורד מארץ ישראל לבבל, וכשיורדים גשמים בארץ ישראל הוא גדל.",
+     "en": "The Euphrates descends from Eretz Yisrael to Babylonia, and when rain falls there it grows."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:6:1",
+     "quote": "וחייש שמא ירבו מים שנוטפין מעבים לתוך הנהר",
+     "he": "אבוה דשמואל חשש שמא ירבו מים הנוטפים מהעבים לתוך הנהר, ולכן עשה מקוה.",
+     "en": "Shmuel's father feared rain dripping from clouds would multiply in the river, so he made a mikveh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:7:1",
+     "quote": "לפי שבימי תשרי יש טיט רך בנהרות אצל שפתם",
+     "he": "בתשרי עשה מחצלות קנים לטבילה, שיש טיט רך בנהר.",
+     "en": "In Tishrei he made reed mats for immersion since there is soft mud by the riverbank."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 55b:8:3",
+     "quote": "אלמא נהרות מתרבין ממימי גשמים",
+     "he": "מזה שפרת מותר בתשרי נלמד שנהרות מתרבים ממימי גשמים, ושמואל סותר עצמו.",
+     "en": "From the Euphrates being allowed in Tishrei we see rivers grow from rainwater, and Shmuel contradicts himself."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55b:5:2",
+     "quote": "מסלע שלו כדמתרגם סלע כיפה",
+     "he": "״מכיפיה״ – מסלע שלו.",
+     "en": "‘From its kefa’ — from its rock."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55b:5:1",
+     "quote": "וכן פי' ר\"ת בתשובה לפי שפרת הוא למעלה מכל הנהרות",
+     "he": "ר״ת בתשובה מסביר שפרת נקרא כך כי הוא למעלה מכל הנהרות וכולם מתברכים ממנו.",
+     "en": "Rabbeinu Tam in a responsum explains it is called so because it is above all rivers, which are blessed from it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55b:6:2",
+     "quote": "ואור\"ת דאשבורן דמקוה דוקא למעוטי זוחלין",
+     "he": "ר״ת: ״באשבורן״ שבמקוה בא למעט זוחלין, אך במעיין אינו מעט אשבורן.",
+     "en": "Rabbeinu Tam: ‘in collection’ for a mikveh excludes flowing water, but for a spring it does not exclude a collection."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 55b:8:1",
+     "quote": "לא קי\"ל הכי אלא כאידך דשמואל דאמר נהרא מכיפיה מבריך",
+     "he": "ר״ת בתשובה: לא קיימא לן כהשיטה הראשונה, אלא כשמואל ״נהרא מכיפיה מבריך״.",
+     "en": "Rabbeinu Tam in a responsum: we do not rule the first way but like Shmuel's ‘a river is blessed from its rock’."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shabbat 65b:4:1",
+     "quote": "מנביעתו מיתבריך ולא ממי גשמים",
+     "he": "״נהרא מכיפיה מיתבריך״ – מנביעתו ולא ממי גשמים.",
+     "en": "‘A river is blessed from its rock’ — from its source and not rainwater."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Shabbat 29b:13",
+     "quote": "פסק ר\"ת ז\"ל כשמואל דאמר נהרא מכיפיה מבריך",
+     "he": "ר״ת פסק כשמואל, שהנהר מתברך מכיפיו.",
+     "en": "Rabbeinu Tam ruled like Shmuel that a river is blessed from its rock."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Shabbat 29b:14",
+     "quote": "אבל ר\"ח והרב אלפסי ז\"ל פסקו כרב וכאבוה דשמואל",
+     "he": "אולם רבנו חננאל והרי״ף פסקו כרב וכאבוה דשמואל.",
+     "en": "But Rabbeinu Chananel and the Rif ruled like Rav and Shmuel's father."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Teshuvot HaRosh 31:10:1",
+     "quote": "דאהא סמכינן לטבול בנהרות",
+     "he": "מביא את ר״ת שעל זה סומכים לטבול בנהרות.",
+     "en": "Cites Rabbeinu Tam that on this we rely to immerse in rivers."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Shabbat 65b:5",
+     "quote": "פסקו קצת רבותינו הצרפתים שאין חוששין בנהר לרבוי נוטפין",
+     "he": "קצת מרבותינו הצרפתים פסקו שאין חוששים בנהר לרבוי נוטפין.",
+     "en": "Some of our French rabbis ruled that one need not worry about multiplying drippings in a river."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Nedarim 40a:1",
+     "quote": "משום דחיישינן שמא ירבו גשמים וירבו הנוטפין",
+     "he": "שמואל אסר בזוחלין חוץ מפרת בתשרי כי חוששים שמא ירבו הגשמים והנוטפין.",
+     "en": "Shmuel forbade flowing water except the Euphrates in Tishrei as we fear rain and drippings may multiply."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Nedarim 40b:2:2",
+     "quote": "בסתוא לא היו טובלות בנהר משום צנה",
+     "he": "מסביר שבנות אבוה דשמואל בחורף לא טבלו בנהר משום צנה, אלא במקוואות בבית.",
+     "en": "Explains that in winter Shmuel's father's daughters did not immerse in a river because of cold, but in home mikvaot."
+    },
+    {
+     "who": {
+      "he": "שיטה מקובצת",
+      "en": "Shita Mekubbetzet"
+     },
+     "ref": "Shita Mekubbetzet on Nedarim 40b:3",
+     "quote": "ורבוי זה מן הגשמים הוא ואסור לטבול בו",
+     "he": "כשהנהר מתרבה, הרבוי מן הגשמים ואסור לטבול בו אלא באשבורן.",
+     "en": "When the river swells, the increase is from rain and one may not immerse except as a collection."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ריב״ש",
+      "en": "Rivash"
+     },
+     "ref": "Teshuvot HaRivash 125:2",
+     "quote": "ועוד שבטבילת הנהר יש לחוש שמא ירבו הנוטפין על הזוחלין",
+     "he": "בטבילת נהר יש לחוש שמא ירבו הנוטפין על הזוחלין, כאבוה דשמואל.",
+     "en": "In river immersion one must fear drippings exceeding the flowing waters, as Shmuel's father did."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 132:1",
+     "quote": "מחצלת נותנת הטובלת תחת רגליה בתשרי מפני הטיט",
+     "he": "המפצים – מחצלת שהטובלת נותנת תחת רגליה בתשרי מפני הטיט.",
+     "en": "The mats — a mat the woman places under her feet in Tishrei because of mud."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 201:16",
+     "quote": "ופסקו ר\"ח והרמב\"ם וש\"פ כרב וכאבוה דשמואל",
+     "he": "מביא שר״ח, הרמב״ם ושאר פוסקים פסקו כרב וכאבוה דשמואל.",
+     "en": "Notes that Rabbeinu Chananel, the Rambam and other poskim ruled like Rav and Shmuel's father."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "הלוקח או שניתן לו במתנה פטור ממעשר בהמה",
+    "gemara": "המשנה פוטרת ממעשר בהמה מי שלקח או קיבל במתנה. הגמרא שואלת מנין, ורב כהנא מביא פסוק על ״כן תעשה לשורך לצאנך״.",
+    "halakha": "הרמב״ם: הלוקח טלאים שנולדו בשנה זו או שניתנו במתנה פטורים מן המעשר."
+   },
+   "en": {
+    "title": "One who buys or receives as a gift is exempt from the animal tithe",
+    "gemara": "The Mishna exempts one who bought or received a gift from the animal tithe. The Gemara asks for the source and Rav Kahana brings a verse on ‘so shall you do with your ox and your flock’.",
+    "halakha": "The Rambam: one who buys lambs born this year or receives them as a gift — they are exempt from the tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:10",
+     "quote": "הַלּוֹקֵחַ טְלָאִים שֶׁנּוֹלְדוּ בְּשָׁנָה זוֹ אוֹ שֶׁנִּתְּנוּ לוֹ בְּמַתָּנָה הֲרֵי הֵם פְּטוּרִים מִן הַמַּעֲשֵׂר",
+     "he": "הלוקח טלאים שנולדו בשנה זו או שניתנו לו במתנה – פטורים מן המעשר.",
+     "en": "One who buys lambs born this year or receives them as a gift — they are exempt from the tithe."
+    }
+   ],
+   "acharonim": []
+  }
+ ]
+}
