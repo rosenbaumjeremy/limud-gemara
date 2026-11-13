@@ -1,0 +1,1080 @@
+{
+ "ref": "Bekhorot 56",
+ "date": "2026-11-13",
+ "he": {
+  "overview": "הדף עוסק בדרשת ״כן תעשה לשורך״ שממנה לומדים שמעשר בהמה אינו בלקוח ובמתנה, ובשאלת העוברים שנקנו במעי אמם ובמחוסר זמן (עמוד א). אחר כך הוא עוסק באתנן זונה שנכנס לדיר, ובדברי אביי על זונה גויה וזונה ישראלית (עמוד ב). בהמשך המשנה בדבר האחים והשותפים והקלבון ומעשר בהמה, ארבעת המצבים של רבי ירמיה, ומחלוקת רב ענן ורב נחמן, רבי אלעזר ורבי יוחנן בשאלת הברירה. הראשונים והאחרונים דנים בגדר ״שעת עשייה״, בגדר זונה, ובחילוק בין חלוקה לשותפות.",
+  "title": "סיכום — בכורות נ״ו"
+ },
+ "en": {
+  "overview": "The daf deals with the derivation 'kein ta'aseh l'shorcha', from which we learn that animal tithe does not apply to purchased or gifted animals, and with fetuses bought in their mothers' wombs and animals lacking time (amud a). It then discusses an etnan of a harlot that enters the pen, and Abaye's words on a gentile harlot and an Israelite harlot (amud b). It continues with the mishnah on brothers and partners, the kalbon and animal tithe, Rabbi Yirmeyah's four situations, and the dispute of Rav Anan and Rav Nachman, Rabbi Elazar and Rabbi Yochanan, over bererah. The Rishonim and Acharonim discuss what 'the time of doing' is, who counts as a harlot, and the difference between a division and a partnership.",
+  "title": "Summary — Bekhorot 56"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "אין בלקוח ובמתנה"
+   ],
+   "he": {
+    "term": "לקוח ומתנה",
+    "explanation": "מי שקנה בהמה או קיבל אותה במתנה אינו מחויב במעשר בהמה בוולדות שנולדו לפני שבאה לרשותו. הדין נלמד מ״מה בנך״: כשם שבן אינו נקנה או ניתן במתנה אלא נולד אצל האב."
+   },
+   "en": {
+    "term": "Purchase and gift (lakuach u'matanah)",
+    "explanation": "One who bought an animal or received it as a gift owes no animal tithe on offspring born before it came into his possession. This is learned from 'mah bincha': just as a son is not bought or given but born to his father."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 56a:1:1",
+    "quote": "דלא שייכא בהו לקיחה ומתנה אלא אצלו נולדו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "תנהו ענין למעשר בהמה"
+   ],
+   "he": {
+    "term": "מעשר בהמה",
+    "explanation": "מצווה להפריש מכל עשר בהמות שנולדו בשנה אחת (מבקר וצאן) אחת קדושה. הבהמות עוברות בפתח הדיר אחת אחת, והעשירית נקראת ״מעשר״. הגמרא לומדת שאין בו חיוב בלקוח ובמתנה."
+   },
+   "en": {
+    "term": "Ma'aser behemah (animal tithe)",
+    "explanation": "Of every ten animals born in a year from the herd or flock, one is made holy. The animals pass one by one at the pen's entrance and the tenth is called 'ma'aser'. The Gemara learns that it does not apply to purchased or gifted animals."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 56a:1",
+    "quote": "שמכניסן לדיר וקורא לו שם מעשר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "מחוסר זמן"
+   ],
+   "he": {
+    "term": "מחוסר זמן",
+    "explanation": "בהמה שעדיין לא עברו עליה שבעת ימים מהלידה, ולכן אינה ראויה להקרבה. בגמרא נחלקים אם היא ״שעת עשייה״ לעניין לקוח ומעשר."
+   },
+   "en": {
+    "term": "Mechusar zman (lacking time)",
+    "explanation": "An animal that has not yet passed seven days from birth, and so is not yet fit for sacrifice. The Gemara discusses whether it counts as 'the time of doing' for purchase and tithe."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 56a:9:2",
+    "quote": "שאם לקחו קודם שבעת ימים ללידתו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "אתנן"
+   ],
+   "he": {
+    "term": "אתנן",
+    "explanation": "מה שנתן אדם לזונה בשכרה. אתנן זונה אסור להקרבה על המזבח. הגמרא עוסקת באתנן שנכנס לדיר להתעשר."
+   },
+   "en": {
+    "term": "Etnan (a harlot's fee)",
+    "explanation": "What a man gave a harlot as her fee. A harlot's fee is forbidden for the altar. The Gemara discusses an etnan that enters the pen to be tithed."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Things Forbidden on the Altar 4:8",
+    "quote": "האומר לזונה הא ליך דבר זה בשכרך"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "שחייבין בקלבון"
+   ],
+   "he": {
+    "term": "קלבון",
+    "explanation": "תוספת קטנה שמוסיף אדם כשהוא נותן שקל שלם בשני חצאי שקלים, כנגד הכרעה או חילוף. המשנה משתמשת בו כסימן להבדיל בין אחים שחלקו לבין אחים שלא חלקו."
+   },
+   "en": {
+    "term": "Kalbon (the small surcharge on the sheqel)",
+    "explanation": "A small addition one gives when paying a whole sela through two half-sheqels, for the difference in weight or exchange. The mishnah uses it as a marker to tell apart brothers who divided from those who did not."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 56b:7:1",
+    "quote": "שהשוקל שקלו נותן עמו קלבון"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "קנו מתפיסת הבית"
+   ],
+   "he": {
+    "term": "תפיסת הבית",
+    "explanation": "ירושה של בית האב, כשהאחים עדיין לא חלקו. נכסים אלה עדיין נחשבים כנכסי האב, ולכן הוולדות שנולדים בהם חייבים במעשר בהמה."
+   },
+   "en": {
+    "term": "Tefisat habayit (the household estate)",
+    "explanation": "The father's household inheritance while the brothers have not yet divided. These holdings are still considered the father's, so offspring born in them owe animal tithe."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 56b:7:3",
+    "quote": "ועדיין תפיסת בית ירושת אביהן קיימת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "זה חלקו המגיעו משעה ראשונה לכך"
+   ],
+   "he": {
+    "term": "ברירה",
+    "explanation": "הכלל ש״יש ברירה״: כשמתבררים הדברים לאחר מעשה, מתברר למפרע שהחלק שקיבל כל אחד היה שלו מתחילה. הגמרא נחלקת אם אומרים כך כשחולקים גדיים כנגד גדיים."
+   },
+   "en": {
+    "term": "Bererah (retroactive clarification)",
+    "explanation": "The principle that 'there is bererah': when matters become clear afterwards, it is clarified retroactively that each person's portion was his from the start. The Gemara disputes whether we say so when kids are divided against kids."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 56b:17:1",
+    "quote": "אמרינן ברירה וזה חלק המגיע לכל אחד ממיתת אביו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    7
+   ],
+   "he": {
+    "title": "״מה בנך״: מעשר בהמה אינו בלקוח ובמתנה",
+    "gemara": "הגמרא לומדת מ״כן תעשה לצאנך ולבקרך״ שמעשר בהמה כמו ״בנך״ — אינו בלקוח ובמתנה. מקשים שהפסוק נאמר בבכור, ועונים שבכור קדוש מרחם ואין בו עשייה, ולכן הפסוק מלמד על מעשר בהמה. מקשים גם למה לא ללמוד ממנו על חטאת ואשם, עולה ושלמים או עולת ראייה, ועונים ״דומיא דבנך״ — שאינו בא על חטא, בנדר ונדבה, או בזמן קבוע. אחר כך מקשים על רבי יוחנן שעשרה עוברים שלקח במעי אמם נכנסים לדיר, ורבא עונה שהפסוק ״תעשה״ ממעט בשעת עשייה."
+   },
+   "en": {
+    "title": "'Mah bincha': ma'aser behemah does not apply to purchased or gifted animals",
+    "gemara": "The Gemara derives from 'kein ta'aseh l'shorcha l'tzonecha' that animal tithe, like 'your son', does not apply to a purchased or gifted animal. It asks that the verse is written about the firstborn, and answers that a firstborn is holy from the womb and has no 'doing', so the verse teaches about animal tithe. It also asks why not learn from it about a sin-offering and guilt-offering, burnt and peace offerings or the pilgrim's burnt-offering, and answers 'like your son': it does not come for sin, by vow or free-will gift, or at a fixed time. Then it challenges Rabbi Yochanan's ruling that ten fetuses bought in their mothers' wombs all enter the pen to be tithed, and Rava answers that the word 'ta'aseh' excludes only at the time of the 'doing'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:1:1",
+     "quote": "דלא שייכא בהו לקיחה ומתנה אלא אצלו נולדו",
+     "he": "רש״י מסביר ש״בניך״ אינו בלקוח ובמתנה משום שלא שייכת בהם לקיחה או מתנה, אלא הם נולדים אצלו.",
+     "en": "Rashi explains that 'your sons' are not purchased or gifted because purchase and gift do not apply to them; they are born to him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:2:2",
+     "quote": "דהא מרחם קדוש ולא בעי עשייה שיקדישנה האיש",
+     "he": "רש״י: הפסוק ״כן תעשה״ אי אפשר לפרשו בבכור, כי בכור קדוש מרחם ואינו צריך עשייה שבה האדם מקדישו.",
+     "en": "Rashi: the verse 'kein ta'aseh' cannot be placed on the firstborn, because a firstborn is holy from the womb and needs no act of the owner to sanctify it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:3:2",
+     "quote": "מה בכור אינו בא על חטא",
+     "he": "רש״י: ״דומיא דבניך״ נאמר על בכור אדם — כשם שבכור אדם אינו בא על חטא, כך מעשר בהמה, ולכן לא נלמד מכאן חטאת ואשם.",
+     "en": "Rashi: 'like your son' speaks of a human firstborn; just as a firstborn does not come for sin, so too the animal tithe, so the verse cannot teach about sin-offerings and guilt-offerings."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:7:1",
+     "quote": "ובמעי אמן לאו שעת עשייה היא",
+     "he": "רש״י: ״בשעת עשייה״ היא שעה שהם ראויים להתעשר, והכתוב מיעט לוקחים בה; ובמעי אמן אין זו שעת עשייה.",
+     "en": "Rashi: 'at the time of doing' is when they are fit to be tithed, and the verse excludes purchased animals then; in their mothers' wombs it is not the time of doing."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:1",
+     "quote": "שמכניסן לדיר וקורא לו שם מעשר",
+     "he": "רבינו גרשום: מעשר בהמה יש בו ״עשייה״ — מכניסים את הבהמות לדיר וקוראים לעשירי שם מעשר.",
+     "en": "Rabbeinu Gershom: animal tithe has a 'doing': one brings the animals into the pen and calls the tenth by the name 'tithe'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:3",
+     "quote": "דומיא דבנך בעינן דאינו בא על חטא",
+     "he": "רבינו גרשום: לא ניתן ללמוד חטאת ואשם, כי צריך ״דומיא דבנך״ שאינו בא על חטא, והם באים על חטא.",
+     "en": "Rabbeinu Gershom: one cannot learn sin-offerings and guilt-offerings, since the verse requires 'like your son' that does not come for sin, and they do."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:6",
+     "quote": "בזמן שראוי להקרבה יש בו איסור לקוח",
+     "he": "רבינו גרשום: בזמן שהבהמה ראויה להקרבה יש בה איסור לקוח, אבל כשהם עוברים שאינם ראויים להקרבה אין בהם איסור לקוח.",
+     "en": "Rabbeinu Gershom: when the animal is fit for sacrifice there is the prohibition of a purchased animal, but as fetuses, which are not fit for sacrifice, they carry no such prohibition."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56a:2:1",
+     "quote": "דרשינן ליה למעשר משום דבכור לא שייך קדושת עשייה",
+     "he": "תוספות: הפסוק נכתב בבכור, אך מאחר שנאמר בלשון ״עשייה״ דורשים אותו למעשר, כי בבכור אין קדושת עשייה.",
+     "en": "Tosafot: the verse was written about the firstborn, but since it is expressed as 'doing' it is applied to tithe, because a firstborn has no sanctity of doing."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56a:1:1",
+     "quote": "אין דנין אפשר משאי אפשר",
+     "he": "תוספות מקשים על הלימוד ״מה בנך״ מהכלל ״אין דנין אפשר משאי אפשר״, ומתרצים שכאן זה היקש ולא בנין אב.",
+     "en": "Tosafot raise the rule 'we do not derive the possible from the impossible' against the 'mah bincha' derivation, and answer that here it is a hekesh and not a binyan av."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 56a:2",
+     "quote": "הלא מ\"ל דאקני ליה משעה שיצא רובו",
+     "he": "הרש״ש מקשה על רש״י, שאמר שהבכור קדוש משעה שנולד: הרי אפשר לומר שהאב קנה אותו משעה שיצא רובו.",
+     "en": "Rashash questions Rashi's statement that a firstborn is holy from the moment of birth: can one not say that the owner acquired it from when most of it emerged?"
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Leviticus 22:23:1",
+     "quote": "כן תעשה לשורך במעשר בהמה שיש בו עשיה",
+     "he": "בעמק דבר: ״כן תעשה לשורך״ נאמר במעשר בהמה, שיש בו עשייה של העברה, כמבואר בבכורות נו א.",
+     "en": "Haamek Davar: 'kein ta'aseh l'shorcha' is said of animal tithe, which has an act of passing under the rod, as explained at Bekhorot 56a."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Chullin 81a:3",
+     "quote": "ומיני' ילפינן צאנך למעשר בהמה בבכורות נ\"ו ע\"א",
+     "he": "החתם סופר: מ״כן תעשה לשורך לצאנך״ לומדים ״צאנך״ למעשר בהמה בבכורות נו ע״א.",
+     "en": "Chatam Sofer: from 'kein ta'aseh l'shorcha l'tzonecha' we learn 'your flock' as animal tithe, at Bekhorot 56a."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    10
+   ],
+   "he": {
+    "title": "לקח עשרה עוברים, ולקוח החל על מחוסר זמן",
+    "gemara": "מקשים על רבי יוחנן ממשנה ש״הלוקח או שנתן לו במתנה פטור ממעשר בהמה״. רבי אלעזר אומר שרבי יוחנן נראה לו בחלום ואמר שהפסוק ״תעשה״ ממעט בשעת עשייה. רבי שמעון בן אליקים מקשה: הלקוח חל על מחוסר זמן! ורבי אלעזר עונה שאין זו משנה, ואם משנה — היא כרבי שמעון שמחוסר זמן נכנס לדיר להתעשר.",
+    "halakha": "הרמב״ם (הלכות בכורות ו:יב): הלוקח עשרה עוברים במעי אמם, כולם נכנסים לדיר להתעשר, שהרי ברשותו נולדו."
+   },
+   "en": {
+    "title": "Ten fetuses bought in the womb, and a purchase's effect on an animal lacking time",
+    "gemara": "The Gemara challenges Rabbi Yochanan from a mishnah that a purchaser or a recipient of a gift is exempt from animal tithe. Rabbi Elazar says Rabbi Yochanan appeared to him in a dream and said that 'ta'aseh' excludes at the time of the doing. Rabbi Shimon ben Elyakim objects that a purchase takes effect on an animal lacking time; Rabbi Elazar replies that this is not a mishnah, and if it is, it follows Rabbi Shimon, who holds that such an animal enters the pen to be tithed.",
+    "halakha": "Rambam (Firstlings 6:12): one who buys ten fetuses in their mothers' wombs, all of them enter the pen to be tithed, since they were born in his possession."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:9:2",
+     "quote": "שאם לקחו קודם שבעת ימים ללידתו שוב אינו נכנס לדיר להתעשר",
+     "he": "רש״י: מחוסר זמן שלקחו לפני שבעת ימים מלידתו אינו נכנס עוד לדיר להתעשר, כי אין זו שעת עשייה וחל עליו דין לקוח.",
+     "en": "Rashi: an animal lacking time that was bought before seven days from birth no longer enters the pen to be tithed, since it is not the time of doing and the law of purchase applies."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:10:1",
+     "quote": "ומיהו במעי אמו מודה דאין לקוח חל עליו",
+     "he": "רש״י: לפי רבי שמעון מחוסר זמן הוא שעת עשייה ולכן לקוח חל עליו; אך בעודו במעי אמו מודה שאין לקוח חל.",
+     "en": "Rashi: for Rabbi Shimon an animal lacking time is at the time of doing, so purchase applies; yet while in its mother's womb he agrees that purchase does not apply."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:7",
+     "quote": "איסור לקוח חל על מחוסר זמן",
+     "he": "רבינו גרשום: איסור לקוח חל על מחוסר זמן, שאם לקחו לפני שבעה ימים אינו נכנס לדיר להתעשר לעולם.",
+     "en": "Rabbeinu Gershom: the prohibition of a purchased animal applies to one lacking time; if bought before seven days it never enters the pen to be tithed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:8",
+     "quote": "ושעת עשייה קרינן ביה",
+     "he": "רבינו גרשום: לרבי שמעון מחוסר זמן נכנס לדיר, ״שעת עשייה״ נקראת בו, ולכן יש בו איסור לקוח.",
+     "en": "Rabbeinu Gershom: for Rabbi Shimon an animal lacking time enters the pen and is called a 'time of doing', so the prohibition of a purchase applies to it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56a:8:1",
+     "quote": "לאו דוקא דהוא הדין נולדו כיון דהוי מחוסר זמן",
+     "he": "תוספות: ״במעי אמן״ אינו מדויק — הוא הדין אם כבר נולדו, כיוון שהם מחוסרי זמן.",
+     "en": "Tosafot: 'in their mothers' wombs' is not precise; the same holds if they were already born, since they lack time."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:12",
+     "quote": "כלן נכנסין לדיר להתעשר שהרי ברשותו נולדו",
+     "he": "הרמב״ם פוסק שהלוקח עשרה עוברים כולם נכנסים לדיר להתעשר, שהרי ברשותו נולדו.",
+     "en": "Rambam rules that one who buys ten fetuses, all enter the pen to be tithed, since they were born in his possession."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Bekhorot 9:4:1",
+     "quote": "דאילו לקח עשרה עוברים במעי אמן כולן נכנסים לדיר להתעשר",
+     "he": "רבי עקיבא איגר מציין את הסוגיה כמקור לכך שכשלקח עשרה עוברים במעי אמם כולם נכנסים לדיר להתעשר.",
+     "en": "Rabbi Akiva Eiger cites this passage as the source that when one bought ten fetuses in their mothers' wombs, they all enter the pen to be tithed."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 6:14:4",
+     "quote": "דלילה מחוסר זמן",
+     "he": "בהר המוריה: הרמב״ם פסק במקום אחר שלילה הוא מחוסר זמן, ולכן אין נכנסים לדיר בלילה של יום השמיני.",
+     "en": "Har HaMoriyah: the Rambam rules elsewhere that night counts as lacking time, so one does not enter the pen on the night of the eighth day."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Rosh Hashanah 1:1:11:1",
+     "quote": "כאן התירה התורה להקדיש מחוסר זמן",
+     "he": "מראה הפנים על הירושלמי עוסק בדעת רבי שמעון לגבי הקדשת מחוסר זמן, ומביא את דברי התוספות במסכתות זבחים ותמורה.",
+     "en": "Mareh HaPanim on the Yerushalmi discusses the position on sanctifying an animal lacking time, citing Tosafot in Zevachim and Temurah."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    11,
+    2
+   ],
+   "he": {
+    "title": "אתנן זונה שנכנס לדיר להתעשר",
+    "gemara": "תנא לפני רב שונה: אתנן שנכנס לדיר הוא ״כל שנתנו לה וחזר ולקחו ממנה״. מקשים שנפסל כלוקח, ועונים שאישתמיטתיה דברי רבי יוחנן, והמדובר בעובר שנתן לה. מקשים שהזונה תעשרנו בעצמה, ועונים שמדובר בזונה גויה. ושוב מקשים: נעמיד בזונה ישראלית — ועונים שבא להשמיענו שזונה ישראלית לא הווי אתנן.",
+    "halakha": "הרמב״ם (הלכות איסורי המזבח ד:ח): ״אתנן״ הוא האומר לזונה ״הא ליך דבר זה בשכרך״, בין כותית או שפחה, ובין ישראלית שהיא ערוה עליו או מחייבי לאווין; אבל פנויה — אתננה מותר."
+   },
+   "en": {
+    "title": "A harlot's fee that enters the pen to be tithed",
+    "gemara": "A tanna taught before Rav: an etnan that enters the pen is 'one that he gave her and took back from her'. The Gemara objects that it should be disqualified as purchased, and answers that the questioner overlooked Rabbi Yochanan's ruling, so it is a fetus he gave her. It then asks why the woman should not tithe it herself, and answers that she is a gentile harlot. It asks again: why not set it with an Israelite harlot? It teaches that an Israelite harlot's fee is not an etnan.",
+    "halakha": "Rambam (Things Forbidden on the Altar 4:8): an 'etnan' is saying to a harlot 'take this for your hire', whether she is a gentile, a maidservant, or an Israelite who is forbidden to him by an ervah or by a negative commandment; but with an unmarried woman, even a kohen's gift is permitted."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:11:1",
+     "quote": "ואם יצא האתנן בעשירי יאכל במומו לבעלים",
+     "he": "רש״י: אם יצא האתנן בעשירי — יאכל במומו לבעלים.",
+     "en": "Rashi: if the etnan comes out as the tenth, it is eaten with its blemish by the owners."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56a:12:1",
+     "quote": "והכא נמי כגון שנתנו במעי אמו",
+     "he": "רש״י: המקשה שכח את דברי רבי אסי, ולכן גם כאן מדובר בכגון שנתנו לה במעי אמו.",
+     "en": "Rashi: the questioner overlooked Rabbi Assi's words, and here too it is a case where he gave it in its mother's womb."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:1:1",
+     "quote": "לא מיפסיל משום נתן במתנה",
+     "he": "רש״י: כיוון שנתנו לה במעי אמו, לא נפסל משום שנתן במתנה, ואם יצא האתנן בעשירי יאכל במומו.",
+     "en": "Rashi: since he gave it in the womb, it is not disqualified as a gift; and if the etnan comes out as the tenth it is eaten with its blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:2:1",
+     "quote": "אבל אי הוה זונה ישראלית לא מיקרי אתנן ואפילו למזבח שרי",
+     "he": "רש״י: הברייתא מדברת בזונה כותית שנקראת אתנן, אבל אם היתה זונה ישראלית אינה נקראת אתנן ומותר אפילו למזבח.",
+     "en": "Rashi: the baraita speaks of a gentile harlot, whose fee is called an etnan; with an Israelite harlot it is not called an etnan, and is permitted even for the altar."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:10",
+     "quote": "בזונה עובדת כוכבים קא מיירי",
+     "he": "רבינו גרשום: מדובר בזונה עובדת כוכבים, שלא התחייבה במעשר, והחזרה לידו כלקחו שלא בשעת עשייה — ולכן אין בו איסור לקוח.",
+     "en": "Rabbeinu Gershom: it speaks of an idolatrous harlot who is not obligated in tithe, so taking it back is a purchase not at the time of doing, and there is no purchase prohibition."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56a:12",
+     "quote": "בזונה עובדת כוכבים עסקי'",
+     "he": "רבינו גרשום: מדברים בזונה עובדת כוכבים, שאינה בת עשורי.",
+     "en": "Rabbeinu Gershom: we are dealing with an idolatrous harlot, who is not subject to tithing."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56b:3:1",
+     "quote": "אלא אשמועינן לקוח במעי אמו כרבי יוחנן",
+     "he": "תוספות: אפשר גם שהגמרא באה להשמיענו דין לקוח במעי אמו כרבי יוחנן, שהזונה תעשרנו בעצמה כשנתן לה במעי אמו.",
+     "en": "Tosafot: it may also be that the Gemara teaches the law of a purchase in the womb like Rabbi Yochanan, so that she tithes it herself when he gave it in the womb."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 4:8",
+     "quote": "האומר לזונה הא ליך דבר זה בשכרך",
+     "he": "הרמב״ם מגדיר אתנן כאומר לזונה ״הא ליך דבר זה בשכרך״.",
+     "en": "Rambam defines an etnan as saying to a harlot 'take this for your hire'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 209:3",
+     "quote": "מוכח דמהני למכור עובר במעי אמו",
+     "he": "בחכמת שלמה: מסוגיה זו ראיה לדעת הרמב״ם שמועילה מכירת עובר במעי אמו.",
+     "en": "Chokhmat Shlomo: this passage is proof for the Rambam that selling a fetus in its mother's womb is effective."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura II 3:102:12",
+     "quote": "כל שלקח אותו ממנה במעי אמה לא חל אתנן",
+     "he": "בשואל ומשיב: כל שלקח אותו ממנה במעי אמה לא חל עליו דין אתנן.",
+     "en": "Shoel uMeshiv: whoever took it back from her while in its mother's womb, the law of etnan did not apply."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Things Forbidden on the Altar 3:12:1",
+     "quote": "דבעודו עובר לא חזי לקרבן",
+     "he": "באור שמח: בעודו עובר אינו ראוי לקרבן, ולכן יש בו כעין שינוי.",
+     "en": "Ohr Sameach: while it is a fetus it is not fit for a sacrifice, which gives something like a change."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    6
+   ],
+   "he": {
+    "title": "אביי: זונה גויה אתננה אסור, וכהן הבא עליה אינו לוקה",
+    "gemara": "אביי: זונה גויה אתננה אסור, וכהן הבא עליה אינו לוקה משום ״לא יחלל זרעו״; זונה ישראלית אתננה מותר, וכהן הבא עליה לוקה. אתנן גויה אסור מגזירה שווה ״תועבה תועבה״ מעריות, מה עריות שלא תופסים בהן קידושין אף זונה זו. והכהן אינו לוקה כי ״לא יחלל זרעו״ והאי לאו זרעיה הוא.",
+    "halakha": "הרמב״ם (הלכות איסורי ביאה יז:ו): כל כהן הבא על הכותית, בין גדול בין הדיוט, לוקה משום זונה; והשולחן ערוך (אבן העזר טז:א): אם היה כהן ובא עליה אפילו דרך מקרה, לוקה עליה מן התורה משום זונה."
+   },
+   "en": {
+    "title": "Abaye: the fee of a gentile harlot is forbidden, yet a kohen who lies with her is not flogged",
+    "gemara": "Abaye: a gentile harlot's fee is forbidden, and a kohen who lies with her is not flogged for 'lo yechalel zaro'; an Israelite harlot's fee is permitted, and a kohen who lies with her is flogged. The forbidden fee of a gentile comes from a gezeirah shavah 'to'evah to'evah' from the forbidden relations: just as there marriage does not take hold, so too with this harlot. The kohen is not flogged because the verse says 'his seed', and this one is not his seed.",
+    "halakha": "Rambam (Forbidden Intercourse 17:6): every kohen, high priest or ordinary, who lies with a gentile woman is flogged for 'zonah'; and the Shulchan Arukh (Even HaEzer 16:1): if he was a kohen, even if he lay with her by chance, he is flogged by Torah law for 'zonah'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:1",
+     "quote": "תועבה תועבה מעריות",
+     "he": "רבינו גרשום: הגזירה שווה ״תועבה תועבה״ מעריות — בזונה שלא תופסים בה קידושין, שנאמר ״לא תתחתן בם״, אתננה אסור.",
+     "en": "Rabbeinu Gershom: the gezeirah shavah 'to'evah to'evah' from forbidden relations applies to a harlot in whom marriage does not take hold, since it says 'lo titchaten bam', and her fee is forbidden."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:2",
+     "quote": "בנך הבא מישראלית קרוי בנך ואין בנך הבא מן העובדת כוכבים קרוי בנך אלא בנה",
+     "he": "רבינו גרשום: ״בנך הבא מישראלית קרוי בנך״, ואין בנך הבא מעובדת כוכבים קרוי בנך אלא בנה, ולכן ״לאו זרעיה הוא״.",
+     "en": "Rabbeinu Gershom: 'your son from an Israelite is called your son', but your son from an idolatress is called her son, so 'he is not his seed'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:5:1",
+     "quote": "דחייבי כריתות נינהו והכל מודים שאין קדושין תופסין בחייבי כריתות",
+     "he": "רש״י: עריות הן חייבי כריתות, והכל מודים שאין קידושין תופסים בחייבי כריתות.",
+     "en": "Rashi: forbidden relations are those liable to karet, and all agree that marriage does not take hold in those liable to karet."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:6:1",
+     "quote": "דהולד הולך אחר הכותית",
+     "he": "רש״י: הולד הולך אחר הכותית, ולכן אינו נקרא זרעו של הכהן.",
+     "en": "Rashi: the child follows the gentile woman, so it is not called the kohen's seed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:4:1",
+     "quote": "בעריות כתיב מכל התועבות האלה ובאתנן כתיב כי תועבת ה'",
+     "he": "רש״י מצביע על מקור הגזירה שווה: בעריות כתוב ״מכל התועבות האלה״ ובאתנן ״כי תועבת ה׳״.",
+     "en": "Rashi points to the source of the gezeirah shavah: for forbidden relations it is written 'from all these abominations' and for the etnan 'for it is an abomination of the Lord'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56b:5:1",
+     "quote": "תימה כיון דילפינן מעריות ה\"ל למעוטי זונה כותית",
+     "he": "תוספות מתקשים: מכיוון שלומדים מעריות, היה צריך למעט זונה כותית שלא תופסים בה קידושין כלל — ומתרצים שכל שכן שגורם עליה שם זנות.",
+     "en": "Tosafot are puzzled: since we learn from forbidden relations, a gentile harlot, in whom marriage does not take hold at all, should be excluded; they answer that all the more so she gives rise to the name of zenut."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56b:3:1",
+     "quote": "דוקא מיירי בדתפסי בהדי קדושין",
+     "he": "תוספות: הגמרא מדברת דווקא באיסור ערוה שתופסים בה קידושין, ולכן אתנן זונה ישראלית מותר.",
+     "en": "Tosafot: the Gemara speaks only of a forbidden relation in which marriage takes hold, which is why an Israelite harlot's fee is permitted."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 17:6",
+     "quote": "שהרי אינה בת קידושין",
+     "he": "הרמב״ם: כהן הבא על הכותית לוקה משום זונה, שהרי אינה בת קידושין.",
+     "en": "Rambam: a kohen who lies with a gentile woman is flogged for zonah, since she is not capable of kiddushin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 16:1",
+     "quote": "ואם היה כהן אפי' בא עליה דרך מקרה לוקה עליה מן התורה משום זונה",
+     "he": "השולחן ערוך: אם היה כהן ובא עליה אפילו דרך מקרה לוקה מן התורה משום זונה.",
+     "en": "Shulchan Arukh: if he was a kohen, even if he lay with her by chance, he is flogged by Torah law for zonah."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Even HaEzer 6:8",
+     "quote": "איזהו היא זונה כל שאינה בת ישראל",
+     "he": "השולחן ערוך מגדיר: ״איזהו היא זונה — כל שאינה בת ישראל״ או ישראלית שנבעלה לאיסור השווה לכל.",
+     "en": "The Shulchan Arukh defines: 'who is a zonah — anyone who is not a daughter of Israel', or an Israelite woman who was with someone forbidden to her."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Things Forbidden on the Altar 4:8:3",
+     "quote": "והלכה כרבא דאפילו בתופסת בה קידושין נמי מיקרי זונה",
+     "he": "בהר המוריה: הלכה כרבא שאפילו בתופסת בה קידושין נקראת זונה, ולכן פסק הרמב״ם כך.",
+     "en": "Har HaMoriyah: the halakha follows Rava that even one in whom kiddushin takes hold is called a zonah, and so the Rambam ruled."
+    },
+    {
+     "who": {
+      "he": "מגן אברהם",
+      "en": "Magen Avraham"
+     },
+     "ref": "Magen Avraham 153:48",
+     "quote": "אתנן וכהונה שוין",
+     "he": "במגן אברהם: מדברי הגמרא משמע שאתנן וכהונה שווים בהגדרת זונה.",
+     "en": "Magen Avraham: it is clear from the Gemara that etnan and the priesthood are equal in defining a zonah."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    10
+   ],
+   "he": {
+    "title": "האחים והשותפים: קלבון ומעשר בהמה",
+    "gemara": "המשנה: האחים והשותפים שחייבים בקלבון — פטורים ממעשר בהמה, וחייבים במעשר — פטורים מקלבון. קנו מתפיסת הבית חייבים במעשר, ואם חלקו וחזרו ונשתתפו — חייבים בקלבון ופטורים ממעשר. הברייתא לומדת מ״יהיה לך״ — ולא של שותפות; ״יהיה״ — לרבות קנו בתפיסת הבית. והפסוק נכתב בבכור, ולכן הוא מלמד על מעשר.",
+    "halakha": "הרמב״ם (הלכות בכורות ו:י): השותפים שנשתתפו בבהמות, והביא זה מאה טלאים וזה מאה טלאים וערבום ונשתתפו — המאתיים פטורים ממעשר."
+   },
+   "en": {
+    "title": "Brothers and partners: the kalbon and animal tithe",
+    "gemara": "The mishnah: brothers and partners who owe the kalbon are exempt from animal tithe, and those who owe animal tithe are exempt from the kalbon. If they acquired from the household estate they owe tithe; if they divided and re-formed a partnership they owe the kalbon and are exempt from tithe. A baraita learns from 'yihyeh lach' that a partnership's animals are excluded, and 'yihyeh' includes those acquired from the household estate. Since the verse is written about the firstborn, it teaches here about tithe.",
+    "halakha": "Rambam (Firstlings 6:10): partners who entered a partnership in animals, one bringing a hundred lambs and the other a hundred lambs, mixing them and becoming partners in them, the two hundred are exempt from tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:7:1",
+     "quote": "שחלקו בנכסי אביהן ואח\"כ נשתתפו",
+     "he": "רש״י: האחים ״שחייבים בקלבון״ הם שחלקו בנכסי אביהם ואחר כך נשתתפו; אם שוקלים סלע שלם ביחד, כל אחד נותן קלבון, כי הם שני ממונות.",
+     "en": "Rashi: brothers 'who owe the kalbon' are those who divided their father's estate and then formed a partnership; if they weigh a whole sela together, each gives a kalbon, since they are two separate holdings."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:7:3",
+     "quote": "ועדיין תפיסת בית ירושת אביהן קיימת",
+     "he": "רש״י: ״חייבים במעשר בהמה״ — כשלא חלקו ועדיין תפיסת בית ירושת אביהם קיימת, ואינם כשותפות.",
+     "en": "Rashi: they are 'liable to animal tithe' when they did not divide and their father's estate still stands, and they are not like a partnership."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:9:2",
+     "quote": "המיוחד לך אתה נותן ולא של שותפות",
+     "he": "רש״י: ״ולא של שותפות״ — משמע ״המיוחד לך אתה נותן״, ולא של שותפות.",
+     "en": "Rashi: 'and not of a partnership' implies that what is yours alone you give, and not what belongs to a partnership."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:4",
+     "quote": "כיון דחלקו הוי ליה כשני ממונות",
+     "he": "רבינו גרשום: כיוון שחלקו, הם כשני ממונות, ולכן חייבים בקלבון, ופטורים ממעשר משום ש״לקוח פטור ממעשר בהמה״.",
+     "en": "Rabbeinu Gershom: since they divided, they are like two separate holdings, so they owe the kalbon and are exempt from tithe because a purchased animal is exempt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:3",
+     "quote": "מיירי באחין שחלקו ירושתן",
+     "he": "רבינו גרשום: המשנה מדברת באחים שחלקו ירושתם.",
+     "en": "Rabbeinu Gershom: the mishnah speaks of brothers who divided their inheritance."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 56b:10:1",
+     "quote": "מדאיצטריך למעוטי שותפות כותי",
+     "he": "תוספות מפנים לריש מסכתא, שם פירשו מדוע צריך את הפסוק מצד שצריך למעט שותפות כותי.",
+     "en": "Tosafot refer to the start of the tractate, where they explained why this verse is needed, since it must exclude a gentile's partnership."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chullin 136b:22:1",
+     "quote": "בכור וראשית הגז נוהגין ביתום",
+     "he": "רש״י בחולין מביא את ההבדל בין בכור וראשית הגז, הנוהגים ביתום ובלקוח ובשותפות, ובין מעשר.",
+     "en": "Rashi on Chullin notes the difference between the firstborn and the first shearing, which apply to an orphan, and tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:10",
+     "quote": "השותפין שנשתתפו בבהמות",
+     "he": "הרמב״ם: השותפים שנשתתפו בבהמות, והביא זה מאה טלאים וזה מאה — המאתיים פטורים ממעשר.",
+     "en": "Rambam: partners who formed a partnership in animals, one bringing a hundred lambs and the other a hundred, the two hundred are exempt from tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Chiddushei Ramban on Bava Batra 144b:1",
+     "quote": "האחין שהן שותפין",
+     "he": "הרמב״ן: ״האחים השותפים״ פירושו האחים שהם שותפים, וכך פירש גם את משנתנו בבכורות.",
+     "en": "Ramban: 'brothers who are partners' means brothers who are partners, and he explains our mishnah in Bekhorot the same way."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Beitzah 39b:4",
+     "quote": "שעדיין לא חלקו וירשו בהמה",
+     "he": "רבינו חננאל: חייבים במעשר בהמה כשעדיין לא חלקו וירשו בהמה, ופטורים מן הקולבון כי מממון אחד הביאו הסלע.",
+     "en": "Rabbeinu Chananel: they owe animal tithe when they have not yet divided and inherited an animal, and are exempt from the kolbon because they brought the sela from one fund."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Shekalim 1:7:2",
+     "quote": "האחין שחלקו בכספים שהניח אביהן",
+     "he": "בתוספות יום טוב: לפי גרסת הרמב״ם ״האחים והשותפים״ — האחים שחלקו בכספים שהניח אביהם.",
+     "en": "Tosafot Yom Tov: following the Rambam's version 'the brothers and the partners', these are brothers who divided the money their father left."
+    },
+    {
+     "who": {
+      "he": "הון עשיר",
+      "en": "Hon Ashir"
+     },
+     "ref": "Hon Ashir on Mishnah Shekalim 1:7:4",
+     "quote": "ותמהני מרש\"י ז\"ל שפירש",
+     "he": "בהון עשיר: הוא תמה על רש״י שפירש בביצה, בבכורות ובחולין שהם חייבים בשני קלבונות.",
+     "en": "Hon Ashir: he is puzzled by Rashi, who explained in Beitzah, Bekhorot and Chullin that they owe two kalbons."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 56b:5",
+     "quote": "אבל בחולין פירש רש\"י דפטורין לגמרי",
+     "he": "הרש״ש: רש״י כאן פירש שפטורים משני קלבון, משמע שקלבון אחד חייבים; אבל בחולין פירש שפטורים לגמרי.",
+     "en": "Rashash: Rashi here says they are exempt from the second kalbon, implying they owe one; but in Chullin he explained they are exempt entirely."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 56b:2",
+     "quote": "אבל הכא הכוונה על פסוק אשר יהיה לך הזכרים",
+     "he": "הרש״ש: ״לך״ כאן אינו כמו בבמדבר, אלא על הפסוק ״אשר יהיה לך הזכרים״ בשמות.",
+     "en": "Rashash: 'lach' here is not as in Numbers, but refers to the verse 'asher yihyeh lecha hazecharim' in Exodus."
+    },
+    {
+     "who": {
+      "he": "הלחם שמים",
+      "en": "Lechem Shamayim"
+     },
+     "ref": "Lechem Shamayim on Mishnah Shekalim 1:3:2",
+     "quote": "שחייבין במעשר בהמה כשקנו מתפוסת הבית",
+     "he": "בלחם שמים: האחים השותפים שחייבים במעשר בהמה כשקנו מתפוסת הבית — כי החיוב חל על נכסי אביהם.",
+     "en": "Lechem Shamayim: brothers who owe animal tithe when they acquired from the household estate, since the obligation falls on their father's property."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    15
+   ],
+   "he": {
+    "title": "רבי ירמיה: ארבעה מצבים של חיוב ופטור",
+    "gemara": "רבי ירמיה: פעמים שחייבים בזה ובזה — כשחלקו בכספים ולא בבהמה; פטורים מזה ומזה — כשחלקו בבהמה ולא בכספים; חייבים בקלבון ופטורים ממעשר — כשחלקו בזה ובזה; חייבים במעשר ופטורים מקלבון — כשלא חלקו בזה ובזה. הגמרא שואלת ״פשיטא״, ועונה שהחידוש הוא כשחלקו בבהמה ולא בכספים, שלא נאמר שגילו דעתם לחלוק.",
+    "halakha": "הרמב״ם (הלכות בכורות ו:יא): האחים והשותפים שחלקו בכספים ולא חלקו בבהמה חייבים במעשר; אבל אם חלקו הבהמות — אף על פי שעדיין לא חלקו הכספים — הרי אלו פטורים."
+   },
+   "en": {
+    "title": "Rabbi Yirmeyah: four situations of obligation and exemption",
+    "gemara": "Rabbi Yirmeyah: sometimes they owe both — when they divided the money and not the animals; are exempt from both — when they divided the animals and not the money; owe the kalbon and are exempt from tithe — when they divided both; owe tithe and are exempt from the kalbon — when they divided neither. The Gemara says 'obvious', and answers that the novelty is where they divided the animals but not the money, lest we say they revealed their intent to divide.",
+    "halakha": "Rambam (Firstlings 6:11): brothers and partners who divided the money and did not divide the animals owe tithe; but if they divided the animals, even though they have not yet divided the money, they are exempt."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:12:1",
+     "quote": "דגבי קלבון הוו כשאר שותפים וגבי בהמה הוי תפיסת הבית",
+     "he": "רש״י: כשחלקו בכספים ולא בבהמה — לעניין קלבון הם כשאר שותפים, ולעניין בהמה הם תפיסת הבית.",
+     "en": "Rashi: when they divided the money and not the animals — for the kalbon they are like other partners, and for the animals they are the household estate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:15:1",
+     "quote": "גלו אדעתייהו דלמיפלג בנכסים נמי קיימי",
+     "he": "רש״י: היה אפשר לומר שמכיוון שחלקו בבהמה, גילו דעתם שהם עומדים לחלוק גם בנכסים, ולכן חייבים בקלבון — קא משמע לן שלא.",
+     "en": "Rashi: one might have said that since they divided the animals they revealed that they also intend to divide the property, and so owe the kalbon — the Gemara teaches that they do not."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:7",
+     "quote": "אלא מה שחלקו חלקו ומה שלא חלקו לא חלקו",
+     "he": "רבינו גרשום: עיקר הטורח בבהמה; ולכן קמ״ל שלא נאמר שגילו דעתם — אלא מה שחלקו חלקו ומה שלא חלקו לא חלקו.",
+     "en": "Rabbeinu Gershom: the main effort is with the animals; so the Gemara teaches that we do not say they revealed their intent — what they divided is divided and what they did not divide is not divided."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:6",
+     "quote": "ומאי קמ\"ל ר' ירמיה",
+     "he": "רבינו גרשום: ״פשיטא״ — כל אלה אפשר ללמוד מהמשנה, ומה בא רבי ירמיה להשמיע.",
+     "en": "Rabbeinu Gershom: 'obvious' — all these can be inferred from the mishnah, so what does Rabbi Yirmeyah come to teach?"
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:11",
+     "quote": "אבל אם חלקו הבהמות אף על פי שעדיין לא חלקו הכספים הרי אלו פטורין",
+     "he": "הרמב״ם: אם חלקו את הבהמות, אף על פי שלא חלקו את הכספים — הרי אלו פטורים ממעשר.",
+     "en": "Rambam: if they divided the animals, even though they have not yet divided the money, they are exempt from tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sheqel Dues 3:5",
+     "quote": "ואם חלקו הבהמה ולא חלקו הכספים פטורין מן הקלבון",
+     "he": "הרמב״ם בהלכות שקלים: אם חלקו הבהמה ולא חלקו הכספים — פטורים מן הקלבון עד שיחלקו הכספים.",
+     "en": "Rambam in the laws of sheqalim: if they divided the animals and not the money they are exempt from the kalbon until they divide the money."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "קרבן העדה",
+      "en": "Korban HaEdah"
+     },
+     "ref": "Korban HaEdah on Jerusalem Talmud Shekalim 1:4:9:10",
+     "quote": "חלקו את הנכסים ולא חלקו את הבהמה",
+     "he": "בקרבן העדה: גרסת הירושלמי ״חלקו את הנכסים ולא חלקו את הבהמה״ כמו בבכורות פרק ט.",
+     "en": "Korban HaEdah: the Yerushalmi's text 'they divided the property and did not divide the animals' is as in Bekhorot chapter 9."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Shekalim 1:4:6:1",
+     "quote": "ונלמד מסוגיית הש\"ס דבכורות דף נו אמר ר' ירמיה פעמים",
+     "he": "במראה הפנים: גרסת ״האחים והשותפים״ נלמדת מסוגיית הש״ס בבכורות נו, שם אמר רבי ירמיה ״פעמים״.",
+     "en": "Mareh HaPanim: the reading 'the brothers and the partners' is learned from the passage at Bekhorot 56 where Rabbi Yirmeyah says 'sometimes'."
+    },
+    {
+     "who": {
+      "he": "פני משה",
+      "en": "Penei Moshe"
+     },
+     "ref": "Penei Moshe on Jerusalem Talmud Shekalim 1:4:1:11",
+     "quote": "חלקו האחים וחזרו ונשתתפו בבהמות לגדלם ולפטמן",
+     "he": "בפני משה: האחים שחלקו וחזרו ונשתתפו בבהמות לגדלם ולפטמן — חייבים בקלבון ופטורים ממעשר בהמה.",
+     "en": "Penei Moshe: brothers who divided and re-formed a partnership in animals to raise and fatten them owe the kalbon and are exempt from animal tithe."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    16,
+    21
+   ],
+   "he": {
+    "title": "חלקו גדיים כנגד גדיים: האם יש ברירה",
+    "gemara": "רב ענן: לא שנו אלא שחלקו גדיים כנגד תיישים; אבל גדיים כנגד גדיים — אומרים ״זה חלקו המגיעו משעה ראשונה לכך״. רב נחמן: אפילו גדיים כנגד גדיים אין אומרים כך. רבי אלעזר: לא שנו אלא תשעה כנגד עשרה; ורבי יוחנן: אפילו תשעה כנגד תשעה אין אומרים כך."
+   },
+   "en": {
+    "title": "Dividing kids against kids: is there bererah",
+    "gemara": "Rav Anan: the mishnah teaches this only when they divided kids against goats; but kids against kids — we say 'this is the share that fell to him from the first moment'. Rav Nachman: even kids against kids we do not say so. Rabbi Elazar: only nine against ten; and Rabbi Yochanan: even nine against nine we do not say so."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:16:2",
+     "quote": "זה קונה מזה והולדות שישנם בשעת חלוקה פטורין ממעשר בהמה משום לקוח",
+     "he": "רש״י: כשחלקו גדיים כנגד תיישים — זה קנין, שזה קונה מזה, והולדות שישנם בשעת חלוקה פטורים משום לקוח, ואלו העתידים לבוא פטורים משום שותפות.",
+     "en": "Rashi: when they divided kids against goats it is an acquisition, one buying from the other; the offspring existing at the division are exempt as purchased, and those yet to come are exempt as a partnership."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:17:1",
+     "quote": "אמרינן ברירה וזה חלק המגיע לכל אחד ממיתת אביו",
+     "he": "רש״י: כשחלקו גדיים כנגד גדיים — אומרים ברירה, וזה החלק שהגיע לכל אחד ממיתת אביו; כשחזרו ונשתתפו חוזרת תפיסת הבית.",
+     "en": "Rashi: when they divided kids against kids we say bererah, that this is the share each received from their father's death; when they re-form the partnership the household estate returns."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:18:1",
+     "quote": "אין ברירה והוי מרישא לקוחות והדר שותפין",
+     "he": "רש״י על רב נחמן: אין ברירה, והם מתחילה לקוחות ואחר כך שותפים.",
+     "en": "Rashi on Rav Nachman: there is no bererah, and they are first purchasers and then partners."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 56b:21:1",
+     "quote": "דהיינו שומא וליכא למימר ברירה",
+     "he": "רש״י על רבי יוחנן: תשעה גדולים כנגד עשרה פחותים הוא שומא, ואין לומר ברירה.",
+     "en": "Rashi on Rabbi Yochanan: nine large against ten smaller is an appraisal, and one cannot say bererah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 56b:8",
+     "quote": "דהני ודאי לקוחות הן ולא חלוקה גמורה",
+     "he": "רבינו גרשום: כשחלקו גדיים כנגד תיישים, אלה ודאי לקוחות ולא חלוקה גמורה.",
+     "en": "Rabbeinu Gershom: when they divided kids against goats, these are certainly purchases and not a complete division."
+    },
+    {
+     "who": {
+      "he": "ר״י הזקן",
+      "en": "Tosafot Rid"
+     },
+     "ref": "Tosafot Rid on Kiddushin 17b:3",
+     "quote": "וכשחולק עמו מין אחד אמרינן זהו חלקו המגיעו ויש ברירה",
+     "he": "תוספות רי״ד: כשחולק עמו מין אחד אומרים ״זהו חלקו המגיעו״ ויש ברירה, ואילו כשמחליף מין במין אין לומר כך.",
+     "en": "Tosafot Rid: when one divides a single kind with him we say 'this is his share' and there is bererah, but when exchanging one kind for another we do not say so."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Avodah Zarah 64b:1",
+     "quote": "דקיי\"ל בשני מיני' לא שייך ברירה",
+     "he": "החתם סופר: קיימא לן שבשני מינים לא שייכת ברירה, כמבואר בבכורות פרק מעשר בהמה בחלקו גדיים נגד טלאים.",
+     "en": "Chatam Sofer: it is established that with two kinds bererah does not apply, as explained in Bekhorot, chapter Ma'aser Behemah, on dividing kids against lambs."
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:10:1",
+     "quote": "דענין יש ברירה לא שייך רק בחד מינא",
+     "he": "רבי עקיבא איגר: ענין ״יש ברירה״ שייך רק במין אחד ולא בשני מינים, וכמו שאמרו בבכורות שאין זה אלא כשחלקו גדיים נגד גדיים.",
+     "en": "Rabbi Akiva Eiger: the idea of 'there is bererah' applies only to one kind and not to two kinds, as said in Bekhorot that it applies only when they divided kids against kids."
+    }
+   ]
+  }
+ ]
+}
