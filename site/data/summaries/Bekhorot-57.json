@@ -1,0 +1,1186 @@
+{
+ "ref": "Bekhorot 57",
+ "date": "2026-11-14",
+ "he": {
+  "overview": "הדף עוסק בסוף 'אזדא רבי יוחנן לטעמיה' – אחים שחלקו כלקוחות ואין ברירה – ובברייתא על שותפים וכלב. אחר כך עוברים לפרק 'מעשר בהמה': מי נכנס לדיר להתעשר ומי פטור (כלאים, טרפה, יוצא דופן, מחוסר זמן ויתום), והדרשות מ״תחת״ ומ״משחתם״, ומחלוקת התנאים על טומטום ואנדרוגינוס. בעמוד ב׳ עדות רבי ישמעאל בן סתריאל והמעשיות על גודל, ולבסוף משנת שלש גרנות למעשר בהמה ומחלוקת התנאים בתאריכים.",
+  "title": "סיכום — בכורות נ״ז"
+ },
+ "en": {
+  "overview": "The daf opens by finishing 'Rabbi Yochanan follows his own reasoning' – brothers who divided are like purchasers and there is no bererah – and a baraita about partners and a dog. It then begins the chapter on animal tithe: who enters the pen to be tithed and who is exempt (a hybrid, a treifa, a caesarean birth, one lacking its time, an orphan), the derivations from 'tachat' and 'mishchatam', and the tannaitic dispute on tumtum and androginos. Amud b has the testimony of Rabbi Yishmael ben Satriel and the tales of size, and then the Mishnah of the three threshing-times for animal tithe and the tannaim's dispute on the dates.",
+  "title": "Summary — Bekhorot 57"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "יש ברירה"
+   ],
+   "he": {
+    "term": "ברירה",
+    "explanation": "הכלל אם דבר שנתברר אחר כך נחשב כאילו היה כך מלכתחילה. רבי יוחנן סובר שאין ברירה, ולכן אחים שחלקו הם כלקוחות. הגמרא מקשה מהברייתא על השותפים רק לפי מי שסובר שיש ברירה."
+   },
+   "en": {
+    "term": "Bererah (retroactive clarification)",
+    "explanation": "The principle that what is clarified later is treated as having been so from the start. Rabbi Yochanan holds there is no bererah, so brothers who divided are like purchasers. The Gemara objects from the baraita about the partners only according to the one who holds there is bererah."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 57a:5:1",
+    "quote": "הכי נמי דיש ברירה ונוטל אחד במחיר כלב ואוכלו והשאר מותרין לגבוה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "נכנסין לדיר להתעשר"
+   ],
+   "he": {
+    "term": "נכנסין לדיר להתעשר",
+    "explanation": "מעשר בהמה: מכניסים את הולדות לדיר ומוציאים אחד אחד, והעשירי קדוש. המשנה אומרת מי נכנס ומי פטור: כלאים, טרפה, יוצא דופן, מחוסר זמן ויתום."
+   },
+   "en": {
+    "term": "Entering the pen to be tithed",
+    "explanation": "For animal tithe the offspring are brought into the pen and taken out one by one, and the tenth is holy. The Mishnah says who enters and who is exempt: a hybrid, a treifa, a caesarean birth, one lacking its time and an orphan."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Firstlings 6:14",
+    "quote": "הַכֹּל נִכְנָסִין לַדִּיר לְהִתְעַשֵּׂר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "פרט לנדמה"
+   ],
+   "he": {
+    "term": "נדמה",
+    "explanation": "בהמה שאמה רחל והיא דומה לעז, או להפך. התורה כתבה ״או עז״ כדי להוציא אותה, והרמב״ם פוסק שהיא פסולה למזבח."
+   },
+   "en": {
+    "term": "Nidmeh (a lookalike)",
+    "explanation": "An animal whose mother is a ewe but looks like a goat, or the reverse. The Torah wrote 'or a goat' to exclude it, and the Rambam rules it unfit for the altar."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 57a:7:2",
+    "quote": "שאמו רחל והוא דומה לעז"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "טומטום ואנדרוגינוס"
+   ],
+   "he": {
+    "term": "טומטום ואנדרוגינוס",
+    "explanation": "בעלי חיים שמינם ספק. רבי שמעון בן יהודה משום רבי שמעון אומר שאינם נכנסים לדיר; לדעת התוספות הסוגיה אינה כרב חסדא וריש לקיש."
+   },
+   "en": {
+    "term": "Tumtum and androginos",
+    "explanation": "Creatures of uncertain sex. Rabbi Shimon ben Yehuda in the name of Rabbi Shimon says they do not enter the pen; Tosafot note the sugya does not follow Rav Chisda and Reish Lakish."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 57a:11",
+    "quote": "דקסבר דבריה היא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "יוצא דופן"
+   ],
+   "he": {
+    "term": "יוצא דופן",
+    "explanation": "ולד שיצא מן הדופן ולא מן הרחם. לרבי שמעון הוא ולד מעליא לעניין נדה, אבל לעניין קדשים אינו קדוש לפי רבי יוחנן."
+   },
+   "en": {
+    "term": "Yotze dofen (caesarean birth)",
+    "explanation": "An offspring that came out through the side rather than the womb. For Rabbi Shimon it is a proper offspring regarding Niddah, but regarding sanctified animals it is not sanctified according to Rabbi Yochanan."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 57b:1:1",
+    "quote": "קא\"ר שמעון דהרי זה כילוד ואמו טמאה לידה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "במחוסר זמן"
+   ],
+   "he": {
+    "term": "מחוסר זמן",
+    "explanation": "ולד שלא עברו עליו שבעה ימים. רבי שמעון בן יהודה סובר שנכנס לדיר להתעשר, והמשנה פוטרת אותו כדעת חכמים."
+   },
+   "en": {
+    "term": "Mechusar zeman (lacking its time)",
+    "explanation": "An offspring that has not yet reached seven days. Rabbi Shimon ben Yehuda holds it enters the pen to be tithed, while the Mishnah exempts it like the Sages."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 57b:3",
+    "quote": "דאמר לעיל מחוסר זמן נכנס לדיר להתעשר והרי הוא כבכור"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "השלח קיים"
+   ],
+   "he": {
+    "term": "יתום והשלח קיים",
+    "explanation": "יתום הוא ולד שאמו מתה או נשחטה. לרבי יהושע, כל עוד השלח (העור) קיים אין הוא יתום, כי העור מחמם את הולד."
+   },
+   "en": {
+    "term": "Orphan and 'the hide exists'",
+    "explanation": "An orphan is an offspring whose mother died or was slaughtered. According to Rabbi Yehoshua, as long as the hide exists it is not an orphan, since the hide warms the offspring."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 57b:2:2",
+    "quote": "והעור קיים כשיצא הולד לחוץ"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 6,
+   "anchors": [
+    "בפרס הפסח"
+   ],
+   "he": {
+    "term": "פרס (פרוס) הפסח",
+    "explanation": "זמן הגורן למעשר בהמה: חצי מהשלושים יום שלפני הרגל, כלומר חמשה עשר יום לפני הפסח, העצרת והחג."
+   },
+   "en": {
+    "term": "Peras (peros) haPesach",
+    "explanation": "A threshing-time for animal tithe: a half of the thirty days before the festival, meaning fifteen days before Pesach, Atzeret and the Festival."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Bekhorot 57b:6:1",
+    "quote": "לשון פרוסה פלגא דל' יום"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "האחין שחלקו – לקוחות הן ואין ברירה",
+    "gemara": "רבי יוחנן סובר שאחים שחלקו הם כלקוחות, ומחזירים זה לזה ביובל, ולכן אין ברירה. הגמרא מסבירה למה צריך שתי הוראות שלו (בנך ושדה), ומקשה מברייתא על שותפים שחלקו עשרה טלאים ותשעה וכלב: אם יש ברירה, יברור אחד ויוציא את מחיר הכלב. רב אשי משיב שמדובר בשאינם שווים זה לזה, ויש 'משהו' שמושך בכולם.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Brothers who divided – purchasers, and no bererah",
+    "gemara": "Rabbi Yochanan holds that brothers who divided an inheritance are like purchasers and must return the portions to each other in the Jubilee, so there is no bererah (retroactive clarification). The Gemara explains why both of his rulings (on 'your son' and on a field) are needed, and objects from a baraita about partners who divided ten lambs, nine lambs and a dog: if there is bererah, let one lamb be chosen against the dog. Rav Ashi answers that the case is one where the lambs are not equal, and a small excess spreads through all of them.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:1",
+     "quote": "דלית ליה ברירה ומשום הכי מחזירין זה לזה ביובל",
+     "he": "רבי יוחנן אינו סובר ברירה, ולכן מחזירים זה לזה ביובל.",
+     "en": "Rabbi Yochanan has no bererah, and therefore they return to each other in the Jubilee."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:2:2",
+     "quote": "דאין ברירה ופטורין משום דמעשר בהמה איתקש לבנך",
+     "he": "רש״י: רבי יוחנן אומר שאין ברירה, ולכן פטורים, כי מעשר בהמה הוקש לבנך.",
+     "en": "Rashi: Rabbi Yochanan says there is no bererah and they are exempt, because animal tithe was compared to 'your son'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:3",
+     "quote": "אבל הכא גבי מעשר בהמה אי משוינן לה כלקוחות היינו קולא דפטירי ממעשר",
+     "he": "ביובל החזרה היא חומרא, ואילו כאן הדין כלקוחות הוא קולא, כי פטורים ממעשר; לכן צריך ללמוד את שניהם.",
+     "en": "In the Jubilee, treating them as purchasers is a stringency, but here it is a leniency, since they are exempt from tithe; so both must be taught."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:4:2",
+     "quote": "אחד מהן היה חילופו של כלב והיה מחיר כלב ולא ידעינן הי ניהו",
+     "he": "הטלאים שכנגד הכלב אסורים למזבח, כי אחד מהם היה חילופו של כלב ואין יודעים איזה.",
+     "en": "The lambs opposite the dog are forbidden for the altar, since one of them was the exchange for a dog and we do not know which."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:5:1",
+     "quote": "הכי נמי דיש ברירה ונוטל אחד במחיר כלב ואוכלו והשאר מותרין לגבוה",
+     "he": "אם כולם שווים, אכן יש ברירה: נוטל אחד כמחיר הכלב והשאר מותרים לגבוה.",
+     "en": "If they are all equal, then there is bererah: he takes one as the price of the dog and the rest are permitted for the altar."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:6",
+     "quote": "וליכא ברירה הלכך שכנגד הכלב כולן אסורין להקרבה",
+     "he": "כשהמשהו מתפשט בכולם אין ברירה, ולכן כל העשרה שכנגד הכלב אסורים להקרבה.",
+     "en": "Where the small excess spreads through all ten, there is no bererah, so all ten opposite the dog are forbidden for offering."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:4:1",
+     "quote": "וא\"ת מה יועיל הא אין ידוע איזהו אותו שכנגד הכלב",
+     "he": "התוספות מקשים: מה תועיל הברירה כשאין ידוע איזה טלה הוא שכנגד הכלב.",
+     "en": "Tosafot ask: what would bererah help, when it is not known which lamb is the one opposite the dog?"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:1:1",
+     "quote": "ואע\"ג דהכא פליג ר\"א עליה דרבי יוחנן",
+     "he": "התוספות דנים בכך שכאן רבי אלעזר חולק על רבי יוחנן, ומשווים זאת למה שנאמר לעיל בסוף 'יש בכור'.",
+     "en": "Tosafot discuss that here Rabbi Elazar disagrees with Rabbi Yochanan, and compare this with what is said earlier at the end of 'Yesh Bekhor'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 4:17",
+     "quote": "שְׁנֵי שֻׁתָּפִין שֶׁחָלְקוּ. זֶה לָקַח עֲשָׂרָה טְלָאִים וְזֶה לָקַח תִּשְׁעָה וְכֶלֶב אֶחָד",
+     "he": "הרמב״ם מביא את דין השותפים שחלקו עשרה טלאים ותשעה וכלב.",
+     "en": "The Rambam brings the law of partners who divided ten lambs, nine lambs and a dog."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Temurah 30a:3",
+     "quote": "וכן הא דסוגיין פריך בבכורות (נז) רק למ\"ד דיש ברירה",
+     "he": "הרש״ש: הקושיה בסוגייתנו היא רק לפי מי שסובר שיש ברירה.",
+     "en": "Rashash: the objection in our sugya is raised only according to the view that there is bererah."
+    },
+    {
+     "who": {
+      "he": "חתם סופר",
+      "en": "Chatam Sofer"
+     },
+     "ref": "Chidushei Chatam Sofer on Beitzah 39b:5",
+     "quote": "מה בנך מבורר לך שנולד ברשותך ממש",
+     "he": "החתם סופר מביא את לשון רש״י: מה בנך מבורר לך שנולד ברשותך ממש, ודן בכך.",
+     "en": "The Chatam Sofer cites Rashi's wording, 'just as your son is clear to you, born in your own domain', and discusses it."
+    },
+    {
+     "who": {
+      "he": "מגן אברהם",
+      "en": "Magen Avraham"
+     },
+     "ref": "Magen Avraham 153:47",
+     "quote": "שני שותפין שחלקו אחד נטל י' טלאים ואחד נטל ט' וכלב",
+     "he": "המגן אברהם מביא את דין השותפים שחלקו, בשם הרמב״ם.",
+     "en": "The Magen Avraham cites the law of the partners who divided, in the name of the Rambam."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Things Forbidden on the Altar 4:17:2",
+     "quote": "ומבואר בבכורות נ\"ז א' דזה לא מהני רק אליבא דמ\"ד יש ברירה",
+     "he": "הר המוריה: מבואר בבכורות נ״ז שזה מועיל רק לפי מי שסובר שיש ברירה.",
+     "en": "Har HaMoriyah: it is made clear in Bekhorot 57 that this works only according to the view that there is bererah."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Temurah 6:3:2",
+     "quote": "אבל לר\"ת דפסק הלכתא דאין ברירה היכי פריך",
+     "he": "מלאכת שלמה שואל: לפי רבנו תם, שפסק שאין ברירה, איך מקשים כך?",
+     "en": "Melekhet Shelomoh asks: according to Rabbeinu Tam, who ruled there is no bererah, how is the objection raised?"
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 7:4:3",
+     "quote": "מקרי שורש דאורייתא ופסקינן דאין ברירה",
+     "he": "רבי עקיבא איגר: במקרה ששורשו מן התורה פוסקים שאין ברירה.",
+     "en": "Rabbi Akiva Eiger: where the root of the matter is from the Torah, we rule there is no bererah."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "המשנה: מי נכנס לדיר, והדרשות מ״תחת״",
+    "gemara": "המשנה פוטרת מן המעשר כלאים, טרפה, יוצא דופן, מחוסר זמן ויתום. הגמרא מביאה דרשות: ״שור או כשב״ מוציא כלאים, ״או עז״ נדמה, ״כי יולד״ יוצא דופן, ״והיה שבעת ימים״ מחוסר זמן, ״תחת אמו״ יתום. רבי ישמעאל בנו של רבי יוחנן בן ברוקה לומד בגזירה שווה ״תחת״ ״תחת״ בין מעשר לקדשים, ושם גם טרפה.",
+    "halakha": "הרמב״ם פוסק שכל אלה פטורים מן המעשר."
+   },
+   "en": {
+    "title": "The Mishnah: who enters the pen, and the 'tachat' derivations",
+    "gemara": "The Mishnah exempts from tithe a hybrid, a treifa, an animal born by caesarean, one lacking its time and an orphan. The Gemara brings derivations: 'ox or sheep' excludes a hybrid, 'or goat' a lookalike, 'when born' a caesarean birth, 'it shall be seven days' one lacking its time, 'under its mother' an orphan. Rabbi Yishmael son of Rabbi Yochanan ben Berokah learns by a gezeira shava on 'tachat' between tithe and sanctified animals, and from it also a treifa.",
+    "halakha": "The Rambam rules that all of these are exempt from the tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:7:2",
+     "quote": "שאמו רחל והוא דומה לעז",
+     "he": "נדמה: שאמו רחל והוא דומה לעז.",
+     "en": "'Nidmeh' is one whose mother is a ewe but it looks like a goat."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:8:4",
+     "quote": "פרט לטרפה שאינה עוברת דבהמה שנחתכו רגליה מן הארכובה ולמעלה",
+     "he": "הטרפה שאינה ״עוברת״ היא בהמה שנחתכו רגליה מן הארכובה ולמעלה.",
+     "en": "The treifa that does not 'pass' is an animal whose legs were cut from the joint upward."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:9",
+     "quote": "שיהא מיוחד שור או כשב פרט לכלאים",
+     "he": "רבינו גרשום: ״שור או כשב״ – שיהיה מיוחד, ולכן יוצא כלאים.",
+     "en": "Rabbeinu Gershom: 'ox or sheep' means it must be distinct, which excludes a hybrid."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:10",
+     "quote": "דכתיב כל אשר יעבור פרט לטרפה שאינה עוברת",
+     "he": "רבינו גרשום: ״כל אשר יעבור״ מוציא טרפה שאינה עוברת.",
+     "en": "Rabbeinu Gershom: 'all that passes' excludes a treifa that does not pass."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:8",
+     "quote": "העור שלה שיכול אדם לכורכו בעור אמו ולחממו בו אין זה יתום",
+     "he": "רבינו גרשום מסביר את דעת רבי יהושע: כל זמן שהעור קיים ואפשר לחממו בו, אין זה יתום.",
+     "en": "Rabbeinu Gershom explains Rabbi Yehoshua: while the hide exists and the newborn can be warmed in it, it is not an orphan."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:6:1",
+     "quote": "הוה מצי נמי למיתני נדמה דהא מפרש טעמא בגמרא",
+     "he": "התוספות: המשנה יכלה לשנות גם נדמה, שהרי הטעם מפורש בגמרא.",
+     "en": "Tosafot: the Mishnah could also have taught 'nidmeh', since the reason is stated in the Gemara."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:18:1",
+     "quote": "דבהמה שנחתכו רגליה מן הארכובה ולמעלה היא מי\"ח טרפות",
+     "he": "התוספות: בהמה שנחתכו רגליה מן הארכובה ולמעלה היא מי״ח טרפות.",
+     "en": "Tosafot: an animal whose legs were cut from the joint upward is among the eighteen treifot."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:14",
+     "quote": "שֶׁכָּל אֵלּוּ פְּטוּרִין מִן הַמַּעֲשֵׂר",
+     "he": "הרמב״ם: כל אלה פטורים מן המעשר.",
+     "en": "The Rambam: all of these are exempt from the tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Things Forbidden on the Altar 3:5",
+     "quote": "הַנִּדְמֶה אַף עַל פִּי שֶׁאֵינוֹ כִּלְאַיִם הֲרֵי הוּא פָּסוּל לַמִּזְבֵּחַ",
+     "he": "הרמב״ם: נדמה פסול למזבח אף שאינו כלאים.",
+     "en": "The Rambam: a lookalike is unfit for the altar even though it is not a hybrid."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Zevachim 12a:13:1",
+     "quote": "מחוסר זמן אינו נכנס לדיר להתעשר",
+     "he": "רש״י בזבחים מזכיר שמחוסר זמן אינו נכנס לדיר להתעשר.",
+     "en": "Rashi in Zevachim notes that one lacking its time does not enter the pen to be tithed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Things Forbidden on the Altar 3:4:2",
+     "quote": "ואיני יודע למה השמיט רבינו שמתה אמו",
+     "he": "הכסף משנה: איני יודע למה השמיט רבינו ״שמתה אמו״.",
+     "en": "Kessef Mishneh: I do not know why our Rabbi omitted 'whose mother died'."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Firstlings 6:14:1",
+     "quote": "דחשיבא עוברת כיון שאינה טריפה",
+     "he": "המשנה למלך: התוספות בבכורות כתבו שנחשבת ״עוברת״ כיון שאינה טריפה, וכן דעת הרמב״ם.",
+     "en": "Mishneh LaMelech: Tosafot in Bekhorot wrote that it counts as 'passing' since it is not a treifa, and so is the Rambam's view."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 57a:1",
+     "quote": "התוי\"ט תמה מדוע בכ\"מ דחשיב התנא פסולי דקדשים השמיט למיחשיב יתום",
+     "he": "הרש״ש מביא את תמיית התוספות יום טוב: מדוע התנא השמיט יתום כשמונה פסולי קדשים.",
+     "en": "Rashash cites the Tosafot Yom Tov's question: why does the tanna omit 'orphan' when he lists what is unfit among sanctified animals?"
+    },
+    {
+     "who": {
+      "he": "קרבן העדה",
+      "en": "Korban HaEdah"
+     },
+     "ref": "Korban HaEdah on Jerusalem Talmud Shabbat 19:5:3:8",
+     "quote": "ש\"מ דלילה אינה מחוסר זמן",
+     "he": "קרבן העדה: משמע שלילה אינה מחוסר זמן.",
+     "en": "Korban HaEdah: this shows that night is not 'lacking its time'."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 6:14:4",
+     "quote": "אליבא דמ\"ד דס\"ל דאין מחוסר זמן בלילה",
+     "he": "הר המוריה: הדין שבליל שמיני נכנס לדיר הוא לפי מי שסובר שאין מחוסר זמן בלילה.",
+     "en": "Har HaMoriyah: that the eighth night enters the pen is according to the one who holds there is no 'lacking time' at night."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Exodus 13:12:1",
+     "quote": "הוא ס\"ל דיתום כשר בקדשים",
+     "he": "המלבי״ם: בן עזאי סובר שיתום כשר בקדשים.",
+     "en": "Malbim: Ben Azzai holds that an orphan is fit among sanctified animals."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    16
+   ],
+   "he": {
+    "title": "״הכל״ לרבות רובע ונרבע ומוקצה – ו״משחתם״; טומטום ואנדרוגינוס",
+    "gemara": "״הכל״ מרבה רובע, נרבע, מוקצה, נעבד, אתנן, מחיר, טומטום ואנדרוגינוס. הגמרא שואלת: אם למדים ״תחת״ ״תחת״ מקדשים, גם אלה לא; ומשיבה שהכתוב ריבה אותם מ״כי משחתם בהם מום בם״, ו״השחתה״ היא דבר ערוה ועבודה זרה, שאינם פוסלים במעשר כי המום אינו פוסל בו. רבי שמעון בן יהודה משום רבי שמעון מוציא טומטום ואנדרוגינוס כי ספק.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "'Hakol' includes a mounter and a mounted, and 'mishchatam'; tumtum and androginos",
+    "gemara": "'Everything' includes the mounter, the mounted, the set-aside for idolatry, the worshipped, a harlot's hire, a dog's price, a tumtum and an androginos. The Gemara asks: if we learn 'tachat–tachat' from sanctified animals, these would be excluded; it answers that the verse included them from 'for their corruption is in them, a blemish is in them', and 'corruption' means forbidden relations or idolatry, which do not disqualify in tithe since a blemish does not disqualify in it. Rabbi Shimon ben Yehuda in the name of Rabbi Shimon excludes tumtum and androginos as a doubt.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:9:2",
+     "quote": "שהפרישוהו להקריבו לעבודה זרה",
+     "he": "מוקצה: שהפרישוהו להקריבו לעבודה זרה.",
+     "en": "'Muktzeh': one that was set aside to offer to idolatry."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:9:3",
+     "quote": "שעבד את הבהמה עצמה כגון שניסך לה בין קרניה",
+     "he": "נעבד: שעבד את הבהמה עצמה, כגון שניסך לה בין קרניה.",
+     "en": "'Ne'evad': one who worshipped the animal itself, for example by pouring a libation between its horns."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:11:1",
+     "quote": "רחמנא רבינהו דלעשרי ואף על גב דלא חזו להקרבה יאכלו במומן לבעלים",
+     "he": "רש״י: התורה ריבתה אותם להתעשר, ואף שאינם ראויים להקרבה יאכלו במומם לבעלים.",
+     "en": "Rashi: the Torah included them for tithing, and although unfit for offering, they are eaten in their blemished state by the owners."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:13:1",
+     "quote": "דהא אקשינהו רחמנא למום",
+     "he": "רש״י: התורה הקישה אותם למום.",
+     "en": "Rashi: the Torah linked them to a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:15:1",
+     "quote": "ורבי שמעון סבר בריה בפני עצמה היא",
+     "he": "רש״י: לרבי שמעון טומטום הוא בריה בפני עצמה.",
+     "en": "Rashi: Rabbi Shimon holds it is a creature of its own."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57a:11",
+     "quote": "דקסבר דבריה היא",
+     "he": "רבינו גרשום: טומטום אינו נכנס לדיר, כי סובר שהוא בריה.",
+     "en": "Rabbeinu Gershom: a tumtum does not enter, since he holds it is a separate creature."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:13:1",
+     "quote": "כולי עלמא אית להו הך דרשא",
+     "he": "התוספות: הכול מסכימים לדרשה זו.",
+     "en": "Tosafot: everyone holds this derivation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57a:16:1",
+     "quote": "הך סוגיא דלא כרב חסדא וריש לקיש",
+     "he": "התוספות: סוגיה זו אינה כרב חסדא וריש לקיש.",
+     "en": "Tosafot: this sugya does not follow Rav Chisda and Reish Lakish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 23a:2:1",
+     "quote": "כאן משמע דלכ\"ע אית להו הך דרשא דמשחתם",
+     "he": "התוספות בחולין: כאן משמע שלכולי עלמא יש דרשת ״משחתם״.",
+     "en": "Tosafot in Chullin: here it implies that everyone holds the 'mishchatam' derivation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chullin 23a:1:1",
+     "quote": "דהא רבי עקיבא אית ליה דרשא דמשחתם",
+     "he": "התוספות בחולין: רבי עקיבא סובר את דרשת ״משחתם״ בפרק האחרון של בכורות.",
+     "en": "Tosafot in Chullin: Rabbi Akiva holds the 'mishchatam' derivation, in the last chapter of Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:14",
+     "quote": "בֵּין תְּמִימִים בֵּין בַּעֲלֵי מוּמִין",
+     "he": "הרמב״ם: הכל נכנסים לדיר, בין תמימים בין בעלי מומין.",
+     "en": "The Rambam: all enter the pen, whether unblemished or blemished."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Temurah 28b:3",
+     "quote": "דאין מום פוסל בו גם אלו אינן פוסלין",
+     "he": "הרש״ש: מעשר אין המום פוסל בו, ולכן גם אלה אינם פוסלים בו.",
+     "en": "Rashash: a blemish does not disqualify tithe, so these also do not disqualify it."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 6:4:2",
+     "quote": "אמרינן דמעשר לא פסיל ביה מומא",
+     "he": "הכסף משנה: בפרק האחרון של בכורות אמרו שמעשר לא פוסל בו מום.",
+     "en": "Kessef Mishneh: in the last chapter of Bekhorot they said that a blemish does not disqualify tithe."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 22:2",
+     "quote": "ואם כן סבירא ליה לר' יהודה ששם",
+     "he": "המלבי״ם מסביר מה סובר רבי יהודה בשם ״זכר״ ביחס לאנדרוגינוס.",
+     "en": "The Malbim explains what Rabbi Yehuda holds about the term 'male' with regard to the androginos."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Diverse Species 9:5:2",
+     "quote": "דס\"ל דאין ב\"ד יכולין לקבלו כיון דלא הוה רק ספק",
+     "he": "צפנת פענח: בית דין אינם יכולים לקבלו, כיון שהוא רק ספק.",
+     "en": "Tzafnat Pa'neach: a court cannot accept it, since it is only a doubt."
+    },
+    {
+     "who": {
+      "he": "אדרת אליהו",
+      "en": "Aderet Eliyahu"
+     },
+     "ref": "Aderet Eliyahu, Leviticus 22:25:1",
+     "quote": "ר' ישמעאל אומר מניין לרובע ונרבע ומוקצה ונעבד",
+     "he": "אדרת אליהו מביא את דברי רבי ישמעאל על רובע ונרבע ומוקצה ונעבד.",
+     "en": "Aderet Eliyahu cites Rabbi Yishmael on the mounter, mounted, set-aside and worshipped."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    17,
+    2
+   ],
+   "he": {
+    "title": "ברייתא: רבי אלעזר ברבי יהודה ורבי עקיבא – יוצא דופן, מחוסר זמן ויתום",
+    "gemara": "ברייתא: ״הכל נכנסין״ חוץ מכלאים וטרפה, כדברי רבי אלעזר ברבי יהודה משום רבי יהושע; רבי עקיבא שמע ממנו גם יוצא דופן, מחוסר זמן ויתום. הגמרא מסבירה: ביוצא דופן סבר כרבי שמעון שהוא ולד מעליא, ושלא כרבי יוחנן; במחוסר זמן כרבי שמעון בן יהודה; ויתום – כשהשלח קיים, ורבי יהושע לטעמיה.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The baraita of Rabbi Elazar son of Rabbi Yehuda and Rabbi Akiva – caesarean, lacking time, orphan",
+    "gemara": "A baraita: 'everything enters' except a hybrid and a treifa, per Rabbi Elazar son of Rabbi Yehuda in the name of Rabbi Yehoshua; Rabbi Akiva heard from him also a caesarean birth, one lacking its time and an orphan. The Gemara explains: on the caesarean he follows Rabbi Shimon, that it is a proper offspring, not Rabbi Yochanan; on lacking time, Rabbi Shimon ben Yehuda; and on the orphan, where the hide exists, Rabbi Yehoshua follows his own reasoning.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57a:18:1",
+     "quote": "יוצא דופן ומחוסר זמן ויתום",
+     "he": "רש״י מפרש ״הני״: יוצא דופן, מחוסר זמן ויתום.",
+     "en": "Rashi explains 'these': the caesarean birth, the one lacking its time and the orphan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:1:1",
+     "quote": "קא\"ר שמעון דהרי זה כילוד ואמו טמאה לידה",
+     "he": "רש״י: רבי שמעון אמר במסכת נדה שיוצא דופן כילוד ואמו טמאה לידה.",
+     "en": "Rashi: Rabbi Shimon said in Niddah that a caesarean birth is as born and its mother is impure from childbirth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:1:2",
+     "quote": "דמודה ר\"ש לעניין קדשים שאינו קדוש",
+     "he": "רש״י: רבי יוחנן אומר שרבי שמעון מודה שלעניין קדשים יוצא דופן אינו קדוש.",
+     "en": "Rashi: Rabbi Yochanan says Rabbi Shimon agrees that regarding sanctified animals a caesarean birth is not sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:2:2",
+     "quote": "והעור קיים כשיצא הולד לחוץ",
+     "he": "רש״י: ״והשלח קיים״ – שהעור קיים כשיצא הולד.",
+     "en": "Rashi: 'the hide exists' means the skin exists when the offspring comes out."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57b:1",
+     "quote": "סבר לה כר' שמעון דאמר במס' נדה ולד מעליא הוא",
+     "he": "רבינו גרשום: ביוצא דופן סבר כרבי שמעון שאמר בנדה שהוא ולד מעליא.",
+     "en": "Rabbeinu Gershom: on the caesarean he follows Rabbi Shimon who said in Niddah that it is a proper offspring."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57b:3",
+     "quote": "דאמר לעיל מחוסר זמן נכנס לדיר להתעשר והרי הוא כבכור",
+     "he": "רבינו גרשום: רבי שמעון בן יהודה אמר לעיל שמחוסר זמן נכנס לדיר להתעשר, והרי הוא כבכור.",
+     "en": "Rabbeinu Gershom: Rabbi Shimon ben Yehuda said above that one lacking time enters the pen to be tithed, like a firstborn."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Niddah 40a:14:1",
+     "quote": "ותימה דהא ר\"ש מודה דבקדשים אינו קדוש",
+     "he": "התוספות בנדה: תמוה, שהרי רבי שמעון מודה שבקדשים אינו קדוש.",
+     "en": "Tosafot in Niddah: it is puzzling, since Rabbi Shimon agrees that among sanctified animals it is not sanctified."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Niddah 5:1:1",
+     "quote": "ור\"ש יליף לרבות יוצא דופן בת\"כ",
+     "he": "מלאכת שלמה: רבי שמעון לומד בתורת כהנים לרבות יוצא דופן.",
+     "en": "Melekhet Shelomoh: Rabbi Shimon learns in Torat Kohanim to include a caesarean birth."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    3,
+    5
+   ],
+   "he": {
+    "title": "עדות רבי ישמעאל בן סתריאל ומעשיות על גודל",
+    "gemara": "רבי ישמעאל בן סתריאל מערקת לבנה העיד לפני רבי שבמקומם מפשיטים את המתה ומלבישים את החי, ורבי אמר שנתגלה טעמה של משנתנו. ההמשך מספר על חזירים, ארז שנפל וביצת בר יוכני שטבעה ששים כרכים; מקשים מ״כנף רננים נעלסה״ ורב אשי משיב שהייתה מוזרת.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The testimony of Rabbi Yishmael ben Satriel and the tales of size",
+    "gemara": "Rabbi Yishmael ben Satriel of Arkat Livna testified before Rabbi that in their place they strip the dead one and clothe the living; Rabbi said the reason of our Mishnah was revealed. The Gemara goes on with tales of hogs, a fallen cedar and the egg of the Bar Yokhani that drowned sixty villages; it objects from 'the wing of the ostriches flaps joyously', and Rav Ashi answers that it was a rotten egg.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:3:2",
+     "quote": "מפשיטים עור האם שהיא מתה ומלבישין אותו לולד שהוא חי",
+     "he": "רש״י: מפשיטים את עור האם המתה ומלבישים אותו לולד החי.",
+     "en": "Rashi: they strip the hide of the dead mother and clothe the living offspring with it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:3:4",
+     "quote": "כיון דהעור מהנה לולד דומה כמי שאמו קיימת",
+     "he": "רש״י: כיון שהעור מהנה את הולד, הוא דומה כמי שאמו קיימת.",
+     "en": "Rashi: since the hide benefits the offspring, it is as if its mother were alive."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57b:4",
+     "quote": "מפשיטין את המתה השלח שלה ומלבישין את החיה היתום",
+     "he": "רבינו גרשום: מפשיטים את השלח של המתה ומלבישים את היתום החי.",
+     "en": "Rabbeinu Gershom: they strip the hide of the dead and clothe the living orphan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:4:3",
+     "quote": "שעברו עליו י\"ו קרנות זו בצד זו",
+     "he": "רש״י: על עובי הארז עברו ששה עשר קרונות זה בצד זה.",
+     "en": "Rashi: sixteen wagons passed side by side over the width of the cedar."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Yoma 80a:4:1",
+     "quote": "עוף גדול הוא כדאמרינן בבכורות",
+     "he": "רש״י ביומא: בר יוכני הוא עוף גדול, כמו שאמרו בבכורות.",
+     "en": "Rashi in Yoma: the Bar Yokhani is a large bird, as stated in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:5:4",
+     "quote": "שלא היתה ראויה לאפרוח לכך השליכה",
+     "he": "רש״י: ״מוזרתא״ – שלא היתה ראויה לאפרוח, ולכן השליכה.",
+     "en": "Rashi: 'muzarta' – it was unfit for a chick, therefore she threw it away."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 57b:7",
+     "quote": "נושאה ומעלה לביצתה ונתחטא ומניחה בתוך קן שלה",
+     "he": "רבינו גרשום מפרש ״נעלסה״: נושאת ומעלה את ביצתה ומניחה בקן.",
+     "en": "Rabbeinu Gershom explains 'ne'elasa': she carries her egg up and places it in her nest."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 66b:5:1",
+     "quote": "נושא ומעלה לביצתה ומחתה",
+     "he": "התוספות במנחות דנים בגרסת ״נושא ומעלה לביצתה ומחתה״ ובלשון ירידה.",
+     "en": "Tosafot in Menachot discuss the reading 'carries and raises her egg and lowers it' and the sense of lowering."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 57b:1",
+     "quote": "רש\"י ד\"ה נתגלתה. כל זמן שהעור קיים",
+     "he": "הרש״ש מציע לתקן את לשון רש״י: ״כל זמן שהעור קיים״.",
+     "en": "Rashash proposes correcting Rashi's wording to 'as long as the hide exists'."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 57b:1",
+     "quote": "רמז לפי דרכו שעל ידי מעשים טובים ותורה",
+     "he": "בן יהוידע מפרש ברמז שעל ידי מעשים טובים ותורה מפשיטים את המיתה ומלבישים את החי.",
+     "en": "Ben Yehoyada reads it allusively: through good deeds and Torah the death-husk is stripped and the living is clothed."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 57b:1",
+     "quote": "הגם כי יש להאמין כל אלו הדברים כפשטן",
+     "he": "חידושי אגדות: יש להאמין בדברים כפשטם, אך נכתבו גם להורות על כוונה אחרת.",
+     "en": "Chidushei Agadot: one should believe these accounts as written, yet they were also written to teach a further intent."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Bekhorot 57b:3",
+     "quote": "שהתורה נמשלת לצפור דרור",
+     "he": "חידושי אגדות: התורה נמשלת לצפור דרור, ובר יוכני מדמה אותה.",
+     "en": "Chidushei Agadot: the Torah is likened to a free bird, and the Bar Yokhani is used as its image."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Taanit 3:8:12",
+     "quote": "פי' מורידה בנחת בקנה ומתחטא לשון ירידה",
+     "he": "מלאכת שלמה: רש״י מפרש ״מתחטא״ לשון ירידה – מורידה בנחת בקן.",
+     "en": "Melekhet Shelomoh: Rashi explains 'mitchata' as lowering – she lowers it gently into the nest."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 57b:2",
+     "quote": "מקום בהר הלבנון והוא ארץ הערקום",
+     "he": "הגהות יעב״ץ: ערקת לבנה היא מקום בהר הלבנון, ארץ הערקום.",
+     "en": "Haggahot Ya'avetz: Arkat Livna is a place in Mount Lebanon, the land of the Arkites."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    11
+   ],
+   "he": {
+    "title": "משנה: שלש גרנות למעשר בהמה",
+    "gemara": "המשנה: שלש גרנות – בפרס הפסח, בפרס העצרת ובפרס החג, כדברי רבי עקיבא; בן עזאי ורבי אלעזר ורבי שמעון חולקים בתאריכים, ורבי מאיר: אחד באלול ראש השנה למעשר בהמה. נולדים מאחד בתשרי עד כ״ט באלול מצטרפים. עד שלא הגיע הגורן מותר למכור ולשחוט; הגיע – לא ישחוט, ואם שחט פטור. בגמרא רבה בר שילא: לקבל חורפי, אפלי וקייטי.",
+    "halakha": "הרמב״ם קבע שחכמים קבעו שלשה זמנים בשנה למעשר בהמה."
+   },
+   "en": {
+    "title": "The Mishnah: three threshing-times for animal tithe",
+    "gemara": "The Mishnah: three times – at the half of Pesach, of Atzeret and of the Festival, per Rabbi Akiva; Ben Azzai, Rabbi Elazar and Rabbi Shimon dispute the dates, and Rabbi Meir says the first of Elul is the new year for animal tithe. Those born from the first of Tishrei until the 29th of Elul combine. Before the threshing-time it is permitted to sell and slaughter; once it arrives one may not slaughter, but if he did he is exempt. In the Gemara, Rabba bar Sheila: corresponding to early, late and summer births.",
+    "halakha": "The Rambam records that the Sages fixed three times a year for animal tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:6:1",
+     "quote": "בשלשה פרקים בשנה הוי זמן מעשר בהמה",
+     "he": "רש״י: בשלשה פרקים בשנה הוא זמן מעשר בהמה.",
+     "en": "Rashi: animal tithe has its time in three periods of the year."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:6:3",
+     "quote": "דטבולין הבהמות מדרבנן",
+     "he": "רש״י: הבהמות טבולות מדרבנן.",
+     "en": "Rashi: the animals become 'tevel' by rabbinic law."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:7:1",
+     "quote": "משום סקרתא שצריך לסקור בסיקרא העשירי ובי\"ט אי אפשר מפני שצובע",
+     "he": "רש״י: מעשרים בלא יום טוב משום סקרתא – צריך לסמן את העשירי בצבע, וביום טוב אי אפשר מפני שצובע.",
+     "en": "Rashi: tithing is impossible on a festival because of the marking – the tenth must be marked with dye, and on a festival one may not dye."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:8:2",
+     "quote": "דמספקא ליה אי הלכה כרבי מאיר או כרבי שמעון",
+     "he": "רש״י: האלולים מתעשרים בפני עצמם כי מסתפק אם הלכה כרבי מאיר או כרבי שמעון.",
+     "en": "Rashi: the Elul births are tithed on their own because he is unsure whether the halakha is like Rabbi Meir or Rabbi Shimon."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:9:5",
+     "quote": "למכור ולשחוט - לכתחלה בלא מעשר",
+     "he": "רש״י: מותר למכור ולשחוט לכתחילה בלא מעשר.",
+     "en": "Rashi: one may sell and slaughter initially without tithing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 57b:10:1",
+     "quote": "שיש בהמות שמבכירות לילד קודם הפסח",
+     "he": "רש״י: יש בהמות שמבכירות ללדת קודם הפסח, ולכנגדן תיקנו חכמים את הזמנים.",
+     "en": "Rashi: some animals give birth early, before Pesach, and the Sages set the times to correspond."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 57b:6:1",
+     "quote": "לשון פרוסה פלגא דל' יום",
+     "he": "התוספות: ״פרוס״ לשון פרוסה, חצי משלשים יום.",
+     "en": "Tosafot: 'peros' means a half, of the thirty days."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:8",
+     "quote": "קָבְעוּ חֲכָמִים שְׁלֹשָׁה זְמַנִּים בְּשָׁנָה לְמַעֲשַׂר בְּהֵמָה",
+     "he": "הרמב״ם: חכמים קבעו שלשה זמנים בשנה למעשר בהמה.",
+     "en": "The Rambam: the Sages fixed three times a year for animal tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:6",
+     "quote": "כָּל הַנּוֹלָדִים בְּאֶחָד בְּתִשְׁרֵי עַד עֶשְׂרִים וְתִשְׁעָה בֶּאֱלוּל מִצְטָרְפִין",
+     "he": "הרמב״ם: כל הנולדים מאחד בתשרי עד כ״ט באלול מצטרפים.",
+     "en": "The Rambam: all born from the first of Tishrei until the 29th of Elul combine."
+    },
+    {
+     "who": {
+      "he": "ברטנורא",
+      "en": "Bartenura"
+     },
+     "ref": "Bartenura on Mishnah Shekalim 3:1:4",
+     "quote": "טַעְמַיְהוּ דְּכָל הָנֵי תַּנָּאֵי וּמַחְלֹקְתָּן מְפֹרָשׁ פֶּרֶק בַּתְרָא דִּבְכוֹרוֹת",
+     "he": "הברטנורא: טעמי כל התנאים ומחלוקתם מפורשים בפרק האחרון של בכורות.",
+     "en": "Bartenura: the reasons of all these tannaim and their dispute are explained in the last chapter of Bekhorot."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Rosh Hashanah 2a:1",
+     "quote": "אינו מפריש שנים מן העשרה של שנה זו על שם שתי העשיריות",
+     "he": "המאירי: אין מפרישים שנים מעשרה של שנה זו עבור שתי עשיריות.",
+     "en": "Meiri: he does not separate two of this year's ten on account of two tenths."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Rosh Hashanah 7b:2",
+     "quote": "הא דאקשינן רישא וסיפא ר״ש מציעתא ר״מ",
+     "he": "הריטב״א דן בקושיה שהרישא והסיפא כרבי שמעון והאמצעית כרבי מאיר.",
+     "en": "The Ritva discusses the objection that the beginning and end follow Rabbi Shimon and the middle Rabbi Meir."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 7:8:1",
+     "quote": "פלוגתא דתנאי ופסק כר\"ע",
+     "he": "הכסף משנה: זו מחלוקת תנאים, והרמב״ם פסק כרבי עקיבא.",
+     "en": "Kessef Mishneh: this is a dispute of tannaim, and the Rambam ruled like Rabbi Akiva."
+    },
+    {
+     "who": {
+      "he": "מחצית השקל",
+      "en": "Machatzit HaShekel"
+     },
+     "ref": "Machatzit HaShekel on Orach Chayim 429:1:2",
+     "quote": "דמן התורה מותר לאכול ולמכור קודם שיעשר",
+     "he": "מחצית השקל: מן התורה מותר לאכול ולמכור קודם שמעשר.",
+     "en": "Machatzit HaShekel: from the Torah it is permitted to eat and sell before tithing."
+    },
+    {
+     "who": {
+      "he": "שורשי הים",
+      "en": "Shorshei HaYam"
+     },
+     "ref": "Shorshei HaYam on Mishneh Torah, Firstlings 7:8:1",
+     "quote": "אין פרוס פחות מט\"ו יום",
+     "he": "שורשי הים: ״פרוס״ אינו פחות מחמשה עשר יום.",
+     "en": "Shorshei HaYam: 'peros' is no less than fifteen days."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 57b:5",
+     "quote": "ומההיא שמעתא דמגילה עצמה יקשה",
+     "he": "הרש״ש מקשה על התוספות מסוגיית מגילה עצמה.",
+     "en": "Rashash raises a difficulty on Tosafot from the sugya of Megillah itself."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Rosh Hashanah 1:1:7",
+     "quote": "ובמעשר בהמה ס\"ל כר' מאיר",
+     "he": "מלאכת שלמה: במעשר בהמה סובר כרבי מאיר.",
+     "en": "Melekhet Shelomoh: regarding animal tithe he holds like Rabbi Meir."
+    }
+   ]
+  }
+ ]
+}
