@@ -1,0 +1,1516 @@
+{
+ "ref": "Bekhorot 58",
+ "date": "2026-11-15",
+ "he": {
+  "overview": "הדף עוסק בזמני מעשר בהמה ובדרך הנהגתו. בעמוד א׳ מבארת הגמרא מדוע נקבעו שלוש גרנות לפני הרגלים, מה פירוש ״פרס״ (חמישה עשר יום), ובמה נחלקו רבי עקיבא ובן עזאי בדבר כ״ט באדר, באחד בסיוון ובכ״ט באלול, ומדוע בן עזאי מעשר את האלוליים לעצמם. הגמרא מזכירה את ״הכירא בחדש וישן״ ואת ״סקרתא״, ואת דברי בן עזאי על ״הקרח הזה״. בעמוד ב׳ היא עוברת לדין מעשה: מה נוטל מן האלוליים כשיש חמישה בכל אחד משלושה חודשים, ״עשירי ודאי ולא ספק״, כיצד מעשרים בפתח קטן ובשבט וסיקרא, ובמה נחלקו התנאים בנוטל עשרה ממאה בלי מנין, וטעמו של רבי יוסי ברבי יהודה מ״אומד ומחשבה״. הראשונים והאחרונים דנים בפירוש ״הקרח הזה״, בגדר ״מנין הראוי״ ובדין אומד בתרומה.",
+  "title": "סיכום — בכורות נ״ח"
+ },
+ "en": {
+  "overview": "The daf deals with the times of the animal tithe and the manner of performing it. On amud a the Gemara explains why three threshing floors were fixed before the festivals, what 'peras' means (fifteen days), where Rabbi Akiva and Ben Azzai differ over 29 Adar, 1 Sivan and 29 Elul, and why Ben Azzai tithes the Elul animals on their own. It brings up the 'distinction between new and old', the 'sakarta', and Ben Azzai's words about 'this bald one'. On amud b it turns to practice: what one takes from the Elul animals when there are five born in each of three months, 'a certain tenth and not a doubtful one', how one tithes with a small opening, a rod and sikra, the Tannaim's dispute over taking ten from a hundred without counting, and the reasoning of Rabbi Yosei son of Rabbi Yehuda from 'estimate and intent'. The Rishonim and Acharonim discuss the meaning of 'this bald one', the idea of the 'fitting count', and the law of estimate in terumah.",
+  "title": "Summary — Bekhorot 58"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "טבלה כגורן"
+   ],
+   "he": {
+    "term": "טבלה כגורן",
+    "explanation": "בהמה שהגיע זמן הגורן הקבוע לה אסור למכרה או לשחטה עד שיעשר, כאילו היא טבל. כשם שהגורן קובעת תבואה למעשר מן התורה, כך שלושת הימים הקבועים קובעים את הבהמות מדרבנן."
+   },
+   "en": {
+    "term": "Tevel ke-goren ('like a threshing floor')",
+    "explanation": "Once the fixed goren time arrives for animals, one may not sell or slaughter them until one tithes, as if they were tevel. Just as the threshing floor fixes grain for tithing by Torah law, these three fixed days fix animals, by Rabbinic law."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י (כתב יד)",
+     "en": "Rashi (Ktav Yad)"
+    },
+    "ref": "Ktav Yad Rashi on Bekhorot 58a:3:1",
+    "quote": "כך ימים הללו קובעים את הבהמות מדרבנן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "פרוס פלגא"
+   ],
+   "he": {
+    "term": "פרוס — פלגא",
+    "explanation": "״פרס״ בלשון המשנה הוא חצי. מכאן שהזמן שלפני הרגל הוא חצי מהשלושים יום שבהם שואלים ודורשים בהלכות הרגל, כלומר חמישה עשר יום."
+   },
+   "en": {
+    "term": "Paros / peras: a half",
+    "explanation": "In the Mishna's term 'peras' means a half. So the period before the festival is half of the thirty days in which one asks and expounds the festival's laws, that is, fifteen days."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 58a:4",
+    "quote": "פרוס פלגא. כדאמר כמה ישהה בבית המנוגע בכדי אכילת פרס וההוא פרס הוי פלגא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "בחדש וישן"
+   ],
+   "he": {
+    "term": "הכירא בחדש וישן",
+    "explanation": "צורך להבדיל בין בהמות שנולדו בשנה החדשה לאלו שנולדו בשנה הישנה, כדי שלא יבואו לעשר זה על זה. בגלל זה אין מעשרים ביום שלושים של אב, שאולי הוא ראש חודש אלול."
+   },
+   "en": {
+    "term": "Hekhera (a distinction) between new and old",
+    "explanation": "A need to distinguish between animals born in the new year and those born in the old, so that one does not tithe one on the other. For this reason one does not tithe on the thirtieth of Av, which may be Rosh Chodesh Elul."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 58a:9:2",
+    "quote": "היכירא בעינן למיעבד דלא ליתו לעשורי היום ולמחר חדש וישן בהדדי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "ראש השנה למעשר בהמה"
+   ],
+   "he": {
+    "term": "ראש השנה למעשר בהמה",
+    "explanation": "הזמן שבו מתחילה שנה חדשה לעניין מעשר בהמה. נחלקו רבי מאיר, שאומר באחד באלול, ורבי אלעזר ורבי שמעון, שאומרים באחד בתשרי; ובן עזאי מסופק ולכן מעשר את האלוליים לעצמם."
+   },
+   "en": {
+    "term": "New year for animal tithe",
+    "explanation": "The date a new year begins for animal tithing. Rabbi Meir says 1 Elul, and Rabbi Elazar and Rabbi Shimon say 1 Tishrei; Ben Azzai is in doubt and therefore tithes the Elul animals on their own."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י (כתב יד)",
+     "en": "Rashi (Ktav Yad)"
+    },
+    "ref": "Ktav Yad Rashi on Bekhorot 58a:8:1",
+    "quote": "שמא בא' באלול ר\"ה למעשר בהמה הו\"ל חדש וישן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "משום סקרתא"
+   ],
+   "he": {
+    "term": "סקרתא",
+    "explanation": "צבע אדום שבו סוקרים את הבהמה העשירית. כיוון שאסור לצבוע ביום טוב, אי אפשר לעשר בו."
+   },
+   "en": {
+    "term": "Sakarta (the red marking)",
+    "explanation": "The red dye with which the tenth animal is marked. Since dyeing is forbidden on a festival, one cannot tithe on it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 58a:13:1",
+    "quote": "בלע\"ז מצו\"א שצובעין העשירי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "עשירי ודאי אמר רחמנא ולא ספק"
+   ],
+   "he": {
+    "term": "עשירי ודאי ולא ספק",
+    "explanation": "התורה אמרה ״העשירי״, ולכן רק בהמה שהיא ודאי עשירית מתעשרת; אין מצרפים בהמות שנולדו לספק, ואין לוקחים בהמה שאולי אינה עשירית."
+   },
+   "en": {
+    "term": "A certain tenth, not a doubtful one",
+    "explanation": "The Torah says 'the tenth', so only an animal that is certainly the tenth is tithed; one does not join animals born in doubt, nor take an animal that may not be the tenth."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 58b:1",
+    "quote": "עשירי ודאי אמר רחמנא שלא נכנס לדיר מעולם"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "קפץ אחד מן המנויין"
+   ],
+   "he": {
+    "term": "מנין הראוי",
+    "explanation": "מי שיצא מן הדיר ונמנה כבר נפטר, גם אם אחר כך חזר לדיר. לכן כשקפץ אחד מן המנויים לתוך שעוד לא נמנו, כולם פטורים, שכל אחד מהם ספק אם הוא המנוי."
+   },
+   "en": {
+    "term": "Minyan hara'uy (the fitting count)",
+    "explanation": "One that already came out and was counted is exempted even if it later returned to the pen. So when one of the counted jumped in among the uncounted, all are exempt, since each is in doubt whether it is the counted one."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 58b:4",
+    "quote": "דמנויין שיצאו נפטרו במנין הראוי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "באומד ובמחשבה"
+   ],
+   "he": {
+    "term": "אומד ומחשבה",
+    "explanation": "אומד: מעריך בדעתו כמה יש בכרי ונוטל לפי הערכתו. מחשבה: מחשב ואומר שכמות מסוימת שיפריש תהיה תרומה, בלי למנות או למדוד."
+   },
+   "en": {
+    "term": "Omed u-machshavah (estimate and intent)",
+    "explanation": "Estimate: one assesses in his mind how much is in the heap and separates according to his assessment. Intent: one thinks and declares that a certain amount that he will later separate is terumah, without counting or measuring."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 58b:12:1",
+    "quote": "שמאמד בדעתו כך וכך יש בכרי הזה ולפי אומדנותו נוטל תרומה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "שלושת הגרנות: כדי שתהא בהמה מצויה לעולי רגלים",
+    "gemara": "הגמרא מסבירה שהזמנים שנקבעו למעשר בהמה (לפני הפסח, העצרת והחג) נועדו כדי שתהא בהמה מצויה לעולי רגלים. אף שעד שלא הגיע הגורן מותר למכור ולשחוט, נוח לאדם שתיעשה מצווה בממונו, ולכן ממתין, מעשר, ורק אחר כך מוכר ואוכל. הגורן נקרא כך משום ש״טבלה כגורן״.",
+    "halakha": "הרמב״ם (הלכות בכורות ז:ח) פוסק שמשיגיע זמן מהזמנים אסור למכור או לשחוט עד שיעשר, ואם שחט הרי זה מותר."
+   },
+   "en": {
+    "title": "The three 'threshing floors': so that animals will be available for the pilgrims",
+    "gemara": "The Gemara explains that the dates fixed for animal tithing (before Pesach, Shavuot and Sukkot) exist so that animals will be available to those going up for the festivals. Even though before the 'goren' one may sell and slaughter, a person prefers that a mitzva be done with his money, so he waits, tithes, and only then sells and eats. The date is called 'goren' because the animals are 'like tevel, like a threshing floor'.",
+    "halakha": "The Rambam (Firstlings 7:8) rules that once one of the times arrives it is forbidden to sell or slaughter until one tithes, but if one slaughtered it is permitted."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:1",
+     "quote": "לקנות לעולי רגלים דאחר שעישרום מוכרין אותן",
+     "he": "רבינו גרשום: כדי לקנות לעולי רגלים, שאחרי שמעשרים אותן מוכרים אותן.",
+     "en": "Rabbeinu Gershom: so that pilgrims can buy, since after tithing them they are sold."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:1:1",
+     "quote": "ונמצא שיהו בהמות מצויות לעולי רגלים ליקח מהן בין לאכילה בין לקרבנות",
+     "he": "רש״י: אנשים משהים את בהמתם עד זמן הגורן ואז מעשרים, ונמצא שהבהמות מצויות לעולי רגלים לקחת מהן בין לאכילה בין לקרבנות.",
+     "en": "Rashi: people hold their animals until the goren time and then tithe, so animals are available to pilgrims to buy for eating and for offerings."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58a:2:1",
+     "quote": "כיון שקבעו חכמים זמן דרך הוא להמתין עוד ולעשר הכל ביחד",
+     "he": "תוספות: אף שלפני הזמן אפשר לעשר ולשחוט ולמכור, מכיון שחכמים קבעו זמן, דרך האדם להמתין ולעשר הכל ביחד.",
+     "en": "Tosafot: although before the time one may tithe, slaughter and sell, once the Sages fixed a time it is customary to wait and tithe everything together."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:2:2",
+     "quote": "שהוא עצמו מקריב מעשרו ואוכלו שלמים",
+     "he": "רש״י (כתב יד): ״ניחא ליה לאינש דליעבד מצוה בממוניה״ — כי אין הוא חסר בכך כלום, שהוא עצמו מקריב את מעשרו ואוכלו שלמים.",
+     "en": "Rashi (Ktav Yad): 'a person prefers to do a mitzva with his money' because he loses nothing, since he himself offers his tithe and eats it as a shelamim."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:3",
+     "quote": "בטבל של דגן מדרבנן ולא מדאורייתא",
+     "he": "רבינו גרשום מציין כאן שהדין הוא מדרבנן ולא מדאורייתא.",
+     "en": "Rabbeinu Gershom notes here that this is Rabbinic law and not Torah law."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:3:1",
+     "quote": "כך ימים הללו קובעים את הבהמות מדרבנן",
+     "he": "רש״י (כתב יד): כשם שהגורן קובעת למעשר מן התורה, כך הימים הללו קובעים את הבהמות מדרבנן.",
+     "en": "Rashi (Ktav Yad): just as the threshing floor fixes grain for tithing by Torah law, so these days fix the animals, by Rabbinic law."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:8",
+     "quote": "כְּדֵי שֶׁתִּהְיֶינָה הַבְּהֵמוֹת מְצוּיוֹת לְעוֹלֵי רְגָלִים",
+     "he": "הרמב״ם: הגרנות נקבעו בימים אלו כדי שתהיינה הבהמות מצויות לעולי רגלים.",
+     "en": "The Rambam: the threshing floors were fixed on these days so that the animals would be available to those going up for the festivals."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:7",
+     "quote": "מֻתָּר לִמְכֹּר וְלִשְׁחֹט כָּל מַה שֶּׁיִּרְצֶה עַד שֶׁיְּעַשֵּׂר",
+     "he": "הרמב״ם (ז:ז): הטלאים הנולדים אינם כטבל שאסור לאכול ממנו; מותר למכור ולשחוט כל מה שירצה עד שיעשר.",
+     "en": "The Rambam (7:7): newborn lambs are not like tevel that may not be eaten; one may sell and slaughter as one wishes until one tithes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 58a:1",
+     "quote": "נראה שר\"ל שנוח לו לעשות מצוה בממונו לפי שמעשרת",
+     "he": "הגהות יעב״ץ: נראה שכוונת רש״י שנוח לו לעשות מצווה בממונו, לפי שהיא מעשרת.",
+     "en": "Haggahot Ya'avetz: it seems Rashi means that it is comfortable for him to do a mitzva with his money, since it enriches."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58a:5",
+     "quote": "וכוונתו להא דשבת (קיט) עשר בשביל שתתעשר",
+     "he": "הרש״ש: כוונת רש״י לדברי הגמרא בשבת (קיט) ״עשר בשביל שתתעשר״.",
+     "en": "The Rashash: Rashi's intent is the saying in Shabbat (119) 'tithe so that you will become rich'."
+    },
+    {
+     "who": {
+      "he": "מחצית השקל",
+      "en": "Machatzit HaShekel"
+     },
+     "ref": "Machatzit HaShekel on Orach Chayim 437:5:2",
+     "quote": "ומה\"ט קבעו חכמים ג' זמנים למעשר בהמה",
+     "he": "מחצית השקל מביא את הגמרא בבכורות נח ״ניחא ליה לאינש למיעבד מצוה בממוניה״, ומטעם זה קבעו חכמים שלושה זמנים למעשר בהמה.",
+     "en": "The Machatzit HaShekel cites Bekhorot 58 'a person prefers to do a mitzva with his money', and for this reason the Sages fixed three times for animal tithe."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 437:3:1",
+     "quote": "וע\"כ צ\"ל דוקא בדבר שאין בו חסרון כיס",
+     "he": "ביאור הגר״א: הכלל ״ניחא ליה לאינש דליעבד מצוה כו׳״ נאמר דוקא בדבר שאין בו חסרון כיס.",
+     "en": "Beur HaGra: the principle 'a person prefers to do a mitzva' must apply only to something involving no monetary loss."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    5
+   ],
+   "he": {
+    "title": "״פרס״: חמישה עשר יום, ומנין לכך",
+    "gemara": "המשנה קבעה את הגרנות ל״פרס״ הפסח, העצרת והחג. רבי יוסי ברבי יהודה פירש שאין פרס פחות מחמישה עשר יום. רבי אבהו לומד זאת מכך ש״פרוס״ הוא חצי: חצי מהלכות הפסח, שנתנו עליהן שלושים יום, כמו שנאמר בברייתא ששואלים ודורשים בהלכות פסח שלושים יום קודם הפסח. רבן שמעון בן גמליאל אומר שתי שבתות.",
+    "halakha": "השולחן ערוך (או״ח תכט:א) פוסק ששואלים בהלכות פסח קודם לפסח שלושים יום."
+   },
+   "en": {
+    "title": "'Peras': fifteen days, and its source",
+    "gemara": "The Mishna fixed the threshing floors at the 'peras' of Pesach, Shavuot and Sukkot. Rabbi Yosei son of Rabbi Yehuda explained that 'peras' is no less than fifteen days. Rabbi Abahu derives this from 'paros' meaning half: half of the thirty days given to the laws of Pesach, as the baraita says that one asks and expounds the laws of Pesach thirty days before Pesach. Rabban Shimon ben Gamliel says two weeks.",
+    "halakha": "The Shulchan Arukh (OC 429:1) rules that one asks about the laws of Pesach thirty days before Pesach."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:4",
+     "quote": "פרוס פלגא. כדאמר כמה ישהה בבית המנוגע בכדי אכילת פרס וההוא פרס הוי פלגא",
+     "he": "רבינו גרשום: ״פרוס״ הוא חצי, כמו ״כדי אכילת פרס״ בבית המנוגע, וגם אותו ״פרס״ הוא חצי.",
+     "en": "Rabbeinu Gershom: 'paros' means half, as in 'the time it takes to eat a peras' for the house with a lesion, where that 'peras' too is a half."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:5:2",
+     "quote": "ופלגא הרי ט\"ו יום",
+     "he": "רש״י: שלושים יום — וחציו הרי חמישה עשר יום.",
+     "en": "Rashi: thirty days, and half is fifteen days."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:5:1",
+     "quote": "פרוסה משמע דבר הפרוס לב' חלקים",
+     "he": "רש״י (כתב יד): ״פרוסה״ משמעה דבר שנחלק לשני חלקים.",
+     "en": "Rashi (Ktav Yad): 'prusa' implies something divided into two parts."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:5:2",
+     "quote": "והיינו נמי מהלכות הפסח דמעשרין לבהמות דליתחזי למיכל ברגל",
+     "he": "רש״י (כתב יד): גם מעשר הבהמות הוא מהלכות הפסח, כדי שיהיו הבהמות ראויות לאכילה ברגל.",
+     "en": "Rashi (Ktav Yad): tithing animals too is one of the laws of the festival, so that the animals will be fit to eat at the festival."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 429",
+     "quote": "שואלין ודורשין בהלכות פסח קודם הפסח שלשים יום",
+     "he": "הטור מביא את הברייתא: שואלין ודורשין בהלכות פסח קודם הפסח שלושים יום.",
+     "en": "The Tur cites the baraita: one asks and expounds the laws of Pesach thirty days before Pesach."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 429:1",
+     "quote": "שואלים בהלכות פסח קודם לפסח שלשים יום",
+     "he": "השולחן ערוך: שואלים בהלכות פסח קודם לפסח שלושים יום.",
+     "en": "The Shulchan Arukh: one asks about the laws of Pesach thirty days before Pesach."
+    },
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Vayikra 14:46:2",
+     "quote": "דלשון 'פרס' הוא חצי",
+     "he": "הגור אריה: לשון ״פרס״ הוא חצי (בכורות נח).",
+     "en": "The Gur Aryeh: the word 'peras' means a half (Bekhorot 58)."
+    },
+    {
+     "who": {
+      "he": "ביאור הלכה",
+      "en": "Biur Halacha"
+     },
+     "ref": "Biur Halacha 429:1:1",
+     "quote": "אכן בר\"ן פ\"ק דפסחים ופ\"ק דמגילה אמר דמה שאמר שואלין היינו דבזה הזמן אם באו ב' תלמידים ואחד שאל בהלכות פסח נזקקין לו קודם",
+     "he": "הביאור הלכה מביא שהר״ן הבין ש״שואלין״ פירושו שבזמן הזה, אם באו שני תלמידים ואחד שאל בהלכות פסח, נזקקים לו תחילה.",
+     "en": "The Biur Halacha reports that the Ran understood 'one asks' to mean that in this period, if two students came and one asked about the laws of Pesach, he is attended to first."
+    },
+    {
+     "who": {
+      "he": "מגן אברהם",
+      "en": "Magen Avraham"
+     },
+     "ref": "Magen Avraham 429:1",
+     "quote": "וה\"ה בשאר י\"ט דורשין קודם לכן ל' יום",
+     "he": "המגן אברהם: הוא הדין בשאר ימים טובים, שדורשין קודם לכן שלושים יום.",
+     "en": "The Magen Avraham: the same applies to other festivals, that one expounds thirty days before."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Megillah 4a:5",
+     "quote": "דבכל י\"ט בעינן ל' יום היינו דוקא לדרוש הל' י\"ט",
+     "he": "הפני יהושע: לשיטת התוספות שבכל יום טוב צריך שלושים יום, הכוונה דוקא לדרוש את הלכות החג.",
+     "en": "The Penei Yehoshua: even on the view of Tosafot that every festival needs thirty days, it means specifically to expound the laws of the festival."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    7
+   ],
+   "he": {
+    "title": "רבי עקיבא ובן עזאי: כ״ט באדר או י״ד יום קודם?",
+    "gemara": "בן עזאי אומר: בעשרים ותשעה באדר, באחד בסיוון. במה נחלקו? רבי עקיבא סבר שאדר הסמוך לניסן פעם מלא ופעם חסר, ולכן פעם הפרוס נופל ביום שלושים ופעם בעשרים ותשעה ולא נקבע לו זמן. בן עזאי סבר שאדר הסמוך לניסן תמיד חסר, ולכן קבוע לו זמן בעשרים ותשעה באדר. באחד בסיוון — מפני שהבהמות הנולדות אז מעטות, ואילו היו מעשרים מוקדם, היו נאכלות עד שמגיע הרגל.",
+    "halakha": "הרמב״ם (קידוש החודש ח:ה) מונה: ״אדר חסר ניסן מלא״; ובהלכות בכורות (ז:ח) הוא מונה את הגרנות ביום האחרון של אדר, בשלושים וחמישה לעומר ובאחרון אלול."
+   },
+   "en": {
+    "title": "Rabbi Akiva and Ben Azzai: 29 Adar, or fifteen days before?",
+    "gemara": "Ben Azzai says: on 29 Adar and on 1 Sivan. What do they dispute? Rabbi Akiva holds the Adar next to Nisan is sometimes full and sometimes defective, so the 'peras' sometimes falls on the 30th and sometimes on the 29th and no date is fixed for it. Ben Azzai holds that the Adar next to Nisan is always defective, so a fixed date, 29 Adar, is set. On 1 Sivan: because few animals are born then, were one to tithe earlier they would be eaten before the festival arrives.",
+    "halakha": "The Rambam (Sanctification of the New Month 8:5) lists 'Adar defective, Nisan full'; and in Firstlings 7:8 he sets the threshing floors on the last day of Adar, the thirty-fifth day of the Omer and the last day of Elul."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:5",
+     "quote": "זמנין דמקלע הגורן ביום שלשים של אדר כשהוא מלא",
+     "he": "רבינו גרשום: לפעמים הגורן נופל ביום שלושים של אדר כשהוא מלא, ולפעמים בעשרים ותשעה כשהוא חסר, ולכן רבי עקיבא לא קבע לו זמן.",
+     "en": "Rabbeinu Gershom: sometimes the goren falls on the thirtieth of Adar when it is full, and sometimes on the twenty-ninth when it is defective, so Rabbi Akiva set no fixed time."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:6:2",
+     "quote": "זימנין דמיקלע ביום ל' - כי הוי אדר מלא",
+     "he": "רש״י: לפעמים נופל ביום שלושים כשאדר מלא.",
+     "en": "Rashi: sometimes it falls on the thirtieth, when Adar is full."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:6:3",
+     "quote": "לא קביע ליה זמן - באיזה יום של אדר איירי",
+     "he": "רש״י: ״לא קביע ליה זמן״ — באיזה יום של אדר מדובר.",
+     "en": "Rashi: 'no time is fixed for it' — on which day of Adar it applies."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:7:1",
+     "quote": "דלא נפישי - בהמות דנולדו מפרוס הפסח עד אותו זמן להכי לא מקדים ומעשר ט\"ו ימים קודם הרגל",
+     "he": "רש״י: מעטות הבהמות שנולדו מפרוס הפסח עד אז, ולכן אינו מקדים לעשר חמישה עשר יום קודם הרגל.",
+     "en": "Rashi: few animals were born from the Pesach 'peras' until then, so one does not tithe fifteen days before the festival."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:7",
+     "quote": "אי אמרת ליקדום למעשר ליעשרינהו ט\"ו יום קודם שלמי להו קמי רגל",
+     "he": "רבינו גרשום: אילו הקדימו לעשר חמישה עשר יום קודם, היו הבהמות נאכלות עד הרגל ולא תהיה בהמה מצויה לעולי רגלים בעצרת.",
+     "en": "Rabbeinu Gershom: if they tithed fifteen days earlier the animals would be finished before the festival, and animals would not be available for pilgrims at Shavuot."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 8:5",
+     "quote": "אֲדָר חָסֵר נִיסָן מָלֵא",
+     "he": "הרמב״ם בסדר החדשים המלאים והחסרים: ״אדר חסר ניסן מלא״.",
+     "en": "The Rambam in his ordering of full and defective months: 'Adar defective, Nisan full'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Shekalim 3:1:2",
+     "quote": "בפרס הפסח ט\"ו הוי קודם הפסח דהיינו יום כ\"ט באדר לדידן דקיימא לן דלעולם אדר הסמוך לניסן חסר",
+     "he": "מלאכת שלמה: פרס הפסח, חמישה עשר יום קודם הפסח, הוא יום כ״ט באדר לדידן, שקיימא לן שאדר הסמוך לניסן חסר תמיד.",
+     "en": "Melekhet Shelomoh: the Pesach 'peras', fifteen days before Pesach, is 29 Adar according to us, since we hold that the Adar next to Nisan is always defective."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58a:6",
+     "quote": "תימה א\"כ מדוע לא אחרו מא' בניסן",
+     "he": "הרש״ש מקשה על דברי רש״י: תימה, אם כן מדוע לא אחרו מאחד בניסן.",
+     "en": "The Rashash, on Rashi's comment, asks: it is surprising — if so, why did they not postpone from 1 Nisan?"
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    13
+   ],
+   "he": {
+    "title": "אלול: ״הכירא בחדש וישן״ ו״משום סקרתא״",
+    "gemara": "בן עזאי הולך לשיטתו שהאלולים מתעשרים בפני עצמם. מדוע לא מעשרים ביום שלושים של אב? לפעמים אב חסר, ואנו צריכים לעשות הכירא בחדש וישן. רבי אלעזר ורבי שמעון אומרים באחד בניסן, באחד בסיוון ובעשרים ותשעה באלול, כי לדעתם באחד בתשרי ראש השנה למעשר בהמה. מדוע לא באחד בתשרי? הגמרא: ״חדא ועוד קאמר״ — צריך הכירא בחדש וישן, ובנוסף אי אפשר לעשר ביום טוב משום סקרתא.",
+    "halakha": "הרמב״ם (בכורות ז:ח) קובע גורן ״ביום אחרון מחודש אלול״."
+   },
+   "en": {
+    "title": "Elul: 'a distinction between new and old' and 'because of the sakarta'",
+    "gemara": "Ben Azzai follows his own view that the Elul births are tithed on their own. Why not tithe on the 30th of Av? Sometimes Av is defective, and we need to make a distinction between new and old. Rabbi Elazar and Rabbi Shimon say 1 Nisan, 1 Sivan and 29 Elul, since in their view 1 Tishrei is the new year for animal tithe. Why not on 1 Tishrei? The Gemara: 'he said one and more' — a distinction between new and old is needed, and in addition one cannot tithe on a festival because of the sakarta.",
+    "halakha": "The Rambam (Firstlings 7:8) sets a goren 'on the last day of the month of Elul'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:8",
+     "quote": "בן עזאי לטעמיה. כדאמר לקמן במתני' האלוליים מתעשרין לעצמן",
+     "he": "רבינו גרשום: בן עזאי לטעמיה, כמו שנאמר להלן במשנה, שהאלוליים מתעשרים לעצמם.",
+     "en": "Rabbeinu Gershom: Ben Azzai follows his reasoning, as stated below in the Mishna, that the Elul animals are tithed on their own."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:8:1",
+     "quote": "ומדמספקא ליה אימת ר\"ה אלול או תשרי מתעשרין האלוליים לעצמן",
+     "he": "רש״י (כתב יד): מכיוון שמסופק לבן עזאי מתי ראש השנה, באלול או בתשרי, מתעשרים האלוליים לעצמם.",
+     "en": "Rashi (Ktav Yad): since Ben Azzai is unsure when the new year is, Elul or Tishrei, the Elul animals are tithed on their own."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:9",
+     "quote": "ואי הוי מעשרינהו ביום שלשים לא יהוי היכירא בין חדש לישן",
+     "he": "רבינו גרשום: אילו היו מעשרים ביום שלושים, לא היה היכר בין חדש לישן.",
+     "en": "Rabbeinu Gershom: if they tithed on the thirtieth there would be no distinction between new and old."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:9:2",
+     "quote": "היכירא בעינן למיעבד דלא ליתו לעשורי היום ולמחר חדש וישן בהדדי",
+     "he": "רש״י: צריך לעשות היכר כדי שלא יבואו לעשר היום ולמחר חדש וישן יחד.",
+     "en": "Rashi: a distinction must be made so that they will not come to tithe today and tomorrow new and old together."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:12:1",
+     "quote": "ולהכי לא מצי לאחורי מלעשר טפי מיום אחרון של אלול דבעינן היכירא בין חדש לישן",
+     "he": "רש״י: לכן אי אפשר לאחר את המעשר מעבר ליום האחרון של אלול, כי צריך היכר בין חדש לישן.",
+     "en": "Rashi: therefore one cannot delay the tithing past the last day of Elul, since a distinction between new and old is needed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:13:1",
+     "quote": "בלע\"ז מצו\"א שצובעין העשירי",
+     "he": "רש״י: ״סקרתא״ — בלעז מצו״א, שצובעים בו את העשירי.",
+     "en": "Rashi: 'sakarta' is, in the vernacular, 'mezo'a', with which the tenth is dyed."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:13:1",
+     "quote": "ואסור לצבוע בי\"ט דא\"כ מלאכה הוא",
+     "he": "רש״י (כתב יד): ואסור לצבוע ביום טוב, שהרי זו מלאכה.",
+     "en": "Rashi (Ktav Yad): and it is forbidden to dye on a festival, since that is a forbidden act of work."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58a:13:1",
+     "quote": "לא הייתי אוסר להקריבו שמא יבא להקדישו דהיינו גזירה לגזירה",
+     "he": "תוספות מקשים: תיפוק ליה משום שאין מקדישין ביום טוב. ומשיבים שלא היו אוסרים להקריבו שמא יבוא להקדישו, שזו גזירה לגזירה.",
+     "en": "Tosafot ask: why not derive it from the rule that one may not sanctify on a festival? They answer that one would not forbid offering it lest he come to sanctify it, which would be a decree upon a decree."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Chagigah 8a:7:1",
+     "quote": "הקשה הר\"ר אלחנן תיפוק ליה דאין מקדישין ביו\"ט",
+     "he": "תוספות בחגיגה: רבי אלחנן הקשה: תיפוק ליה שאין מקדישין ביום טוב.",
+     "en": "Tosafot on Chagigah: Rabbi Elchanan asked: why not derive it from the fact that one may not sanctify on a festival?"
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Chagigah 8a:7:1",
+     "quote": "שצובעו דתנן בבכורות (דף נח:) היוצא בעשירי סוקרו בסיקרא",
+     "he": "רש״י בחגיגה: ״משום סקרתא״ — שצובעו, כמו ששנינו בבכורות שהיוצא עשירי סוקרו בסיקרא.",
+     "en": "Rashi on Chagigah: 'because of the sakarta' — that one dyes it, as we learned in Bekhorot that the one that comes out tenth he marks with sikra."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58a:8",
+     "quote": "נראה דר\"ל דנהי דטעם דאין מקדישין ביו\"ט סגי לאסור לעשר",
+     "he": "הרש״ש, על דברי התוספות: נראה שכוונתם שאמנם הטעם של אין מקדישין ביום טוב מספיק כדי לאסור לעשר.",
+     "en": "The Rashash, on Tosafot: it seems they mean that although the reason 'one may not sanctify on a festival' suffices to forbid tithing."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    16
+   ],
+   "he": {
+    "title": "ספקו של בן עזאי: ״ליחזי טעמיה דמאן מסתבר״",
+    "gemara": "בן עזאי אומר: הואיל והללו אומרים כך והללו אומרים כך — האלוליים מתעשרים לעצמם. הגמרא שואלת: נראה את טעמו של מי מסתבר! ומשיבה בדברי בן עזאי: ״כל חכמי ישראל דומין עלי כקליפת השום חוץ מן הקרח הזה״. רבי יוחנן מסביר: מפי השמועה אמרוה, מפי חגי זכריה ומלאכי."
+   },
+   "en": {
+    "title": "Ben Azzai's doubt: 'let us see whose reasoning is more convincing'",
+    "gemara": "Ben Azzai says: since these say one thing and those another, the Elul animals are tithed on their own. The Gemara asks: let us see whose reasoning is more convincing! And replies with Ben Azzai's saying: 'all the sages of Israel are to me like a garlic peel, except for this bald one'. Rabbi Yochanan explains: they said it from the mouth of tradition, from Haggai, Zechariah and Malachi."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:12",
+     "quote": "משום הכי אמינא דהאלוליים יתעשרו לעצמן מספיקא דלא ידעינן כמאן",
+     "he": "רבינו גרשום: לכן אומר בן עזאי שהאלוליים יתעשרו לעצמם, מספק, כי איננו יודעים כמי ההלכה.",
+     "en": "Rabbeinu Gershom: therefore Ben Azzai says the Elul animals are tithed on their own, from doubt, since we do not know in whose view the law lies."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:14:1",
+     "quote": "דלא ידעינן בהדי דמאן לצרפינהו",
+     "he": "רש״י (כתב יד): אין אנו יודעים עם אלו של מי לצרף אותם.",
+     "en": "Rashi (Ktav Yad): we do not know with whose to join them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:14",
+     "quote": "היינו ר' עקיבא דרבי יהושע בן קרחה היינו בנו של ר' עקיבא",
+     "he": "רבינו גרשום: ״הקרח הזה״ הוא רבי עקיבא, ורבי יהושע בן קרחה הוא בנו של רבי עקיבא.",
+     "en": "Rabbeinu Gershom: 'this bald one' is Rabbi Akiva, and Rabbi Yehoshua ben Karcha is Rabbi Akiva's son."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:15:1",
+     "quote": "אלמא דבן עזאי היה חכם גדול והיה יודע להבחין איזה טעם יפה",
+     "he": "רש״י: מכאן שבן עזאי היה חכם גדול ויודע להבחין איזה טעם יפה, וכך היה יכול לעמוד על טעמיהם.",
+     "en": "Rashi: this shows that Ben Azzai was a great sage who knew how to tell which reasoning is good."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58a:15:1",
+     "quote": "וקשה מי סני ליה להזכיר ר\"ע בשמו שמזכירו בלשון גנאי",
+     "he": "תוספות על פירוש רש״י: וקשה, וכי שנוא היה עליו להזכיר את רבי עקיבא בשמו, שהוא מזכירו בלשון גנאי?",
+     "en": "Tosafot, on Rashi's explanation: it is difficult — did he hate to mention Rabbi Akiva by name that he mentions him in a term of disparagement?"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Batra 113a:6:1",
+     "quote": "אומר ר\"י דקרחה הוא רבי עקיבא שהיה קרח",
+     "he": "תוספות בבבא בתרא: אומר ר״י ש״קרחה״ הוא רבי עקיבא שהיה קרח.",
+     "en": "Tosafot on Bava Batra: Rabbeinu Yitzchak says 'Karcha' is Rabbi Akiva, who was bald."
+    },
+    {
+     "who": {
+      "he": "רשב״ם",
+      "en": "Rashbam"
+     },
+     "ref": "Rashbam on Pesachim 112a:8:1",
+     "quote": "הוא בן ר\"ע שרבי עקיבא קרח היה",
+     "he": "הרשב״ם בפסחים: רבי יהושע בן קרחה הוא בנו של רבי עקיבא, שרבי עקיבא קרח היה.",
+     "en": "The Rashbam on Pesachim: Rabbi Yehoshua ben Karcha is Rabbi Akiva's son, since Rabbi Akiva was bald."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58a:16:1",
+     "quote": "דבין ר\"מ ור\"א ור\"ש אמרי מילתייהו מפי השמועה",
+     "he": "רש״י: כל אחד מרבי מאיר, רבי אלעזר ורבי שמעון אמר את דבריו מפי השמועה.",
+     "en": "Rashi: Rabbi Meir, Rabbi Elazar and Rabbi Shimon each said their words from the mouth of tradition."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58a:16:1",
+     "quote": "וכיון דנבואה היא כהילכתא בלא טעמא היא",
+     "he": "תוספות על פירוש רש״י: מכיוון שזו נבואה, היא כהלכה בלא טעם.",
+     "en": "Tosafot, on Rashi's explanation: since it is prophecy, it is like a halakha with no stated reason."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:15",
+     "quote": "הני תנאי והוי כנבואה הילכך לא מצי קאי אטעמא",
+     "he": "רבינו גרשום: אלו תנאים והדברים כנבואה, ולכן אי אפשר לעמוד על הטעם.",
+     "en": "Rabbeinu Gershom: these are Tannaim and it is like prophecy, so one cannot stand on the reasoning."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Bekhorot 58a:1",
+     "quote": "דידוע דחכמי ישראל היו מתרעמים על בן עזאי שלא נשא אשה",
+     "he": "הבן יהוידע מסביר את דברי בן עזאי על פי כך שחכמי ישראל היו מתרעמים עליו שלא נשא אשה.",
+     "en": "The Ben Yehoyada explains Ben Azzai's words on the basis that the sages of Israel were upset with him for not having married."
+    },
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Bekhorot 58a:1",
+     "quote": "אבל התוספות הקשו בזה קושיות חזקות",
+     "he": "מראית העין מביא את פירוש רש״י על ״הקרח הזה״ ומציין שהתוספות הקשו בזה קושיות חזקות.",
+     "en": "The Marit HaAyin cites Rashi on 'this bald one' and notes that Tosafot raised strong difficulties with it."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Berakhot 2:2:2",
+     "quote": "י\"מ דר\"ע קרוי קרחה שהיה קרח",
+     "he": "מלאכת שלמה: יש מפרשים שרבי עקיבא קרוי ״קרחה״ מפני שהיה קרח.",
+     "en": "Melekhet Shelomoh: some explain that Rabbi Akiva is called 'Karcha' because he was bald."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    17,
+    3
+   ],
+   "he": {
+    "title": "מה נפקא מינה למעשה: חמישה באב, באלול ובתשרי",
+    "gemara": "הברייתא: נולדו חמישה באב וחמישה באלול — אין מצטרפין; חמישה באלול וחמישה בתשרי — אין מצטרפין; חמישה בתשרי וחמישה באב (של השנה הבאה) — מצטרפין. אף שפשיטא, הגמרא אומרת שהחידוש הוא שכשם שמפסיקות השנים, לא מפסיקות הגרנות. רבא: לדברי בן עזאי, נולדו לו חמישה בכל אחד משלושת החודשים — כונסן לדיר, נוטל אחד מן האלוליים והשאר פטורים, שמכל צד העשירי ודאי: אם אחד באלול ראש השנה, אלול ותשרי מצטרפין; ואם אחד בתשרי ראש השנה, אב ואלול מצטרפין. ולא אומרים שיצטרפו לגורן אחר, ״עשירי ודאי אמר רחמנא ולא ספק״."
+   },
+   "en": {
+    "title": "The practical case: five born in Av, in Elul and in Tishrei",
+    "gemara": "The baraita: if five were born in Av and five in Elul — they do not join; five in Elul and five in Tishrei — they do not join; five in Tishrei and five in Av (of the following year) — they join. Though it seems obvious, the Gemara says the novelty is that just as years separate, one might think threshing floors separate. Rava: according to Ben Azzai, if five were born in each of the three months, he brings them into the pen, takes one from the Elul ones, and the rest are exempt, since either way it is a certain tenth: if 1 Elul is the new year, Elul and Tishrei join; if 1 Tishrei is, Av and Elul join. And we do not say they should join another goren, since 'the Torah said a certain tenth, not a doubtful one'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58a:18",
+     "quote": "ראשי שנים דאין מעשרין מחדש על הישן הכי מפסקי גרנות",
+     "he": "רבינו גרשום: כשם שראשי שנים מפסיקים, שאין מעשרים מחדש על הישן, כך מפסיקות הגרנות.",
+     "en": "Rabbeinu Gershom: just as new years separate, since one does not tithe new on old, so the threshing floors separate."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:18:2",
+     "quote": "לבן עזאי דהכא איכא ב' גרנות בין תשרי לאב הבא",
+     "he": "רש״י (כתב יד): לבן עזאי יש כאן שתי גרנות בין תשרי לאב הבא.",
+     "en": "Rashi (Ktav Yad): according to Ben Azzai there are two threshing floors between Tishrei and the coming Av."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58a:20:1",
+     "quote": "אבל הכא ודאי איכא עשר דחיוב דודאי הוא",
+     "he": "רש״י (כתב יד): בניגוד לחמישה של אב וחמישה של אלול שאינם מצטרפים, כאן ודאי יש עשרה שחייבים.",
+     "en": "Rashi (Ktav Yad): unlike five of Av and five of Elul, which do not join, here there are certainly ten that are obligated."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:1:1",
+     "quote": "ולא שיכוין ויוציאנו בעשירי",
+     "he": "רש״י: ״ונוטל אחד מן האלולין״ — אבל לא שיכוון ויוציאו בעשירי.",
+     "en": "Rashi: 'he takes one of the Elul ones' — but not that he aims to bring it out tenth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:1:2",
+     "quote": "ודאב פטורין - דליכא מאותה שנה אלא חמשה",
+     "he": "רש״י: ״ודאב פטורין״ — כי אין מאותה שנה אלא חמישה.",
+     "en": "Rashi: 'those of Av are exempt' — since there are only five from that year."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:1",
+     "quote": "עשירי ודאי אמר רחמנא שלא נכנס לדיר מעולם",
+     "he": "רבינו גרשום: ״עשירי ודאי אמר רחמנא״ — כזה שלא נכנס לדיר מעולם.",
+     "en": "Rabbeinu Gershom: 'a certain tenth the Torah said' — one that never entered the pen before."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:2:1",
+     "quote": "לא אפשר משום דעשירי ודאי אמר רחמנא דיהיה קודש ולא ספק",
+     "he": "רש״י: לא אפשר משום שעשירי ודאי אמר רחמנא שיהיה קודש, ולא ספק.",
+     "en": "Rashi: it is not possible, because the Torah said a certain tenth shall be holy, and not a doubtful one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:3:1",
+     "quote": "דשמא אלול ר\"ה וליכא משנה שעברה אלא ה'",
+     "he": "רש״י: אם יטול מאלו של אב, שמא אלול ראש השנה, ואין משנה שעברה אלא חמישה.",
+     "en": "Rashi: if one takes from those of Av, perhaps Elul is the new year, and there are only five from the previous year."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58b:1:1",
+     "quote": "ואין שייך לאסור כאן משום לא יבקר",
+     "he": "תוספות: ואין שייך לאסור כאן משום ״לא יבקר״.",
+     "en": "Tosafot: it is not applicable to forbid here on account of 'he shall not inspect'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:3",
+     "quote": "אפשר שירביצן או שיעמידן לאלוליים כדי שיהו ניכרין לו",
+     "he": "רבינו גרשום: אין לחשוש, שהרי אפשר שירביץ או יעמיד את האלוליים כדי שיהיו ניכרים לו, ולא יבוא ליטול מאחרים.",
+     "en": "Rabbeinu Gershom: there is nothing to fear, since he can make the Elul ones lie or stand so they are recognizable, and he will not take from the others."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yoma 74a:9:2",
+     "quote": "ואע\"ג דאמר פ\"ט דבכורות (דף נח:) עשירי ודאי ולא עשירי ספק",
+     "he": "תוספות ביומא מביאים את הכלל מבכורות: עשירי ודאי ולא עשירי ספק.",
+     "en": "Tosafot on Yoma cite the rule from Bekhorot: a certain tenth, not a doubtful tenth."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Shekalim 3:1:3:3",
+     "quote": "ורבא בבכורות דף נח פליג אדהכא",
+     "he": "מראה הפנים על הירושלמי: רבא בבכורות נח חולק על הנאמר כאן.",
+     "en": "Mareh HaPanim on the Yerushalmi: Rava in Bekhorot 58 disagrees with what is said here."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Yoreh Deah 196:7",
+     "quote": "דאין מקום ללמוד ספק בכור מספק מעשר",
+     "he": "הנודע ביהודה: אין מקום ללמוד דין ספק בכור מספק מעשר.",
+     "en": "The Noda BiYehudah: there is no basis to learn the law of a doubtful firstborn from a doubtful tithe."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura IV 3:151:5",
+     "quote": "דבעינין עשירי ודאי ולא ספק ואם כן גם רוב לא מועיל",
+     "he": "השואל ומשיב: מכיון שצריך עשירי ודאי ולא ספק, אם כן גם רוב לא מועיל.",
+     "en": "The Shoel uMeshiv: since a certain tenth is needed, not a doubtful one, even a majority does not help."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 6:16:1",
+     "quote": "עשירי ודאי ולא עשירי ספק",
+     "he": "ההר המוריה מציין על הרמב״ם את הכלל: עשירי ודאי ולא עשירי ספק (בכורות נח ב).",
+     "en": "The Har HaMoriyah notes on the Rambam the rule: a certain tenth and not a doubtful tenth (Bekhorot 58b)."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    8
+   ],
+   "he": {
+    "title": "כיצד מעשרין: דיר, פתח קטן, שבט וסיקרא",
+    "gemara": "המשנה והברייתא: כונסן לדיר ועושה פתח קטן שלא יצאו שניים כאחד, ומעמיד אימותיהן מבחוץ והן גועות והטלאים יוצאים לקראתן; מונים אחד עד תשעה והיוצא עשירי סוקרו בסיקרא ואומר ״הרי זה מעשר״. הגמרא שואלת: למה לא יוציאום בעצמו? ״יעבור״ כתיב ולא שיעבירוהו. ולמה לא ישליך להם ירק? אמר רב הונא: גזירה משום לקוח ומשום יתום.",
+    "halakha": "הרמב״ם (בכורות ז:א) פוסק את כל הדין כמשנה, כולל שאם לא סקרו בסיקרא ולא מנאן בשבט או שמנאן רבוצים או עומדים — הרי אלו מעשר."
+   },
+   "en": {
+    "title": "How one tithes: the pen, the small opening, the rod and the sikra",
+    "gemara": "The Mishna and baraita: he brings them into the pen and makes a small opening so that two cannot go out together, and stands their mothers outside; they bleat and the lambs come out toward them. He counts one to nine and the tenth to come out he marks with sikra, saying 'this is the tithe'. The Gemara asks: why not take them out himself? The verse says 'passes', not that he makes them pass. And why not throw them greens? Rav Huna: a decree because of a purchased animal and an orphan.",
+    "halakha": "The Rambam (Firstlings 7:1) rules the whole law as the Mishna, including that if he did not mark with sikra, did not count with the rod, or counted them lying or standing — they are tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:4:1",
+     "quote": "שאם היו יוצאים כאחד יהיו תשיעי ועשירי מקולקלין",
+     "he": "רש״י: ״לצאת כאחד״ — שאם היו יוצאים כאחד יהיו התשיעי והעשירי מקולקלים.",
+     "en": "Rashi: 'to go out as one' — for if they went out together the ninth and tenth would be spoiled."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:6",
+     "quote": "גזירה משום לקוח ויתום להכי מעמיד אימן בחוץ",
+     "he": "רבינו גרשום: ״גזירה משום לקוח ויתום״ — ולכן מעמיד את אימן בחוץ.",
+     "en": "Rabbeinu Gershom: 'a decree because of a purchased animal and an orphan' — that is why he stands their mothers outside."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:8:1",
+     "quote": "יתום - שמתה אמו קודם שנולד",
+     "he": "רש״י: ״יתום״ — שמתה אמו קודם שנולד.",
+     "en": "Rashi: 'orphan' — one whose mother died before it was born."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58b:8:1",
+     "quote": "ירק עשב יטיל להם בחוץ ויצאו אחריו",
+     "he": "רש״י (כתב יד): ״ירקא״ — עשב שיטיל להם בחוץ ויצאו אחריו.",
+     "en": "Rashi (Ktav Yad): 'yarka' — grass he would throw to them outside so they would come out after it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:32:1",
+     "quote": "מוֹצִיאָן בַּפֶּתַח זֶה אַחַר זֶה",
+     "he": "רש״י על הפסוק ״תחת השבט״: כשבא לעשרן, מוציאן בפתח זה אחר זה והעשירי מכה בשבט צבוע.",
+     "en": "Rashi on 'under the rod': when he comes to tithe them, he takes them out through the opening one after another."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:1",
+     "quote": "וְאִמּוֹתֵיהֶן מַעֲמִיד מִבַּחוּץ. וְהֵן גּוֹעוֹת שֶׁיִּשְׁמְעוּ הַטְּלָאִים קוֹלָן",
+     "he": "הרמב״ם: מעמיד את אימותיהן מבחוץ, והן גועות כדי שישמעו הטלאים את קולן ויצאו מן הדיר לקראתן.",
+     "en": "The Rambam: he stands their mothers outside, and they bleat so the lambs will hear their voice and come out of the pen toward them."
+    },
+    {
+     "who": {
+      "he": "ספר החינוך",
+      "en": "Sefer HaChinukh"
+     },
+     "ref": "Sefer HaChinukh 360:1",
+     "quote": "כְּדֵי שֶׁיִּשְׁמְעוּ הַטְּלָאִים קוֹלָם וְיֵצְאוּ מִן הַדִּיר לִקְרָאתָם מֵעַצְמָם וְלֹא מִכֹּחַ אַחֵר",
+     "he": "ספר החינוך: כדי שישמעו הטלאים את קולם ויצאו מן הדיר לקראתם מעצמם ולא מכוח אחר.",
+     "en": "Sefer HaChinukh: so that the lambs hear their voice and come out of the pen toward them of themselves and not by another's force."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 6:14",
+     "quote": "וְכֵן הַיָּתוֹם שֶׁמֵּתָה אִמּוֹ אוֹ נִשְׁחֲטָה עִם לֵידָתוֹ אֵינוֹ מִתְעַשֵּׂר",
+     "he": "הרמב״ם: יתום שמתה אמו או נשחטה עם לידתו אינו מתעשר.",
+     "en": "The Rambam: an orphan whose mother died or was slaughtered at its birth is not tithed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גליון הש״ס",
+      "en": "Gilyon HaShas"
+     },
+     "ref": "Gilyon HaShas on Bekhorot 58b:1",
+     "quote": "גזירה משום לקוח. לעיל נג ע\"א",
+     "he": "גליון הש״ס מציין ל״גזירה משום לקוח״: לעיל נג ע״א.",
+     "en": "Gilyon HaShas refers 'a decree because of a purchased animal' to above, 53a."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58b:3",
+     "quote": "כצ\"ל וכ\"ה במשניות",
+     "he": "הרש״ש מציע שהמשנה צריכה לקרוא ״כדי שלא יהו שנים יכולין לצאת כאחת ומונה בשבט״, וכך הוא במשניות.",
+     "en": "The Rashash proposes that the Mishna should read 'so that two cannot go out as one, and he counts with the rod', and so it is in the Mishnayot."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 58b:1",
+     "quote": "במשנה הרי אלו מעושרין כצ\"ל",
+     "he": "הגהות יעב״ץ: במשנה צריך להיות ״הרי אלו מעושרין״.",
+     "en": "Haggahot Ya'avetz: in the Mishna it should read 'these are tithed'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    10
+   ],
+   "he": {
+    "title": "הדרשות: ״תחת״, ״העשירי קדש״ ו״עשירי״, ורבי יוסי ברבי יהודה",
+    "gemara": "״כל אשר יעבור תחת״ — פרט לטרפה שאינה עוברת תחת השבט. מצוה למנותן בשבט; לא מנאן בשבט או שמנאן רבוצים או עומדים — ״העשירי קדש״ מכל מקום. לא קרא שמו ״עשירי״ — ״יהיה קדש״ מכל מקום. היו לו מאה ונטל עשרה, או עשרה ונטל אחד — אין זה עשירי; ורבי יוסי ברבי יהודה אומר: מעשר.",
+    "halakha": "הכסף משנה על הרמב״ם (בכורות ז:א) כותב שהרמב״ם פוסק כתנא קמא, שהנוטל עשרה מתוך מאה בלי מנין אין זה מעשר."
+   },
+   "en": {
+    "title": "The derashot: 'under', 'the tenth shall be holy' and 'tenth'; and Rabbi Yosei son of Rabbi Yehuda",
+    "gemara": "'Whatever passes under' — excluding a terefa, which cannot pass under the rod. It is a mitzva to count them with the rod; if he did not count with the rod, or counted them lying or standing — 'the tenth shall be holy' in any case. If he did not call it 'tenth' — 'shall be holy' in any case. If he had a hundred and took ten, or ten and took one — this is not a tenth; Rabbi Yosei son of Rabbi Yehuda says: it is tithe.",
+    "halakha": "The Kessef Mishneh on the Rambam (Firstlings 7:1) writes that the Rambam rules like the first Tanna, that taking ten from a hundred without counting is not a tithe."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:9:1",
+     "quote": "טריפה אינה עוברת - כגון שנשברו רגליה מן הארכובה ולמעלה",
+     "he": "רש״י: טרפה שאינה עוברת — כגון שנשברו רגליה מן הארכובה ולמעלה.",
+     "en": "Rashi: a terefa that cannot pass — for example one whose legs were broken from the knee up."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:5:1",
+     "quote": "כלומר שלא מנאן אחד שנים ג' אלא י' בבת אחת נטל בכל פעם ופעם",
+     "he": "רש״י: ״ונטל עשרה עשרה״ — שלא מנאן אחד שניים שלושה אלא נטל עשרה בבת אחת בכל פעם.",
+     "en": "Rashi: 'and took ten, ten' — that he did not count one, two, three but took ten at once each time."
+    },
+    {
+     "who": {
+      "he": "ספר התשב״ץ",
+      "en": "Sefer HaTashbetz"
+     },
+     "ref": "Sefer HaTashbetz, Part I 67:2",
+     "quote": "וסופה דברייתא הכי היא והלא דין הוא",
+     "he": "ספר התשב״ץ דן בברייתא כאן ומציין את סופה: ״והלא דין הוא״ ממום שמותר להדיוט.",
+     "en": "Sefer HaTashbetz discusses the baraita here and notes its ending, 'is it not a logical inference'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Nedarim 18b:4:1",
+     "quote": "והלא עשירי מאיליו הוי קדוש ואם כן לא הוי דבר הנדור וי\"ל דבעי העברת מנין",
+     "he": "תוספות בנדרים מקשים: הלא עשירי מאליו קדוש, ואם כן אינו דבר הנדור; ומתרצים שצריך העברת מנין.",
+     "en": "Tosafot on Nedarim ask: the tenth is holy of itself, so it is not something that can be vowed; and answer that the passing of the count is needed."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:1",
+     "quote": "הוֹאִיל וּמְנָאָם עֲשָׂרָה עֲשָׂרָה וְקִדֵּשׁ עֲשִׂירִי הֲרֵי זֶה מַעֲשֵׂר",
+     "he": "הרמב״ם: כשלא מנאן בשבט — הואיל ומנאם עשרה עשרה וקידש עשירי, הרי זה מעשר.",
+     "en": "The Rambam: where he did not count with the rod — since he counted them ten by ten and sanctified the tenth, it is tithe."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58b:5",
+     "quote": "ולי יש דקדוק עצום הא דנקיט לדרשה זו תיבת תחת",
+     "he": "הרש״ש: ויש לו דקדוק עצום במה שהברייתא נוקטת לדרשה זו את התיבה ״תחת״, כשהעיקר הוא ״יעבור״.",
+     "en": "The Rashash: he has a strong point of precision about why the baraita takes the word 'under' for this derashah, when the main word is 'passes'."
+    },
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58b:7",
+     "quote": "אבל הרע\"ב חלק הבבא זו לב' ענינים",
+     "he": "הרש״ש: הרע״ב חילק את הבבא של מאה ועשרה לשני עניינים.",
+     "en": "The Rashash: the Rav Ovadia of Bartenura split this clause of the hundred and the ten into two matters."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 116:1",
+     "quote": "ממה שלא אמר \"העשירי יקדש\" משמע שיהיה קדש מעצמו",
+     "he": "המלבי״ם: מכך שלא נאמר ״העשירי יקדש״ משמע שיהיה קדוש מעצמו.",
+     "en": "The Malbim: from the fact it does not say 'the tenth shall be sanctified' it implies it is holy of itself."
+    },
+    {
+     "who": {
+      "he": "עיקר תוספות יום טוב",
+      "en": "Ikar Tosafot Yom Tov"
+     },
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Nedarim 2:4:4",
+     "quote": "וְיֵשׁ לוֹמַר דְּבָעִינַן הַעֲבָרַת מִנְיָן",
+     "he": "עיקר תוספות יום טוב מביא את תירוץ התוספות: צריך העברת מנין.",
+     "en": "Ikar Tosafot Yom Tov cites Tosafot's answer: the passing of the count is required."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 7:1:1",
+     "quote": "פלוגתא דתנאי ופסק כת\"ק",
+     "he": "הכסף משנה: במשנה בפרק האחרון של בכורות מחלוקת תנאים, והרמב״ם פסק כתנא קמא.",
+     "en": "The Kessef Mishneh: in the last chapter of Bekhorot is a dispute of Tannaim, and the Rambam ruled like the first Tanna."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    5,
+    5
+   ],
+   "he": {
+    "title": "קפץ אחד מן המנויין, או מן המעושרין, לתוך הדיר",
+    "gemara": "המשנה: קפץ אחד מן המנויין לתוך אלו שעוד לא נמנו — הרי אלו פטורים; קפץ מן המעושרין לתוכן — כולם ירעו עד שיסתאבו ויאכלו במומם לבעלים.",
+    "halakha": "הרמב״ם (בכורות ח:יד–טו) פוסק כמשנה: כשקפץ אחד מן המנויין נפטרו הכל, וכשקפץ אחד מן העשיריים כולן ירעו עד שיפול בהן מום ויאכלו במומם."
+   },
+   "en": {
+    "title": "One of the counted, or of the tithed, jumps back into the pen",
+    "gemara": "The Mishna: if one of those already counted jumped into those not yet counted — they are all exempt; if one of the tithed jumped in among them — all graze until they are blemished and are eaten in their blemish by the owners.",
+    "halakha": "The Rambam (Firstlings 8:14–15) rules like the Mishna: if one of the counted jumped in, all are exempt; if one of the tenths jumped in, all graze until a blemish occurs and are eaten with their blemish."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:4",
+     "quote": "דמנויין שיצאו נפטרו במנין הראוי",
+     "he": "רבינו גרשום: המנויים שיצאו נפטרו ב״מנין הראוי״, ולכן כשקפץ אחד מהם כולם פטורים.",
+     "en": "Rabbeinu Gershom: those counted who came out were exempted through the 'fitting count', so when one jumps in, all are exempt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:5",
+     "quote": "מיירי במעשר עצמו כולן ירעו דכולהו הוי ספק מעשר",
+     "he": "רבינו גרשום: מדובר במעשר עצמו; כולם ירעו, שכולם ספק מעשר.",
+     "en": "Rabbeinu Gershom: this is speaking of the tithe itself; all graze, since all are a doubtful tithe."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:5:3",
+     "quote": "ומשום דאין ידוע איזה הפטור לכך כל מה שבדיר פטורין",
+     "he": "רש״י: ומפני שאין ידוע איזה הוא הפטור, כל מה שבדיר פטורים.",
+     "en": "Rashi: and because it is not known which is the exempt one, everything in the pen is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:5:4",
+     "quote": "מן המעושרין - מן המעושרות גופייהו",
+     "he": "רש״י: ״מן המעושרין״ — מן המעושרות עצמן.",
+     "en": "Rashi: 'from the tithed' — from the tithed ones themselves."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:14",
+     "quote": "שֶׁכָּל אֶחָד מֵהֶן סָפֵק אִם הוּא הַמָּנוּי שֶׁקָּפַץ אוֹ אַחֵר",
+     "he": "הרמב״ם: נפטרו הכל, שכל אחד מהם ספק אם הוא המנוי שקפץ או אחר.",
+     "en": "The Rambam: all are exempt, since each is in doubt whether it is the counted one that jumped or another."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:15",
+     "quote": "כֻּלָּן יִרְעוּ עַד שֶׁיִּפּל בָּהֶן מוּם וְיֵאָכְלוּ בְּמוּמָן",
+     "he": "הרמב״ם: קפץ אחד מן העשיריים לתוך הדיר — כולן ירעו עד שיפול בהן מום ויאכלו במומן.",
+     "en": "The Rambam: if one of the tenths jumped into the pen — all graze until a blemish falls on them and they are eaten in their blemish."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הרש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58b:4",
+     "quote": "אבל כיון דבאמת קם ליה דיני' יש לפרש המשנה משום מנין הראוי",
+     "he": "הרש״ש: מכיוון שהדין אמיתי, יש לפרש את המשנה משום ״מנין הראוי״, וכפירוש רש״י.",
+     "en": "The Rashash: since the law stands, the Mishna should be explained through the 'fitting count', as Rashi does."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 86:5",
+     "quote": "קפץ אחד מן המעושרין לתוכן כולן ירעו עד שיסתאבו ויאכלו",
+     "he": "הביאור על ספר המצוות לרס״ג מביא ראיה ממשנה בפרק האחרון של בכורות: קפץ אחד מן המעושרין לתוכן — כולן ירעו עד שיסתאבו ויאכלו.",
+     "en": "The commentary on the Rasag's Sefer Hamitzvot brings a proof from the Mishna in the last chapter of Bekhorot: if one of the tithed jumped in, all graze until they become blemished and are eaten."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    12
+   ],
+   "he": {
+    "title": "טעמו של רבי יוסי ברבי יהודה: אבא אלעזר בן גומל — אומד ומחשבה",
+    "gemara": "מה טעמו של רבי יוסי ברבי יהודה, שמכיר בעשירי שנטל בלי מנין? סבר כאבא אלעזר בן גומל: ״ונחשב לכם תרומתכם״ — בשתי תרומות הכתוב מדבר, תרומה גדולה ותרומת מעשר. כשם שתרומה גדולה ניטלת באומד ובמחשבה — כך תרומת מעשר.",
+    "halakha": "הרמב״ם (תרומות ג:ד) פוסק שאין תורמין תרומה זו לא במדה ולא במשקל ולא במנין, אלא באומד."
+   },
+   "en": {
+    "title": "The reasoning of Rabbi Yosei son of Rabbi Yehuda: Abba Elazar ben Gomel — estimate and intent",
+    "gemara": "What is the reasoning of Rabbi Yosei son of Rabbi Yehuda, who accepts a tenth taken without counting? He holds like Abba Elazar ben Gomel: 'and your terumah shall be reckoned to you' — the verse speaks of two terumot, the great terumah and the tithe-terumah. Just as the great terumah is taken by estimate and by intent, so too the tithe-terumah.",
+    "halakha": "The Rambam (Heave Offerings 3:4) rules that this terumah is not separated by measure, weight or count, but by estimate."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:11:1",
+     "quote": "כלומר כתרומה גדולה שנוטל ישראל מגרנו",
+     "he": "רש״י: ״כדגן מן הגורן״ — כלומר כתרומה גדולה שנוטל ישראל מגרנו.",
+     "en": "Rashi: 'like grain from the threshing floor' — that is, like the great terumah an Israelite takes from his threshing floor."
+    },
+    {
+     "who": {
+      "he": "רש״י (כתב יד)",
+      "en": "Rashi (Ktav Yad)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 58b:11:1",
+     "quote": "תרומת מעשר מן המעשר שאתם נותנים לכהנים תהיו נוטלים במחשבה",
+     "he": "רש״י (כתב יד): תרומת מעשר מן המעשר שאתם נותנים לכהנים תהיו נוטלים במחשבה.",
+     "en": "Rashi (Ktav Yad): the tithe-terumah from the tithe that you give to the kohanim you shall take by intent."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:12:1",
+     "quote": "שמאמד בדעתו כך וכך יש בכרי הזה ולפי אומדנותו נוטל תרומה",
+     "he": "רש״י: ״באומד״ — שמאמד בדעתו כך וכך יש בכרי הזה ולפי אומדנותו נוטל תרומה.",
+     "en": "Rashi: 'by estimate' — he estimates in his mind how much is in this heap, and takes terumah according to his estimate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 58b:12:2",
+     "quote": "שני לוגין שאני עתיד להפריש הרי הן תרומה",
+     "he": "רש״י: ״במחשבה״ — שמחשב ואומר ״שני לוגין שאני עתיד להפריש הרי הן תרומה״.",
+     "en": "Rashi: 'by intent' — he thinks and says 'the two lugs I am going to separate are terumah'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 58b:8",
+     "quote": "שאין צריך למנות עד מאה וליטול שנים",
+     "he": "רבינו גרשום: תרומה גדולה ניטלת באומד ובמחשבה, שאין צריך למנות עד מאה וליטול שניים.",
+     "en": "Rabbeinu Gershom: the great terumah is taken by estimate and intent, so one need not count to a hundred and take two."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 58b:12:1",
+     "quote": "אלא משום דבתרומת מעשר שייך אומד ששיעורה כתוב",
+     "he": "תוספות: מן התורה אין אומד בתרומה גדולה, שחטה אחת פוטרת את הכרי, אלא משום שבתרומת מעשר שייך אומד ששיעורה כתוב.",
+     "en": "Tosafot: by Torah law estimate does not apply to the great terumah, since one grain exempts the heap; rather estimate applies to the tithe-terumah, whose measure is written."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 31a:1:1",
+     "quote": "ומיהו אין להקיש תרומת מעשר לתרומה גדולה שיועיל במתכוין חיטה אחת לפטור הכרי",
+     "he": "תוספות בגיטין: אין להקיש תרומת מעשר לתרומה גדולה, שיועיל במתכוון חיטה אחת לפטור את הכרי.",
+     "en": "Tosafot on Gittin: one should not compare the tithe-terumah to the great terumah so that one intended grain would exempt the heap."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 31a:1:2",
+     "quote": "מצוה לתרום מאומד דמתוך שירא לצמצם שלא יטול פחות נוטל בעין יפה",
+     "he": "תוספות בגיטין: מצווה לתרום מאומד, שמתוך שירא לצמצם שלא יטול פחות נוטל בעין יפה.",
+     "en": "Tosafot on Gittin: it is a mitzva to separate by estimate, since fearing to be too exact and take too little, he takes generously."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 54b:12:2",
+     "quote": "אלא דמועיל מאומד ולא שתהא מצוה מאומד",
+     "he": "תוספות במנחות: לאבא אלעזר בן גומל לומדים רק שמועיל מאומד, ולא שתהיה מצווה מאומד.",
+     "en": "Tosafot on Menachot: for Abba Elazar ben Gomel we learn only that estimate is effective, not that estimate is the mitzva."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Bekhorot 141:1",
+     "quote": "תרומה המונה משובח מאוד והמודד משובח ממנו והשוקל משובח ממנו",
+     "he": "פסקי תוספות: בתרומה, המונה משובח מאוד, והמודד משובח ממנו, והשוקל משובח ממנו.",
+     "en": "Piskei Tosafot: for terumah, one who counts is very praiseworthy, one who measures is more praiseworthy, and one who weighs more still."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Gittin 31a:1",
+     "quote": "ונראה דלית ליה לאבא אלעזר ב\"ג כלל מרבה במעשרות",
+     "he": "הפני יהושע: נראה שאין לאבא אלעזר בן גומל כלל מרבה במעשרות.",
+     "en": "The Penei Yehoshua: it seems that Abba Elazar ben Gomel has no source at all for extending to the tithes."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Numbers 18:27:1",
+     "quote": "ר' ישמעאל שס\"ל שתרומת מעשר אין להפריש מאומד",
+     "he": "המלבי״ם: רבי ישמעאל סובר שתרומת מעשר אין להפריש מאומד.",
+     "en": "The Malbim: Rabbi Yishmael holds that tithe-terumah is not separated by estimate."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 331:64",
+     "quote": "אבל תוס' כתבו דגם לרבנן מותר מאומד",
+     "he": "ביאור הגר״א: תוספות כתבו שגם לרבנן מותר מאומד, ולאבא אלעזר בן גומל מצווה לעשות מאומד.",
+     "en": "Beur HaGra: Tosafot wrote that even for the Rabbis it is permitted by estimate, and for Abba Elazar ben Gomel it is a mitzva to do so by estimate."
+    }
+   ]
+  }
+ ]
+}
