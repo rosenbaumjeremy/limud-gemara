@@ -1,0 +1,1086 @@
+{
+ "ref": "Bekhorot 59",
+ "date": "2026-11-16",
+ "he": {
+  "overview": "הדף עוסק במעשר בהמה. בעמוד א׳ הגמרא מוסיפה שתרומת מעשר ניטלת באומד ובמחשבה מההיקש למעשר דגן, ובוחנת את דברי רבא שהעשירי מאליו קדוש מתוך ברייתות. בעמוד ב׳ הגמרא דנה בדעת רבי שמעון שהתשיעי אינו קדוש בלי עקירת שם עשירי, ובדברי רבא שמנין הראוי פוטר, וכן במקרי פתחים והחמישה עשר טלאים. הראשונים והאחרונים דנים בפירוש מחשבה ובגדר מנין הראוי.",
+  "title": "סיכום — בכורות נ״ט"
+ },
+ "en": {
+  "overview": "The daf deals with animal tithe. On amud a the Gemara adds that terumat ma'aser is taken by estimate and thought through the analogy to grain tithe, and examines Rava's statement that the tenth is holy of itself through baraitot. On amud b the Gemara discusses R. Shimon's view that the ninth is not holy unless the name 'tenth' is removed, Rava's rule that a fit count exempts, and the cases of two doors and fifteen lambs. The Rishonim and Acharonim discuss the meaning of 'thought' and the nature of mispar haraui.",
+  "title": "Summary — Bekhorot 59"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "ניטלת באומד ובמחשבה"
+   ],
+   "he": {
+    "term": "באומד ובמחשבה",
+    "explanation": "הפרשת תרומה בלי מדידה מדויקת, לפי אומדן, ובלי הפרשה מעשית, במחשבה בלבד. הגמרא לומדת שכך גם מעשר בהמה."
+   },
+   "en": {
+    "term": "Be'omed uvemachshavah (by estimate and by thought)",
+    "explanation": "Separating terumah by estimate rather than exact measure, and by thought alone without an act of separation. The Gemara derives that animal tithe works the same way."
+   },
+   "source": {
+    "who": {
+     "he": "כתב יד רש״י",
+     "en": "Ktav Yad Rashi"
+    },
+    "ref": "Ktav Yad Rashi on Bekhorot 59a:1:1",
+    "quote": "והיינו מחשבה שאינו מונה עשירי אלא מפריש כל מה שעולה בדעתו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "ואיתקש מעשר בהמה למעשר דגן"
+   ],
+   "he": {
+    "term": "היקש",
+    "explanation": "לימוד מהקבלה בין שני דינים שהתורה הקישה. כאן מעשר בהמה הוקש למעשר דגן, ולכן דינו שווה לו."
+   },
+   "en": {
+    "term": "Heker (analogy)",
+    "explanation": "A law derived from a comparison the Torah draws between two matters. Here animal tithe is compared to grain tithe, so their law is the same."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59a:1:1",
+    "quote": "בשתי מעשרות הכתוב מדבר אחד מעשר בהמה וא' מעשר דגן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "עשירי מאליו הוא קדוש"
+   ],
+   "he": {
+    "term": "קדוש מאליו",
+    "explanation": "העשירי נעשה קדוש גם אם בעל הבהמות לא קראו עשירי ולא הוציאו, כגון שנשתייר בדיר אחרי שנמנו תשעה."
+   },
+   "en": {
+    "term": "Kadosh me'eilav (holy of itself)",
+    "explanation": "The tenth animal becomes holy even if the owner did not call it tenth or take it out, such as one that remained in the pen after nine were counted."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59a:2:1",
+    "quote": "שאם מנה עשר ונשתייר עשירי בדיר אע\"פ שלא יצא ולא מנאו קדוש מאליו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "דאיברר ליה עשירי"
+   ],
+   "he": {
+    "term": "איברר ליה עשירי",
+    "explanation": "הבהמה שיצאה אחרי תשעה נתבררה מעצמה כעשירית, ולכן אפשר שקדושתה אינה תלויה בקריאה."
+   },
+   "en": {
+    "term": "Iberar leih asiri (it was clarified as the tenth)",
+    "explanation": "An animal that came out after nine is clarified of itself as the tenth, so its holiness may not depend on being called."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59a:4:1",
+    "quote": "שלפי שיצא בסוף תשעה נברר מעצמו שהוא עשירי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "מנין הראוי"
+   ],
+   "he": {
+    "term": "מנין הראוי",
+    "explanation": "מניין שנעשה בזמן שהיה עוד מי שראוי להשלים אותו לעשרה. הבהמות שנמנו נפטרות מן המעשר גם אם בפועל נפל עשירי."
+   },
+   "en": {
+    "term": "Minyan hara'ui (a fit count)",
+    "explanation": "A count made while there was still one fit to complete it to ten. The animals counted are exempt even if the tenth then fell through."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59a:6:1",
+    "quote": "וכיון דראוי לצאת דמי כמאן דיצא כבר ופטר את המנין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "נעקר שם עשירי"
+   ],
+   "he": {
+    "term": "נעקר שם עשירי",
+    "explanation": "מי שקרא לבהמה אחרת עשירי נחשב כמי שלא עקר מן העשירי הוודאי את שמו, ולכן הקריאה אינה חלה."
+   },
+   "en": {
+    "term": "Ne'ekar shem asiri (the name 'tenth' removed)",
+    "explanation": "Calling another animal 'tenth' counts only if the name was removed from the real tenth; otherwise the call does not take effect."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59b:1:1",
+    "quote": "דכי היכי דאם קרא לאחד עשר עשירי אינו קדוש אלא א\"כ נעקר שם מעשר מן העשירי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "עושה קדושה ליקרב"
+   ],
+   "he": {
+    "term": "עושה קדושה ליקרב",
+    "explanation": "אחד עשר שקרא לו עשירי קרב שלמים, ולכן קדושתו חמורה. בניגוד לתשיעי שקדושתו קלה."
+   },
+   "en": {
+    "term": "Oseh kedushah likrav (makes a holiness that is offered)",
+    "explanation": "An eleventh called 'tenth' is offered as a peace offering, so its holiness is severe, unlike the ninth whose holiness is light."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59b:2:1",
+    "quote": "שאם קרא לאחד עשר עשירי קרב שלמים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "מצטרפין לגורן אחר"
+   ],
+   "he": {
+    "term": "גורן אחר",
+    "explanation": "בהמות שנשארו פחות מעשרה מצטרפות לבהמות שייוולדו, ויתעשרו בזמן אחר."
+   },
+   "en": {
+    "term": "Goren acher (another threshing floor)",
+    "explanation": "Animals fewer than ten that remain join animals born later and are tithed at another time."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 59b:12:3",
+    "quote": "הארבעה שיצאו בפתח אחר מצטרפין לגורן אחר"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "תרומת מעשר באומד ובמחשבה — היקש מעשר בהמה למעשר דגן",
+    "gemara": "הגמרא מוסיפה שגם תרומת מעשר ניטלת באומד ובמחשבה. התורה קראה למעשר ״תרומה״ (״כי את מעשר בני ישראל אשר ירימו לה׳ תרומה״), ומעשר בהמה הוקש למעשר דגן. כשם שמעשר דגן ניטל באומד ובמחשבה, כך גם מעשר בהמה.",
+    "halakha": "שולחן ערוך ורמב״ם: תרומת מעשר אין מפרישין אותה באומד, אלא מדקדק בשיעורה."
+   },
+   "en": {
+    "title": "Terumat ma'aser by estimate and thought: the analogy of animal tithe to grain tithe",
+    "gemara": "The Gemara adds that terumat ma'aser too may be taken by estimate and by thought. The Torah calls the tithe 'terumah' (\"For the tithe of the children of Israel, which they raise to the Lord as terumah\"), and animal tithe is analogized to grain tithe. Just as grain tithe is taken by estimate and thought, so is animal tithe.",
+    "halakha": "Shulchan Arukh and Rambam: terumat ma'aser is not separated by estimate; one must be exact in its measure."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:1",
+     "quote": "אלא כשם שתרומה גדולה ניטלת במדה ובמחשבה כך תרומת מעשר",
+     "he": "רבינו גרשום מביא את הספרי: כשם שתרומה גדולה ניטלת במדה ובמחשבה, כך תרומת מעשר.",
+     "en": "Rabbeinu Gershom brings the Sifrei: just as the great terumah is taken by measure and thought, so is terumat ma'aser."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:1:1",
+     "quote": "בשתי מעשרות הכתוב מדבר אחד מעשר בהמה וא' מעשר דגן",
+     "he": "רש״י מפנה לריש הפרק: הפסוק ״עשר תעשר״ מדבר בשתי מעשרות, מעשר בהמה ומעשר דגן.",
+     "en": "Rashi refers to the start of the chapter: the verse speaks of two tithes, animal tithe and grain tithe."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 59a:1:1",
+     "quote": "והיינו מחשבה שאינו מונה עשירי אלא מפריש כל מה שעולה בדעתו",
+     "he": "בכתב יד רש״י: מחשבה פירושה שאינו מונה עשירי אלא מפריש כל מה שעולה בדעתו.",
+     "en": "Ktav Yad Rashi: 'thought' means he does not count a tenth but separates whatever comes to his mind."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 59a:1:2",
+     "quote": "פ\"ה נותן עיניו בצד זה לשם תרומה ואוכל בצד זה",
+     "he": "תוספות מביאים את פירוש רש״י (בקונטרס): נותן עיניו בצד זה לשם תרומה ואוכל בצד זה.",
+     "en": "Tosafot quote Rashi's explanation: he sets his eyes on one side as terumah and eats from the other."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 59a:1:1",
+     "quote": "ונראה דרבנן לא פליגי אאבא אלעזר לענין מחשבה אלא לענין אומד",
+     "he": "לדעת תוספות, חכמים לא חולקים על אבא אלעזר בן גומל לענין מחשבה אלא רק לענין אומד.",
+     "en": "Tosafot: it appears the Sages do not dispute Abba Elazar regarding thought, only regarding estimate."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Beitzah 13b:2",
+     "quote": "שאינו צריך להוציא בשפתיו כלום",
+     "he": "הרשב״א סובר שהעיקר כרש״י במסכת ביצה: מחשבה היא שאינו צריך להוציא בשפתיו כלום.",
+     "en": "Rashba: 'thought' means he need not utter anything with his lips."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Gittin 30a:16",
+     "quote": "מה שפירש רש\"י ז\"ל כאן דמחשבה היינו מחשבה גרידא כגון שנותן עיניו בצד זה ואוכל בצד אחר הוא עיקר",
+     "he": "הרשב״א כותב שפירוש רש״י בגיטין, מחשבה גרידא, הוא העיקר, ולא פירושו כאן בבכורות.",
+     "en": "Rashba: Rashi's explanation in Gittin, mere thought such as setting one's eyes on one side and eating from the other, is the main one."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 3:10",
+     "quote": "תְּרוּמַת מַעֲשֵׂר אֵין מַפְרִישִׁין אוֹתָהּ בְּאֹמֶד",
+     "he": "הרמב״ם פוסק שתרומת מעשר אין מפרישין אותה באומד.",
+     "en": "Rambam rules that terumat ma'aser is not separated by estimate."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 331:24",
+     "quote": "תרומת מעשר אין מפרישין אותה באומד אלא מדקדק בשיעורה",
+     "he": "השולחן ערוך פוסק כך: אין מפרישין תרומת מעשר באומד אלא מדקדק בשיעורה.",
+     "en": "Shulchan Arukh rules likewise: terumat ma'aser is not separated by estimate but one is exact in its measure."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Pirkei Avot 1:16:2",
+     "quote": "והתוס' בגיטין פ\"ג דף ל\"א מסקים דלא אסרו אלא במתכוין להרבות",
+     "he": "התוספות יום טוב מביא שתוספות בגיטין מסיקים שלא אסרו אומד אלא כשמתכוין להרבות.",
+     "en": "Tosafot Yom Tov notes that Tosafot in Gittin conclude they forbade estimating only when one intends to add."
+    },
+    {
+     "who": {
+      "he": "רבי עקיבא איגר",
+      "en": "Rabbi Akiva Eiger"
+     },
+     "ref": "Teshuvot Rabbi Akiva Eiger 29:13",
+     "quote": "לא מבעיא לפירש\"י בכורות דמחשבה דהתם היינו בדבור דניחא",
+     "he": "רבי עקיבא איגר: לפי רש״י בבכורות, מחשבה כאן היא בדיבור, ומובן.",
+     "en": "Rabbi Akiva Eiger: according to Rashi in Bekhorot, 'thought' here means speech, which is understandable."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura IV 2:208:12",
+     "quote": "מן התורה סגי במחשבה לבד מ\"מ מדרבנן צריך הפרשה",
+     "he": "השואל ומשיב מביא שמן התורה מספיקה מחשבה לבד, אך מדרבנן צריך הפרשה.",
+     "en": "Shoel uMeshiv: by Torah law thought alone suffices, but rabbinically separation is needed."
+    },
+    {
+     "who": {
+      "he": "כלי חמדה",
+      "en": "Keli Chemdah"
+     },
+     "ref": "Keli Chemdah on Torah, Terumah 2:12",
+     "quote": "ובאמת הר\"מ ז\"ל להלכה פסק דמעשר אינו ניטל באומד ונראה דה\"ה דאינו ניטל במחשבה",
+     "he": "הכלי חמדה כותב שהרמב״ם פסק להלכה שמעשר אינו ניטל באומד, ונראה שה״ה שאינו ניטל במחשבה.",
+     "en": "Keli Chemdah writes that Rambam ruled that ma'aser is not taken by estimate, and it appears the same applies to thought."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Bekhorot 59a:2",
+     "quote": "נ\"ב כל מחשבה דקדשים דבור הוה",
+     "he": "הגהות יעב״ץ על דברי תוספות: כל מחשבה בקדשים היא דיבור.",
+     "en": "Ya'avetz glosses Tosafot: any 'thought' in the case of sacred things is speech."
+    },
+    {
+     "who": {
+      "he": "העמק שאלה",
+      "en": "Haamek Sheilah"
+     },
+     "ref": "Haamek Sheilah on Sheiltot d'Rav Achai Gaon 132:9:1",
+     "quote": "אלא ודאי דמעשר עצמו ג\"כ ניטל באומד ומחשבה",
+     "he": "בהעמק שאלה: מעשר עצמו ניטל גם הוא באומד ובמחשבה.",
+     "en": "Haamek Sheilah: the tithe itself is also taken by estimate and thought."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    4
+   ],
+   "he": {
+    "title": "עשירי מאליו הוא קדוש — מנין לרבא",
+    "gemara": "רבא אומר שעשירי מאליו קדוש, כלומר אף כשלא קראו. הגמרא מנסה להוכיח זאת מברייתות. אין לי אלא שקרא שמו עשירי, לא קרא מנין, ״עשירי יהיה קדש״ מכל מקום. מדחה: אולי לא קראו ״עשירי״ אבל קראו ״קדש״. ובברייתא של קרא לתשיעי עשירי ויצא העשירי ולא דיבר, יש לדחות שכאן אִיבָּרַר לו שהוא עשירי, או שהראה עליו.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The tenth is holy of itself: what is Rava's source?",
+    "gemara": "Rava says the tenth animal is holy of itself, even if the owner did not call it so. The Gemara tries to prove this from baraitot. 'I only know the case where he called it tenth; if not, from where? The verse says \"the tenth shall be holy\"' in any case. This is rejected: perhaps he did not call it 'tenth' but did call it 'holy'. In the baraita where he called the ninth 'tenth' and the tenth came out without speech, it can be said that it was already clear that it is the tenth, or he pointed to it.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:2",
+     "quote": "אפילו לא קראו עשירי ולא קדש",
+     "he": "רבינו גרשום מפרש: עשירי מאליו קדוש אפילו לא קראו עשירי ולא קדש.",
+     "en": "Rabbeinu Gershom: the tenth is holy of itself even if he called it neither tenth nor holy."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:2:1",
+     "quote": "שאם מנה עשר ונשתייר עשירי בדיר אע\"פ שלא יצא ולא מנאו קדוש מאליו",
+     "he": "רש״י מסביר שאם מנה עשר ונשתייר העשירי בדיר, הוא קדוש מאליו אף שלא יצא ולא נמנה.",
+     "en": "Rashi explains: if he counted ten and the tenth remained in the pen, it is holy of itself though it did not come out and was not counted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:3:1",
+     "quote": "דקדושה חלה עליו ואינו נאכל אלא במומו",
+     "he": "רש״י על ״ודילמא עשירי לא קרייה״: אולי רק קדושה חלה עליו ואינו נאכל אלא במומו, בלי דין מעשר להעלותו לירושלים.",
+     "en": "Rashi on 'perhaps he did not call it tenth': perhaps only a holiness falls on it so that it is eaten only with a blemish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:4:1",
+     "quote": "שלפי שיצא בסוף תשעה נברר מעצמו שהוא עשירי",
+     "he": "רש״י: כיון שיצא אחרי תשעה, נתברר מעצמו שהוא עשירי.",
+     "en": "Rashi: since it came out after nine, it became clear of itself that it is the tenth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:3",
+     "quote": "שיצא חוץ ולא קראו אחד אלא שתק",
+     "he": "רבינו גרשום: ״דאיברר ליה עשירי״ שיצא החוצה ולא קראו כלום אלא שתק.",
+     "en": "Rabbeinu Gershom: 'it was clarified as tenth' means it came out and he called it nothing but was silent."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:4",
+     "quote": "שרמז בידו [עליו] שהוא עשירי",
+     "he": "רבינו גרשום: ״אחוי עילויה״ פירושו שרמז בידו שהוא עשירי.",
+     "en": "Rabbeinu Gershom: 'he pointed to it' means he signaled with his hand that it is the tenth."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:3",
+     "quote": "שֶׁהָעֲשִׂירִי מֵעַצְמוֹ נִתְקַדֵּשׁ",
+     "he": "הרמב״ם: אם יצא העשירי ולא קראו, והוא שותק ואחר כך קרא לאחד עשר עשירי, האחד עשר לא נתקדש, שהעשירי מעצמו נתקדש.",
+     "en": "Rambam: if the tenth came out unnamed and the eleventh was then called tenth, the eleventh is not sanctified, since the tenth was sanctified of itself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Nedarim 2:4:4",
+     "quote": "וי\"ל דבעינן העברת מנין ואם היו עשרה ונטל אחד בלא מנין אינו קדוש",
+     "he": "התוספות יום טוב מביא תוספות: צריך העברת מנין, ואם נטל אחד מעשרה בלא מנין אינו קדוש.",
+     "en": "Tosafot Yom Tov quotes Tosafot: passing under the count is required, and if one took one of ten without counting it is not holy."
+    },
+    {
+     "who": {
+      "he": "תועפות ראם",
+      "en": "Toafot Re'em"
+     },
+     "ref": "Toafot Re'em 424:6",
+     "quote": "ועיין בכורות ס' רע\"ב בפרש\"י שכ' וכל מעשר בקר וצאן משמע בין שקראו הוא עשירי בין שהיה עשירי למנין ולא קראו עשירי",
+     "he": "תועפות ראם מפנה לרש״י ולרע״ב: ״וכל מעשר בקר וצאן״ משמע בין שקראו עשירי בין שהיה עשירי למנין ולא קראו.",
+     "en": "Toafot Re'em points to Rashi: 'every tithe of herd and flock' implies both when he called it tenth and when it was tenth by the count and he did not."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 86:46",
+     "quote": "והיינו משום דכיון דקיי\"ל דעשירי מאיליו קדוש",
+     "he": "הביאור לספר המצוות לרס״ג מסתמך על הכלל שהעשירי מאליו קדוש.",
+     "en": "The commentary on Rasag's Sefer Hamitzvot relies on the rule that the tenth is holy of itself."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 59a:2",
+     "quote": "רש\"י ד\"ה קדוש מאליו. שאם מנה תשע כו'. כצ\"ל",
+     "he": "הרש״ש מתקן את נוסח רש״י: ״שאם מנה תשע״.",
+     "en": "Rashash corrects the text of Rashi to read 'if he counted nine'."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Foundations of the Torah 6:6:3",
+     "quote": "ואף דקיי\"ל עשירי מאליו הוא קדוש כמבו' בכורות דנ\"ט",
+     "he": "הצפנת פענח מציין שקיי״ל שהעשירי מאליו קדוש כמבואר בבכורות נ״ט.",
+     "en": "Tzafnat Pa'neach notes that we hold the tenth is holy of itself, as explained in Bekhorot 59."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    8
+   ],
+   "he": {
+    "title": "תשיעי שקראו עשירי ומת העשירי בדיר — מנין הראוי",
+    "gemara": "ברייתא: קרא לתשיעי עשירי ומת העשירי בדיר, התשיעי נאכל במומו וכולם פטורים. אם כן עשירי קדוש מאליו? דוחה: פטורים משום מנין הראוי. ברייתא אחרת: קרא לתשיעי עשירי ונשתייר עשירי בדיר, התשיעי נאכל במומו והעשירי מעשר, וברייתא אחרת אומרת תשיעי חולין. תנא קמיה דרב ששת: זה רבי שמעון בן יהודה משום רבי שמעון.",
+    "halakha": "הרמב״ם: מת אחד מאלו שבתוך הדיר, אלו שנמנו פטורים."
+   },
+   "en": {
+    "title": "The ninth called 'tenth' and the tenth dying in the pen: mispar haraui",
+    "gemara": "A baraita: if he called the ninth 'tenth' and the tenth died in the pen, the ninth is eaten when blemished and all are exempt. Does this show the tenth is holy of itself? The Gemara answers that they are exempt through mispar haraui, a count that was fit. Another baraita: he called the ninth 'tenth' and the tenth remained in the pen, the ninth is eaten when blemished and the tenth is tithe, yet another says the ninth is non-sacred. A tanna taught before Rav Sheshet that this is R. Shimon ben Yehuda in the name of R. Shimon.",
+    "halakha": "Rambam: if one of those in the pen died, those already counted are exempt."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:5",
+     "quote": "שכשיצאו אלו עדיין היה העשירי שבדיר חי והיה ראוי להשלים מנינו",
+     "he": "רבינו גרשום: כשיצאו התשעה עדיין היה העשירי שבדיר חי והיה ראוי להשלים את מנינם, ולכן פטורים.",
+     "en": "Rabbeinu Gershom: when these came out the tenth in the pen was still alive and fit to complete their count, so they are exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:6:1",
+     "quote": "וכיון דראוי לצאת דמי כמאן דיצא כבר ופטר את המנין",
+     "he": "רש״י מסביר מנין הראוי: כיון שהעשירי ראוי לצאת, הוא כמי שיצא כבר ופטר את המנין.",
+     "en": "Rashi explains: since the tenth was fit to come out, it is as if it had already come out and exempted the count."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:5:1",
+     "quote": "הואיל וקראו עשירי דתמורת שם מעשר מקדש לפניו ולאחריו",
+     "he": "רש״י: התשיעי נאכל במומו הואיל וקראו עשירי, שתמורת שם מעשר מקדש לפניו ולאחריו.",
+     "en": "Rashi: the ninth is eaten when blemished since he called it tenth, for the name of tithe sanctifies before and after it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:5:2",
+     "quote": "השמונה שיצאו כבר",
+     "he": "רש״י על ״וכולם פטורין״: הם השמונה שיצאו כבר.",
+     "en": "Rashi on 'all are exempt': these are the eight that had already come out."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59a:7:1",
+     "quote": "אלמא אע\"ג דלא יצא קדוש מאליו בדיר",
+     "he": "רש״י: ממה שהעשירי מעשר למרות שלא יצא, נלמד שקדוש מאליו בדיר.",
+     "en": "Rashi: so the tenth is holy of itself in the pen though it did not come out."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59a:6",
+     "quote": "דתשיעי נאכל במומו ר' שמעון דלא נעקר שם עשירי מעשירי",
+     "he": "רבינו גרשום: התשיעי נאכל במומו הוא דעת רבי שמעון, שלא נעקר שם עשירי מן העשירי.",
+     "en": "Rabbeinu Gershom: that the ninth is eaten blemished is R. Shimon's view, since the name 'tenth' was not removed from the tenth."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:10",
+     "quote": "מֵת אֶחָד מֵאֵלּוּ שֶׁבְּתוֹךְ הַדִּיר אֵלּוּ שֶׁנִּמְנוּ פְּטוּרִין",
+     "he": "הרמב״ם פוסק: מת אחד מאלו שבתוך הדיר, אלו שנמנו פטורים.",
+     "en": "Rambam rules: if one of those in the pen died, those counted are exempt."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "דעת רבי שמעון: תשיעי אינו קדוש אלא אם נעקר שם עשירי — והיא הנותנת",
+    "gemara": "רבי שמעון בן יהודה: אף התשיעי אינו קדוש אלא אם נעקר שם עשירי ממנו. קל וחומר: אחד עשר שעושה קדושה ליקרב אינו קדוש אלא אם נעקר השם. הגמרא הופכת: היא הנותנת. אחד עשר, שקדושתו חמורה, צריך עקירה. תשיעי, שקדושתו קלה, קדוש גם בלא עקירה. או: אחד עשר איברר לו העשירי, ותשיעי עוד לא.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "R. Shimon's view: the ninth is not holy unless 'tenth' was removed from it. 'That is the reason.'",
+    "gemara": "R. Shimon ben Yehuda: the ninth too is not holy unless the name 'tenth' was removed from it, as an a fortiori from the eleventh. The Gemara turns it around: 'that is the reason'. The eleventh, which makes a holiness that is offered, needs the removal; the ninth, which does not, is holy even without it. Or: the tenth was already clarified in the case of the eleventh, but not yet for the ninth.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:2",
+     "quote": "אבל קראו עשירי לודאי עשירי התשיעי חולין",
+     "he": "רבינו גרשום: אם קראו עשירי לעשירי הוודאי, התשיעי חולין.",
+     "en": "Rabbeinu Gershom: if he called the certain tenth 'tenth', the ninth is non-sacred."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:3",
+     "quote": "ומה אחד עשר שהוא עושה קדושה ליקרב",
+     "he": "רבינו גרשום מפרש את הקל וחומר: אחד עשר שהוא עושה קדושה ליקרב.",
+     "en": "Rabbeinu Gershom explains the a fortiori: the eleventh makes a holiness that is offered."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:5",
+     "quote": "דאכתי לא איברר ליה עשירי שעדיין לא יצא",
+     "he": "רבינו גרשום: בתשיעי עדיין לא נתברר העשירי, כי עדיין לא יצא.",
+     "en": "Rabbeinu Gershom: for the ninth the tenth is not yet clarified, for it has not yet come out."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:1:1",
+     "quote": "דכי היכי דאם קרא לאחד עשר עשירי אינו קדוש אלא א\"כ נעקר שם מעשר מן העשירי",
+     "he": "רש״י: כשם שאחד עשר שנקרא עשירי אינו קדוש אלא אם נעקר שם מעשר מן העשירי.",
+     "en": "Rashi: just as an eleventh called tenth is not holy unless the tithe-name was removed from the tenth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:3:1",
+     "quote": "משום דקדושה שלו חמורה היא שהרי קרב כדלקמן",
+     "he": "רש״י: באחד עשר צריך עקירה משום שקדושתו חמורה, שהרי קרב.",
+     "en": "Rashi: the eleventh needs the removal because its holiness is severe, since it is offered."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:3:2",
+     "quote": "דקדושתו קלה דאינו קדוש לקרב אלא שלא יהא נאכל אלא במומו",
+     "he": "רש״י: התשיעי קדושתו קלה, אינו קדוש לקרב אלא שלא יאכל אלא במומו.",
+     "en": "Rashi: the ninth's holiness is light; it is not sanctified to be offered, only to be eaten when blemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:5:1",
+     "quote": "שכבר יצא העשירי קודם שיצא האחד עשר ונברר מעצמו שהוא מעשר",
+     "he": "רש״י: באחד עשר כבר יצא העשירי ונברר מעצמו שהוא מעשר.",
+     "en": "Rashi: with the eleventh the tenth had already come out and was clarified of itself as the tithe."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:3",
+     "quote": "הוֹאִיל וְלֹא עָקַר שֵׁם עֲשִׂירִי מֵעָלָיו אֵין אַחַד עָשָׂר מְקֻדָּשׁ",
+     "he": "הרמב״ם: אם לא עקר שם עשירי מן העשירי, אין האחד עשר מקודש.",
+     "en": "Rambam: if he did not remove the name 'tenth' from the tenth, the eleventh is not sanctified."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Bekhorot 9:8:4",
+     "quote": "תשיעי שאינו עושה קדושה ליקרב [הואיל וקדושתו קלה] אע\"ג דלא נעקר שם עשירי ממנו",
+     "he": "התוספות יום טוב מביא את הסוגיא: תשיעי שקדושתו קלה, קדוש אף בלא עקירת שם עשירי.",
+     "en": "Tosafot Yom Tov: the ninth, whose holiness is light, is holy even without the removal of the name 'tenth'."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 8:3:1",
+     "quote": "כל זמן שלא נעקר שם עשירי הימנו אין י\"א מקודש",
+     "he": "הר המוריה מביא את התוספתא: כל זמן שלא נעקר שם עשירי, אין האחד עשר מקודש.",
+     "en": "Har HaMoriyah quotes the Tosefta: as long as the name 'tenth' was not removed, the eleventh is not sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 59b:3",
+     "quote": "רש\"י ד\"ה אף התשיעי. ובסיפא דהך ברייתא מפרש טעמא",
+     "he": "הרש״ש מעיר על דברי רש״י ד״ה אף התשיעי, שבסיפא של הברייתא מפורש הטעם.",
+     "en": "Rashash remarks on Rashi's comment that the reason is given in the end of the baraita."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Torah, Numbers 15:12:1",
+     "quote": "להביא את אחד עשר שבמעשר",
+     "he": "הצפנת פענח מביא את הספרי: ״ככה תעשו לאחד כמספרם״ להביא את אחד עשר שבמעשר, ומפנה לבכורות נ״ט ב.",
+     "en": "Tzafnat Pa'neach cites the Sifrei, 'to include the eleventh of the tithe', and refers to Bekhorot 59b."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    10
+   ],
+   "he": {
+    "title": "רבא: מנין הראוי פוטר — מנין לו",
+    "gemara": "רבא אמר שמנין הראוי פוטר. הוכחה ממשנה ״קפץ אחד מן המנויין לתוכן כולן פטורין״ נדחית: אולי עישר עליהם. מ״מן המעושרין לתוכן״ נדחה: אולי מעשר דוקא. לבסוף רבא לומד מפסוק: ״יעבור״ ולא שכבר עבר. מה זה שכבר עבר? אם עישר עליהם, פשיטא, אלא שנפטרו במנין הראוי.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Rava: a count that was fit exempts. What is his source?",
+    "gemara": "Rava says a fit count exempts. Proof from the mishnah 'if one of the counted jumped into them, all are exempt' is rejected: perhaps he had already tithed them. The mishnah's 'from the tithed ones' is also refuted: perhaps it means the tithe animal itself. Finally Rava learns it from the verse: 'shall pass', and not one that has already passed. What is 'already passed'? If it was tithed, that is obvious; so it must mean those exempted by mispar haraui.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:6",
+     "quote": "שכשיצאו מן הדיר עדיין נשאר בדיר שהיה יכול להשלים מנינן",
+     "he": "רבינו גרשום: כשיצאו מן הדיר עדיין נשאר בדיר מי שיכול להשלים את מנינם.",
+     "en": "Rabbeinu Gershom: when they left the pen, there remained in it one able to complete their count."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:6:1",
+     "quote": "פטורין אלו שמנה כבר משום דהוו מנין הראוי",
+     "he": "רש״י: אלו שנמנו כבר פטורים משום שהיו מנין הראוי.",
+     "en": "Rashi: those already counted are exempt because they were a fit count."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:6:2",
+     "quote": "כולן פטורין משום דאיערב",
+     "he": "רש״י על ״קפץ אחד מן המנויין״: כולן פטורין משום שנתערב.",
+     "en": "Rashi on the mishnah of the one who jumped: all are exempt because of the mixture."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:9:2",
+     "quote": "משום דכל חד וחד איכא לספוקי דהיינו הוא המעשר",
+     "he": "רש״י: ירעו, משום שכל אחד מהם ספק שהוא המעשר.",
+     "en": "Rashi: 'they graze', because each one may be the tithe."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:10:1",
+     "quote": "דבשעה שעבר היה ראוי להתעשר מאלו שבדיר",
+     "he": "רש״י על ״ולא שכבר עבר״: בשעה שעבר היה ראוי להתעשר מאלו שבדיר.",
+     "en": "Rashi: at the time it passed it was fit to be tithed with those in the pen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:11",
+     "quote": "מקרא יליף דכתיב יעבר ולא שכבר עבר",
+     "he": "רבינו גרשום: רבא למד מהפסוק, ״יעבור״ ולא שכבר עבר.",
+     "en": "Rabbeinu Gershom: Rava learns it from the verse: 'shall pass', not one that already passed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bava Metzia 6b:8:3",
+     "quote": "כל אשר יעבור תחת השבט אמר רחמנא ולא שעבר כבר",
+     "he": "רש״י בבבא מציעא מפנה לבכורות ומביא את אותו לימוד: ״אשר יעבור תחת השבט״ ולא שעבר כבר.",
+     "en": "Rashi in Bava Metzia cites the same derivation from Bekhorot: 'whatever passes under the rod', not one that has already passed."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Bava Metzia 6b:6",
+     "quote": "כלל ידוע במעשר בהמה שכל שעבר תחת השבט אע\"פ שלא בא לידי מעשר תפטר מן המעשר",
+     "he": "המאירי: כלל ידוע במעשר בהמה שכל שעבר תחת השבט, אף שלא בא לידי מעשר, נפטר.",
+     "en": "Meiri: it is a known rule that whatever passed under the rod, even if it did not come to be tithed, is exempt."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 58b:4",
+     "quote": "אבל כיון דבאמת קם ליה דיני' יש לפרש המשנה משום מנין הראוי",
+     "he": "הרש״ש כותב שכיון שהדין קיים, אפשר לפרש את המשנה משום מנין הראוי כפרש״י.",
+     "en": "Rashash writes that since the law stands, the mishnah can be explained by mispar haraui, as Rashi does."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Gifts to the Poor 5:25:1",
+     "quote": "ושם דף נ\"ט ע\"ב גבי מנין הראוי משום דעשירי ודאי ולא ספק",
+     "he": "הצפנת פענח מציין שבבכורות נ״ט ב מנין הראוי אומרים משום שהעשירי ודאי ולא ספק.",
+     "en": "Tzafnat Pa'neach notes that on 59b mispar haraui applies since the tenth is certain and not in doubt."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    16
+   ],
+   "he": {
+    "title": "הברייתא ומקרי הפתחים — ודאי מנין הראוי וספק",
+    "gemara": "ברייתא כרבא: עשרה טלאים, מנה חמישה ומת אחד. אם מן המנויים, מונה ומשלים; אם משאינם מנויים, המנויים פטורים והאחרים מצטרפים לגורן אחר. רבא פירט ארבעה עשר טלאים ושני פתחים. הגמרא שואלת מה חידש, ועונה שבא להשמיענו שבספק מנין הראוי, כשהנותרים חזו לכאן ולכאן, לא אומרים.",
+    "halakha": "הרמב״ם: מת אחד מן המנויין, מונה ומשלים כדרכו."
+   },
+   "en": {
+    "title": "The baraita and the two-door cases: certain and doubtful mispar haraui",
+    "gemara": "A baraita supports Rava: ten lambs, he counted five and one died. If one of the counted died, he counts and completes; if one of the uncounted, the counted are exempt and the uncounted join another threshing floor. Rava gives cases of fourteen lambs with two doors. The Gemara asks what is new and answers: that for a doubtful mispar haraui, where those remaining were fit for one side or the other, we do not say it.",
+    "halakha": "Rambam: if one of the counted died, he counts and completes as usual."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:12",
+     "quote": "מונה ומשלים עליהם ועל אותו שמת עד שיהו עשרה ויפריש אחד",
+     "he": "רבינו גרשום: אם מת אחד מהמנויים, מונה ומשלים עליהם ועל אותו שמת עד שיהיו עשרה ויפריש אחד.",
+     "en": "Rabbeinu Gershom: if one of the counted died, he counts and completes until ten and separates one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:11:2",
+     "quote": "משום דהוו מנין הראוי",
+     "he": "רש״י: המנויין פטורים משום שהיו מנין הראוי.",
+     "en": "Rashi: the counted ones are exempt because they were a fit count."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:9",
+     "quote": "מֵת אֶחָד מִן הַמְּנוּיִין מוֹנֶה וּמַשְׁלִים כְּדַרְכּוֹ",
+     "he": "הרמב״ם פוסק: מת אחד מן המנויין, מונה ומשלים כדרכו.",
+     "en": "Rambam rules: if one of the counted died, he counts and completes as usual."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:12:3",
+     "quote": "מצטרפין לגורן אחר דבמנין הראוי לא אפשר למפטרינהו להני",
+     "he": "רש״י: הארבעה שיצאו בפתח אחר מצטרפין לגורן אחר, שלא אפשר לפוטרם במנין הראוי.",
+     "en": "Rashi: the four who left through another door join another threshing floor, since they cannot be exempted by mispar haraui."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:13:2",
+     "quote": "דכי יצאו הארבעה תחלה הוו מנין ראוי",
+     "he": "רש״י: כשיצאו הארבעה הראשונים היה מנין ראוי.",
+     "en": "Rashi: when the first four came out it was a fit count."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:14",
+     "quote": "שפטרן מנין הראוי שבשעה שיצאו עדיין לא מת",
+     "he": "רבינו גרשום: המנויים שיצאו החוצה פטורים, שפטרם מנין הראוי, שבשעה שיצאו עדיין לא מת.",
+     "en": "Rabbeinu Gershom: those who went out are exempt through mispar haraui, since when they left the other had not yet died."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:15:4",
+     "quote": "דהנהו ששה שנשתיירו שדינן בין להכא בין להכא",
+     "he": "רש״י: ששת הנשארים נחשבים גם לארבעה האחד וגם לארבעה השני.",
+     "en": "Rashi: the six who remained are assigned to this group and to that group."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:16:2",
+     "quote": "וכיון דספק הוא אימא דלא אמרינן מנין הראוי",
+     "he": "רש״י: כיון שזה ספק, אפשר לומר שלא אומרים מנין הראוי.",
+     "en": "Rashi: since it is a doubt, one might say we do not apply mispar haraui."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:22",
+     "quote": "אבל ספק מנין הראוי כגון כשנשתיירו ו' בדיר",
+     "he": "רבינו גרשום: ספק מנין הראוי הוא כשנשתיירו שישה בדיר.",
+     "en": "Rabbeinu Gershom: a doubtful mispar haraui is when six remained in the pen."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha (Chidushei Halachot)"
+     },
+     "ref": "Chidushei Halachot on Bekhorot 59b:1",
+     "quote": "ושאינן מנוין מצטרפין לגורן כו' אם בפתח הששה יצאו כו' וארבעה מצטרפין לגורן אחר כו' כצ\"ל",
+     "he": "המהרש״א מתקן את נוסח הגמרא כאן בשלוש מקומות.",
+     "en": "Maharsha emends the text of the Gemara here in several places."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 59b:2",
+     "quote": "שם ואם לאו ארבעה ארבעה פטורים וששה מצטרפים כו'. כצ\"ל",
+     "he": "הרש״ש מתקן את נוסח הגמרא: ״ואם לאו ארבעה ארבעה פטורים וששה מצטרפים״.",
+     "en": "Rashash corrects the Gemara's text to read 'otherwise four and four are exempt and six join'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 59b:4",
+     "quote": "רש\"י ד\"ה והשאר. משום שבשעה שיצאו בפתח אחר. כצ\"ל",
+     "he": "הרש״ש מתקן את נוסח רש״י ד״ה והשאר: ״משום שבשעה שיצאו בפתח אחר״.",
+     "en": "Rashash corrects Rashi's text to read 'because at the time they went out by another door'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    17
+   ],
+   "he": {
+    "title": "חמישה עשר טלאים — כונסן לדיר ומוציא עשרה",
+    "gemara": "רבא אמר: היו לו חמישה עשר טלאים, לא יאמר אברור עשרה ואכניסם לדיר ואטול אחד, וחמשה פטורים. אלא כונסן לדיר, מוציא עשרה, נוטל אחד, והשאר מצטרפין לגורן אחר. כך גם בברייתא.",
+    "halakha": "הרמב״ם: הכניס את כל הצאן לדיר והתחיל למנות עד שנשארו פחות מעשרה, מניחן לגורן אחר, וחייב להכניס הכל לדיר."
+   },
+   "en": {
+    "title": "Fifteen lambs: bring them all into the pen and take out ten",
+    "gemara": "Rava said: if he had fifteen lambs, he may not say 'I will select ten, bring them into the pen and take one, and the rest are exempt'. Rather he brings them all into the pen, takes out ten and takes one, and the rest join another threshing floor. This is taught in a baraita too.",
+    "halakha": "Rambam: if one brought all the flock into the pen and counted until fewer than ten remained, he leaves them for another threshing floor, and he must bring them all into the pen."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 59b:23",
+     "quote": "הדיר קובעו ומצטרפין לגורן אחד",
+     "he": "רבינו גרשום: החמישה שנכנסו לדיר, הדיר קובעם, ומצטרפין לגורן אחד.",
+     "en": "Rabbeinu Gershom: the pen fixes the five that entered it, and they join one threshing floor."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 59b:17:2",
+     "quote": "דלא היה צירוף ולא קבעתן זמן הגורן",
+     "he": "כתב יד רש״י: החמישה פטורים, כי לא היה צירוף ולא קבע להם זמן הגורן.",
+     "en": "Ktav Yad Rashi: the rest are exempt because there was no joining and he did not fix the time of the threshing floor for them."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 59b:17:3",
+     "quote": "וקובע זמן הגורן על כולן",
+     "he": "כתב יד רש״י: כונסן כולן לדיר וקובע זמן הגורן על כולן.",
+     "en": "Ktav Yad Rashi: he brings them all into the pen and fixes the time of the threshing floor on all."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 59b:17:1",
+     "quote": "אלא אורחא דמילתא לצרופי חמשה בהדי חמשה",
+     "he": "רש״י: חמישה עשר לא נאמר דוקא אלא כדרך הדברים לצרף חמישה עם חמישה.",
+     "en": "Rashi: 'fifteen' is not exact but the usual way, to join five with five."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 7:9",
+     "quote": "אַף עַל פִּי שֶׁהוּא יוֹדֵעַ שֶׁאֵלּוּ יִשָּׁאֲרוּ בַּמִּנְיָן חַיָּב לְהַכְנִיס הַכּל לַדִּיר",
+     "he": "הרמב״ם: אף שהוא יודע שאלו יישארו, חייב להכניס הכל לדיר.",
+     "en": "Rambam: even though he knows these will remain, he must bring everything into the pen."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 7:9:1",
+     "quote": "ומה דאיתא שם בתוספתא והשאר יתעשרו לשנה הבאה הוא ט\"ס וצ\"ל גורן הבאה",
+     "he": "הר המוריה: מה שבתוספתא ״לשנה הבאה״ הוא ט״ס וצריך להיות ״גורן הבאה״.",
+     "en": "Har HaMoriyah: 'next year' in the Tosefta is a scribal error and should read 'next threshing floor'."
+    }
+   ]
+  }
+ ]
+}
