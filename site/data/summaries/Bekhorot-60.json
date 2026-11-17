@@ -1,0 +1,1212 @@
+{
+ "ref": "Bekhorot 60",
+ "date": "2026-11-17",
+ "he": {
+  "overview": "הדף פותח בסוף משנת ״הקורא לתשיעי עשירי״ ובקושיה מברייתא על תשעה עשר טלאים, ומתרץ רב הונא בר סחורה בדיר של שני פתחים. אחר כך באה המשנה: יצאו שנים כאחת, וקרא לתשיעי ״עשירי״, לעשירי ״תשיעי״ ולאחד עשר ״עשירי״ — שלשתן מקודשין, וחולקים רבי מאיר ורבי יהודה אם האחד עשר תמורה. הגמרא עוסקת במנייה זוגות זוגות ובמאות — למניין בהמות או למניינו — ובמחלוקת רב מארי ורב כהנא. בעמוד ב׳ מובאים מקור הדין בפסוק, קושיית ״טעותו מיוחדת״ ושיטת רבי אלעזר ברבי שמעון, דברי רבא על שנים שיצאו בתשיעי ובעשירי, ודיון על עקירת שם עשירי. הראשונים והאחרונים דנים בהסבר ״מקולקלין״, בשאלה אם ירעו או יקרבו, ובכלל ״אין מביאין קדשים לבית הפסול״.",
+  "title": "סיכום — בכורות ס׳"
+ },
+ "en": {
+  "overview": "The daf opens with the end of the mishnah's 'calling the ninth tenth' discussion and a challenge from a baraita about nineteen lambs, which Rav Huna bar Sechora answers with a pen with two doors. Then comes the mishnah: two came out together, and calling the ninth 'tenth', the tenth 'ninth' and the eleventh 'tenth' — all three are sanctified, with Rabbi Meir and Rabbi Yehuda disputing whether the eleventh is a substitute. The Gemara takes up counting in pairs and in hundreds — by the animals' count or his own — and the dispute of Rav Mari and Rav Kahana. On amud b it brings the verse for the law, the 'unique error' challenge and Rabbi Elazar son of Rabbi Shimon, Rava's rulings about two coming out at the ninth and tenth, and the uprooting of the name 'tenth'. The Rishonim and Acharonim discuss the meaning of 'spoiled', whether the two animals graze or are offered, and the rule 'we do not bring sacrifices to a place of disqualification'.",
+  "title": "Summary — Bekhorot 60"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "דְּהַאיְךְ חַד חָזֵי לְהָכָא וּלְהָכָא"
+   ],
+   "he": {
+    "term": "מנין הראוי",
+    "explanation": "מנין של עשרה בהמות המצרף את הבהמות לגורן אחד ופוטר את מי שנמנה בו. בדיר בעל שני פתחים, האחד שנשאר בסוף ״ראוי״ להשלים את תשעת הראשונים משני הצדדים, ולכן כולם נפטרים."
+   },
+   "en": {
+    "term": "Proper count (minyan ha-ra'ui)",
+    "explanation": "A count of ten animals that joins them to one threshing-floor and exempts those counted in it. In a pen with two doors, the one left at the end is 'fit' to complete the first nine on either side, so all are exempt."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60a:3:2",
+    "quote": "שנשתייר באחרונה הוי מנין הראוי בין להכא ובין להכא ופוטר את כולן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "עֲשִׂירִי מֵאֵלָיו קָדוֹשׁ"
+   ],
+   "he": {
+    "term": "עשירי מאליו קדוש",
+    "explanation": "הבהמה העשירית ביציאה קדושה למעשר מעצמה, אפילו לא קראו אותה ״עשירי״ וגם אם קראה ״אחד״. לכן אי אפשר לפטור את התשעה האחרונים על ידי שקורא לעשירי ״אחד״ מחדש."
+   },
+   "en": {
+    "term": "The tenth is sanctified of itself",
+    "explanation": "The tenth animal to come out is sanctified as the tithe on its own, even if he did not call it 'tenth', and even if he called it 'one'. So the last nine cannot be exempted by restarting the count at the tenth."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60a:4:2",
+    "quote": "מאליו קדוש - אע״פ שקראו אחד ונמצא שהתשעה אחרונים לא יהו פטורין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "מְקוּלְקָלִין"
+   ],
+   "he": {
+    "term": "מקולקלין",
+    "explanation": "הלשון במשנה על התשיעי והעשירי כשיצאו שנים כאחת ונמנו כאחד. הראשונים נחלקו בפירושה: לפי רש״י לא חלה עליהם קדושה להקרב ונאכלים במומם; יש גורסים שהקדושה כן חלה; ולפי התוספות ספק אם נעשים כאחד."
+   },
+   "en": {
+    "term": "Mekulkalin ('spoiled')",
+    "explanation": "The mishnah's word for the ninth and tenth when two came out together and were counted as one. The Rishonim differ on its meaning: for Rashi no sanctity to be offered falls on them and they are eaten when blemished; others say sanctity does fall; for Tosafot it is a doubt whether they became one."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60a:7:1",
+    "quote": "הויין מקולקלין דלא חל עליהן קדושה ליקרב אלא נאכלין במומן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 9,
+   "anchors": [
+    "וְכִי יֵשׁ תְּמוּרָה עוֹשָׂה תְּמוּרָה"
+   ],
+   "he": {
+    "term": "אין תמורה עושה תמורה",
+    "explanation": "תמורה אינה יכולה להפוך בעצמה לבסיס לתמורה נוספת, שנאמר ״תמורתו״ ולא תמורת תמורתו. רבי יהודה מקשה על רבי מאיר: אם האחד עשר תמורה, איך הוא עושה תמורה?"
+   },
+   "en": {
+    "term": "A substitute does not effect a substitution",
+    "explanation": "A substitute cannot itself become the basis of another substitution, as the verse says 'its substitute', not the substitute of a substitute. Rabbi Yehuda challenges Rabbi Meir: if the eleventh is a substitute, how can it effect a substitution?"
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60a:9:1",
+    "quote": "דאין תמורה עושה תמורה משום דכתיב תמורתו ולא תמורת תמורתו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "קִינְטָרִין"
+   ],
+   "he": {
+    "term": "קינטרין (מנין במאות)",
+    "explanation": "מנייה לא אחד אחד אלא בקבוצות גדולות — מאה בבת אחת. רבי יוחנן אומר שגם במנייה כזו העשירי למניינו קדוש, ונחלקו אם זה למניין המונה או למניין הבהמות."
+   },
+   "en": {
+    "term": "Kinterin (counting by hundreds)",
+    "explanation": "Counting not one by one but in large groups — a hundred at a time. Rabbi Yochanan says that even in such counting the tenth by its count is sanctified; the dispute is whether this means the counter's count or the count of animals."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60a:10:1",
+    "quote": "למאות שמנה כל מאה ומאה ביחד"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "נֶעֱקַר שֵׁם ״עֲשִׂירִי״"
+   ],
+   "he": {
+    "term": "עקירת שם עשירי",
+    "explanation": "האחד עשר מתקדש בקריאתו ״עשירי״ רק אם נעקר מהעשירי שם ״עשירי״ (כגון שקראו ״תשיעי״ או ״אחד עשר״). אם העשירי נקרא ״עשירי״ או שלא נקרא כלל, האחד עשר אינו מקודש."
+   },
+   "en": {
+    "term": "Uprooting the name 'tenth'",
+    "explanation": "The eleventh is sanctified by being called 'tenth' only if the name 'tenth' was uprooted from the true tenth (e.g. he called it 'ninth' or 'eleventh'). If the tenth was called 'tenth', or not named at all, the eleventh is not sanctified."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 60b:19",
+    "quote": "דבעינן דליתעקר שם עשירי ממנו"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 21,
+   "anchors": [
+    "אֵין מְבִיאִין קָדָשִׁים לְבֵית הַפְּסוּל"
+   ],
+   "he": {
+    "term": "אין מביאין קדשים לבית הפסול",
+    "explanation": "כלל של ״רבנן״: אין מקריבים קרבן אם הדבר עלול להביא לפסול. כאן, אילו הקרבנו את שניהם, החזה והשוק היו נאכלים רק לכהנים והם מועטים, ועלול להיווצר נותר."
+   },
+   "en": {
+    "term": "We do not bring sacrifices to a place of disqualification",
+    "explanation": "A rule of the Sages: one does not offer a sacrifice where this could lead to disqualification. Here, were both offered, the breast and thigh could be eaten only by kohanim, who are few, and notar could result."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60b:21:1",
+    "quote": "שאילו היו קריבים צריך לאוכלן כחומר שבהם"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "טָעוּתוֹ מִתְקַדֶּשֶׁת"
+   ],
+   "he": {
+    "term": "טעותו מתקדשת",
+    "explanation": "הטעות בקריאת ״עשירי״ יוצרת קדושה, אך רק בבהמה הסמוכה לעשירי הגמור — התשיעי והאחד עשר — ולא בשמיני ובשנים עשר."
+   },
+   "en": {
+    "term": "His error is sanctified",
+    "explanation": "A mistake in calling an animal 'tenth' creates sanctity, but only in the animals adjacent to the true tenth — the ninth and eleventh — not the eighth or twelfth."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 60b:3:2",
+    "quote": "אינו מקודש אא״כ שטעה באותו שסמוך למעשר גמור"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    6
+   ],
+   "he": {
+    "title": "תשעה עשר טלאים: אין לברור עשרה, ותירוצו של רב הונא בר סחורה",
+    "gemara": "המשנה הקודמת אומרת שאין לומר ״אברור עשרה ואטול מהם אחד והשאר פטורים״; אלא כונסן לדיר, מוציא עשרה, נוטל אחד, והשאר מצטרפים לגורן אחר. הקשו מברייתא בתשעה עשר טלאים שבה נאמר ״והשאר פטורין״. רב הונא בר סחורה תירץ לפני רבא ברגל: מדובר בדיר בעל שני פתחים, ויצאו תשעה מכאן ותשעה מכאן, והאחרון ראוי להשלים לכאן ולכאן. הקשו: ונשנה שמנה תשעה וקרא את העשירי ״אחד״ מתחילה? קסבר עשירי מאליו קדוש. ונשנה בגורן ומנאן זוגות? קסבר עשירי למניין בהמות קדוש. רב נחמן בר יצחק שיבח את אמו של רב הונא שתירץ כשמועתו של רבא.",
+    "halakha": "הרמב״ם (הל׳ בכורות ח:יא): יצאו תשעה בפתח זה ותשעה בפתח השני, נוטל האחרון לשם מעשר וכולן פטורין, שאותן התשעה נמנו מנין הראוי."
+   },
+   "en": {
+    "title": "Nineteen lambs: no selecting ten, and Rav Huna bar Sechora's answer",
+    "gemara": "The preceding mishnah says one may not say 'I will select ten, take one of them, and the rest are exempt'; rather he pens them, takes out ten, tithes one, and the rest join another threshing-floor. A baraita about nineteen lambs says 'the rest are exempt'. Rav Huna bar Sechora answered before Rava on the festival-Sabbath: it is a pen with two doors, nine went out of one and nine out of the other, and the last one fits to complete both counts. The Gemara asks why not say he counted nine and called the tenth 'one' again; the answer is that the tenth is sanctified of itself. And why not say he counted in pairs; the answer is that the tenth is sanctified by the count of animals. Rav Nachman bar Yitzchak praised Rav Huna's mother for answering as Rava's own teaching.",
+    "halakha": "Rambam (Firstlings 8:11): if nine went out of one door and nine out of the other, he takes the last one as the tithe and all are exempt, because those nine were counted in a proper count."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:1:1",
+     "quote": "הכחושים והשאר פטורין משום דלא נשתיירו אלא חמשה דלאו בר עישורי נינהו",
+     "he": "מבאר שהברירה הייתה של הכחושים, והשאר היו נפטרים משום שנשארו חמישה בלבד שאינם בני מעשר.",
+     "en": "Explains that the selection would have been of the lean animals, the rest being exempt because only five remained, which are not subject to the tithe."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:1:2",
+     "quote": "כולן בין כחושים בין שמנים",
+     "he": "״כונסן לדיר״ — את כולן, בין כחושים ובין שמנים.",
+     "en": "'He pens them' means all of them, lean and fat alike."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:3:2",
+     "quote": "שנשתייר באחרונה הוי מנין הראוי בין להכא ובין להכא ופוטר את כולן",
+     "he": "האחד שנשאר באחרונה הוא מנין ראוי הן לכאן הן לכאן, ופוטר את כולן.",
+     "en": "The one left at the end forms a proper count for both sides, and exempts them all."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:5:1",
+     "quote": "וזוג עשירי לא היה רק אחד ויפטרו כולן במנין הראוי",
+     "he": "במנייה בזוגות, הזוג העשירי היה רק אחד, וכולם נפטרים במנין הראוי.",
+     "en": "Counting in pairs, the tenth pair was only one animal, so all are exempted by the proper count."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:5:2",
+     "quote": "דלא אזלינן אחר פיו שאומר אחד שנים אלא אחר בהמות שהוציא",
+     "he": "אין הולכים אחר מה שהוא אומר בפיו אלא אחר הבהמות שהוציא בפועל.",
+     "en": "We do not follow what he says aloud but the animals he actually took out."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:2",
+     "quote": "דהאי חד דנשתייר בדיר הי״ט חזי להשלים להכא ולהכא",
+     "he": "הטלה האחד שנשאר מתוך התשעה עשר ראוי להשלים לכאן ולכאן.",
+     "en": "The one lamb left of the nineteen is fit to complete the count on both sides."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:3",
+     "quote": "והנך ט׳ דמשתיירו לית בהו מנין הראוי וצריכי לאיצטרופי לגורן אחד",
+     "he": "התשעה שנשארו אין בהם מנין ראוי וצריכים להצטרף לגורן אחר.",
+     "en": "The nine left over do not have a proper count and must join another threshing-floor."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:4",
+     "quote": "כגון דמנאן זוגות זוגות שנים באחד עד שהגיע לט׳ הוו להו י״ח",
+     "he": "מפרש את הקושיה: מנאן זוגות זוגות, והגיעו לתשעה זוגות, שהם שמונה עשר.",
+     "en": "Explains the challenge: he counted in pairs until reaching nine pairs, which is eighteen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:6",
+     "quote": "ולא לחשבון המונה כלומר דלא אזלינן בתר מנין דידיה",
+     "he": "הקדושה היא לפי מניין הבהמות ולא לפי חשבון המונה.",
+     "en": "Sanctity follows the count of the animals, not the counter's own reckoning."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:4:1",
+     "quote": "קרייה חד כמרישא והתחיל למנות",
+     "he": "קרא לעשירי ״אחד״ כבתחילה והתחיל למנות מחדש.",
+     "en": "He called the tenth 'one' as at the start and began counting afresh."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:5:1",
+     "quote": "כיון דאין יודעין איזה ט׳ חייבין כולן פטורין",
+     "he": "מכיוון שאין יודעים אילו תשעה חייבים, כולן פטורים.",
+     "en": "Since we cannot tell which nine are liable, all are exempt."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:11",
+     "quote": "נוטל האחרון לשם מעשר וכלן פטורין שאותן התשעה נמנו מנין הראוי",
+     "he": "נוטל האחרון לשם מעשר וכולם פטורים, שאותם התשעה נמנו מנין הראוי.",
+     "en": "He takes the last as the tithe and all are exempt, since those nine were counted in a proper count."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    9
+   ],
+   "he": {
+    "title": "המשנה: יצאו שנים כאחת, וקריאת התשיעי ״עשירי״",
+    "gemara": "יצאו שנים כאחת — מונה אותם שנים שנים; מנאן אחד — תשיעי ועשירי מקולקלין. קרא לתשיעי ״עשירי״, לעשירי ״תשיעי״ ולאחד עשר ״עשירי״ — שלשתן מקודשין: התשיעי נאכל במומו, העשירי מעשר, ואחד עשר קרב שלמים ועושה תמורה, דברי רבי מאיר. רבי יהודה שואל: כי יש תמורה עושה תמורה? אמרו משום רבי מאיר: אילו היה תמורה לא היה קרב. ואם קרא לעשירי ״עשירי״ ולאחד עשר ״עשירי״ — אין אחד עשר מקודש; זה הכלל: כל שלא נעקר שם עשירי ממנו, אין אחד עשר מקודש.",
+    "halakha": "הרמב״ם (הל׳ בכורות ח:א): קרא לתשיעי או לאחד עשר עשירי — נתקדשו; קרא לשמיני או לשנים עשר — לא נתקדשו. והכסף משנה מציין שבפלוגתא דרבי מאיר ורבי יהודה פסק כרבי יהודה."
+   },
+   "en": {
+    "title": "The mishnah: two emerging together, and calling the ninth 'tenth'",
+    "gemara": "If two came out together he counts them as two; if he counted them as one, the ninth and tenth are 'spoiled'. If he called the ninth 'tenth', the tenth 'ninth', and the eleventh 'tenth', all three are sanctified: the ninth is eaten when blemished, the tenth is the tithe, and the eleventh is offered as a peace-offering and effects substitution (Rabbi Meir). Rabbi Yehuda asks: can a substitute effect a substitution? They said in Rabbi Meir's name: had it been a substitute it could not be offered. If he called the ninth 'tenth', the tenth 'tenth', and the eleventh 'tenth', the eleventh is not sanctified; the rule is: whenever the name 'tenth' was not uprooted from it, the eleventh is not sanctified.",
+    "halakha": "Rambam (Firstlings 8:1): if he called the ninth or eleventh 'tenth' they are sanctified; if he called the eighth or twelfth 'tenth' they are not. The Kessef Mishneh notes that in the dispute of Rabbi Meir and Rabbi Yehuda he rules like Rabbi Yehuda."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:7:1",
+     "quote": "זה אצל זה ברוחב הפתח",
+     "he": "״יצאו שנים כאחת״ — זה אצל זה ברוחב הפתח.",
+     "en": "'Two came out together' means side by side across the width of the opening."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:7:2",
+     "quote": "דיצאו ב׳ בתחלה ביחד דדמו כא׳ ולא מבריר עשירי",
+     "he": "כשיצאו שנים ביחד נראים כאחד ואין עשירי ברור, ולכן הם ״מקולקלין״, ושונה מקרא התשיעי ״עשירי״ אחד אחד.",
+     "en": "When two emerged together they look like one and the tenth is not clear, hence 'spoiled' — unlike calling the ninth 'tenth' when they come out one by one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:7:1",
+     "quote": "הויין מקולקלין דלא חל עליהן קדושה ליקרב אלא נאכלין במומן",
+     "he": "מפרש ״מקולקלין״ שלא חלה עליהן קדושה להקרב אלא נאכלין במומן.",
+     "en": "Explains 'spoiled' as: no sanctity to be offered falls on them; they are eaten when blemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:7:1",
+     "quote": "דמקולקלין היינו דקדושה חלה עליהן",
+     "he": "מביא מנמוקי רבי שמצא שמקולקלין היינו שהקדושה כן חלה עליהן.",
+     "en": "Cites a version he found in Nemukei Rabbi that 'spoiled' means that sanctity does fall on them."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 60a:7:1",
+     "quote": "מספקא לן אם נעשין כאחד ע״י שמנאן אחד או לא",
+     "he": "מסביר שמקולקלין משום ספק אם נעשים כאחד על ידי שמנאן אחד.",
+     "en": "Explains 'spoiled' as uncertainty whether counting them as one makes them one."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:8",
+     "quote": "אלא שניהם ירעו עד שיסתאבו ויפדה האחד של שלמים במעות",
+     "he": "שניהם רועים עד שיפול בהם מום, ופודים את האחד של השלמים במעות.",
+     "en": "Both graze until blemished, and the one that is the peace-offering is redeemed with money."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:1",
+     "quote": "אפלו קרא לתשיעי עשירי ולעשירי תשיעי ולאחד עשר עשירי בין בטעות בין בכונה שלשתן מקדשים",
+     "he": "אפילו בטעות ואפילו בכוונה — שלשתן מקודשים.",
+     "en": "Whether by mistake or on purpose, all three are sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:9:1",
+     "quote": "דאין תמורה עושה תמורה משום דכתיב תמורתו ולא תמורת תמורתו",
+     "he": "הטעם שאין תמורה עושה תמורה: ״תמורתו״ ולא תמורת תמורתו.",
+     "en": "Substitutes do not effect substitution because the verse says 'its substitute', not the substitute of a substitute."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:9:2",
+     "quote": "דתמורת מעשר אינה קריבה",
+     "he": "תמורת מעשר אינה קריבה, ולכן מכיוון שאחד עשר קרב — לא תמורה היא.",
+     "en": "A tithe's substitute is not offered; since the eleventh is offered, it is not a substitute."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:9:2",
+     "quote": "אינה תמורה שאם היה תמורה לא היה קרב",
+     "he": "אינה תמורה, שאם הייתה תמורה לא הייתה קרבה.",
+     "en": "It is not a substitute; were it one, it would not be offered."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:21",
+     "quote": "והאי אחד עשר תמורת שמו היא ולהכי קרבה",
+     "he": "האחד עשר הוא תמורת שמו של המעשר ולכן קרב; ולכן עושה תמורה שלא כשאר תמורה.",
+     "en": "The eleventh is a substitute of the tithe's name, hence it is offered, and so it effects substitution unlike other substitutes."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Firstlings 8:2:1",
+     "quote": "פלוגתא דר״מ ור״י ופסק כר״י",
+     "he": "מציין שבמשנה בסוף בכורות יש מחלוקת רבי מאיר ורבי יהודה, והרמב״ם פסק כרבי יהודה.",
+     "en": "Notes the mishnah at the end of Bekhorot has a dispute of Rabbi Meir and Rabbi Yehuda and that the Rambam ruled like Rabbi Yehuda."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 8:6:1",
+     "quote": "אבל דעת רש״י ז״ל דהעשירי שקראו תשיעי הוא מעשר גמור והי״א שקראו עשירי הוא קרב שלמים",
+     "he": "מביא שדעת רש״י שהעשירי שקראו תשיעי הוא מעשר גמור והאחד עשר שקראו עשירי קרב שלמים.",
+     "en": "Reports that Rashi holds the tenth called 'ninth' is the full tithe and the eleventh called 'tenth' is offered as a peace-offering."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 116:1",
+     "quote": "ור׳ מאיר סבירא ליה דאינו תמורה דהא תמורת מעשר אינו קרב והי״א קרב שלמים",
+     "he": "רבי מאיר סובר שאינו תמורה, שהרי תמורת מעשר אינה קרבה והאחד עשר קרב שלמים.",
+     "en": "Rabbi Meir holds it is not a substitute, since a tithe's substitute is not offered and the eleventh is offered as a peace-offering."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 15:5:2",
+     "quote": "האחד זה אחד עשר של מעשר שקרב שלמים",
+     "he": "מדרש בברייתא: ״לכבש האחד״ — זה האחד עשר של מעשר שקרב שלמים.",
+     "en": "A baraita reads 'for the one lamb' as the eleventh of the tithe that is offered as a peace-offering."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 361:1:4",
+     "quote": "והי״א שקרב שלמים נראה דדינו כשלמים",
+     "he": "אחד עשר שקרב שלמים נראה שדינו כשלמים לענין הלאו שלא לגאול מעשר.",
+     "en": "The eleventh offered as a peace-offering seems to have the law of a peace-offering regarding the prohibition against redeeming the tithe."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    16
+   ],
+   "he": {
+    "title": "מנאן זוגות זוגות וקינטרין: ״למניינו״ — למניין שלו או למניין בהמות",
+    "gemara": "רבי יוחנן: מנאן זוגות זוגות או קינטרין — עשירי למניינו קדוש. רב מארי: למניין שלו; רב כהנא: למניין בהמות. הקשו ממשנתנו: מנאן אחד — תשיעי ועשירי מקולקלין. לרב מארי מובן, אך לרב כהנא קשה. תירצו: רבי יוחנן אמר כשנתכוון להוציא זוגות, אך כשיצא מאליו — לא. ״מנאן למפרע — עשירי שבמניין קדוש״: רבא אמר שיש מניין פרסי, שקוראים לעשרה ״אחד״.",
+    "halakha": "הרמב״ם (הל׳ בכורות ח:ה): התחיל למנות ויצאו תחילה שנים, מונה הכל זוג זוג ומקדש זוג עשירי; וכן שלשה או חמשה בכל פעם — מקדש הכת העשירית."
+   },
+   "en": {
+    "title": "Counting in pairs and in hundreds: 'by its count' — his own count or the animals",
+    "gemara": "Rabbi Yochanan: if he counted in pairs or by hundreds, the tenth by its count is sanctified. Rav Mari says by his count; Rav Kahana says by the count of animals. The challenge from our mishnah — 'if he counted them as one, the ninth and tenth are spoiled' — fits Rav Mari but not Rav Kahana. Answer: Rabbi Yochanan spoke where he intended to bring them out in pairs; where they came out of themselves, no. 'He counted backwards — the tenth in the count is sanctified': Rava says there is a Persian count in which ten is called 'one'.",
+    "halakha": "Rambam (Firstlings 8:5): if he began counting and two came out first, he counts everything by pairs and sanctifies the tenth pair; likewise by threes or fives, he sanctifies the tenth group."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:9",
+     "quote": "וכשהגיע לזוג י׳ נטל ב׳ למעשר",
+     "he": "במנייה בזוגות, כשהגיע לזוג העשירי נטל שנים למעשר.",
+     "en": "Counting by pairs, on reaching the tenth pair he took two for the tithe."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:10:1",
+     "quote": "למאות שמנה כל מאה ומאה ביחד",
+     "he": "״קונטרין״ — מנה כל מאה ומאה ביחד.",
+     "en": "'Kunterin' means he counted each hundred together."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:11:1",
+     "quote": "מנין י׳ שהוא מונה שלאחר שמנה ט׳ מאות הוי הק׳ עשירית קודש",
+     "he": "״למניין שלו״ — לאחר שמנה תשע מאות, המאה העשירית קדושה.",
+     "en": "'By his count' — after counting nine hundred, the tenth hundred is sanctified."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:11:2",
+     "quote": "דלא אזלינן בתר מנין שלו אלא כשמנה ה׳ זוגות בהמות שהן י׳ בהמות הוי מיד מעשר",
+     "he": "״למניין בהמות״ — אין הולכים אחר מנינו, אלא כשמנה חמישה זוגות שהם עשר בהמות, מיד הוא מעשר.",
+     "en": "'By the animals' count' — we do not follow his count; once he counted five pairs, which is ten animals, it is at once the tithe."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60a:11:1",
+     "quote": "ואם ניכרים הרי טוב ואם לאו ירעו כולן",
+     "he": "בקינטרים: אם ניכרים העשיריים הרי טוב, ואם לאו — כולם רועים.",
+     "en": "With hundreds: if the tenths are recognizable, well and good; if not, all graze."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:14",
+     "quote": "אבל הכא במתני׳ דנפק ממילא דקתני יצאו שנים כאחד מעצמו לא קדוש למנין בהמה אלא למנין שלו",
+     "he": "תירוצו של רבי יוחנן לפי רב כהנא: במשנה שיצאו מעצמם אין קדושה למניין בהמות אלא למניין שלו.",
+     "en": "Rabbi Yochanan's answer according to Rav Kahana: in the mishnah, where they came out by themselves, sanctity follows his count and not the animals'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:14:1",
+     "quote": "אלא בתר מנין שלו נמי אזלינן",
+     "he": "היכא דנפק ממילא — לא אומרים למניין בהמות, אלא גם אחר מנין שלו הולכים.",
+     "en": "Where it came out of itself, we do not say 'by the animals' count' but follow his count as well."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60a:15:1",
+     "quote": "שהראשון שיצא קרא עשרה והב׳ תשעה",
+     "he": "״מנאן למפרע״ — הראשון שיצא קרא ״עשרה״ והשני ״תשעה״ וכן הלאה.",
+     "en": "'Backwards' — the first to come out he called 'ten', the second 'nine', and so on."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60a:16",
+     "quote": "דלעשרה קרו חד הוי האי חד כמו עשירי למנין שלו",
+     "he": "במניין הפרסי קוראים לעשרה ״אחד״, ולכן ה״אחד״ הוא כעשירי למניינו.",
+     "en": "In the Persian count ten is called 'one', so that 'one' is like the tenth in his count."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:5",
+     "quote": "מונה הכל זוג זוג ומקדש זוג עשירי",
+     "he": "התחיל למנות ויצאו שנים — מונה הכל זוג זוג ומקדש זוג עשירי.",
+     "en": "He counts everything pair by pair and sanctifies the tenth pair."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:7",
+     "quote": "הרי זה קדש שהעשירי מאליו נתקדש",
+     "he": "מנאן למפרע, והעשירי מאליו נתקדש.",
+     "en": "If counted backwards, the tenth is sanctified of itself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 60a:4",
+     "quote": "פרש״י בזה דחוק מאד",
+     "he": "הרש״ש כותב שפירוש רש״י בקושיה זו דחוק מאד, ומציע להפוך את הנוסח: ״בשלמא למאן דאמר למנין בהמות... אלא למאן דאמר למנין שלו״.",
+     "en": "The Rashash writes that Rashi's explanation here is very forced and proposes reversing the wording: 'granted for the one who says by the animals' count... but for the one who says by his own count'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 60a:5",
+     "quote": "והרמב״ם בחבורו פ״ח מהל׳ בכורות ה״ז כתב בזה הטעם שהעשירי מאליו נתקדש",
+     "he": "מציין שהרמב״ם בהל׳ בכורות ח:ז כתב כאן שהעשירי מאליו נתקדש, וזה צריך עיון.",
+     "en": "Notes that the Rambam (Firstlings 8:7) gives here the reason that the tenth is sanctified of itself, which needs further study."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    6
+   ],
+   "he": {
+    "title": "מנין ששלשתן מקודשין, וקושיית ״טעותו מיוחדת״",
+    "gemara": "״תנו רבנן: מנין שאם קרא לתשיעי עשירי... ששלשתן מקודשין? תלמוד לומר ״וכל מעשר בקר וצאן... העשירי יהיה קדש״. יכול שאני מרבה אף שמיני ושנים עשר? אמרת: מה הוא אינו מקודש אלא בסמוך, אף טעותו אינה מתקדשת אלא בסמוך״. הקשו: ״מה הוא מיוחד, אף טעותו מיוחדת״ — ואיך שלשתן? תירצו: זו רבי אלעזר ברבי שמעון, שאין אחד עשר קדוש עד שישתוק בתשיעי; הוא סובר כרבי יהודה שטעות מעשר תמורה, וכאביו שאין מימר חוזר ומימר."
+   },
+   "en": {
+    "title": "The source that all three are sanctified, and the 'unique error' challenge",
+    "gemara": "The Sages taught: how do we know that if he called the ninth 'tenth', the tenth 'ninth' and the eleventh 'tenth', all three are sanctified? 'All the tithe of herd and flock... the tenth shall be holy.' Might I include also the eighth and twelfth? You said: just as the tenth itself sanctifies only what is adjacent, so its error sanctifies only what is adjacent. The challenge: 'as it is unique, so its error is unique' — how then three? The answer: this is Rabbi Elazar son of Rabbi Shimon, who holds the eleventh is not sanctified unless he is silent about the ninth; he follows Rabbi Yehuda that a tithe-error is a substitution, and his father that one cannot substitute again."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:1",
+     "quote": "לרבות כל שקרא עליו שם מעשר",
+     "he": "״וכל מעשר״ — לרבות כל שקרא עליו שם מעשר.",
+     "en": "'And all the tithe' — to include whatever was called by the name of the tithe."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:2:1",
+     "quote": "משמע בין שקראו הוא עשירי בין שהיה עשירי למנין ולא קראו עשירי",
+     "he": "הפסוק כולל גם את מי שקראו עשירי וגם את מי שהיה עשירי בפועל ולא קראו כך.",
+     "en": "The verse covers both one he called tenth and one that was tenth in the count but not called so."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:3:2",
+     "quote": "אינו מקודש אא״כ שטעה באותו שסמוך למעשר גמור",
+     "he": "טעותו מקדשת רק אם טעה בסמוך למעשר גמור — התשיעי והאחד עשר.",
+     "en": "His error sanctifies only if he erred about the one adjacent to the true tithe — the ninth and the eleventh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:4:2",
+     "quote": "אם טעה בתשיעי ובאחד עשר לא היו שנים מקודשין אלא אחד מהם",
+     "he": "לפי ״טעותו מיוחדת״, אם טעה בתשיעי ובאחד עשר היה מקודש רק אחד מהם.",
+     "en": "On 'its error is unique', if he erred about both the ninth and eleventh, only one of them would be sanctified."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Nazir 31b:11:2",
+     "quote": "דאין המעשר מקדש אלא הסמוך לו",
+     "he": "המעשר אינו מקדש אלא את הסמוך לו, ולכן שמיני ושנים עשר לא.",
+     "en": "The tithe sanctifies only what is adjacent to it, so not the eighth or twelfth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:5",
+     "quote": "לאפוקי שמיני ושנים עשר",
+     "he": "טעותו מתקדשת רק בסמוך לו — להוציא שמיני ושנים עשר.",
+     "en": "His error is sanctified only adjacent to it — excluding the eighth and twelfth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:9",
+     "quote": "הואיל וכבר קדש עשירי גופיה הוה ליה האי י״א תמורת שמו של מעשר",
+     "he": "רבי אלעזר אומר דווקא אחד עשר ולא תשיעי, משום שהעשירי כבר קדוש והאחד עשר תמורת שמו.",
+     "en": "Rabbi Elazar names the eleventh and not the ninth because the tenth is already sanctified and the eleventh is a substitute of its name."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:10",
+     "quote": "דלאחר שהמיר בבהמת קדשים בהמה של חולין אינו חוזר ומימר בהמה אחרת של חולין",
+     "he": "״אין מימר חוזר ומימר״: אחרי שהמיר בבהמת קדשים בהמה של חולין, אינו חוזר ומימר בה בהמה אחרת של חולין.",
+     "en": "'One cannot substitute again': after substituting an unconsecrated animal for a consecrated one, he cannot substitute another unconsecrated animal for it."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:6:1",
+     "quote": "וכיון דעבדיה י׳ לט׳ תו לא עביד י״א תמורה",
+     "he": "לרבי יהודה טעות מעשר תמורה, ומכיוון שעשה את התשיעי עשירי אין האחד עשר תמורה נוספת.",
+     "en": "For Rabbi Yehuda a tithe-error is a substitution, and since he already made the ninth a 'tenth', the eleventh is not a further substitution."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 60b:5:1",
+     "quote": "דאם קראו לתשיעי תשיעי תו לא הוי טעות כשקרא לעשירי תשיעי",
+     "he": "מפרש ״שישתוק בתשיעי״ אחרת: אם קרא לתשיעי תשיעי, אין קריאת העשירי ״תשיעי״ טעות.",
+     "en": "Offers another reading of 'silent about the ninth': if he called the ninth 'ninth', calling the tenth 'ninth' is no longer an error."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 116:1",
+     "quote": "כמו שהוא עצמו אינו מקדש אלא את הסמוך לו",
+     "he": "מבאר שכמו שהעשירי עצמו אינו מקדש אלא את הסמוך לו, כך טעותו אינה מקדשת אלא את הסמוך לו.",
+     "en": "Explains that as the tenth itself sanctifies only what is adjacent, so does its error."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Zevachim 10:3:1",
+     "quote": "אדרבא מעשר קודם שכן מקדש לפניו ואחריו",
+     "he": "מביא את משנת זבחים ומסביר שהמעשר ״מקדש לפניו ואחריו״ כדתנן בסוף בכורות.",
+     "en": "Cites the Zevachim discussion that the tithe 'sanctifies before and after it', as taught at the end of Bekhorot."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 8:3:1",
+     "quote": "כל זמן שלא נעקר שם עשירי הימנו אין י״א מקודש",
+     "he": "מצטט את התוספתא: ״זה הכלל, כל זמן שלא נעקר שם עשירי הימנו אין י״א מקודש״.",
+     "en": "Quotes the Tosefta: 'This is the rule: so long as the name tenth was not uprooted from it, the eleventh is not sanctified'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    10
+   ],
+   "he": {
+    "title": "דברי רבא: יצאו שנים בתשיעי או בעשירי",
+    "gemara": "רבא: יצאו שנים בתשיעי וקראן ״תשיעי״ — עשירי וחולין מעורבין (העשירי מאליו קדוש); קראן ״עשירי״ — עשירי ותשיעי מעורבין. יצאו שנים בעשירי וקראן ״עשירי״ — עשירי ואחד עשר מעורבין; קראן ״אחד עשר״ — עשירי וחולין מעורבין. והקשו: הא תו למה לי? הרי זה כמו קודמו — ותירצו: להשמיענו שבבת אחת שניהם קדושים, אף שלא נעקר שם ״עשירי״."
+   },
+   "en": {
+    "title": "Rava's rulings: two come out at the ninth or at the tenth",
+    "gemara": "Rava: two came out at the ninth and he called them 'ninth' — tenth and unconsecrated are mixed (the tenth is sanctified of itself); called 'tenth' — tenth and ninth are mixed. Two came out at the tenth and he called them 'tenth' — tenth and eleventh are mixed; called 'eleventh' — tenth and unconsecrated are mixed. The Gemara asks: why do I need this again, it is the same as the first? Answer: it teaches that when together both are sanctified, even though the name 'tenth' was not uprooted."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:7:2",
+     "quote": "דאחד מהן הוי תשיעי ואחד מעשר אע״ג דקראו תשיעי",
+     "he": "״עשירי וחולין״ — כי אחד מהם תשיעי ואחד מעשר, אף שקראם תשיעי.",
+     "en": "'Tenth and unconsecrated' — one of them is the ninth and one the tithe, even though he called them ninth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:7:3",
+     "quote": "והגוזז והעובד אחד מהן אינו סופג את הארבעים",
+     "he": "מעורבין אינם נאכלין אלא במומם, והגוזז והעובד באחד מהם אינו סופג את הארבעים, שמא חולין הוא.",
+     "en": "Mixed animals are eaten only when blemished, and one who shears or works one of them does not receive the forty, since it may be unconsecrated."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:8:1",
+     "quote": "והגוזז והעובד בהם לוקה דשניהם קדושים",
+     "he": "כשקראן ״עשירי״ — שניהם קדושים, ולכן הגוזז והעובד בהם לוקה.",
+     "en": "When he called both 'tenth' both are sanctified, so one who shears or works them is flogged."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:12",
+     "quote": "ושניהם יאכלו במומן לבעלים",
+     "he": "״עשירי וחולין מעורבין״ — שניהם נאכלים במומם לבעלים.",
+     "en": "'Tenth and unconsecrated mixed' — both are eaten by the owners when blemished."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:14",
+     "quote": "ואי גאל ומכר אחד מהן לוקה דתרוייהו עשירי קרי להו",
+     "he": "כשקראן ״עשירי״ ואינו יודע מי מהם — אם גאל או מכר אחד מהם לוקה, שהרי שניהם קרא ״עשירי״.",
+     "en": "When he called both 'tenth' and does not know which — if he redeemed or sold one he is flogged, since he called both 'tenth'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:9:1",
+     "quote": "ומשום דאחד עשר שהוא קדוש קרב שלמים לכך יקרבו שניהם ויאכלו כחומר קודש שבהן",
+     "he": "״עשירי ואחד עשר מעורבין״ — לפי רש״י יקרבו שניהם, ויאכלו כחומר הקודש שבהם.",
+     "en": "'Tenth and eleventh mixed' — Rashi says both are offered and eaten with the stricter law of the two."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:15",
+     "quote": "ליהוו תרווייהו רועין עד שיסתאבו והדר פודה חד מנייהו",
+     "he": "לפי רבינו גרשום שניהם רועים עד שיסתאבו, ואחר כך פודה אחד מהם ושניהם נאכלים במומם לבעלים.",
+     "en": "Rabbeinu Gershom: both graze until blemished, then he redeems one and both are eaten by the owners."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:4",
+     "quote": "הרי העשירי והחלין מערבין זה בזה ויאכלו במומן",
+     "he": "קראן ״אחד עשר״ — העשירי והחולין מעורבין ויאכלו במומם.",
+     "en": "If he called them 'eleventh', the tenth and unconsecrated are mixed and are eaten when blemished."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 60b:9:1",
+     "quote": "דמצי סבר אי אפשר לצמצם",
+     "he": "מפנה למה שכתב בפרק שני: ייתכן שרבא סבר שאי אפשר לצמצם.",
+     "en": "Refers to what he wrote in the second chapter: perhaps the Gemara holds that exactness is impossible."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Eruvin 50a:10:1",
+     "quote": "ע״כ סבר רבה דאפשר לצמצם שיצאו שניהם בבת אחת",
+     "he": "בתוספות עירובין: בהכרח סבר שאפשר לצמצם שיצאו שניהם בבת אחת.",
+     "en": "In Tosafot Eruvin: he must hold that it is possible to be exact so that both came out together."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Yevamot 28a:4:1",
+     "quote": "דאפשר לצמצם גבי יצאו שנים בעשירי",
+     "he": "בתוספות יבמות: לרבא בסוף בכורות אפשר לצמצם בענין ״יצאו שנים בעשירי״.",
+     "en": "Tosafot Yevamot: for Rava at the end of Bekhorot, exactness is possible in the case of 'two came out at the tenth'."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 60b:1",
+     "quote": "הוא לענין ללקות על אחד מהן בגיזה ועבודה",
+     "he": "מסביר שההבדל בין ״עשירי ותשיעי מעורבין״ לבין ״עשירי וחולין מעורבין״ הוא לענין מלקות על גיזה ועבודה.",
+     "en": "Explains the difference between 'tenth and ninth mixed' and 'tenth and unconsecrated mixed' is whether one is flogged for shearing or working."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 8:4:1",
+     "quote": "והנה לדעת רש״י ז״ל יש חילוק דין בכל אחד מהם",
+     "he": "מעיר שלפי רש״י יש הבדל דין בכל אחת מהחלוקות — נאכלין במומן או קרבים, ומלקות על גיזה ועבודה.",
+     "en": "Notes that on Rashi's view each case has a different law — eaten when blemished or offered, and flogging for shearing or working."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    11,
+    19
+   ],
+   "he": {
+    "title": "רב אשי: ״כלל״ ו״בבת אחת״, ורבי: ״אחד עשר״ שאינו עקירה",
+    "gemara": "רב אשי הקשה לרב כהנא: והרי לא נעקר שם עשירי — ו״זה הכלל״? תירץ: זה אחר זה, אבל בבת אחת שניהם קדושים. ״זה הכלל״ בא להוסיף ״יצא עשירי ולא דיבר״. ואם לא — הברייתא של ״יצאו שנים בעשירי ולא קדם״ — מתרצים: קדם אחד, הוציא ראשו וקראו ״אחד עשר״, ואחר כך נתערבו. ״וכמאן — דלא כרבי״, שאמר שאחד עשר אינו עקירה. תירץ: אף כרבי, כי אמר כשיש לו בהמות הרבה (״חד עישורא קאמר״), אבל כאן אין לו.",
+    "halakha": "הרמב״ם (הל׳ בכורות ח:ג): אפילו יצא העשירי ולא קראו כלל, ואחר כך קרא לאחד עשר עשירי — הואיל ולא עקר שם עשירי מעליו, אין אחד עשר מקודש."
+   },
+   "en": {
+    "title": "Rav Ashi: the 'rule' and 'together'; Rabbi: 'eleventh' is no uprooting",
+    "gemara": "Rav Ashi challenged Rav Kahana: the name 'tenth' was not uprooted, and we learned 'this is the rule'! He answered: that is one after the other; together both are sanctified. 'This is the rule' comes to add 'the tenth came out and he said nothing'. Otherwise, the baraita 'two came out at the tenth and neither preceded' — answer: one preceded, he took its head out and called it 'eleventh', and then they got mixed. 'Like whom? Not like Rabbi, who says calling it eleventh is no uprooting.' Answer: even Rabbi, when he has many animals ('he means one tithe'), but here he has not.",
+    "halakha": "Rambam (Firstlings 8:3): even if the tenth came out and he said nothing, and then the eleventh came out and he called it 'tenth' — since he did not uproot the name 'tenth' from it, the eleventh is not sanctified."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:19",
+     "quote": "דבעינן דליתעקר שם עשירי ממנו",
+     "he": "״הני מילי״ — דווקא כשנפקו זה אחר זה, שצריך שיעקר שם עשירי ממנו.",
+     "en": "'This applies' — only when they came out one after the other, where the name 'tenth' must be uprooted from it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:20",
+     "quote": "כי נפקי בחדא וקראו עשירי תרוייהו קדש",
+     "he": "אבל בבת אחת — כשיצאו כאחת וקראן ״עשירי״, שניהם קדושים.",
+     "en": "But together — when they came out as one and he called them 'tenth', both are sanctified."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:13:1",
+     "quote": "דודאי לא קדש הואיל ולא נעקר שם עשירי",
+     "he": "״יצא עשירי ולא דיבר״ — אחד עשר ודאי לא קדוש, הואיל ולא נעקר שם עשירי.",
+     "en": "'The tenth came out and he said nothing' — the eleventh is surely not sanctified, since the name 'tenth' was not uprooted."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:23",
+     "quote": "דקדים חד מנייהו ואפקיה לרישיה וקרייה אחד עשר",
+     "he": "מפרש את המקרה: אחד מהם קדם והוציא ראשו וקראו ״אחד עשר״ — שנעקר שם עשירי ממנו.",
+     "en": "Explains the case: one preceded, put out its head and he called it 'eleventh', so the name 'tenth' was uprooted from it."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:14:2",
+     "quote": "דאי קדם הוי הקודם י׳ והי״א חולין דלא נעקר שם י׳",
+     "he": "״ולא קדם״ — אם היה קודם, הקודם היה עשירי והאחד עשר חולין, כי לא נעקר שם עשירי.",
+     "en": "'Did not precede' — had one preceded, it would be the tenth and the eleventh unconsecrated, as the name 'tenth' was not uprooted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:15:2",
+     "quote": "דהשתא נעקר שם עשירי ממנו שלא קראו עשירי אלא אחד עשר",
+     "he": "כשקראו ״אחד עשר״ נעקר ממנו שם עשירי, ולכן קדוש גם כשחזרו וקראו שניהם ״עשירי״.",
+     "en": "By calling it 'eleventh' the name 'tenth' was uprooted from it, so it is sanctified even when he later called both 'tenth'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:27",
+     "quote": "הרי כבר מניתי אחד עשרון וכבר הפרשתי מעשר אחד מן המעשרות שיש לי להפריש",
+     "he": "״חד עישורא קאמר״ — הרי מניתי אחד עשרון והפרשתי מעשר אחד מן המעשרות שיש לי להפריש.",
+     "en": "'He means one tithe' — I have counted one tenth and set aside one of the tithes I have to separate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:18:1",
+     "quote": "איכא למימר דבהכי לא נעקר שם עשירי ממנו",
+     "he": "כשיש לו בהמות הרבה, אפשר לומר שבקריאת ״אחד עשר״ לא נעקר שם עשירי ממנו.",
+     "en": "When he has many animals, we may say that by calling it 'eleventh' the name 'tenth' was not uprooted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:18:2",
+     "quote": "אין מנהגו של עולם לומר זה עישור אחד אלא אם כן יודע שיהו לו עישוריות הרבה",
+     "he": "כשאין לו בהמות רבות אין דרכו של עולם לומר ״עישור אחד״, ולכן ״אחד עשר״ ממש קאמר ועקר שם עשירי.",
+     "en": "It is not the world's way to say 'one tithe' unless he knows he will have many tithings, so 'eleven' is meant literally and uproots the name 'tenth'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:28",
+     "quote": "ודאי כי קרי לי׳ אחד עשר אפי׳ רבי מודה דהוי עקירת שם עשירי ממנו",
+     "he": "כשאין לו בהמות רבות, אפילו רבי מודה שקריאת ״אחד עשר״ היא עקירת שם עשירי.",
+     "en": "Where he lacks many animals, even Rabbi agrees that calling it 'eleventh' uproots the name 'tenth'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:3",
+     "quote": "הואיל ולא עקר שם עשירי מעליו אין אחד עשר מקדש",
+     "he": "הרמב״ם: אף אם שתק בעשירי, אין אחד עשר מקודש, כי לא עקר שם עשירי ממנו.",
+     "en": "Rambam: even if he was silent about the tenth, the eleventh is not sanctified, because he did not uproot the name 'tenth' from it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 60b:2",
+     "quote": "דהוה שמיע ליה אלא דמקשה",
+     "he": "הרש״ש כותב שאפשר לומר שרב אשי כן שמע את התירוץ, אלא שהוא מקשה ממשנה ש״זה הכלל״ בא להוסיף ״בבת אחת״.",
+     "en": "The Rashash writes that Rav Ashi may well have heard the answer, but is asking from the mishnah that 'this is the rule' must come to add 'together'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    20,
+    21
+   ],
+   "he": {
+    "title": "יצאו שנים בעשירי: ירעו, יקרבו או ימותו — ״אין מביאין קדשים לבית הפסול״",
+    "gemara": "יצאו שנים בעשירי: ברייתא אחת — ירעו; שנייה — יקרבו; שלישית — ימותו. תירוץ: ״ירעו״ — דעת רבנן שאומרים אין מביאין קדשים לבית הפסול (אין מקריבים קדשים כשייתכן שיבואו לפסול).",
+    "halakha": "הרמב״ם (הל׳ פסולי המוקדשין ו:יב): אין מביאין קדשים לבית הפסול ואין ממעטין באכילתן."
+   },
+   "en": {
+    "title": "Two came out at the tenth: graze, be offered, or die — 'we do not bring sacrifices to a place of disqualification'",
+    "gemara": "Two came out at the tenth: one baraita says they graze; another, they are offered; another, they die. The answer: 'graze' is the Sages, who say 'we do not bring sacrifices into a place of disqualification'.",
+    "halakha": "Rambam (Sacrifices Rendered Unfit 6:12): we do not bring sacrifices into a place of disqualification, and we do not lessen their eating."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:20:1",
+     "quote": "דהנהו שנים שמעורבין ירעו עד שיסתאבו",
+     "he": "מפרש שהשנים המעורבים ירעו עד שיסתאבו.",
+     "en": "Explains that the two mixed animals graze until blemished."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:20:2",
+     "quote": "שלמים טעונים סמיכה ונסכים ותנופת חזה ושוק",
+     "he": "״יקרבו״ — בשלמים, ושלמים טעונים סמיכה, נסכים ותנופת חזה ושוק.",
+     "en": "'Offered' — as peace-offerings, which require leaning, libations and waving of the breast and thigh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 60b:21:1",
+     "quote": "ומתוך שהכהנים מועטין הן אין נאכל אלא לכהנים",
+     "he": "אם יקרבו, החזה והשוק נאכלים רק לכהנים, והם מועטים — וחשש שיפסלו בלינה.",
+     "en": "If offered, the breast and thigh are eaten only by kohanim, who are few — risking disqualification by lingering past the time."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Rashi (manuscript)"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 60b:21:1",
+     "quote": "רבנן הוא דפליגי על ר״ש דאמרי אין מביאין קדשים לבית הפסול",
+     "he": "״ירעו״ — רבנן, החולקים על רבי שמעון, האומרים אין מביאין קדשים לבית הפסול.",
+     "en": "'Graze' — the Sages, who dispute Rabbi Shimon, saying we do not bring sacrifices into a place of disqualification."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 60b:30",
+     "quote": "זימנין דהוי לכהנים רוב קרבנות ולא מספקי למיכלינה להני חזה ושוק בתוך זמנן",
+     "he": "לפעמים לכהנים קרבנות רבים ואינם מספיקים לאכול את החזה והשוק בזמנם, ויבוא לפסול.",
+     "en": "Sometimes the kohanim have many offerings and cannot eat the breast and thigh within their time, leading to disqualification."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrifices Rendered Unfit 6:12",
+     "quote": "ואין מביאין קדשים לבית הפסול ואין ממעטין באכילתן",
+     "he": "פוסק: אין מביאין קדשים לבית הפסול ואין ממעטין באכילתן.",
+     "en": "Rules: we do not bring sacrifices into a place of disqualification and we do not lessen their eating."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Sacrificial Procedure 3:13:1",
+     "quote": "אבל לרבנן דסבירא להו אין מביאין קדשים לבית הפסול ליתיה בתקנתא אלא ירעו עד שיסתאבו",
+     "he": "מבאר שפירוש רש״י שיקרבו שניהם הוא לרבי שמעון בלבד, אבל לרבנן אין תקנה אלא ירעו עד שיסתאבו.",
+     "en": "Explains that Rashi's 'both are offered' holds only for Rabbi Shimon; for the Sages there is no remedy but that they graze until blemished."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura II 1:90:5",
+     "quote": "נראה מדברי רש״י בבכורות לפי שאוכליהן רק לכהנים והן מועטים",
+     "he": "מסיק מדברי רש״י בבכורות שהחשש הוא שאוכליהן רק הכהנים והם מועטים.",
+     "en": "Infers from Rashi in Bekhorot that the concern is that only the kohanim eat them, and they are few."
+    }
+   ]
+  }
+ ]
+}
