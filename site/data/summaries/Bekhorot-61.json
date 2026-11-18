@@ -1,0 +1,678 @@
+{
+ "ref": "Bekhorot 61",
+ "date": "2026-11-18",
+ "he": {
+  "overview": "הדף האחרון של מסכת בכורות עוסק במעשר בהמה שטעה בו בעליו. הגמרא ממשיכה לברר אם לרבי יהודה האחד עשר קרב כשלמים או מת, מהברייתות ומהספרא, ומסבירה שהברייתא ״ימותו״ מדברת במעשר בזמן הזה משום תקלה. אחר כך דנה במחלוקת רב פפי ורב פפא בשליח שקרא לתשיעי או לאחד עשר ״עשירי״, ומשווה למשנה בתרומות על שליח שטעה בשיעור. הראשונים והאחרונים דנים בטעמי ההבדל ובפסק הרמב״ם.",
+  "title": "סיכום — בכורות ס״א א"
+ },
+ "en": {
+  "overview": "The last daf of Bekhorot deals with an owner’s error in tithing animals. The Gemara continues to ask whether, for Rabbi Yehuda, the eleventh animal is offered as a peace offering or dies, from the baraitot and the Sifra, and explains that the baraita ‘they die’ refers to tithe in our time because of a mishap. It then discusses the dispute of Rav Pappi and Rav Pappa over an agent who called the ninth or eleventh ‘the tenth’, and compares it to the mishna in Terumot about an agent who erred in the measure. The Rishonim and Acharonim discuss the reasons for the difference and the Rambam’s ruling.",
+  "title": "Summary — Bekhorot 61"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "תְּמוּרַת מַעֲשֵׂר מֵתָה"
+   ],
+   "he": {
+    "term": "תמורת מעשר מתה",
+    "explanation": "אם מישהו החליף בהמת מעשר באחרת, גם הבהמה האחרת קדושה. לדעת רבי יהודה, טעות במעשר (קרא לתשיעי או לאחד עשר ״עשירי״) דינה כתמורה, ותמורת מעשר אינה קריבה אלא מתה."
+   },
+   "en": {
+    "term": "Temurat ma'aser meta (a tithe-substitute dies)",
+    "explanation": "When one substitutes another animal for an animal tithe, the second animal also becomes holy. According to Rabbi Yehuda, a mistake in tithing (calling the ninth or eleventh ‘the tenth’) has the law of a substitute, and a tithe-substitute is not offered but dies."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 61a:2:1",
+    "quote": "ותמורת מעשר אינה קריבה אלא מתה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "הֶקְדֵּשׁ לְפָנָיו מְקַדֵּשׁ"
+   ],
+   "he": {
+    "term": "הקדש לפניו מקדש",
+    "explanation": "השאלה אם בהמה מקדשת את תמורתה לפני שהיא עצמה קדושה. הגמרא מסיקה שהקדש מקדש רק לאחריו, ולכן האחד עשר נעשה קדוש אך לא התשיעי."
+   },
+   "en": {
+    "term": "Hekdesh lefanav mekadesh (does consecration sanctify before itself?)",
+    "explanation": "The question is whether an animal sanctifies its substitute before it is itself holy. The Gemara concludes that it sanctifies only afterwards, so the eleventh becomes holy but not the ninth."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 61a:6:1",
+    "quote": "אלא לאחר שהוא קדוש"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "מִשּׁוּם תַּקָּלָה"
+   ],
+   "he": {
+    "term": "משום תקלה",
+    "explanation": "חשש שמא בעל הבהמה יבוא לידי תקלה, כגון גיזה ועבודה בבהמה קדושה או אכילתה בלא מום. לכן בזמן הזה, כשאין קרבנות, בהמת המעשר מתה."
+   },
+   "en": {
+    "term": "Mishum takalah (concern of a mishap)",
+    "explanation": "A concern that the owner might come to a mishap, such as shearing or working a consecrated animal, or eating it without a blemish. Therefore in our time, when no offerings are brought, the tithe animal is left to die."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 61a:8:2",
+    "quote": "לידי תקלה לידי גיזה ועבודה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 10,
+   "anchors": [
+    "לְתַקּוֹנֵי שַׁדַּרְתָּיךָ וְלָא לְעַוּוֹתֵי"
+   ],
+   "he": {
+    "term": "לתקוני שדרתיך ולא לעוותי",
+    "explanation": "שליח מתמנה לתועלת המשלח ולא להפסדו. אם עשה פעולה שמזיקה לבעלים, אין שליחותו חלה."
+   },
+   "en": {
+    "term": "Letakuney shadartikha velo le'avvutei",
+    "explanation": "An agent is appointed for the sender’s benefit and not to his detriment. If he does something that harms the owner, his agency does not take effect."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Bekhorot 61a:10:2",
+    "quote": "להפסידני לא שויתיך שליח"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "בְּעַיִן יָפָה"
+   ],
+   "he": {
+    "term": "עין יפה, בינונית ועין רעה",
+    "explanation": "שיעורי תרומה: עין יפה אחד מארבעים, בינונית אחד מחמישים, עין רעה אחד משישים."
+   },
+   "en": {
+    "term": "Ayin yafah (generous eye), beinonit, ayin ra'ah",
+    "explanation": "The measures of teruma: generous one-fortieth, medium one-fiftieth, stingy one-sixtieth."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Bekhorot 61a:12",
+    "quote": "עין יפה אחד מארבעים בינונית אחד מחמשים עין רעה אחד מששים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "סְתָם סִיפְרָא"
+   ],
+   "he": {
+    "term": "סתם ספרא רבי יהודה",
+    "explanation": "כלל שהספרא (תורת כהנים) שאינו נושא שם אומר הוא כדעת רבי יהודה. לכן הדרשה ״מן הבקר״ מתייחסת לשיטתו."
+   },
+   "en": {
+    "term": "Setam Sifra Rabbi Yehuda",
+    "explanation": "A rule that the Sifra (Torat Kohanim) without an attribution follows Rabbi Yehuda. So the derivation from ‘of the herd’ reflects his view."
+   },
+   "source": {
+    "who": {
+     "he": "מלבי״ם",
+     "en": "Malbim"
+    },
+    "ref": "Malbim on Leviticus, Vayikra 157:1",
+    "quote": "וסתם ספרא ר' יהודה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    7
+   ],
+   "he": {
+    "title": "דעת מי הברייתות: אחד עשר שיקרב או ימות",
+    "gemara": "הגמרא מבררת שהברייתא ״יקריבו״ היא כרבי שמעון והברייתא ״ימותו״ כרבי יהודה, שטעות מעשר היא תמורה ותמורת מעשר מתה. מקשה מדברי רבי מאיר במשנה, מברייתא ״אין בין אחד עשר לשלמים״ ומהספרא ״אם מן הבקר״ לרבות אחד עשר, שמהן עולה שלרבי יהודה האחד עשר קרב.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Whose baraitot: must the eleventh animal be offered or die?",
+    "gemara": "The Gemara says the baraita ‘they are offered’ follows Rabbi Shimon and the baraita ‘they die’ follows Rabbi Yehuda, who holds a mistaken tithe is a substitute and a tithe-substitute dies. It objects from Rabbi Meir’s remark in the mishna, the baraita ‘the only difference between the eleventh and a peace offering’, and the Sifra ‘if of the herd’, all implying that for Rabbi Yehuda the eleventh is offered.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:1",
+     "quote": "וסבר ר' יהודה תמורת מעשר מתה",
+     "he": "רבינו גרשום מפרש שרבי יהודה סובר שתמורת מעשר מתה.",
+     "en": "Rabbeinu Gershom explains that Rabbi Yehuda holds a tithe-substitute dies."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:2:1",
+     "quote": "ותמורת מעשר אינה קריבה אלא מתה",
+     "he": "רש״י: תמורת מעשר אינה קרבה אלא מתה.",
+     "en": "Rashi: a substitute for a tithe is not offered but dies."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:3:1",
+     "quote": "לאו תמורה היא דאלו היה תמורה לא היה קרב",
+     "he": "בכתב יד רש״י: לפי רבי מאיר האחד עשר אינו תמורה, כי אילו היה תמורה לא היה קרב.",
+     "en": "In the Ktav Yad Rashi: according to Rabbi Meir’s argument the eleventh is not a substitute, since were it a substitute it would not be offered."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:2",
+     "quote": "לנפשיה קאמר דלר\"מ קרבה ולר\"י מתה",
+     "he": "רבינו גרשום: ״למאי דסבירא ליה״ — רבי מאיר אמר לשיטתו שקרבה, ולרבי יהודה היא מתה.",
+     "en": "Rabbeinu Gershom: ‘according to what he holds’ means Rabbi Meir spoke from his own view that it is offered, while for Rabbi Yehuda it dies."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:4:2",
+     "quote": "ואין תמורה עושה תמורה",
+     "he": "רש״י: רבי יהודה סובר שטעות מעשר היא תמורה, ותמורה אינה עושה תמורה, ולכן האחד עשר אינו עושה תמורתו ליקרב.",
+     "en": "Rashi: Rabbi Yehuda holds a mistaken tithe is a substitute, and a substitute does not make a further substitute, so the eleventh does not make its own substitute offered."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:4:1",
+     "quote": "ואין תמורה עושה תמורה",
+     "he": "בכתב יד רש״י: האחד עשר אינו עושה בהמה אחרת ליקרב, כי תמורה אינה עושה תמורה.",
+     "en": "In the Ktav Yad Rashi: the eleventh does not make another animal fit to be offered, since a substitute does not make a substitute."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:3",
+     "quote": "ואחד עשר אין תמורתו קרבה",
+     "he": "רבינו גרשום: בשלמים רגילים תמורתם קרבה, ובאחד עשר אין תמורתו קרבה.",
+     "en": "Rabbeinu Gershom: an ordinary peace offering’s substitute is offered, while the eleventh’s substitute is not."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:5",
+     "quote": "הבקר לרבות אחד עשר שקרב לשלמים",
+     "he": "רבינו גרשום: הדרשה ״הבקר״ באה לרבות את האחד עשר שיקרב שלמים.",
+     "en": "Rabbeinu Gershom: the word ‘haBakar’ comes to include the eleventh as a peace offering."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:5:1",
+     "quote": "לרבות י\"א לשלמים אם קראו עשירי",
+     "he": "בכתב יד רש״י: הה״א ב״הבקר״ באה לרבות את האחד עשר לשלמים אם קראו עשירי.",
+     "en": "In the Ktav Yad Rashi: the extra letter hey comes to include the eleventh as a peace offering if he called it the tenth."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Zevachim 49a:6:1",
+     "quote": "דכל דיני שלמים עליו כדמשמע בבכורות",
+     "he": "תוספות בזבחים: מסוגייתנו בבכורות משמע שכל דיני שלמים חלים על האחד עשר.",
+     "en": "Tosafot in Zevachim: from our sugya in Bekhorot it appears that all the laws of peace offerings apply to the eleventh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:6:1",
+     "quote": "מסתברא דאינו עושה תמורה אלא לאחר שהוא קדוש",
+     "he": "רש״י: סברה היא שהקדש עושה תמורה רק אחרי שהוא עצמו קדוש.",
+     "en": "Rashi: it is logical that a consecrated animal makes a substitute only after it is itself sanctified."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:7",
+     "quote": "תשיעי לא מקדש אבל אחד עשר דהיינו לאחריו מקדש",
+     "he": "רבינו גרשום: התשיעי אינו מקדש כי עדיין העשירי אינו קדוש, אבל האחד עשר בא אחריו ומקדש.",
+     "en": "Rabbeinu Gershom: the ninth does not sanctify because the tenth is not yet holy, but the eleventh comes after it and sanctifies."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:6:1",
+     "quote": "וטעות מעשר תמורה הוא",
+     "he": "בכתב יד רש״י: טעות מעשר תמורה היא, ולכן התשיעי שהעשירי עדיין לא נתקדש אינו נעשה קדוש ליקרב.",
+     "en": "In the Ktav Yad Rashi: a mistaken tithe is a substitute, so the ninth, before the tenth itself is holy, is not made fit to be offered."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 61a:3",
+     "quote": "ואם זבח שלמים קרבנו אם מן הבקר",
+     "he": "הרש״ש מגיה ברש״י ד״ה ״דתניא״ את לשון הפסוק: ״ואם זבח שלמים קרבנו אם מן הבקר״.",
+     "en": "The Rashash corrects Rashi’s citation to read the verse: ‘And if his offering be a sacrifice of peace offerings, if of the herd’."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 3:1:4",
+     "quote": "אבל אי אפשר לומר לרבות את התשיעי ולהוציא את האחד עשר",
+     "he": "התורה תמימה מבאר שהרבוי והמיעוט במילים ״הבקר״ ו״מן הבקר״ מרבים את האחד עשר וממעטים את התשיעי, ואי אפשר להפך.",
+     "en": "The Torah Temimah explains that the inclusion and exclusion in ‘haBakar’ and ‘min haBakar’ include the eleventh and exclude the ninth, and it cannot be the reverse."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 157:1",
+     "quote": "וסתם ספרא ר' יהודה",
+     "he": "המלבי״ם: סתם ספרא הוא רבי יהודה, ודבריו נאמרים לשיטתו שטעות מעשר היא תמורה.",
+     "en": "The Malbim: the unattributed Sifra is Rabbi Yehuda, and it speaks according to his view that a mistaken tithe is a substitute."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bekhorot 61a:2",
+     "quote": "לדידי דס\"ל דטעות מעשר קריבה",
+     "he": "הרש״ש מציע שברש״י ד״ה ״למאי דס״ל״ הגרסה הנכונה היא ״לדידי דס״ל דטעות מעשר קריבה״.",
+     "en": "The Rashash suggests that in Rashi’s comment the correct reading is ‘according to me, who hold that a mistaken tithe is offered’."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    9
+   ],
+   "he": {
+    "title": "מעשר בזמן הזה ומשום תקלה",
+    "gemara": "רבי שמעון בר׳ אבא תירץ לפני רבי יוחנן שהברייתא ״ימותו״ מדברת במעשר בזמן הזה ומשום תקלה. ושואלת הגמרא מדוע נקטה שניים ולא אחד, ומשיבה שבשניים, מפני הפסד גדול, היה אפשר לחשוב שישהה אותם עד שיפול בהם מום.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Tithe in our time, because of a mishap",
+    "gemara": "Rabbi Shimon son of Rabbi Abba explained before Rabbi Yochanan that the baraita ‘they die’ deals with tithe in our time, because of a mishap. The Gemara asks why it speaks of two rather than one, and answers that with two, because the loss is great, one might think he may leave them until a blemish falls on them.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:8:2",
+     "quote": "הלכך כונסן לכיפה וימותו שם מאליהם",
+     "he": "רש״י: בזמן הזה כונסים אותם לכיפה וימותו שם מאליהם, כדי שלא יבואו לתקלה בגיזה ועבודה או בשחיטה בלא מום.",
+     "en": "Rashi: in our time they are put in a cell to die on their own, so that they do not come to a mishap of shearing, working or slaughtering without a blemish."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:8",
+     "quote": "במעשר בזמן הזה ומשום תקלה דלא לישדי ביה מום",
+     "he": "רבינו גרשום: ״ימותו״ מדובר במעשר בזמן הזה, משום תקלה, שלא יעשו בו מום.",
+     "en": "Rabbeinu Gershom: ‘they die’ refers to tithe in our time, because of a mishap, lest they inflict a blemish."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 61a:8:1",
+     "quote": "ומ\"מ אם עישר חל עליו שם מעשר",
+     "he": "תוספות: אף שבזמן הזה אין מעשרים משום תקלה, אם עישר חל עליו שם מעשר.",
+     "en": "Tosafot: although in our time one does not tithe because of a mishap, if he did tithe it takes effect as a tithe."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:9:1",
+     "quote": "וישליכם לרעי' עד דנפיל ביה מומא",
+     "he": "בכתב יד רש״י: ״לישהינהו״ — ישליכם לרעייה עד שיפול בהם מום.",
+     "en": "In the Ktav Yad Rashi: ‘let him leave them’ means he would send them to graze until a blemish falls on them."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 6:2:4",
+     "quote": "לרש\"י שם משמע דאינו כן",
+     "he": "בהר המוריה: ברש״י משמע שאין זה כתוספות, ולכן יש לעיין בדבריו.",
+     "en": "The Har HaMoriyah: Rashi there implies a different understanding from Tosafot, so his words need examination."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Yoreh Deah 189:3",
+     "quote": "שאם עבר ועישר בהמות בזה\"ז הרי זה מעשר ויאכל במומו",
+     "he": "הנודע ביהודה מקשה על הרמב״ם שפסק שאם עישר בזמן הזה יאכל במומו, מול הגמרא בסוף בכורות שהברייתא מדברת במעשר בזמן הזה ו״ימות״ משום תקלה.",
+     "en": "The Noda BiYehudah raises a difficulty on the Rambam, who ruled that if one tithed in our time it is a tithe and is eaten when blemished, against the Gemara at the end of Bekhorot that says it dies because of a mishap."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    10,
+    10
+   ],
+   "he": {
+    "title": "האומר לשלוחו ״צא ועשר עלי״: מחלוקת רב פפי ורב פפא",
+    "gemara": "רב פפי משמיה דרבא: אם השליח קרא לתשיעי ״עשירי״ — קדוש, ולאחד עשר — אינו קדוש. רב פפא: אפילו התשיעי אינו קדוש, כי המשלח אומר ״לתקוני שדרתיך ולא לעוותי״.",
+    "halakha": "הרמב״ם: אם השליח טעה בתשיעי או באחד עשר, אין מקדש אלא העשירי הוודאי."
+   },
+   "en": {
+    "title": "One who tells his agent ‘go and tithe for me’: Rav Pappi vs. Rav Pappa",
+    "gemara": "Rav Pappi in the name of Rava: if the agent called the ninth ‘the tenth’ it is sanctified, but if he called the eleventh ‘the tenth’ it is not. Rav Pappa: even the ninth is not sanctified, since the sender can say ‘I sent you to improve my position, not to harm it’.",
+    "halakha": "The Rambam rules that if the agent erred with the ninth or the eleventh, only the certain tenth is sanctified."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:9",
+     "quote": "דהא יכול לאוכלו כולו לאחר שיפול בו מום בלא פדיון",
+     "he": "רבינו גרשום: התשיעי קדוש כי אפשר לאוכלו כולו אחרי שיפול בו מום בלי פדיון.",
+     "en": "Rabbeinu Gershom: the ninth is sanctified since it can be eaten entirely after a blemish, without redemption."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:10",
+     "quote": "הואיל ומפסידו חזה ושוק שלו",
+     "he": "רבינו גרשום: האחד עשר אינו קדוש כי השליח מפסיד לבעלים את חזה ושוק.",
+     "en": "Rabbeinu Gershom: the eleventh is not sanctified because the agent costs the owner the breast and thigh."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:11",
+     "quote": "שאינו יכול לאוכלו תם",
+     "he": "רבינו גרשום: ״ולא לעוותי״ — שאינו יכול לאוכלו כשהוא תם.",
+     "en": "Rabbeinu Gershom: ‘not to harm’ — because he cannot eat it while it is unblemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:10:1",
+     "quote": "דלא מפסיד ליה כלל ואוכלו במומו",
+     "he": "רש״י: התשיעי קדוש כי אינו מפסיד לבעלים כלום, והוא אוכלו במומו.",
+     "en": "Rashi: the ninth is sanctified because it costs the owner nothing, and he eats it when blemished."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:10:2",
+     "quote": "מפסידו חזה ושוק דמטי לחלק כהנים",
+     "he": "רש״י: באחד עשר שהוא שלמים מפסידו חזה ושוק שמגיעים לכהנים, ולכן יכול לומר לשליח שלא עשאו שליח להפסידו.",
+     "en": "Rashi: with the eleventh, which is a peace offering, he loses the breast and thigh that go to the priests, and can tell the agent he did not appoint him to cause a loss."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:10:3",
+     "quote": "שצריך לו להמתין עד שתומם",
+     "he": "רש״י: העיוות הוא שצריך להמתין עד שיופל בו מום, ואסור לגזוז ולעבוד בו.",
+     "en": "Rashi: the harm is that he must wait until it becomes blemished, and it is forbidden to shear it or work with it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 61a:10:1",
+     "quote": "קסבר רב פפי דלא שייך כאן לתקוני שדרתיך",
+     "he": "תוספות: לרב פפי לא שייך כאן ״לתקוני שדרתיך״ כיון שהתשיעי נאכל במומו; ולדרך אחרת, האחד עשר קדוש משעה שיצא העשירי כי השליח עשה שליחותו.",
+     "en": "Tosafot: Rav Pappi holds ‘I sent you to improve’ does not apply since the ninth is eaten when blemished; in another explanation, the eleventh is sanctified from the moment the tenth emerged because the agent fulfilled his mission."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Firstlings 8:2",
+     "quote": "אֵין מְקַדֵּשׁ אֶלָּא הָעֲשִׂירִי הַוַּדַּאי בִּלְבַד",
+     "he": "הרמב״ם פוסק שכאשר שליח טעה בתשיעי או באחד עשר, אין מקדש אלא העשירי הוודאי.",
+     "en": "The Rambam rules that when an agent erred with the ninth or eleventh, only the certain tenth is sanctified."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:10:1",
+     "quote": "דהא לא אפסדיה מידי",
+     "he": "בכתב יד רש״י: התשיעי קדוש כי לא הפסיד לו כלום, שהרי במומו יאכלו.",
+     "en": "In the Ktav Yad Rashi: the ninth is sanctified because he caused no loss, since it is eaten when blemished."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Firstlings 8:2:4",
+     "quote": "רב פפא הוא מאריה דתלמודא טפי מרב פפי",
+     "he": "בהר המוריה: הרמב״ם פסק כרב פפא כי הוא ״מאריה דתלמודא״ יותר מרב פפי, וסברתו נאמרה גם בכתובות.",
+     "en": "The Har HaMoriyah: the Rambam ruled like Rav Pappa because he is more the master of the Talmud than Rav Pappi, and his reasoning appears also in Ketubot."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 360:1:7",
+     "quote": "דאם עשה שליח בפירוש לעשות כן דגם בכונה הוא קדיש",
+     "he": "המנחת חינוך: מדברי הגמרא והרמב״ם מבואר שאם עשה שליח בפירוש לעשות כך, התשיעי והאחד עשר קדושים.",
+     "en": "The Minchat Chinukh: from the Gemara and the Rambam it is clear that if he explicitly appointed an agent to do so, the ninth and eleventh are sanctified."
+    },
+    {
+     "who": {
+      "he": "שו״ת מהרש״ם",
+      "en": "Teshuvot Maharsham"
+     },
+     "ref": "Teshuvot Maharsham Volume III 148:2",
+     "quote": "לר' פפי עשירי קדוש ולר' פפא אינו קדוש דלתקוני שדרתיך",
+     "he": "המהרש״ם מביא את מחלוקת רב פפי ורב פפא כסתירה לכאורה לירושלמי בתרומות, ומיישב ביניהם.",
+     "en": "The Maharsham cites the dispute of Rav Pappi and Rav Pappa as an apparent contradiction to the Yerushalmi in Terumot, and reconciles them."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Gifts to the Poor 4:19:1",
+     "quote": "הטעם דבכור ומעשר הוא מחמת מצות אכילה בתוך שנתו",
+     "he": "הצפנת פענח מציין שטעם הלכות בכור ומעשר הוא מצוות אכילה בתוך שנתו.",
+     "en": "The Tzafnat Pa'neach notes that the reason for the laws of firstling and tithe is the mitzva of eating within its year."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    13
+   ],
+   "he": {
+    "title": "שליח תרומה: מדוע תרומתו תרומה כשטעה",
+    "gemara": "הגמרא מקשה ממשנה בתרומות: האומר לשלוחו ״צא ותרום״ תורם כדעת בעל הבית, ואם לא ידע — בבינונית אחד מחמישים, ואם פיחת או הוסיף עשרה תרומתו תרומה. מתרצת: שם יש מי שתורם בעין יפה ויש בעין רעה, והשליח אומר ״להכי אמדתיך״, אך כאן טעות היא ויכול לומר ״לא איבעי לך למיטעי״.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The agent for teruma: why his teruma is valid even when he erred",
+    "gemara": "The Gemara objects from a mishna in Terumot: one who says to his agent ‘go and separate teruma’ — the agent separates according to the owner’s intention, and if unknown a medium one-fiftieth; if he subtracted or added ten, the teruma is valid. It answers: there some give with a generous eye and some with a stingy eye, and the owner says ‘I estimated you for this’; here it is a mistake, and he says ‘you should not have erred’.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:12",
+     "quote": "לפי מה שמכיר דעתו של בעל הבית אם הוא עין יפה או לא",
+     "he": "רבינו גרשום: השליח תורם לפי מה שמכיר את דעת בעל הבית אם הוא עין יפה או לא.",
+     "en": "Rabbeinu Gershom: the agent separates according to what he knows of the owner’s intention, whether he is generous or not."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:11:1",
+     "quote": "אם עינו יפה תורם אחד ממ'",
+     "he": "בכתב יד רש״י: אם עינו של בעל הבית יפה תורם אחד מארבעים, ואם רעה אחד משישים.",
+     "en": "In the Ktav Yad Rashi: if the owner is generous the agent separates one-fortieth, and if stingy, one-sixtieth."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 4:7",
+     "quote": "וְאִם אֵינוֹ יוֹדֵעַ דַּעְתּוֹ מַפְרִישׁ לוֹ בֵּינוֹנִית אֶחָד מֵחֲמִשִּׁים",
+     "he": "הרמב״ם: אם אינו יודע דעת בעל הבית מפריש בינונית, אחד מחמישים.",
+     "en": "The Rambam: if he does not know the owner’s intention he separates a medium amount, one-fiftieth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Bekhorot 61a:13",
+     "quote": "מצי למימר בהכי אמדתיך שכך הוא דעתך לתרום",
+     "he": "רבינו גרשום: בתרומה השליח יכול לומר שכך אמד את דעתו, אבל במעשר יכול הבעלים לומר שהיה עליו לקרוא לעשירי ודאי.",
+     "en": "Rabbeinu Gershom: with teruma the agent can say he estimated the owner’s intention so, but with tithe the owner can say he should have called the certain tenth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:13:1",
+     "quote": "שאמדתי בדעתי שכך היה רצונך לתרום",
+     "he": "רש״י: ״להכי אמדתיך״ — אמדתי בדעתי שכך רצונך לתרום.",
+     "en": "Rashi: ‘I estimated you for this’ — I estimated in my mind that this was your wish to separate."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 61a:13:2",
+     "quote": "הלכך לא כלום הוא אותו טעות",
+     "he": "רש״י: במעשר הטעות אינה כלום, כי ״לא איבעיא לך למיטעי״.",
+     "en": "Rashi: in the tithe case the mistake is nothing, since ‘you should not have erred’."
+    },
+    {
+     "who": {
+      "he": "כתב יד רש״י",
+      "en": "Ktav Yad Rashi"
+     },
+     "ref": "Ktav Yad Rashi on Bekhorot 61a:12:1",
+     "quote": "תרומתו תרומה ואמאי לימא ליה",
+     "he": "בכתב יד רש״י: תרומתו תרומה, ומדוע לא יאמר לו הבעלים ״לא לעוותי שדרתיך״?",
+     "en": "In the Ktav Yad Rashi: his teruma is teruma — and why can the owner not say ‘I did not send you to harm me’?"
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 331:24",
+     "quote": "המונה משובח והמודד משובח ממנו והשוקל משובח משניהם",
+     "he": "השולחן ערוך בתרומת מעשר: אין מפרישים באומד אלא מדקדקים בשיעור; המונה משובח, המודד משובח ממנו והשוקל משובח משניהם.",
+     "en": "The Shulchan Arukh on tithe-teruma: one does not separate by estimate but measures precisely; counting is praiseworthy, measuring more so, and weighing most of all."
+    }
+   ]
+  }
+ ]
+}
