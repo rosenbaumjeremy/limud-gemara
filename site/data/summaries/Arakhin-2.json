@@ -1,0 +1,1240 @@
+{
+ "ref": "Arakhin 2",
+ "date": "2026-11-19",
+ "he": {
+  "overview": "הדף הראשון של מסכת ערכין פותח במשנה: הכל מעריכין ונערכין, נודרין ונידרין, וטומטום, אנדרוגינוס, חרש, שוטה וקטן נידונים כל אחד לפי דינו. הגמרא על כל ״הכל״ שואלת מה הוא מרבה: מופלא סמוך לאיש, מנוול ומוכה שחין, ופחות מבן חודש. לאחר מכן עוברת הגמרא, בעמוד א ובתחילת עמוד ב, לדין יורש סומך וממיר, מחלוקת רבי יהודה ורבנן בדרשת ״קרבנו״ ו״המר ימיר״. בעמוד ב ממשיכה הגמרא בסוכה, לולב, ציצית ותפילין של קטנים, בחובת ראייה של מי שחציו עבד וחציו בן חורין ובשופר ובמגילה. הראשונים והאחרונים דנים בעיקר בחרש בערכין מול ב״ק, בגדר חינוך, בחצי עבד ובנשים במגילה.",
+  "title": "סיכום — ערכין ב׳"
+ },
+ "en": {
+  "overview": "The first daf of Arakhin opens with a Mishnah: everyone may value and be valued, vow and be vowed, while a tumtum, androginos, deaf-mute, imbecile and minor are each treated according to their own law. On each 'everyone' the Gemara asks what it adds: a mufla samukh, a menuval and one afflicted with sores, and a child under a month. The Gemara then moves, from amud a into the start of amud b, to whether an heir leans and substitutes, the dispute of R. Yehuda and the Rabbanan over 'his offering' and 'hamer yamir'. On amud b it goes on to the sukkah, lulav, tzitzit and tefillin of minors, the obligation of appearing for one half-slave and half-free, and shofar and Megillah. The Rishonim and Acharonim mainly discuss the deaf person in Arakhin against Bava Kamma, the scope of chinukh, the half-slave, and women regarding the Megillah.",
+  "title": "Summary — Arakhin 2"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "מופלא סמוך לאיש"
+   ],
+   "he": {
+    "term": "מופלא סמוך לאיש",
+    "explanation": "קטן בן שתים עשרה שנה ויום אחד, שנבדק אם יודע לשם מי הוא נודר או מקדיש. אם יודע, נדרו קיים אף שעדיין אינו גדול."
+   },
+   "en": {
+    "term": "Mufla samukh le'ish",
+    "explanation": "A child of twelve years and a day who is tested on whether he knows in whose name he vows or sanctifies. If he does, his vow stands even though he is not yet an adult."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2a:4:1",
+    "quote": "בודקין אותו אם יודע להפלות ולפרש לשם מי נדר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "מנוול ומוכה שחין"
+   ],
+   "he": {
+    "term": "מנוול ומוכה שחין",
+    "explanation": "אדם מאוס או חולה שחין שאין לו ערך בשוק, ולכן שאלה אם הוא נערך כמו אדם בריא."
+   },
+   "en": {
+    "term": "Menuval u'mukeh shechin",
+    "explanation": "A loathsome person or one afflicted with sores who has no market value, raising the question whether he is valued like a healthy person."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 2a:7",
+    "quote": "שאין בהן דמים שאין אדם רוצה לקנותן"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "נדר בערכך"
+   ],
+   "he": {
+    "term": "דמים וערכין",
+    "explanation": "״נדר״ הוא נדר דמים, שמין את האדם כעבד הנמכר בשוק; ״ערך״ הוא הסכום הקבוע בתורה לפי שנים. הגמרא מדברת על ההיקש ביניהם."
+   },
+   "en": {
+    "term": "Damim and arakhin",
+    "explanation": "A 'nedar' is a vow of value, assessing the person as a slave sold in the market; an 'erekh' is the sum fixed by the Torah according to age. The Gemara speaks of the comparison between them."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2a:1:1",
+    "quote": "נדר דמי עלי ושמים אותו כעבד הנמכר בשוק"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "לאתוייי יורש",
+    "יוֹרֵשׁ"
+   ],
+   "he": {
+    "term": "יורש",
+    "explanation": "מי שאביו הפריש קרבן ולא הספיק להקריבו עד שמת; השאלה אם הוא סומך וממיר בו."
+   },
+   "en": {
+    "term": "Yoresh (heir)",
+    "explanation": "One whose father set aside an offering and died before offering it; the question is whether he leans on it and substitutes it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2a:11:1",
+    "quote": "אדם שהפריש אביו קרבן ולא הספיק להקריבו עד שמת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "תְּחִלַּת הֶקְדֵּשׁ",
+    "סוֹף הֶקְדֵּשׁ"
+   ],
+   "he": {
+    "term": "תחילת הקדש וסוף הקדש",
+    "explanation": "תחילת הקדש היא התמורה, שהיא תחילת הקדשת הבהמה; סוף הקדש היא הסמיכה, הסמוכה לשחיטה."
+   },
+   "en": {
+    "term": "Techilat hekdesh and sof hekdesh",
+    "explanation": "Techilat hekdesh is temura, the start of the animal's sanctification; sof hekdesh is semikha, which is next to slaughter."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2a:14:2",
+    "quote": "תמורה שהיא תחלת הקדישה של בהמה זו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 16,
+   "anchors": [
+    "בַּעֲלֵי חוֹבְרִין"
+   ],
+   "he": {
+    "term": "בעלי חוברין",
+    "explanation": "חמישה שהביאו קרבן אחד בשותפות; הדרשה ״קרבנו״ מרבה שכולם סומכים עליו."
+   },
+   "en": {
+    "term": "Ba'alei chovrin",
+    "explanation": "Five who brought one offering as partners; the derivation from 'his offering' includes that all of them lean on it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2a:16:1",
+    "quote": "חמשה שהביאו קרבן אחד בשותפות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 4,
+   "anchors": [
+    "שֶׁאֵינוֹ צָרִיךְ לְאִמּוֹ"
+   ],
+   "he": {
+    "term": "קטן שאינו צריך לאמו",
+    "explanation": "קטן שניעור משנתו ואינו קורא ״אימא״; הוא נחשב שהגיע לחינוך לענין סוכה."
+   },
+   "en": {
+    "term": "Katan she'eino tzarikh le'immo",
+    "explanation": "A child who wakes from sleep and does not call 'Mama'; he is regarded as having reached chinukh for sukkah."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2b:4:1",
+    "quote": "שניעור משנתו ואינו קורא אימא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 13,
+   "anchors": [
+    "מִשְׁנָה רִאשׁוֹנָה",
+    "מִשְׁנָה אַחֲרוֹנָה"
+   ],
+   "he": {
+    "term": "משנה ראשונה ומשנה אחרונה",
+    "explanation": "במשנה ראשונה נחשב מי שחציו עבד כעבד; במשנה אחרונה, אחרי שבית הלל חזרו להודות לבית שמאי, הוא נחשב כמשוחרר."
+   },
+   "en": {
+    "term": "Mishnah rishonah and Mishnah acharonah",
+    "explanation": "In the first Mishnah one half-slave is treated as a slave; in the last, after Beit Hillel reverted to Beit Shammai, he is treated as freed."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 2b:13:1",
+    "quote": "הואיל ובידינו לשחררו כמשוחרר דמי"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "הכל מעריכין ונערכין, נודרין ונידרין",
+    "gemara": "המשנה פותחת בכך שהכל — כהנים, לוויים וישראלים, נשים ועבדים — מעריכים ונערכים, נודרים ונידרים. טומטום ואנדרוגינוס נודרים, נידרים ומעריכים, אך אינם נערכים, כי הערך נאמר רק בזכר ודאי ובנקבה ודאית.",
+    "halakha": "הרמב״ם כותב בהלכות ערכים וחרמין שהעבד נערך ועורך כשאר ישראל, ושטומטום ואנדרוגינוס אינם חייבים כלום אם אמרו ערכי עלי."
+   },
+   "en": {
+    "title": "Everyone assesses and is assessed, vows and is vowed",
+    "gemara": "The Mishnah opens: everyone — kohanim, levi'im and Israelites, women and slaves — may pledge another's valuation (ma'arikhin) or be valued (ne'erakhin), and may vow a person's market value (nodrin) or be vowed (nidarin). A tumtum and an androginos vow, are vowed and pledge valuations, but are not themselves valued, since the valuation is stated only for a definite male or definite female.",
+    "halakha": "The Rambam writes in Hilkhot Arakhin that a slave values and is valued like any Israelite, and that a tumtum or androginos who says 'my valuation is upon me' is liable for nothing."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:1:1",
+     "quote": "ערך כתוב בפרשה",
+     "he": "רש״י מבאר שערך הוא הסכום הכתוב בפרשה, ואילו נדר דמי הוא לומר ״דמי עלי״ ושמים אותו כעבד הנמכר בשוק.",
+     "en": "Rashi explains that 'erekh' is the sum written in the Torah's passage, while a vow of 'my value' (nedar) is assessed as a slave sold in the market."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:1:6",
+     "quote": "ומשלמין לאחר זמן כשנתגרשה האשה או נשתחרר העבד",
+     "he": "רש״י: נשים ועבדים משלמים רק לאחר זמן, כשהאשה מתגרשת או העבד משתחרר.",
+     "en": "Rashi: women and slaves pay only later, once the woman is divorced or the slave is freed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:1:4",
+     "quote": "נשים ועבדים נודרים ונידרים אם יש להם בזמן הזה גובין מהם",
+     "he": "התוספות מביאים את התוספתא: אם יש להם בזמן הזה גובים מהם, ואם לאו כותבים עליהם וגובים לאחר זמן.",
+     "en": "Tosafot cite the Tosefta: if they have means now it is collected from them, and if not it is written against them and collected later."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:1:1",
+     "quote": "שלא להזכיר שם שמים לבטלה",
+     "he": "התוספות מציינים שבנזיר ובנדרים הוזכרו כינויים כדי שלא להזכיר שם שמים לבטלה, ובערכין לא חשש להזכיר.",
+     "en": "Tosafot note that Nazir and Nedarim use substitute terms so as not to mention Heaven's name in vain, whereas here the Mishnah did not trouble to."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:2:3",
+     "quote": "שאין להם ערך שזכר ונקבה אמורין בפרשה",
+     "he": "רש״י: אם אמר טומטום ״ערכי עלי״ לא אמר כלום, כי בפרשה נאמרו רק זכר ונקבה.",
+     "en": "Rashi: if one says 'my valuation is upon me' of a tumtum, nothing is said, since the passage mentions only male and female."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2a:1",
+     "quote": "בין לעצמן בין לאחרים",
+     "he": "רבינו גרשום מפרש ״הכל מעריכין״: בין לעצמם בין לאחרים, ומתחייבים בערך לפי שניו.",
+     "en": "Rabbeinu Gershom explains 'everyone values': whether for themselves or for others, and one is liable for the valuation according to the person's years."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:5",
+     "quote": "טֻמְטוּם וְאַנְדְּרוֹגִינוּס אֵין לָהֶם עֵרֶךְ",
+     "he": "הרמב״ם: לטומטום ואנדרוגינוס אין ערך, כי התורה קבעה ערך רק לזכר ודאי או לנקבה ודאית.",
+     "en": "The Rambam: a tumtum and androginos have no erekh, as the Torah fixed an erekh only for a definite male or female."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:7",
+     "quote": "הָעֶבֶד נֶעֱרָךְ וְעוֹרֵךְ כִּשְׁאָר יִשְׂרָאֵל",
+     "he": "הרמב״ם: העבד נערך ועורך כשאר ישראל, ואם ייפדה ויהיה לו יתן את הערך שנדר.",
+     "en": "The Rambam: a slave is valued and values like other Israelites, and if he is redeemed and has means he pays the valuation he vowed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura I 3:195:1",
+     "quote": "ריש ערכין דף ב' במשנה דהכל מעריכין",
+     "he": "השואל ומשיב מביא את המשנה בריש ערכין כראיה בשאלה אם בעל חייב לשלם נדר אשתו, ומעיר שרש״י ותוספות כתבו שהנשים משלמות לאחר זמן.",
+     "en": "The Shoel uMeshiv brings this opening Mishnah as a proof in a question on whether a husband must pay his wife's vow, noting that Rashi and Tosafot write that women pay later."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    3
+   ],
+   "he": {
+    "title": "חרש שוטה וקטן — נידרים ונערכים אך לא נודרים",
+    "gemara": "חרש, שוטה וקטן נידרים ונערכים, אך אינם נודרים ומעריכים, מפני שאין בהם דעת. הקושי הנדון בראשונים הוא שבבבא קמא מובא שמי שחרשו משלם לו דמי כולו, משמע שהחרש אינו שווה דבר, ואילו כאן הוא נידר ונערך.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "A deaf-mute, imbecile and minor — vowed and valued, but cannot vow",
+    "gemara": "A cheresh, shoteh and katan can be vowed and valued but cannot vow or pledge valuations, since they lack da'at. The Rishonim ask how this squares with Bava Kamma, where one who deafens another pays his full value, implying a deaf person is worth nothing, while here he is vowed and valued.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:3:1",
+     "quote": "בחרש שאינו יכול להתרפאות",
+     "he": "התוספות מיישבים: ההוא בב״ק הוא בחרש שאינו יכול להתרפאות, ופירש ר״ת שחרש בידי שמים יש לו דמים.",
+     "en": "Tosafot answer: the Bava Kamma case is a deaf person who cannot be healed, and Rabbeinu Tam explains that one deaf by Heaven has value."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Bava Kamma 85b:4",
+     "quote": "ותירץ רבינו תם",
+     "he": "הרשב״א מביא שרבינו תם חילק בין חרש בידי שמים לחרש בידי אדם, והתוספות חילקו בין בעל מלאכה למי שאינו יודע מלאכה.",
+     "en": "The Rashba cites Rabbeinu Tam's distinction between deafness by Heaven and by man, and Tosafot's distinction between one with a trade and one without."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Bava Kamma 31a:2",
+     "quote": "הכא מיירי בשאין לו אומנות",
+     "he": "הנימוקי יוסף: כאן מדובר במי שאין לו אומנות ולכן אינו שווה כלום, ושם בחרש שהוא בעל מלאכה.",
+     "en": "Nimukei Yosef: Bava Kamma speaks of one without a trade, who is worth nothing once deaf, while Arakhin speaks of a deaf craftsman."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:6",
+     "quote": "הַמַּעֲרִיךְ אֶת הַחֵרֵשׁ וְאֶת הַשּׁוֹטֶה חַיָּב",
+     "he": "הרמב״ם: המעריך את החרש ואת השוטה חייב ונותן לפי שניו.",
+     "en": "The Rambam: one who values a deaf person or an imbecile is liable and pays according to his years."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2a:5",
+     "quote": "מפני שאין להם דעת",
+     "he": "רבינו גרשום: צריך איש שיודע להפלות לשם מי הוא מעריך או נודר.",
+     "en": "Rabbeinu Gershom: one needs a man who knows to specify for whose sake he values or vows."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on One Who Injures a Person or Property 2:12:1",
+     "quote": "שגזירת הכתוב היא ואין לחלק",
+     "he": "מעשה רקח מקשה על הרמב״ם ומסיק לדעתו שבערכין, שאינו תלוי בשווי האיש, זו גזירת הכתוב ואין לחלק.",
+     "en": "The Maaseh Rokeach raises the difficulty on the Rambam and concludes that valuation, which does not depend on a person's worth, is a decree of the verse with no distinction."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 2a:3",
+     "quote": "בחרש שא״י להתרפאות",
+     "he": "הרש״ש מקשה על תירוץ התוספות שחרש שאינו יכול להתרפאות: לפי זה היה צריך ״הכל נערכים״ לרבות חרש כזה, ומיישב שהגמרא העדיפה לרבות מנוול ומוכה שחין.",
+     "en": "The Rashash objects to Tosafot's answer of a deaf person who cannot be healed, and answers that the Gemara preferred to include a menuval and one afflicted with sores."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Choshen Mishpat 420:32",
+     "quote": "מיירי בבעל אומנות",
+     "he": "ערוך השולחן מביא את תירוץ התוספות והרא״ש שמדובר בבעל אומנות, ומקשה מדוע גם שוטה נידר.",
+     "en": "The Arukh HaShulchan cites Tosafot and the Rosh that this is a craftsman, and asks why an imbecile is also vowed."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    10
+   ],
+   "he": {
+    "title": "״הכל״ לאתויי — מופלא סמוך לאיש, מנוול ומוכה שחין ופחות מבן חודש",
+    "gemara": "הגמרא שואלת מה מרבה כל ״הכל״ במשנה: ״הכל מעריכין״ מרבה מופלא סמוך לאיש; ״נערכין״ מרבה מנוול ומוכה שחין, שיש להניח שאינם בדמים, ובאה הלימוד ״נפשות״ לרבותם. את ״נודרין״ ו״נידרין״ מפרשת הגמרא כמרבים פחות מבן חודש, והמשנה שנתה והדר פירשה.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The word 'everyone' — mufla samukh, a menuval and one with sores, a child under a month",
+    "gemara": "The Gemara asks what each 'everyone' adds: 'everyone values' includes a mufla samukh le'ish; 'are valued' includes a menuval and one afflicted with sores, who might have been thought excluded since they have no market value, and 'nefashot' includes them; 'vowed' ends up including a child under a month, the Mishnah having taught it and then specified.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:4:1",
+     "quote": "בודקין אותו אם יודע להפלות ולפרש לשם מי נדר",
+     "he": "רש״י: מופלא סמוך לאיש הוא בן י״ב שנה ויום אחד, ונקרא מופלא כי בודקים אותו אם יודע להפלות ולפרש לשם מי נדר.",
+     "en": "Rashi: a mufla samukh is twelve years and a day old, called 'mufla' because we test whether he knows how to specify for whose sake he vowed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:6:1",
+     "quote": "מנוול ומוכה שחין אינן בדמים",
+     "he": "רש״י: איתקש ערכין לדמים, ומנוול ומוכה שחין אינם בדמים, ולכן נודרים אותם כנערכים אך לא נידרים, שאינם שווים כלום.",
+     "en": "Rashi: arakhin was compared to damim, and a menuval and one with sores are not in damim, so they are valued but not vowed, since they are worth nothing."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2a:7",
+     "quote": "שאין בהן דמים שאין אדם רוצה לקנותן",
+     "he": "רבינו גרשום: מנוול ומוכה שחין אין בהם דמים כי אין אדם רוצה לקנותם.",
+     "en": "Rabbeinu Gershom: a menuval and one with sores have no value since no one wants to buy them."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:6:2",
+     "quote": "כל אדם שישנו בדמים",
+     "he": "התוספות: ״כל שישנו בדמים״ אינו מדויק, שהרי יש דקל וארעא, אלא הכוונה כל אדם שישנו בדמים.",
+     "en": "Tosafot: 'whatever is in damim' is not literal, since there are palm trees and land, but means any person who has value."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:8",
+     "quote": "אֲפִלּוּ הָיָה הַנֶּעֱרָךְ מֻכֶּה שְׁחִין",
+     "he": "הרמב״ם: אפילו היה הנערך מוכה שחין או סומא או גידם ויש בו כל מום נותן לפי שניו.",
+     "en": "The Rambam: even if the one valued is afflicted with sores, blind or limbless, one pays according to his years."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2a:10",
+     "quote": "אגב דבן חדש כתיב באורייתא",
+     "he": "רבינו גרשום: הרבוי של פחות מבן חדש בא אגב ש״בן חדש״ כתוב בתורה, אף שאינו נערך ולא מעריך אלא נידר.",
+     "en": "Rabbeinu Gershom: the inclusion of a child under a month comes because 'ben chodesh' is written in the Torah, although he is neither valued nor values but is vowed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:10:1",
+     "quote": "משום דפליגי רבנן ור״מ",
+     "he": "רש״י בלשון אחר: נקט את זה כי רבנן ור״מ חלוקים בפחות מבן חדש, ור״מ אומר נותן דמיו.",
+     "en": "Rashi, in another version: the Mishnah mentions this because the Rabbanan and R. Meir dispute about one under a month, R. Meir holding that one pays his value."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 2a:5",
+     "quote": "קשה דהלא באדם איכא נמי פחות מבן חדש",
+     "he": "הרש״ש מקשה על התוספות שפירשו ״כל אדם״: גם באדם יש פחות מבן חדש וטומטום ואנדרוגינוס ואברים שאין הנשמה תלויה בהם.",
+     "en": "The Rashash objects to Tosafot's 'any person': even among people there are a child under a month, tumtum and androginos, and limbs on which life does not depend."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Arakhin 2a:3",
+     "quote": "לא זכיתי להבין תירוץ התוס",
+     "he": "בעל פתח עינים מעיר על קושיית התוספות מהשולח, ואומר שאינו מבין את תירוצם, שהרי טריפה נתרבה בנפשות.",
+     "en": "The Petach Einayim comments on Tosafot's question from Perek HaShole'ach and says he does not understand their answer, since a tereifa was included in 'nefashot'."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 2a:4",
+     "quote": "בשכלו לו חדשיו",
+     "he": "הרש״ש מבאר שבתוספות ״בשכלו לו חדשיו״ הכוונה שכאן לענין ערכין דורשים מנפש נפשות כדלקמן.",
+     "en": "The Rashash explains that Tosafot's 'whose months were completed' means that here, for arakhin, we derive from 'nefesh' and 'nefashot' as later."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    11,
+    3
+   ],
+   "he": {
+    "title": "יורש סומך וממיר — רבי יהודה ורבנן",
+    "gemara": "״הכל סומכין״ ו״הכל ממירין״ מרבים יורש, ודלא כרבי יהודה האומר שיורש אינו סומך ואינו ממיר. רבי יהודה דורש ״קרבנו״ ולא קרבן אביו, ולומד תחילת הקדש מסוף הקדש; הרבנן דורשים ״המר ימיר״ לרבות יורש, ולומדים סוף הקדש מתחילת הקדש. הרבנן מפנים ״קרבנו״ לרבות כל בעלי חוברין לסמיכה, ורבי יהודה מפנה ״המר ימיר״ לרבות את האשה.",
+    "halakha": "הכסף משנה מבאר שנקטינן כסתם משנה, שיורש סומך ומביא קרבנו של אביו."
+   },
+   "en": {
+    "title": "Does an heir lean and substitute? R. Yehuda and the Rabbanan",
+    "gemara": "'Everyone leans' and 'everyone substitutes' include an heir, against R. Yehuda, who holds an heir neither leans nor substitutes. R. Yehuda reads 'his offering' as 'not his father's offering' and derives the start of sanctity (temura) from its end (semikha); the Rabbanan read 'hamer yamir' as including the heir and derive semikha from temura. The Rabbanan use 'his offering' to include all partners in leaning, while R. Yehuda uses 'hamer yamir' to include a woman.",
+    "halakha": "The Kessef Mishneh explains that we follow the unattributed Mishnah, so an heir leans and brings his father's offering."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:11:1",
+     "quote": "אדם שהפריש אביו קרבן ולא הספיק להקריבו עד שמת",
+     "he": "רש״י: יורש הוא מי שאביו הפריש קרבן ולא הספיק להקריבו עד שמת.",
+     "en": "Rashi: an heir is one whose father set aside an offering but died before offering it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:14:2",
+     "quote": "תמורה שהיא תחלת הקדישה",
+     "he": "רש״י: תחילת הקדש היא תמורה, וסוף הקדש הוא סמיכה שסמוכה לשחיטה.",
+     "en": "Rashi: the start of sanctity is temura, and the end is semikha, which is next to slaughter."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2a:12",
+     "quote": "יורש סומך על קרבן אביו",
+     "he": "רבינו גרשום: אם הקדיש אביו זבח ומת קודם שסמך, היורש סומך על קרבן אביו.",
+     "en": "Rabbeinu Gershom: if his father sanctified an offering and died before leaning, the heir leans on his father's offering."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 93a:11:1",
+     "quote": "אורחיה דתנא הכי",
+     "he": "התוספות מקשים שהמשנה כבר שנתה זאת ברישא, ומשיבים שדרך התנא לשנות תיבה אחת אגב אורחיה.",
+     "en": "Tosafot ask why this was not already in the first clause, and answer that it is the Tanna's way to teach one word in passing."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:14:2",
+     "quote": "לילף נמי שחיטה מסמיכה",
+     "he": "התוספות שואלים: למה לא נלמד שחיטה מסמיכה, ומשיבים שאפילו שלוחו לא ממעט לשחיטה.",
+     "en": "Tosafot ask why we do not also derive slaughter from semikha, and answer that even an agent is not excluded from slaughter."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2a:16:1",
+     "quote": "אי לאו קרבנו אמינא דידו למעוטי חבירו",
+     "he": "התוספות: אלמלא ״קרבנו״ הייתי אומר ״ידו״ ממעט חבירו אך שלוחו סומך.",
+     "en": "Tosafot: without 'his offering' I would say 'his hand' excludes a fellow but an agent could lean."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2a:16:1",
+     "quote": "חמשה שהביאו קרבן אחד בשותפות",
+     "he": "רש״י: בעלי חוברין הם חמישה שהביאו קרבן בשותפות, וכולם סומכים עליו.",
+     "en": "Rashi: 'ba'alei chovrin' are five who brought one offering as partners, all of whom lean on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:1:2",
+     "quote": "הני לאו קרבנו נינהו אבל אביו איצטריך קרא",
+     "he": "רש״י: גוי וחבירו אינם ״קרבנו״ ולכן נלמדו מפסוק אחד, אך אביו הצריך פסוק מיוחד כי היורש עלול להיחשב כקרבנו.",
+     "en": "Rashi: a gentile and a fellow are not 'his' offering so they come from one verse, whereas his father needed its own verse since an heir might be considered his."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2b:2",
+     "quote": "מה סופינו לרבות את האשה",
+     "he": "רבינו גרשום: מנין לרבות את האשה שעושה תמורה — תלמוד לומר ״המר ימיר״.",
+     "en": "Rabbeinu Gershom: how do we include a woman who makes a temura? 'Hamer yamir' teaches it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:2:1",
+     "quote": "אבל בתמורה אי לאו קרא לא הויא שוה לאיש",
+     "he": "התוספות: אף שכל התורה בלשון זכר, אשה הוקשה לאיש לעונשין, אך בתמורה אלמלא הפסוק לא הייתה שווה לאיש.",
+     "en": "Tosafot: although the whole Torah is in the masculine, a woman is equated to a man for punishments, but for temura without the verse she would not be equal."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrificial Procedure 3:9",
+     "quote": "מִי שֶׁמֵּת וְהִנִּיחַ קָרְבָּנוֹ",
+     "he": "הרמב״ם: מי שמת והניח קרבנו עולה או שלמים, יורשו מביאו וסומך עליו ומביא נסכיו.",
+     "en": "The Rambam: one who died leaving his burnt or peace offering — his heir brings it, leans on it and brings its libations."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Sacrificial Procedure 3:9:3",
+     "quote": "נקטינן כסתם מתניתין",
+     "he": "הכסף משנה: אף שבתמורה נאמר שרבי יהודה סובר שיורש אינו סומך, הואיל וסתם לנו התנא אחרת נקטינן כסתם משנה.",
+     "en": "The Kessef Mishneh: although R. Yehuda holds an heir does not lean, since the Tanna teaches otherwise without attribution we follow the unattributed Mishnah."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Menachot 9:8:1",
+     "quote": "אורחיה דתנא הכי",
+     "he": "מלאכת שלמה מביא את קושיית התוספות ותירוצם שדרך התנא לשנות תיבה אחת אגב אורחיה.",
+     "en": "The Melekhet Shelomoh cites Tosafot's question and answer that it is the Tanna's way to teach one word in passing."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Zevachim 6a:3",
+     "quote": "נקט הש״ס דעת ר״מ בלשון רבנן",
+     "he": "הרש״ש מעיר שבריש ערכין ובמנחות הש״ס נקט דעת ר״מ בלשון ״רבנן״, ושבברייתא שם הגרסה סתם ולא נזכר ר״מ.",
+     "en": "The Rashash observes that in Arakhin and Menachot the Gemara cites R. Meir's view as 'the Rabbanan', and that the baraita there reads without naming R. Meir."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Vayikra 162:1",
+     "quote": "לרבות כל בעלי חוברין לסמיכה",
+     "he": "המלבי״ם מונה את דרשות ״קרבנו״, ובהן לרבות כל בעלי חוברין לסמיכה לרבנן, ולרבי יהודה ״קרבנו ולא קרבן אביו״.",
+     "en": "The Malbim lists the derivations of 'his offering', among them including all partners in leaning according to the Rabbanan and, for R. Yehuda, 'his and not his father's'."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Substitution 1:5:1",
+     "quote": "תמורה ב׳ א׳ ערכין ב׳ א׳",
+     "he": "הר המוריה מצביע על המקורות לדין יורש ממיר: תמורה, ערכין, מנחות וזבחים.",
+     "en": "Har HaMoriyah points to the sources for an heir substituting: Temura, Arakhin, Menachot and Zevachim."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    7
+   ],
+   "he": {
+    "title": "חינוך קטנים — סוכה, לולב, ציצית ותפילין",
+    "gemara": "״הכל חייבין״ בסוכה מרבה קטן שאינו צריך לאמו; בלולב — קטן היודע לנענע; בציצית — קטן היודע להתעטף; בתפילין — קטן היודע לשמור תפילין, שאביו לוקח לו תפילין.",
+    "halakha": "השולחן ערוך פוסק שקטן היודע לנענע לולב אביו חייב לקנות לו לולב לחנכו במצוות, וכן בתפילין ובציצית."
+   },
+   "en": {
+    "title": "Chinukh of minors — sukkah, lulav, tzitzit and tefillin",
+    "gemara": "'Everyone is obligated' in sukkah includes a child who no longer needs his mother; in lulav, a child who knows how to shake; in tzitzit, one who knows how to wrap himself; in tefillin, one who knows how to guard them, for whom his father buys tefillin.",
+    "halakha": "The Shulchan Arukh rules that a child who knows how to shake a lulav, his father must buy him a lulav to educate him in mitzvot; similarly for tefillin and tzitzit."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:4:1",
+     "quote": "שניעור משנתו ואינו קורא אימא",
+     "he": "רש״י: ״שאינו צריך לאמו״ מפורש בסוכה — שניעור משנתו ואינו קורא אימא.",
+     "en": "Rashi: 'who does not need his mother' is explained in Sukkah — one who wakes from sleep and does not call 'Mama'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:7:1",
+     "quote": "דתפלין דמיהן יקרים",
+     "he": "התוספות: בתפילין נאמר ״לוקח״ כי דמיהן יקרים, ובציצית אין כי מסתמא טלית יש לו, ובלולב יכול לצאת בלולבו של אביו.",
+     "en": "Tosafot: 'buys' is said of tefillin because they are costly; not of tzitzit, since he presumably has a garment; and for lulav he can use his father's."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:6:2",
+     "quote": "כל עטיפה שאינה כעטיפת ישמעאלים",
+     "he": "התוספות מבארים ״היודע להתעטף״ לפי המו״ק: כל עטיפה שאינה כעטיפת ישמעאלים אינה עטיפה.",
+     "en": "Tosafot explain 'knows how to wrap' by Moed Katan: any wrapping not like the Ishmaelites' wrapping is no wrapping."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 6:1",
+     "quote": "חַיָּב בְּסֻכָּה מִדִּבְרֵי סוֹפְרִים",
+     "he": "הרמב״ם: קטן שאינו צריך לאמו חייב בסוכה מדברי סופרים כדי לחנכו במצוות.",
+     "en": "The Rambam: a child who no longer needs his mother is obligated in sukkah by rabbinic law, to educate him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 7:19",
+     "quote": "קָטָן הַיּוֹדֵעַ לְנַעֲנֵעַ חַיָּב בְּלוּלָב",
+     "he": "הרמב״ם: קטן היודע לנענע חייב בלולב מדברי סופרים.",
+     "en": "The Rambam: a child who knows how to shake is obligated in lulav by rabbinic law."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Fringes 3:9",
+     "quote": "קָטָן שֶׁיּוֹדֵעַ לְהִתְעַטֵּף חַיָּב בְּצִיצִית",
+     "he": "הרמב״ם: מדברי סופרים קטן היודע להתעטף חייב בציצית כדי לחנכו.",
+     "en": "The Rambam: by rabbinic law a child who knows how to wrap himself is obligated in tzitzit to educate him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 4:13",
+     "quote": "אָבִיו לוֹקֵחַ לוֹ תְּפִלִּין",
+     "he": "הרמב״ם: קטן היודע לשמור תפיליו אביו לוקח לו תפילין כדי לחנכו.",
+     "en": "The Rambam: a child who knows how to guard his tefillin, his father buys him tefillin to educate him."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 17",
+     "quote": "קטן היודע להתעטף אביו צריך ליקח לו ציצית",
+     "he": "הטור: קטן היודע להתעטף אביו צריך ליקח לו ציצית לחנכו.",
+     "en": "The Tur: a child who knows how to wrap himself, his father must take tzitzit for him to educate him."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 657:1",
+     "quote": "קטן היודע לנענע לולב כדינו אביו חייב לקנות לו לולב",
+     "he": "השולחן ערוך: קטן היודע לנענע לולב כדינו, אביו חייב לקנות לו לולב לחנכו במצוות.",
+     "en": "The Shulchan Arukh: a child who knows how to shake a lulav properly, his father must buy him a lulav to educate him."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 17:3",
+     "quote": "קטן היודע להתעטף אביו צריך ליקח לו ציצי",
+     "he": "השולחן ערוך: קטן היודע להתעטף אביו צריך ליקח לו ציצית לחנכו.",
+     "en": "The Shulchan Arukh: a child who knows how to wrap himself, his father must take him tzitzit to educate him."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 37:3",
+     "quote": "חייב אביו לקנות לו תפילין לחנכו",
+     "he": "השולחן ערוך: קטן היודע לשמור תפילין בטהרה — חייב אביו לקנות לו תפילין לחנכו.",
+     "en": "The Shulchan Arukh: a child who knows how to guard tefillin in purity, his father must buy him tefillin to educate him."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 640:2",
+     "quote": "חייב בסוכה מדברי סופרים כדי לחנכו",
+     "he": "השולחן ערוך: קטן שאינו צריך לאמו חייב בסוכה מדברי סופרים כדי לחנכו.",
+     "en": "The Shulchan Arukh: a child who no longer needs his mother is obligated in sukkah by rabbinic law, to educate him."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Sukkah 2:8:3",
+     "quote": "ואין החנוך שוה בכל מקום",
+     "he": "מלאכת שלמה מביא את הר״ן: אין החינוך שווה בכל מקום אלא כל אחד לפי עניינו — בסוכה שאינו צריך לאמו, בלולב היודע לנענע, בציצית היודע להתעטף.",
+     "en": "The Melekhet Shelomoh cites the Ran: chinukh is not the same everywhere but each according to its matter — sukkah, one who does not need his mother; lulav, one who knows to shake; tzitzit, one who knows to wrap."
+    },
+    {
+     "who": {
+      "he": "נודע ביהודה",
+      "en": "Noda BiYehudah"
+     },
+     "ref": "Noda BiYehudah II, Orach Chaim 1:4",
+     "quote": "פירש רש״י בפ׳ לולב הגזול היינו מדרבנן",
+     "he": "הנודע ביהודה מביא את המרדכי: מה שנאמר בריש ערכין שקטן חייב בתפילין הוא מדרבנן, כפי שפירש רש״י, ואילו קטן שכתב תפילין פסולין אם אינו בן י״ג.",
+     "en": "The Noda BiYehudah cites the Mordekhai: the statement in Arakhin that a child is obligated in tefillin is rabbinic, as Rashi explained, whereas a minor who writes tefillin invalidates them unless he is thirteen."
+    },
+    {
+     "who": {
+      "he": "כלי חמדה",
+      "en": "Keli Chemdah"
+     },
+     "ref": "Keli Chemdah on Torah, From the Author's Son 3",
+     "quote": "קטן היודע לשמור תפילין אביו לוקח לו תפילין",
+     "he": "הכלי חמדה מביא את הגמרא בערכין כראיה שגם כשהמצוה מצריכה הוצאת ממון הקטן חייב מחמת חינוך, ומחלק בין תפילין לנר חנוכה.",
+     "en": "The Keli Chemdah brings the Gemara here as proof that a child is obligated by chinukh even where the mitzvah costs money, and distinguishes tefillin from Chanukah lights."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    16
+   ],
+   "he": {
+    "title": "מי שחציו עבד וחציו בן חורין — חובת ראייה",
+    "gemara": "״הכל חייבין בראייה״ מרבה מי שחציו עבד וחציו בן חורין; לרבינא שפוטרו מן הראייה מרבים חיגר ביום ראשון שנתפשט בשני, ולמאן דאמר כולן תשלומין לראשון — סומא באחת מעיניו, כברייתא של יוחנן בן דהבאי. לחילופין: במשנה ראשונה פטור ובמשנה אחרונה, אחרי שחזרו בית הלל כבית שמאי, חייב.",
+    "halakha": "הרמב״ם בהלכות עבדים פוסק שכופין את רבו ועושה אותו בן חורין וכותב שטר על חצי דמיו."
+   },
+   "en": {
+    "title": "One half-slave, half-free — the obligation to appear",
+    "gemara": "'Everyone is obligated to appear' includes one who is half slave, half free; for Ravina, who exempts him, it includes one lame on the first day who recovered on the second; and for the view that all days are makeup for the first, one blind in one eye, per the baraita of Yochanan ben Dahavai. Alternatively: in the first Mishnah he is exempt, in the last, after Beit Hillel reverted to Beit Shammai, he is obligated.",
+    "halakha": "The Rambam in Hilkhot Avadim rules that his master is compelled to free him and he writes a bond for half his value."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:8:1",
+     "quote": "אבל עבד גמור פטור דכתיב את פני האדון",
+     "he": "רש״י: עבד גמור פטור, שנאמר ״את פני האדון ה׳״, מי שאין לו אדון אלא הוא.",
+     "en": "Rashi: a full slave is exempt, as it says 'the face of the Master, the Lord' — one who has no master but Him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:12:1",
+     "quote": "כדרך שהקדוש ב״ה בא לראות אותך",
+     "he": "רש״י: כדרך שהקב״ה בא לראות אותך והוא שלם בשתי עיניו, כך בא ליראות שתהיה נראה לו בשתי עיניך.",
+     "en": "Rashi: just as the Holy One comes to see you whole in both eyes, so you come to be seen with both of yours."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:13:1",
+     "quote": "הואיל ובידינו לשחררו כמשוחרר דמי",
+     "he": "רש״י: במשנה ראשונה היה בחזקת עבד; אחרי שחזרו להודות, הואיל ובידינו לשחררו הוא כמשוחרר ולא קרינן ביה אדון אחר.",
+     "en": "Rashi: in the first Mishnah he was presumed a slave; after they reverted, since we can free him he is treated as freed and 'another master' is not said of him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:13:1",
+     "quote": "שאינו יכול לעכבו מלעלות לרגל",
+     "he": "התוספות: לגבי עולה לרגל אין זה אדונו, כי אינו יכול לעכבו מלעלות לרגל, אך לקנס אדונו מיקרי.",
+     "en": "Tosafot: regarding pilgrimage he is not his master, since he cannot prevent him from going up, though for the kenas he is called his master."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:8:2",
+     "quote": "לפי משנה אחרונה דחזרו להם ב״ה להורות כב״ש",
+     "he": "התוספות מיישבים שהרישא של משנת חגיגה היא כמשנה אחרונה שחזרו בית הלל כבית שמאי, והסיפא קודם בת קול.",
+     "en": "Tosafot reconcile: the first clause of the Mishnah in Chagigah follows the last Mishnah, after Beit Hillel reverted to Beit Shammai, and the last clause precedes the bat kol."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2b:10",
+     "quote": "דחזרו בית הלל להורות כבית שמאי חייב בראיה",
+     "he": "רבינו גרשום: למשנה אחרונה חזרו בית הלל כבית שמאי, ולכן חייב בראיה כיון שסופו בחירות.",
+     "en": "Rabbeinu Gershom: according to the last Mishnah Beit Hillel reverted to Beit Shammai, so he is obligated since he ends in freedom."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2b:5",
+     "quote": "כולן תשלומין זה לזה",
+     "he": "רבינו גרשום מסביר את המחלוקת: למאן דאמר כולן תשלומין זה לזה כל יום בן חיוב; ולמאן דאמר תשלומין לראשון, מי שלא נראה בראשון אינו חייב.",
+     "en": "Rabbeinu Gershom explains the dispute: if all days are makeup for each other, each day carries its own obligation; if for the first, one who did not appear on the first is not obligated."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2b:8",
+     "quote": "שסומא באחת מעיניו שאינו רואה את הנגעים",
+     "he": "רבינו גרשום מביא לשון אחרת: ״מה לראות בשתי עיניו״ מכוון לכהן סומא באחת מעיניו שאינו רואה נגעים.",
+     "en": "Rabbeinu Gershom brings another version: 'seeing with both eyes' alludes to a kohen blind in one eye, who cannot examine nega'im."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Festival Offering 2:1",
+     "quote": "מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין פָּטוּר",
+     "he": "הרמב״ם: מי שחציו עבד וחציו בן חורין פטור מפני צד עבדות שבו, וכן הסומא בעינו אחת.",
+     "en": "The Rambam: one half-slave, half-free is exempt due to his side of slavery, and likewise one blind in one eye."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Slaves 7:7",
+     "quote": "כּוֹפִין אֶת רַבּוֹ וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין",
+     "he": "הרמב״ם: הואיל ואינו מותר בשפחה ולא בבת חורין, כופין את רבו לשחררו וכותב שטר על חצי דמיו.",
+     "en": "The Rambam: since he may marry neither a maidservant nor a free woman, his master is compelled to free him and he writes a bond for half his value."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Festival Offering 2:1:13",
+     "quote": "הראב״ד השיגו כי למשנה אחרונה חייב",
+     "he": "הר המוריה: הראב״ד השיג על הרמב״ם כי למשנה אחרונה חייב, והקושיה על רש״י מהתוספות מגיטין מב; ומביא שהלחם משנה הסכים לפירוש רש״י והראב״ד.",
+     "en": "Har HaMoriyah: the Ra'avad objected to the Rambam that according to the last Mishnah he is obligated; he cites Tosafot's difficulty from Gittin 42 and notes that others agreed with Rashi and the Ra'avad."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Chagigah 1:1:6",
+     "quote": "יראה יראה כדרך שבא ליראות",
+     "he": "התוספות יום טוב מציין שבגמרא בערכין, בסנהדרין ובחגיגה נאמר ״יראה יראה כדרך שבא ליראות״ וכו׳.",
+     "en": "The Tosafot Yom Tov notes that Arakhin, Sanhedrin and Chagigah state 'yireh yeira'eh, as he comes to be seen so he comes to see'."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Festival Offering 1:1:5",
+     "quote": "כל דחזי ביום הראשון יכול הוא להשלים בכל השבעה ימים",
+     "he": "הר המוריה: למאן דסבר כולן תשלומין דראשון, מי שנראה בראשון יכול להשלים בכל השבעה, כפי שמוכח מחגיגה ומערכין.",
+     "en": "Har HaMoriyah: for the view that all days are makeup for the first, one who was fit on the first can complete during all seven, as is evident from Chagigah and Arakhin."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 267:62",
+     "quote": "כופין את רבו לשחררו וכותב לו שטר על חצי דמיו",
+     "he": "השולחן ערוך: מי שחציו עבד וחציו בן חורין אינו יכול לישא לא שפחה ולא בת חורין, ולפיכך כופין את רבו לשחררו וכותב לו שטר על חצי דמיו.",
+     "en": "The Shulchan Arukh: one half-slave, half-free may marry neither a maidservant nor a free woman, so his master is compelled to free him and he writes a bond for half his value."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Arakhin 2b:1",
+     "quote": "אבל עבד גמור פטור דכתיב את פני האדון",
+     "he": "בעל פתח עינים מפנה לדברי המהר״י כולי על דברי רש״י אלה, שעבד גמור פטור.",
+     "en": "The Petach Einayim refers to Maharyakul's comments on these words of Rashi that a full slave is exempt."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    18
+   ],
+   "he": {
+    "title": "תקיעת שופר ומקרא מגילה",
+    "gemara": "״הכל חייבין בתקיעת שופר״ מרבה קטן שהגיע לחינוך, מן המשנה שאין מעכבין את הקטן מלתקוע ביום טוב. ״הכל חייבין במקרא מגילה״ ו״הכל כשרין לקרות את המגילה״ — הגמרא מתחילה לשאול מה הן מרבים.",
+    "halakha": "הרמב״ם קובע שהכל חייבים בקריאת המגילה: אנשים ונשים וגרים ועבדים משוחררים, ומחנכים את הקטנים לקרותה."
+   },
+   "en": {
+    "title": "Shofar and Megillah",
+    "gemara": "'Everyone is obligated in blowing shofar' includes a child who has reached chinukh, from the Mishnah that we do not prevent a child from blowing on Yom Tov. 'Everyone is obligated in reading the Megillah' and 'everyone is fit to read the Megillah' — the Gemara begins asking what these include.",
+    "halakha": "The Rambam rules that everyone is obligated in reading the Megillah: men, women, converts and freed slaves, and children are trained to read it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 2b:17:1",
+     "quote": "פלוגתא היא בפרק בתרא דיומא",
+     "he": "רש״י: ״שהגיע לחינוך״ שנוי במחלוקת ביומא, האחד אומר בן שמונה או תשע והאחר בן תשע או עשר.",
+     "en": "Rashi: 'reached chinukh' is disputed in the last chapter of Yoma, one saying eight or nine and the other nine or ten."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 2b:17:1",
+     "quote": "בשאר מצות כל אחד ואחד לפי דרכו",
+     "he": "התוספות מדחים את הפירוש הזה: ביומא מדובר בהתענות, אך בשאר מצוות כל אחד לפי דרכו, כמו בלולב, סוכה ותפילין.",
+     "en": "Tosafot reject that: Yoma speaks of fasting, whereas for other mitzvot each is according to his way, as with lulav, sukkah and tefillin."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Rosh Hashanah 33a:2",
+     "quote": "אין מעכבין בידו כדי שילמוד הואיל ויש מצוה בתקיעתו",
+     "he": "הריטב״א: בקטן שהגיע לחינוך אין מעכבין בידו כדי שילמוד כי יש מצוה בתקיעתו, וכן משמע בריש ערכין.",
+     "en": "The Ritva: for a child who reached chinukh we do not prevent him so he can learn, as there is a mitzvah in his blowing, as the start of Arakhin implies."
+    },
+    {
+     "who": {
+      "he": "הרא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Rosh Hashanah 4:7:2",
+     "quote": "וכן מוכח בריש ערכין",
+     "he": "הרא״ש מביא שרש״י פירש כלשון קמא והקשה עליו ר״י, ומוכיח מריש ערכין שהגמרא כאן אמורה בקטן שהגיע לחינוך.",
+     "en": "The Rosh notes that Rashi explained like the first version, Rabbeinu Yitzchak objected, and he proves from the start of Arakhin that the case is a child who reached chinukh."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 2:7",
+     "quote": "אֵין מְעַכְּבִין אוֹתָן מִלִּתְקֹעַ",
+     "he": "הרמב״ם: תינוקות שלא הגיעו לחינוך אין מעכבין אותם מלתקוע בשבת שאינה יום טוב של ראש השנה כדי שילמדו.",
+     "en": "The Rambam: children who have not reached chinukh are not prevented from blowing on a Shabbat that is not Rosh Hashana, so that they learn."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Megillah 4a:5:1",
+     "quote": "לאתויי נשים משמע להוציא אפילו אנשים",
+     "he": "התוספות: מערכין משמע שהנשים מוציאות אחרים, ומקשים מהתוספתא שטומטום אינו מוציא; ומתרצים שלא תועיל קריאתן אפילו להוציא נשים, והגמרא באה להשמיע שחייבות.",
+     "en": "Tosafot: Arakhin implies that women discharge others, they ask from the Tosefta on a tumtum, and answer that one might have thought their reading is not effective even for women, so we are taught they are obligated."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Megillah 4a:1",
+     "quote": "הכל כשרין לקרות את המגלה לאתויי נשים",
+     "he": "המאירי: בראש מסכת ערכין אמרו שהכל כשרין לקרות לאתויי נשים, אך בהלכות גדולות פסקו שנשים חייבות ואינן מוציאות אלא נשים.",
+     "en": "The Meiri: the start of Arakhin says 'fit to read' includes women, but the Halakhot Gedolot rule women are obligated and discharge only women."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 2b:12",
+     "quote": "שכל המחוייב בדבר מוציא את הרבים ידי חובתן",
+     "he": "רבינו גרשום: הכל חייבין במגילה והכל כשרין לקרות, שכל המחויב בדבר מוציא את הרבים ידי חובתן.",
+     "en": "Rabbeinu Gershom: everyone is obligated in the Megillah and everyone is fit to read, since whoever is obligated discharges the many."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Scroll of Esther and Hanukkah 1:1",
+     "quote": "וְהַכּל חַיָּבִים בִּקְרִיאָתָהּ",
+     "he": "הרמב״ם: הכל חייבים בקריאתה — אנשים ונשים וגרים ועבדים משוחררים — ומחנכים את הקטנים לקרותה.",
+     "en": "The Rambam: all are obligated in reading it — men, women, converts and freed slaves — and children are trained to read it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 689:1",
+     "quote": "הכל חייבים בקריאתה אנשים ונשים וגרים ועבדים משוחררים",
+     "he": "השולחן ערוך: הכל חייבים בקריאתה — אנשים, נשים, גרים ועבדים משוחררים — ומחנכים את הקטנים לקרותה.",
+     "en": "The Shulchan Arukh: all are obligated in reading it — men, women, converts and freed slaves — and children are trained to read it."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 689",
+     "quote": "פירש״י שמוציאות לאנשים ידי חובתן",
+     "he": "הטור: נשים חייבות בקריאתה, ופירש רש״י שמוציאות לאנשים ידי חובתן, ובה״ג כתב שאינן מוציאות.",
+     "en": "The Tur: women are obligated, and Rashi explained they discharge men, while the Halakhot Gedolot wrote they do not."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Megillah 2:4:1",
+     "quote": "אתא לאתויי דמשמע דמוציאות נמי את הרבים",
+     "he": "מלאכת שלמה מביא את הר״ן: ״הכל״ בריש ערכין בא לאתויי, ומשמע שמוציאות את הרבים ואף אנשים ומצטרפות לעשרה.",
+     "en": "The Melekhet Shelomoh cites the Ran: the 'everyone' at the start of Arakhin includes, implying that women discharge the many, even men, and join a minyan of ten."
+    },
+    {
+     "who": {
+      "he": "רדב״ז",
+      "en": "Radbaz"
+     },
+     "ref": "Teshuvot HaRadbaz Volume 5 1417:1",
+     "quote": "הא במסכת ערכין אמרינן הכל לאתויי נשים ומשמע דעבדים לא",
+     "he": "הרדב״ז: בערכין אמרו ״הכל לאתויי נשים״ ומשמע שעבדים לא, וכן כתב הרמב״ם ״עבדים משוחררים״.",
+     "en": "The Radbaz: Arakhin says 'everyone' includes women, implying not slaves, and likewise the Rambam writes 'freed slaves'."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Scroll of Esther and Hanukkah 1:1:1",
+     "quote": "ורבינו סבר כפשטא דשמועה דערכין",
+     "he": "האור שמח: הרמב״ם סבר כפשט הסוגיה בערכין שהכל כשרים לקרות המגילה אפילו נשים ומשמע להוציא אנשים.",
+     "en": "The Ohr Sameach: the Rambam held like the plain reading in Arakhin that all are fit to read, even women, which implies discharging men."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Scroll of Esther and Hanukkah 1:1:1",
+     "quote": "פ״ק דערכין דף ב׳ מייתי כל היכא דתני הכל",
+     "he": "מעשה רקח: בפרק ראשון של ערכין מובא שכל היכא דתני ״הכל״ שואלים לאתויי מאי, ולגבי מגילה לאתויי נשים.",
+     "en": "The Maaseh Rokeach: the first chapter of Arakhin asks of every 'everyone' what it adds, and for the Megillah it adds women."
+    },
+    {
+     "who": {
+      "he": "מחצית השקל",
+      "en": "Machatzit HaShekel"
+     },
+     "ref": "Machatzit HaShekel on Orach Chayim 689:7:1",
+     "quote": "ובה״ג חולק דאין מוציאות לנשים",
+     "he": "מחצית השקל: רש״י סבר שנשים מוציאות אנשים, ובה״ג חולק, והא דאמרינן בערכין הכל לאתויי נשים היינו להוציא נשים כמותן.",
+     "en": "The Machatzit HaShekel: Rashi holds women discharge men, the Halakhot Gedolot disagree, and 'everyone includes women' in Arakhin means discharging women like themselves."
+    }
+   ]
+  }
+ ]
+}
