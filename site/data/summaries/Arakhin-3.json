@@ -1,0 +1,1454 @@
+{
+ "ref": "Arakhin 3",
+ "date": "2026-11-20",
+ "he": {
+  "overview": "דף ג׳ בערכין ממשיך את סדרת ה״הכל״ שבמשנה ושואל על כל אחד מה בא לרבות: נשים, עבדים, קטן, ערל, כותי ומשומד, בענייני מקרא מגילה, זימון, טומאת זיבה ומת, נגעים, קידוש מי חטאת, הזאה ושחיטה. בעמוד ב׳ ממשיכה הסוגיה לעלייה לארץ ישראל ולירושלים, ואחר כך לשאלה על כהנים בסוכה, ציצית, תפילין ושופר, ומדוע נצרך לומר שהם חייבים. הראשונים והאחרונים דנים אם נשים מוציאות אחרים במקרא מגילה, אם זימון נשים חובה או רשות, ובכלאים של בגדי כהונה.",
+  "title": "סיכום — ערכין ג׳"
+ },
+ "en": {
+  "overview": "Arakhin 3 continues the Mishnah's series of 'everyone' clauses and asks, for each, what it comes to include: women, slaves, a minor, an uncircumcised man, a Samaritan and an apostate, in matters of the Megillah, zimmun, zivah and corpse impurity, nega'im, sanctifying the red-heifer water, sprinkling and slaughter. On amud b the sugya moves to ascending to Eretz Yisrael and Jerusalem, then asks why it was necessary to state that kohanim are obligated in sukkah, tzitzit, tefillin and shofar. The Rishonim and Acharonim take up whether women discharge others in the Megillah, whether women's zimmun is obligatory or optional, and the kilayim of the priestly garments.",
+  "title": "Summary — Arakhin 3"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "לאתויי נשים"
+   ],
+   "he": {
+    "term": "לאתויי",
+    "explanation": "לשון של ריבוי: הגמרא שואלת מה בא ״הכל״ שבמשנה להוסיף, ומוצאת מי שנכלל בו. כאן ״הכל״ נדרש לרבות נשים."
+   },
+   "en": {
+    "term": "Le'atuyei (to include)",
+    "explanation": "A formula of inclusion: the Gemara asks what the word \"everyone\" in the Mishnah comes to add, and finds who is included. Here \"everyone\" is expounded to include women."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 3a:1:1",
+    "quote": "שחייבות במקרא מגילה וכשרות לקרותה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "נשים מזמנות לעצמן"
+   ],
+   "he": {
+    "term": "זימון",
+    "explanation": "ברכת המזון שמברכים בלשון רבים, כשאוכלים שלושה לפחות יחד. נשים ועבדים מזמנים רק לעצמם."
+   },
+   "en": {
+    "term": "Zimmun",
+    "explanation": "The invitation to the Grace after Meals recited in the plural when at least three eat together. Women and slaves may do so only among themselves."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 3a:2:1",
+    "quote": "שלש נשים וכן שלשה עבדים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "היודע למי מברכין"
+   ],
+   "he": {
+    "term": "קטן היודע למי מברכין",
+    "explanation": "קטן שמבין למי מברכים בברכת המזון. לדעת רב נחמן מזמנים עליו."
+   },
+   "en": {
+    "term": "A minor who knows to Whom we bless",
+    "explanation": "A minor who understands to Whom the Grace after Meals is directed. According to Rav Nachman, a zimmun is made over him."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Arakhin 3a:3:1",
+    "quote": "ואפילו הכי לא קי\"ל כוותיה אלא כדאמר רבי יוסי בירושלמי"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "למעוטי קטן מכרת"
+   ],
+   "he": {
+    "term": "למעוטי קטן מכרת",
+    "explanation": "״איש״ במקרא מעט קטן מעונש כרת, אף שהוא טמא לענין טומאה."
+   },
+   "en": {
+    "term": "To exclude a minor from karet",
+    "explanation": "The word \"ish\" in the verse excludes a minor from the penalty of karet, though he still becomes impure."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 3a:2",
+    "quote": "למעוטי קטן מכרת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "פורע ופורם"
+   ],
+   "he": {
+    "term": "פריעה ופרימה",
+    "explanation": "הצרוע חייב לפרוע את ראשו ולקרוע את בגדיו. ״איש״ מלמד שאשה אינה פורעת ופורמת."
+   },
+   "en": {
+    "term": "Peri'ah u'perimah",
+    "explanation": "The metzora must unbind his hair and tear his garments. \"Ish\" teaches that a woman does not do so."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 3a:11:1",
+    "quote": "דמשתעי בפריעה ופרימה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "דמסברי ליה וסבר"
+   ],
+   "he": {
+    "term": "מסברי ליה",
+    "explanation": "הסבר לכהן שאינו בקי בנגעים, כדי שיבין ויראה."
+   },
+   "en": {
+    "term": "Masbari leih",
+    "explanation": "An explanation given to a kohen who is not expert in nega'im, so that he understands and sees."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 3a:5",
+    "quote": "שאומרין לו לך ראה אם כך וכך הן עשויין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "כשרין לקדש"
+   ],
+   "he": {
+    "term": "לקדש",
+    "explanation": "ערבוב מים חיים באפר פרה אדומה."
+   },
+   "en": {
+    "term": "Lekadesh (to sanctify)",
+    "explanation": "Mixing spring water with the ashes of the red heifer."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 3a:14:1",
+    "quote": "לערב מים חיים באפר חטאת"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 3,
+   "anchors": [
+    "מנוה היפה לנוה הרעה"
+   ],
+   "he": {
+    "term": "נוה יפה ונוה רעה",
+    "explanation": "מקום מגורים נוח לעומת מקום קשה יותר. הגמרא דנה בעלייה מן הנוה היפה לנוה הרעה."
+   },
+   "en": {
+    "term": "Naveh yafeh and naveh ra'ah",
+    "explanation": "A more comfortable residence versus a harder one. The Gemara discusses ascending from the better residence to the worse."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 3b:3",
+    "quote": "הכל מעלין לירושלים אע\"ג דירושלים נוה הרע"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "נשים במקרא מגילה",
+    "gemara": "הגמרא ממשיכה את סדרת ה״הכל״ שבמשנה ושואלת מה בא ״הכל״ לרבות. כאן הוא בא לרבות נשים, כדברי רבי יהושע בן לוי שנשים חייבות במקרא מגילה, שאף הן היו באותו הנס."
+   },
+   "en": {
+    "title": "Women and reading the Megillah",
+    "gemara": "The Gemara continues through the Mishnah's series of 'everyone' clauses and asks what each 'everyone' comes to include. Here it includes women, as R. Yehoshua ben Levi says: women are obligated in reading the Megillah, since they too were part of that miracle."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:1:1",
+     "quote": "שחייבות במקרא מגילה וכשרות לקרותה ולהוציא זכרים ידי חובתם",
+     "he": "רש״י מבאר שהנשים חייבות במקרא מגילה, כשרות לקרוא אותה, ומוציאות גם זכרים ידי חובתם.",
+     "en": "Rashi explains that women are obligated in reading the Megillah, are fit to read it, and discharge men's obligation as well."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:1:1",
+     "quote": "אבל בה\"ג לא פסק הכי",
+     "he": "התוספות מביאים שבה״ג לא פסק כרש״י, ומביאים ראיה מן התוספתא.",
+     "en": "Tosafot note that the Halakhot Gedolot did not rule this way, and they bring proof from the Tosefta."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Megillah 4a:2",
+     "quote": "שאף הן היו באותו הנס להשמיד להרוג ולאבד טף ונשים ביום",
+     "he": "הריטב״א מביא את פירוש הירושלמי: ״שאף הן היו באותו הנס״ — שהגזרה להשמיד להרוג ולאבד כללה טף ונשים ביום אחד.",
+     "en": "The Ritva cites the Yerushalmi: \"they too were in that miracle\" — the decree to destroy, kill and annihilate included children and women in a single day."
+    },
+    {
+     "who": {
+      "he": "הר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Megillah 6b:11",
+     "quote": "ומשמע שמוציאות את הרבים ידי חובתן",
+     "he": "הר״ן מביא מריש ערכין שהדרשה לרבות נשים משמעה שהן מוציאות את הרבים ידי חובתן.",
+     "en": "The Ran notes that from the derivation at the start of Arakhin it follows that women discharge the public's obligation."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Scroll of Esther and Hanukkah 1:1",
+     "quote": "והכל חיבים בקריאתה אנשים ונשים",
+     "he": "הרמב״ם פוסק שהכל חייבים בקריאת המגילה, אנשים ונשים.",
+     "en": "The Rambam rules that everyone is obligated in reading the Megillah, men and women."
+    },
+    {
+     "who": {
+      "he": "הטור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 689",
+     "quote": "ופירש\"י שמוציאות לאנשים ידי חובתן ובה\"ג כ' אע\"ג שחייבות במקרא מגילה אינן מוציאות לאנשים",
+     "he": "הטור מביא את מחלוקת רש״י ובה״ג: לרש״י הנשים מוציאות אנשים ידי חובתן, ולבה״ג, אף שחייבות, אינן מוציאות אנשים.",
+     "en": "The Tur records the dispute: Rashi says women discharge men's obligation, while the Halakhot Gedolot writes that although they are obligated they do not discharge men."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 689:1",
+     "quote": "הכל חייבים בקריאתה אנשים ונשים וגרים ועבדים משוחררים",
+     "he": "השולחן ערוך כותב שהכל חייבים בקריאת המגילה: אנשים, נשים, גרים ועבדים משוחררים.",
+     "en": "The Shulchan Arukh writes that all are obligated in reading it: men, women, converts and freed slaves."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 689:2:3",
+     "quote": "ומ\"ש בערכין הכל כשרין כו' לאתויי נשים ר\"ל להוציא נשים",
+     "he": "הגר״א מבאר שמה שנאמר בערכין ״לאתויי נשים״ משמעו להוציא נשים ידי חובה.",
+     "en": "The Gra explains that the statement in Arakhin \"to include women\" means to discharge women."
+    },
+    {
+     "who": {
+      "he": "דברי ירמיהו",
+      "en": "Divrei Yirmiyahu"
+     },
+     "ref": "Divrei Yirmiyahu on Mishneh Torah, Scroll of Esther and Hanukkah 1:1:2",
+     "quote": "עי' בתוס' שם בד\"ה לאתוי דדעת הבה\"ג אינו כן",
+     "he": "בדברי ירמיהו מצוין כי דעת בה״ג אינה כרש״י, ויש להעיין בתוספות על כך.",
+     "en": "Divrei Yirmiyahu points to Tosafot there, noting that the Halakhot Gedolot's view is not like Rashi's."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    3
+   ],
+   "he": {
+    "title": "זימון: נשים ועבדים וקטן היודע למי מברכין",
+    "gemara": "״הכל חייבין בזימון״ בא לרבות נשים ועבדים, שמזמנים לעצמם, ו״הכל מצטרפין לזימון״ בא לרבות קטן היודע למי מברכין, שמזמנים עליו, כדברי רב נחמן."
+   },
+   "en": {
+    "title": "Zimmun: women, slaves, and a child who knows to Whom we bless",
+    "gemara": "'Everyone is obligated in zimmun' includes women and slaves, who may form a zimmun among themselves; 'everyone joins in a zimmun' includes a minor who knows to Whom we bless, as Rav Nachman says, so that a zimmun is made over him."
+   },
+   "halakha": {
+    "he": "הרמב״ם והשולחן ערוך פוסקים שנשים ועבדים מזמנים לעצמם, ולא תהיה חבורה מעורבת מפני הפריצות, ושקטן היודע למי מברכין מצטרף, ויש אומרים שאין מצרפים אותו עד גיל שלוש עשרה.",
+    "en": "The Rambam and Shulchan Arukh rule that women and slaves may form a zimmun among themselves, but not a mixed group, because of immodesty; a minor who knows to Whom we bless joins, though some say not before thirteen."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:2:1",
+     "quote": "אבל אין שתי נשים או שני עבדים מצטרפין",
+     "he": "רש״י: שלוש נשים או שלושה עבדים מזמנים לעצמם, אבל שתי נשים או שני עבדים אינם מצטרפים עם אנשים.",
+     "en": "Rashi: three women or three slaves may zimmen among themselves, but two women or two slaves do not join with men."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:2:1",
+     "quote": "וצ\"ל דרשות הוא לנשים לזמן אבל חיובא ליכא",
+     "he": "התוספות מסבירים שלנשים זה רשות לזמן ואין חיוב.",
+     "en": "Tosafot explain that for women zimmun is optional, not an obligation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Berakhot 45b:3:1",
+     "quote": "וכן עשו בנות רבינו אברהם חמיו של רבינו יהודה ע\"פ אביהן",
+     "he": "התוספות בברכות מביאים שבנות רבינו אברהם זימנו לעצמן על פי אביהן, אך העולם לא נהגו כן.",
+     "en": "Tosafot in Berakhot report that the daughters of Rabbeinu Avraham zimmened by their father's instruction, though the custom of the world is otherwise."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Arakhin 9:1",
+     "quote": "נשים אם רצו מזמנות לעצמן",
+     "he": "פסקי תוספות: נשים, אם רצו, מזמנות לעצמן.",
+     "en": "Piskei Tosafot: women, if they wish, zimmen among themselves."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:3:1",
+     "quote": "ואפילו הכי לא קי\"ל כוותיה אלא כדאמר רבי יוסי בירושלמי",
+     "he": "על קטן היודע למי מברכין: התוספות כותבים שאין הלכה כרב נחמן, אלא כדברי רבי יוסי בירושלמי.",
+     "en": "On the minor who knows to Whom we bless, Tosafot write that the halakha is not like Rav Nachman but like R. Yosi in the Yerushalmi."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Blessings 5:7",
+     "quote": "אבל נשים מזמנות לעצמן או עבדים לעצמן ובלבד שלא יזמנו בשם",
+     "he": "הרמב״ם: נשים מזמנות לעצמן או עבדים לעצמן, ובלבד שלא יזמנו בשם.",
+     "en": "The Rambam: women among themselves or slaves among themselves may zimmen, provided they do not use the Name."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Berakhot 47b:5",
+     "quote": "ונשים ועבדים לא איקרו קהל",
+     "he": "המאירי כותב שנשים ועבדים לא נקראו ״קהל״.",
+     "en": "The Meiri writes that women and slaves are not called a \"congregation.\""
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 199:6",
+     "quote": "ולא תהא חבורה של נשים ועבדים וקטנים מזמנין יחד משום פריצותא",
+     "he": "השולחן ערוך: לא תהיה חבורה של נשים ועבדים וקטנים מזמנים יחד משום פריצות.",
+     "en": "The Shulchan Arukh: a group of women, slaves and minors may not zimmen together, because of immodesty."
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 199:10",
+     "quote": "קטן שהגיע לעונת הפעוטות ויודע למי מברכין מזמנין עליו ומצטרף",
+     "he": "השולחן ערוך: קטן שהגיע לעונת הפעוטות ויודע למי מברכין, מזמנים עליו והוא מצטרף.",
+     "en": "The Shulchan Arukh: a minor who has reached the age of peutot and knows to Whom we bless, a zimmun is made over him and he joins."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Berakhot 45b:2",
+     "quote": "ולכאורה יש לתמוה דנראה מכל האריכות של התוס' דרפיא בידייהו הך מילתא דזימון של נשים",
+     "he": "פני יהושע תמה שנראה מאריכות התוספות שדין זימון נשים רפוי בידם.",
+     "en": "The Penei Yehoshua is puzzled: from all of Tosafot's length, it seems the matter of women's zimmun is shaky in their hands."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3a:3",
+     "quote": "תד\"ה מזמנות. ותדע מדקא מייתי",
+     "he": "הרש״ש מעיר על נוסח דברי התוספות בדיבור המתחיל ״מזמנות״.",
+     "en": "The Rashash comments on the text of Tosafot's comment beginning \"mezamnot.\""
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Blessings 5:7:2",
+     "quote": "דאין ה\"נ דקטן שהביא שתי שערות",
+     "he": "האור שמח דן בדברי הרמב״ם על קטן, ומסביר שהגמרא כאן מדברת בקטן שהביא שתי שערות.",
+     "en": "The Ohr Sameach discusses the Rambam on the minor and suggests that the Gemara here speaks of a minor who has brought two hairs."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    7
+   ],
+   "he": {
+    "title": "קטן וטומאות: זיבה וטומאת מת",
+    "gemara": "״הכל מטמאין בזיבה״ בא לרבות תינוק בן יומו, לרבי יהודה מ״איש איש״. רבי ישמעאל בנו של רבי יוחנן בן ברוקה אומר שאין צריך, כי ״לזכר ולנקבה״ כולל קטן וגדול, ו״איש איש״ הוא דיבור כלשון בני אדם. ״הכל מטמאין בטמא מת״ בא לרבות קטן, ו״איש״ בא למעט קטן מכרת."
+   },
+   "en": {
+    "title": "Minors and impurities: zivah and corpse impurity",
+    "gemara": "'Everyone becomes impure through zivah' includes a one-day-old infant, according to R. Yehudah from 'ish ish'. R. Yishmael son of R. Yochanan ben Berokah says this is unneeded, since 'for the male and for the female' covers young and old, and 'ish ish' is the Torah speaking in human language. 'Everyone becomes impure with corpse impurity' includes a minor, and 'ish' comes to exclude a minor from karet."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:1",
+     "quote": "מה ת\"ל איש איש ב' פעמים כי יהיה זב מבשרו",
+     "he": "רבינו גרשום מציין את הפסוק ״כי יהיה זב מבשרו״ שבו נאמר ״איש איש״ פעמיים.",
+     "en": "Rabbeinu Gershom identifies the verse \"when any man (ish ish) has a discharge from his flesh,\" in which \"ish\" is written twice."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:2",
+     "quote": "למעוטי קטן מכרת. על טומאת מקדש וקדשיו",
+     "he": "רבינו גרשום: ״למעוטי קטן מכרת״ הוא על טומאת מקדש וקדשיו.",
+     "en": "Rabbeinu Gershom: \"to exclude a minor from karet\" refers to impurity of the Temple and its sacred things."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:7:1",
+     "quote": "דהאי קרא בנכנס טמא למקדש כתיב ומחייב ליה כרת",
+     "he": "רש״י: הפסוק מדבר בטמא שנכנס למקדש וחייב כרת, ולכן ״איש״ מעט קטן שאינו בר עונשין.",
+     "en": "Rashi: the verse speaks of an impure person entering the Temple, who is liable to karet, so \"ish\" excludes a minor, who is not subject to punishment."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:7:1",
+     "quote": "ויש לתמוה למה לי קרא לפוטרו כיון דלא מצינו קטן נענש",
+     "he": "התוספות תמהים: למה צריך פסוק לפטור קטן, הרי לא מצינו שקטן נענש?",
+     "en": "Tosafot are puzzled: why is a verse needed to exempt a minor, when we never find a minor punished?"
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Offerings for Those with Incomplete Atonement 3:6",
+     "quote": "הכל מתטמאין בזיבה אפלו קטן בן יומו",
+     "he": "הרמב״ם פוסק שהכל מתטמאים בזיבה, אפילו קטן בן יומו.",
+     "en": "The Rambam rules that everyone becomes impure through zivah, even a one-day-old infant."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by a Corpse 1:14",
+     "quote": "אחד גדול ואחד קטן מתטמאין בכל הטמאות",
+     "he": "הרמב״ם: אחד גדול ואחד קטן מתטמאים בכל הטומאות, אף בטומאת המת.",
+     "en": "The Rambam: both adult and minor become impure with all impurities, even corpse impurity."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3a:4",
+     "quote": "ואולי יש לתרץ דקרא אתי למעוטי דגדול המכניס קטן טמא מת למקדש פטור הגדול מכרת",
+     "he": "הרש״ש מציע לתרץ את קושיית התוספות: הפסוק בא למעט גדול המכניס קטן טמא מת למקדש, שהגדול פטור מכרת.",
+     "en": "The Rashash suggests answering Tosafot's question: the verse comes to exclude an adult who brings an impure minor into the Temple, who is exempt from karet."
+    },
+    {
+     "who": {
+      "he": "גליון הש״ס",
+      "en": "Gilyon HaShas"
+     },
+     "ref": "Gilyon HaShas on Arakhin 3a:1",
+     "quote": "תוס' ד\"ה למעוטי וכו' ויש לתמוה",
+     "he": "גליון הש״ס מפנה לתוספות בפסחים ד״ה ״איש״ על קושיית התוספות.",
+     "en": "Gilyon HaShas refers to Tosafot in Pesachim, s.v. \"ish,\" on Tosafot's question."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    11
+   ],
+   "he": {
+    "title": "נגעים: ״איש״ ופריעה ופרימה",
+    "gemara": "״הכל מטמאין בנגעים״ בא לרבות קטן. מקשים: ״אדם כי יהיה בעור בשרו״ כולל את כולם, אז למה ״איש״? ולפי הברייתא ״איש״ בא לענין פריעה ופרימה למטה: האיש פורע ופורם, ואין האשה פורעת ופורמת."
+   },
+   "en": {
+    "title": "Nega'im: 'ish' and unbinding and tearing",
+    "gemara": "'Everyone becomes impure through nega'im' includes a minor. The Gemara objects: 'adam ki yihyeh be'or besaro' covers everyone, so why 'ish'? Per the baraita, 'ish' serves the later passage on unbinding and tearing: a man must let his hair grow wild and tear his garments, but a woman does not."
+   },
+   "halakha": {
+    "he": "הרמב״ם פוסק שהמצורעת אינה פורעת ואינה פורמת.",
+    "en": "The Rambam rules that a woman with tzara'at does not unbind her hair nor tear her garments."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:3",
+     "quote": "דאיש פורע ופורם ולא אשה פורעת ופורמת",
+     "he": "רבינו גרשום: האיש פורע ופורם, ולא האשה.",
+     "en": "Rabbeinu Gershom: a man unbinds and tears, not a woman."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:11:1",
+     "quote": "דמשתעי בפריעה ופרימה",
+     "he": "רש״י: ״איש״ אינו נאמר על ״טמא יטמאנו״ שם גם אשה, אלא על הפסוק שמדבר בפריעה ופרימה.",
+     "en": "Rashi: \"ish\" is not about \"he shall surely declare him impure,\" where a woman is included, but about the verse that speaks of unbinding and tearing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:10:1",
+     "quote": "משמע צרוע אחרינא לרבות את האשה",
+     "he": "רש״י: ״והצרוע״ משמע עוד צרוע, לרבות את האשה.",
+     "en": "Rashi: \"the metzora\" implies another metzora, to include the woman."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:10:1",
+     "quote": "ואע\"ג דבנגעי ראש וזקן כתיב",
+     "he": "התוספות מעירים על כך שבנגעי ראש וזקן כתוב ״אשה״ ולמה אין לומדים משם.",
+     "en": "Tosafot remark that in nega'im of head and beard \"woman\" is written, and ask why we do not learn from there."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Niddah 44a:3",
+     "quote": "איש פורע ופורם ואין אשה פורעת ופורמת",
+     "he": "הרשב״א מביא את הדרשה מריש ערכין ש״איש״ בא לענין פריעה ופרימה.",
+     "en": "The Rashba cites the derivation from the start of Arakhin that \"ish\" serves the matter of unbinding and tearing."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 10:8",
+     "quote": "המצרעת אינה פורעת ואינה פורמת",
+     "he": "הרמב״ם: המצורעת אינה פורעת ואינה פורמת.",
+     "en": "The Rambam: a woman with tzara'at does not unbind her hair and does not tear her garments."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 9:1",
+     "quote": "הכל מתטמאין בנגעים אפלו קטן בן יומו והעבדים",
+     "he": "הרמב״ם: הכל מתטמאים בנגעים, אפילו קטן בן יומו ועבדים.",
+     "en": "The Rambam: all become impure through nega'im, even a one-day-old infant and slaves."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 13:2:1",
+     "quote": "תינוק בן יום אחד מטמא בנגעים, דכתיב אדם כי יהיה בעור בשרו",
+     "he": "תורה תמימה מביא מערכין ג׳ שתינוק בן יום אחד מטמא בנגעים, מ״אדם כי יהיה בעור בשרו״.",
+     "en": "Torah Temimah cites Arakhin 3 that a one-day-old infant becomes impure with nega'im, from \"adam ki yihyeh be'or besaro.\""
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    12,
+    13
+   ],
+   "he": {
+    "title": "הכל רואין את הנגעים — מי שאינו בקי",
+    "gemara": "״הכל כשרין לראות את הנגעים״ בא לרבות מי שאינו בקי בהם ובשמותיהם. מקשים מדברי המשנה שהאינו בקי אינו רואה, ורבינא מתרץ: יש שמסבירים לו והוא מבין, ויש שמסבירים לו והוא אינו מבין."
+   },
+   "en": {
+    "title": "Everyone may see nega'im — one who is not expert",
+    "gemara": "'Everyone is fit to see nega'im' includes one who is not expert in them or their names. The Gemara objects that a non-expert does not see, and Ravina answers: one case is where they explain it to him and he understands, the other where they explain and he does not."
+   },
+   "halakha": {
+    "he": "הרמב״ם פוסק שהכל כשרים לראות נגעים, אך הטומאה והטהרה תלויה בכהן.",
+    "en": "The Rambam rules that anyone may see nega'im, yet impurity and purity depend on the kohen."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:12:2",
+     "quote": "והולך תלמיד חכם ישראל ורואה עמו ואומר לו אמור טמא",
+     "he": "רש״י: תלמיד חכם ישראל הולך ורואה עם הכהן שאינו בקי ואומר לו ״אמור טמא״.",
+     "en": "Rashi: a Torah scholar who is an Israelite goes and sees with the kohen who is not expert and tells him \"say impure.\""
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:5",
+     "quote": "שאומרין לו לך ראה אם כך וכך הן עשויין ומבין ורואה",
+     "he": "רבינו גרשום: ״מסברי ליה וסבר״ — אומרים לו לך ראה אם כך וכך הן עשויים, והוא מבין ורואה.",
+     "en": "Rabbeinu Gershom: \"they explain and he understands\" — they tell him to go see whether they look thus, and he understands and sees."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3a:13:2",
+     "quote": "שהטומאה והטהרה תלויה באמירת כהן",
+     "he": "התוספות: הטומאה והטהרה תלויה באמירת הכהן.",
+     "en": "Tosafot: impurity and purity depend on the kohen's pronouncement."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shevuot 6a:4:2",
+     "quote": "כשאין ישראל חכם עמו",
+     "he": "התוספות בשבועות מעירים על ההסבר שבריש ערכין, ומדברים על מקרה שאין ישראל חכם עמו.",
+     "en": "Tosafot in Shevuot refer to the explanation at the start of Arakhin and speak of the case where there is no wise Israelite with him."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Arakhin 13:1",
+     "quote": "כהן בעל מום רואה הנגעים",
+     "he": "פסקי תוספות: כהן בעל מום רואה את הנגעים.",
+     "en": "Piskei Tosafot: a kohen with a blemish may see the nega'im."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 9:2",
+     "quote": "כהן שאינו יודע לראות החכם רואהו ואומר לו אמור טמא",
+     "he": "הרמב״ם: כהן שאינו יודע לראות, החכם רואה ואומר לו ״אמור טמא״, והכהן אומר.",
+     "en": "The Rambam: a kohen who does not know how to see — the sage sees and tells him \"say impure,\" and the kohen says it."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    16
+   ],
+   "he": {
+    "title": "הכל כשרין לקדש, להזות ולשחוט",
+    "gemara": "״הכל כשרין לקדש״ — לרבי יהודה לרבות קטן, ולרבנן לרבות אשה. ״הכל כשרין להזות״ בא לרבות ערל, כרבי אלעזר. ״הכל שוחטין״ בא לרבות כותי וישראל משומד."
+   },
+   "en": {
+    "title": "Everyone may sanctify, sprinkle and slaughter",
+    "gemara": "'Everyone is fit to sanctify' — according to R. Yehudah this includes a minor, according to the Rabbis a woman. 'Everyone is fit to sprinkle' includes an uncircumcised man, as R. Elazar holds. 'Everyone slaughters' includes a Samaritan and an apostate Israelite."
+   },
+   "halakha": {
+    "he": "השולחן ערוך פוסק שכותי בימינו דינו כעובד כוכבים, ושערל שמתו אחיו מחמת מילה כשר.",
+    "en": "The Shulchan Arukh rules that a Samaritan today has the law of a non-Jew, and an uncircumcised man whose brothers died from circumcision is fit."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:14:1",
+     "quote": "לערב מים חיים באפר חטאת",
+     "he": "רש״י: ״לקדש״ — לערב מים חיים באפר חטאת.",
+     "en": "Rashi: \"to sanctify\" — to mix spring water with the ashes of the red heifer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:8",
+     "quote": "שמתו אחיו מחמת מילה",
+     "he": "רבינו גרשום: ערל הוא מי ״שמתו אחיו מחמת מילה״.",
+     "en": "Rabbeinu Gershom: the \"arel\" is one whose brothers died on account of circumcision."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3a:15:3",
+     "quote": "טעמא מפרש ביבמות בפ' הערל",
+     "he": "רש״י: טעם הדבר מפורש ביבמות בפרק הערל.",
+     "en": "Rashi: the reason is explained in Yevamot, in the chapter on the uncircumcised."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3a:10",
+     "quote": "מומר לדבר אחד",
+     "he": "רבינו גרשום: ״ישראל משומד״ הוא משומד לדבר אחד.",
+     "en": "Rabbeinu Gershom: an apostate Israelite is one who is an apostate for one matter."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Red Heifer 6:2",
+     "quote": "והכל כשרין לקדש חוץ מחרש שוטה וקטן",
+     "he": "הרמב״ם: הכל כשרים לקדש חוץ מחרש שוטה וקטן.",
+     "en": "The Rambam: all are fit to sanctify except a deaf-mute, a person of unsound mind and a minor."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Red Heifer 10:6",
+     "quote": "והערל כשר להזות",
+     "he": "הרמב״ם: ערל כשר להזות, שאין הערל טמא.",
+     "en": "The Rambam: an uncircumcised man is fit to sprinkle, since the uncircumcised is not impure."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Ritual Slaughter 4:14",
+     "quote": "ישראל מומר לעברה מן העברות",
+     "he": "הרמב״ם דן בישראל מומר לעבירה אחת, ובמומר לעבודה זרה או מחלל שבת בפרהסיה, שדינו כעכו״ם.",
+     "en": "The Rambam discusses an Israelite apostate for one sin, and one who is an apostate to idolatry or a public Shabbat desecrator, who is treated like a non-Jew."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Red Heifer 6:2:2",
+     "quote": "אמרו דהכל כשרים לקדש לאתויי אשה",
+     "he": "הכסף משנה: בריש ערכין אמרו שהכל כשרים לקדש לרבות אשה.",
+     "en": "The Kessef Mishneh: at the start of Arakhin they said that everyone is fit to sanctify, to include a woman."
+    },
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Red Heifer 6:2:1",
+     "quote": "ואמרינן פרק טרף בקלפי ואסף איש טהור והניח איש להכשיר את הזר",
+     "he": "קרית ספר מביא מיומא את הדרשה על ״ואסף איש טהור״ ו״והניח איש״.",
+     "en": "Kiryat Sefer cites from Yoma the derivation from \"a pure man shall gather\" and \"and shall place.\""
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 2:7",
+     "quote": "ואם אינו ערל אלא מפני שמתו אחיו מחמת מילה הרי הוא כשאר ישראל כשר",
+     "he": "השולחן ערוך: מי שאינו ערל אלא מפני שמתו אחיו מחמת מילה הרי הוא כשאר ישראל, כשר.",
+     "en": "The Shulchan Arukh: one who is uncircumcised only because his brothers died from circumcision is like any Israelite, and fit."
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 2:8",
+     "quote": "כותי האידנא דינו כעובד כוכבים",
+     "he": "השולחן ערוך: כותי בימינו דינו כעובד כוכבים.",
+     "en": "The Shulchan Arukh: a Samaritan today has the law of a non-Jew."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    17,
+    3
+   ],
+   "he": {
+    "title": "הכל מעלין לארץ ישראל ולירושלים",
+    "gemara": "״הכל מעלין לארץ ישראל״ בא לרבות עבדים, שכופים את רבם להעלותם, ולמי ששונה ״עבדים״ במפורש — לרבות מנוה היפה לנוה הרעה. ״ואין הכל מוציאין״ — עבד שברח מחוץ לארץ לארץ. ״הכל מעלין לירושלים״ — מנוה היפה לנוה הרעה."
+   },
+   "en": {
+    "title": "Everyone may be made to ascend to Eretz Yisrael and Jerusalem",
+    "gemara": "'Everyone ascends to Eretz Yisrael' includes slaves, whose master may be forced to bring them up; and for the one who teaches 'slaves' explicitly, it includes moving from a better residence to a worse one. 'But not everyone takes out' — a slave who fled from outside the Land into it. 'Everyone ascends to Jerusalem' — from a better dwelling to a worse one."
+   },
+   "halakha": {
+    "he": "הרמב״ם פוסק שעבד שאמר לעלות לארץ ישראל כופים את רבו לעלות עמו או למכור אותו, ועבד שברח מחוצה לארץ אין מחזירין אותו.",
+    "en": "The Rambam rules that a slave who says he wishes to ascend to Eretz Yisrael — his master is forced to go with him or to sell him, and a slave who fled from outside the Land is not returned."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:1:1",
+     "quote": "כופין את רבו להעלותו",
+     "he": "רש״י: עבד כנעני שרוצה שלא ימכרנו רבו אלא בארץ ישראל — כופים את רבו להעלותו.",
+     "en": "Rashi: a Canaanite slave who wants not to be sold except in Eretz Yisrael — his master is forced to bring him up."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:1:3",
+     "quote": "ואין אשתו יכולה לעכב עליו וכן מא\"י לירושלים",
+     "he": "רש״י: ״נוה הרעה״ הוא ארץ ישראל, ואין אשתו יכולה לעכב עליו, וכן מארץ ישראל לירושלים.",
+     "en": "Rashi: the \"worse residence\" is Eretz Yisrael, and his wife cannot prevent him, and likewise from Eretz Yisrael to Jerusalem."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:1:1",
+     "quote": "ור\"י פירש שהעבד יכול לכוף להעלותו או יפטרוהו",
+     "he": "התוספות מביאים את רבינו יצחק: העבד יכול לכוף את רבו להעלותו, או שיפטרוהו.",
+     "en": "Tosafot cite Ri: the slave can compel his master to bring him up, or they must release him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:2:1",
+     "quote": "א\"נ דהואיל וברח ניקנסיה לעבד ולא נפטר",
+     "he": "התוספות מתרצים שמא הואיל וברח, קונסים את העבד ולא נפטר.",
+     "en": "Tosafot answer that perhaps, since he fled, the slave is penalized and is not freed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3b:1",
+     "quote": "דאע\"ג דאית ליה בחוצה לארץ נוה יפה ובא\"י נוה רע",
+     "he": "רבינו גרשום: אף שיש לו בחוץ לארץ נוה יפה ובארץ ישראל נוה רע.",
+     "en": "Rabbeinu Gershom: even though he has a fine residence outside the Land and a worse one in Eretz Yisrael."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:3:1",
+     "quote": "וליכא למימר לאתויי עבדים דליכא חילוק בין שאר ארץ ישראל לירושלים גבי עבדים",
+     "he": "התוספות: אי אפשר לומר ש״הכל מעלין לירושלים״ בא לרבות עבדים, כי אין חילוק לגבי עבדים בין ארץ ישראל לירושלים.",
+     "en": "Tosafot: one cannot say that \"everyone ascends to Jerusalem\" includes slaves, since there is no distinction for slaves between the rest of Eretz Yisrael and Jerusalem."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Slaves 8:9",
+     "quote": "כופין את רבו לעלות עמו או ימכר אותו למי שיעלוהו לשם",
+     "he": "הרמב״ם: עבד שאמר לעלות לארץ ישראל כופים את רבו לעלות עמו, או שימכור אותו למי שיעלהו.",
+     "en": "The Rambam: a slave who says he wants to ascend to Eretz Yisrael — his master is forced to ascend with him, or to sell him to one who will take him up."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Slaves 8:10",
+     "quote": "עבד שברח מחוצה לארץ לארץ אין מחזירין לו לעבדות",
+     "he": "הרמב״ם: עבד שברח מחוצה לארץ לארץ אין מחזירים אותו לעבדות.",
+     "en": "The Rambam: a slave who fled from outside the Land into it is not returned to servitude."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3b:1",
+     "quote": "ר\"ל שאינו חפץ להוציאו מרשותו ע\"י מכירה",
+     "he": "הרש״ש מסביר שאינו מוציאו מרשותו פירושו שאינו חפץ להוציאו מרשותו על ידי מכירה.",
+     "en": "The Rashash explains that \"does not take him out of his possession\" means that he does not want to remove him from his ownership through sale."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3b:2",
+     "quote": "ואגב אורחא למדנו שהיו גורסין שם",
+     "he": "הרש״ש מעיר על גרסת הגמרא בכתובות, ומסיק ממנה שהיו גורסים כך.",
+     "en": "The Rashash notes the reading in Ketubot, from which we learn in passing that this was the reading there."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    6
+   ],
+   "he": {
+    "title": "סוכה בכהנים, לוים וישראלים",
+    "gemara": "״הכל חייבין בסוכה, כהנים לוים וישראלים״ — פשיטא! הגמרא מסבירה שכהנים צריכים, כי ״תשבו כעין תדורו״ — איש ואשתו, והכהנים בני עבודה. משמיענו שבלא שעת עבודה הם חייבים, כהולכי דרכים שפטורים ביום וחייבים בלילה."
+   },
+   "en": {
+    "title": "Sukkah for kohanim, levi'im and Israelites",
+    "gemara": "'Everyone is obligated in sukkah, kohanim, levi'im and Israelites' — obvious! The Gemara explains kohanim needed to be stated: since 'teshvu ke'ein taduru' means a man and his wife, and kohanim are people of the Temple service, one might think they are exempt. It teaches that though exempt during the service, outside it they are obligated, like travelers, who are exempt by day and obligated by night."
+   },
+   "halakha": {
+    "he": "הרמב״ם והשולחן ערוך פוסקים שהולכי דרכים ביום פטורים מן הסוכה ביום וחייבים בלילה.",
+    "en": "The Rambam and Shulchan Arukh rule that travelers by day are exempt from sukkah by day and obligated at night."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:5:1",
+     "quote": "ואין יכולין לדור איש ואשתו בסוכה שאין נזקקין לנשותיהן",
+     "he": "רש״י: הכהנים אינם יכולים לדור איש ואשתו בסוכה, שאין נזקקים לנשותיהם בשעת עבודת הרגל.",
+     "en": "Rashi: kohanim cannot live as man and wife in the sukkah, as they do not approach their wives during the festival service."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:6:1",
+     "quote": "בעידן עבודה פטירי שלא בעידן עבודה מיחייבי",
+     "he": "רש״י: בשעת עבודה פטורים, ושלא בשעת עבודה חייבים.",
+     "en": "Rashi: during the service they are exempt; outside the service they are obligated."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3b:5",
+     "quote": "הואיל ואי אפשר להו למיתב בה ביממא דטרידי בעבודה בלילה ליפטרו",
+     "he": "רבינו גרשום: אולי יפטרו גם בלילה, הואיל ואי אפשר להם לשבת בה ביום מפני שטרודים בעבודה.",
+     "en": "Rabbeinu Gershom: since they cannot sit in it by day, being occupied with the service, one might think they are exempt at night too."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3b:6",
+     "quote": "וכהנים בעו למיהבי פרושים משום דבעו למעבד עבודה ברגל",
+     "he": "רבינו גרשום: הכהנים צריכים להיות פרושים מנשותיהם מפני שעושים עבודה ברגל.",
+     "en": "Rabbeinu Gershom: kohanim need to be separated from their wives because they perform service on the festival."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:5:1",
+     "quote": "דמטעם הולכי דרכים ליכא למיפטרינהו אלא בשדות",
+     "he": "התוספות: מטעם הולכי דרכים אפשר לפטור אותם רק בשדות, אבל לא בלשכת בית המקדש.",
+     "en": "Tosafot: on the basis of travelers one could exempt them only in the fields, not in the Temple chambers."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 6:4",
+     "quote": "הולכי דרכים ביום פטורים מן הסכה ביום וחיבין בלילה",
+     "he": "הרמב״ם: הולכי דרכים ביום פטורים מן הסוכה ביום וחייבים בלילה.",
+     "en": "The Rambam: travelers by day are exempt from the sukkah by day and obligated at night."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 640:8",
+     "quote": "הולכי דרכים ביום פטורים מן הסוכה ביום וחייבים בלילה",
+     "he": "השולחן ערוך: הולכי דרכים ביום פטורים מן הסוכה ביום וחייבים בלילה.",
+     "en": "The Shulchan Arukh: travelers by day are exempt from the sukkah by day and obligated at night."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Sukkah 25a:10",
+     "quote": "וקמ\"ל דאפ\"ה שפיר קרינן בהו תשבו כעין תדורו שלא בשעת עבודה",
+     "he": "פני יהושע: הגמרא משמיעה שגם בהם שפיר קוראים ״תשבו כעין תדורו״ שלא בשעת עבודה.",
+     "en": "The Penei Yehoshua: the Gemara teaches that even of them we properly say \"teshvu ke'ein taduru\" outside the time of service."
+    },
+    {
+     "who": {
+      "he": "אליה רבה",
+      "en": "Eliyah Rabbah"
+     },
+     "ref": "Eliyah Rabbah on Shulchan Arukh, Orach Chayim 640:13",
+     "quote": "ובכהני אמרינן בערכין דף ג' דבשעת עבודה פטירי מסוכה משום דאין נזקקין לנשותיהן",
+     "he": "אליה רבה: בכהנים אמרו בערכין שבשעת עבודה פטורים מסוכה משום שאין נזקקים לנשותיהן.",
+     "en": "Eliyah Rabbah: of kohanim it was said in Arakhin that during the service they are exempt from sukkah because they do not approach their wives."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Arakhin 3b:1",
+     "quote": "נהי דפטירי בשעת עבודה וכו'",
+     "he": "פתח עינים מפנה לדברי רש״י ותוספות ולספרים על ״נהי דפטירי בשעת עבודה״.",
+     "en": "Petach Einayim points to Rashi and Tosafot and other works on \"though they are exempt during the service.\""
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    9
+   ],
+   "he": {
+    "title": "ציצית בכהנים — כלאים",
+    "gemara": "״הכל חייבין בציצית כהנים לוים וישראלים״ — פשיטא! כהנים צריכים, כי ״לא תלבש שעטנז... גדלים תעשה לך״, ולכהנים הותר כלאים. משמיענו שאם הותר בשעת עבודה, שלא בשעת עבודה לא הותר."
+   },
+   "en": {
+    "title": "Tzitzit for kohanim — kilayim",
+    "gemara": "'Everyone is obligated in tzitzit, kohanim, levi'im and Israelites' — obvious! Kohanim needed stating, because 'do not wear shaatnez... make yourself fringes' might imply that only one for whom kilayim is forbidden is obligated, and kilayim is permitted to kohanim. It teaches that though permitted at the time of service, it is not permitted outside it."
+   },
+   "halakha": {
+    "he": "הרמב״ם פוסק שכהנים שלבשו בגדי כהונה שלא בשעת עבודה, אפילו במקדש, לוקים מפני האבנט שהוא כלאים.",
+    "en": "The Rambam rules that kohanim who wear priestly garments outside the time of service, even in the Temple, are lashed because of the sash, which is kilayim."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:8:1",
+     "quote": "דאבנט של כלאים היה",
+     "he": "רש״י: האבנט של הכהנים היה כלאים, ולכן הותר בשעת עבודה.",
+     "en": "Rashi: the kohanim's sash was kilayim, which is why it was permitted at the time of service."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3b:7",
+     "quote": "ואישתרי כלאים לגבייהו דכתיב ואת האבנט שש משזר",
+     "he": "רבינו גרשום: כלאים הותר להם, שנאמר ״ואת האבנט שש משזר תכלת וארגמן״.",
+     "en": "Rabbeinu Gershom: kilayim was permitted to them, as it is written, \"and the sash of twisted linen, blue and purple.\""
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:8:1",
+     "quote": "הקשה הרב ר\"י מאורליינ\"ש נשים לא לחייבו בכלאים",
+     "he": "התוספות מביאים את קושיית ר״י מאורליינש: נשים לא יתחייבו בציצית, שהרי אינן בכלאים.",
+     "en": "Tosafot cite R. Yitzchak of Orleans' question: women should not be obligated in tzitzit."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Beitzah 15a:1:1",
+     "quote": "ותימה דאמר בערכין",
+     "he": "התוספות בביצה תמהים על דבריהם בערכין לענין כלאים של כהנים.",
+     "en": "Tosafot in Beitzah are puzzled by what is said in Arakhin about the kilayim of kohanim."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Diverse Species 10:32",
+     "quote": "שלא בשעת עבודה אפלו במקדש לוקין מפני האבנט שהוא כלאים",
+     "he": "הרמב״ם: כהנים שלבשו שלא בשעת עבודה, אפילו במקדש, לוקים מפני האבנט שהוא כלאים.",
+     "en": "The Rambam: kohanim who wore the garments outside the time of service, even in the Temple, are lashed because of the sash, which is kilayim."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Beitzah 15a:1",
+     "quote": "והקשה עליו רבינו תם ז\"ל",
+     "he": "הרשב״א מביא את קושיית רבינו תם על רש״י לגבי כלאים קשים.",
+     "en": "The Rashba cites Rabbeinu Tam's challenge to Rashi on hard kilayim."
+    },
+    {
+     "who": {
+      "he": "הר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Beitzah 7b:9",
+     "quote": "והקשה עליו ר\"ת ז\"ל מדגרסי' בערכין",
+     "he": "הר״ן מביא שרבינו תם הקשה על רש״י ממה שגורסים בערכין.",
+     "en": "The Ran cites that Rabbeinu Tam challenged Rashi from what is read in Arakhin."
+    },
+    {
+     "who": {
+      "he": "הר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Kiddushin 14b:7",
+     "quote": "דכיון דאיצטריכא לן הך היקשא",
+     "he": "הר״ן דן מדוע נשים חייבות בציצית אף שאינן בכלאים, ומביא היקש.",
+     "en": "The Ran asks why women are obligated in tzitzit though they are not in kilayim, and cites the analogy."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Diverse Species 10:32:1",
+     "quote": "ומשמע דכל שלא בשעת עבודה אפי' במקדש אסור",
+     "he": "הכסף משנה: משמע מהגמרא בערכין שכל שלא בשעת עבודה, אפילו במקדש, אסור.",
+     "en": "The Kessef Mishneh: from the Gemara in Arakhin it follows that outside the time of service it is forbidden even in the Temple."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Fringes 3:9:2",
+     "quote": "הקשו רבוותא בתוספות אמאי לא ליתחייבו נשים בציצית",
+     "he": "האור שמח: הקשו בתוספות מדוע נשים לא יתחייבו בציצית.",
+     "en": "The Ohr Sameach: Tosafot asked why women should not be obligated in tzitzit."
+    },
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Pesachim 43b:1",
+     "quote": "בתוספות בד\"ה סד\"א כו' יש מקשים למה נשים חייבים בציצית",
+     "he": "פני יהושע מביא את קושיית התוספות למה נשים חייבות בציצית, כדרשה בערכין לגבי כהנים.",
+     "en": "The Penei Yehoshua cites Tosafot's question why women are obligated in tzitzit, per the derivation in Arakhin regarding kohanim."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    14
+   ],
+   "he": {
+    "title": "תפילין בכהנים",
+    "gemara": "״הכל חייבין בתפילין, כהנים לוים וישראלים״. כהנים צריכים, כי כהנים אינם בתפילין של יד, שנאמר ״ילבש על בשרו״ שלא יהיה דבר חוצץ, ואולי גם לא בשל ראש. משמיענו שאינן מעכבות זו את זו. ולמה אין זה בשל ראש? כתוב ״ושמת המצנפת על ראשו״ — ותירצו ששערו היה נראה בין ציץ למצנפת, ושם מניח תפילין."
+   },
+   "en": {
+    "title": "Tefillin for kohanim",
+    "gemara": "'Everyone is obligated in tefillin, kohanim, levi'im and Israelites.' Kohanim needed stating, since they are not in the mitzvah of the arm-tefillin — 'he shall wear on his flesh', nothing may intervene — and one might say they are not obligated in the head-tefillin either. It teaches that the two do not prevent each other. Why not the head, too — 'and place the mitznefet on his head'? Because his hair was visible between the tzitz and the mitznefet, and there he places tefillin."
+   },
+   "halakha": {
+    "he": "השולחן ערוך פוסק שמי שאין לו אלא תפילה אחת מניח אותה ומברך, כי כל אחת מצוה בפני עצמה.",
+    "en": "The Shulchan Arukh rules that one who has only one tefillah puts it on and blesses, since each is a mitzvah in itself."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:11:1",
+     "quote": "שלא יהא דבר חוצץ בין בגדי כהונה לבשרו",
+     "he": "רש״י: ״על בשרו״ — שלא יהיה דבר חוצץ בין בגדי הכהונה לבשרו.",
+     "en": "Rashi: \"on his flesh\" — nothing may intervene between the priestly garments and his flesh."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 3b:9",
+     "quote": "שערו היה נראה בין ציץ למצנפת",
+     "he": "רבינו גרשום: שערו נראה בין ציץ למצנפת, ושם מניח תפילין.",
+     "en": "Rabbeinu Gershom: his hair was visible between the tzitz and the mitznefet, and there he places tefillin."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:11:2",
+     "quote": "ציץ מונח על המצח ומצנפת על הראש",
+     "he": "התוספות: הציץ מונח על המצח והמצנפת על הראש, ומקום התפילין נראה.",
+     "en": "Tosafot: the tzitz lies on the forehead and the mitznefet on the head, and the place of the tefillin is visible."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:12:1",
+     "quote": "ואע\"ג דאמר בעלמא מנחות",
+     "he": "התוספות מביאים את הגמרא במנחות על ההקדמה של יד לראש כשמניחים שניהם.",
+     "en": "Tosafot cite the Gemara in Menachot on placing the arm-tefillin before the head when both are worn."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 10:6",
+     "quote": "אין הכהן יכול לעבד בתפלין של יד שהרי חוצצת",
+     "he": "הרמב״ם: אין הכהן יכול לעבוד בתפילין של יד שהרי חוצצת, אבל של ראש אינה חוצצת.",
+     "en": "The Rambam: a kohen cannot serve with arm-tefillin because they intervene; head-tefillin do not."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 10:3",
+     "quote": "ושערו היה נראה בין ציץ למצנפת",
+     "he": "הרמב״ם: שערו היה נראה בין הציץ למצנפת, ושם היה מניח תפילין.",
+     "en": "The Rambam: his hair was visible between the tzitz and the mitznefet, and there he placed tefillin."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll 4:4",
+     "quote": "תפלה של ראש אינה מעכבת של יד ושל יד אינה מעכבת של ראש",
+     "he": "הרמב״ם: תפילה של ראש אינה מעכבת של יד ושל יד אינה מעכבת של ראש.",
+     "en": "The Rambam: the head-tefillah does not prevent the arm-tefillah, nor the arm the head."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3b:5",
+     "quote": "היינו בשעה שמניח שניהם צריך לחלוץ של ראש תחלה",
+     "he": "הרש״ש מתקן את דברי התוספות: כשמניח שניהם צריך לחלוץ של ראש תחילה.",
+     "en": "The Rashash emends Tosafot: when he wears both, he must remove the head-tefillin first."
+    },
+    {
+     "who": {
+      "he": "השולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 26:1",
+     "quote": "אם אין לו אלא תפלה אחת מניח אותה שיש לו ומברך עליה",
+     "he": "השולחן ערוך: אם אין לו אלא תפילה אחת מניח אותה ומברך עליה.",
+     "en": "The Shulchan Arukh: if he has only one tefillah, he puts on what he has and blesses on it."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    15,
+    17
+   ],
+   "he": {
+    "title": "תקיעת שופר בכהנים והיובל",
+    "gemara": "״הכל חייבין בתקיעת שופר״ — כהנים צריכים, שמא ״יום תרועה״ — מי שאינו אלא בתקיעה של יום אחד חייב; והכהנים תוקעים כל השנה בחצוצרות. עוד: היובל שווה לראש השנה לתקיעה ולברכות, והכהנים אינם במצות יובל, שמוכרים לעולם."
+   },
+   "en": {
+    "title": "Shofar for kohanim, and the Jubilee",
+    "gemara": "'Everyone is obligated in blowing the shofar' — kohanim needed stating: 'a day of teru'ah' might mean that only one whose blowing is for one day alone is obligated, while kohanim blow trumpets all year. Further: the Jubilee equals Rosh Hashanah in blowing and blessings, and kohanim are not part of the Jubilee, since they sell 'forever.'"
+   },
+   "halakha": {
+    "he": "הרמב״ם פוסק שהשופר של יובל ושל ראש השנה אחד לכל דבר, וכל יחיד חייב לתקוע.",
+    "en": "The Rambam rules that the Jubilee and Rosh Hashanah shofar are one for all purposes, and every individual must blow."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:15:1",
+     "quote": "משמע יום אחד בלבד",
+     "he": "רש״י: ״יום תרועה יהיה לכם״ משמע יום אחד בלבד.",
+     "en": "Rashi: \"a day of teru'ah shall be for you\" implies one day only."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:17:1",
+     "quote": "שהיו נמי אומרים ביום הכפורים של שנת היובל מלכיות זכרונות שופרות",
+     "he": "רש״י: ״לברכות״ — שאמרו ביום הכיפורים של שנת היובל מלכיות זכרונות שופרות.",
+     "en": "Rashi: \"and blessings\" — they also recited on Yom Kippur of the Jubilee year Malkhuyot, Zikhronot and Shofarot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 3b:17:2",
+     "quote": "אפי' בשנת היובל עצמה אם מכרו קרקע שלהם מכורה היא",
+     "he": "רש״י: ״מוכרין לעולם״ — אפילו בשנת היובל עצמה, אם מכרו קרקע שלהם, מכורה היא.",
+     "en": "Rashi: \"sell forever\" — even in the Jubilee year itself, if they sold their land it is sold."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 3b:17:2",
+     "quote": "ולא נראה דהא מפרש שמואל טעמא לקמן בפרק בתרא",
+     "he": "התוספות דוחים אפשרות ומציינים ששמואל מפרש את הטעם בפרק האחרון.",
+     "en": "Tosafot reject an option, noting that Shmuel gives the reason in the last chapter."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 10:10",
+     "quote": "ותוקעין בשופר תשע כדרך שתוקעין בראש השנה",
+     "he": "הרמב״ם: תוקעים בשופר תשע תקיעות כדרך שתוקעים בראש השנה.",
+     "en": "The Rambam: they blow the shofar nine blasts, as is done on Rosh Hashanah."
+    },
+    {
+     "who": {
+      "he": "הרמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 10:11",
+     "quote": "שופר של יובל ושל ראש השנה אחד הוא לכל דבר",
+     "he": "הרמב״ם: שופר של יובל ושל ראש השנה אחד הוא לכל דבר.",
+     "en": "The Rambam: the shofar of the Jubilee and of Rosh Hashanah is one for all matters."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 3b:6",
+     "quote": "אדרבה משום זה יפה כח היובל אצלם טפי מאצל ישראל",
+     "he": "הרש״ש מעיר על התוספות: אדרבה, משום זה כוח היובל אצלם יפה יותר מאצל ישראל.",
+     "en": "The Rashash comments on Tosafot: on the contrary, for this reason the force of the Jubilee is stronger by them than by Israelites."
+    }
+   ]
+  }
+ ]
+}
