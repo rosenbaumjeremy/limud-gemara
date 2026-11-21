@@ -1,0 +1,1896 @@
+{
+ "ref": "Arakhin 4",
+ "date": "2026-11-21",
+ "he": {
+  "overview": "הדף פותח בסיום הסוגיה על חיוב כהנים ולוים במצוות היובל, ועובר למשנה ״הכל חייבים״: מקרא מגילה, זימון, צירוף לזימון והערכין, ובה מבררת הגמרא מדוע צריך ללמד כל אחד מהם גם בכהנים, ובכלל זה עדות בן בוכרי על שקלי הכהנים. בעמוד ב׳ עוסקת הגמרא בברייתא על ״בערכך נפשות״ לערך סתם, אבר שהנשמה תלויה בו, אחד שהעריך מאה, אשה, מת וגוסס, ובדין טומטום ואנדרוגינוס לדמים ו״נידון בכבודו״ ובראש עבד וראש חמור. הראשונים והאחרונים דנים בצירוף לזימון של מודרי הנאה, ובקושיית המזרחי על רש״י בכפל הכ״ף של ״ערכך״, ובדין מכירה והקדש של אבר שהנשמה תלויה בו.",
+  "title": "סיכום — ערכין ד׳"
+ },
+ "en": {
+  "overview": "The daf opens by closing the discussion of whether kohanim and Levites are bound by the Jubilee mitzvot, and moves to the mishna \"all are obligated\": reading the Megilla, zimun, joining for zimun and valuations, where the Gemara asks why each had to be taught for kohanim too, including Ben Bukhri's testimony about the kohanim's shekels. On amud b the Gemara works through the baraita on \"your valuation of souls\" for an unspecified valuation, a limb on which life depends, one who values a hundred, a woman, the dead and the dying, and the law of the tumtum and androgynos for worth, being \"judged by his dignity\", and the head of a slave or donkey. The Rishonim and Acharonim discuss joining for zimun when people are forbidden to benefit from one another, the Mizrachi's challenge to Rashi on the double kaf of \"your valuation\", and the law of selling and consecrating a limb on which life depends.",
+  "title": "Summary — Arakhin 4"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "הכל מצטרפין לזימון"
+   ],
+   "he": {
+    "term": "מצטרפין לזימון",
+    "explanation": "כשלושה אוכלים יחד, מזמנים בברכת המזון ב״נברך״. כהן שאוכל תרומה וישראל שאוכל חולין מצטרפים, כיון שהכהן יכול לאכול חולין עם הישראל."
+   },
+   "en": {
+    "term": "Joining for zimun",
+    "explanation": "When three eat together they invite one another to the grace after meals with \"let us bless\". A kohen who eats terumah and a Yisrael who eats unconsecrated food join, since the kohen could eat unconsecrated food with the Yisrael."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4a:5:1",
+    "quote": "כהן בהדי זר מצי למיכל מן החולין הלכך מצטרפין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "העיד בן בוכרי ביבנה"
+   ],
+   "he": {
+    "term": "בן בוכרי",
+    "explanation": "תנא שהעיד ביבנה שכהן ששוקל מחצית השקל אינו חוטא. לשיטתו הכהנים פטורים מן השקלים, ורבן יוחנן בן זכאי חולק. בגמרא נדון כיצד לא הכניס חולין לעזרה כשהביא."
+   },
+   "en": {
+    "term": "Ben Bukhri",
+    "explanation": "A tanna who testified in Yavneh that a kohen who gives the half-shekel does not sin. On his view kohanim are exempt from the shekels, and Rabban Yochanan ben Zakkai disagrees. The Gemara discusses how he did not bring unconsecrated food into the court when he gave."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4a:7:3",
+    "quote": "דלא הוו חולין בעזרה אע\"ג דלכתחילה לא מיחייב"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "כל כהן ששוקל"
+   ],
+   "he": {
+    "term": "מחצית השקל",
+    "explanation": "תרומה שנתנו בכל שנה בראשון באדר לצורך קרבנות הציבור. הכהן ששוקל מביא מחצית השקל לתרומת הלשכה."
+   },
+   "en": {
+    "term": "The half-shekel",
+    "explanation": "The contribution given each year on the first of Adar for the community offerings. The kohen who gives the shekel brings the half-shekel for the Temple chamber's collection."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 4a:5",
+    "quote": "מביא מחצית השקל לתרומת הלשכה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "דבר שהנשמה תלויה בו"
+   ],
+   "he": {
+    "term": "דבר שהנשמה תלויה בו",
+    "explanation": "אבר שאם ינטל מן החי ימות, כגון הראש או הלב. מי שהעריך אבר כזה נותן ערך כל גופו, ואילו אבר אחר, כגון היד, לא אמר כלום."
+   },
+   "en": {
+    "term": "A limb on which life depends",
+    "explanation": "A limb whose removal from a living person would kill him, such as the head or heart. One who values such a limb gives the valuation of his whole body, while for another limb, such as the hand, he has said nothing."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4a:18:1",
+    "quote": "שאם אמר ערך ראשי או ערך כבידי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "טומטום ואנדרוגינוס"
+   ],
+   "he": {
+    "term": "טומטום ואנדרוגינוס",
+    "explanation": "שני מקרים של ספק במין: טומטום שאינו ידוע אם זכר או נקבה, ואנדרוגינוס שיש בו סימני שניהם. הם אינם בערכין, כי ״הזכר״ ו״נקבה״ נאמרו בודאי, אבל יש להם דמים."
+   },
+   "en": {
+    "term": "Tumtum and androgynos",
+    "explanation": "Two cases of doubtful sex: a tumtum, whose sex is unknown, and an androgynos, who has the marks of both. They are not in valuations, because \"male\" and \"female\" are said of definite cases, but they do have worth."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4b:4:1",
+    "quote": "דכתיב הזכר דמשמע זכר ודאי נקבה ודאית"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 6,
+   "anchors": [
+    "ערך סתום"
+   ],
+   "he": {
+    "term": "ערך סתם",
+    "explanation": "האומר ״הרי עלי ערך״ בלי לפרש ערך מי. הוא נותן את הפחות שבערכין, שלשת שקלים."
+   },
+   "en": {
+    "term": "An unspecified valuation",
+    "explanation": "One who says \"a valuation is upon me\" without specifying whose. He gives the lowest valuation, three shekels."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4b:7:1",
+    "quote": "שלא אמר ערכי עלי ולא אמר ערך פלוני עלי אלא אמר הרי עלי ערך"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 9,
+   "anchors": [
+    "בהשג יד"
+   ],
+   "he": {
+    "term": "השג יד",
+    "explanation": "העני בערכין משלם לפי יכולתו. לפי הלישנא הראשונה בערך סתם אינו נידון בהשג יד כי הוא כמפרש דמי; ללישנא השנייה נידון בהשג יד."
+   },
+   "en": {
+    "term": "Ability to pay",
+    "explanation": "In valuations a poor person pays according to his means. On the first version, for an unspecified valuation he is not judged by ability to pay since it is like specifying a sum; on the second version he is."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4b:9:1",
+    "quote": "שאם עני הוא ומך מערכך לא יעריכנו כהן בפחות משקל"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 22,
+   "anchors": [
+    "נידון בכבודו"
+   ],
+   "he": {
+    "term": "נידון בכבודו",
+    "explanation": "האומר ״דמי ראשי עלי״ נותן דמי כל גופו, כי הראש הוא אבר שכבודו תלוי בו."
+   },
+   "en": {
+    "term": "Judged by his dignity",
+    "explanation": "One who says \"the worth of my head is upon me\" gives the worth of his whole body, since the head is a limb on which his dignity depends."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 4b:22:1",
+    "quote": "שנידון כולו אחר אבר אחד שכבודו תלוי בו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "יובל: גואלין לעולם ושילוח עבדים",
+    "gemara": "הגמרא מסיימת סוגיה שעוסקת במי שחייב במצוות היובל: אף שהכהנים והלויים אינם חלק מדיני השמטת קרקעות, נחוץ ללמוד שחייבים הם בשילוח עבדים ובהשמטת כספים, ולכן הם חייבים גם במצוות ראש השנה של היובל."
+   },
+   "en": {
+    "title": "The Jubilee: redemption forever and the release of slaves",
+    "gemara": "The Gemara closes a discussion of who is bound by the Jubilee laws. Even if the kohanim and Levites do not share in the laws of the release of land, they are still bound by the release of slaves and by the release of debts, so they are bound by the Rosh Hashana of the Jubilee as well."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:2",
+     "quote": "קמ\"ל. דאיתנהו במצות דראש השנה מ\"ט אע\"ג דליתנהו בהשמטת קרקע איתנהו בהשמטת כספים ובשילוח עבדים בישראל",
+     "he": "רבינו גרשום מסביר שאף שהכהנים והלויים אינם בהשמטת קרקע, הם בהשמטת כספים ובשילוח עבדים ולכן חייבים גם במצוות ראש השנה.",
+     "en": "Rabbeinu Gershom explains that although they are not part of the release of land, they are part of the release of debts and of slaves, and so they are bound by the Rosh Hashana mitzvot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:1:1",
+     "quote": "אם מכרו שדה גואלין אותה מיד וישראל אינו מותר לגאול פחות מב' שנים",
+     "he": "רש״י: אם מכרו שדה גואלין אותה מיד, ואילו ישראל אינו גואל פחות משתי שנים.",
+     "en": "Rashi: if they sold a field they may redeem it at once, whereas a Yisrael may not redeem before two years."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:1:2",
+     "quote": "כלומר בכל דין השמטת קרקעות דהא תנן מוכרין לעולם",
+     "he": "רש״י מפרש את ״נהי דליתנהו בהשמטת קרקעות״: אין להם דין השמטת קרקעות בכלל, שהרי שנינו שהם מוכרים לעולם.",
+     "en": "Rashi reads \"granted they have no release of land\" as meaning they have no part in the law of the release of land at all, since we learned that they sell forever."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:1:1",
+     "quote": "לא גריס רש\"י נהי דליתנהו בהשמטת קרקע",
+     "he": "התוספות מביאים שרש״י במסכת ראש השנה לא גרס את המילים ״נהי דליתנהו בהשמטת קרקע״.",
+     "en": "Tosafot note that Rashi, in tractate Rosh Hashana, did not have the words \"granted they have no release of land\" in his text."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Rosh Hashanah 29a:5",
+     "quote": "נהי דליתנהו בשמיטת קרקעות בשמיטת כספים ושלוח עבדים מיהא איתנהו",
+     "he": "הריטב״א מצטט גרסה זו בגמרא: אף שאינם בשמיטת קרקעות, בשמיטת כספים ובשילוח עבדים הם נמצאים.",
+     "en": "The Ritva cites this reading of the Gemara: granted they are not in the release of lands, in the release of debts and the freeing of slaves they are included."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4a:2",
+     "quote": "רש\"י (ברה\"ע) דהא תנן מוכרין לעולם",
+     "he": "הרש״ש מציין שרש״י בראש השנה מביא את הטעם ״דהא תנן מוכרין לעולם״.",
+     "en": "The Rashash notes that Rashi, in Rosh Hashana, gives the reason \"since we learned that they sell forever\"."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    2
+   ],
+   "he": {
+    "title": "מקרא מגילה: כהנים בעבודתן ולוים בדוכנן",
+    "gemara": "המשנה אומרת שהכל חייבים במקרא מגילה. הגמרא שואלת ״פשיטא״, ומשיבה: ההוה אמינא שהכהנים לא יבטלו את עבודתם, וכדברי רב יהודה אמר שמואל כהנים בעבודתם, לוים בדוכנן וישראל במעמדן מבטלים עבודתם ובאים לשמוע מקרא מגילה.",
+    "halakha": "הרמב״ם והשולחן ערוך פוסקים שמבטלים אפילו תלמוד תורה ועבודת כהנים כדי לשמוע מקרא מגילה."
+   },
+   "en": {
+    "title": "Reading the Megilla: kohanim at their service, Levites on their platform",
+    "gemara": "The mishna says everyone is obligated in reading the Megilla. The Gemara asks \"obviously!\" and answers that we might have thought the kohanim need not stop their service; as Rav Yehuda in the name of Shmuel says, kohanim at their service, Levites on their platform and Yisraelim at their station stop their service and come to hear the Megilla.",
+    "halakha": "The Rambam and the Shulchan Arukh rule that even Torah study and the kohanim's service are set aside to hear the Megilla."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Scroll of Esther and Hanukkah 1:1",
+     "quote": "וַאֲפִלּוּ כֹּהֲנִים בַּעֲבוֹדָתָן מְבַטְּלִין עֲבוֹדָתָן וּבָאִין לִשְׁמֹעַ מִקְרָא מְגִלָּה",
+     "he": "הרמב״ם פוסק שאפילו כהנים בעבודתם מבטלים עבודתם ובאים לשמוע מקרא מגילה, ולא רק זאת אלא שמבטלים אף תלמוד תורה.",
+     "en": "The Rambam rules that even kohanim at their service stop it and come to hear the Megilla, and that Torah study is also set aside for it."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 687",
+     "quote": "אפי' כהנים צריכין לבטל מעבודתן כדי לשמוע מקרא מגילה",
+     "he": "הטור כותב שאפילו כהנים צריכים לבטל מעבודתם כדי לשמוע מקרא מגילה.",
+     "en": "The Tur writes that even kohanim must stop their service in order to hear the Megilla."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Arakhin 19:1",
+     "quote": "כהנים בעבודתן ולוים בדוכנן וישראל במעמדן מבטלים לקרות מגילה",
+     "he": "פסקי התוספות מביאים את הדין: כהנים בעבודתם, לוים בדוכנם וישראל במעמדם מבטלים כדי לקרוא מגילה.",
+     "en": "Piskei Tosafot state the law: kohanim at their service, Levites on their platform and Yisraelim at their station stop to read the Megilla."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 687:2",
+     "quote": "מבטלים תלמוד תורה לשמוע מקרא מגילה",
+     "he": "השולחן ערוך פוסק שמבטלים תלמוד תורה כדי לשמוע מקרא מגילה, וכל מצוות התורה נדחות מפניה, חוץ ממת מצוה.",
+     "en": "The Shulchan Arukh rules that Torah study is set aside to hear the Megilla, and all the Torah commandments give way to it except a met mitzva."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך, הגהת הרמ״א",
+      "en": "Shulchan Arukh, gloss of the Rema"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 687:2",
+     "quote": "אין שום מצוה דאורייתא נדחית מפני מקרא מגילה",
+     "he": "בהגהה מוסיף הרמ״א שכשאי אפשר לעשות את שתיהן, אין שום מצוה מן התורה נדחית מפני מקרא מגילה.",
+     "en": "In the gloss the Rema adds that when it is not possible to do both, no Torah commandment is set aside for the reading of the Megilla."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    4
+   ],
+   "he": {
+    "title": "זימון בכהנים שאכלו קדשים",
+    "gemara": "הגמרא שואלת על ״הכל חייבין בזימון, כהנים לוים וישראלים״: פשיטא! ומשיבה שהחידוש הוא בכהנים שאכלו קדשים. היה אפשר לומר שהפסוק ״ואכלו אותם אשר כופר בהם״ מלמד שאכילתם כפרה בלבד, ולכן בא ״ואכלת ושבעת״ ללמד שגם הם שבעים וחייבים."
+   },
+   "en": {
+    "title": "Zimun for kohanim who ate sacrificial food",
+    "gemara": "On \"all are obligated in zimun, kohanim, Levites and Yisraelim\" the Gemara asks: obvious! It answers that the novelty is for kohanim who ate sacrificial food. One might think the verse \"they shall eat those with which atonement was made\" shows their eating is atonement only; so \"you shall eat and be satisfied\" teaches that they too are satisfied and obligated."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:3",
+     "quote": "מלמד שהכהנים אוכלים והבעלים מתכפרים והא אכילה חובה היא",
+     "he": "רבינו גרשום: הפסוק ״ואכלו אותם אשר כופר בהם״ מלמד שהכהנים אוכלים והבעלים מתכפרים, והייתי אומר שאכילה זו חובה ואין צורך בזימון; לכן בא ״ואכלת ושבעת״.",
+     "en": "Rabbeinu Gershom: the verse teaches that the kohanim eat and the owners are atoned for, and one might say this eating is a duty that needs no zimun; so the verse \"you shall eat and be satisfied\" comes."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:3:1",
+     "quote": "והך אכילת קדשים משום כפרה הוא דכתיב ואכלו אותם אשר כופר בהם מלמד שהכהנים אוכלין והבעלים מתכפרין",
+     "he": "רש״י: אכילת קדשים היא משום כפרה, כמו שכתוב ״ואכלו אותם אשר כופר בהם״, והכהנים אוכלים והבעלים מתכפרים.",
+     "en": "Rashi: the eating of sacrificial food is for atonement, as it is written \"they shall eat those with which atonement was made\"; the kohanim eat and the owners are atoned for."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Blessings 5:6:1",
+     "quote": "בריש ערכין תניא הכל חייבים בזימון",
+     "he": "המעשה רקח מביא את הברייתא בריש ערכין ״הכל חייבים בזימון״ כמקור לדין שכהנים חייבים בזימון.",
+     "en": "The Maaseh Rokeach cites the baraita at the start of Arakhin, \"all are obligated in zimun\", as the source for the kohanim's obligation."
+    },
+    {
+     "who": {
+      "he": "דברי ירמיהו",
+      "en": "Divrei Yirmiyahu"
+     },
+     "ref": "Divrei Yirmiyahu on Mishneh Torah, Blessings 5:6:1",
+     "quote": "לא צריכא דאכלי קדשים סד\"א ואכלו אשר כופר בהם אמר רחמנא והא כפרה הוא",
+     "he": "דברי ירמיהו מביא את הסוגיה בערכין כמקור לדברי הרמב״ם שכהנים שאכלו קדשים חייבים בזימון.",
+     "en": "Divrei Yirmiyahu cites the passage in Arakhin as the source for the Rambam's ruling that kohanim who ate sacrificial food are obligated in zimun."
+    },
+    {
+     "who": {
+      "he": "משך חכמה",
+      "en": "Meshekh Chokhmah"
+     },
+     "ref": "Meshekh Chokhmah, Ekev 10",
+     "quote": "דאף באכילת קדשים צריך שלא יהא דעתו זחה עליו",
+     "he": "המשך חכמה מבאר שהחידוש הוא שגם באכילת קדשים צריך שלא תהיה דעתו זחה עליו, ולכן חייב בברכה.",
+     "en": "The Meshekh Chokhmah explains the novelty: even when eating sacrificial food one must not become proud, and so one is bound to bless."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer HaMitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Positive Commandments 30:7",
+     "quote": "דכיון דבשביעה תלי רחמנא והרי שבע. חשיבא אכילה להתחייב בבהמ\"ז",
+     "he": "הביאור על ספר המצוות לרס״ג: כיון שהתורה תלתה בשביעה והרי שבע, נחשבת האכילה לחייב בברכת המזון.",
+     "en": "The Commentary on the Sefer HaMitzvot of Rasag: since the Torah tied the obligation to satisfaction and he is satisfied, the eating counts as obligating him in the grace after meals."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    6
+   ],
+   "he": {
+    "title": "כהן וישראל מצטרפין לזימון",
+    "gemara": "הכל מצטרפים לזימון. הגמרא מחדשת שאף כשהכהנים אוכלים תרומה או קדשים והזר אוכל חולין, מצטרפים: אף שזר אינו יכול לאכול עם הכהן מתרומתו, הכהן יכול לאכול עם הזר מן החולין."
+   },
+   "en": {
+    "title": "Kohen and Yisrael joining for zimun",
+    "gemara": "All join for zimun. The Gemara teaches that even when the kohanim eat terumah or sacrificial food while the non-kohen eats unconsecrated food, they join: although a non-kohen cannot eat with the kohen from his terumah, the kohen can eat with the non-kohen from the unconsecrated food."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:4",
+     "quote": "תרי כהני וחד זר אכיל חולין",
+     "he": "רבינו גרשום מסביר את המקרה: שני כהנים ואחד זר שאוכל חולין.",
+     "en": "Rabbeinu Gershom explains the case: two kohanim and one non-kohen who eats unconsecrated food."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:5:1",
+     "quote": "כהן בהדי זר מצי למיכל מן החולין הלכך מצטרפין",
+     "he": "רש״י: כהן יכול לאכול עם הזר מן החולין, ולכן מצטרפים.",
+     "en": "Rashi: the kohen can eat with the non-kohen from the unconsecrated food, therefore they join."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Berakhot 45a:5:1",
+     "quote": "דאכילת טבל לאו שמה אכילה דלא חזיא אף לכהן",
+     "he": "התוספות בברכות לומדים מכאן: אכילת טבל אינה נחשבת אכילה כי אינה ראויה אף לכהן, אבל תרומה ראויה לכהן ולכן מצטרפים.",
+     "en": "Tosafot in Berakhot learn from here: eating tevel does not count as eating since it is fit even for a kohen not at all, whereas terumah is at least fit for a kohen, so they join."
+    },
+    {
+     "who": {
+      "he": "רבינו יונה",
+      "en": "Rabbeinu Yonah"
+     },
+     "ref": "Rabbeinu Yonah on Berakhot 32b:12",
+     "quote": "כיון שאם ירצה השלישי יכול לאכול מפת שאוכלין האחרים",
+     "he": "רבינו יונה מביא ראיה מסוגיה זו שאם אחד נזהר מפת של נכרי והאחרים אוכלים, מצטרפים כי הנזהר יכול היה לאכול מפת האחרים.",
+     "en": "Rabbeinu Yonah brings a proof from this passage that if one avoids a non-Jew's bread and the others eat it they still join, since the third could eat from the bread the others eat."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Ohr Zarua"
+     },
+     "ref": "Ohr Zarua, Volume I 195:1",
+     "quote": "הואיל ואי בעי זר למיכל בהדי כהן לא מצי אכיל אימא לא נצטרף קמ\"ל",
+     "he": "האור זרוע מביא את הסוגיה בערכין וכותב ששלושה שאסורים בהנאה זה מזה אין מצטרפים כי עדיין לא נשאלו על נדרם.",
+     "en": "The Ohr Zarua cites the Arakhin passage and records that three who are forbidden to benefit from one another do not join, since they have not yet had their vows annulled."
+    },
+    {
+     "who": {
+      "he": "רא״ה",
+      "en": "Ra'ah"
+     },
+     "ref": "Chiddushei HaRa'ah on Berakhot 45a:6",
+     "quote": "כיון דכהן מצי אכיל חולין שפיר דמי",
+     "he": "הרא״ה מביא את הגמרא בערכין ולומד ששלשה שאכלו ושניים מודרים את האחד, כיון שזה יכול לאכול משלהם מצטרפים.",
+     "en": "The Ra'ah cites the Gemara in Arakhin and learns that where two forbid benefit to the third, since he can eat from theirs, they join."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Berakhot 45a:3",
+     "quote": "כיון דליכא חד מינייהו דמצי אכיל מדחבריה לא מצטרפין",
+     "he": "הרשב״א מבאר שמכאן לומדים שאם כולם מודרים הנאה זה מזה, כיון שאין אחד מהם שיכול לאכול משל חברו, אינם מצטרפים.",
+     "en": "The Rashba explains we learn from here that if all forbid benefit to one another, since none can eat from another's, they do not join."
+    },
+    {
+     "who": {
+      "he": "שו״ת הרשב״א",
+      "en": "Responsa of the Rashba"
+     },
+     "ref": "Teshuvot haRashba part IV 123:2",
+     "quote": "ומיהו, אם היו מודרין אלו מאלו, אינם מצטרפין",
+     "he": "בתשובה כותב הרשב״א שכהן שאוכל מככר הזר מצטרף עמו, אבל אם היו מודרים אלו מאלו אינם מצטרפים.",
+     "en": "In a responsum the Rashba writes that a kohen who can eat from the other's loaf joins him, but if they were forbidden to benefit from each other they do not join."
+    },
+    {
+     "who": {
+      "he": "אבודרהם",
+      "en": "Abudarham"
+     },
+     "ref": "Abudarham, Laws of Blessings, First Gate; Blessing on Bread 31",
+     "quote": "ואם היו הג' מודרין הנאה זה מזה כיון שאין אחד אוכל משל חבירו אין מצטרפין לזמון",
+     "he": "האבודרהם מביא ראיה מריש ערכין, ומסיק שאם שלשתם מודרים הנאה זה מזה אין מצטרפים לזימון.",
+     "en": "The Abudarham brings a proof from the start of Arakhin and concludes that if all three are forbidden benefit from one another they do not join for zimun."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות קטן",
+      "en": "Sefer Mitzvot Katan"
+     },
+     "ref": "Sefer Mitzvot Katan 109:2",
+     "quote": "ואפי' אחד מהן אוכל פת של עכו\"ם והאחרים נזהרין מאותו פת",
+     "he": "ספר מצוות קטן פוסק שמזמנים אפילו כשאחד אוכל פת של נכרי והאחרים נזהרים, כדברי הגמרא בריש ערכין על תרומה.",
+     "en": "The Sefer Mitzvot Katan rules that they make zimun even if one eats a non-Jew's bread and the others avoid it, as with the terumah case at the start of Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שלטי הגיבורים",
+      "en": "Shiltei HaGiborim"
+     },
+     "ref": "Shiltei HaGiborim on Berakhot 33a:1",
+     "quote": "ג' אנשים שמודרין הנאה זה מזה אין מצטרפין לזימון",
+     "he": "שלטי הגיבורים לומד מסוגיה זו שג׳ אנשים שמודרים הנאה זה מזה אין מצטרפים לזימון, אף שיכולים להישאל על נדרם, שהרי עדיין לא נשאלו.",
+     "en": "The Shiltei HaGiborim learn from here that three people forbidden benefit from each other do not join for zimun, even though they could have the vow annulled, because they have not yet done so."
+    },
+    {
+     "who": {
+      "he": "פרישה",
+      "en": "Prisha"
+     },
+     "ref": "Prisha, Orach Chayim 196:5:1",
+     "quote": "כיון דכהן מצי אכיל בהדי ישראל",
+     "he": "הפרישה מציין שהגמרא בערכין נזקקה לתת טעם שכהן יכול לאכול עם ישראל, ודן בכך אם היכולת להישאל על נדר מועילה לצירוף.",
+     "en": "The Prisha notes that the Gemara in Arakhin had to give the reason that a kohen can eat with a Yisrael, and discusses from it whether the ability to have a vow annulled helps for joining."
+    },
+    {
+     "who": {
+      "he": "מגן אברהם",
+      "en": "Magen Avraham"
+     },
+     "ref": "Magen Avraham 196:1",
+     "quote": "כתב האגודה פרק ג' שאכלו א' אוכל גבינה ושנים בשר מצטרפין",
+     "he": "המגן אברהם מביא שהאגודה פסק שאחד שאוכל גבינה ושנים שאוכלים בשר מצטרפים, כי האוכל גבינה יכול לאכול עם האחרים.",
+     "en": "The Magen Avraham cites the Agudah's ruling that one eating cheese and two eating meat join, since the one eating cheese can eat with the others."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Blessings 5:6:2",
+     "quote": "כיון דכהן מצי אכל בהדי זר מצטרף דמשמע דבעינן שיכול לאכול ממה שלפניו",
+     "he": "המעשה רקח לומד מסוגיה זו שצריך שיוכל לאכול ממה שלפניו, ומחלק בינה לבין הדין של רב ושמואל ורב שימי.",
+     "en": "The Maaseh Rokeach learns from this passage that one must be able to eat from what is before him, and distinguishes it from the case of Rav, Shmuel and Rav Shimi."
+    },
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Berakhot 45a:1",
+     "quote": "דרשב\"ם עצמו הביא ראיה זו מפ\"ק דערכין",
+     "he": "מראית העין מציין שהראיה מהסוגיה בערכין הובאה כבר בידי הרשב״ם עצמו.",
+     "en": "The Marit HaAyin notes that the proof from the Arakhin passage was already brought by the Rashbam himself."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    10
+   ],
+   "he": {
+    "title": "בן בוכרי: כהן ששוקל אינו חוטא",
+    "gemara": "הכל מעריכין, כהנים לוים וישראלים. פשיטא! אמר רבא: לא נצרכא אלא לבן בוכרי, שהעיד שכהן ששוקל אינו חוטא. רבן יוחנן בן זכאי חולק: כהן שאינו שוקל חוטא, אלא שהכהנים דורשים ״כל מנחת כהן כליל תהיה״ לעצמם. הגמרא מקשה על בן בוכרי: אם אינם חייבים, הרי הם מכניסים חולין לעזרה, ומשיבה שמוסרים לצבור.",
+    "halakha": "הרמב״ם פוסק שהכל חייבים במחצית השקל, כהנים לוים וישראלים."
+   },
+   "en": {
+    "title": "Ben Bukhri: a kohen who gives the shekel does not sin",
+    "gemara": "All may value others. Obvious! Rava says: it is needed only for Ben Bukhri, who testified that a kohen who gives the shekel does not sin. Rabban Yochanan ben Zakkai disagrees: a kohen who does not give sins, but the kohanim expound \"every meal-offering of a kohen shall be wholly burnt\" for themselves. The Gemara asks on Ben Bukhri: if they are not obligated, they bring unconsecrated food into the Temple court; it answers that they hand it over to the community.",
+    "halakha": "The Rambam rules that all are obligated in the half-shekel, kohanim, Levites and Yisraelim."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:5",
+     "quote": "מביא מחצית השקל לתרומת הלשכה",
+     "he": "רבינו גרשום: ״ששוקל״ פירושו שמביא מחצית השקל לתרומת הלשכה.",
+     "en": "Rabbeinu Gershom: \"gives the shekel\" means he brings the half-shekel for the Temple chamber's offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:7",
+     "quote": "להנאת עצמן לפטור מן השקלים",
+     "he": "רבינו גרשום: הכהנים דורשים את המקרא לעצמם כדי להנות את עצמם, לפטור את עצמם מן השקלים.",
+     "en": "Rabbeinu Gershom: the kohanim expound the verse for their own benefit, to exempt themselves from the shekels."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:10",
+     "quote": "להנהו שקלים מתנה לצבור",
+     "he": "רבינו גרשום: ״מסרו לצבור״ פירושו שנותנים את השקלים מתנה לציבור, ובלי זה אינם יכולים להביא.",
+     "en": "Rabbeinu Gershom: \"handed over to the community\" means they give those shekels to the community as a gift, and without this they could not bring them."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:7:3",
+     "quote": "דלא הוו חולין בעזרה אע\"ג דלכתחילה לא מיחייב",
+     "he": "רש״י: בן בוכרי אומר שאינו חוטא כי החולין לא נכנסים לעזרה, אף שלכתחילה אינו חייב, כי נאמר ״לכל העובר על הפקודים״ ושבט לוי לא נפקד.",
+     "en": "Rashi: Ben Bukhri says he does not sin because no unconsecrated food enters the court, although he was not obligated to begin with, since it says \"all who pass over to the counted\" and the tribe of Levi was not counted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:8:1",
+     "quote": "להנאתן ושלא כדין",
+     "he": "רש״י: הכהנים דורשים את הפסוק לעצמם ״להנאתן ושלא כדין״.",
+     "en": "Rashi: the kohanim expound the verse for themselves \"for their own benefit and not according to law\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:9:1",
+     "quote": "שהרי מתרומת הלשכה הן באין",
+     "he": "רש״י מבאר את הקושיה: העומר ושתי הלחם ולחם הפנים באים מתרומת הלשכה, ואם הכהנים שוקלים הם משלהם ואיך נאכלים. ולדידן אין לנו דרשה זו, ובמנחת ציבור הולכים אחר הרוב.",
+     "en": "Rashi explains the question: the omer, the two loaves and the showbread come from the Temple chamber's offering, so if the kohanim give shekels they are theirs, and how can they be eaten? We do not hold this expounding, and for a community offering we follow the majority."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:7:1",
+     "quote": "דדריש זה יתנו י\"ב שבטים בגימטריא",
+     "he": "התוספות: רבן יוחנן בן זכאי דורש ״זה יתנו״ י״ב שבטים בגימטריה, ולכן כהן שאינו שוקל חוטא.",
+     "en": "Tosafot: Rabban Yochanan ben Zakkai expounds \"this they shall give\" as twelve tribes by gematria, which is why a kohen who does not give sins."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sheqel Dues 1:7",
+     "quote": "הַכּל חַיָּבִין לִתֵּן מַחֲצִית הַשֶּׁקֶל כֹּהֲנִים לְוִיִּים וְיִשְׂרְאֵלִים",
+     "he": "הרמב״ם פוסק שהכל חייבים לתת מחצית השקל, כהנים לוים וישראלים, אבל לא נשים עבדים וקטנים, ואם נתנו מקבלים מהם.",
+     "en": "The Rambam rules that all must give the half-shekel, kohanim, Levites and Yisraelim, but not women, slaves and minors, and if they gave it is accepted."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Sheqel Dues 1:1:1",
+     "quote": "ודע שלדעת בן בוכרי דס\"ל דכהנים פטורים ה\"ה נמי לוים פטורים",
+     "he": "שער המלך מציין שלדעת בן בוכרי שהכהנים פטורים, גם הלוים פטורים, כי לא נמנו מבן עשרים.",
+     "en": "The Sha'ar HaMelekh notes that on Ben Bukhri's view that the kohanim are exempt, the Levites are exempt too, since they were not counted from age twenty."
+    },
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Sheqel Dues 4:6:1",
+     "quote": "מדפריך לבן בוכרי דאמר כל כהן ששוקל אינו חוטא כי קא מייתי מעייל חולין בעזרה והוצרך לשנויי כשמסר לצבור",
+     "he": "שער המלך מדייק מהקושיה על בן בוכרי ומהתירוץ ״כשמסר לצבור״ שגם בנשים ועבדים שאינם חייבים צריך למסור לצבור, ומעיר שהרמב״ם לא כתב זאת.",
+     "en": "The Sha'ar HaMelekh infers from the challenge to Ben Bukhri and the answer \"when he handed it to the community\" that the same applies to women and slaves, and remarks that the Rambam did not write this."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4a:3",
+     "quote": "דשם מיירי בתרומת אדנים דלכ\"ע לא היה בה שבט לוי",
+     "he": "הרש״ש מקשה על פירוש רש״י ״לכל העובר על הפקודים״ שנראה לו שבוש, כי שם מדובר בתרומת אדנים שבה לכל הדעות לא היה שבט לוי.",
+     "en": "The Rashash challenges Rashi's proof-text \"all who pass over to the counted\" as an error, since that verse speaks of the offering for the sockets in which, on all views, the tribe of Levi had no part."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Shekalim 1:4:2",
+     "quote": "ולבן בוכרי אפי' לוים פטורין כמו כהנים",
+     "he": "מלאכת שלמה: לבן בוכרי אפילו הלוים פטורים כמו הכהנים, שנאמר ״העובר על הפקודים״ ושבט לוי לא נפקד.",
+     "en": "Melekhet Shelomoh: for Ben Bukhri even the Levites are exempt like the kohanim, since it says \"who pass over to the counted\" and the tribe of Levi was not counted."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 292:3:2",
+     "quote": "ומקשה התם למה אינו חוטא הא קמייתי חולין בעזרה ומשני כשמסרו לצבור",
+     "he": "מנחת חינוך מביא את הסוגיה בערכין והסוגיה במנחות כמקור לדין מסירה לציבור, ונשאר שם בצריך עיון על דין זה בנשים ועבדים.",
+     "en": "The Minchat Chinukh cites the passage in Arakhin and the one in Menachot as the source for the law of handing over to the community, and leaves a question on this for women and slaves for further study."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Torah, Numbers 7:6:1",
+     "quote": "דאף דכהן שוקל מ\"מ הקרבן שקרב מהם אין בו חלק",
+     "he": "צפנת פענח: אף שהכהן שוקל, הקרבן שקרב מהשקלים אין לו בו חלק, אלא רק בגדר ציבור.",
+     "en": "Tzafnat Pa'neach: although the kohen gives the shekel, he has no share in the offering brought from them, only as part of the community."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    15
+   ],
+   "he": {
+    "title": "למה צריך להשמיע שכהנים מעריכין",
+    "gemara": "הגמרא מציעה כמה טעמים להצורך במשנה ״הכל מעריכין״ לגבי הכהנים: סברא מ״וכל ערכך בשקל הקדש״, מ״פדויו מבן חדש״ (אביי), ומ״והעמידו לפני הכהן״ (רבא). אביי ורבא דוחים כל אחד טעם קודם: אביי דוחה דרשה על שקלים, ורבא דוחה דרשה על פדיון הבן."
+   },
+   "en": {
+    "title": "Why it must be taught that kohanim value",
+    "gemara": "The Gemara offers several reasons the mishna had to teach that kohanim value: a thought from \"all your valuation shall be in the sacred shekel\", from \"its redemption from one month old\" (Abaye), and from \"he shall stand him before the kohen\" (Rava). Abaye and Rava each reject the earlier reason: Abaye rejects the derivation from shekels, and Rava rejects the one from the redemption of the firstborn."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:11",
+     "quote": "אם העריך אדם את חברו ואינו ידו משגת ליתן שקל אינו נותן כלום",
+     "he": "רבינו גרשום מסביר את דברי אביי: הפסוק ״וכל ערכך״ בא ללמד שאין ערך פחות משקל; אם אין ידו משגת אינו נותן כלום, ואם העשיר אחר כך משלם ערכו.",
+     "en": "Rabbeinu Gershom explains Abaye's words: \"all your valuation\" comes to teach that no valuation is under a shekel; if he cannot afford it he gives nothing, and if he later becomes wealthy he pays."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:14",
+     "quote": "דישראל לפני כהן משום דכתיב בפרשה דבר אל בני ישראל",
+     "he": "רבינו גרשום: רבא סבר שהפרשה נאמרה לבני ישראל, ולכן הייתי אומר שישראל מעריכים לפני כהן ואילו כהן לא.",
+     "en": "Rabbeinu Gershom: Rava holds that the passage was said to the Children of Israel, so one might say a Yisrael values before a kohen but a kohen does not."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:15",
+     "quote": "דכהנים נמי בכלל ישראל",
+     "he": "רבינו גרשום: ״קמ״ל״ שהכהנים נמי בכלל ישראל.",
+     "en": "Rabbeinu Gershom: \"this teaches us\" that the kohanim are also included in \"Israel\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:12:1",
+     "quote": "ופחות מסלע לא יתן לעולם",
+     "he": "רש״י: אביי אומר ש״וכל ערכך״ בא לומר שעני נידון בהשג יד אך לעולם לא יתן פחות מסלע, ולכן אין להסיק ממנו דרשה אחרת לפטור כהנים.",
+     "en": "Rashi: Abaye says \"all your valuation\" comes to say a poor man is judged by what he can afford but never gives less than a sela, so no other derivation exempting kohanim is drawn from it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:13:1",
+     "quote": "כהנים נפטרו מפדיון הבן בפ\"ק דבכורות",
+     "he": "רש״י: כהנים נפטרו מפדיון הבן מקל וחומר, כמו שאמרו בבכורות.",
+     "en": "Rashi: kohanim are exempt from redeeming the firstborn by an argument a fortiori, as stated in Bekhorot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:15:2",
+     "quote": "הלכך כהן ליתיה בערכין דאי עני הוא לא קרינא ביה והעמידו לפני הכהן",
+     "he": "רש״י: לפי רבא הייתי אומר שכהן אינו בערכין, כי כהן עני לא נקרא עליו ״והעמידו לפני הכהן״; לכן המשנה מחדשת.",
+     "en": "Rashi: according to Rava I would say a kohen is not subject to valuations, since a poor kohen is not described by \"he shall stand him before the kohen\"; so the mishna teaches this."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bekhorot 49a:7:2",
+     "quote": "שני כתובין הבאין כאחד ואין מלמדין על פדיון הבן",
+     "he": "רש״י בבכורות: הערכין והכתוב במדבר סיני הם שני כתובים הבאים כאחד ואין מלמדים על פדיון הבן.",
+     "en": "Rashi in Bekhorot: the passage in Arakhin and the one in the Sinai desert are two verses that come as one and do not teach about the redemption of the firstborn."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Sheqel Dues 1:1:1",
+     "quote": "הואיל וכתיב וכל ערכך יהיה בשקל הקדש כל דאיתיה בשקלים איתיה בערכין",
+     "he": "שער המלך מביא את הסוגיה וכותב שהיא הוכחה לכך שבן עשרים אינו תנאי בשקלים, שהרי פחות מבן עשרים נערך ואינו שוקל.",
+     "en": "The Sha'ar HaMelekh cites the passage and reasons from it that someone under twenty is valued even though he does not give the shekel."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 20a:1",
+     "quote": "הצריך ג\"כ העמדה בדין אבל מטעם אחר",
+     "he": "הרש״ש מציין שהרמב״ם דורש העמדה בדין מ״והעמידו לפני הכהן״.",
+     "en": "The Rashash notes that the Rambam requires standing in court from \"he shall stand him before the kohen\"."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    16,
+    18
+   ],
+   "he": {
+    "title": "ערך כולו ולא ערך אברים",
+    "gemara": "הברייתא דורשת ״בערכך״ להביא ערך סתם, ובדבר אחר: ערך כולו הוא נותן ולא ערך אברים. אבר שהנשמה תלויה בו, כגון ראש או לב, נערך כמו כל הגוף, שנאמר ״נפשות״."
+   },
+   "en": {
+    "title": "The whole valuation, not that of limbs",
+    "gemara": "The baraita expounds \"by your valuation\" to include an unspecified valuation, and in another way: he gives the whole valuation and not that of limbs. A limb on which life depends, such as the head or heart, counts as the whole body, from the word \"souls\"."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:18",
+     "quote": "אבל אם העריך אבר שהנשמה תלויה בו כגון ראשו או לבו חייב ליתן ערך כולו",
+     "he": "רבינו גרשום: אמר ערך ידי ורגלי לא אמר כלום, אבל אם העריך אבר שהנשמה תלויה בו כגון ראשו או לבו חייב ליתן ערך כולו.",
+     "en": "Rabbeinu Gershom: one who says \"the value of my hands and feet\" has said nothing, but one who values a limb on which life depends, such as the head or heart, must give his whole value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:17:2",
+     "quote": "אמר ערך ידי עלי לא אמר כלום דאין ערך לאיברים",
+     "he": "רש״י: מי שאמר ״ערך ידי עלי״ לא אמר כלום כי אין ערך לאיברים, אבל אם אמר ״דמי ידי עלי״ נותן דמי ידו.",
+     "en": "Rashi: one who said \"the valuation of my hand\" has said nothing since limbs have no valuation, but if he said \"the worth of my hand\" he gives the worth of his hand."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:18:2",
+     "quote": "בנפש תלה רחמנא ואם העריך דבר שהנשמה תלויה בו נותן ערך כולו",
+     "he": "רש״י: התורה תלתה בנפש, ולכן אם העריך דבר שהנשמה תלויה בו נותן ערך כולו.",
+     "en": "Rashi: the Torah tied it to the soul, so if he valued something on which life depends he gives the whole valuation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:17:1",
+     "quote": "דס\"ד לרבויי משום דאדם יודע דאין ערך לאברים",
+     "he": "התוספות: הייתי אומר לרבות ערך אברים כי אדם יודע שאין ערך לאברים וכוונתו לכל האברים; לכן בא הפסוק ללמד.",
+     "en": "Tosafot: I might have included the valuation of limbs since a person knows limbs have no valuation and means all the limbs; so the verse teaches otherwise."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 2:1",
+     "quote": "וְכֵן כָּל אֵיבָר שֶׁאִם יִנָּטֵל מִן הַחַי יָמוּת אִם אָמַר עֶרְכּוֹ עָלַי נוֹתֵן עֵרֶךְ כֻּלּוֹ",
+     "he": "הרמב״ם פוסק: האומר ערך ידו או רגלו לא אמר כלום, וערך לבו או כבדו נותן ערך כולו, וכן כל אבר שאם ינטל מן החי ימות.",
+     "en": "The Rambam rules: one who says the valuation of his hand or foot has said nothing, while for his heart or liver he gives the valuation of the whole, and so for any limb whose removal from a living person would cause death."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:2:2",
+     "quote": "לוֹמַר עֵרֶךְ דָּבָר שֶׁנַּפְשׁוֹ תְלוּיָה בוֹ עָלַי",
+     "he": "רש״י בחומש: ״בערכך נפשות״ לומר ״ערך דבר שנפשו תלויה בו עלי״, עם הפניה לערכין ד׳.",
+     "en": "Rashi on the Torah: \"your valuation of souls\" means he says \"the valuation of that on which his soul depends is upon me\", with a pointer to Arakhin 4."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מזרחי",
+      "en": "Mizrachi"
+     },
+     "ref": "Mizrachi, Leviticus 27:3:2",
+     "quote": "אלמא פי' בערכך בערך כל גופך הוא",
+     "he": "המזרחי תמה על רש״י בחומש שכתב ״כפל הכפי״ן לא ידעתי״, שהרי בברייתא בערכין נדרש כ״ף הכנוי: ״בערכך ערך כל גופך הוא״.",
+     "en": "The Mizrachi questions Rashi on the Torah, who wrote he did not know the double kaf, since the baraita in Arakhin expounds the pronoun kaf: \"your valuation is the valuation of your whole body\"."
+    },
+    {
+     "who": {
+      "he": "שפתי חכמים",
+      "en": "Siftei Chakhamim"
+     },
+     "ref": "Siftei Chakhamim, Leviticus 27:3:2",
+     "quote": "לא ידעתי מאי קשיא לו על רש\"י",
+     "he": "שפתי חכמים משיב למזרחי: רש״י כתב זאת על שאר ״ערכך״ בפרשה שאין שייך בהם הדרש, ואין להקשות עליו.",
+     "en": "The Siftei Chakhamim answers the Mizrachi: Rashi wrote this about the other occurrences of \"your valuation\" in the passage where the exposition does not apply, so there is no difficulty."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Arakhin 5:2:6",
+     "quote": "מן הברייתא אין אנו לומדים אלא על פעם אחת",
+     "he": "תוספות יום טוב תמה על המזרחי: מן הברייתא לומדים רק על פעם אחת של כפל הכפי״ן, ולכן קושיית רש״י נשארת על שאר המקומות.",
+     "en": "The Tosafot Yom Tov is puzzled by the Mizrachi: from the baraita we learn only about one occurrence of the double kaf, so Rashi's question stands for the other places."
+    },
+    {
+     "who": {
+      "he": "הכתב והקבלה",
+      "en": "HaKtav VeHaKabalah"
+     },
+     "ref": "HaKtav VeHaKabalah, Leviticus 27:2:1",
+     "quote": "ורש\"י פי' כפל הכפי\"ן לא ידעתי מאיזה לשון הוא",
+     "he": "הכתב והקבלה מבאר שהכ״ף היא כינוי לנערך, ״בערך אותך״, ולכן הוא ערך כל גופו ולא חלק ממנו, ומביא את שיטת רש״י ושאר המפרשים.",
+     "en": "HaKtav VeHaKabalah explains that the kaf is a pronoun for the person valued, \"in valuing you\", hence the valuation of his whole body and not part, and cites Rashi and other commentators."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Appraisals and Devoted Property 2:4:1",
+     "quote": "כתב הרא\"ם בפ' בחקותי ד\"ה ערכך כמו ערך וכפל הכפי\"ן לא ידעתי מאיזה לשון הוא",
+     "he": "משנה למלך מביא את קושיית המזרחי על רש״י ומשיב שרש״י לא שכח את הסוגיה, אלא שהקשה על ״והיה ערכך״ שהכ״ף בו אינה נדרשת.",
+     "en": "The Mishneh LaMelech cites the Mizrachi's question on Rashi and answers that Rashi did not forget the passage but was troubled by \"and your valuation shall be\", whose kaf is not expounded."
+    },
+    {
+     "who": {
+      "he": "רדב״ז",
+      "en": "Radbaz"
+     },
+     "ref": "Teshuvot HaRadbaz Volume 6 2186:2",
+     "quote": "והיכי חשד את רש\"י ז\"ל ששכח סוגיית ערכין כולה",
+     "he": "הרדב״ז דוחה את קושיית המזרחי: וכי אפשר לחשוד את רש״י ששכח סוגיית ערכין כולה, והרי מפרש אותה.",
+     "en": "The Radbaz rejects the Mizrachi's criticism: how can one suspect Rashi of forgetting the whole passage in Arakhin, when he explains it himself."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4a:1",
+     "quote": "ולכן כתבה התורה גבי טומאתו נפש לומר שאינו מטמא אלא בעוד שהנפש הדוממית בו",
+     "he": "הרש״ש מקשה על ״נפשות ולא המת״ הרי נקרא מת ״נפש״ בתורה, ומיישב על פי ארבע הנפשות באדם.",
+     "en": "The Rashash asks how \"souls, and not the dead\" fits when the Torah calls a corpse a \"soul\", and resolves it with the four kinds of soul in a person."
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Leviticus 27:8:1",
+     "quote": "אכן בגמ' ריש ערכין מפרשי והעמידו לנערך",
+     "he": "העמק דבר: לפי הפשט ״והעמידו״ קאי על המעריך, אך בגמרא בריש ערכין מפרשים שקאי על הנערך שיהא ראוי להעמדה, לאפוקי המת והגוסס.",
+     "en": "Haamek Davar: on the plain meaning \"he shall stand him\" refers to the one who values, but the Gemara at the start of Arakhin explains it as the person valued who must be fit for standing, excluding the dead and the dying."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    18,
+    19
+   ],
+   "he": {
+    "title": "נפשות ולא המת; הגוסס",
+    "gemara": "הברייתא ממעטת את המת מ״נפשות״. את הגוסס ממעטת מ״והעמיד והעריך״: כל שישנו בהעמדה ישנו בהערכה, וגוסס אינו בהעמדה.",
+    "halakha": "הרמב״ם פוסק שהגוסס אין לו לא ערך ולא דמים."
+   },
+   "en": {
+    "title": "\"Souls\" and not the dead; the dying person",
+    "gemara": "The baraita excludes a dead person from \"souls\". It excludes the dying person from \"he shall stand… and value\": whoever is subject to standing is subject to valuation, and a dying person is not subject to standing.",
+    "halakha": "The Rambam rules that a dying person has neither valuation nor worth."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4a:19",
+     "quote": "מעריך אתה את שנפשו בו ואי אתה מעריך את המת",
+     "he": "רבינו גרשום: אתה מעריך את מי שנפשו בו ואי אתה מעריך את המת.",
+     "en": "Rabbeinu Gershom: you may value one whose soul is in him, and you may not value the dead."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:18:3",
+     "quote": "שאם אמר ערך מת זה עלי לא אמר כלום",
+     "he": "רש״י: מי שאמר ״ערך מת זה עלי״ לא אמר כלום.",
+     "en": "Rashi: one who says \"the valuation of this dead person is upon me\" has said nothing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:19:1",
+     "quote": "גבי עני שהעריך כתיב",
+     "he": "רש״י: ״והעמיד והעריך״ נאמר לגבי עני שהעריך.",
+     "en": "Rashi: \"he shall stand and value\" is written regarding a poor person who valued."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:18:1",
+     "quote": "ואף על גב דאסור בהנאה מן התורה ואינו בדמים",
+     "he": "התוספות: אף שהמת אסור בהנאה ואינו בדמים, הייתי אומר שהוא בערכין כי נתרבה מנוול ומוכה שחין; לכן בא ״ולא המת״.",
+     "en": "Tosafot: although a dead person is forbidden to benefit from and has no monetary value, I might have thought he is in valuations since the loathsome and the boil-stricken were included; so \"and not the dead\" is needed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:19:1",
+     "quote": "דבהמה אית בה חיותא טפי ויכולה לעמוד",
+     "he": "התוספות מקשים מבהמה ששחטה ועדיין מפרכסת שנחשבת בת העמדה, ומיישבים שבבהמה יש חיות יותר ויכולה לעמוד, ומוסיפים ״וצריך עיון״.",
+     "en": "Tosafot ask about an animal slaughtered that still twitches, which counts as fit for standing, and answer that an animal has more vitality and can stand, adding \"this requires further study\"."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Sotah 27a:10:1",
+     "quote": "תימה לר\"י מאי שנא הכא דממעט מוהעמיד חיגרת",
+     "he": "התוספות בסוטה מקשים מדוע בסוטה ממעטים חיגרת מ״והעמיד״, ואילו בערכין ״והעמיד והעריך״ ממעט רק גוסס.",
+     "en": "Tosafot in Sotah ask why in Sotah a lame woman is excluded by \"he shall stand\", while in Arakhin \"he shall stand and value\" excludes only the dying."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:13",
+     "quote": "הַגּוֹסֵס אֵין לוֹ לֹא עֵרֶךְ וְלֹא דָּמִים",
+     "he": "הרמב״ם פוסק שהגוסס אין לו לא ערך ולא דמים, כי רוב הגוססין למיתה והרי הוא כמת, וכן יוצא להריגה.",
+     "en": "The Rambam rules that a dying person has neither valuation nor worth, since most of the dying die and he is like a dead person; so too one condemned to be executed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4a:4",
+     "quote": "אלמא דהגמרא עצמה מפרשת דקאי אמעריך",
+     "he": "הרש״ש מקשה על התוספות: מדוע לא הביאו את הגמרא לעיל ״והעמידו לפני הכהן״ שמפרשת שקאי על המעריך.",
+     "en": "The Rashash asks on Tosafot why they did not bring the earlier Gemara on \"he shall stand him before the kohen\", which explains the word as referring to the one who values."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 20a:1",
+     "quote": "אמרינן דגוסס לא נערך דלאו בר העמדה והערכה הוא",
+     "he": "הרש״ש מציין שבגמרא לעיל נאמר שגוסס אינו נערך כי אינו בר העמדה והערכה.",
+     "en": "The Rashash notes that the Gemara earlier says a dying person is not valued since he is not fit for standing and valuation."
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Leviticus 27:8:1",
+     "quote": "לאפוקי המעריך את המת והגוסס",
+     "he": "העמק דבר: לפי הגמרא בריש ערכין ״והעמידו״ קאי על הנערך שיהא ראוי להעמדה, לאפוקי המעריך את המת והגוסס.",
+     "en": "Haamek Davar: according to the Gemara at the start of Arakhin, \"he shall stand him\" refers to the person valued, who must be fit for standing, excluding one who values the dead and the dying."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    20,
+    5
+   ],
+   "he": {
+    "title": "אחד שהעריך מאה, אשה, טומטום ואנדרוגינוס",
+    "gemara": "מ״נפשות״ למדים שגם אחד שהעריך מאה, וגם אישה שהעריכה איש או אישה, נחשבים. מ״והיה ערכך הזכר״ ממעטים את הטומטום והאנדרוגינוס מערכין, ומרבים אותם לדמים."
+   },
+   "en": {
+    "title": "One who valued a hundred, a woman, and the tumtum and androgynos",
+    "gemara": "From \"souls\" we learn that one who valued a hundred, and a woman who valued a man or a woman, count too. From \"and your valuation shall be: the male\" the tumtum and androgynos are excluded from valuations, and included in worth."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:1",
+     "quote": "לרבות טומטום ואנדרוגינוס לדמים. שנודרים ויכול אדם לומר דמיו עליו",
+     "he": "רבינו גרשום: ״והיה ערכך״ מרבה טומטום ואנדרוגינוס לדמים, שאדם יכול לומר ״דמיו עלי״.",
+     "en": "Rabbeinu Gershom: \"and your valuation shall be\" includes the tumtum and androgynos for worth, since a person can say \"his worth is upon me\"."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:2",
+     "quote": "מן והיה מרבה ליה לדמים שיהא בדמים ומן ערכך הזכר ואם נקבה ממעט ליה מערכין",
+     "he": "רבינו גרשום: מ״והיה״ מרבים אותו לדמים, ומ״ערכך הזכר ואם נקבה״ ממעטים אותו מערכין.",
+     "en": "Rabbeinu Gershom: from \"and shall be\" he is included in worth, and from \"your valuation: the male… and if female\" he is excluded from valuations."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4a:20:1",
+     "quote": "איש כי יפליא [נדר] בערכך נפשות דהיינו אחד שהעריך אחד",
+     "he": "רש״י: אם נאמר ״נפש״ ולא ״נפשות״ הייתי אומר שמועיל רק אחד שהעריך אחד.",
+     "en": "Rashi: had it said \"soul\" and not \"souls\", I would say it applies only to one person valuing one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:3:1",
+     "quote": "דהכי משמע בערכך נפשות כל נפשות יכולות להעריך",
+     "he": "רש״י: ״בערכך נפשות״ משמע שכל נפשות יכולות להעריך.",
+     "en": "Rashi: \"your valuation of souls\" implies that all souls may value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:4:1",
+     "quote": "דכתיב הזכר דמשמע זכר ודאי נקבה ודאית",
+     "he": "רש״י: טומטום ואנדרוגינוס אינם בערכין כי נאמר ״הזכר״, זכר ודאי, ו״נקבה״, נקבה ודאית.",
+     "en": "Rashi: the tumtum and androgynos are not in valuations because it says \"the male\", a definite male, and \"female\", a definite female."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4a:20:1",
+     "quote": "כגון שאמר ערך פלוני ופלוני ופלוני עלי",
+     "he": "התוספות: הכוונה לכגון שאמר ״ערך פלוני ופלוני ופלוני עלי״, שהזכיר ערך בלשון יחיד, והייתי אומר שאין זה ערך.",
+     "en": "Tosafot: this means he said \"the valuation of so-and-so, so-and-so and so-and-so is upon me\", using the singular \"valuation\", and I might have said this is not a valuation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Sukkah 28b:1:1",
+     "quote": "השוה הכתוב אשה לאיש",
+     "he": "התוספות בסוכה מקשים מדוע צריך ללמוד שאשה מעריכה, והרי ״השוה הכתוב אשה לאיש״, ומחלקים בין פרשה בלשון זכר לבין היכן שכתוב ״איש״.",
+     "en": "Tosafot in Sukkah ask why we need to learn that a woman values, given that \"Scripture equated woman to man\", and distinguish a passage in the masculine from one where \"ish\" is written."
+    },
+    {
+     "who": {
+      "he": "הדר זקנים",
+      "en": "Hadar Zekenim"
+     },
+     "ref": "Hadar Zekenim on Torah, Exodus 21:17:1",
+     "quote": "אבל היכא דכתב איש דרשינן איש ולא אשה",
+     "he": "הדר זקנים: השוה הכתוב אשה לאיש היכן שכתוב בלשון זכר, אבל כשכתוב ״איש״ דורשים ״איש ולא אשה״, וכך משמע בערכין.",
+     "en": "Hadar Zekenim: Scripture equates woman with man where the masculine is written, but where \"ish\" is written we expound \"a man and not a woman\", as implied in Arakhin."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 42a:1:1",
+     "quote": "דקסבר ר' יהודה אנדרוגינוס מוצא מכלל זכר בלא שום מיעוט מסברא",
+     "he": "התוספות בבכורות: רבי יהודה סובר שאנדרוגינוס יוצא מכלל זכר מסברא בלי מיעוט, ובערכין צריך מיעוט שמא הייתי מעמידו לפחות בערך נקבה.",
+     "en": "Tosafot in Bekhorot: Rabbi Yehuda holds an androgynos leaves the category of male by reasoning without an exclusion, and in valuations an exclusion is needed lest I place him at least at a woman's valuation."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Appraisals and Devoted Property 5:17:1",
+     "quote": "גרסינן ערכך לרבות טומטום ואנדרוגינוס לדמים",
+     "he": "מגדל עוז: הגמרא בערכין לומדת ״ערכך לרבות טומטום ואנדרוגינוס לדמים״, וממנה עולה הדין של נידון בכבודו.",
+     "en": "Migdal Oz: the Gemara in Arakhin learns \"your valuation includes the tumtum and androgynos for worth\", from which the law of being judged by his dignity emerges."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    11
+   ],
+   "he": {
+    "title": "ערך סתם: שלשה שקלים והשג יד",
+    "gemara": "מי שאמר ״ערך סתם עלי״ נותן כפחות שבערכין, שלשת שקלים. הגמרא שואלת למה לא חמישים או שקל, ומשיבה: תפשת מרובה לא תפשת, והשקל נאמר בהשג יד. רב נחמן אמר רבה בר אבוה: אינו נידון בהשג יד כי הוא כמפרש דמי. ללישנא אחרת: נידון בהשג יד.",
+    "halakha": "הכסף משנה כותב שהלכה כלישנא בתרא, ושהרמב״ם פוסק שהאומר ערך סתם נותן שלשת שקלים."
+   },
+   "en": {
+    "title": "An unspecified valuation: three shekels, and ability to pay",
+    "gemara": "One who says \"an unspecified valuation is upon me\" gives the lowest valuation, three shekels. The Gemara asks why not fifty or one shekel, and answers: if you grasped much you have not grasped, and the shekel is stated for one of limited means. Rav Nachman in the name of Rabba bar Avuha: he is not judged by ability to pay, as it is like specifying a sum. In another version: he is judged by ability to pay.",
+    "halakha": "The Kessef Mishneh writes that the halakha follows the second version, and the Rambam rules that one who says an unspecified valuation gives three shekels."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:4",
+     "quote": "דאפי' אי איכא מאן דאמר מרובה תפשת דיש בכלל המרובה מועט",
+     "he": "רבינו גרשום: ״תפשת מועט תפשת״, כי אפילו מי שאומר שתפסת מרובה, יש בכלל המרובה מועט ולא סתר את דבריך.",
+     "en": "Rabbeinu Gershom: \"if you grasped a little you have grasped\", since even one who says you grasped much, the little is included in the much and does not contradict you."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:7",
+     "quote": "שאם אין לו אלא שקל שנותנהו ויהא פטור מכאן ואילך אלא חייב הוא בערך שלם",
+     "he": "רבינו גרשום: ״שאינו נידון בהשג יד״ פירושו שאם יש לו רק שקל אינו נותנו ופטור, אלא חייב בערך שלם, כמפרש שלשת שקלים.",
+     "en": "Rabbeinu Gershom: \"not judged by ability to pay\" means he does not give his one shekel and become exempt, but owes the full valuation, as if he had specified three shekels."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:7:1",
+     "quote": "שלא אמר ערכי עלי ולא אמר ערך פלוני עלי אלא אמר הרי עלי ערך",
+     "he": "רש״י: ״ערך סתום״ הוא כשלא אמר ״ערכי״ ולא ״ערך פלוני״ אלא ״הרי עלי ערך״.",
+     "en": "Rashi: an \"unspecified valuation\" is where he said neither \"my valuation\" nor \"so-and-so's valuation\" but \"a valuation is upon me\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:7:2",
+     "quote": "דכתיב ולנקבה שלשת שקלים וזהו פחות שבערכין",
+     "he": "רש״י: מקור שלשת השקלים הוא ״ולנקבה שלשת שקלים״, וזהו הפחות שבערכין.",
+     "en": "Rashi: three shekels is derived from \"and for a female, three shekels\", the lowest of the valuations."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:9:1",
+     "quote": "אבל דין ערך קצוב אין מועט מג' שקלים",
+     "he": "רש״י: ״בהשג יד״ אומר שעני לא יעריכנו הכהן בפחות משקל, אבל בערך קצוב אין פחות משלשה שקלים.",
+     "en": "Rashi: \"by ability to pay\" means a poor man is not assessed at less than a shekel, but for a fixed valuation there is nothing lower than three shekels."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:10:3",
+     "quote": "דכיון דאמר ערך סתם עלי ויודע הוא שזהו פחות שבערכין ג' שקלים",
+     "he": "רש״י: ״כמפרש דמי״ כי האומר ערך סתם יודע שזה פחות שבערכין, שלשה שקלים, ולכן הוא כאומר ״הרי עלי שלשה שקלים״, ולא כאומר ״ערך פלוני״.",
+     "en": "Rashi: \"like specifying\" because one who says an unspecified valuation knows it is the lowest, three shekels, so it is like saying \"three shekels are upon me\", unlike \"so-and-so's valuation\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:11:1",
+     "quote": "להכי אתא קרא לומר שערך נקרא ודינו כשאר ערכין ונידון בהשג יד",
+     "he": "רש״י: ללישנא בתרא הפסוק בא לומר שזה נקרא ערך ודינו כשאר ערכין, ונידון בהשג יד.",
+     "en": "Rashi: on the second version, the verse comes to say this is called a valuation and has the law of other valuations, and is judged by ability to pay."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4b:7:1",
+     "quote": "אע\"ג דאמר בתוספתא דמכילתין הרי עלי ערך סתם מביא המועט",
+     "he": "התוספות: אף שבתוספתא נאמר ״הרי עלי ערך סתם מביא המועט״ וכמה המועט חמשה סלעים, מיישבים שהתוספתא מדברת בערך סתם של זכר.",
+     "en": "Tosafot: although the Tosefta says \"an unspecified valuation is upon me, he brings the smallest\", and how much is the smallest, five sela, they answer that the Tosefta speaks of an unspecified valuation of a male."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4b:10:1",
+     "quote": "וקשה דהא כי אמר ערך פלוני עלי יודע הוא שאינו בן חדש",
+     "he": "התוספות מקשים על רש״י: הרי האומר ״ערך פלוני״ גם יודע שאינו בן חדש; ומפרשים ״כמפרש דמי״ כמי שאומר במפורש שלש סלעים.",
+     "en": "Tosafot challenge Rashi: one who says \"so-and-so's valuation\" also knows he is not a month old; and they explain \"like specifying\" as one who says explicitly three sela."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:20",
+     "quote": "נוֹתֵן פָּחוּת שֶׁבַּעֲרָכִין שֶׁהוּא שְׁלֹשֶׁת שְׁקָלִים",
+     "he": "הרמב״ם פוסק: האומר ״הרי עלי ערך״ ולא פירש ערך מי, נותן פחות שבערכין שהוא שלשת שקלים.",
+     "en": "The Rambam rules: one who says \"a valuation is upon me\" without specifying whose gives the lowest valuation, three shekels."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Arakhin 21:1",
+     "quote": "תפסת מרובה לא תפסת הטעם בכל מקום אני אומר שנים ואתה שלש אתה מודה לי ואיני מודה לך",
+     "he": "פסקי התוספות מביאים את הטעם של ״תפסת מרובה לא תפסת״: כשאני אומר שנים ואתה שלש, אתה מודה לי ואני איני מודה לך, ויש בכלל מאתיים מנה.",
+     "en": "Piskei Tosafot give the reason for \"you grasped much, you have not grasped\": when I say two and you say three, you agree with me and I do not agree with you, and a hundred is included in two hundred."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Appraisals and Devoted Property 3:8:1",
+     "quote": "וידוע דהלכה כלישנא בתרא ומשמע בהדיא דמפרש אינו נדון בהשג יד",
+     "he": "הכסף משנה: ידוע שהלכה כלישנא בתרא, ומשמע שמי שפירש את הערך אינו נידון בהשג יד, וכן הדין לחייבי דמים.",
+     "en": "The Kessef Mishneh: it is known that the halakha follows the second version, and it implies that one who specified the valuation is not judged by ability to pay, and the same for those liable for worth."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4b:4",
+     "quote": "יודע הוא שאינו פחות מבן חדש",
+     "he": "הרש״ש מציע לתקן את הגרסה בתוספות על ״כך נראה לי שצריך להיות״ ״יודע הוא שאינו פחות מבן חדש״.",
+     "en": "The Rashash proposes correcting the text in Tosafot to read \"he knows he is not under a month old\"."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 4b:2",
+     "quote": "מביא המועט וכמה המועט כצ\"ל",
+     "he": "הגהות יעב״ץ מתקן את הגרסה בתוספות: ״מביא המועט וכמה המועט״.",
+     "en": "The Haggahot Ya'avetz correct the text of Tosafot to read \"he brings the smallest, and how much is the smallest\"."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    20
+   ],
+   "he": {
+    "title": "הברייתא השנייה: והא אפיקתיה, שקול הוא",
+    "gemara": "הגמרא מקשה על הדרשות ״בערכך״ ו״נפשות״: הרי כבר השתמשנו בהן להביא ערך סתם, ולהוציא את המת. היא משיבה שקוראים ״ערך״ בערכך, ״נפש״ בנפשות, והפסוק יתיר לדרשות נוספות. בסוף: אלו שקולות הן ויבואו כולן, והפסוק נצרך רק למנוול ומוכה שחין."
+   },
+   "en": {
+    "title": "The second baraita: \"but you already excluded it\", and \"they are equal\"",
+    "gemara": "The Gemara asks on the expositions of \"by your valuation\" and \"souls\": we already used them to include an unspecified valuation and exclude the dead. It answers that we read \"valuation\" in \"by your valuation\" and \"soul\" in \"souls\", the extra letters giving further expositions. In the end: these are equal and all come, and the verse was needed only for the loathsome and the boil-stricken."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:12",
+     "quote": "כי היכי דאחד שהעריך אחד קדיש ערכו הכי נמי קדיש כי ערך מאה",
+     "he": "רבינו גרשום: ״הנך לא צריכי קרא דשקול הוא״: מאותו מקום שלומדים שאחד מעריך אחד, למדים גם אחד שהעריך מאה ואשה שהעריכה, ודבר שהנשמה תלויה בו מ״נפש״, ומת וגוסס מ״והעמיד״.",
+     "en": "Rabbeinu Gershom: \"those need no verse, they are equal\": from where we learn that one values one we learn also one valuing a hundred and a woman valuing, and a limb on which life depends from \"soul\", and the dead and dying from \"he shall stand\"."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:13",
+     "quote": "אייתר ליה נפשות למנוול ומוכה שחין",
+     "he": "רבינו גרשום: ״נפשות״ נותר לבוא למנוול ומוכה שחין.",
+     "en": "Rabbeinu Gershom: \"souls\" is left over to include the loathsome and the boil-stricken."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:12:1",
+     "quote": "ערך הוה מצי למכתב והוה מייתי ערך סתם ומדכתב ערכך למדרש נמי הא",
+     "he": "רש״י: היה אפשר לכתוב ״ערך״ שהיה מביא ערך סתם; מכך שכתב ״ערכך״ דורשים גם את הדרשה של ערך כולו.",
+     "en": "Rashi: it could have written \"valuation\", which would have included an unspecified valuation; from the fact that it wrote \"your valuation\" we expound this exposition as well."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:20:1",
+     "quote": "אי הוה כתיב נמי נפש הוו אתו כולהו",
+     "he": "רש״י: אילו היה כתוב ״נפש״ היו באים כולם, דבר שהנשמה תלויה בו, אחד שהעריך מאה ואשה שהעריכה; ו״נפשות״ נצרך למנוול ומוכה שחין שלא ימעטו.",
+     "en": "Rashi: had \"soul\" been written, all would have come, a limb on which life depends, one valuing a hundred, and a woman valuing; and \"souls\" was needed so the loathsome and boil-stricken would not be excluded."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:20:2",
+     "quote": "דכל הדרשות שוות למשמע ממקרא זה",
+     "he": "רש״י: ״שקול״ פירושו שוה, שכל הדרשות שוות להישמע מן המקרא, ואין אחת חמורה מחברתה; ומציין דוגמה בבבא קמא.",
+     "en": "Rashi: \"equal\" means that all the expositions are equally heard from this verse and none is weightier than another; he notes a similar case in Bava Kamma."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4b:12:1",
+     "quote": "מיתורא בערכך דמצי למכתב ערך ומיתורא דריש ואילו ערך גופיה איצטריך",
+     "he": "התוספות: דורשים מהיתר ״בערכך״, שאפשר היה לכתוב ״ערך״, ואילו ״ערך״ עצמו נצרך.",
+     "en": "Tosafot: we expound from the extra word \"by your valuation\", as it could have written \"valuation\", while \"valuation\" itself is needed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Zevachim 4b:18:1",
+     "quote": "והקשה הרב רבי חיים דהשתא משמע דהיכא דלא ידע הי מינייהו לרבויי מרבי תרוייהו",
+     "he": "התוספות בזבחים: מביאים שלמדים ״שקולים ויבואו שניהם״ גם בערכין, ומחלקים בין מקום שיש משמעות לריבוי לבין ״מן״ שאינו מוציא את שניהם.",
+     "en": "Tosafot in Zevachim cite the rule \"equals, both come\" also in Arakhin and distinguish a place where the word implies inclusion from \"min\", which does not exclude both."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Bava Kamma 3a:6",
+     "quote": "ואמרי' מכדי שקול הוא יבואו שניהם",
+     "he": "רבינו חננאל בבבא קמא מביא את העיקרון ״שקול הוא יבואו שניהם״ ומביא כדוגמה את הסוגיה בערכין ״נפשות להביא מנוול ומוכה שחין״.",
+     "en": "Rabbeinu Chananel in Bava Kamma cites the principle \"they are equal, both come\", and gives as an example the passage in Arakhin on \"souls to include the loathsome and boil-stricken\"."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 131:1",
+     "quote": "ואפי' אמר ערך ראשי עלי או ערך לבי עלי נערך הואיל ונפשו תלויה באותו אבר",
+     "he": "ספר מצוות גדול מביא את דין הערכין בפרשה, ומציין לערכין ד׳: אפילו אמר ערך ראשי או לבי נערך כי נפשו תלויה באבר זה.",
+     "en": "The Sefer Mitzvot Gadol brings the law of valuations from the passage and cites Arakhin 4: even if he said \"my head's valuation\" or \"my heart's\", he is valued, since his soul depends on that limb."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "נחל איתן",
+      "en": "Nachal Eitan"
+     },
+     "ref": "Nachal Eitan on Mishneh Torah, Sabbath 1:15:1",
+     "quote": "משום דכוותיה אזלא מסקנא דסוגיא דפ\"ק דערכין",
+     "he": "הנחל איתן מציין שמסקנת הסוגיה בפרק הראשון של ערכין מתאימה לדעת הרמב״ם בדין נפש.",
+     "en": "The Nachal Eitan notes that the conclusion of the passage in the first chapter of Arakhin fits the Rambam's view on the word \"soul\"."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Arakhin 5:2:6",
+     "quote": "ומפרשים לה בסוגיא דה\"מ למכתב בערך",
+     "he": "תוספות יום טוב: מפרשים בסוגיה שהיה אפשר לכתוב ״ערך״, וכתב ״בערכך״ כדי לדרוש.",
+     "en": "Tosafot Yom Tov: the passage explains that it could have written \"valuation\" and wrote \"by your valuation\" in order to expound."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    21,
+    23
+   ],
+   "he": {
+    "title": "והיה ערכך לדמים: נידון בכבודו",
+    "gemara": "הברייתא מרבה טומטום ואנדרוגינוס לדמים. הגמרא שואלת: דמים למה צריך קרא, והרי נותן דמי דיקלא. רבא משיב: לומר שנידון בכבודו, שאם אמר ״דמי ראשי עלי״ נותן דמי כולו. והייתי אומר שרק מי שישנו בערכין נידון בכבודו."
+   },
+   "en": {
+    "title": "\"And your valuation shall be\" for worth: judged by his dignity",
+    "gemara": "The baraita includes the tumtum and androgynos for worth. The Gemara asks why a verse is needed for worth, since he would pay the worth of a date palm. Rava answers: to say he is judged by his dignity, so that if he says \"the worth of my head is upon me\" he pays the worth of his whole self. One might have said only one who is subject to valuations is judged by his dignity."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:14",
+     "quote": "לומר שנידון בכבודו של אבר. שאם אמר נמי דמי אבר אחד עלי נידון לפי חשיבות האבר",
+     "he": "רבינו גרשום: נידון בכבודו של אבר; אם אמר ״דמי אבר אחד עלי״ נידון לפי חשיבות האבר, ואם הוא אבר שהנשמה תלויה בו נידון לפי דמי כולו.",
+     "en": "Rabbeinu Gershom: judged by the dignity of the limb; if he said \"the worth of one limb is upon me\" he is judged by the limb's importance, and if it is a limb on which life depends, by the worth of the whole."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:21:1",
+     "quote": "דאם אינו ענין לערכין דהא זכר ודאי בעינן תניהו ענין לדמים",
+     "he": "רש״י: מכיוון שאין זה לערכין, כי צריך זכר ודאי, נדרש ״והיה ערכך״ לענין דמים.",
+     "en": "Rashi: since it is not for valuations, as a definite male is required, \"and your valuation shall be\" is applied to worth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:22:1",
+     "quote": "שנידון כולו אחר אבר אחד שכבודו תלוי בו",
+     "he": "רש״י: ״נידון בכבודו״ פירושו שנידון כולו אחר אבר אחד שכבודו תלוי בו, כגון ״דמי ראשו עלי״ נותן דמי כולו.",
+     "en": "Rashi: \"judged by his dignity\" means he is judged as a whole by one limb on which his dignity depends, such as \"the worth of his head is upon me\", giving the worth of the whole."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:23:1",
+     "quote": "דנפשות גבי ערך כתיב קמ\"ל",
+     "he": "רש״י: לפי הגרסה ״סד״א נדר בערכך נפשות כתיב״ הייתי אומר שמי שאינו בערכין לא ידון בכבודו, כי ״נפשות״ נאמר בערך.",
+     "en": "Rashi: on this reading, I would say one who is not in valuations is not judged by his dignity, since \"souls\" is written for valuation."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 5:17",
+     "quote": "אֵינוֹ חַיָּב אֶלָּא בִּדְמֵי רֹאשׁוֹ וְרוֹאִין כַּמָּה יִשְׁוֶה אוֹתוֹ אֵיבָר",
+     "he": "הרמב״ם: האומר ״ראש עבד זה או לב חמור זה הקדש למזבח״ אינו חייב אלא בדמי ראשו, ורואים כמה ישוה אותו אבר אילו היה נמכר.",
+     "en": "The Rambam: one who says \"this slave's head, or this donkey's heart, is consecrated to the altar\" owes only the worth of that limb, assessed as if it were sold."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Metzia 114a:5:1",
+     "quote": "ואידך ההוא לנדון בכבודו הוא דאתא",
+     "he": "התוספות בבבא מציעא: ההיקש של הקדש לערכין בא ללמד שנדון בכבודו.",
+     "en": "Tosafot in Bava Metzia: the analogy of consecrated property to valuations comes to teach that one is judged by his dignity."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Appraisals and Devoted Property 5:17:1",
+     "quote": "וגורס סד\"א נדר בערכך נפשות כתיב כל שישנו בערכין נדון בכבודו",
+     "he": "מגדל עוז מצטט את הגרסה בגמרא ״סד״א נדר בערכך נפשות כתיב, כל שישנו בערכין נדון בכבודו״, ומיישב בה את השגת הראב״ד על הרמב״ם.",
+     "en": "Migdal Oz cites the reading \"I would have said it is written 'a vow by your valuation of souls', whoever is in valuations is judged by his dignity\", and uses it to answer the Ra'avad's objection to the Rambam."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Appraisals and Devoted Property 5:16:1",
+     "quote": "דקדשי ב\"ה חמירי מקדשי מזבח",
+     "he": "שער המלך לומד מהסוגיה שקדשי בדק הבית חמורים מקדשי מזבח: בקדשי מזבח במקדיש בעל מום אין להקדש אלא דמי אותו אבר, ובבדק הבית פשטה הקדושה בכולה.",
+     "en": "The Sha'ar HaMelekh learns from the passage that sacred property for Temple upkeep is stricter than that for the altar: for the altar, one consecrating a blemished animal consecrates only the worth of that limb, while for upkeep the sanctity spreads to the whole."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 4b:2",
+     "quote": "לפמש\"כ התוס' לקמן (ה) ד\"ה והא יש לגרוס רבה",
+     "he": "הרש״ש מציין שלפי התוספות בהמשך יש לגרוס ״רבה״ ולא ״רבא״ בדברי ״אמר רבא לומר שנידון בכבודו״.",
+     "en": "The Rashash notes that according to Tosafot further on, one should read \"Rabba\" in \"Rava said, to say he is judged by his dignity\"."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    24,
+    28
+   ],
+   "he": {
+    "title": "ראש עבד וראש חמור הקדש; ראש פרה: קדשי מזבח וקדשי בדק הבית",
+    "gemara": "אביי מקשה על רבא ממקור: ״ראש עבד זה הקדש״ הוא והקדש שותפין בו, ״ראש עבד מכור לך״ משמנין ביניהם, וכן בחמור; בפרה לא מכר אלא ראשה, ואפילו הקדיש ״ראש פרה״ אין להקדש אלא ראשה, שהרי נמכר ראש תורא בבית הטבחים. הגמרא מקשה שחמור ופרה אינם בערכין ואינם נידונים בכבודם, ומיישבת שהברייתא עוסקת בקדשי מזבח ואילו נידון בכבודו הוא בקדשי בדק הבית.",
+    "halakha": "השולחן ערוך פוסק שהאומר ״ראש עבד זה״ מכר חציו, וכן בכל אבר שהנשמה תלויה בו, ובראש פרה לא מכר אלא ראשה."
+   },
+   "en": {
+    "title": "\"The head of this slave\": altar offerings and Temple-upkeep property",
+    "gemara": "Abaye challenges Rava from a baraita: \"the head of this slave is consecrated\" and he and the Temple jointly own him; \"the head of this slave is sold to you\", they assess between them; the same for a donkey; for a cow he sold only its head, and even if he consecrated \"the head of this cow\" the Temple has only its head, since an ox head is sold at the butcher. The Gemara objects that donkeys and cows are not in valuations and are not judged by their dignity, and resolves that the baraita is about altar offerings, while being judged by dignity applies to Temple-upkeep property.",
+    "halakha": "The Shulchan Arukh rules that one who says \"the head of this slave\" sold half of it, and likewise any limb on which life depends, and for a cow's head only the head is sold."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:15",
+     "quote": "הואיל וראשו הקדש והגוף שלו ואינו יכול לחלוק הראש מן הגוף",
+     "he": "רבינו גרשום: ״הוא והקדש שותפין בו״ כי הראש הקדש והגוף שלו ואי אפשר לחלק את הראש מן הגוף, ולכן אין יכולים למוכרו ולחלק דמיו.",
+     "en": "Rabbeinu Gershom: \"he and the Temple are partners\" because the head is consecrated and the body is his and the head cannot be separated from the body, so they cannot sell him and divide the proceeds."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:16",
+     "quote": "הואיל וחולין הוא מוכרין אותו וחולקין דמיו",
+     "he": "רבינו גרשום: ״משמנין ביניהם״ כיון שהוא חולין, מוכרים אותו וחולקים דמיו, או שאחד פודה את חלק חברו.",
+     "en": "Rabbeinu Gershom: \"they assess between them\": since it is unconsecrated, they sell him and divide the proceeds, or one redeems the other's share."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:17",
+     "quote": "הואיל ועשוי הוא למכור ראש של בהמה ולא הגוף בבית הקצבות",
+     "he": "רבינו גרשום: בפרה אין להקדש אלא ראשה, כי דרך למכור ראש של בהמה בלי הגוף בבית הקצבות.",
+     "en": "Rabbeinu Gershom: for a cow the Temple has only its head, since it is the practice to sell an animal's head without the body at the butcher's."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 4b:20",
+     "quote": "נידון בכבודו דהיינו דומיא דערכין דהוו קדושת בדק הבית",
+     "he": "רבינו גרשום: מה שנידון בכבודו הוא בקדושת בדק הבית, בדומה לערכין שהם קדושת בדק הבית.",
+     "en": "Rabbeinu Gershom: what is judged by dignity applies to Temple-upkeep sanctity, like valuations, which are of Temple-upkeep sanctity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:24:1",
+     "quote": "כמה שוה ויחלוקו דמיו",
+     "he": "רש״י: ״משמנין ביניהן״ פירושו שיעריכו כמה שווה ויחלקו דמיו.",
+     "en": "Rashi: \"they assess between them\" means they determine its worth and divide the proceeds."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:25:2",
+     "quote": "אבל ראש עבד וראש חמור אין דרך למכור הלכך לפלגיה זבניה לפלגיה אקדשיה",
+     "he": "רש״י: ראש פרה נמכר לבדו, אבל ראש עבד וראש חמור אין דרך למכור לבדם, ולכן מכר או הקדיש חצי.",
+     "en": "Rashi: a cow's head is sold on its own, but it is not the practice to sell the head of a slave or donkey alone, so he sold or consecrated half."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 4b:28:1",
+     "quote": "הואיל וחזיא להקרבה",
+     "he": "רש״י: ״תפשוט קדושה בכולה״ כי הבהמה ראויה להקרבה.",
+     "en": "Rashi: \"let the sanctity spread to all of it\" since the animal is fit for sacrifice."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4b:24:1",
+     "quote": "פי' בקונטרס דגבי הקדש נקט שותפות לומר שהוא והקדש חולקין",
+     "he": "התוספות מביאים את פירוש רש״י: בהקדש נאמר ״שותפין״ כי המקדיש בעין יפה מקדיש, ואילו במכירה שייך ״משמנין״ לשון שומא.",
+     "en": "Tosafot cite Rashi's explanation: for consecration it says \"partners\" because one consecrates generously, whereas for sale \"assess\" fits, a term of valuation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 4b:27:1",
+     "quote": "ברייתא בקדשי מזבח דאמר ראש חמור הקדש לדמי עולה ואינו נידון בכבודו",
+     "he": "התוספות: הברייתא בקדשי מזבח, שאמר ״ראש חמור הקדש לדמי עולה״, ואינו נידון בכבודו; ונידון בכבודו אמור בקדשי בדק הבית.",
+     "en": "Tosafot: the baraita is about altar offerings, where he said \"the head of the donkey is consecrated for the worth of a burnt offering\", and it is not judged by dignity; being judged by dignity is said of Temple-upkeep property."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sales 27:8",
+     "quote": "אָמַר לוֹ רֹאשׁ פָּרָה זוֹ אֲנִי מוֹכֵר לְךָ לֹא מָכַר אֶלָּא הָרֹאשׁ בִּלְבַד",
+     "he": "הרמב״ם פוסק במכירה: ראש עבד או חמור שמכר, מכר חציו, וכן בכל אבר שהנשמה תלויה בו; ״ראש פרה״ לא מכר אלא הראש בלבד, שנמכרת ראשה תמיד במטבחיים.",
+     "en": "The Rambam rules for sales: one who sells the head of a slave or donkey sold half of it, and likewise any limb on which life depends; for the \"head of a cow\" he sold only the head, since its head is always sold at the butcher's."
+    },
+    {
+     "who": {
+      "he": "השגות הראב״ד",
+      "en": "Hasagot HaRa'avad"
+     },
+     "ref": "Hasagot HaRa'avad on Mishneh Torah, Sales 27:8:1",
+     "quote": "דבר זה מצא אותו במסכת ערכין",
+     "he": "הראב״ד משיג על הרמב״ם שדין זה מצוי במסכת ערכין, ושהסוגיה שם מעמידה אותו בקדשי מזבח.",
+     "en": "The Ra'avad comments on the Rambam that this law is found in Arakhin, where the passage places it in altar offerings."
+    },
+    {
+     "who": {
+      "he": "פסקי תוספות",
+      "en": "Piskei Tosafot"
+     },
+     "ref": "Piskei Tosafot on Arakhin 22:1",
+     "quote": "הקדיש למזבח דבר שהנשמה תלויה בו קדוש כולו אבל לא בבעל מום או קדושת דמים",
+     "he": "פסקי התוספות: הקדיש למזבח דבר שהנשמה תלויה בו קדוש כולו, אבל לא בבעל מום או בקדושת דמים.",
+     "en": "Piskei Tosafot: if one consecrated to the altar something on which life depends the whole is consecrated, but not for a blemished animal or consecration of value."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 220:12",
+     "quote": "ה\"ז מכר חציו וכן הדין בכל אבר שהנשמה תלויה בו",
+     "he": "השולחן ערוך: האומר ״ראש עבד זה או ראש חמור זה אני מוכר לך״ מכר חציו, וכן בכל אבר שהנשמה תלויה בו; ״יד עבד״ משמנים ביניהם.",
+     "en": "The Shulchan Arukh: one who says \"I sell you this slave's head or this donkey's head\" sold half, and likewise any limb on which life depends; \"this slave's hand\" they assess between them."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 220:13",
+     "quote": "לא מכר אלא הראש בלבד שהרי ראשה נמכרה תמיד בבית המטבחיים",
+     "he": "השולחן ערוך: ״ראש פרה אני מוכר לך״ לא מכר אלא הראש בלבד, שהרי ראשה נמכרת תמיד בבית המטבחיים.",
+     "en": "The Shulchan Arukh: \"I sell you the head of this cow\", he sold only the head, since its head is always sold at the slaughterhouse."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Choshen Mishpat 220:12:1",
+     "quote": "וברייתא זו נראה שחולקת על הרמב\"ם",
+     "he": "הבית יוסף מביא את הברייתא בריש ערכין ומעיר שהיא נראית חולקת על הרמב״ם, ומיישב שהרמב״ם גרס אחרת או חילק בין אבר שהנשמה תלויה בו.",
+     "en": "The Beit Yosef cites the baraita at the start of Arakhin and remarks that it seems to disagree with the Rambam, and resolves that the Rambam read it differently or distinguished a limb on which life depends."
+    },
+    {
+     "who": {
+      "he": "דרישה",
+      "en": "Drisha"
+     },
+     "ref": "Drisha, Choshen Mishpat 220:12:1",
+     "quote": "עיין בב\"י שהקשה עליה מברייתא דריש ערכין",
+     "he": "הדרישה מביא שהבית יוסף הקשה על הרמב״ם מהברייתא בריש ערכין, ומבאר את דברי ב״י.",
+     "en": "The Drisha cites that the Beit Yosef challenged the Rambam from the baraita at the start of Arakhin, and explains the Beit Yosef's words."
+    },
+    {
+     "who": {
+      "he": "באר הגולה",
+      "en": "Be'er HaGolah"
+     },
+     "ref": "Be'er HaGolah on Shulchan Arukh, Choshen Mishpat 220:23",
+     "quote": "וכ' ה\"ה ולא מצאתי אותו בגמרתינו וראוי להיות בירושלמי במס' ערכין",
+     "he": "באר הגולה מביא שה״ה כתב שלא מצא דין זה בגמרא שלנו וראוי להיות בירושלמי במסכת ערכין.",
+     "en": "The Be'er HaGolah cites the Maggid Mishneh as writing he did not find this in our Gemara and it should be in the Yerushalmi on Arakhin."
+    },
+    {
+     "who": {
+      "he": "ציוני מהר״ן",
+      "en": "Tziunei Maharan"
+     },
+     "ref": "Tziunei Maharan on Mishneh Torah, Sales 27:8:1",
+     "quote": "אבל באמת נמצא כן בגמרתנו בערכין דף ד' ע\"ב",
+     "he": "ציוני מהר״ן משיב שדין זה נמצא בגמרא שלנו בערכין ד׳ ע״ב, ומהתוספתא.",
+     "en": "The Tziunei Maharan answers that this law is in fact found in our Gemara on Arakhin 4b, and from the Tosefta."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Appraisals and Devoted Property 5:14:1",
+     "quote": "דבפ\"ק דערכין תירצו הא בקדושת הגוף הא בקדושת דמים",
+     "he": "לחם משנה: בפרק ראשון של ערכין תירצו ״הא בקדושת הגוף הא בקדושת דמים״, והוא מקשה על כסף משנה בדברי הרמב״ם.",
+     "en": "The Lechem Mishneh: in the first chapter of Arakhin they resolved \"this is sanctity of the body, this is sanctity of value\", and he uses it to question the Kessef Mishneh on the Rambam."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Choshen Mishpat 220:10",
+     "quote": "ישומו אותו אבר לאיזה מלאכה הוא ראוי ולפי שויו יטול",
+     "he": "ערוך השולחן: באמר ״יד עבד זה״ ישומו אותו אבר לאיזה מלאכה הוא ראוי ולפי שוויו יטול, ובראש פרה לא מכר אלא ראשה.",
+     "en": "Arukh HaShulchan: for \"this slave's hand\" they assess the limb for the work it is fit for and he takes according to its worth, and for a cow's head he sold only the head."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura V 73:4",
+     "quote": "ראש עבד זה הקדש הוא והקדש שותפין בו ראש עבד מכור לך משמנין ביניהם",
+     "he": "שואל ומשיב מביא את הברייתא בערכין ד׳ ע״ב, שבהקדש נאמר ״שותפין״ ובמכירה ״משמנין״, ודן בה לענין חלוקת נכסים.",
+     "en": "Shoel uMeshiv cites the baraita in Arakhin 4b, which says \"partners\" for consecration and \"assess\" for sale, and discusses it regarding dividing property."
+    }
+   ]
+  }
+ ]
+}
