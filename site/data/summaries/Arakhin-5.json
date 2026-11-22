@@ -1,0 +1,1407 @@
+{
+ "ref": "Arakhin 5",
+ "date": "2026-11-22",
+ "he": {
+  "overview": "דף ה׳ בערכין עוסק בגבולות ההקדש והערכין. עמוד א׳ מסיים את הדיון בהקדיש אבר לדמיו ובבעיות רבה, רבא ורב אשי בדמים, ערכין ושדה אחוזה למזבח, ואחר כך פותח את המשנה ״פחות מבן חדש נידר אבל לא נערך״ ואת מחלוקת רבי מאיר וחכמים אם ״אדם מוציא דבריו לבטלה״. עמוד ב׳ מוסיף על ״ערך כלי עלי״ ועל המקדיש בהמת חבירו, ואחר כך על נכרי: רבי מאיר — נערך ולא מעריך, רבי יהודה — מעריך ולא נערך, ודברי רבא על ״הלכתיה וטעמיה״ ועל ״לא לכם ולנו״. הראשונים והאחרונים דנים בעיקר בגדר קדושת הגוף וקדושת דמים, בסברת ״אין אדם מוציא דבריו לבטלה״, ובטעמי המחלוקת בדין נכרי.",
+  "title": "סיכום — ערכין ה׳"
+ },
+ "en": {
+  "overview": "Arakhin 5 deals with the limits of dedication and valuation. Amud a finishes the discussion of sanctifying a limb for its value and of the questions of Rabba, Rava and Rav Ashi about monetary pledges, valuations and an ancestral field for the altar, then opens the mishnah \"under a month can be vowed but not valued\" and the dispute of R. Meir and the Sages whether a person utters words in vain. Amud b adds \"the valuation of an object is upon me\" and sanctifying a neighbor's animal, then the gentile: R. Meir — valued but does not value, R. Yehuda — values but is not valued, with Rava's remarks on the ruling and reasoning and on \"not for you and us.\" The Rishonim and Acharonim focus on bodily versus monetary sanctity, on the principle that a person does not utter words in vain, and on the reasons behind the dispute about a gentile.",
+  "title": "Summary — Arakhin 5"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "בקדושת הגוף"
+   ],
+   "he": {
+    "term": "קדושת הגוף וקדושת דמים",
+    "explanation": "קדושת הגוף חלה על הבהמה עצמה והיא עצמה קרבה למזבח; קדושת דמים חלה על דמיה, והיא נמכרת ובדמיה מביאים קרבן. ההבדל קובע אם הקדושה פושטת בכל הבהמה."
+   },
+   "en": {
+    "term": "Bodily sanctity vs. monetary sanctity",
+    "explanation": "Bodily sanctity takes hold of the animal itself, which is then offered on the altar; monetary sanctity takes hold of its value, so it is sold and an offering is brought with the proceeds. The difference determines whether sanctity spreads through the whole animal."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 5a:4",
+    "quote": "אי אקדשיה לראש בהמה בקדושת דמים למזבח שימכר ויקח בדמיו קרבן למזבח"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "מקדיש זכר לדמיו"
+   ],
+   "he": {
+    "term": "מיגו",
+    "explanation": "טענת ״מיגו״ היא שמאחר שהקדושה חלה על דבר אחד, היא חלה גם על דבר נוסף. כאן: מיגו דנחתא קדושת דמים — נחתא קדושת הגוף. הגמרא אומרת שבהקדיש אבר אחד אין אומרים זאת, כי שני ״מיגו״ אין אומרים יחד."
+   },
+   "en": {
+    "term": "Migo",
+    "explanation": "The \"migo\" argument holds that since sanctity takes effect in one respect, it takes effect in another too. Here: since monetary sanctity descended, bodily sanctity descends. In the case of one limb we do not apply it, since we do not use two migo arguments together."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 5a:6:1",
+    "quote": "מיגו דנחתא ליה קדושת דמים נחתא ליה קדושת הגוף"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 11,
+   "anchors": [
+    "נידון בכבודו"
+   ],
+   "he": {
+    "term": "נידון בכבודו",
+    "explanation": "השאלה אם האומר ״דמי ראשי לגבי מזבח״ נותן את דמי כל גופו לפי כבודו, או רק דמי הראש. מבעיות רבה שנשארו בתיקו."
+   },
+   "en": {
+    "term": "Assessed by his dignity",
+    "explanation": "The question whether one who says \"the value of my head is for the altar\" gives the value of his whole body according to his dignity, or only the value of the head. One of Rabba's questions left unresolved."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 5a:11",
+    "quote": "דאבר ויהיב דמי כוליה גופיה למזבח"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "נידון בהשג יד"
+   ],
+   "he": {
+    "term": "הערכה לפי השג יד",
+    "explanation": "בערכין, העני נותן פחות לפי מה שידו משגת. הבעיה היא אם גם האומר ״ערכי עלי לגבי מזבח״ נידון כך."
+   },
+   "en": {
+    "term": "Assessment by one's means",
+    "explanation": "In valuation pledges, a poor person pays less according to what he can afford. The question is whether one who says \"my valuation is upon me for the altar\" is assessed this way as well."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 5:19",
+    "quote": "דבר ספק אם נדון בהשג יד הואיל והוציאו בלשון ערך"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 16,
+   "anchors": [
+    "נידר",
+    "נערך"
+   ],
+   "he": {
+    "term": "דמים לעומת ערכין",
+    "explanation": "״דמים״ הוא שווי האדם כעבד הנמכר בשוק; ״ערך״ הוא הסכום הקצוב בתורה לפי גיל ומין, ונאמר רק מבן חודש ומעלה. לכן פחות מבן חדש נידר אבל לא נערך."
+   },
+   "en": {
+    "term": "Value (damim) vs. valuation (erekh)",
+    "explanation": "\"Damim\" is a person's worth as a slave sold in the market; \"erekh\" is the fixed sum set by the Torah by age and sex, stated only for one a month old and above. Hence one under a month can be pledged by value but not valued."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 1:9",
+    "quote": "הדמים אינן כערכין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 18,
+   "anchors": [
+    "אֵין אָדָם מוֹצִיא דְּבָרָיו לְבַטָּלָה"
+   ],
+   "he": {
+    "term": "אין אדם מוציא דבריו לבטלה",
+    "explanation": "עקרון שלפיו אדם יודע מה הוא אומר, ולכן כשאמר ״ערך״ על מי שאין לו ערך — התכוון לדמים. רבי מאיר סבור כן, וחכמים חולקים."
+   },
+   "en": {
+    "term": "\"A person does not utter his words in vain\"",
+    "explanation": "The principle that a person means what he says, so when he said \"valuation\" about one with no valuation, he meant value. R. Meir holds this and the Sages disagree."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 5a:19:1",
+    "quote": "דאמר אין אדם מוציא דבריו לבטלה ואדם יודע דאין ערך לכלי"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "נֶעֱרָךְ",
+    "מַעֲרִיךְ"
+   ],
+   "he": {
+    "term": "נערך ומעריך",
+    "explanation": "״נערך״ הוא מי שאחרים אומרים ״ערכו עלי״ עליו; ״מעריך״ הוא האומר ״ערכי עלי״ או ״ערך פלוני עלי״. רבי מאיר ורבי יהודה נחלקים אם נכרי יכול להיות כל אחד מהם."
+   },
+   "en": {
+    "term": "Nearekh and ma'arikh",
+    "explanation": "A \"nearekh\" is the person whose valuation another pledges; a \"ma'arikh\" is the one who pledges, saying \"my valuation\" or \"so-and-so's valuation is upon me.\" R. Meir and R. Yehuda dispute which role a gentile may have."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 5b:7:2",
+    "quote": "אבל אם אמר העובד כוכבים ערכי עלי או ערך אחרים עלי לא אמר כלום"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 20,
+   "anchors": [
+    "מִשּׁוּם רִפְיוֹן יָדַיִם"
+   ],
+   "he": {
+    "term": "רפיון ידים",
+    "explanation": "הטעם שדחו את הנכרים מלבנות את בית שני: לא התכוונו לטובה אלא להחליש את ידי העם ולעכב את הבנייה."
+   },
+   "en": {
+    "term": "Weakening of hands (rifyon yadayim)",
+    "explanation": "The reason the gentiles were turned away from building the Second Temple: they did not mean well but to weaken the people's hands and delay the building."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 5b:20:2",
+    "quote": "משום שלא היו מתכוונים לטובה אלא שיסמכו גם עליהם"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    3
+   ],
+   "he": {
+    "title": "״רגלה של זו עולה״ — האם נתקדשה כולה?",
+    "gemara": "הברייתא דורשת מ״כל אשר יתן ממנו לה׳ יהיה קודש״: האומר ״רגלה של זו עולה״ — לא כולה עולה, אך גם אינה יוצאת לחולין. לרבי מאיר היא נמכרת לצורכי עולות, והדמים חולין חוץ מדמי אותו אבר. רבי יהודה, רבי יוסי ורבי שמעון למדים מאותו פסוק לרבות את כולה, והגמרא מסייגת אף את דעת המחייבים לדבר שאין הנשמה תלויה בו.",
+    "halakha": "הרמב״ם (הל׳ מעשה הקרבנות ט״ו:ב) פוסק שהאומר ידה או רגלה של זו עולה — תמכר לחייבי עולות והדמים חולין חוץ מדמי האבר, ואילו באבר שהנשמה תלויה בו כולה עולה."
+   },
+   "en": {
+    "title": "\"The leg of this animal is an olah\" — is the whole animal sanctified?",
+    "gemara": "The baraita expounds \"everything he gives of it to the Lord shall be holy\": one who says \"the leg of this animal is an olah\" does not make all of it an olah, yet it does not go out to ordinary status either. According to R. Meir it is sold for the needs of olot and its proceeds are ordinary, except the price of that limb. R. Yehuda, R. Yosei and R. Shimon derive from the same verse that all of it is included, and the Gemara limits even the first view to an item on which life does not depend.",
+    "halakha": "Rambam (Sacrificial Procedure 15:2) rules that one who says the hand or leg of this animal is an olah, it is sold to those obligated in olot and its proceeds are ordinary except the price of the limb, while for a limb on which life depends the whole animal is an olah."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:2:1",
+     "quote": "דהא לא אקדיש גופה",
+     "he": "רש״י: תימכר לצורכי עולה ודמיה חולין, שהרי לא הקדיש את גופה.",
+     "en": "Rashi: it is sold for the needs of an olah and its proceeds are ordinary, since he did not sanctify its body."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:2:2",
+     "quote": "כיון דנחתא ליה קדושת הגוף אינו רשאי למוכרה",
+     "he": "רש״י: ״חוץ מדמי אבר״ — כיון שחלה על האבר קדושת הגוף, אינו רשאי למוכרה, ואם מכרה אינה מכורה.",
+     "en": "Rashi on \"except the price of the limb\": since bodily sanctity has descended on it, he may not sell it, and if he sold it, it is not sold."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5a:2:1",
+     "quote": "כגון דאמר הרי עלי עולה בחייה",
+     "he": "תוספות שואלים: וכי לוקח זה מקריב עולה חסרה אבר? ומתרצים מהגמרא בתמורה: כגון שאמר ״הרי עלי עולה בחייה״.",
+     "en": "Tosafot ask whether the buyer offers an olah missing a limb, and answer from Temurah: where he said \"I take upon myself an olah while it is alive.\""
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:3",
+     "quote": "שהקדיש שדמיו יהא קדוש",
+     "he": "רבינו גרשום: ״חוץ מדמי אותו אבר״ — דמי האבר שהקדיש הם הקדושים.",
+     "en": "Rabbeinu Gershom: \"except the price of that limb\" — the price of the limb he sanctified remains holy."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:9:1",
+     "quote": "אמר רגלה של זו עולה",
+     "he": "רש״י על הפסוק בויקרא מביא את דין הברייתא: אמר רגלה של זו עולה — תימכר לצורכי עולה והדמים חולין חוץ מדמי האבר.",
+     "en": "Rashi on the verse in Leviticus cites the baraita's law: one who says the leg of this animal is an olah — it is sold for olot and the proceeds are ordinary except the price of the limb."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sacrificial Procedure 15:2",
+     "quote": "תמכר לחייבי עולות",
+     "he": "הרמב״ם: האומר ידה או רגלה של זו עולה — תמכר לחייבי עולות, ודמיה חולין חוץ מדמי אותו אבר.",
+     "en": "Rambam: one who says the hand or leg of this animal is an olah — it is sold to those obligated in olot, and its proceeds are ordinary except the price of that limb."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 5a:1",
+     "quote": "נראה דר\"ל ע\"י פדיון",
+     "he": "רש״ש: ״יכול תצא לחולין״ — נראה שהכוונה על ידי פדיון.",
+     "en": "Rashash: \"Might it go out to ordinary status?\" — it appears this means through redemption."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 5a:3",
+     "quote": "ואם מכרה אינה מכורה",
+     "he": "רש״ש מציין לדברי רש״י ״ואם מכרה אינה מכורה״ ושולח לפסחים.",
+     "en": "Rashash cites Rashi's \"if he sold it, it is not sold\" and refers to Pesachim."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 5a:2",
+     "quote": "חוץ מדמי אבר שלא יקבל דמיו",
+     "he": "יעב״ץ מגיה בדברי רש״י: ״חוץ מדמי אבר שלא יקבל דמיו״.",
+     "en": "Ya'avetz emends Rashi to read: \"except the price of the limb, that he shall not receive its price.\""
+    },
+    {
+     "who": {
+      "he": "העמק דבר",
+      "en": "Haamek Davar"
+     },
+     "ref": "Haamek Davar on Leviticus 27:8:2",
+     "quote": "אינו יוצא מידי מזבח לעולם ואסור לפדותו כשהוא תם",
+     "he": "העמק דבר: הרמב״ם כתב שעיקר משמעות המקרא היא שאפילו הקדיש לבדק הבית אינו יוצא מידי מזבח לעולם, ואסור לפדותו כשהוא תם.",
+     "en": "Haamek Davar: Rambam wrote that the plain meaning of the verse is that even if he sanctified it for the Temple fund it never leaves the altar's domain, and it is forbidden to redeem it while unblemished."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    4,
+    7
+   ],
+   "he": {
+    "title": "קדושת הגוף וקדושת דמים, ו״מיגו״",
+    "gemara": "הגמרא מיישבת את הסתירה: דברי הברייתא ש״פשטה קדושה בכולה״ בקדושת הגוף, ו״אין להקדש אלא ראשה״ בקדושת דמים. מקשים מדברי רבא שהקדיש זכר לדמיו — קדוש קדושת הגוף, ומשיבים: בהקדיש כולה — כן, בהקדיש אבר אחד — לא. אך גם באבר אחד יש בעיה של רבה: ״הקדיש אבר לדמיו מהו״.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין ה:יד): המקדיש בהמה תמימה לדמיה — נתקדש גופה; והקדיש אבר לדמיו — ספק אם פשטה קדושה בכולה."
+   },
+   "en": {
+    "title": "Bodily vs. monetary sanctity, and the \"migo\" argument",
+    "gemara": "The Gemara resolves the contradiction: the baraita's \"sanctity spreads to all of it\" speaks of bodily sanctity, while \"the Temple has only its head\" speaks of monetary sanctity. The Gemara objects from the master's ruling that one who sanctifies a male animal for its value gives it bodily sanctity, and answers: when he sanctified the whole animal, yes; when he sanctified one limb, no. But even for one limb Rabba raised a question: \"if he sanctified a limb for its value, what is the law?\"",
+    "halakha": "Rambam (Appraisals 5:14): one who sanctifies an unblemished animal for its value — its body is sanctified; if he sanctified one limb for its value, it is a doubt whether the sanctity spread to all of it."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:4:1",
+     "quote": "בדבר שאין הנשמה תלויה בו כגון מן הארכובה ולמטה",
+     "he": "רש״י: ״ואפילו למ״ד כו׳״ — לא נחלקו רבי מאיר ורבי יהודה אלא בדבר שאין הנשמה תלויה בו, כגון מן הארכובה ולמטה.",
+     "en": "Rashi: R. Meir and R. Yehuda dispute only about something on which life does not depend, such as below the knee."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:5:2",
+     "quote": "דאמר ראש בהמה זו עלי לדמי עולה",
+     "he": "רש״י: הברייתא שאין להקדש אלא ראשה עוסקת במי שאמר ״ראש בהמה זו עלי לדמי עולה״, לעומת קדושת הגוף שאמר ״ראש בהמה זו אקריב עולה״.",
+     "en": "Rashi: the baraita that the Temple has only its head speaks of one who said \"the head of this animal is upon me for the value of an olah,\" as opposed to bodily sanctity."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:7:2",
+     "quote": "דתרי מיגו לא אמרינן יחד",
+     "he": "רש״י: בהקדיש אבר אחד לא אומרים שיקדש כולו, כי שני ״מיגו״ אין אומרים יחד.",
+     "en": "Rashi: when he sanctified one limb we do not say all of it is sanctified, since we do not apply two \"migo\" arguments together."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:4",
+     "quote": "דאי אפשר לשחוט הראש לשם עולה והגוף לשם חולין דהא אין שוחטין חולין בעזרה",
+     "he": "רבינו גרשום: בקדושת הגוף פשטה הקדושה בכולה, כי אי אפשר לשחוט את הראש לשם עולה ואת הגוף לשם חולין, שהרי אין שוחטין חולין בעזרה.",
+     "en": "Rabbeinu Gershom: with bodily sanctity the sanctity spreads to all, because one cannot slaughter the head as an olah and the body as ordinary, since ordinary animals are not slaughtered in the Temple court."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:6",
+     "quote": "לקדושת דמים קדשה קדושת הגוף",
+     "he": "רבינו גרשום: במקדיש את כולה לקדושת דמים — קדשה קדושת הגוף.",
+     "en": "Rabbeinu Gershom: where he sanctified all of it for monetary sanctity, it became bodily-sanctified."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:7",
+     "quote": "לקדושת דמים לא קדיש קדושת הגוף",
+     "he": "רבינו גרשום: במקדיש אבר אחד לקדושת דמים — לא קדש קדושת הגוף.",
+     "en": "Rabbeinu Gershom: where he sanctified one limb for monetary sanctity, it did not become bodily-sanctified."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5a:6:1",
+     "quote": "שלא אמר אביי מר לרבא חבירו",
+     "he": "תוספות: מכאן משמע שגורסים ״רבה״, שהרי אביי לא היה אומר ״מר״ לרבא חברו.",
+     "en": "Tosafot: this shows the reading is \"Rabba,\" since Abaye would not call his colleague Rava \"master.\""
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 5:14",
+     "quote": "המקדיש בהמה תמימה לדמיה הרי זו נתקדש גופה",
+     "he": "הרמב״ם: המקדיש בהמה תמימה לדמיה — נתקדש גופה; ואם הקדיש אבר לדמיו — ספק אם פשטה קדושה בכולה.",
+     "en": "Rambam: one who sanctifies an unblemished animal for its value — its body is sanctified; if he sanctified a limb for its value, it is a doubt whether the sanctity spread."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Appraisals and Devoted Property 5:14:1",
+     "quote": "דבפ\"ק דערכין תירצו הא בקדושת הגוף הא בקדושת דמים",
+     "he": "הלחם משנה מקשה על דברי הכסף משנה ומציין שבגמרא בערכין תירצו: זו בקדושת הגוף וזו בקדושת דמים.",
+     "en": "Lechem Mishneh objects to the Kessef Mishneh's approach, noting that in Arakhin they answered: this is bodily sanctity and that is monetary sanctity."
+    },
+    {
+     "who": {
+      "he": "שורשי הים",
+      "en": "Shorshei HaYam"
+     },
+     "ref": "Shorshei HaYam on Mishneh Torah, Appraisals and Devoted Property 5:14:1",
+     "quote": "מיגו דחייל אכולה קדושת דמים חייל אקדושת הגוף",
+     "he": "שורשי הים מבאר: אומרים ״מיגו דחייל אכולה קדושת דמים חייל אקדושת הגוף״.",
+     "en": "Shorshei HaYam explains: we say that since monetary sanctity takes effect on all of it, bodily sanctity takes effect."
+    },
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Appraisals and Devoted Property 5:16:1",
+     "quote": "אין להקדש אלא ראשה מיירי בהקדיש בעל מום",
+     "he": "שער המלך: הברייתא ״אין להקדש אלא ראשה״ עוסקת בהקדיש בעל מום.",
+     "en": "Sha'ar HaMelekh: the baraita \"the Temple has only its head\" speaks of one who sanctified a blemished animal."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 5a:5",
+     "quote": "נ\"ל לסרס המיגות וכמש\"כ לקמן",
+     "he": "רש״ש: נראה לו לסרס את ה״מיגות״ בדברי רש״י, כפי שכתב להלן.",
+     "en": "Rashash: it seems to him the \"migo\" arguments in Rashi should be transposed, as he writes below."
+    },
+    {
+     "who": {
+      "he": "הר המוריה",
+      "en": "Har HaMoriyah"
+     },
+     "ref": "Har HaMoriyah on Mishneh Torah, Trespass 4:2:1",
+     "quote": "דרבינו מפרש דהאיבעיא הוי אליבא דרבנן",
+     "he": "הר המוריה: אולי הרמב״ם מפרש שהאיבעיא היא לשיטת רבנן.",
+     "en": "Har HaMoriyah: perhaps Rambam understands the question as according to the Rabbis."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 67:1",
+     "quote": "וקשה להעמיד דבריו עם פלוגתא זו",
+     "he": "המלבי״ם: קשה להעמיד את פירוש הרמב״ם בפסוק עם מחלוקת זו, העוסקת בהקדיש למזבח.",
+     "en": "Malbim: it is difficult to square Rambam's reading of the verse with this dispute, which deals with sanctifying for the altar."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    8,
+    12
+   ],
+   "he": {
+    "title": "איבעיות רבה: ״דמי ראשי לגבי מזבח״",
+    "gemara": "גם באבר אחד לא נפשטה הבעיא, והגמרא מעמידה אותה בבעל מום, כחמור. רבה שאל: האומר ״דמי ראשי לגבי מזבח״ — נידון בכבודו, או אינו נידון בכבודו? ולא אשכחן ... — תיקו. לדעת הגמרא, מאז ששמענו את המשנה אין צורך בבעיא.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין ה:יז): האומר ״ראשי הקדש למזבח״ — אינו חייב אלא בדמי ראשו, ורואים כמה היה שווה אותו אבר אילו נמכר."
+   },
+   "en": {
+    "title": "Rabba's questions: \"the value of my head for the altar\"",
+    "gemara": "The question was not resolved even for a single limb, and the Gemara places it with a blemished animal, like a donkey. Rabba asked: one who says \"the value of my head is for the altar\" — is it assessed by his dignity or not? It stays unresolved (teiku). The Gemara notes that now that we have heard the mishnah, the question no longer arises.",
+    "halakha": "Rambam (Appraisals 5:17): one who says \"my head is dedicated to the altar\" owes only the value of his head, assessed by what that limb would sell for."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:9:1",
+     "quote": "בבעל מום קא מיירי דומיא דעבד וחמור",
+     "he": "רש״י: הברייתא שפשוט לה שלא קדשה כולה עוסקת בבעל מום, כעבד וחמור שאינם ראויים להקרבה.",
+     "en": "Rashi: the baraita that is clear the whole did not become sanctified speaks of a blemished animal, like a slave or donkey, which are unfit for offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:11:1",
+     "quote": "והרי אין לך בעל מום למזבח גדול מזה שהוא אדם",
+     "he": "רש״י: אין בעל מום למזבח גדול יותר מאדם, ובכל זאת מסתפק בו רבה.",
+     "en": "Rashi: there is no greater blemished one for the altar than a person, and nonetheless Rabba is uncertain."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:12:1",
+     "quote": "לא אשכחן נדר בשום דוכתא דאין נידון בכבודו",
+     "he": "רש״י: לא מצאנו נדר בשום מקום שאינו נידון בכבודו, או שלא מצאנו לגבי מזבח כך.",
+     "en": "Rashi: we have not found a vow anywhere that is not assessed by the person's dignity, or else we have not found this for the altar."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:9",
+     "quote": "אין לך בעל מום לגבי מזבח יותר מאדם",
+     "he": "רבינו גרשום: אין בעל מום לגבי מזבח יותר מאדם.",
+     "en": "Rabbeinu Gershom: there is no greater blemished one regarding the altar than a person."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:11",
+     "quote": "דאבר ויהיב דמי כוליה גופיה למזבח",
+     "he": "רבינו גרשום: ״נידון בכבודו״ — שיתן דמי כל גופו למזבח.",
+     "en": "Rabbeinu Gershom: \"assessed by his dignity\" — that he gives the value of his whole body to the altar."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:12",
+     "quote": "לא אשכחן בעל מום לגבי מזבח דנידון בכבודו",
+     "he": "רבינו גרשום: או שלא מצאנו בעל מום לגבי מזבח שנידון בכבודו.",
+     "en": "Rabbeinu Gershom: or we have not found a blemished one regarding the altar that is assessed by his dignity."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 5:17",
+     "quote": "אינו חייב אלא בדמי ראשו",
+     "he": "הרמב״ם: האומר ״ראשי הקדש למזבח״ אינו חייב אלא בדמי ראשו.",
+     "en": "Rambam: one who says \"my head is dedicated to the altar\" owes only the value of his head."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5a:10:1",
+     "quote": "היינו מקמי דלשמעינן מתני' דלעיל כדמסקינן",
+     "he": "תוספות: זו הייתה הבעיא לפני ששמענו את המשנה, כפי שמסקנת הגמרא.",
+     "en": "Tosafot: this question was before we heard the mishnah above, as the Gemara concludes."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5a:11:1",
+     "quote": "צריך עיון אמאי לא נקט ערך ראשי לגבי מזבח",
+     "he": "תוספות: צריך עיון מדוע לא נקט ״ערך ראשי לגבי מזבח״ כמו בבעיא שלאחריה.",
+     "en": "Tosafot: it requires study why he did not say \"the valuation of my head for the altar,\" as in the next question."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 5a:6",
+     "quote": "היינו מקמי דלשמע מתני' כצ\"ל",
+     "he": "יעב״ץ מגיה בתוספות: ״היינו מקמי דלשמע מתני׳״.",
+     "en": "Ya'avetz emends Tosafot to read \"this was before hearing the mishnah.\""
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    13,
+    15
+   ],
+   "he": {
+    "title": "ערכי עלי למזבח, ושדה אחוזה למזבח",
+    "gemara": "רבא שואל: האומר ״ערכי עלי לגבי מזבח״ — נידון בהשג יד או לא. ורב אשי שואל: הקדיש שדה אחוזה לגבי מזבח, האם נפדית ב״בית זרע חומר שעורים בחמשים שקל כסף״ או בשוויה. שתי השאלות נשארו ב״תיקו״.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין ה:יט): האומר ״ערכי עלי למזבח״ ואין ידו משגת — דבר ספק אם נדון בהשג יד."
+   },
+   "en": {
+    "title": "\"My valuation is upon me for the altar,\" and an ancestral field for the altar",
+    "gemara": "Rava asks about one who says \"my valuation is upon me for the altar\": is he assessed by his means? Rav Ashi asks about one who sanctified an ancestral field for the altar: is it redeemed at the fixed rate of fifty silver shekels per seed-measure of barley, or at its value? Both remain unresolved (teiku).",
+    "halakha": "Rambam (Appraisals 5:19): one who says \"my valuation is upon me for the altar\" and cannot afford the full amount — it is a doubt whether he is assessed by his means."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:13:1",
+     "quote": "גבי נדר ונדבה כי האי",
+     "he": "רש״י: ״נידון בהשג יד״ — כמו בנדר ונדבה.",
+     "en": "Rashi: \"assessed by his means\" — as with a vow or a freewill offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:15:2",
+     "quote": "בית זרע חומר שעורים בחמשים שקל כסף",
+     "he": "רש״י: אילו הקדישה לבדק הבית הייתה נפדית ב״בית זרע חומר שעורים בחמשים שקל כסף״, גזירת הכתוב, אפילו שווה אלף זוז.",
+     "en": "Rashi: had he sanctified it to the Temple fund it would be redeemed at \"a homer of barley seed for fifty shekels of silver,\" a scriptural decree, even if worth a thousand zuz."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:15:3",
+     "quote": "לא אשכחן למזבח אלא בשויו",
+     "he": "רש״י: או שלא מצאנו למזבח פדיון אלא בשוויו.",
+     "en": "Rashi: or we have not found redemption for the altar except at its value."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:13",
+     "quote": "נידון בהשג יד. כדאמרן לעיל",
+     "he": "רבינו גרשום: ״נידון בהשג יד״ — כפי שאמרנו לעיל.",
+     "en": "Rabbeinu Gershom: \"assessed by his means\" — as we said above."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 5:19",
+     "quote": "דבר ספק אם נדון בהשג יד הואיל והוציאו בלשון ערך",
+     "he": "הרמב״ם: ספק אם נדון בהשג יד, הואיל והוציאו בלשון ערך, או שאינו נדון בהשג יד הואיל ולמזבח נדר.",
+     "en": "Rambam: it is a doubt whether he is assessed by his means because he phrased it as a valuation, or not because he vowed for the altar."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Appraisals and Devoted Property 5:19:1",
+     "quote": "הכל פ\"ק דערכין",
+     "he": "מגדל עוז: כל דינים אלו מקורם בפרק הראשון של ערכין.",
+     "en": "Migdal Oz: all of these laws derive from the first chapter of Arakhin."
+    }
+   ],
+   "acharonim": []
+  },
+  {
+   "amud": "a",
+   "lines": [
+    16,
+    20
+   ],
+   "he": {
+    "title": "המערך פחות מבן חדש — רבי מאיר וחכמים",
+    "gemara": "המשנה: פחות מבן חדש נידר אבל לא נערך. בברייתא: המעריך פחות מבן חדש — רבי מאיר: נותן דמיו; חכמים: לא אמר כלום. הם נחלקים אם ״אדם מוציא דבריו לבטלה״. רבי מאיר סבור שלא, ולכן יודע שאין ערך לפחות מבן חדש וגמר ואמר לשם דמים.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין א:ג): האומר ״ערך [בן שלושים יום או פחות] עלי״ כאומר ״ערך כלי זה עלי״ ואינו חייב כלום."
+   },
+   "en": {
+    "title": "Valuing a child under a month — R. Meir and the Sages",
+    "gemara": "The mishnah: one under a month old can be the subject of a vow of value (neder) but not of a valuation (erekh). In the baraita: one who declares the valuation of a child under a month — R. Meir says he gives the child's value; the Sages say he said nothing. They differ on whether \"a person utters words in vain.\" R. Meir holds not, so the speaker knows there is no valuation for such a child and meant to pledge his market value.",
+    "halakha": "Rambam (Appraisals 1:3): one who says \"the valuation of [one aged thirty days or less] is upon me\" is like one who says \"the valuation of this utensil is upon me,\" and owes nothing."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:16:1",
+     "quote": "שהרי דמים כל דהו יש לו",
+     "he": "רש״י: ״נידר״ — אם אמר ״דמיו עלי״, שהרי דמים כלשהו יש לו.",
+     "en": "Rashi: \"can be vowed\" — if he said \"his value is upon me,\" since he has some value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:16:2",
+     "quote": "שלא נאמר בפרשה אלא מבן חודש ומעלה",
+     "he": "רש״י: ״לא נערך״ — שלא נאמר בפרשה אלא מבן חודש ומעלה.",
+     "en": "Rashi: \"not valued\" — since the passage speaks only of one a month old and above."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:17:1",
+     "quote": "כמה שהוא נמכר בשוק",
+     "he": "רש״י: ״נותן דמיו״ — כמה שהוא נמכר בשוק.",
+     "en": "Rashi: \"he gives his value\" — what he would sell for in the market."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5a:20:1",
+     "quote": "אבל זה סבור היה שיש ערך לפחות מבן חדש כבן חדש",
+     "he": "רש״י: לרבנן, מי שמעריך פחות מבן חדש סבור היה שיש לו ערך כבן חדש, והרי אין לו, והקדש טעות הוא.",
+     "en": "Rashi: according to the Sages, one who values a child under a month thought it has a valuation like a month-old, which is not so, so it is a mistaken pledge."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:14",
+     "quote": "נותן דמיו שוויו",
+     "he": "רבינו גרשום: ״נותן דמיו״ — שוויו.",
+     "en": "Rabbeinu Gershom: \"he gives his value\" — meaning its worth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Gittin 39a:1:1",
+     "quote": "דאדם יודע שאין ערך לפחות מבן חדש וגמר ואמר לשם דמים",
+     "he": "רש״י בגיטין מביא את הברייתא כאן: רבי מאיר נותן דמיו, כי אדם יודע שאין ערך לפחות מבן חדש וגמר ואמר לשם דמים.",
+     "en": "Rashi on Gittin cites this baraita: R. Meir says he gives the value, because a person knows there is no valuation for one under a month and meant it as value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Ketubot 58b:10:2",
+     "quote": "דאמר אין אדם מוציא דבריו לבטלה",
+     "he": "רש״י בכתובות: רבי מאיר שמענו בערכין שאמר ״אין אדם מוציא דבריו לבטלה״.",
+     "en": "Rashi on Ketubot: we hear R. Meir in Arakhin saying that a person does not utter his words in vain."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5a:21:1",
+     "quote": "ואפילו אינו יודע מ\"מ דעתו ע\"פ שתקנו חכמים הלשון",
+     "he": "תוספות: ״אדם יודע שאין ערך״ — ואפילו אינו יודע, מכל מקום דעתו כפי שתיקנו חכמים את הלשון.",
+     "en": "Tosafot: \"a person knows there is no valuation\" — and even if he does not know, his intent follows the wording the Sages set."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 39a:1:1",
+     "quote": "אליבא דר\"מ קאמר וליה לא סבירא ליה",
+     "he": "תוספות בגיטין: רב אמר זאת אליבא דרבי מאיר, ולעצמו אינו סבור כן.",
+     "en": "Tosafot on Gittin: Rav said it according to R. Meir, but does not hold so himself."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Sanhedrin 15a:1:1",
+     "quote": "מוקי לה כר' מאיר דאמר אין אדם מוציא דבריו לבטלה ותימה",
+     "he": "תוספות בסנהדרין: בערכין מעמידה כרבי מאיר ש״אין אדם מוציא דבריו לבטלה״ — ותימה.",
+     "en": "Tosafot on Sanhedrin: in Arakhin it is placed with R. Meir that a person does not utter words in vain — and this is puzzling."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:3",
+     "quote": "הרי זה כאומר ערך כלי זה עלי ואינו חייב כלום",
+     "he": "הרמב״ם: האומר ערך בן שלושים יום או פחות עלי — הרי זה כאומר ערך כלי זה עלי ואינו חייב כלום.",
+     "en": "Rambam: one who says the valuation of one thirty days old or less is upon me is like one who says the valuation of this utensil, and owes nothing."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:9",
+     "quote": "הדמים אינן כערכין",
+     "he": "הרמב״ם: הדמים אינם כערכין; האומר ״דמי פלוני עלי״ נותן כשווי עבד הנמכר בשוק, ואפילו קטן בן יומו.",
+     "en": "Rambam: valuation by worth is unlike a fixed valuation; one who says \"so-and-so's worth is upon me\" gives the price of a slave sold in the market, even for a one-day-old."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Appraisals and Devoted Property 1:9:2",
+     "quote": "פחות מבן חדש נידר אבל לא נערך",
+     "he": "הכסף משנה: מקור דברי הרמב״ם בקטן בן יומו הוא במשנה ״פחות מבן חדש נידר אבל לא נערך״.",
+     "en": "Kessef Mishneh: the source for Rambam's ruling on a one-day-old is the mishnah \"under a month can be vowed but not valued.\""
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Appraisals and Devoted Property 1:3:1",
+     "quote": "ופסק כחכמים דס\"ל אדם מוציא דבריו לבטלה",
+     "he": "מעשה רקח: הרמב״ם פסק כחכמים שסוברים שאדם מוציא דבריו לבטלה.",
+     "en": "Maaseh Rokeach: Rambam ruled like the Sages, who hold that a person utters words in vain."
+    },
+    {
+     "who": {
+      "he": "שואל ומשיב",
+      "en": "Shoel uMeshiv"
+     },
+     "ref": "Shoel uMeshiv Mahadura I 3:180:1",
+     "quote": "ערך פחות מבן חודש עלי הרי זה כאומר ערך כלי זה עלי ואינו חייב כלום",
+     "he": "שואל ומשיב: הרמב״ם פסק בפרק ג׳ שהאומר ערך פחות מבן חודש עלי הרי זה כאומר ערך כלי ואינו חייב כלום.",
+     "en": "Shoel uMeshiv: Rambam ruled that one who says the valuation of one under a month is like one who says the valuation of a utensil and owes nothing."
+    },
+    {
+     "who": {
+      "he": "מלאכת שלמה",
+      "en": "Melekhet Shelomoh"
+     },
+     "ref": "Melekhet Shelomoh on Mishnah Arakhin 5:2:5",
+     "quote": "אין אדם מוציא דבריו לבטלה ויודע הוא שאין ערך ליד ורגל וגמר ואמר לשם דמים",
+     "he": "מלאכת שלמה: לרבי מאיר, אין אדם מוציא דבריו לבטלה ויודע שאין ערך ליד ורגל — וגמר ואמר לשם דמים.",
+     "en": "Melekhet Shelomoh: according to R. Meir a person does not utter words in vain, and knows there is no valuation for a hand or leg, so he meant value."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 5a:7",
+     "quote": "הבה\"ז נסתפק באומר ערך טומטום ואנדרוגינוס עלי לר\"מ",
+     "he": "רש״ש: ה״הבה״ז״ נסתפק באומר ערך טומטום ואנדרוגינוס עלי לרבי מאיר.",
+     "en": "Rashash: the author cited by the abbreviation Habah-Z was in doubt about one who says the valuation of a tumtum or androgynos is upon him, according to R. Meir."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Arakhin 5b:1",
+     "quote": "דאין אדם מוציא דבריו לבטלה והוא סברת ר\"מ",
+     "he": "פתח עינים: הכלל ש״אין אדם מוציא דבריו לבטלה״ הוא סברת רבי מאיר.",
+     "en": "Petach Einayim: the principle that a person does not utter words in vain is R. Meir's view."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 350:1:5",
+     "quote": "אפילו קטן בן יומו נותן כמה ששוה זה למכור בשוק",
+     "he": "מנחת חינוך: האומר ״דמי פלוני עלי״ — אפילו קטן בן יומו, נותן כמה ששווה למכור בשוק.",
+     "en": "Minchat Chinukh: one who says \"so-and-so's worth is upon me\" — even a one-day-old, gives what he is worth for sale in the market."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    21,
+    6
+   ],
+   "he": {
+    "title": "״ערך כלי עלי״ והמקדיש בהמת חבירו",
+    "gemara": "דברי רב גידל: האומר ״ערך כלי עלי״ נותן דמים כרבי מאיר. הגמרא שואלת: פשיטא! ומתרצת שרב גידל חידש שגם לרבנן אין זו טעות. גם לרבי מאיר היה צורך בכך, כי אולי טעמו שגזר פחות מבן חדש אטו בן חדש. כך גם בדברי רב על המקדיש בהמת חבירו — נותן דמיה. ורב אשי: דווקא באומר ״עלי״, לא ״הרי זו״."
+   },
+   "en": {
+    "title": "\"The valuation of an object is upon me,\" and sanctifying a neighbor's animal",
+    "gemara": "Rav Gidel's ruling: one who says \"the valuation of an object is upon me\" gives its value, following R. Meir. The Gemara asks: that is obvious! and answers that Rav Gidel taught that even the Rabbis agree here, as there is no room for error. Even for R. Meir it was needed, lest his reason was a rabbinic precaution against confusing under-a-month with a month old. Likewise Rav's ruling that one who sanctifies a neighbor's animal gives its value. Rav Ashi: only if he said \"upon me,\" not \"this is.\""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:15",
+     "quote": "דאין ערך לכלי מן התורה",
+     "he": "רבינו גרשום: ״ערך כלי עלי״ — כי אין ערך לכלי מן התורה, נותן דמיו כרבי מאיר.",
+     "en": "Rabbeinu Gershom: \"the valuation of an object\" — since the Torah sets no valuation for an object, he gives its value, like R. Meir."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5a:16",
+     "quote": "הא דרב גידל הא אשמעינן חדא זימנא דאין אדם מוציא דבריו לבטלה",
+     "he": "רבינו גרשום: את הכלל ש״אין אדם מוציא דבריו לבטלה״ כבר שמענו מדברי רב גידל פעם אחת.",
+     "en": "Rabbeinu Gershom: Rav Gidel's statement already taught us once that a person does not utter words in vain."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:1",
+     "quote": "דגזר ערך פחות מבן חדש אטו בן חדש",
+     "he": "רבינו גרשום: סלקא דעתך שטעם רבי מאיר שגזר ערך פחות מבן חדש אטו בן חדש.",
+     "en": "Rabbeinu Gershom: one might think R. Meir's reason is that he decreed the valuation of under-a-month on account of a month-old."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:1:1",
+     "quote": "הואיל ורב אליבא דר\"מ אמר ולא לרבנן למאי איצטריך",
+     "he": "רש״י: הואיל ורב אמר אליבא דרבי מאיר ולא לרבנן, למה צריך לומר שנותן דמיו.",
+     "en": "Rashi: since Rav said it according to R. Meir and not the Rabbis, why must it be stated that he gives the value."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:2",
+     "quote": "אדם יודע שאין אדם מקדיש בהמה שאינה שלו",
+     "he": "רבינו גרשום: כרבי מאיר — אדם יודע שאין מקדיש בהמה שאינה שלו וגמר ואמר לשם דמים.",
+     "en": "Rabbeinu Gershom: like R. Meir — a person knows one cannot sanctify an animal that isn't his and meant it as value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:3:1",
+     "quote": "דאדם יודע שאין הקדש חל על דבר שאינו שלו וגמר ואמר לשם דמים",
+     "he": "רש״י: ״נותן דמיה״ — כי אדם יודע שאין הקדש חל על דבר שאינו שלו וגמר ואמר לשם דמים.",
+     "en": "Rashi: \"he gives its value\" — because a person knows sanctity does not take effect on what isn't his and meant it as value."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:3",
+     "quote": "ולא קדשה לא להקרבה ולא לדמים",
+     "he": "רבינו גרשום: לא קדשה לא להקרבה ולא לדמים — ולכן נצרך לחדש שקדשה לדמים.",
+     "en": "Rabbeinu Gershom: it was sanctified neither for offering nor for value — hence the need to teach that it is sanctified for value."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:5:1",
+     "quote": "אבל דמי לא קאמר הלכך לא ליתיב מידי",
+     "he": "רש״י: כשכיוון להקדיש את גופה — אבל דמי לא קאמר, ולכן לא יתן כלום.",
+     "en": "Rashi: he meant to sanctify its body; he did not mention its value, so he should not pay anything."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:4",
+     "quote": "אבל אמר בהמה זו הקדש פטור מכלום",
+     "he": "רבינו גרשום: באמר ״בהמה זו עלי הקדש״ נותן דמיה, אבל אמר ״בהמה זו הקדש״ פטור מכלום.",
+     "en": "Rabbeinu Gershom: saying \"this animal is upon me, sanctified\" he gives its value; saying \"this animal is sanctified\" he is exempt."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:6:2",
+     "quote": "ולא אמר עלי אלא אמר הרי בהמה זו עולה לא אמר כלום",
+     "he": "רש״י: ״אבל אמר הרי זו״ — ולא אמר ״עלי״, אלא ״הרי בהמה זו עולה״ — לא אמר כלום.",
+     "en": "Rashi: \"but if he said 'this is'\" — not 'upon me' but 'this animal is an olah' — he said nothing."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property 6:33:1",
+     "quote": "דאם אמר הרי זו לא אמר כלום",
+     "he": "צפנת פענח מציין את דברי רב אשי: ״אם אמר הרי זו לא אמר כלום״.",
+     "en": "Tzafnat Pa'neach cites Rav Ashi: \"if he said 'this is,' he said nothing.\""
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Appraisals and Devoted Property 6:27:1",
+     "quote": "גבי המקדיש בהמת חבירו דאינו מחויב ליקחה ולהקדישה",
+     "he": "צפנת פענח: בהמקדיש בהמת חבירו אינו מחויב ליקחה ולהקדישה.",
+     "en": "Tzafnat Pa'neach: regarding one who sanctifies a neighbor's animal, he is not obligated to buy it and sanctify it."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    13
+   ],
+   "he": {
+    "title": "נכרי: מעריך או נערך — רבי מאיר ורבי יהודה",
+    "gemara": "במשנה: רבי מאיר — נכרי נערך אך לא מעריך; רבי יהודה — מעריך אך לא נערך; ושניהם מודים שנודרים ונידרים. הברייתא: ״בני ישראל״ ממעט ו״איש״ מרבה, וכל אחד מעמיד את הריבוי בצד שהכתוב ריבה בו יותר — רבי מאיר מחרש שוטה וקטן, רבי יהודה מטומטום ואנדרוגינוס.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין א:ו): עכו״ם נערך אבל אינו מעריך — האומר ערכי עלי או ערך ישראל זה עלי, לא אמר כלום."
+   },
+   "en": {
+    "title": "A gentile: valuing or being valued — R. Meir and R. Yehuda",
+    "gemara": "In the mishnah, R. Meir says a gentile can be valued but cannot value; R. Yehuda says he can value but cannot be valued; both agree that gentiles can vow and be vowed. The baraita: \"Israelites\" excludes and \"a man\" includes, and each places the inclusion where Scripture extended more — R. Meir from the deaf-mute, fool and minor, R. Yehuda from the tumtum and androgynos.",
+    "halakha": "Rambam (Appraisals 1:6): a gentile can be valued but cannot value — if he said \"my valuation is upon me\" or \"the valuation of this Israelite,\" he has said nothing."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:7:2",
+     "quote": "אבל אם אמר העובד כוכבים ערכי עלי או ערך אחרים עלי לא אמר כלום",
+     "he": "רש״י: ״אבל לא מעריך״ — אם אמר הנכרי ״ערכי עלי״ או ״ערך אחרים עלי״ לא אמר כלום.",
+     "en": "Rashi: \"but does not value\" — if the gentile said \"my valuation is upon me\" or \"others' valuation,\" he has said nothing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:12:1",
+     "quote": "משמע כל דהו",
+     "he": "רש״י: ״איש״ — משמע כל אדם שהוא.",
+     "en": "Rashi: \"a man\" — implies anyone at all."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5b:9:1",
+     "quote": "ואם אינו ענין למעריך תנהו לענין נערך",
+     "he": "תוספות: ״איש״ כתוב במעריך, ואם אינו עניין למעריך תנהו לעניין נערך.",
+     "en": "Tosafot: \"man\" is written regarding the one who values, and if it is not needed there, apply it to the one valued."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:5",
+     "quote": "איש מרבה עובדי כוכבים ובני ישראל ממעיט",
+     "he": "רבינו גרשום: ״איש״ מרבה עובדי כוכבים ו״בני ישראל״ ממעיט.",
+     "en": "Rabbeinu Gershom: \"a man\" includes gentiles and \"children of Israel\" excludes them."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:6",
+     "quote": "שהרי טומטום ואנדרוגינוס מעריכין אבל לא נערכין",
+     "he": "רבינו גרשום: ״מפני שריבה במעריכין יותר מן הנערכין״ — שהרי טומטום ואנדרוגינוס מעריכין אבל לא נערכין.",
+     "en": "Rabbeinu Gershom: \"because it extended more regarding those who value\" — for the tumtum and androgynos value but are not valued."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Nazir 62a:5:1",
+     "quote": "אתא איש לומר דעובד כוכבים מופלא סמוך לאיש יכול להעריך",
+     "he": "תוספות בנזיר: ״איש״ בא לומר שעובד כוכבים מופלא סמוך לאיש יכול להעריך.",
+     "en": "Tosafot on Nazir: \"man\" comes to say a gentile of age who is mature can value."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bekhorot 42a:1:1",
+     "quote": "מייתורא קדריש אבל מזכר לחודיה לא קממעט",
+     "he": "תוספות בבכורות: ״הזכר ולא טומטום ואנדרוגינוס״ נדרש מן היתור, אבל מ״זכר״ לבדו אינו ממעט.",
+     "en": "Tosafot on Bekhorot: \"the male and not a tumtum or androgynos\" is derived from the extra word, not from \"male\" alone."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:6",
+     "quote": "עכו\"ם שאמר ערכי עלי או ערך ישראל זה עלי לא אמר כלום",
+     "he": "הרמב״ם: עכו״ם שאמר ״ערכי עלי״ או ״ערך ישראל זה עלי״ לא אמר כלום; וישראל שאמר ״ערך עכו״ם זה עלי״ נותן.",
+     "en": "Rambam: a gentile who said \"my valuation is upon me\" or \"the valuation of this Israelite\" said nothing; an Israelite who said \"this gentile's valuation\" gives it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Nazir 62a:1",
+     "quote": "בכל הסוגיא מרבה כותים מחד איש בערכין",
+     "he": "רש״ש בנזיר: בכל הסוגיא מרבים כותים מ״איש״ אחד בערכין.",
+     "en": "Rashash on Nazir: throughout the passage gentiles are included from a single \"man\" in Arakhin."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 154:11:2",
+     "quote": "משום דמקבלין מהן קרבן",
+     "he": "הגר״א: מקבלים מעכו״ם משום שמקבלים מהם קרבן, כמו שכתבו תוספות בבבא בתרא.",
+     "en": "Vilna Gaon: we accept [gifts] from gentiles because we accept offerings from them, as Tosafot wrote in Bava Batra."
+    },
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Leviticus, Bechukotai 55:1",
+     "quote": "מורה שבא לרבות עכו\"ם",
+     "he": "מלבי״ם: ״איש״ מורה שבא לרבות עכו״ם, ו״בני ישראל״ בא למעט עכו״ם.",
+     "en": "Malbim: \"a man\" indicates it comes to include gentiles, and \"children of Israel\" comes to exclude them."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Leviticus 27:2:1",
+     "quote": "והראב\"ד פסק כר' יהודה ע\"פ הכלל ר\"מ ור\"י הלכה כר\"י",
+     "he": "תורה תמימה: הראב״ד פסק כרבי יהודה על פי הכלל ״ר״מ ור״י הלכה כר״י״, והרמב״ם פסק כרבי מאיר.",
+     "en": "Torah Temimah: Ra'avad ruled like R. Yehuda by the rule \"R. Meir and R. Yehuda, the law follows R. Yehuda,\" while Rambam ruled like R. Meir."
+    },
+    {
+     "who": {
+      "he": "מגדל עוז",
+      "en": "Migdal Oz"
+     },
+     "ref": "Migdal Oz on Mishneh Torah, Appraisals and Devoted Property 1:6:1",
+     "quote": "ואני אומר יפה פסק ר\"מ ז\"ל דכולה סוגיין",
+     "he": "מגדל עוז: יפה פסק הרמב״ם כרבי מאיר, כי כל הסוגיה בערכין כדברי רבא.",
+     "en": "Migdal Oz: Rambam ruled well like R. Meir, since the whole passage in Arakhin follows Rava."
+    },
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Arakhin 5b:3",
+     "quote": "חש\"ו חשיבי להו כחד דלאו בני דעה נינהו",
+     "he": "פתח עינים מביא מפירוש רבינו גרשום בכתב יד: חרש שוטה וקטן נחשבים כאחד כי אינם בני דעה.",
+     "en": "Petach Einayim cites Rabbeinu Gershom's manuscript commentary: the deaf-mute, fool and minor count as one, as they lack understanding."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Nazir 9:1:1",
+     "quote": "מקיימין שניהם למעוטי עובד כוכבים מענין אחד דערכין ולרבויי מאיש לענין אחר",
+     "he": "תוספות יום טוב: מקיימים את שניהם — למעט עובד כוכבים מעניין אחד בערכין ולרבות מ״איש״ לעניין אחר.",
+     "en": "Tosafot Yom Tov: both are upheld — excluding a gentile in one matter of Arakhin and including from \"man\" for another."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 5b:5",
+     "quote": "ממעשר בהמה חובה שאין קבוע לה זמן",
+     "he": "יעב״ץ מגיה בתוספות: ״ממעשר בהמה חובה שאין קבוע לה זמן״.",
+     "en": "Ya'avetz emends Tosafot to read \"from animal tithe, an obligation without a fixed time.\""
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    20
+   ],
+   "he": {
+    "title": "הלכתיה וטעמיה של רבא; ״לא לכם ולנו״ ורפיון ידים",
+    "gemara": "רבא: הלכתו של רבי מאיר מסתברת, וטעמו לא; טעמו של רבי יהודה מסתבר, והלכתו לא — שכן נאמר ״לא לכם ולנו לבנות את בית אלהינו״. לרבי יהודה, פסוק זה בא ללמד ש״ערכו נגנז״; והגמרא מקשה מהדין שלא מועלין בו, ולבסוף מסיקה: משום ״רפיון ידים״.",
+    "halakha": "הרמב״ם (הל׳ ערכים וחרמין א:יא): אין מקבלים מן העכו״ם נדבה או נדר לחזק את בדק הבית; (א:יב) ואם אמר ״לשמים נדרתי״ — יגנזו."
+   },
+   "en": {
+    "title": "Rava's assessment; \"not for you and us\" and weakening of hands",
+    "gemara": "Rava: R. Meir's ruling is sound but his reasoning is not; R. Yehuda's reasoning is sound but his ruling is not — for it is written \"it is not for you and us to build the house of our God.\" R. Yehuda uses that verse to teach that the valuation is hidden away; the Gemara objects from the law that no trespass applies to it, and finally concludes: because of \"weakening of hands.\"",
+    "halakha": "Rambam (Appraisals 1:11): we do not accept a freewill gift or vow from a gentile to strengthen the Temple; (1:12) if he said \"I vowed to Heaven,\" they are hidden away."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:15:2",
+     "quote": "אי לאו דהאי קרא דלא לכם ולנו",
+     "he": "רש״י: ״וטעמיה לא מסתבר״ — אפשר היה לומר שגם עובד כוכבים מעריך, אילולא הפסוק ״לא לכם ולנו״.",
+     "en": "Rashi: \"his reasoning is not sound\" — one could say a gentile also values, were it not for the verse \"not for you and us.\""
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:16:1",
+     "quote": "דהא טומטום ואנדרוגינוס דבני דעה נינהו כעובדי כוכבים ומעריכין ולא נערכין",
+     "he": "רש״י: טעמו של רבי יהודה מסתבר, כי טומטום ואנדרוגינוס בני דעה הם כעובדי כוכבים, ומעריכין ולא נערכין.",
+     "en": "Rashi: R. Yehuda's reasoning is sound, since the tumtum and androgynos are people of understanding like gentiles, and they value but are not valued."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:16:2",
+     "quote": "דערכין לבדק הבית וקרא כתיב לא לכם ולנו לבנות",
+     "he": "רש״י: הלכתו לא מסתברת, כי ערכין לבדק הבית, והכתוב אומר ״לא לכם ולנו לבנות״.",
+     "en": "Rashi: his ruling is not sound, since valuations go to the Temple fund and Scripture says \"not for you and us to build.\""
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:17:1",
+     "quote": "אלא קדוש ונגנז דאסור בהנאה",
+     "he": "רש״י: לא שאינו נכנס לבדק הבית, אלא קדוש ונגנז ואסור בהנאה.",
+     "en": "Rashi: [it is not that valuing is invalid], but it is holy and hidden away, forbidden for benefit."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:18:1",
+     "quote": "הואיל ולאיבוד אזיל לא ימעלו בו",
+     "he": "רש״י: הואיל וההקדש הולך לאיבוד, לא ימעלו בו.",
+     "en": "Rashi: since it goes to destruction, there should be no trespass on it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 5b:20:1",
+     "quote": "ודאי לבדק הבית אתי ובימי עזרא היינו טעמא דשלחו להם לא לכם ולנו",
+     "he": "רש״י: ״אלא אמר רבא״ — ודאי הוא בא לבדק הבית, ובימי עזרא זה הטעם ששלחו להם ״לא לכם ולנו״.",
+     "en": "Rashi: \"Rather Rava said\" — it surely comes to the Temple fund, and in Ezra's days that was why they sent \"not for you and us.\""
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5b:15:1",
+     "quote": "סבירא ליה קצת הן שוין הואיל ונערכין",
+     "he": "תוספות: רבי מאיר הלומד מחרש שוטה וקטן סבור שהם שווים במקצת, הואיל והם נערכים.",
+     "en": "Tosafot: R. Meir who derives from the deaf-mute, fool and minor holds they are partly alike, since they are valued."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 5b:18:1",
+     "quote": "ואמאן תרמייה דהא ודאי כרבי מאיר לא מיתוקמא",
+     "he": "תוספות: ״אלא מעתה לא ימעלו בו״ — על מי מתקיימת הברייתא? ודאי לא כרבי מאיר.",
+     "en": "Tosafot: on whom is the baraita placed? Certainly not as R. Meir."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:9",
+     "quote": "הנהו סנבלט וטוביה דהוו עובדי כוכבים לא הניחום לבנות",
+     "he": "רבינו גרשום: ״לא לכם ולנו״ נאמר על סנבלט וטוביה, שהיו עובדי כוכבים ולא הניחו אותם לבנות.",
+     "en": "Rabbeinu Gershom: \"not for you and us\" was said of Sanballat and Tobiah, gentiles who were not allowed to build."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:10",
+     "quote": "אבל נערכין שישראל יכול להעריכן דהוי ממון ישראל",
+     "he": "רבינו גרשום: אבל נערכין — שישראל יכול להעריכם, כי זה ממון ישראל.",
+     "en": "Rabbeinu Gershom: but they can be valued, since an Israelite can value them, as it is the Israelite's money."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 5b:18",
+     "quote": "שמא אם יתנדבו הן וירצו לבנות עמהם יהיו מבטלין אותם",
+     "he": "רבינו גרשום: רפיון ידים — שמא אם יתנדבו הם וירצו לבנות עמהם, יהיו מבטלים אותם.",
+     "en": "Rabbeinu Gershom: weakening of hands — lest if they contribute and wish to build with them, they would hinder them."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:11",
+     "quote": "שאין מקבלין מן העכו\"ם נדבה או נדר לחזק את בדק הבית",
+     "he": "הרמב״ם: עכו״ם שאמר ״דמי עלי״ נותן כפי נדרו ואינו נופל ללשכה, שאין מקבלין מן העכו״ם נדבה או נדר לחזק את בדק הבית.",
+     "en": "Rambam: a gentile who said \"my value is upon me\" gives according to his vow, and it does not go to the chamber, since we do not accept a gift or vow from a gentile to strengthen the Temple fund."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:12",
+     "quote": "ואם אמר לשמים נדרתי יגנזו",
+     "he": "הרמב״ם: בודקים על דעת מי נדר; ואם אמר ״לשמים נדרתי״ — יגנזו.",
+     "en": "Rambam: they check on whose account he vowed; if he said \"I vowed to Heaven,\" it is hidden away."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Trespass 3:4",
+     "quote": "אסור ליהנות בהן ואם נהנה לא מעל",
+     "he": "הרמב״ם במעילה: כל חטאות המתות ותמורתן — אסור ליהנות בהן, ואם נהנה לא מעל.",
+     "en": "Rambam on Trespass: all sin offerings left to die, and their substitutes — forbidden for benefit, and if he benefited he did not commit trespass."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Trespass 5:15",
+     "quote": "קדשי עכו\"ם אם לבדק הבית הקדישו מועלין בהן",
+     "he": "הרמב״ם: קדשי עכו״ם, אם לבדק הבית הקדישו — מועלין בהן.",
+     "en": "Rambam: gentiles' sanctified property, if they sanctified it to the Temple fund — trespass applies."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Trespass 5:15:2",
+     "quote": "ופסק כר\"ש ואיני יודע למה",
+     "he": "הכסף משנה: הרמב״ם פסק כרבי שמעון, ואיני יודע למה, ואפשר שהטעם משום שבסוף פרק א׳ בערכין הביאו ברייתא סתמא כרבי שמעון.",
+     "en": "Kessef Mishneh: Rambam ruled like R. Shimon, and I do not know why, perhaps because the baraita at the end of Arakhin ch. 1 is anonymous like R. Shimon."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 5b:4",
+     "quote": "מצינו ג\"כ דא\"ל כזה אבל בלשון אחרת",
+     "he": "רש״ש: גם בנחמיה מצינו שאמרו כזה אבל בלשון אחרת.",
+     "en": "Rashash: in Nehemiah too we find a similar statement in different wording."
+    }
+   ]
+  }
+ ]
+}
