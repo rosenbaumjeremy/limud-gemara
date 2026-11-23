@@ -1,0 +1,1205 @@
+{
+ "ref": "Arakhin 6",
+ "date": "2026-11-23",
+ "he": {
+  "overview": "הדף עוסק בדין קבלת נדבות ממי שאינו מחויב במצוה ובשינוי ייעוד של כסף צדקה והקדש. בעמוד א: נדבת נכרי לבדק הבית (בתחילה ובסוף), תרומת נכרי וקורה שנכתב עליה שם, ו\"סלע זו לצדקה\" – האם מותר לשנותה ללוותה עד שבאה ליד גבאי. בעמוד ב: מנורה ונר לבית הכנסת ושאלת נשתקע שם בעליה, ואחר כך משנת הגוסס והיוצא ליהרג – נידר ונערך – והמחלוקת אם הוא חייב כשהזיק, המתבארת במלוה על פה ובמלוה הכתובה בתורה. הראשונים והאחרונים מבארים את שיטות הפירוש ב\"לשנותה\", ואת הדין להלכה בשולחן ערוך.",
+  "title": "סיכום — ערכין ו׳"
+ },
+ "en": {
+  "overview": "The daf deals with accepting donations from those not obligated in the mitzvah and with changing the designation of charity and hekdesh. Amud a: a gentile's donation to the Temple repairs (at the beginning and at the end), a gentile's terumah and a beam with a Name written on it, and \"this sela for charity\" – whether it may be changed or borrowed until it reaches the gabbai. Amud b: a menorah and lamp for a synagogue and whether the donor's name has been forgotten, then the mishnah of the goses and one going out to be executed – being vowed and valued – and the dispute whether he is liable if he damaged, which the Gemara explains through an oral loan and a debt written in the Torah. The Rishonim and Acharonim explain the different readings of \"to change it\" and how the law is ruled in the Shulchan Arukh.",
+  "title": "Summary — Arakhin 6"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "לבדק הבית"
+   ],
+   "he": {
+    "term": "בדק הבית",
+    "explanation": "תיקון ושיפוץ בית המקדש. התורה והגמרא דנות אם מותר לקבל לצורך זה נדבה מנכרי."
+   },
+   "en": {
+    "term": "Bedek HaBayit (Temple maintenance)",
+    "explanation": "The repair and upkeep of the Temple. The Gemara discusses whether a gentile's donation may be accepted for this purpose."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 1:11",
+    "quote": "אֵין מְקַבְּלִין מִן הָעַכּוּ\"ם נְדָבָה אוֹ נֵדֶר לְחַזֵּק אֶת בֶּדֶק הַבַּיִת"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "דבר המסויים"
+   ],
+   "he": {
+    "term": "דבר המסויים",
+    "explanation": "דבר שנראה לעין ושמו מזוהה עם התורם, בניגוד לדבר שאינו מסויים. רק את הראשון אין מקבלים מנכרי \"בסוף\"."
+   },
+   "en": {
+    "term": "Davar hamesuyam (an identifiable item)",
+    "explanation": "An item visible to the eye and identifiable with the donor, as opposed to an unidentifiable one. Only the former is not accepted from a gentile \"at the end\"."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 6a:3:3",
+    "quote": "שנראה בעין אין מקבלין מהם"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "אמה כליא עורב"
+   ],
+   "he": {
+    "term": "אמה כליא עורב",
+    "explanation": "דוגמה לדבר מסויים: טבלאות ברזל עם מסמרות שהוצמדו לגג ההיכל להרחיק עורבים."
+   },
+   "en": {
+    "term": "Amah kliya orev (raven-deterrent spikes)",
+    "explanation": "An example of an identifiable item: iron plates with spikes fixed on the roof of the Heikhal to keep ravens away."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 6a:3:4",
+    "quote": "ובהן מסמרות גבוהין אמה קבועין"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "יגוד"
+   ],
+   "he": {
+    "term": "יגוד",
+    "explanation": "לחתוך מן הקורה את מקום השם הכתוב עליה. את החתיכה גונזים, ובשאר משתמשים."
+   },
+   "en": {
+    "term": "Yagod (cut away)",
+    "explanation": "To cut out of the beam the place where the Name is written. That piece is hidden away and the rest may be used."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 6a:6:1",
+    "quote": "יחתוך מקום השם ויגנוז החתיכה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "בבל תאחר"
+   ],
+   "he": {
+    "term": "בל תאחר",
+    "explanation": "איסור לאחר קיום נדר. הגמרא אומרת שנדר צדקה עומד בבל תאחר, אך אינו כהקדש שאסור להשתמש בו."
+   },
+   "en": {
+    "term": "Bal te'acher (do not delay)",
+    "explanation": "The prohibition against delaying the fulfillment of a vow. The Gemara says a charity vow is subject to it, yet it is not like hekdesh, from which use is forbidden."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 6a:14:1",
+    "quote": "הצדקה דקאי עליה בבל תאחר"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 8,
+   "anchors": [
+    "הגוסס"
+   ],
+   "he": {
+    "term": "גוסס",
+    "explanation": "אדם הנמצא בשלבי גסיסה. המשנה קובעת שאינו נידר ואינו נערך, מפני שרוב הגוססים למיתה."
+   },
+   "en": {
+    "term": "Goses (a dying person)",
+    "explanation": "A person in the throes of death. The mishnah rules he is neither vowed nor valued, since most gosesim die."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Appraisals and Devoted Property 1:13",
+    "quote": "הוֹאִיל וְרֹב הַגּוֹסְסִין לְמִיתָה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 16,
+   "anchors": [
+    "מלוה על פה"
+   ],
+   "he": {
+    "term": "מלוה על פה",
+    "explanation": "הלוואה שלא נכתבה בשטר. נחלקו אם גובים אותה מן היורשים."
+   },
+   "en": {
+    "term": "Milveh al peh (an oral loan)",
+    "explanation": "A loan not written in a deed. The Amoraim dispute whether it is collected from the debtor's heirs."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Creditor and Debtor 11:4",
+    "quote": "וּמִלְוֶה עַל פֶּה גּוֹבֶה אוֹתָהּ מִן הַיּוֹרְשִׁין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "מלוה כתובה בתורה"
+   ],
+   "he": {
+    "term": "מלוה הכתובה בתורה",
+    "explanation": "חיוב ממון שהתורה עצמה מחייבת, כגון תשלומי נזק. נחלקו אם דינו ככתובה בשטר."
+   },
+   "en": {
+    "term": "Milveh ketuvah baTorah (a debt written in the Torah)",
+    "explanation": "A monetary obligation the Torah itself imposes, such as payment for damages. The question is whether it is treated like a debt written in a deed."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 6b:23",
+    "quote": "מלוה הכתובה בתורה דנזק הכתוב בתורה"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "קבלת נדבה מנכרי לבדק הבית",
+    "gemara": "ברייתא אחת מתירה לקבל מנכרי נדבה לבדק הבית וברייתא אחרת אוסרת. רבי יוחנן מיישב: \"בתחילה\" – אין מקבלים אפילו מים ומלח; \"בסוף\" – דבר מסויים אין מקבלים, דבר שאינו מסויים מקבלים, כגון אמה כליא עורב. רב יוסף מקשה מהאיגרת לאסף שומר הפרדס, ואביי משיב שמלכות אינה חוזרת בה.",
+    "halakha": "לפי הרמב״ם שהובא כאן: אין מקבלים מנכרי נדבה לבדק הבית לכתחילה, ואם נלקחה אין מחזירים אותה, אלא אם הדבר מסויים כגון קורה או אבן – אז מחזירים."
+   },
+   "en": {
+    "title": "Accepting a gentile's donation for the Temple repairs",
+    "gemara": "One baraita permits accepting a gentile's donation to the Temple repairs and another forbids it. R. Yochanan reconciles them: \"at the beginning\" not even water and salt are accepted; \"at the end\" an identifiable item is not accepted but an unidentifiable one is, such as the amah kliya orev. Rav Yosef objects from the letter to Asaf, keeper of the king's orchard, and Abaye answers that a king does not retract.",
+    "halakha": "According to the Rambam cited here: a gentile's donation to the Temple repairs is not accepted at the outset, but if it was taken it is not returned, unless the item is identifiable, such as a beam or a stone, in which case it is returned."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6a:1",
+     "quote": "שאין אנו מקבלין אותה",
+     "he": "רבינו גרשום מפרש \"בתחילה\" כאשר הנכרי אומר מראש שהוא רוצה להתנדב – אומרים לו שאין מקבלים; ואם כבר התנדב – מקבלים, וזהו \"בסוף\".",
+     "en": "Rabbeinu Gershom explains \"at the beginning\" as when he says in advance that he wishes to donate – we tell him we do not accept it; if he already donated, we accept, and that is \"at the end\"."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:3:1",
+     "quote": "דשמא לרפיון ידים מתכוונין",
+     "he": "רש״י: בתחילת הבנין אין מקבלים, שמא כוונתם לרפות את ידי היהודים.",
+     "en": "Rashi: at the start of the building we do not accept, lest their intention be to weaken the hands of the Jews."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:3:3",
+     "quote": "שנראה בעין אין מקבלין מהם דגנאי הוא ועוד שמתפארים בו",
+     "he": "רש״י: \"דבר המסויים\" הוא דבר הנראה לעין, ואין מקבלים אותו מפני שהוא גנאי וגם משום שהם מתפארים בו.",
+     "en": "Rashi: \"an identifiable item\" is one visible to the eye; it is not accepted because it is a disgrace and because they would boast of it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6a:3",
+     "quote": "שהוא נראה בבנין אין מקבלין",
+     "he": "רבינו גרשום: דבר מסויים הוא דבר הנראה בבנין, ואין מקבלים אותו.",
+     "en": "Rabbeinu Gershom: an identifiable item is one that shows in the building, and it is not accepted."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:2:1",
+     "quote": "פן יחזרו בהם ויערערו לומר יש לנו חלק בבית המקדש",
+     "he": "תוספות מביאים פירוש נוסף: בתחילת הבנין יש לחשוש שמא יחזרו בהם ויערערו שיש להם חלק בבית המקדש.",
+     "en": "Tosafot bring another explanation: at the start of the building there is concern that they will retract and claim they have a share in the Temple."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:4:1",
+     "quote": "ולא נראה דהא כל הבנין משל כורש היה",
+     "he": "תוספות דוחים את פירוש רש״י שהאיגרת לאסף היתה מכורש (\"בתחילת הבנין\"), שהרי כל הבנין היה משל כורש.",
+     "en": "Tosafot reject the explanation (in Rashi) that the letter to Asaf was from Cyrus at the start of the building, since the whole building was Cyrus's."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6a:5",
+     "quote": "מאחר דיהיבה לא חיישינן",
+     "he": "רבינו גרשום על \"שאני מלכותא\": מאחר שנתנה, אין חוששים שתבקש להחזיר.",
+     "en": "Rabbeinu Gershom on \"a kingdom is different\": since it has given, we do not fear it will ask for it back."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Gifts to the Poor 8:8",
+     "quote": "הָיָה הַדָּבָר מְסֻיָּם כְּגוֹן קוֹרָה אוֹ אֶבֶן מַחְזִירִין לו",
+     "he": "הרמב״ם: אם הדבר מסויים, כקורה או אבן, מחזירים לו כדי שלא יהיה להם דבר מסויים במקדש.",
+     "en": "The Rambam: if the item is identifiable, such as a beam or stone, it is returned to him so that they have no identifiable item in the Temple."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kesef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Gifts to the Poor 8:8:1",
+     "quote": "הא בתחלה הא בדיעבד",
+     "he": "הכסף משנה: הרמב״ם מפרש \"בתחילה ובסוף\" כלכתחילה ובדיעבד, ורש״י פירש באופן אחר.",
+     "en": "Kesef Mishneh: the Rambam reads \"at the beginning and at the end\" as lechatchila and bedieved, whereas Rashi explained it differently."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 6a:2",
+     "quote": "בתחלתו נגד הכותים קאמר",
+     "he": "יעב״ץ: ה\"בתחילה\" נאמר כלפי הכותים, שאליהם נאמר \"לא לכם ולנו\", ולכן לא קשה על רש״י.",
+     "en": "Ya'avetz: the \"beginning\" was said regarding the Cutheans, to whom \"not for you and us\" was said, so there is no difficulty on Rashi."
+    },
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 259:8:1",
+     "quote": "והשמיט רבינו לשון זה משום דלא נפקא לן מינה מידי בזמן הזה",
+     "he": "בית יוסף: הטור השמיט את דברי הרמב״ם על בדק הבית, משום שאין בהם נפקא מינה בזמן הזה.",
+     "en": "Beit Yosef: the Tur omitted the Rambam's statement about the Temple repairs because it has no practical consequence today."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    9
+   ],
+   "he": {
+    "title": "תרומת נכרי וקורה שנכתב עליה שם",
+    "gemara": "רב יהודה אמר רב: נכרי שהפריש תרומה – בודקים; אם הפרישה בדעת ישראל תינתן לכהן, ואם לאו טעונה גניזה שמא בלבו לשמים. ברייתא: נכרי שהתנדב קורה ושם כתוב עליה – אם אמר בדעת ישראל, יגוד וישתמש במותר. הגמרא מבררת שגם בלי שם טעונה גניזה, וההשמעה היא ש\"שם שלא במקומו אינו קדוש\".",
+    "halakha": "השולחן ערוך פוסק: נכרי שהתנדב מנורה או דבר אחר לבית הכנסת מקבלים ממנו, והוא שיאמר \"בדעת ישראל הפרשתי\"; ואם לא אמר כן – טעון גניזה."
+   },
+   "en": {
+    "title": "A gentile's terumah and a beam with a Name written on it",
+    "gemara": "Rav Yehuda in the name of Rav: a gentile who separated terumah is examined; if he did so with a Jew's intent it is given to a kohen, and if not it must be hidden away, lest he had Heaven in mind. A baraita: a gentile who donated a beam with a Name written on it – if he said he did so with a Jew's intent, one cuts it and uses the rest. The Gemara explains that even without a Name it must be hidden; the novelty is that \"a Name not in its place is not holy\".",
+    "halakha": "The Shulchan Arukh rules: when a gentile donates a menorah or anything else to a synagogue we accept it, provided he says \"I separated it with a Jew's intent\"; if he did not say so, it must be hidden away."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:5:3",
+     "quote": "דחיישינן שמא בלבו לשמים לשם הקדש",
+     "he": "רש״י: טעונה גניזה ואסורה בהנאה, שחוששים שמא התכוון להקדש.",
+     "en": "Rashi: it must be hidden and is forbidden for benefit, since we fear he intended it for hekdesh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:6:1",
+     "quote": "יחתוך מקום השם ויגנוז החתיכה וישתמש במותר",
+     "he": "רש״י: \"יגוד\" – חותך את מקום השם וגונז את החתיכה, ומשתמש ביתר לבניין בית הכנסת.",
+     "en": "Rashi: \"yagod\" – he cuts off the place of the Name, hides that piece, and uses the rest."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:8:1",
+     "quote": "אינו קדוש אלא מקום השם ואותה חתיכה תיגנז",
+     "he": "רש״י: \"שם שלא במקומו אינו קדוש\" – קדוש רק מקום השם, וחתיכה זו תיגנז והשאר ייבנה בבית הכנסת. ולפירוש שני: שם לבדו על גבי קורות הוא שלא במקומו.",
+     "en": "Rashi: \"a Name not in its place is not holy\" – only the place of the Name is holy, that piece is hidden and the rest is used. A second explanation: a Name alone on beams is not in its place."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6a:10",
+     "quote": "מקום השם וישתמש במותר לצורך",
+     "he": "רבינו גרשום: יקוץ מן הקורה את מקום השם וישתמש ביתר לצורך בית הכנסת.",
+     "en": "Rabbeinu Gershom: he cuts out the place of the Name from the beam and uses the rest for the synagogue."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:5:1",
+     "quote": "משמע דעובד כוכבים איתיה בתרומה דנפשיה",
+     "he": "תוספות: מכאן משמע שלנכרי יש תרומה בדעת עצמו, וכך משמע בגיטין; ומה שנאמר בזבחים שאין לו – תנאי היא.",
+     "en": "Tosafot: this implies that a gentile can have terumah of his own, as also implied in Gittin; the statement in Zevachim that he cannot is a tannaitic dispute."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:6:1",
+     "quote": "שאין לכתוב במקומו",
+     "he": "תוספות: יש ליזהר כשכותבים ספר תורה או תפילין וגררו מקום השם – שאין לכתוב במקומו.",
+     "en": "Tosafot: one must be careful when writing a Torah scroll or tefillin and the place of a Name was scraped away – not to write in its place."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Heave Offerings 4:15",
+     "quote": "אִם אָמַר בְּדַעַת יִשְׂרָאֵל הִפְרַשְׁתִּיהָ תִּנָּתֵן לְכֹהֵן. וְאִם לָאו טְעוּנָה גְּנִיזָה",
+     "he": "הרמב״ם: בודקים את הנכרי שהפריש תרומה – אם אמר בדעת ישראל תינתן לכהן, ואם לאו טעונה גניזה; ודין זה בארץ ישראל בלבד.",
+     "en": "The Rambam: we examine a gentile who separated terumah – if he said it was with a Jew's intent it is given to a kohen, otherwise it must be hidden; this applies in Eretz Yisrael."
+    },
+    {
+     "who": {
+      "he": "סמ״ג",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 134:1",
+     "quote": "ובודקין את הגוי שהפריש תרומה כדא׳ רב בערכין",
+     "he": "הסמ״ג מביא את דין הרמב״ם על נכרי שהפריש תרומה בשם רב בערכין.",
+     "en": "The Semag cites the law of a gentile who separated terumah in the name of Rav in Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בית יוסף",
+      "en": "Beit Yosef"
+     },
+     "ref": "Beit Yosef, Yoreh De'ah 331:79:1",
+     "quote": "בודקין אותו אם בדעת ישראל הפרישה תנתן לכהן ואם לאו טעונה גניזה",
+     "he": "בית יוסף מביא את הגמרא ופירוש רש״י על בדיקת נכרי שהפריש תרומה.",
+     "en": "Beit Yosef cites the Gemara and Rashi's explanation on examining a gentile who separated terumah."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Appraisals and Devoted Property 1:12:1",
+     "quote": "דודאי בסתמא נמי יגנז",
+     "he": "לחם משנה: גם בסתם, כשלא אמר, יגנז – שהרמב״ם סומך על מה שכתב בהלכות מתנות עניים ותרומות.",
+     "en": "Lechem Mishneh: even when he said nothing it is hidden – the Rambam relies on what he wrote in Gifts to the Poor and Terumot."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 259:4",
+     "quote": "והוא שיאמר בדעת ישראל הפרשתי אותה ואם לא אמר כן טעון גניזה",
+     "he": "שולחן ערוך: נכרי שהתנדב מנורה או דבר אחר לבית הכנסת – מקבלים ממנו אם אמר בדעת ישראל, ואם לא – טעון גניזה.",
+     "en": "Shulchan Arukh: a gentile who donated a menorah or other item to a synagogue – we accept it if he said it was with a Jew's intent; if not, it must be hidden."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    10,
+    1
+   ],
+   "he": {
+    "title": "\"סלע זו לצדקה\" – שינוי, הלוואה והגעה ליד גבאי",
+    "gemara": "האומר \"סלע זו לצדקה\" מותר לשנותה – לדעת רב אמי בשם רבי יוחנן בין לעצמו ובין לאחר; רבי זעירא חילק בין \"עלי\" ל\"הרי זו\", ורבא חולק, ולבסוף \"לא שנא\". ברייתא: עד שלא באתה ליד גבאי מותר לשנותה, משבאתה אסור; ומקשים מרבי ינאי שיזף ופרע, ומשיבים ששאני רבי ינאי שניחא לעניים.",
+    "halakha": "הרמב״ם פוסק: משהגיעה ליד הגבאי אסור לשנותה, והצדקה אינה כהקדש שאסור ליהנות בו. השולחן ערוך: עד שלא בא ליד הגבאי יכול לשנותו בין ללוותו לעצמו בין להלוותו לחבירו ויפרע אחר תחתיו."
+   },
+   "en": {
+    "title": "\"This sela for charity\" – changing, borrowing, and reaching the gabbai",
+    "gemara": "One who says \"this sela is for charity\" may change it – per Rav Ami in R. Yochanan's name, whether for himself or for another; R. Zeira distinguished \"alai\" from \"harei zo\", Rava disputes, and the conclusion is \"no difference\". A baraita: before it reached the gabbai it may be changed, after it reached him it may not; this is challenged from R. Yannai who borrowed and repaid, and answered that R. Yannai was different since it pleased the poor.",
+    "halakha": "The Rambam rules: once it reached the gabbai it may not be changed, and charity is not like hekdesh, from which benefit is forbidden. The Shulchan Arukh: before it reached the gabbai he may change it – borrowing it for himself or lending it to another – and repay another in its place."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:10:1",
+     "quote": "לצרכיו ולאחר זמן ישלם",
+     "he": "רש״י: \"לשנותה\" – לשימוש לצרכיו, ולאחר זמן ישלם.",
+     "en": "Rashi: \"to change it\" – to use it for his needs and repay later."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6a:14",
+     "quote": "ללוותה לצרכיו ולפורעה אחר זמן",
+     "he": "רבינו גרשום: \"מותר לשנותה\" פירושו ללוותה לצרכיו ולפרוע אחר זמן.",
+     "en": "Rabbeinu Gershom: \"may change it\" means to borrow it for his needs and repay later."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:11:1",
+     "quote": "וקיבלה באחריות לענין גניבה ואבידה",
+     "he": "רש״י על רבי זעירא: באומר \"עלי\" כבר קיבל אחריות לגניבה ואבידה, ולכן מותר לשנותה.",
+     "en": "Rashi on R. Zeira: when he says \"alai\" he has accepted responsibility for theft and loss, so it may be changed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6a:14:1",
+     "quote": "הצדקה דקאי עליה בבל תאחר",
+     "he": "רש״י: נדר הצדקה עומד עליו בבל תאחר.",
+     "en": "Rashi: the vow of charity is subject to \"bal te'acher\" (do not delay)."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:14:1",
+     "quote": "וכן הפסק כרב נחמן האומר סלע זו לצדקה מותר לשנותה בין לעצמו בין לאחר",
+     "he": "תוספות: וכך הפסק כרב נחמן, ו\"לשנותה\" היינו ללוותה.",
+     "en": "Tosafot: so is the ruling like Rav Nachman, and \"to change it\" means to borrow it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:16:1",
+     "quote": "נראה לומר דללוותה קאמר",
+     "he": "תוספות מביאים שרבינו ברוך פירש \"לשנותה\" למצוה אחרת, אך בתוספות ר׳ משה מאוירא נאמר שכוונתו ללוותה.",
+     "en": "Tosafot cite Rabbeinu Baruch's view that \"to change it\" means for another mitzvah, but Tosafot of R. Moshe of Evreux conclude it means to borrow it."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6a:16:2",
+     "quote": "ודוקא יחיד אבל בני העיר רשאין",
+     "he": "תוספות: האיסור דווקא ליחיד, אבל בני העיר רשאים לשנות.",
+     "en": "Tosafot: the prohibition is for an individual, but the townspeople may change it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:1:1",
+     "quote": "גבאי הוה ויזיף מעות הצדקה לצורכו ופרע",
+     "he": "רש״י: רבי ינאי היה גבאי ולווה מעות הצדקה לצורכו ופרע.",
+     "en": "Rashi: R. Yannai was a gabbai and borrowed charity money for himself and repaid."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:3",
+     "quote": "דהוה גבאי יזיף לעצמו ופרע",
+     "he": "רבינו גרשום: רבי ינאי היה גבאי שלווה לעצמו ופרע, אף שבאה לידו.",
+     "en": "Rabbeinu Gershom: R. Yannai was a gabbai who borrowed for himself and repaid, even though it had come to his hand."
+    },
+    {
+     "who": {
+      "he": "רי״ף",
+      "en": "Rif"
+     },
+     "ref": "Rif Bava Batra 6a:2",
+     "quote": "סלע זו לצדקה מותר לשנותה בין לעצמו בין לאחר",
+     "he": "הרי״ף מביא את הדין מערכין להלכה בבבא בתרא.",
+     "en": "The Rif cites this law from Arakhin as halakha in Bava Batra."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Gifts to the Poor 8:4",
+     "quote": "אִם מִשֶּׁהִגִּיעַ לְיַד הַגַּבַּאי אָסוּר לְשַׁנּוֹתו",
+     "he": "הרמב״ם: משהגיע ליד הגבאי אסור לשנותו.",
+     "en": "The Rambam: once it reached the gabbai it is forbidden to change it."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Gifts to the Poor 8:5",
+     "quote": "שֶׁהַצְּדָקָה אֵינָהּ כְּהֶקְדֵּשׁ שֶׁאָסוּר לֵהָנוֹת בּו",
+     "he": "הרמב״ם: אם יש הנאה לעניים בעיכוב המעות ביד הגבאי, מותר לו ללוותן ולפרוע, שהצדקה אינה כהקדש.",
+     "en": "The Rambam: if the poor benefit from the money staying with the gabbai, he may borrow it and repay, for charity is not like hekdesh."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 259",
+     "quote": "יכול לשנותו ללוותו לצרכו ויפרע אחר תחתיו",
+     "he": "הטור: עד שלא בא ליד גבאי יכול ללוותו לצרכו ולפרוע אחר תחתיו.",
+     "en": "The Tur: before it reached the gabbai he may borrow it for his need and repay another in its place."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Beitzah 21a:5",
+     "quote": "דסלע לצדקה מותר  לשנותו כלומר ללוותו ולשלם",
+     "he": "הרשב״א: \"מותר לשנותו\" היינו ללוותו ולשלם.",
+     "en": "The Rashba: \"may change it\" means to borrow it and repay."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 259:1",
+     "quote": "יכול לשנותו בין ללוותו לעצמו בין להלוותו לחבירו ויפרע אחר תחתיו",
+     "he": "שולחן ערוך: עד שלא בא ליד הגבאי יכול ללוותו לעצמו או להלוותו לחבירו ולפרוע אחר תחתיו; משבא ליד גבאי אסור.",
+     "en": "Shulchan Arukh: before it reached the gabbai he may borrow it for himself or lend it to another and repay another; after it reached the gabbai it is forbidden."
+    },
+    {
+     "who": {
+      "he": "ב״ח",
+      "en": "Bach"
+     },
+     "ref": "Bach, Yoreh De'ah 259:1:1",
+     "quote": "הרי\"ף והרא\"ש בפ\"ק דבתרא הביאו הך דערכין ולא הביאו קושיא ופירוקא דרבי ינאי",
+     "he": "ב״ח: הרי״ף והרא״ש הביאו בבבא בתרא את הדין מערכין ולא הביאו את הקושיא והתירוץ על רבי ינאי.",
+     "en": "Bach: the Rif and Rosh cited the law from Arakhin in Bava Batra without the question and answer about R. Yannai."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Yoreh De'ah 259:1",
+     "quote": "וכפירוש רש\"י כתבו גם הטור והשולחן ערוך",
+     "he": "ערוך השולחן: הטור והשולחן ערוך כתבו כפירוש רש״י (ללוות); והרמב״ם נראה שמפרש \"לשנותו\" כפשוטו, להחליף.",
+     "en": "Arukh HaShulchan: the Tur and Shulchan Arukh wrote like Rashi's explanation (borrowing); the Rambam seems to read \"to change\" literally, to exchange."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    7
+   ],
+   "he": {
+    "title": "מנורה ונר לבית הכנסת – דבר הרשות ודבר מצוה, ונשתקע שם בעליה",
+    "gemara": "ישראל שהתנדב מנורה או נר לבית הכנסת – אסור לשנותה; רבי חייא בר אבא סבר שאין הבדל, ורב אמי בשם רבי יוחנן: רק לדבר הרשות, אבל לדבר מצוה מותר. ורבי יוחנן: נכרי שהתנדב – עד שלא נשתקע שם בעליה אסור, משנשתקע מותר. הגמרא מסבירה שהנכרי \"פעי\" (צועק), ומביאה את מעשה שעזרק טייעא.",
+    "halakha": "השולחן ערוך: ישראל שהתנדב נר או מנורה לבית הכנסת ונשתקע שם בעליה – יכולים הציבור לשנותה אפילו לדבר הרשות; ואם לא נשתקע – רק לדבר מצוה. ואם היה המתנדב נכרי – אסור לשנותה אפילו לדבר מצוה כל זמן שלא נשתקע שם בעליה."
+   },
+   "en": {
+    "title": "A menorah or lamp for the synagogue – optional use, mitzvah use, and the name being forgotten",
+    "gemara": "A Jew who donated a menorah or lamp to a synagogue may not change it; R. Chiya bar Abba held there is no distinction, while Rav Ami in R. Yochanan's name: only for an optional use, but for a mitzvah use it is permitted. R. Yochanan: a gentile who donated – until his name is forgotten it may not be changed, once forgotten it may. The Gemara explains that a gentile \"pa'i\" (cries out), and brings the story of Sha'azrak the Tayya'a.",
+    "halakha": "The Shulchan Arukh: if a Jew donated a lamp or menorah to a synagogue and the donor's name has been forgotten, the community may change it even for an optional use; if not forgotten, only for a mitzvah. If the donor was a gentile, it may not be changed even for a mitzvah as long as his name is not forgotten."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:3:1",
+     "quote": "מכלל דישראל דלא פעי שרי לשנויי לדבר מצוה",
+     "he": "רש״י: מכך שרבי אסי הזכיר נכרי שצועק \"למה שניתם\" – משמע שבישראל, שאינו צועק, מותר לשנות לדבר מצוה.",
+     "en": "Rashi: since R. Assi mentioned a gentile who cries out \"why did you change it\" – it follows that for a Jew, who does not cry out, changing for a mitzvah is permitted."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:3:2",
+     "quote": "שעדיין אומרים זו היא מנורה נדבתו של פלוני",
+     "he": "רש״י: \"נשתקע שם בעליה\" – כל עוד אומרים שזו המנורה שתרם פלוני הנכרי.",
+     "en": "Rashi: \"the name of its owner is forgotten\" – as long as people still say this is the menorah donated by the gentile so-and-so."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:7:1",
+     "quote": "שסוחר היה ומחזר בעיירות",
+     "he": "רש״י על \"לא שכיח\": שעזרק היה סוחר ומחזר בעיירות, ולכן לא היה בעיר לצעוק.",
+     "en": "Rashi on \"he is not around\": Sha'azrak was a merchant who traveled among towns."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6b:4:1",
+     "quote": "מאי איריא לא נשתקע שם בעליה",
+     "he": "תוספות: אפשר היה לשאול כך גם על \"לא נשתקע שם בעליה\" – אף אם נשתקע.",
+     "en": "Tosafot: one could equally ask \"why speak of the name not being forgotten – even if it was forgotten\"?"
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:7",
+     "quote": "שאדם זוכר מי הקדישה ואומרין זו מנורה של פלוני",
+     "he": "רבינו גרשום: עד שלא נשתקע שמו אסור לשנותה, שאדם זוכר מי הקדישה.",
+     "en": "Rabbeinu Gershom: until his name is forgotten it may not be changed, since people remember who dedicated it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:9",
+     "quote": "כשאינו רואה אותה צועק ואומר היכן היא מנורה שהקדשתי",
+     "he": "רבינו גרשום: הנכרי \"פעי\" – כשאינו רואה אותה הוא צועק היכן המנורה שהקדשתי.",
+     "en": "Rabbeinu Gershom: the gentile \"pa'i\" – when he does not see it he cries out, \"where is the menorah I dedicated?\""
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Gifts to the Poor 8:7",
+     "quote": "אָסוּר לְשַׁנּוֹתָהּ אֲפִלּוּ לִדְבַר מִצְוָה עַד שֶׁיִּשְׁתַּקֵּעַ שֵׁם בְּעָלֶיה",
+     "he": "הרמב״ם: אם המתנדב נכרי אסור לשנותה אפילו לדבר מצוה עד שישתקע שמו, שמא יאמר שהקדיש לבית הכנסת ומכרוהו לעצמם.",
+     "en": "The Rambam: if the donor was a gentile it may not be changed even for a mitzvah until his name is forgotten, lest he say that he dedicated it to the synagogue and they sold it for themselves."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Teshuvot haRashba part V 269:2",
+     "quote": "דהתם דוקא, כשיספיק לבית הכנסת יותר מזה",
+     "he": "הרשב״א בתשובה: ההיתר \"משנשתקע שם בעליה\" מדובר דווקא כשיספיק לבית הכנסת יותר מזה.",
+     "en": "The Rashba in a responsum: the permission \"once the name is forgotten\" applies only when the synagogue will have more than enough."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 259:3",
+     "quote": "אבל לדבר מצוה יכולים לשנותו ואם היה המתנדב עובד כוכבים אסור לשנותה אפי' לדבר מצוה",
+     "he": "שולחן ערוך: אם לא נשתקע שם בעליה – לדבר מצוה יכולים לשנותו; ואם היה המתנדב נכרי אסור אפילו לדבר מצוה.",
+     "en": "Shulchan Arukh: if the name was not forgotten, it may be changed for a mitzvah; if the donor was a gentile it is forbidden even for a mitzvah."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Yoreh De'ah 256:7",
+     "quote": "אבל אין ראיה משם דשם נמי לצורך מצוה אחרת",
+     "he": "הגר״א: אין ראיה מכאן לדעת ר״ת שמותר לשנות אפילו לדבר הרשות, כי גם שם הוא לצורך מצוה אחרת.",
+     "en": "The Vilna Gaon: there is no proof here for Rabbeinu Tam's view that one may change even for an optional use, since that too is for another mitzvah."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    8,
+    9
+   ],
+   "he": {
+    "title": "גוסס ויוצא ליהרג – נידר ונערך",
+    "gemara": "המשנה: הגוסס והיוצא ליהרג לא נידר ולא נערך; רבי חנינא בן עקביא: נערך, מפני שדמיו קצובין; רבי יוסי: נודר ומעריך ומקדיש, ואם הזיק חייב. הגמרא מקשה: בגוסס מובן – אינו בר דמים ואינו בר העמדה והערכה; אבל ביוצא ליהרג, למה לא נערך?",
+    "halakha": "לפי הרמב״ם שהובא כאן: הגוסס אין לו ערך ולא דמים, והיוצא להרג שהעריך אחרים או נדר או הזיק חייב לשלם."
+   },
+   "en": {
+    "title": "A dying person and one going out to be executed – being vowed and being valued",
+    "gemara": "The mishnah: a goses and one going out to be executed are neither vowed nor valued; R. Chanina ben Akavya: he is valued, since his worth is fixed; R. Yosei: he vows, values and consecrates, and if he damaged, he is liable. The Gemara asks: for a goses it is understood – he has no worth and is not fit for standing and valuation; but why is one going to be executed not valued?",
+    "halakha": "According to the Rambam cited here: a goses has no valuation or worth, and one going out to be executed who valued others, vowed their worth or caused damage must pay."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:8:2",
+     "quote": "איוצא ליהרג פליג אבל בגוסס מודה",
+     "he": "רש״י: רבי חנינא בן עקביא חולק על יוצא ליהרג, אבל בגוסס מודה שאינו נערך.",
+     "en": "Rashi: R. Chanina ben Akavya disagrees about one going out to be executed, but about a goses he agrees."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:8:3",
+     "quote": "אבל אנודר מודה דהא כנמכר בשוק בעי למשיימיה",
+     "he": "רש״י: לגבי נודר רבי חנינא מודה, כי צריך לשומו כנמכר בשוק, וזה אינו נמכר.",
+     "en": "Rashi: regarding a vow of his worth R. Chanina agrees, since he must be appraised as if sold in the market, and he is not sold."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:13",
+     "quote": "שאינו יכול לעמוד שהוא כמת וכתיב והעמיד והעריך",
+     "he": "רבינו גרשום: גוסס אינו בר העמדה והערכה, שאינו יכול לעמוד והוא כמת.",
+     "en": "Rabbeinu Gershom: a goses is not fit for standing and valuation, since he cannot stand and is like dead."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:13",
+     "quote": "הוֹאִיל וְרֹב הַגּוֹסְסִין לְמִיתָה הֲרֵי הוּא כְּמֵת",
+     "he": "הרמב״ם: הגוסס אין לו ערך ולא דמים, הואיל ורוב הגוססים למיתה והרי הוא כמת.",
+     "en": "The Rambam: a goses has neither valuation nor worth, since most gosesim die and he is like a dead person."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 1:14",
+     "quote": "הַיּוֹצֵא לֵהָרֵג שֶׁהֶעֱרִיךְ אֲחֵרִים אוֹ נָדַר דְּמֵיהֶם אוֹ הִזִּיק חַיָּב לְשַׁלֵּם",
+     "he": "הרמב״ם: יוצא להרג שהעריך אחרים, נדר דמיהם או הזיק – חייב לשלם וגובים מנכסיו.",
+     "en": "The Rambam: one going out to be executed who valued others, vowed their worth or damaged is liable to pay, from his property."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Kiddushin 78b:1",
+     "quote": "הגוסס הרי הוא כחי לכל דבריו",
+     "he": "ריטב״א מביא את המשנה בשמחות ובאהלות שהגוסס הרי הוא כחי לכל דבריו, ודוחה הוכחה שגט של גוסס אינו גט.",
+     "en": "Ritva cites the mishnah in Semachot and Ohalot that a goses is like a living person in all matters, and rejects a proof that a goses's get is invalid."
+    },
+    {
+     "who": {
+      "he": "רדב״ז",
+      "en": "Radbaz"
+     },
+     "ref": "Teshuvot HaRadbaz Volume 3 1034:2",
+     "quote": "הנ\"מ בדברים הנעשים מאליהן אבל בדברים הצריכים מעשה לא",
+     "he": "רדב״ז: ש\"הגוסס כחי\" נאמר רק בדברים הנעשים מאליהם, אבל לא בדברים הצריכים מעשה.",
+     "en": "Radbaz: \"a goses is like the living\" applies only to matters that happen on their own, not to matters requiring an act."
+    },
+    {
+     "who": {
+      "he": "נימוקי יוסף",
+      "en": "Nimukei Yosef"
+     },
+     "ref": "Nimukei Yosef on Bava Kamma 5a:4",
+     "quote": "הגוסס והיוצא ליהרג אינו נערך ולא נידר",
+     "he": "נימוקי יוסף מביא את משנת ערכין (ו:) שהגוסס והיוצא ליהרג אינו נערך ולא נידר.",
+     "en": "Nimukei Yosef cites the mishnah in Arakhin (6b) that a goses and one going out to be executed are not valued or vowed."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 20a:1",
+     "quote": "דגוסס לא נערך דלאו בר העמדה והערכה הוא",
+     "he": "רש״ש: למדים מכאן (ו ב) שגוסס לא נערך, משום שאינו בר העמדה והערכה.",
+     "en": "Rashash: we learned above (6b) that a goses is not valued, since he is not fit for standing and valuation."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Appraisals and Devoted Property 1:21:1",
+     "quote": "הוא שאינו ראוי להעמדה",
+     "he": "לחם משנה מביא מחלוקת הרמב״ם והראב״ד מה פירוש \"כל שאינו בהעמדה אינו בהערכה\" – הראב״ד: שאינו ראוי להעמדה.",
+     "en": "Lechem Mishneh brings the dispute of the Rambam and the Raavad about \"whoever is not subject to standing is not subject to valuation\" – the Raavad: one not fit for standing."
+    },
+    {
+     "who": {
+      "he": "ערוך לנר",
+      "en": "Arukh LaNer"
+     },
+     "ref": "Arukh LaNer on Sanhedrin 81a:1",
+     "quote": "תנן דהיוצא ליהרג מדיר ומחרים ומקדיש ואם הזיק חייב",
+     "he": "ערוך לנר מקשה מהמשנה בערכין שהיוצא ליהרג נודר, מחרים ומקדיש ואם הזיק חייב – אלמא דנין אותו כחי.",
+     "en": "Arukh LaNer asks from the mishnah in Arakhin that one going out to be executed vows, consecrates and is liable if he damages – so he is treated as living."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    13
+   ],
+   "he": {
+    "title": "\"כל חרם לא יפדה\" – יוצא ליהרג שאמר \"ערכי עלי\"",
+    "gemara": "ברייתא: יוצא להריגה שאמר \"ערכי עלי\" לא אמר כלום, מ\"כל חרם לא יפדה\"; ו\"מן האדם\" ולא כל האדם – לפני שנגמר דינו. לרבי חנינא בן עקביא, שאומר נערך, מה עושים בפסוק? לפי רבי ישמעאל בנו של רבי יוחנן בן ברוקה: ללמד שבמומתים בידי אדם אין פדיון ממון, אף בקלות שניתנה שגגתן לכפרה."
+   },
+   "en": {
+    "title": "\"Every devoted thing shall not be redeemed\" – one going to be executed who said \"my valuation is upon me\"",
+    "gemara": "A baraita: one going out to be executed who says \"my valuation is upon me\" has said nothing, from \"every cherem shall not be redeemed\"; \"of man\" – not all men, i.e. before his sentence is finalized. For R. Chanina ben Akavya, who says he is valued, what does he do with the verse? According to R. Yishmael son of R. Yochanan ben Beroka: it teaches that for those put to death by man there is no monetary redemption, even for lighter deaths whose inadvertence is atoned."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:10:1",
+     "quote": "מי שהוא ראוי ליחרם וליהרג אינו בכלל פדיון",
+     "he": "רש״י: מי שראוי להיחרם ולהיהרג אינו בכלל פדיון.",
+     "en": "Rashi: one who is fit to be put to death and executed is not included in redemption."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:14",
+     "quote": "כל העומד ליהרג לא יפדה ערכו שאינו נערך",
+     "he": "רבינו גרשום: \"כל חרם לא יפדה\" – כל העומד ליהרג אין פודים את ערכו, שאינו נערך.",
+     "en": "Rabbeinu Gershom: \"every cherem shall not be redeemed\" – whoever stands to be executed, his valuation is not redeemed, since he is not valued."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6b:10:1",
+     "quote": "ליכא למעוטי דהא איתרבו לעיל",
+     "he": "תוספות: משום שאינו בדמים אי אפשר למעטו, שהרי נתרבו לעיל מנוול ומוכה שחין.",
+     "en": "Tosafot: one cannot exclude him because he has no worth, since the afflicted and the leprous were included above."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:12:1",
+     "quote": "כגון האי דכתיב השור יסקל וגם בעליו יומת",
+     "he": "רש״י על \"מומתין בידי שמים\": כמו \"השור יסקל וגם בעליו יומת\" – מיתה בידי שמים.",
+     "en": "Rashi on \"those put to death by Heaven\": such as \"the ox shall be stoned and its owner shall also be put to death\"."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:17",
+     "quote": "אלמא אית להו פדיון למומתים בידי שמים",
+     "he": "רבינו גרשום: מהפסוק \"אם כופר יושת עליו\" משמע שיש פדיון למומתים בידי שמים.",
+     "en": "Rabbeinu Gershom: from \"if a ransom is laid upon him\" it follows that those put to death by Heaven may redeem themselves."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:13:1",
+     "quote": "כגון מגדף ומקלל אביו דאם עשה בשוגג אינו בקרבן ולא בגלות",
+     "he": "רש״י: מיתות חמורות שלא ניתנה שגגתן לכפרה – כמגדף ומקלל אביו.",
+     "en": "Rashi: severe deaths whose inadvertence is not atoned – such as the blasphemer and one who curses his father."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:13:2",
+     "quote": "כגון רוצח דשגגתו גולה ועובד ע\"ז ומחלל שבת",
+     "he": "רש״י: מיתות קלות שניתנה שגגתן לכפרה – כרוצח, עובד עבודה זרה ומחלל שבת.",
+     "en": "Rashi: lighter deaths whose inadvertence is atoned – such as a murderer, an idol worshiper and a Shabbat violator."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Leviticus 27:29:1",
+     "quote": "לֹא אָמַר כְּלוּם",
+     "he": "רש״י בתורה מביא את הברייתא (ערכין ו): היוצא להרג שאמר ערכו עלי – לא אמר כלום.",
+     "en": "Rashi on the Torah cites the baraita (Arakhin 6): one going out to be executed who said \"his valuation is upon me\" has said nothing."
+    },
+    {
+     "who": {
+      "he": "רמב״ן",
+      "en": "Ramban"
+     },
+     "ref": "Ramban on Leviticus 27:29:1",
+     "quote": "וְיֵשׁ מֵהֶם אוֹמְרִים שֶׁהוּא אַזְהָרָה לְחַיָּבֵי מִיתוֹת שֶׁאֵין לוֹקְחִין מֵהֶן כֹּפֶר לְפָטְרָן",
+     "he": "הרמב״ן: רבותינו נחלקו בפסוק, ויש אומרים שהוא אזהרה לחייבי מיתות שאין לוקחים מהם כופר לפוטרם.",
+     "en": "The Ramban: our Rabbis disagreed about the verse, and some say it is a warning that no ransom is taken from those liable to death to exempt them."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Vayikra 27:29:1",
+     "quote": "אם כן מה ענין הכתוב זה לכאן",
+     "he": "גור אריה: שואל מה ענין הפסוק לכאן ולא בפרשת ערכין, ומשיב שנסמך כאן לחומרת החרמים.",
+     "en": "Gur Aryeh: asks why this verse is placed here and not in the parasha of arakhin, and answers it is next to the severity of charamim."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    18
+   ],
+   "he": {
+    "title": "מחלוקת תנא קמא ורבי יוסי – \"אם הזיק\" ומלוה על פה",
+    "gemara": "רבי יוסי: נודר ומעריך ומקדיש; ותנא קמא לא אמר שלא! אלא בנודר, מעריך ומקדיש לכולי עלמא אינם נחלקים, ונחלקים באם הזיק. לרב יוסף נחלקו אם מלוה על פה גובה מן היורשין; לרבא לכולי עלמא אינה גובה, ונחלקו אם מלוה הכתובה בתורה ככתובה בשטר דמיא. ויש מי ששונה זאת על ברייתא: היוצא להרג שחבל באחרים חייב, ואחרים שחבלו בו פטורים; ורבי שמעון בן אלעזר: אף הוא פטור, שלא ניתן לחזרת עמידת בית דין.",
+    "halakha": "השולחן ערוך: מצוה על היורשים לפרוע חוב אביהם, והגאונים תקנו שבעל חוב גובה מהיורשים מטלטלים שהניח אביהם, אפילו מלוה על פה."
+   },
+   "en": {
+    "title": "The dispute of the first tanna and R. Yosei – \"if he damaged\" and an oral loan",
+    "gemara": "R. Yosei: he vows, values and consecrates; but does the first tanna say otherwise? Rather, for vowing, valuing and consecrating all agree, and they differ about \"if he damaged\". According to Rav Yosef they differ whether an oral loan is collected from heirs; Rava: all agree it is not, and they differ whether a debt written in the Torah is like one written in a deed. Some teach this on a baraita: one going out to be executed who injured others is liable, others who injured him are exempt; R. Shimon ben Elazar: he too is exempt if he injured, since he cannot be brought back to stand before a court.",
+    "halakha": "The Shulchan Arukh: heirs are obligated to repay their father's debt, and the Geonim ordained that a creditor collects from the movable property the heirs inherited, even for an oral loan."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:15:1",
+     "quote": "דודאי נדרו נדר והקדישו הקדש ומעריך את אחרים דהא בר דעה הוא",
+     "he": "רש״י: בנודר, מעריך ומקדיש אין מחלוקת – נדרו נדר והקדשו הקדש, שהוא בר דעה.",
+     "en": "Rashi: regarding vowing, valuing and consecrating there is no dispute – his vow is a vow and his hekdesh is hekdesh, since he is of sound mind."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 6b:15:1",
+     "quote": "ובאם הקדיש לא פליגי שמיד שהקדיש חל הקדש ולא דמיא למלוה",
+     "he": "תוספות: בהקדש אין מחלוקת, שמיד חל ההקדש ואינו דומה למלוה.",
+     "en": "Tosafot: regarding consecration there is no dispute, since hekdesh takes effect at once and is not like a loan."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:16:1",
+     "quote": "תשלומי נזק כתובין בתורה ומדאורייתא משעבד ליה בעל כרחיה",
+     "he": "רש״י: תשלומי נזק כתובים בתורה, ומדאורייתא הוא משועבד לניזק בעל כרחו.",
+     "en": "Rashi: payment for damage is written in the Torah, and by Torah law he is obligated to the victim against his will."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:22",
+     "quote": "ונזקין הן כמלוה (הכתובה) על פה",
+     "he": "רבינו גרשום: הנזקין הם כמלוה על פה, שאינה חוב גמור כמלוה בשטר.",
+     "en": "Rabbeinu Gershom: damages are like an oral loan, not a full debt like one in a deed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:24",
+     "quote": "ככתובה בשטר דמיא. וגובה מן היורשין",
+     "he": "רבינו גרשום: לרבי יוסי מלוה הכתובה בתורה ככתובה בשטר דמיא, וגובה מן היורשין.",
+     "en": "Rabbeinu Gershom: according to R. Yosei a debt written in the Torah is like one in a deed, and is collected from heirs."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 6b:18:4",
+     "quote": "שאין אתה יכול להחזירו לב\"ד ולעמוד בדין על מה שחבל",
+     "he": "רש״י: \"לחזרת עמידת בית דין\" – אי אפשר להחזירו לבית דין לעמוד בדין על מה שחבל.",
+     "en": "Rashi: \"return to standing before the court\" – he cannot be brought back to the court to be judged for what he injured."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 6b:26",
+     "quote": "הואיל ונגמר דינו ליהרג אין חוזרין ומביאין אותו לפני ב\"ד בשביל שחבל",
+     "he": "רבינו גרשום: מכיוון שנגמר דינו להריגה, אין מחזירים אותו לבית דין בשביל שחבל, משום צער בעלי חיים.",
+     "en": "Rabbeinu Gershom: once his sentence is finalized he is not brought back to the court for his injury, because of the suffering of living creatures."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Creditor and Debtor 11:4",
+     "quote": "וּמִלְוֶה עַל פֶּה גּוֹבֶה אוֹתָהּ מִן הַיּוֹרְשִׁין וְאֵינוֹ גּוֹבֶה אוֹתָהּ מִן הַלָּקוֹחוֹת",
+     "he": "הרמב״ם: מלוה על פה גובה מן היורשים, ואינו גובה מן הלקוחות מפני שאין לה קול.",
+     "en": "The Rambam: an oral loan is collected from heirs but not from buyers, since it has no publicity."
+    },
+    {
+     "who": {
+      "he": "מגיד משנה",
+      "en": "Maggid Mishneh"
+     },
+     "ref": "Maggid Mishneh on Mishneh Torah, Damages to Property 12:22:1",
+     "quote": "ואין הלכה כן כמו שיתבאר",
+     "he": "מגיד משנה: האוקימתות בגמרא הן לדעת שמלוה על פה אינו גובה מן היורשין, ואין הלכה כן.",
+     "en": "Maggid Mishneh: the Gemara's explanations are according to the view that an oral loan is not collected from heirs, and the halakha is not so."
+    },
+    {
+     "who": {
+      "he": "אור זרוע",
+      "en": "Or Zarua"
+     },
+     "ref": "Ohr Zarua, Volume III, Piskei Bava Kamma 26:2",
+     "quote": "מלוה הכתו' בתורה לאו ככתו' בשטר דמיא ולא נביא מן הלקוחות",
+     "he": "אור זרוע: מלוה הכתובה בתורה אינה ככתובה בשטר, ולכן אין גובים מן הלקוחות.",
+     "en": "Or Zarua: a debt written in the Torah is not like one written in a deed, so it is not collected from buyers."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Gittin 84b:4:1",
+     "quote": "גמרא בערכין (דף ו:) מלוה כתובה בתורה",
+     "he": "תוספות בגיטין מציינים שהגמרא בערכין (ו:) קוראת לנזקין \"מלוה כתובה בתורה\".",
+     "en": "Tosafot in Gittin note that the Gemara in Arakhin (6b) calls damages \"a debt written in the Torah\"."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Choshen Mishpat 107",
+     "quote": "מצוה על היתומים לפרוע חוב אביהן וכופין אותן בכך",
+     "he": "הטור: מצוה על היתומים לפרוע חוב אביהם וכופין אותם בכך.",
+     "en": "The Tur: orphans are obligated to repay their father's debt and are compelled to do so."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 107:1",
+     "quote": "אפילו היא מלוה על פה אף מהמטלטלים שהניח אביהם",
+     "he": "שולחן ערוך: בימינו כופים את היורשים לפרוע חובות אביהם אפילו מלוה על פה ואף מהמטלטלים.",
+     "en": "Shulchan Arukh: today heirs are compelled to repay their father's debts, even an oral loan and even from movable property."
+    },
+    {
+     "who": {
+      "he": "מעשה רקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Damages to Property 12:22:1",
+     "quote": "דיוצא ליהרג אם הזיק חייב, משום דסבירא ליה מלוה על פה גובה מן היורשים",
+     "he": "מעשה רקח: הרמב״ם פסק כרבי יוסי, שיוצא ליהרג אם הזיק חייב, משום שמלוה על פה גובה מן היורשים.",
+     "en": "Maaseh Rokeach: the Rambam ruled like R. Yosei that one going to be executed is liable if he damaged, because an oral loan is collected from heirs."
+    },
+    {
+     "who": {
+      "he": "שער המלך",
+      "en": "Sha'ar HaMelekh"
+     },
+     "ref": "Sha'ar HaMelekh on Mishneh Torah, Creditor and Debtor 11:4:1",
+     "quote": "מלוה הכתובה בתורה שעבודא דאורייתא וגבי מיורשין",
+     "he": "שער המלך: אף מי שסובר ששעבוד אינו מן התורה, יכול לסבור שמלוה הכתובה בתורה שעבודה דאורייתא וגובה מיורשין.",
+     "en": "Sha'ar HaMelech: even one who holds that a lien is not from the Torah may hold that a debt written in the Torah is a Torah lien and is collected from heirs."
+    },
+    {
+     "who": {
+      "he": "הגר״א",
+      "en": "Vilna Gaon"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Choshen Mishpat 86:3",
+     "quote": "ולמ\"ד מלוה הכתובה בתורה לאו ככתובה בשטר דמי",
+     "he": "הגר״א מזכיר את הדעה שמלוה הכתובה בתורה אינה ככתובה בשטר, ומציין שכך נפסק בבבא קמא.",
+     "en": "The Vilna Gaon mentions the view that a debt written in the Torah is not like one in a deed, noting that this is the ruling in Bava Kamma."
+    }
+   ]
+  }
+ ]
+}
