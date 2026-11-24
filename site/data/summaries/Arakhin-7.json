@@ -1,0 +1,1076 @@
+{
+ "ref": "Arakhin 7",
+ "date": "2026-11-24",
+ "he": {
+  "overview": "דף ז׳ בערכין מסיים את הפרק הראשון (״הכל מעריכין״) ופותח את הפרק השני (״אין נערכין״). בעמוד א׳ דנה הגמרא אם מלוה על פה או מלוה ״הכתובה בתורה״ גובה מן היורשים (חופר הבור והשור), ואחר כך בדין היוצא להריגה: מזים עליו מדם חטאתו, ואין ממתינים לאשה מעוברת, אך ממתינים ליושבת על המשבר; נידונה שאלת מי מת ראשון, האם או הוולד, ומכאן לשבת – הבאת סכין כדי להוציא את הוולד. בעמוד ב׳ נדונה השאלה אם אפשר ליהנות משערה של אשה שנהרגה (פאה נכרית, ״מיתתה אוסרתה״ לעומת ״גמר דינה אוסרתה״). הפרק השני פותח בדין ״אין נערכין פחות מסלע ולא יותר על חמישים סלע״ ובמחלוקת ר׳ מאיר וחכמים במי שיש בידו חמש סלעים, ובדין בעל חוב מאוחר שקדם וגבה. הראשונים והאחרונים עוסקים בעיקר ביחס בין שעבוד נכסים לבין מלוה על פה, במשמעות ״ישבה על המשבר״, בהלכות שבת ובאיסור ההנאה מן המת.",
+  "title": "סיכום — ערכין ז׳"
+ },
+ "en": {
+  "overview": "Arakhin 7 closes the first chapter (\"HaKol Ma'arikhin\") and opens the second (\"Ein Ne'erakhin\"). Amud a asks whether a loan by word of mouth, or a debt \"written in the Torah\", can be collected from heirs (the pit-digger and the ox), and then turns to one led out to be executed: the blood of his sin-offering is sprinkled for him, a pregnant woman is not awaited, but a woman sitting on the birthstool is; it asks who dies first, the mother or the fetus, and so what is done on Shabbat to bring out the child with a knife. Amud b asks whether one may benefit from the hair of an executed woman (a borrowed hair-piece; \"her death makes it forbidden\" versus \"the end of her trial makes it forbidden\"). The second chapter opens with the law that one is not valued at less than a sela or more than fifty, the dispute of Rabbi Meir and the Sages about one holding five sela, and the rule of a later creditor who collected first. The Rishonim and Acharonim mainly take up the relation of a lien to an oral loan, the meaning of \"sat on the birthstool\", the Shabbat laws, and the ban on benefit from the dead.",
+  "title": "Summary — Arakhin 7"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 3,
+   "anchors": [
+    "מִלְוָה הַכְּתוּבָה בַּתּוֹרָה כִּכְתוּבָה בִּשְׁטָר"
+   ],
+   "he": {
+    "term": "מלוה הכתובה בתורה ככתובה בשטר",
+    "explanation": "חיוב ממון שהתורה עצמה מחייבת, כמו נזקי בור, האם נחשב כמו חוב כתוב בשטר, שגובים ממנו מן היורשים. רבה מסביר כך את מחלוקת תנא קמא ורבי שמעון בן אלעזר. רש״י מביא מכאן ראיה שהכתוב בתורה דומה לשטר."
+   },
+   "en": {
+    "term": "A loan written in the Torah is like one written in a document",
+    "explanation": "Whether a monetary obligation that the Torah itself imposes, such as damage by a pit, is treated like a debt in a written document, which can be collected from heirs. Rabba explains the dispute of the first Tanna and Rabbi Shimon ben Elazar this way. Rashi draws from the baraita that a debt written in the Torah is like a document."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7a:4:3",
+    "quote": "אלמא מלוה הכתובה בתורה ככתובה בשטר דמיא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "אֵין מְעַנִּין אֶת דִּינוֹ"
+   ],
+   "he": {
+    "term": "עינוי הדין",
+    "explanation": "עיכוב ההוצאה להורג של אדם שנגמר דינו. הגמרא מנמקת בכך מדוע מזים עליו מדם חטאתו כשהזבח כבר זבוח: אין מעכבים את הריגתו, אך אם חטא בשעה זו אין מעכבים אותו כדי שיפריש קרבן."
+   },
+   "en": {
+    "term": "Oinui hadin (delaying a sentence)",
+    "explanation": "Holding back the execution of one whose verdict has been given. The Gemara gives this as the reason that, if one sinned just then, the court does not attend to him: it will not delay the sentence for his offering to be slaughtered and its blood sprinkled."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7a:7:4",
+    "quote": "שימתינו מלהורגו עד שישחטו הזבח ויזרק הדם שעינוי הדין הוא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 8,
+   "anchors": [
+    "זִבְחוֹ זָבוּחַ"
+   ],
+   "he": {
+    "term": "זבחו זבוח",
+    "explanation": "מצב שבו קרבנו של היוצא להריגה כבר נשחט באותה שעה. בגמרא אביי מקשה על דברי רב יוסף ומעמיד את הרישא כך. אז אפשר להזות עליו מדם חטאתו."
+   },
+   "en": {
+    "term": "Zivcho zavuach (his offering already slaughtered)",
+    "explanation": "The case where the offering of the one being led to execution has already been slaughtered at that time. Abaye, objecting to Rav Yosef, places the first clause in this case, where the blood can be sprinkled for him."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 7a:14",
+    "quote": "זבח זבוח חטאתו"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 15,
+   "anchors": [
+    "כֵּיוָן דְּעָקַר, גּוּפָא אַחֲרִינָא הוּא"
+   ],
+   "he": {
+    "term": "כיון דעקר גופא אחרינא הוא",
+    "explanation": "היושבת על המשבר: משעה שהוולד התחיל לצאת ממקומו, נחשב גוף נפרד, ולכן ממתינים לה עד שתלד. לעומת זאת, אשה מעוברת שיצאה להריגה נחשבת גוף אחד עם ולדה."
+   },
+   "en": {
+    "term": "Since it has moved, it is another body",
+    "explanation": "For a woman on the birthstool: once the child has moved from its place it is a separate body, so she is awaited until she gives birth. A pregnant woman led out to be killed, by contrast, is one body with her fetus."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7a:11:3",
+    "quote": "דכיון דעקר ונע ממקומו גופא אחרינא הוא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 20,
+   "anchors": [
+    "אַזְּנַב הַלְּטָאָה דִּמְפַרְכֶּסֶת"
+   ],
+   "he": {
+    "term": "זנב הלטאה",
+    "explanation": "הגמרא מסבירה שתנועת הוולד אחרי מות האם אינה סימן חיים, כמו זנב הלטאה שנחתך ועדיין מפרכס. רש״י: החתיכה מפרכסת אף שאין בה חיות."
+   },
+   "en": {
+    "term": "The lizard's tail",
+    "explanation": "The Gemara explains that the movement of the fetus after its mother's death is not a sign of life, like the tail of a lizard that twitches after being cut. Rashi: the piece twitches although it has no life in it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7a:20:2",
+    "quote": "אם חותכין אותה מפרכסת החתיכה ואע\"פ שאין בה חיות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 5,
+   "anchors": [
+    "בְּפֵאָה נׇכְרִית"
+   ],
+   "he": {
+    "term": "פאה נכרית",
+    "explanation": "שער של אשה אחרת הקשור לשערה. רב מעמיד בכך את המשנה בשער שהיא אומרת ״תנו״ לבתי, ומכאן שאינו כגופה."
+   },
+   "en": {
+    "term": "Pe'ah nokhrit (a borrowed hair-piece)",
+    "explanation": "Hair of another woman tied to her own hair. Rav places the Mishnah in the case of such a piece, where she says \"give\" it to her daughter, which shows it is not as her body."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7b:5:3",
+    "quote": "שהיתה לה פיאה משיער אשה אחרת קשורה לשערה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "זוֹ מִיתָתָהּ אוֹסַרְתָּהּ, וְזוֹ גְּמַר דִּינָה אוֹסַרְתָּהּ"
+   ],
+   "he": {
+    "term": "מיתתה אוסרתה / גמר דינה אוסרתה",
+    "explanation": "רב נחמן מחלק בין אשה לבהמה: באשה המיתה היא שאוסרת, והשער אינו משתנה במיתה; בבהמה גמר הדין אוסר את כולה, ומה שמחובר בה באותה שעה נאסר עמה."
+   },
+   "en": {
+    "term": "Her death forbids vs. the end of her trial forbids",
+    "explanation": "Rav Nachman distinguishes a woman from an animal: for a woman it is death that forbids, and hair does not change in death; for an animal the end of the trial forbids it, and what is attached to it then is forbidden with it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7b:10:1",
+    "quote": "אבל בהמה גמר דינה אוסרתה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 20,
+   "anchors": [
+    "אֲשֶׁר תַּשִּׂיג יַד הַנּוֹדֵר"
+   ],
+   "he": {
+    "term": "השגת יד",
+    "explanation": "הערך נקבע לפי מה שידו של הנודר משגת. לפי רש״י, אפילו העני שבעניים לא יתן פחות מסלע, ובמקום שיש לו יותר הוא נותן מה שיש לו."
+   },
+   "en": {
+    "term": "Hasagat yad (what one's hand can reach)",
+    "explanation": "The valuation is set by what the person who vowed can afford. In Rashi's words, even the poorest gives no less than a sela, and where he has more he gives what he has."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 7b:20:1",
+    "quote": "שאפי' עני שבעניים לא יתן פחות ומיהו היכא דאית ליה טפי יהיב"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    6
+   ],
+   "he": {
+    "title": "מלוה על פה ומלוה הכתובה בתורה – גביית יורשים",
+    "gemara": "הגמרא מקשה מברייתא על שיטה אחת. רב יוסף אומר שהמחלוקת היא אם מלוה על פה גובה מן היורשים, ורבה אומר שהכל מודים שאינה גובה והמחלוקת היא אם מלוה הכתובה בתורה ככתובה בשטר. הוכחה מחופר בור ושור שנפל עליו: יורשי בעל הבור חייבים. רב אילא בשם רב מעמיד: כשעמד בדין, ורב אדא בר אהבה: כשעשאו טריפה. הגמרא מקשה מ״מת וקברו״ ומשיבה: דייני יושבים על פי הבור.",
+    "halakha": "הרמב״ם פוסק שבעל השור נוטל דמי שורו מיורשי בעל הבור."
+   },
+   "en": {
+    "title": "A loan by word of mouth and a debt written in the Torah – collecting from heirs",
+    "gemara": "The Gemara objects from a baraita. Rav Yosef says the dispute is whether an oral loan is collected from heirs; Rabba says all agree it is not, and the dispute is whether a debt written in the Torah is like one in a document. The proof is the pit-digger and the ox that fell in: the heirs of the pit-owner must pay. Rabbi Ila in Rav's name places it where he stood in court, Rav Adda bar Ahavah where he made it a treifa. The Gemara objects from \"died and buried it\" and answers: judges sit by the mouth of the pit.",
+    "halakha": "The Rambam rules that the owner of the ox takes the value of his ox from the heirs of the pit-owner."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:4:3",
+     "quote": "אלמא מלוה הכתובה בתורה ככתובה בשטר דמיא",
+     "he": "רש״י למד מהברייתא שמלוה הכתובה בתורה ככתובה בשטר.",
+     "en": "Rashi infers from the baraita that a debt written in the Torah is like one in a document."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:5:1",
+     "quote": "קודם שמת וחייבוהו לשלם לפיכך גובה מן היורשין דכיון דדינו חרוץ לשלם ה\"ל כמלוה בשטר",
+     "he": "רש״י: ״כשעמד בדין״ – קודם שמת, ובית הדין חייבו אותו; לכן גובים מן היורשים, שהרי דינו חרוץ והרי זה כמלוה בשטר.",
+     "en": "Rashi: \"when he stood in court\" means before he died and they obligated him to pay; so it is collected from the heirs, since his verdict was settled and it is like a loan in a document."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:6:2",
+     "quote": "כגון דייתבי דייני אפומא דבירא וחייבוהו מיד לשלם",
+     "he": "רש״י: ״דייתבי דייני אפומא דבירא״ – שחייבוהו מיד לשלם.",
+     "en": "Rashi: \"judges sit at the mouth of the pit\" – they obligated him at once to pay."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7a:4",
+     "quote": "משום הכי חייבין יורשין בשעמד בעל הבור בדין ונתחייב קודם שמת",
+     "he": "רבינו גרשום: לעולם אינה ככתובה בשטר, אלא היורשים חייבים כי בעל הבור עמד בדין ונתחייב קודם מותו.",
+     "en": "Rabbeinu Gershom: it is never like one in a document; the heirs pay because the pit-owner stood in court and was obligated before he died."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7a:9",
+     "quote": "כגון דייתבי דייני אפומא דבירא דחייבוהו קודם שתצא נשמתו לאלתר",
+     "he": "רבינו גרשום מסביר שהדיינים חייבוהו קודם שיצאה נשמתו.",
+     "en": "Rabbeinu Gershom explains that the judges obligated him before his soul left."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7a:6:1",
+     "quote": "דס\"ד דבעינן יבא בעל השור ויעמוד על שורו",
+     "he": "תוספות: צריך לומר ״מת וקברו״, כי היה אפשר לחשוב שצריך שבעל השור יבוא ויעמוד על שורו.",
+     "en": "Tosafot: \"died and buried it\" is needed, since one might think the owner of the ox must come and stand by his ox."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7a:5:1",
+     "quote": "לאו משום קושיא דרבה משני רב הכי",
+     "he": "תוספות: רב לא תירץ כך בגלל קושיית רבה.",
+     "en": "Tosafot: Rav did not answer this way because of Rabba's objection."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Damages to Property 12:22",
+     "quote": "נוֹטֵל בַּעַל הַשּׁוֹר דְּמֵי שׁוֹרוֹ מִיּוֹרְשֵׁי בַּעַל הַבּוֹר",
+     "he": "הרמב״ם: אם מת השור, בעל השור נוטל דמי שורו מיורשי בעל הבור.",
+     "en": "The Rambam: if the ox died, the ox's owner takes the value of his ox from the heirs of the pit-owner."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "קרית ספר",
+      "en": "Kiryat Sefer"
+     },
+     "ref": "Kiryat Sefer on Mishneh Torah, Damages to Property 12:22:1",
+     "quote": "ומלוה על פה גובה מן היורשים דשעבודה דאוריתא",
+     "he": "הקרית ספר מסביר בדברי הרמב״ם שמלוה על פה גובה מן היורשים כי השעבוד מן התורה.",
+     "en": "The Kiryat Sefer, on the Rambam, says an oral loan is collected from heirs since the lien is from the Torah."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Choshen Mishpat 117:15",
+     "quote": "דמלוה הכתובה בתורה ככתובה בשטר דמי",
+     "he": "הגר״א מביא את דברי ערכין ז׳ א׳ שמלוה הכתובה בתורה ככתובה בשטר.",
+     "en": "The Gra cites Arakhin 7a that a debt written in the Torah is like one in a document."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 7a:1",
+     "quote": "טפי ה\"ל למיפרך מהבריית' דהיוצא ליהרג",
+     "he": "הרש״ש מקשה על רש״י שהיה לגמרא להקשות מהברייתא של היוצא ליהרג.",
+     "en": "The Rashash asks on Rashi that the Gemara should rather have objected from the baraita of one led out to be executed."
+    },
+    {
+     "who": {
+      "he": "ערוך השולחן",
+      "en": "Arukh HaShulchan"
+     },
+     "ref": "Arukh HaShulchan, Choshen Mishpat 410:49",
+     "quote": "ואוקימתא דערכין ז'. הוא למ\"ד דמלוה ע\"פ אין גובין מיורשים",
+     "he": "ערוך השולחן: התירוץ בערכין הוא לדעה שמלוה על פה אינה נגבית מיורשים.",
+     "en": "The Arukh HaShulchan: the answer in Arakhin is according to the view that an oral loan is not collected from heirs."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    7,
+    10
+   ],
+   "he": {
+    "title": "היוצא להריגה – חטאתו ואשמו",
+    "gemara": "ברייתא: היוצא להריגה מזים עליו מדם חטאתו ואשמו; חטא באותה שעה אין נזקקים לו. רב יוסף מנמק שאין מענים את דינו. אביי מקשה שאז גם הרישא כך, ומתרצים: הרישא כשזבחו זבוח. הגמרא מסבירה שהסיפא פירושה שנעשה כמי שחטא באותה שעה.",
+    "halakha": "הרמב״ם פוסק שאם זבחו זבוח מזים עליו קודם, ואם לא נשחט הזבח אין ממתינים לו."
+   },
+   "en": {
+    "title": "One led out to be executed – his sin and guilt offerings",
+    "gemara": "A baraita: for one led out to be executed, the blood of his sin- and guilt-offerings is sprinkled; if he sinned at that hour, they do not attend to him. Rav Yosef gives the reason that his sentence is not delayed. Abaye objects that then the first clause should be the same, and it is answered: the first clause is where his offering was already slaughtered. The Gemara explains the last clause as meaning that he is as one who sinned at that hour.",
+    "halakha": "The Rambam rules that if his offering was already slaughtered the blood is first sprinkled for him, and if it was not slaughtered they do not wait for him."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:7:1",
+     "quote": "זורקין בשבילו דם חטאתו ואשמו",
+     "he": "רש״י: ״מזין עליו״ – זורקים בשבילו דם חטאתו ואשמו.",
+     "en": "Rashi: \"they sprinkle on him\" – they throw the blood of his sin- and guilt-offerings for him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:7:2",
+     "quote": "בשוגג באותה שעה שיצא ליהרג כגון שראה חלב וכסבור שומן הוא ואכלו",
+     "he": "רש״י: ״חטא״ – בשוגג בשעה שיצא ליהרג, כגון שראה חלב וחשב שהוא שומן ואכלו.",
+     "en": "Rashi: \"he sinned\" – unintentionally as he went out to die, such as seeing forbidden fat, taking it for permitted fat, and eating it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:7:4",
+     "quote": "שימתינו מלהורגו עד שישחטו הזבח ויזרק הדם שעינוי הדין הוא",
+     "he": "רש״י: ״אין מענים את דינו״ – שימתינו מלהורגו עד שישחטו את הזבח ויזרק הדם, שזה עינוי הדין.",
+     "en": "Rashi: they would have to wait to kill him until the offering is slaughtered and the blood thrown, which is delaying the verdict."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7a:11",
+     "quote": "מזין עליו מדם חטאתו קודם שיהרג כדי שיתכפר על אותו חטא",
+     "he": "רבינו גרשום: אם חטא קודם והפריש קרבן ואחר כך נגמר דינו, מזים עליו מדם חטאתו קודם שיהרג כדי שיתכפר.",
+     "en": "Rabbeinu Gershom: if he sinned earlier and set aside an offering and then his verdict was given, the blood of his sin-offering is sprinkled before he is killed so that he is atoned."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7a:7:1",
+     "quote": "אבל עולתו קריבה",
+     "he": "תוספות: חטאת ואשם אינם קרבים אחרי מותו, אבל עולתו קרבה.",
+     "en": "Tosafot: a sin- or guilt-offering is not brought after his death, but his burnt-offering is."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 12:5",
+     "quote": "אֵין הוֹרְגִין אוֹתוֹ עַד שֶׁמַּזִּין עָלָיו מִדַּם חַטָּאתוֹ וַאֲשָׁמוֹ",
+     "he": "הרמב״ם: מי שזבחו זבוח – אין הורגים אותו עד שמזים עליו מדם חטאתו ואשמו.",
+     "en": "The Rambam: if his offering was slaughtered they do not kill him until the blood of his sin- and guilt-offerings is sprinkled for him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 3:12",
+     "quote": "אֵין מַשְׁהִין אוֹתוֹ עַד שֶׁיַּקְרִיבוּ עָלָיו",
+     "he": "הרמב״ם: אם הזבח עדיין לא נשחט אין מעכבים אותו עד שיקריבו עליו.",
+     "en": "The Rambam: if the offering was not yet slaughtered, they do not hold him until it is offered for him."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Offerings for Unintentional Transgressions 3:12:1",
+     "quote": "בסוף פ\"ק דערכין",
+     "he": "הכסף משנה מציין שדין הרמב״ם מקורו בסוף הפרק הראשון של ערכין.",
+     "en": "The Kessef Mishneh notes that the Rambam's law comes from the end of the first chapter of Arakhin."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    11,
+    20
+   ],
+   "he": {
+    "title": "אשה מעוברת והיושבת על המשבר – מי מת תחילה",
+    "gemara": "המשנה: האשה שיצאה להריגה אין ממתינים לה עד שתלד, ואם ישבה על המשבר ממתינים. הגמרא מבררת מדוע אין עובר שלה נפרד (״ומתו גם שניהם״ לרבות הוולד), ומדוע ״כיון דעקר גופא אחרינא״. שמואל: מכים אותה כנגד בית ההריון שימות הוולד תחילה. מקשים מ״בן יומו נוחל ומנחיל״ שהעובר מת תחילה, ומתרצים שבנהרגה האם מתה ראשונה. הפרכוס כזנב הלטאה.",
+    "halakha": "הרמב״ם פוסק שמכים אותה כנגד בית ההריון עד שימות הוולד, ושהיושבת על המשבר ממתינים לה. השולחן ערוך פוסק שהבן אינו יורש את אמו בקבר, וברמ״א שעובר אינו יורש אמו."
+   },
+   "en": {
+    "title": "A pregnant woman and one on the birthstool – who dies first",
+    "gemara": "The Mishnah: a woman led out to execution is not awaited until she gives birth; if she sat on the birthstool she is awaited. The Gemara asks why the fetus is not counted separately (\"both of them shall die\" includes the fetus) and explains \"since it has moved, it is another body\". Shmuel: they strike her opposite the womb so the fetus dies first. It is objected from \"a day-old baby inherits and passes on\" that the fetus dies first, and answered that when she is killed she dies first. The twitching is like a lizard's tail.",
+    "halakha": "The Rambam rules that she is struck opposite the womb until the fetus dies, and that one on the birthstool is awaited. The Shulchan Arukh rules that a son does not inherit his mother in the grave, and the Rema that a fetus does not inherit its mother."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:11:1",
+     "quote": "אלא הורגין ולדה עמה דחד גופא הוא",
+     "he": "רש״י: אין ממתינים לה אלא הורגים את ולדה עמה, כי הוא גוף אחד.",
+     "en": "Rashi: they do not wait but kill her fetus with her, since it is one body."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:11:3",
+     "quote": "דכיון דעקר ונע ממקומו גופא אחרינא הוא",
+     "he": "רש״י: ממתינים לה כי משעה שהוולד נע ממקומו הוא גוף אחר.",
+     "en": "Rashi: she is awaited because once the child has moved from its place it is another body."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:11:2",
+     "quote": "קודם שנגמר דינה",
+     "he": "רש״י מפרש ״ישבה על המשבר״ כשהיה זה קודם שנגמר דינה.",
+     "en": "Rashi explains \"sat on the birthstool\" as before her verdict was given."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7a:11:1",
+     "quote": "פרש\"י קודם שנגמר דינה וליתא דאיוצא ליהרג קאי",
+     "he": "תוספות חולקים על רש״י: הדבר אינו כך, שהמשנה עוסקת ביוצא להריגה.",
+     "en": "Tosafot disagree with Rashi: that is not so, as the Mishnah speaks of one led out to be executed."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7a:11:1",
+     "quote": "דליכא עינוי הדין אלא לאחר גמר דין",
+     "he": "תוספות מוכיחים מהסוגיה בסנהדרין שאין עינוי הדין אלא אחרי גמר הדין.",
+     "en": "Tosafot prove from the sugya in Sanhedrin that there is delaying of a verdict only after the verdict is given."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:16:1",
+     "quote": "שאם יהא חיות בולד יצא לאחר מיתת אמו וניוול הוא",
+     "he": "רש״י על ״ניוול״: אם יש חיות בוולד הוא יצא אחרי מות אמו, וזה ניוול.",
+     "en": "Rashi on \"disgrace\": if the fetus were alive it would come out after its mother died, and that is a disgrace."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7a:26",
+     "quote": "הוי כזנב הלטאה שמפרכסת אחר שנחתך הזנב ממנה",
+     "he": "רבינו גרשום: הפרכוס אינו חיות אלא כזנב הלטאה המפרכס אחר שנחתך.",
+     "en": "Rabbeinu Gershom: the twitching is not life but like the lizard's tail that twitches after being cut."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7a:24",
+     "quote": "טיפה של מרה",
+     "he": "רבינו גרשום: ״טיפת מלאך המות״ היא טיפה של מרה.",
+     "en": "Rabbeinu Gershom: the \"drop of the angel of death\" is a drop of gall."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Bava Batra 142a:3",
+     "quote": "איהי מתה ברישא",
+     "he": "הרשב״א: ודוקא כשמתה בידי שמים העובר מת ראשון, אבל במיתה בידי אדם או מחמת קושי לידה האם מתה ראשונה, והוא מציין לערכין.",
+     "en": "The Rashba: the fetus dies first only when she dies by heaven; when by man's hand or from hard labor she dies first, and he cites Arakhin."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Bava Batra 142a:7:2",
+     "quote": "שאין ממעט בחלק בכורה",
+     "he": "תוספות בבבא בתרא, בדיון על הסוגיה בערכין, כותבים שאפשר לתרץ כמר בריה דרב יוסף שאין ממעט בחלק בכורה.",
+     "en": "Tosafot in Bava Batra, discussing the Arakhin sugya, write that one can answer like Mar son of Rav Yosef, that it does not reduce the firstborn's share."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 12:4",
+     "quote": "וּמַכִּין אוֹתָהּ כְּנֶגֶד בֵּית הַהֵרָיוֹן עַד שֶׁיָּמוּת הַוָּלָד תְּחִלָּה",
+     "he": "הרמב״ם: מכים אותה כנגד בית ההריון עד שימות הוולד תחילה.",
+     "en": "The Rambam: they strike her opposite the womb until the fetus dies first."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Inheritances 1:13",
+     "quote": "אֵין הַבֵּן יוֹרֵשׁ אֶת אִמּוֹ בַּקֶּבֶר",
+     "he": "הרמב״ם: אין הבן יורש את אמו בקבר.",
+     "en": "The Rambam: a son does not inherit his mother in the grave."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, The Sanhedrin and the Penalties within their Jurisdiction 12:4:2",
+     "quote": "אין ממתינין לה עד שתלד אלא הורגין ולדה עמה",
+     "he": "הכסף משנה מביא על הרמב״ם את המשנה ופירוש רש״י.",
+     "en": "The Kessef Mishneh brings, on the Rambam, the Mishnah and Rashi's explanation."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 7a:6",
+     "quote": "נראה דלפניהם לא הי' הגי' בבבא זו האשה שישבה",
+     "he": "הרש״ש: נראה שלפני התוספות הנוסח היה ״ישבה״ בלבד ולכן הם מפרשים שהיא חלק מהרישא, ולפני רש״י היה ״האשה שישבה״ והוא ענין בפני עצמו.",
+     "en": "The Rashash: it seems the Tosafot's text did not read \"the woman who sat\", so they take it with the first clause; Rashi's text did, so it is a separate matter."
+    },
+    {
+     "who": {
+      "he": "מחצית השקל",
+      "en": "Machatzit HaShekel"
+     },
+     "ref": "Machatzit HaShekel on Orach Chayim 330:10:4",
+     "quote": "דוקא במתה ע\"י מלאך המות אבל בנהרגה אפשר האם מתה תחלה",
+     "he": "מחצית השקל: ״עובר מת ראשון״ רק במתה ע״י מלאך המות, אבל בנהרגה האם יכולה למות ראשונה.",
+     "en": "The Machatzit HaShekel: the fetus dying first holds only where she dies through the angel of death; when she is killed the mother may die first."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Choshen Mishpat 276:5",
+     "quote": "אבל עובר אינו יורש אמו אם מתה כשהיא מעוברת להנחיל יורשיו מאביו",
+     "he": "הרמ״א בשולחן ערוך: עובר אינו יורש את אמו אם מתה כשהיא מעוברת.",
+     "en": "The Rema in the Shulchan Arukh: a fetus does not inherit its mother if she dies while pregnant."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    21,
+    3
+   ],
+   "he": {
+    "title": "יושבת על המשבר שמתה בשבת – סכין ופיקוח נפש",
+    "gemara": "שמואל: היושבת על המשבר ומתה בשבת, מביאים סכין, מקרעים את כריסה ומוציאים את הוולד. הגמרא: פשיטא, מחתך בבשר הוא! ורבה: לא נצרכה אלא להביא סכין דרך רשות הרבים. ומה משמיע? שמספק מחללים שבת, כמו מפולת. אלא יש לומר שבמפולת יש חזקת חיים, וכאן אין.",
+    "halakha": "הרמב״ם והשולחן ערוך פוסקים שמביאים סכין בשבת אפילו דרך רשות הרבים ומוציאים את הוולד, שמא ימצא חי."
+   },
+   "en": {
+    "title": "One on the birthstool who died on Shabbat – the knife and saving life",
+    "gemara": "Shmuel: for a woman on the birthstool who died on Shabbat, they bring a knife, cut open her belly and take out the child. The Gemara: obvious, it is cutting flesh! Rabba: it is needed only to bring the knife through the public domain. And what does it teach? That Shabbat is desecrated on doubt, like the collapse case; but there it has a presumption of life, here none.",
+    "halakha": "The Rambam and the Shulchan Arukh rule that they bring a knife on Shabbat even through the public domain and take out the child, in case it is found alive."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7a:21:1",
+     "quote": "דזימנין דמיקרי דהיא מייתא ברישא",
+     "he": "רש״י: מקרעים את כריסה כי לפעמים האם מתה ראשונה.",
+     "en": "Rashi: they tear open her belly since sometimes the mother dies first."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:1:1",
+     "quote": "ואין חיוב אלא בחובל בחי דמוציא דם",
+     "he": "רש״י: ״מחתך בבשר בעלמא״ – אין חיוב אלא בחובל בחי שמוציא דם.",
+     "en": "Rashi: \"it is mere cutting of flesh\" – liability is only for wounding a living one so as to draw blood."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7b:1",
+     "quote": "בה משום חבורה",
+     "he": "רבינו גרשום: כיון שמתה אין בה משום חבורה.",
+     "en": "Rabbeinu Gershom: since she died there is no wounding."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Niddah 44b:3",
+     "quote": "חתוך בשר מת אין בו אלא מצות פרוש מדבריהם",
+     "he": "הריטב״א מביא דעה שחתיכת בשר מת היא רק איסור דרבנן, ולכן מחללים שבת מספק.",
+     "en": "The Ritva records a view that cutting a corpse's flesh is only a rabbinic prohibition, so Shabbat is desecrated on doubt."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbath 2:15",
+     "quote": "שֶׁסְּפֵק נְפָשׁוֹת דּוֹחֶה אֶת הַשַּׁבָּת וַאֲפִלּוּ לָזֶה שֶׁאֵין חֶזְקָתוֹ חַי",
+     "he": "הרמב״ם: ספק נפשות דוחה את השבת, ואפילו לזה שאין חזקתו חי.",
+     "en": "The Rambam: a doubt of life overrides Shabbat, even for this one whose presumption is not alive."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbath 2:18",
+     "quote": "מְפַקְּחִין עָלָיו וּמוֹצִיאִין אוֹתוֹ לְחַיֵּי אוֹתָהּ שָׁעָה",
+     "he": "הרמב״ם במפולת: מפקחים עליו ומוציאים אותו לחיי אותה שעה.",
+     "en": "The Rambam on the collapse: they dig for him and take him out for the life of that hour."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 7b:1",
+     "quote": "ק\"ל דאי מהתם ה\"א דוקא באיסורי דרבנן כמו פיקוח הגל",
+     "he": "הרש״ש מקשה: ממפולת היה אפשר לחשוב שמדובר רק באיסורי דרבנן, כמו פיקוח הגל.",
+     "en": "The Rashash asks: from the collapse one might think it is only for rabbinic prohibitions, like digging out the debris."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 330:5",
+     "quote": "ומוציאים הולד שמא ימצא חי",
+     "he": "השולחן ערוך: היושבת על המשבר ומתה, מביאים סכין בשבת אפילו דרך רשות הרבים ומוציאים הולד שמא ימצא חי.",
+     "en": "The Shulchan Arukh: for a woman on the birthstool who died, they bring a knife on Shabbat even through the public domain and take out the child in case it is found alive."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 330:5",
+     "quote": "משום דאין בקיאין להכיר במיתת האם בקרוב כל כך שאפשר לולד לחיות",
+     "he": "הרמ״א: אין נוהגים כן עכשיו אפילו בחול, כי אין בקיאים להכיר במיתת האם בקרוב.",
+     "en": "The Rema: it is not the practice now even on a weekday, since they are not expert at recognizing the mother's death soon enough for the child to live."
+    },
+    {
+     "who": {
+      "he": "ביאור הלכה",
+      "en": "Biur Halacha"
+     },
+     "ref": "Biur Halacha 330:7:2",
+     "quote": "תירץ המגן אברהם דהתם מיירי שידעינן שכלו חדשיו",
+     "he": "הביאור הלכה: המגן אברהם תירץ שהסוגיה בערכין עוסקת כשידוע שכלו חדשיו.",
+     "en": "The Biur Halacha: the Magen Avraham answered that the Arakhin sugya is where it is known that her months were complete."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Orach Chayim 329:3",
+     "quote": "מפקחין עליו אע\"פ שיש בו כמה ספיקות",
+     "he": "השולחן ערוך: במפולת מפקחים עליו אף שיש כמה ספיקות.",
+     "en": "The Shulchan Arukh: for a collapse they dig for him although there are several doubts."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    4,
+    13
+   ],
+   "he": {
+    "title": "שער האשה שנהרגה – פאה נכרית, מיתה וגמר דין",
+    "gemara": "המשנה: נהנים בשער האשה שנהרגה, ובהמה שנהרגה אסורה. הגמרא: הרי הם איסורי הנאה? רב: באומרת ״תנו שערי לבתי״; ומקשים מ״ידי״. רב מעמיד בפאה נכרית, ורב נחמן בר יצחק מקשה מדמיון לבהמה. רב נחמן: זו מיתתה אוסרתה וזו גמר דינה אוסרתה. תני לוי ותניא מסייעים.",
+    "halakha": "הרמב״ם פוסק שכל אשה שתיהרג מותר ליהנות משערה, והשולחן ערוך שנויי המת המחוברים בו, כפאה נכרית, אסורים."
+   },
+   "en": {
+    "title": "The hair of an executed woman – a hair-piece, death and the end of the trial",
+    "gemara": "The Mishnah: one may benefit from the hair of a woman who was killed, but an animal that was killed is forbidden. The Gemara: are these not things forbidden for benefit? Rav: where she says \"give my hair to my daughter\"; it is objected from \"my hand\". Rav places it in a hair-piece, and Rav Nachman bar Yitzchak objects from the comparison to an animal. Rav Nachman: for this her death forbids, for that the end of the trial forbids. Tanna Levi and a baraita support.",
+    "halakha": "The Rambam rules that one may benefit from the hair of any woman who is killed, and the Shulchan Arukh that the adornments of the dead attached to him, such as a hair-piece, are forbidden."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:5:3",
+     "quote": "כיון דאמרה תנו גליא דעתה דלא ניחא לה דתיהוי כגופה",
+     "he": "רש״י: בפאה נכרית – כיון שאמרה ״תנו״ גילתה דעתה שאינה רוצה שתהיה כגופה.",
+     "en": "Rashi: with a hair-piece, since she said \"give\" she revealed that she does not want it to be as her body."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:10:1",
+     "quote": "אבל בהמה גמר דינה אוסרתה",
+     "he": "רש״י: באשה המיתה אוסרת והשער אינו בר מיתה; בבהמה גמר הדין אוסר.",
+     "en": "Rashi: for a woman death forbids and hair is not subject to death; for an animal the end of the trial forbids."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:11:3",
+     "quote": "דכתיב ותמת שם מרים וגמר שם שם מעגלה ערופה",
+     "he": "רש״י: המת אסור בהנאה, כמו שלמד ״שם שם״ מעגלה ערופה.",
+     "en": "Rashi: a corpse is forbidden for benefit, as learned by \"there – there\" from the heifer whose neck is broken."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7b:8",
+     "quote": "תנו הוי כמופרש ממנה ונהנין",
+     "he": "רבינו גרשום: כשאמרה ״תנו״ קודם מיתה, הוא כמופרש ממנה ונהנים.",
+     "en": "Rabbeinu Gershom: when she said \"give\" before death, it is as separated from her and one may benefit."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7b:10",
+     "quote": "גמר דינה אוסרתה בהנאה ולא מיתתה",
+     "he": "רבינו גרשום: בבהמה גמר דינה אוסרתה ולא מיתתה; לכן אין נהנים בשערה.",
+     "en": "Rabbeinu Gershom: for an animal the end of its trial forbids, not its death; so one may not benefit from its hair."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 12:4",
+     "quote": "וְכָל אִשָּׁה שֶׁתֵּהָרֵג מֻתָּר לֵהָנוֹת בִּשְׂעָרָהּ",
+     "he": "הרמב״ם: כל אשה שתיהרג מותר ליהנות משערה.",
+     "en": "The Rambam: for any woman who is killed one may benefit from her hair."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Mourning 14:21",
+     "quote": "חוּץ מִשְּׂעָרוֹ שֶׁהוּא מֻתָּר בַּהֲנָאָה מִפְּנֵי שֶׁאֵינוֹ גּוּפוֹ",
+     "he": "הרמב״ם: המת אסור בהנאה חוץ משערו, המותר כי אינו גופו.",
+     "en": "The Rambam: the dead is forbidden for benefit except his hair, which is permitted since it is not his body."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Yoreh De'ah 349",
+     "quote": "ונויי המת המחוברים בגופו כגון פיאה נכרית וכיוצא בזה אסורים כמו המת עצמו",
+     "he": "הטור: נויי המת המחוברים בגופו, כגון פיאה נכרית, אסורים כמו המת עצמו.",
+     "en": "The Tur: the adornments of the dead attached to his body, such as a hair-piece, are forbidden like the dead himself."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 349:2",
+     "quote": "אבל שערו ממש אפילו אם צוה עליו אסור בהנאה",
+     "he": "השולחן ערוך: שערו ממש אסור בהנאה אפילו אם צוה עליו.",
+     "en": "The Shulchan Arukh: his actual hair is forbidden for benefit even if he gave instructions about it."
+    },
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 349:2",
+     "quote": "אשה שיוצאת ליהרג נהנין בשערה אף על פי שנגמר דינה אין שערותיה נאסרים עד שתקטל",
+     "he": "הרמ״א: אשה שיוצאת להריגה נהנים בשערה, ואין שערותיה נאסרות עד שתיהרג.",
+     "en": "The Rema: for a woman led out to be killed one may benefit from her hair, and it is not forbidden until she is killed."
+    },
+    {
+     "who": {
+      "he": "פתחי תשובה",
+      "en": "Pitchei Teshuva"
+     },
+     "ref": "Pitchei Teshuva on Shulchan Arukh, Yoreh De'ah 349:4",
+     "quote": "דאנן לא שמעינן בסוף פ\"ק דערכין לאסור נויי המת",
+     "he": "הפתחי תשובה מביא מי שכתב שבסוף הפרק הראשון בערכין לא נשמע לאסור נויי המת אלא תכשיטים כעין גופו.",
+     "en": "The Pitchei Teshuva brings one who wrote that the end of the first chapter of Arakhin does not forbid the adornments of the dead except jewelry of the body's kind."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 7b:2",
+     "quote": "ולכאורה תמוה דעור דמת כ' התוס' בזבחים",
+     "he": "הרש״ש: תמוה לכאורה, שהרי על עור המת כתבו התוספות בזבחים שהוא מותר.",
+     "en": "The Rashash: it seems puzzling, since for the corpse's skin Tosafot in Zevachim wrote that it is permitted."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    14,
+    24
+   ],
+   "he": {
+    "title": "אין נערכין פחות מסלע – יד משגת ובעל חוב מאוחר",
+    "gemara": "המשנה: אין נערכין פחות מסלע ולא יותר על חמישים. מי שיש בידו חמש סלעים – ר׳ מאיר אומר נותן אחת, וחכמים אומרים נותן כולן. הגמרא לומדת מ״בשקל הקדש״ ומ״חמישים״; ר׳ מאיר: ״או חמישים או שקל״, ורבנן: ״אשר תשיג יד״, ור׳ מאיר: ״יד הנודר ולא יד הנידר״. רב אדא בר אהבה: כשנתן ארבע לשניה ואחת לראשונה יצא ידי שתיהן, שבעל חוב מאוחר שקדם וגבה – מה שגבה גבה.",
+    "halakha": "הרמב״ם פוסק שאין בערכין פחות מסלע ולא יותר על חמישים, ושהקדש מאוחר שגבה – גבה."
+   },
+   "en": {
+    "title": "One is not valued at less than a sela – what one's hand can reach, and the later creditor",
+    "gemara": "The Mishnah: one is not valued at less than a sela or more than fifty. If he holds five sela – Rabbi Meir says he gives one, the Sages say he gives all. The Gemara learns from \"by the shekel of the sanctuary\" and from \"fifty\"; Rabbi Meir: \"either fifty or a shekel\"; the Rabbis: \"as the vower's hand can reach\"; Rabbi Meir: \"the hand of the vower and not of the one vowed for\". Rav Adda bar Ahavah: if he gave four for the second and one for the first, he has fulfilled both, since a later creditor who collected first, what he collected he collected.",
+    "halakha": "The Rambam rules that there is no valuation under a sela or over fifty, and that a later consecrated debt that collected, collected."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:15:1",
+     "quote": "שאפי' עני הנדור בהשג יד לא יתן פחות מסלע",
+     "he": "רש״י: אפילו העני הנידון בהשגת יד לא יתן פחות מסלע.",
+     "en": "Rashi: even a poor man judged by what his hand can reach does not give less than a sela."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:15:2",
+     "quote": "דזהו גדול שבערכין הכתובין בפרשה",
+     "he": "רש״י: ״לא יותר על חמישים״ – זה הגדול שבערכים הכתובים בפרשה.",
+     "en": "Rashi: \"not more than fifty\" – this is the largest of the valuations written in the passage."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:15:4",
+     "quote": "דבנתינה קמייתא לא יצא ידי ערכו ועדיין ערכו עליו",
+     "he": "רש״י: אם נתן פחות מסלע והעשיר נותן חמישים, כי בנתינה הראשונה לא יצא ידי ערכו.",
+     "en": "Rashi: if he gave less than a sela and became rich he gives fifty, because the first giving did not discharge his valuation."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7b:17",
+     "quote": "הואיל ואין ידו משגת לכל הערך",
+     "he": "רבינו גרשום: ר׳ מאיר אומר ״אינו נותן אלא אחד״ הואיל ואין ידו משגת לכל הערך.",
+     "en": "Rabbeinu Gershom: Rabbi Meir says he gives only one since his hand does not reach the whole valuation."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 7b:18",
+     "quote": "סתם לא יהו פחות משקל ואינו נפטר עד שיתן סלע שלם",
+     "he": "רבינו גרשום: ערכים לא יהיו פחות משקל, ואינו נפטר עד שיתן סלע שלם.",
+     "en": "Rabbeinu Gershom: valuations are not less than a shekel, and he is not discharged until he gives a whole sela."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:21:1",
+     "quote": "שעני שהעריך את העשיר נותן ערך עני",
+     "he": "רש״י: ״יד הנודר ולא יד הנידר״ – עני שהעריך את העשיר נותן ערך עני.",
+     "en": "Rashi: \"the hand of the vower and not of the one vowed for\" – a poor man who valued a rich one gives the poor man's valuation."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7b:16:1",
+     "quote": "אלא אפי' נתן כל הערך חוץ מסלע אחד מגלגלין עליו את הכל",
+     "he": "תוספות: ״פחות מסלע והעשיר״ אינו דוקא, אלא אפילו נתן כל הערך חוץ מסלע אחד מגלגלים עליו את הכל.",
+     "en": "Tosafot: \"less than a sela and he became rich\" is not exact; even if he gave all except one sela, the whole is rolled onto him."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7b:21:1",
+     "quote": "קמ\"ל קרא דאשר תשיג יד הנודר דלא אזלינן בתר הנידר",
+     "he": "תוספות: הפסוק ״אשר תשיג יד הנודר״ בא ללמד שאין הולכים אחר הנידר.",
+     "en": "Tosafot: the verse \"as the hand of the vower can reach\" teaches that we do not follow the one vowed for."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 7b:22:1",
+     "quote": "על פי כהן יצא ידי שניהן ואפי' לרבנן הואיל ויהב לשניה ברישא",
+     "he": "רש״י: ״ונתן ארבע לשניה״ – על פי כהן יצא ידי שניהן, אפילו לרבנן, הואיל ונתן לשניה קודם.",
+     "en": "Rashi: \"gave four for the second\" – by the priest's order he fulfilled both, even according to the Rabbis, since he gave for the second first."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 7b:24:1",
+     "quote": "ובשמעתין הכי הוא נתן ד' לשניה שהכהן העריכו תחילה על השניה",
+     "he": "תוספות: כאן הכהן העריכו תחילה על השניה ואחר כך על הראשון.",
+     "en": "Tosafot: here the priest valued him first for the second and afterwards for the first."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 3:3",
+     "quote": "הָא לָמַדְתָּ שֶׁאֵין בַּעֲרָכִין פָּחוֹת מִסֶּלַע וְלֹא יוֹתֵר עַל חֲמִשִּׁים",
+     "he": "הרמב״ם: מכאן שאין בערכים פחות מסלע ולא יותר על חמישים.",
+     "en": "The Rambam: from this you learn that there are no valuations under a sela or over fifty."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 3:11",
+     "quote": "הֶקְדֵּשׁ מְאֻחָר שֶׁגָּבָה גָּבָה",
+     "he": "הרמב״ם: אף שכל מה שבידו משועבד לראשונה, הקדש מאוחר שגבה גבה.",
+     "en": "The Rambam: although all he holds is pledged to the first, a later consecration that collected, collected."
+    },
+    {
+     "who": {
+      "he": "תוספות רי״ד",
+      "en": "Tosafot Rid"
+     },
+     "ref": "Tosafot Rid on Ketubot 90a:9",
+     "quote": "דלא מיירי האי דערכין אלא במטלטלי",
+     "he": "תוספות רי״ד מביא שרבינו חננאל העמיד את ערכין רק במטלטלין.",
+     "en": "Tosafot Rid brings that Rabbeinu Chananel placed the Arakhin case only in movables."
+    },
+    {
+     "who": {
+      "he": "ריטב״א",
+      "en": "Ritva"
+     },
+     "ref": "Ritva on Ketubot 90a:6",
+     "quote": "דהתם במטלטלין דלית ביה דין קדימה",
+     "he": "הריטב״א: בערכין מדובר במטלטלין שאין בהם דין קדימה.",
+     "en": "The Ritva: in Arakhin it is movables, which have no law of priority."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Choshen Mishpat 104:2",
+     "quote": "ותי' הא דערכין במטלטלים",
+     "he": "הגר״א מביא את התירוץ שמה שבערכין הוא במטלטלים.",
+     "en": "The Gra brings the answer that what is in Arakhin is for movables."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 7b:6",
+     "quote": "ואני מסתפק דאולי לרבנן",
+     "he": "הרש״ש מסתפק ברבנן שדרשו ״בשקל״, מה הדין כשיש לו שקל וחצי.",
+     "en": "The Rashash is unsure, for the Rabbis who expounded \"by the shekel\", what the law is when he has a shekel and a half."
+    }
+   ]
+  }
+ ]
+}
