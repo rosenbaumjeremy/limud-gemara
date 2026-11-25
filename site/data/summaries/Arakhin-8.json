@@ -1,0 +1,1218 @@
+{
+ "ref": "Arakhin 8",
+ "date": "2026-11-25",
+ "he": {
+  "overview": "הדף עוסק בערכין ח׳. בעמוד א׳ מסיימת הגמרא את שאלת נתינת חמש הסלעים לשני ערכים, ואחר כך המשנה והברייתא של ״פתח בטועה״, חשבון ימי נדה וזיבה לאשה שאינה יודעת מתי ראתה. בעמוד ב׳ ממשיכה הסוגיה בקרבנה של הטועה, ואחר כך משנה על נגעים ודרשת רב פפא ״צדקתך כהררי אל״ ופלוגתת רבה ורב יהודה ״כובש״ או ״נושא״. בסוף המשנה על חודשים מעוברים, שתי הלחם, לחם הפנים ומילה. הראשונים והאחרונים דנים בחשבון הימים, בקרבן שאינו נאכל, ובטעם ״לא נראה יותר משמונה״.",
+  "title": "סיכום — ערכין ח׳"
+ },
+ "en": {
+  "overview": "The daf is Arakhin 8. On amud a the Gemara finishes the question of giving five sela'im toward two valuations, then comes the Mishnah and baraita on the 'petach' of a woman who erred, counting niddah and zivah days for a woman who does not know when she saw. On amud b the sugya continues with her offering, then a Mishnah on plagues, Rav Papa's reading of 'Your righteousness is like the mountains of God', and the dispute of Rabba and Rav Yehuda about 'kovesh' or 'nosei'. It ends with the Mishnah on full months, the Two Loaves, the Showbread and circumcision. The Rishonim and Acharonim discuss the arithmetic of the days, the offering that is not eaten, and the reason for 'no more than eight'.",
+  "title": "Summary — Arakhin 8"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "יתר על סלע"
+   ],
+   "he": {
+    "term": "השגת יד",
+    "explanation": "מי שאין לו כדי הערך, הכהן מעריך אותו לפי השגת ידו. לפי רבנן נותן את כל מה שיש לו."
+   },
+   "en": {
+    "term": "Hasagat yad (the donor's means)",
+    "explanation": "One who cannot afford the valuation is valued by the kohen according to his means (hasagat yad). According to the Rabbanan he gives all he has."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 8a:4:1",
+    "quote": "דלר' מאיר ליכא השג יד שיהא יותר על סלע ופחות מחמשים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "פתח בטועה"
+   ],
+   "he": {
+    "term": "פתח",
+    "explanation": "״פתח״ הוא תחילת ימי הנדה, מהם מתחילים למנות. טועה היא אשה שאינה יודעת מתי ראתה, ולכן פתחה מרוחק."
+   },
+   "en": {
+    "term": "Petach (onset of niddah)",
+    "explanation": "The 'petach' is the onset of a woman's niddah days, from which counting begins. A 'to'ah' is one who does not know when she saw, so her petach is pushed far off."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 8a:5:1",
+    "quote": "ראתה היום מונה ששה והוא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "אחד עשר"
+   ],
+   "he": {
+    "term": "אחד עשר ימי זיבה",
+    "explanation": "בין שבעת ימי נדה לנדה הבאה יש אחד עשר יום של זיבה, שבהם ראייה של שלשה ימים רצופים עושה אותה זבה."
+   },
+   "en": {
+    "term": "The eleven days of zivah",
+    "explanation": "Between the seven days of niddah and the next niddah are eleven days of zivah, in which seeing three days in a row makes her a zavah."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 8a:5",
+    "quote": "שי\"א יום הן בין נדה לנדה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "יום אחד טמא ראיתי"
+   ],
+   "he": {
+    "term": "שומרת יום כנגד יום",
+    "explanation": "אשה שראתה יום או יומיים בימי זיבה צריכה לשמור יום נקי אחד ואז טובלת ונטהרת, בלי קרבן."
+   },
+   "en": {
+    "term": "Shomeret yom kenegged yom",
+    "explanation": "A woman who sees one or two days in the zivah days must keep one clean day and then immerse and become pure, without an offering."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 8a:5:1",
+    "quote": "שאם ראתה בהן יום אחד או שנים שומרת יום כנגד יום"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "שנים עשר"
+   ],
+   "he": {
+    "term": "זבה גמורה",
+    "explanation": "זבה גמורה היא מי שראתה שלשה ימים רצופים בימי זיבה, וצריכה ספירת שבעה נקיים וקרבן שנאכל."
+   },
+   "en": {
+    "term": "Zavah gemurah (full zavah)",
+    "explanation": "A 'zavah gemurah' saw three days in a row in the zivah days; she needs seven clean days and an offering that is eaten."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 8b:1",
+    "quote": "אז הויא זבה גמורה לאכול קרבנה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "נגעי בתים"
+   ],
+   "he": {
+    "term": "נגעי בתים",
+    "explanation": "נגע על קירות בית: מסגירים עד שלשה שבועות, כמו שנלמד מתורת כהנים."
+   },
+   "en": {
+    "term": "Plagues of houses",
+    "explanation": "A plague on a house's walls: it is confined for up to three weeks, as learned from the Torat Kohanim."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 8b:10:2",
+    "quote": "שלש שבועות כדתניא בתורת כהנים"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 13,
+   "anchors": [
+    "כובש",
+    "נושא"
+   ],
+   "he": {
+    "term": "כובש / נושא",
+    "explanation": "שתי דרכים שבהן ה׳ מכריע את הדין לזכות: ״כובש״ – מסתיר את העונות, ״נושא״ – מגביה כף העונות."
+   },
+   "en": {
+    "term": "Kovesh / Nosei",
+    "explanation": "Two ways in which God tips the judgment to merit: 'kovesh' – suppresses the sins; 'nosei' – lifts up the pan of sins."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 8b:13:2",
+    "quote": "נושא ומגביה כף העונות למעלה כדי שיכריעו הזכיות"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "מאי שנא תשעה"
+   ],
+   "he": {
+    "term": "מקדים סיהרא",
+    "explanation": "אם עושים תשעה חודשים מלאים, הלבנה החדשה תופיע שלשה ימים לפני ראש חודש הקבוע."
+   },
+   "en": {
+    "term": "Makdim siharah (the moon arrives early)",
+    "explanation": "If nine full months are made, the new moon appears three days before the fixed new month."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Arakhin 8b:17:1",
+    "quote": "דאם כן מקדים סיהרא ג' ימים"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "הערכת שני ערכים: חמש סלעים, והשגת יד",
+    "gemara": "מי שנדר שני ערכים והיו בידו חמש סלעים, ונתן ארבע לראשונה ואחת לשנייה – יצא ידי השנייה אך לא ידי הראשונה, שכולן משועבדות לראשונה. רב אדא בר אהבה שואל על מי שאמר ״שני ערכי עלי״ בבת אחת: האם יתן שתי סלעים וחצי לכל אחד, או שכולן ראויות לכל אחד – והבעיה נשארה בתיקו. לאחר מכן שואלת הגמרא למה צריך את המשנה ״אין בערכין פחות מסלע ולא יותר״, ומתרצת שמשמיע שיש גם יותר מסלע ופחות מחמישים כשנותן מה שיש לו, והסתמא כרבנן.",
+    "halakha": "הרמב״ם פוסק שמי שאמר שני ערכי עלי ויש בידו פחות משני ערכים – הדבר ספק, ויש לו שתי דרכים לצאת, כלשונו."
+   },
+   "en": {
+    "title": "Two valuations: five sela'im and the means of the donor",
+    "gemara": "Someone vowed two valuations and had five sela'im: if he gave four to the first and one to the second, he has fulfilled the second but not the first, since everything is pledged to the first. Rav Adda bar Ahavah asks about one who said 'two valuations of mine' at once: does he give two and a half to each, or is everything fit for each? It is left unresolved (teiku). The Gemara then asks why the Mishnah's rule (no valuation under a sela or over fifty) is needed, and answers that it teaches that more than a sela, and less than fifty, is possible when he gives what he has, and the anonymous Mishnah follows the Rabbanan.",
+    "halakha": "The Rambam rules that one who said 'two of my valuations' and has less than two valuations' worth is in doubt, and has two ways to discharge it, in his own words."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:1",
+     "quote": "ידי ראשונה לא יצא. דכולהו הוו משעבדי לראשונה",
+     "he": "רבינו גרשום מסביר שלא יצא ידי הראשונה כי כל הממון היה משועבד לה.",
+     "en": "Rabbeinu Gershom explains that he did not fulfil the first because everything was pledged to it."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:1:1",
+     "quote": "לא יצא ידי ראשונה דבעי למיתב כל מה דבידיה כרבנן",
+     "he": "רש״י: כשהכהן העריך תחילה את הראשונה, לא יצא ידי הראשונה, כי הוא צריך לתת כל מה שבידו כדעת רבנן.",
+     "en": "Rashi: where the kohen valued the first one first, he did not fulfil the first, because he must give all he has, as the Rabbanan hold."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:2:1",
+     "quote": "ועדיין אחד מן הערכין עליו",
+     "he": "רש״י על ״כולהו חזיא להאי״: ועדיין אחד מן הערכין עליו.",
+     "en": "Rashi on 'all are fit for this one': one of the valuations still remains upon him."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:3",
+     "quote": "ערך ולא יצא ידי שניהם",
+     "he": "רבינו גרשום: לצד ״כולהו חזיא להאי״ – נתן ערך אחד ולא יצא ידי שניהם.",
+     "en": "Rabbeinu Gershom: on the side that 'all are fit for this one', he has paid one valuation and has not fulfilled both."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8a:2:1",
+     "quote": "והלכך כשבא כהן להעריכו יש לומר שיתן תרתי ופלגא להאי",
+     "he": "תוספות: כשהנודר נדר בבת אחת, כשבא הכהן להעריכו יש לומר שיתן שתי סלעים וחצי לכל אחד.",
+     "en": "Tosafot: when he vowed at once, when the kohen comes to value him one can say that he gives two and a half to each."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Appraisals and Devoted Property 3:12",
+     "quote": "הֲרֵי הַדָּבָר סָפֵק אִם נִתְפַּס לִשְׁנֵיהֶן",
+     "he": "הרמב״ם: האומר שני ערכי עלי ולא היה בידו אלא פחות מכדי שני ערכים – הדבר ספק אם נתפס לשניהם.",
+     "en": "The Rambam: one who said 'two of my valuations' while holding less than two valuations' worth – it is in doubt whether it took hold of both."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Appraisals and Devoted Property 3:5:1",
+     "quote": "דבעריכת כהן תליא מילתא",
+     "he": "הלחם משנה מביא שהתוספות למדו מבעיית רב אדא שהדבר תלוי בהערכת הכהן, ומעיר שהרמב״ם לא ביאר זאת.",
+     "en": "The Lechem Mishneh brings that Tosafot learn from Rav Adda's question that the matter depends on the kohen's valuation, and notes that the Rambam did not spell this out."
+    },
+    {
+     "who": {
+      "he": "קצות החושן",
+      "en": "Ketzot HaChoshen"
+     },
+     "ref": "Ketzot HaChoshen on Shulchan Arukh, Choshen Mishpat 104:1:1",
+     "quote": "אמנם מדברי תוס' משמע דס\"ל דין קדימה במטלטלין",
+     "he": "הקצות החושן מעיר שמדברי התוספות משמע שיש דין קדימה במטלטלין, ומביא לכך את סוגייתנו.",
+     "en": "The Ketzot HaChoshen notes that from Tosafot it seems there is a rule of priority even for movable property, and brings our sugya in this connection."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:4:1",
+     "quote": "דלר' מאיר ליכא השג יד שיהא יותר על סלע ופחות מחמשים",
+     "he": "רש״י: לרבי מאיר אין השגת יד שבין סלע לחמישים, ולכן הסתמא כרבנן.",
+     "en": "Rashi: according to Rabbi Meir there is no 'means' level between a sela and fifty, so the anonymous Mishnah follows the Rabbanan."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:4",
+     "quote": "כלומר דיהב מאי דאית ליה והא סתמא הוא כרבנן דאמרי נותן את כולם",
+     "he": "רבינו גרשום: נותן מה שיש לו, והסתמא כרבנן שאומרים שנותן את כולם.",
+     "en": "Rabbeinu Gershom: he gives what he has, and the anonymous Mishnah is like the Rabbanan, who say he gives all of it."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 8a:2",
+     "quote": "משום דסד\"א דמסתבר טעמי' דר\"מ",
+     "he": "הרש״ש: אף שהלכה כרבים, צריך לשמוע ש״סתמא כרבנן״ משום שהיה אפשר לסבור שטעמו של ר״מ מסתבר.",
+     "en": "The Rashash: although the halakha follows the majority, the Gemara says 'anonymous like the Rabbanan' because one might have thought Rabbi Meir's reasoning is more logical."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    14
+   ],
+   "he": {
+    "title": "פתח בטועה: ברייתא של הימים",
+    "gemara": "המשנה: אין פתח בטועה פחות משבעה ולא יותר משבעה עשר. הברייתא מונה: אשה שאמרה ״יום אחד טמא ראיתי״, ״שני ימים״ או ״שלשה ימים״ – פתחה שבעה עשר; ארבעה – ששה עשר; וכן ירד המספר יום ליום עד עשרה ימים – פתחה עשרה, ואחד עשר – תשעה.",
+    "halakha": "הרמב״ם פוסק שכל הטועה אינה מונה פחות משבעה ולא יותר על י״ז מעת שפסק הדם."
+   },
+   "en": {
+    "title": "The 'petach' of a woman who erred: the baraita's counts",
+    "gemara": "The Mishnah: the 'petach' (onset) of one who erred is not less than seven nor more than seventeen. The baraita counts: if she says 'I saw one day of impurity', or two, or three – her petach is seventeen; four – sixteen; and so it descends by one down to ten days – her petach is ten, and eleven – nine.",
+    "halakha": "The Rambam rules that a woman who erred counts no less than seven and no more than seventeen from when the bleeding stopped."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:5:2",
+     "quote": "אין חוזרת לפתח נדותה בפחות מז' נקיים",
+     "he": "רש״י: טועה שאינה יודעת אם ראתה בימי נדה או בימי זיבה אינה חוזרת לפתח נדותה בפחות משבעה נקיים.",
+     "en": "Rashi: one who erred, not knowing whether she saw in nidda days or zivah days, does not return to her niddah-onset in under seven clean days."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:5:1",
+     "quote": "אחד עשר יום שאם ראתה בהן יום אחד או שנים שומרת יום כנגד יום",
+     "he": "רש״י מסביר שאחרי שבעת ימי הנדה באים אחד עשר ימי זיבה, וראייה של יום או שניים בהם דינה שומרת יום כנגד יום.",
+     "en": "Rashi explains that after the seven days of niddah come eleven days of zivah, in which seeing one or two days makes her a 'shomeret yom kenegged yom'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8a:6:2",
+     "quote": "אז חוזרת לפתח נדותה למנות ששה והוא",
+     "he": "רש״י: אם לא תראה עד אחר י״ז טהורים, היא חוזרת לפתח נדותה למנות ששה והוא.",
+     "en": "Rashi: if she does not see until after seventeen clean days, she returns to her niddah-onset, counting six and the day."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:5",
+     "quote": "אשה שראתה דם וטועה היא שאינה יודעת אם בתוך ז' מימי נדתה היא אם בתוך י\"א יום מימי זיבתה היא",
+     "he": "רבינו גרשום מבאר שהטועה אינה יודעת אם ראתה בתוך שבעת ימי נדתה או בתוך אחד עשר ימי הזיבה.",
+     "en": "Rabbeinu Gershom explains that the one who erred does not know whether she saw within the seven days of her niddah or within the eleven days of zivah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:6",
+     "quote": "דאי אמרת איפכא לא הוה צריכה לשמור אלא יום אחד והוי קולא",
+     "he": "רבינו גרשום: יום ראשון סוף הזיבה והשני תחילת נדה, וצריכה ששה ועוד אחד עשר; ואם היה להפך, היה קולא.",
+     "en": "Rabbeinu Gershom: the first may be the end of zivah and the next the start of niddah, so she needs six plus eleven; the reverse would be a leniency."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:8",
+     "quote": "תרי קמאי דסוף ימי זיבה ותרי בתראי דתחלת נדה ופשו ה' ימים דנדה וי\"א הרי ט\"ז",
+     "he": "רבינו גרשום מחשב את הארבעה ימים: שניים מסוף הזיבה ושניים מתחילת נדה, נשארו חמישה ועוד אחד עשר – שישה עשר.",
+     "en": "Rabbeinu Gershom computes the four days: two from the end of zivah and two from the start of niddah, leaving five plus eleven – sixteen."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8a:12",
+     "quote": "ולא מיצטרפי הני דסוף זיבה להני דתחלת זיבה למיהוי זבה גמורה",
+     "he": "רבינו גרשום: ימי הזיבה שבסוף ושבתחילה אינם מצטרפים להיות זבה גמורה.",
+     "en": "Rabbeinu Gershom: the zivah days at the end and at the beginning do not combine to make a full zavah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8a:6:1",
+     "quote": "פירוש י\"ז טהורים ואם תראה בי\"ח נדה ודאי",
+     "he": "תוספות: י״ז טהורים, ואם תראה בי״ח היא נדה ודאי; ביום י״ז עצמו יש ספק.",
+     "en": "Tosafot: seventeen clean days, and if she sees on the eighteenth she is definitely a niddah; on the seventeenth itself there is doubt."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8a:8:1",
+     "quote": "שמא ב' ימים ראשונים מי\"א יום ויום ג' ראשון לנדה",
+     "he": "תוספות על שלשה ימים: שמא שני ימים מן האחד עשר והשלישי ראשון לנדה.",
+     "en": "Tosafot on three days: perhaps two days are from the eleven and the third is the first of niddah."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 8:17",
+     "quote": "רָאֲתָה יוֹם אֶחָד אוֹ שְׁנַיִם מַשְׁלֶמֶת עֲלֵיהֶן הַשִּׁבְעָה",
+     "he": "הרמב״ם: ראתה יום אחד או שניים – משלימה עליהם את השבעה ומתחילה למנות אחד עשר יום.",
+     "en": "The Rambam: she saw one or two days – she completes the seven and starts counting eleven days."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 8:18",
+     "quote": "רָאֲתָה שְׁלֹשָׁה יָמִים הֲרֵי זוֹ סְפֵק זָבָה",
+     "he": "הרמב״ם: ראתה שלשה ימים – ספק זבה, שמא יום אחד קודם נדתה ושניים בתחילתה.",
+     "en": "The Rambam: she saw three days – a doubtful zavah, perhaps one day before her niddah and two in its start."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 8:19",
+     "quote": "וְכֵן אִם רָאֲתָה תִּשְׁעָה יָמִים הֲרֵי זוֹ סְפֵק זָבָה",
+     "he": "הרמב״ם: ראתה תשעה ימים – ספק זבה, ומתחילה למנות אחד עשר מאחר התשעה.",
+     "en": "The Rambam: she saw nine days – a doubtful zavah, and she starts counting eleven after the nine."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Forbidden Intercourse 8:22",
+     "quote": "פָּחוֹת מִשִּׁבְעָה וְלֹא יוֹתֵר עַל י\"ז",
+     "he": "הרמב״ם מסכם: כל הטועה אינה מונה מעת שנפסק הדם פחות משבעה ולא יותר על י״ז.",
+     "en": "The Rambam sums up: one who erred counts, from when the bleeding stopped, no less than seven and no more than seventeen."
+    },
+    {
+     "who": {
+      "he": "מאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Niddah 6a:4",
+     "quote": "אין פתח בטועה פחות משבעה ולא יתר על שבעה עשר",
+     "he": "המאירי בנדה מביא את משנתנו כבסיס לכך שהמקולקלת צריכה שבעה עשר יום.",
+     "en": "The Meiri in Niddah brings our Mishnah as the basis for the rule that the one whose count is disturbed needs seventeen days."
+    },
+    {
+     "who": {
+      "he": "מגיד משנה",
+      "en": "Maggid Mishneh"
+     },
+     "ref": "Maggid Mishneh on Mishneh Torah, Forbidden Intercourse 8:16:1",
+     "quote": "בערכין פרק שני (דף ח') משנה אין פתח בטועה פחות מז' ולא יתר על י\"ז",
+     "he": "המגיד משנה מציין שמקור דין הרמב״ם בטועה הוא בערכין פרק שני ומביא את הברייתא.",
+     "en": "The Maggid Mishneh notes that the source of the Rambam's law of the one who erred is Arakhin chapter 2, and brings the baraita."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Niddah 54a:4",
+     "quote": "טועה שאמרה יום אחד טמא ראיתי פתחה י\"ז כלומר שאפילו היה תחלת ימי נדות הרי השלימה עליו ששה ימים",
+     "he": "הרשב״א בנדה מביא את הברייתא כדי להוכיח שטועה חוזרת לפתח נדתה אחרי י״ז, כשהשלימה ששה ימים ועוד אחד עשר.",
+     "en": "The Rashba in Niddah brings the baraita to show that the one who erred returns to her niddah-onset after seventeen, having completed six days and then eleven."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Avot 3:18:1",
+     "quote": "שאינה חוזרת לפתחה עד י\"ז יום כדמפורש בערכין",
+     "he": "רש״י במשנת אבות מזכיר שאינה חוזרת לפתחה עד י״ז יום כמפורש בערכין.",
+     "en": "Rashi on Avot mentions that she does not return to her onset until seventeen days, as made explicit in Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 8a:1",
+     "quote": "נ\"ב דהיינו י\"ז טהורים בינתיים",
+     "he": "היעב״ץ מעיר על רש״י: י״ז ימים טהורים בינתיים.",
+     "en": "The Ya'avetz notes on Rashi: seventeen clean days in between."
+    },
+    {
+     "who": {
+      "he": "חידושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Niddah 6a:1",
+     "quote": "בי\"ז נקיים כדאיתא שם בערכין",
+     "he": "בחידושי הלכות בנדה מוכח שפתח נדותה של ראתה פעם אחת נמצא בי״ז נקיים, כמבואר בערכין.",
+     "en": "The Chidushei Halachot in Niddah argues that the onset of one who saw once is found at seventeen clean days, as in Arakhin."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Bava Batra 166a:1",
+     "quote": "כמו שנתבאר בערכין (ח') בסוגיא דטועה",
+     "he": "הרש״ש בבבא בתרא מפנה לסוגיית הטועה בערכין ח׳.",
+     "en": "The Rashash in Bava Batra refers to the sugya of the one who erred in Arakhin 8."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    5
+   ],
+   "he": {
+    "title": "י״ב ו־י״ג ימים, ושאלת רב אדא: למה לי כולי האי",
+    "gemara": "אם אמרה ״שנים עשר״ פתחה שמונה, ״שלשה עשר״ פתחה שבעה, שאין פתח בטועה פחות משבעה. רב אדא בר אהבה שואל את רבה: מדוע כל החשבון, הרי תמנה שבעה ותותר? ורבה עונה שהחשבון לתקנה לידי נדה ופתחה.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Twelve and thirteen days, and Rav Adda's question: why all this?",
+    "gemara": "If she says twelve, her petach is eight; thirteen – seven, for the petach of one who erred is never under seven. Rav Adda bar Ahavah asks Rabbah: why all this? Let her count seven and be permitted! Rabbah answers that the counts are to fix her onset of niddah and her petach.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:1:1",
+     "quote": "דלאחר שישבה שמונה נקיים יצתה מן הספק",
+     "he": "רש״י: לאחר שישבה שמונה נקיים יצאה מן הספק.",
+     "en": "Rashi: after sitting eight clean days she is out of the doubt."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:2",
+     "quote": "וכ\"ש באומרת י\"ג טמא ראיתי דהויא זבה גמורה",
+     "he": "רבינו גרשום: באומרת י״ג ימים היא זבה גמורה ופתחה שבעה.",
+     "en": "Rabbeinu Gershom: if she says thirteen days she is certainly a full zavah and her petach is seven."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:3:1",
+     "quote": "זבה היא כל זמן שלא ישבה ז' נקיים לא תצא מידי זיבה",
+     "he": "רש״י: אפילו ראתה י״ד אינה חוזרת לפתחה בפחות מז׳ נקיים, כי זבה היא עד שתשב שבעה נקיים.",
+     "en": "Rashi: even if she saw fourteen, she does not return to her onset in under seven clean days, since she is a zavah until she sits seven clean days."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:3",
+     "quote": "ממה נפשך דאפילו זבה גמורה הויא לא צריכה אלא ז' נקיים",
+     "he": "רבינו גרשום מסביר את שאלת רב אדא: אפילו זבה גמורה אינה צריכה אלא שבעה נקיים.",
+     "en": "Rabbeinu Gershom explains Rav Adda's question: even a full zavah needs only seven clean days."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:4:1",
+     "quote": "רב אדא טעי וסבר דכל הנך י\"ז וט\"ז וט\"ו למשרייה לגברא קאמרי",
+     "he": "רש״י: רב אדא טעה וסבר שכל החשבונות נאמרו כדי להתיר אותה לבעלה.",
+     "en": "Rashi: Rav Adda erred, thinking that all these counts were stated to permit her to her husband."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:5:1",
+     "quote": "שתדע מאימת תמנה ימי נדה",
+     "he": "רש״י על תשובת רבה: כדי שתדע מאימתי תמנה ימי נדה.",
+     "en": "Rashi on Rabbah's answer: so that she knows from when she counts the days of niddah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:4",
+     "quote": "ושתדע מתי היא זבה שחייבת קרבן",
+     "he": "רבינו גרשום: החשבון נאמר גם כדי שתדע מתי היא זבה שחייבת קרבן.",
+     "en": "Rabbeinu Gershom: the counts are also so that she knows when she is a zavah who owes a korban."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 8b:2",
+     "quote": "בא\"ד שאין בין סוף כו' פחות מי\"א יום דכלו הי\"ח ימים ממנין האחרון",
+     "he": "הרש״ש מתקן את גרסת רש״י בנוגע לי״ח ימים שכלו מהמנין האחרון.",
+     "en": "The Rashash corrects the text of Rashi regarding the eighteen days that were completed from the last count."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 8b:1",
+     "quote": "לסוף ששה ולסוף שבעה כלו ימי נדה",
+     "he": "היעב״ץ מתקן ברש״י: לסוף ששה ולסוף שבעה כלו ימי נדה.",
+     "en": "The Ya'avetz emends Rashi: at the end of six and at the end of seven the days of niddah are complete."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "קרבן הטועה: כל הטועות זבות",
+    "gemara": "ברייתא: כל הטועות זבות מביאות קרבן ואינו נאכל, חוץ מפתחה שבעה ופתחה שמונה שמביאות קרבן ונאכל. הגמרא מקשה: האם כל הטועות זבות? ויום אחד ושני ימים אינן בנות קרבן! ומתקנת: כל הזבות הטועות, ומשלשה ימים ואילך.",
+    "halakha": "הרמב״ם: כל מקום שהיא זבה וסופרת שבעה חייבת להביא קרבן וחטאתה נאכלת."
+   },
+   "en": {
+    "title": "The offering of one who erred",
+    "gemara": "A baraita: all women who erred about zivah bring an offering that is not eaten, except those whose petach is seven or eight, whose offering is eaten. The Gemara asks: are all women who erred zavot? And one or two days is not a case for an offering! It emends: all zavot who erred – from three days on.",
+    "halakha": "The Rambam: wherever she is a zavah and counts seven, she must bring an offering and her sin-offering is eaten."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:6:2",
+     "quote": "לסוף שבעה נקיים שתי תורים אחד לחטאת ואחד לעולה",
+     "he": "רש״י: בסוף שבעה נקיים מביאה שתי תורים, אחד לחטאת ואחד לעולה.",
+     "en": "Rashi: at the end of seven clean days she brings two turtledoves, one for a sin-offering and one for a burnt-offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:6:3",
+     "quote": "החטאת אינה נאכלת דשמא לא ימי זיבה היו",
+     "he": "רש״י: החטאת אינה נאכלת, שמא לא היו ימי זיבה, ואז חטאת זו חולין ומליקתה נבילה.",
+     "en": "Rashi: the sin-offering is not eaten, since perhaps they were not zivah days, and then it is non-sacred and its melikah makes it neveilah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:6:4",
+     "quote": "דממה נפשך כיון דראתה י\"ב רצופין זבות נינהו",
+     "he": "רש״י: בפתחה שבעה ושמונה, מכיון שראתה י״ב רצופין, זבות הן ודאי.",
+     "en": "Rashi: for petach seven and eight – since she saw twelve in a row, either way they are zavot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:7:1",
+     "quote": "והא חששא בעלמא הוא ולאו ודאי זבות נינהו",
+     "he": "רש״י על ״אטו כל הטועות זבות״: זה רק חשש ואינן זבות ודאי.",
+     "en": "Rashi on 'are all who erred zavot?': it is only a concern, and they are not definite zavot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:8:1",
+     "quote": "כל שיש לספקו בזוב מחמת טעותו דהיינו משלשה ימים טמא ראיתי ואילך",
+     "he": "רש״י: ״כל זבות הטועות״ – כל מי שיש לספק אותה בזוב, משלשה ימים ואילך.",
+     "en": "Rashi: 'all zavot who erred' – whoever can be doubted as a zavah, from three days on."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:6",
+     "quote": "בת אייתויי קרבן היא והלא אינן ספק אלא או ספק נדות או ספק שומרת יום",
+     "he": "רבינו גרשום על הקושיה: אינן ספק זבות אלא ספק נדות או שומרת יום, שאינן בנות קרבן.",
+     "en": "Rabbeinu Gershom on the objection: they are not doubtful zavot but doubtful niddot or shomeret yom, who do not bring an offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:5",
+     "quote": "הרי היא בחזקת זבה דאזלינן לחומרא",
+     "he": "רבינו גרשום: אשה שראתה ואינה יודעת אם בימי נדה או זיבה בחזקת זבה, שהולכים לחומרא.",
+     "en": "Rabbeinu Gershom: a woman who saw and does not know whether in niddah or zivah days is presumed a zavah, since we go stringently."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:8",
+     "quote": "יש בו ב' ספיקות של איסור ספק חולין לעזרה וספק איסור נבילה",
+     "he": "רבינו גרשום מסביר מדוע אינו נאכל: חטאת העוף יש בה שני ספקות, ולכן אינה נאכלת.",
+     "en": "Rabbeinu Gershom explains why it is not eaten: a bird sin-offering involves two doubts, so it is not eaten."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Offerings for Those with Incomplete Atonement 1:6",
+     "quote": "זוֹ שֶׁזָּב דָּמָהּ שְׁלֹשָׁה יָמִים זֶה אַחַר זֶה בְּלֹא עֵת נִדָּתָהּ",
+     "he": "הרמב״ם: זבה היא מי שזב דמה שלשה ימים רצופים שלא בעת נדתה.",
+     "en": "The Rambam: a zavah is one whose blood flowed three days in a row outside her niddah time."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Rambam on Mishnah Niddah 6:13:1",
+     "quote": "ותביא קרבן זבה אינו נאכל כמו שבארנו בערכין",
+     "he": "הרמב״ם בפירוש המשנה: ספק זבה מביאה קרבן שאינו נאכל, כמו שביאר בערכין.",
+     "en": "The Rambam on the Mishnah: a doubtful zavah brings an offering that is not eaten, as he explained in Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "יכין",
+      "en": "Yachin"
+     },
+     "ref": "Yachin on Mishnah Niddah 6:52:1",
+     "quote": "מביאה קרבן ואינו נאכל. ומפורש יותר בפ\"ב דערכין",
+     "he": "היכין בנדה: מביאה קרבן ואינו נאכל, ומפורש יותר בפרק ב׳ דערכין.",
+     "en": "The Yachin in Niddah: she brings an offering that is not eaten, and this is made more explicit in Arakhin chapter 2."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    11
+   ],
+   "he": {
+    "title": "אין בנגעים פחות משבוע ולא יותר משלשה",
+    "gemara": "משנה: אין בנגעים פחות משבוע אחד ולא יותר משלשה שבועות. הגמרא: פחות משבוע – נגעי אדם, ולא יותר משלשה – נגעי בתים. רב פפא דורש: ״צדקתך כהררי אל״ – נגעי אדם, ״משפטיך תהום רבה״ – נגעי בתים.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Plagues: no less than one week and no more than three",
+    "gemara": "Mishnah: in plagues there is no less than one week nor more than three weeks. The Gemara: less than a week – plagues of a person; no more than three – plagues of houses. Rav Papa expounds: 'Your righteousness is like the mountains of God' – plagues of people; 'Your judgments are a great deep' – plagues of houses.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:9:1",
+     "quote": "טוהר בנגעים בפחות משבוע אחד להסגר",
+     "he": "רש״י: אין טוהר בנגעים בפחות משבוע אחד של הסגר.",
+     "en": "Rashi: there is no purification in plagues in less than one week of confinement."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:10:2",
+     "quote": "שלש שבועות כדתניא בתורת כהנים",
+     "he": "רש״י: בנגעי בתים שלשה שבועות, כדתניא בתורת כהנים.",
+     "en": "Rashi: for house-plagues, three weeks, as taught in the Torat Kohanim."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:11:1",
+     "quote": "שנבררין בשבוע אחד אם לטהר אם ליחלט וצדקה גדולה היא זו",
+     "he": "רש״י: נגעי אדם נבררים בשבוע אחד, אם לטהר או להחלט, וזו צדקה גדולה.",
+     "en": "Rashi: human plagues are resolved in one week, either to purify or to be declared final, and this is a great kindness."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8b:9:1",
+     "quote": "אבל אדם לעולם בשני שבועות ידעינן דיניו",
+     "he": "תוספות: בבית לעיתים אין יודעים עד שלשה שבועות, אבל באדם תמיד יודעים דינו בשני שבועות.",
+     "en": "Tosafot: with a house we sometimes do not know until three weeks, but with a person we always know his law within two weeks."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8b:11:1",
+     "quote": "נגעי בתים שיכולין לבא לידי איחור של שלש שבועות",
+     "he": "תוספות: ״משפטיך תהום רבה״ – נגעי בתים, שיכולים להתאחר שלשה שבועות.",
+     "en": "Tosafot: 'Your judgments are a great deep' – house-plagues, which can be delayed three weeks."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:10",
+     "quote": "שחין ומכוה הסגרן שבוע אחת ובתים הסגרן ג' שבועות",
+     "he": "רבינו גרשום: שחין ומכווה הסגרן שבוע אחד, ובתים שלשה שבועות.",
+     "en": "Rabbeinu Gershom: boil and burn are confined one week, houses three weeks."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:11",
+     "quote": "שעשה הקב\"ה צדקה עמו שאין הסגירו אלא שבוע",
+     "he": "רבינו גרשום: הקב״ה עשה צדקה עם האדם שהסגרו רק שבוע.",
+     "en": "Rabbeinu Gershom: the Holy One did a kindness with the person, that his confinement is only a week."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:12",
+     "quote": "שאין נגמר דינן עד ג' שבועות",
+     "he": "רבינו גרשום: נגעי בתים אין נגמר דינם עד שלשה שבועות.",
+     "en": "Rabbeinu Gershom: the law of house-plagues is not decided until three weeks."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 15:2",
+     "quote": "מַסְגִּיר שָׁבוּעַ שֵׁנִי",
+     "he": "הרמב״ם בנגעי בתים: אם עמד הנגע בעינו ולא פשה, מסגיר שבוע שני.",
+     "en": "The Rambam on house-plagues: if the plague stayed as it was and did not spread, he confines a second week."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Defilement by Leprosy 1:10",
+     "quote": "לֹא הָיָה בָּהּ שֵׂעָר לָבָן וְלֹא מִחְיָה יִסָּגֵר שִׁבְעַת יָמִים",
+     "he": "הרמב״ם בנגעי אדם: אם אין שער לבן ולא מחיה, יסגר שבעת ימים.",
+     "en": "The Rambam on human plagues: if there is no white hair nor 'michya', he is confined seven days."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 8b:1",
+     "quote": "צדקה עושה הקב\"ה שלא כילה חמתו על האדם בנגעיו אלא על הבתים",
+     "he": "החידושי אגדות מסביר: הקב״ה עושה צדקה שלא כילה חמתו על האדם בנגעיו אלא על הבתים.",
+     "en": "The Chidushei Agadot explains: the Holy One does a kindness in not spending His wrath on the person through his plagues but on the houses."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    14
+   ],
+   "he": {
+    "title": "פשט הפסוק: רב יהודה ורבה, כובש או נושא",
+    "gemara": "פשט הפסוק: רב יהודה אומר שאלמלא ״צדקתך כהררי אל״ – מי יוכל לעמוד לפני ״משפטיך תהום רבה״. רבה אומר ״צדקתך כהררי אל״ מפני ש״משפטיך תהום רבה״. הם חלוקים בדברי רבי אלעזר, שאמר ״כובש״, ורבי יוסי בר חנינא שאמר ״נושא״; רבה כרבי אלעזר ורב יהודה כרבי יוסי בר חנינא.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The plain meaning of the verse: Rav Yehuda and Rabba, 'kovesh' or 'nosei'",
+    "gemara": "The plain meaning of the verse: Rav Yehuda says that were it not for 'Your righteousness is like the mountains of God', who could stand before 'Your judgments are a great deep'. Rabba says: 'Your righteousness...' because 'Your judgments are a great deep'. They differ on Rabbi Elazar, who said 'kovesh', and Rabbi Yose bar Chanina, who said 'nosei'; Rabba follows Rabbi Elazar, Rav Yehuda follows Rabbi Yose bar Chanina.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:13:1",
+     "quote": "הקב\"ה כובש ומסתיר עונות תחת מחילת כסא הכבוד כדי שיכריעו הזכיות",
+     "he": "רש״י: ״כובש״ – הקב״ה כובש ומסתיר עונות תחת כסא הכבוד כדי שיכריעו הזכיות.",
+     "en": "Rashi: 'kovesh' – the Holy One suppresses and hides sins beneath the Throne of Glory so that the merits tip the scales."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:13:2",
+     "quote": "נושא ומגביה כף העונות למעלה כדי שיכריעו הזכיות",
+     "he": "רש״י: ״נושא״ – מגביה את כף העונות למעלה כדי שיכריעו הזכיות.",
+     "en": "Rashi: 'nosei' – lifts the pan of sins up so that the merits tip the scales."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:14:1",
+     "quote": "שאתה מצדיקנו במה שאתה כובש ומסתיר משפטיך",
+     "he": "רש״י: לרבה ״צדקתך״ היא שאתה מצדיקנו במה שאתה כובש ומסתיר את העונות.",
+     "en": "Rashi: according to Rabba, 'Your righteousness' is that You justify us by suppressing and hiding the sins."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:14:2",
+     "quote": "שאתה מגביה עונות מי יוכל לעמוד מפני משפטיך",
+     "he": "רש״י: לרב יהודה, אלמלא הצדקה שאתה מגביה עונות, מי יוכל לעמוד מפני משפטיך.",
+     "en": "Rashi: for Rav Yehuda, were it not for the kindness of lifting up sins, who could stand before Your judgments."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:13",
+     "quote": "שכשיש בו באדם מחצה עונות ומחצה זכיות נושא עון אחד מן הכף מאזנים",
+     "he": "רבינו גרשום: כשיש באדם מחצה עונות ומחצה זכיות, נושא עוון אחד מן הכף ומוחלו.",
+     "en": "Rabbeinu Gershom: when a person has half sins and half merits, He lifts one sin from the pan and forgives it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 8b:15",
+     "quote": "ודנו מפני שמשפטיך תהום רבה בשאינו חוזר בו",
+     "he": "רבינו גרשום על דעת רבה: אם חטא שוב, מצרפו עם שאר העונות ודנו, משפטיך תהום רבה, למי שאינו חוזר בו.",
+     "en": "Rabbeinu Gershom on Rabba's view: if he sinned again, He joins it with the other sins and judges him – a great deep – for one who does not repent."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Arakhin 8b:1",
+     "quote": "לפי כי תדיר יש מקטרגים למעלה ושואלים דין על האדם",
+     "he": "מראית העין מסביר את דברי רב יהודה: תדיר יש מקטרגים למעלה השואלים דין על האדם.",
+     "en": "The Marit HaAyin explains Rav Yehuda: there are always accusers above who demand judgment on a person."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 8b:1",
+     "quote": "הנה צריך להבין מאי בינייהו",
+     "he": "הבן יהוידע שואל מה ההבדל בין ״כובש״ ל״נושא״ ועוסק בכך.",
+     "en": "The Ben Yehoyada asks what the difference is between 'kovesh' and 'nosei' and discusses it."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 8b:2",
+     "quote": "לפי זה לא הוה כובש ונושא מענין א'",
+     "he": "החידושי אגדות מעיר שלפי פירוש רש״י ״כובש״ ו״נושא״ אינם מענין אחד, ומביא פירוש רש״י בר״ה שמתיישב.",
+     "en": "The Chidushei Agadot notes that on this reading of Rashi 'kovesh' and 'nosei' are not of one kind, and brings Rashi in Rosh Hashanah, which resolves it."
+    },
+    {
+     "who": {
+      "he": "תועפות ראם",
+      "en": "Toafot Re'em"
+     },
+     "ref": "Toafot Re'em 218:11",
+     "quote": "דמכבשין היינו ג\"כ מכריעין",
+     "he": "התועפות ראם: ״מכבשין״ הוא גם ״מכריעין״, ומשווה לסוגיית ראש השנה.",
+     "en": "The Toafot Re'em: 'makhbishin' also means 'makhri'in', and he compares the sugya in Rosh Hashanah."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 602:1:10",
+     "quote": "שאדרבה שיש לאומרו כמ\"ש בערכין ח' ב'",
+     "he": "הגר״א בשולחן ערוך אורח חיים מביא מחלוקת על אמירת פסוק זה, וצד אחד מסתמך על סוגייתנו בערכין ח׳ ב׳.",
+     "en": "The Gra on Orach Chayim brings a dispute about saying this verse, with one side relying on our sugya in Arakhin 8b."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    15,
+    17
+   ],
+   "he": {
+    "title": "חודשים מעוברים, שתי הלחם, לחם הפנים ומילה",
+    "gemara": "המשנה: אין פוחתים מארבעה חודשים מעוברים בשנה ולא נראה יותר משמונה; שתי הלחם נאכלות לא פחות משני ימים ולא יותר משלשה; לחם הפנים לא פחות מתשעה ולא יותר מאחד עשר; וקטן אינו נימול פחות משמונה ולא יותר משנים עשר. הגמרא: רב הונא מסביר שלא נראה לחכמים לעבר יותר משמונה, ושואל למה לא תשעה.",
+    "halakha": "הרמב״ם: אין אפיית לחם הפנים דוחה שבת ויום טוב. השולחן ערוך: נולד ערב שבת בין השמשות – אין מלים אותו בשבת."
+   },
+   "en": {
+    "title": "Full months, the Two Loaves, the Showbread and circumcision",
+    "gemara": "The Mishnah: no fewer than four full (30-day) months in a year and no more than eight are seen; the Two Loaves are eaten no earlier than the second day and no later than the third; the Showbread no sooner than nine and no later than eleven; and a baby is circumcised no sooner than eight and no later than twelve. The Gemara: Rav Huna explains that it did not seem right to the Sages to make more than eight full months, and asks why not nine.",
+    "halakha": "The Rambam: baking the Showbread does not override Shabbat or Yom Tov. The Shulchan Arukh: a baby born at twilight on Friday is not circumcised on Shabbat."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:15:1",
+     "quote": "של שלשים יום בשנה ועולא מפרש טעמא בגמ'",
+     "he": "רש״י: מעוברין הם של שלשים יום, ועולא מפרש הטעם בגמרא.",
+     "en": "Rashi: 'full' means of thirty days, and Ulla explains the reason in the Gemara."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:15:3",
+     "quote": "נאפות בערב שבת שאין אפייתן דוחה לא שבת ולא י\"ט",
+     "he": "רש״י על שתי הלחם: כשחל עצרת באחד בשבת נאפות בערב שבת, שאין אפייתן דוחה שבת ויום טוב.",
+     "en": "Rashi on the Two Loaves: when Shavuot falls on Sunday they are baked on Friday, since baking does not override Shabbat or Yom Tov."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:15:4",
+     "quote": "ונאכל בשבת שניה שהוא אחד עשר לאפייתו",
+     "he": "רש״י על לחם הפנים: חלו שני ימי ר״ה בחמישי ושישי, נאפה ברביעי ונאכל בשבת שניה, אחד עשר לאפייתו.",
+     "en": "Rashi on the Showbread: if both days of Rosh Hashanah fall on Thursday and Friday, it is baked Wednesday and eaten the next Shabbat, eleven days after baking."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:16:1",
+     "quote": "ומילה שלא בזמנה אינה דוחה לא שבת ולא יו\"ט",
+     "he": "רש״י על מילה: נולד בין השמשות של ערב שבת אינו נימול בשבת, שמילה שלא בזמנה אינה דוחה שבת ויום טוב.",
+     "en": "Rashi on circumcision: one born at twilight Friday is not circumcised on Shabbat, since a circumcision not at its time does not override Shabbat or Yom Tov."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 8b:17:2",
+     "quote": "קדים אתי סיהרא חדתא תלתא יומא",
+     "he": "רש״י על הגמרא: אם עושים תשעה מלאים, הלבנה החדשה באה שלשה ימים לפני ראש השנה.",
+     "en": "Rashi on the Gemara: if nine full months are made, the new moon arrives three days before Rosh Hashanah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 8b:17:1",
+     "quote": "וכשאנו עושים תשעה מליאים הרי הקביעות מתאחר שלשה ימים",
+     "he": "תוספות: כשעושים תשעה מלאים, הקביעות מתאחרת שלשה ימים ביחס למולד.",
+     "en": "Tosafot: when we make nine full months, the fixing is delayed three days from the molad."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Rosh Hashanah 20a:18:2",
+     "quote": "ולא נראה לעבר יותר על שמונה והתם מפרשינן הטעם",
+     "he": "רש״י בראש השנה מביא את משנתנו ומציין שהטעם מפורש בערכין.",
+     "en": "Rashi in Rosh Hashanah brings our Mishnah and notes that the reason is explained in Arakhin."
+    },
+    {
+     "who": {
+      "he": "ליקוטי הפרדס",
+      "en": "Likkutei HaPardes"
+     },
+     "ref": "Likkutei HaPardes, The Signs of the Holidays and their Tradition 30",
+     "quote": "משום דקדים ואתי סיהרא תלתא יומי ותמהי עלמא",
+     "he": "ליקוטי הפרדס: ״אין מוסיפין על שמונה״ משום שהלבנה באה שלשה ימים קודם והעולם תמהים.",
+     "en": "Likkutei HaPardes: no more than eight, because the moon comes three days early and people would be astonished."
+    },
+    {
+     "who": {
+      "he": "יד רמה",
+      "en": "Yad Ramah"
+     },
+     "ref": "Yad Ramah on Sanhedrin 10b:2",
+     "quote": "אין מעברין מאי טעמא דתמיהי בה אינשי",
+     "he": "היד רמה מביא את משנתנו בעיבור החודש: אין מעברין, כי העם תמהים.",
+     "en": "The Yad Ramah brings our Mishnah on intercalating the month: they do not intercalate, because people would be astonished."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Menachot 100b:5:1",
+     "quote": "קודם לשבת נאפה ברביעי ונאכל לשבת שניה לאחד עשר",
+     "he": "תוספות במנחות: לחם הפנים קודם לשבת נאפה ברביעי ונאכל בשבת שנייה לאחד עשר.",
+     "en": "Tosafot in Menachot: the Showbread before Shabbat is baked Wednesday and eaten the next Shabbat on the eleventh."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 18:9",
+     "quote": "וּמִתְכַּוְּנִין לְעוֹלָם בְּחֶשְׁבּוֹנָם שֶׁאִם יֵרָאֶה הַיָּרֵחַ בַּחֹדֶשׁ הַבָּא יֵרָאֶה בִּזְמַנּוֹ",
+     "he": "הרמב״ם בקידוש החודש: מתכוונים בחשבון שאם יראה הירח בחודש הבא יראה בזמנו.",
+     "en": "The Rambam on sanctifying the month: they always aim in their calculation that if the moon is seen next month it will be seen at its time."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Daily Offerings and Additional Offerings 5:10",
+     "quote": "אֵין אֲפִיַּת לֶחֶם הַפָּנִים דּוֹחָה אֶת הַשַּׁבָּת וְלֹא אֶת יוֹם טוֹב",
+     "he": "הרמב״ם: אפיית לחם הפנים אינה דוחה שבת ולא יום טוב.",
+     "en": "The Rambam: baking the Showbread overrides neither Shabbat nor Yom Tov."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Daily Offerings and Additional Offerings 8:9",
+     "quote": "אוֹפִין אוֹתָן מֵעֶרֶב שַׁבָּת וְנֶאֱכָלוֹת בַּשְּׁלִישִׁי לַאֲפִיָּתָן",
+     "he": "הרמב״ם: כשחל יום טוב אחר השבת, שתי הלחם נאפות בערב שבת ונאכלות ביום השלישי לאפייתן.",
+     "en": "The Rambam: when the festival falls right after Shabbat, the Two Loaves are baked on Friday and eaten on the third day after baking."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "שולחן ערוך",
+      "en": "Shulchan Arukh"
+     },
+     "ref": "Shulchan Arukh, Yoreh De'ah 266:8",
+     "quote": "אינו דוחה את השבת שאין דוחין את השבת מספק",
+     "he": "השולחן ערוך: נולד ערב שבת בין השמשות – אינו דוחה את השבת, שאין דוחין את השבת מספק.",
+     "en": "The Shulchan Arukh: one born on Friday at twilight – circumcision does not override Shabbat, since we do not override Shabbat for a doubt."
+    }
+   ]
+  }
+ ]
+}
