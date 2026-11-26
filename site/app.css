@@ -494,3 +494,10 @@ mark.musag:hover { background: color-mix(in srgb, var(--gold) 30%, var(--card));
 .vl-page .dseg, .vl-page .cm { cursor: pointer; }
 .colortext .vl-page .vw.dseg { background: color-mix(in srgb, var(--k) 16%, color-mix(in srgb, var(--card) 95%, var(--muted))); }
 .colortext .vl-page .vw.dseg.k-plain { background: none; }
+
+/* Powered by Sefaria badge */
+.poweredby { text-align: center; padding: 8px 16px 28px; }
+.poweredby a { display: inline-block; line-height: 0; border-radius: 9px; }
+.poweredby img { width: 154px; height: auto; opacity: .92; transition: opacity .15s; }
+.poweredby a:hover img, .poweredby a:focus-visible img { opacity: 1; }
+@media print { .poweredby { display: none !important; } }

@@ -3,9 +3,9 @@
 // itself comes from Sefaria, and every amud the student opens (plus the next two days'
 // dafim, which app.js fetches ahead) is saved too. Online, files still come from the
 // network first (up to 4s), so updates show up; the saved copy is the fallback.
-const CACHE = "site-v1";
+const CACHE = "site-v2";
 const TEXTS = "sefaria-v1";
-const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "daf-layout.js", "icon-home.svg", "icon.svg", "index.html", "offline.js", "data/masechtot.json", "fonts/FrankRuhlLibre.woff2"];
+const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "daf-layout.js", "icon-home.svg", "icon.svg", "index.html", "sefaria-badge.png", "offline.js", "data/masechtot.json", "fonts/FrankRuhlLibre.woff2"];
 const SEFARIA = "https://www.sefaria.org";
 
 self.addEventListener("install", e => {
