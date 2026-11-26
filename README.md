@@ -5,7 +5,7 @@ A study companion for the daily daf. It is a static site
 
 ## What it does
 
-- **Today's daf.** The home page shows the current Daf Yomi (from Sefaria's calendar). The Shas page
+- **Today's daf.** The site opens straight on today's Daf Yomi, amud a (from Sefaria's calendar, kept for the day in `localStorage`; offline on a new day it opens at home). Home is `#home`, and it shows the current Daf Yomi too. The Shas page
   can open any amud in the Bavli.
 - **Reader.** Each line of the vocalized Aramaic (William Davidson edition) has, under it, the
   Steinsaltz explanation (Hebrew) or the Davidson English, plus Rashi and Tosafot, all from Sefaria's API.

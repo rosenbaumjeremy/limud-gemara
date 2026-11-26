@@ -1173,7 +1173,7 @@ function chrome() {
   $("#subtitle").textContent = t("subtitle");
   document.querySelectorAll(".langswitch button").forEach(b => b.classList.toggle("on", b.dataset.lang === S.lang));
   const here = location.hash.split("/")[0] || "#";
-  $("#tabs").replaceChildren(el("a", { href: "#", class: here === "#" || here === "#shas" ? "on" : "" }, t("home")));
+  $("#tabs").replaceChildren(el("a", { href: "#home", class: here === "#" || here === "#home" || here === "#shas" ? "on" : "" }, t("home")));
   $("#settings-btn").setAttribute("aria-label", t("settings"));
 }
 
@@ -1197,6 +1197,26 @@ async function start() {
   $("#sheet").addEventListener("click", e => { if (e.target.id === "sheet") closeSheet(); });
   document.addEventListener("keydown", e => { if (e.key === "Escape") { closeSheet(); $("#settings").hidden = true; } });
   window.addEventListener("hashchange", route);
+  // A bare visit opens today's daf yomi (amud a); home is "#home"
+  if (!location.hash) await openDafYomi();
   route();
+}
+
+// Today's daf yomi from Sefaria's calendar, kept for the day so a second visit opens at once.
+// If it can't be found (offline on a new day), the page opens at home as before.
+async function openDafYomi() {
+  const date = today();
+  let c = store.get("dafyomi", null);
+  if (!c || c.date !== date) {
+    setView(loadingBox());
+    try {
+      const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "Asia/Jerusalem";
+      const cal = await getJSON(`${API}/calendars?timezone=${encodeURIComponent(tz)}`);
+      const item = cal.calendar_items.find(i => i.title.en === "Daf Yomi");
+      c = { date, ref: item.ref };
+      store.set("dafyomi", c);
+    } catch (err) { return; }
+  }
+  history.replaceState(null, "", "#daf/" + toRoute(c.ref + "a"));
 }
 start();
