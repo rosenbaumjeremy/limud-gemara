@@ -1,0 +1,965 @@
+{
+ "ref": "Arakhin 9",
+ "date": "2026-11-26",
+ "he": {
+  "overview": "הדף ממשיך בסוגיית שמונה החדשים החסרים והמעוברים שבמשנה. בעמוד א׳ מבררת הגמרא מדוע שמונה אך לא תשעה, בעזרת דברי רב משרשיא על שנה שלפניה מעוברת. בעמוד ב׳ נחלקים רב הונא ועולא על אורך חודש העיבור ועל הברייתא של יום הנף ולאור עיבורו, והגמרא מעמידה אותה כ״אחרים״. בהמשך שמואל ורבי מסייעים לרב הונא. הראשונים והאחרונים דנים בחשבון המולדות, בימים העודפים ובמצוה לקדש על פי הראייה.",
+  "title": "סיכום — ערכין ט׳"
+ },
+ "en": {
+  "overview": "The daf continues the Mishnah's eight deficient or full months. Amud a asks why eight and not nine, using Rav Mesharshya's case of a year following a leap year. On amud b Rav Huna and Ulla differ over the length of the added month and the baraita of yom haneif and lor ibburo, which the Gemara assigns to Acherim. Shmuel and Rabbi then support Rav Huna. The Rishonim and Acharonim take up the molad calculation, the extra days, and the mitzvah of sanctifying by sighting.",
+  "title": "Summary — Arakhin 9"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "עיבור שנה חודש"
+   ],
+   "he": {
+    "term": "עיבור שנה / חודש העיבור",
+    "explanation": "חודש נוסף (אדר ראשון) שמוסיפים בשנה מעוברת. הגמרא דנה אם הוא שלשים יום או כ״ט, ולפי זה משתנה חשבון הימים שנוספו בין ראש השנה לראש השנה."
+   },
+   "en": {
+    "term": "Ibbur shana / the added month",
+    "explanation": "The extra month (first Adar) added in a leap year. The Gemara discusses whether it is thirty or twenty-nine days, which changes the count of days between one Rosh Hashanah and the next."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9a:2:2",
+    "quote": "ובידינו לעשות חדש של תוספת השנה בין מלא ובין חסר"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "מייתרא סיהרא"
+   ],
+   "he": {
+    "term": "מייתרא סיהרא",
+    "explanation": "הירח מתעכב, כלומר המולד בא אחרי הקביעה בימים. הצד ההפוך הוא ״קדים אתי סיהרא״, שהירח החדש בא לפני ראש השנה."
+   },
+   "en": {
+    "term": "Mayitra sihara (the moon is delayed)",
+    "explanation": "The moon lags: the molad comes days after the fixed date. The opposite is 'kadim ati sihara', where the new moon arrives before Rosh Hashanah."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9a:4:1",
+    "quote": "עתיקא שלש יומי אחר ראש השנה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 5,
+   "anchors": [
+    "ירחא חסירא",
+    "ירחא מליא"
+   ],
+   "he": {
+    "term": "חודש מלא וחסר",
+    "explanation": "חודש מלא הוא בן שלשים יום וחסר בן עשרים ותשעה. מספר החודשים המלאים והחסרים קובע את אורך השנה ואת היום שבו חל ראש השנה."
+   },
+   "en": {
+    "term": "Full and deficient months",
+    "explanation": "A full month has thirty days and a deficient one twenty-nine. The number of full and deficient months determines the year's length and the day on which Rosh Hashanah falls."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sanctification of the New Month 8:6",
+    "quote": "וְשָׁנָה שֶׁיִּהְיוּ בָּהּ שְׁנֵי חֳדָשִׁים אֵלּוּ חֲסֵרִים נִקְרְאוּ חֳדָשֶׁיהָ חֲסֵרִין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "ביום הנף"
+   ],
+   "he": {
+    "term": "יום הנף",
+    "explanation": "היום שבו מניפים את העומר, ט״ז בניסן. ממנו מתחילים למנות חמשים יום עד עצרת."
+   },
+   "en": {
+    "term": "Yom haneif (day of waving)",
+    "explanation": "The day the omer is waved, the sixteenth of Nisan, from which fifty days are counted to Atzeret."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9b:2:1",
+    "quote": "באותו יום שאירע בו ט״ז בניסן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 2,
+   "anchors": [
+    "לאור עיבורו"
+   ],
+   "he": {
+    "term": "לאור עיבורו",
+    "explanation": "הלילה שבו החודש מתעבר, כשעושים את יום ל״א ראש חודש. ראש השנה חל ביום הנף או בלילה זה."
+   },
+   "en": {
+    "term": "Lor ibburo (the night of its extension)",
+    "explanation": "The night on which the month is extended, when the thirty-first day is made Rosh Chodesh. Rosh Hashanah falls on yom haneif or this night."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9b:2:2",
+    "quote": "אור עיבורו שהוא לילה שבו מתעבר החדש"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 7,
+   "anchors": [
+    "אחרים אומרים"
+   ],
+   "he": {
+    "term": "אחרים",
+    "explanation": "שם לתנא שדעתו שכל החדשים כסדרן, אחד מלא ואחד חסר, ולכן בין ראש השנה לראש השנה ארבעה ימים בלבד."
+   },
+   "en": {
+    "term": "Acherim ('Others')",
+    "explanation": "A Tanna cited anonymously, whose view is that all months go in regular order, one full and one deficient, so only four days separate one Rosh Hashanah from the next."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9b:7:1",
+    "quote": "אחרים הוא דלית להו מליאין וחסירין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "יומא דשעי"
+   ],
+   "he": {
+    "term": "יומא דשעי ויומא דתלתין שנין",
+    "explanation": "שמונה שעות עודפות בכל שנה מצטברות ליום אחד אחרי שלש שנים, ותתס״ד חלקים מצטברים ליום אחרי שלשים שנה."
+   },
+   "en": {
+    "term": "Yoma de'sha'ei and yoma de'telatin shenei",
+    "explanation": "Eight extra hours each year accumulate into a day after three years, and the extra parts accumulate into a day after thirty years."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 9b:11:1",
+    "quote": "דלשלש שנים טפי חד יומא"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 12,
+   "anchors": [
+    "שנת לבנה"
+   ],
+   "he": {
+    "term": "שנת לבנה",
+    "explanation": "שנה של שנים עשר חודשי לבנה, כ-354 יום, לעומת שנת החמה."
+   },
+   "en": {
+    "term": "Lunar year",
+    "explanation": "A year of twelve lunar months, about 354 days, as against the solar year."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sanctification of the New Month 6:4",
+    "quote": "שְׁלֹשׁ מֵאוֹת יוֹם וְאַרְבָּעָה וַחֲמִשִּׁים יוֹם"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    2
+   ],
+   "he": {
+    "title": "הקדמת הירח וח׳ חסרים – ״שנה שלפניה מעוברת״",
+    "gemara": "הגמרא מקשה על שמונה חדשים חסרים: אילו עושים כך, הירח החדש מקדים לבוא ג׳ ימים לפני ראש השנה, והרי גם עכשיו (בשמונה) הוא מקדים שני ימים. מתרצת הגמרא בדברי רב משרשיא: מדובר בשנה שהשנה שלפניה היתה מעוברת, ועיבור שנה הוא חודש. מורידים חודש מלא כנגד חודש חסר, ונשאר יום אחד בלבד, ועליו הגמרא אומרת שלא שמו לב אליו אנשים.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "The moon arriving early and eight deficient months – 'the previous year was a leap year'",
+    "gemara": "The Gemara asks about making eight deficient months: if so, the new moon comes three days before Rosh Hashanah, and even now (with eight) it comes two days early. It answers with Rav Mesharshya's words: this is a year after a leap year, whose added month was a single month. A full month is set against a deficient one, leaving only one day, which people do not notice.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:1:1",
+     "quote": "קודם ראש השנה שהמולד ביום ד׳ וראש השנה בשבת",
+     "he": "רש״י מבאר שהירח החדש בא שלושה ימים לפני ראש השנה: המולד ביום ד׳ וראש השנה בשבת.",
+     "en": "Rashi explains that the new moon arrives three days before Rosh Hashanah: the molad is on Wednesday and Rosh Hashanah is on Shabbat."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:1:1",
+     "quote": "ומרנני עלמא בתר רבנן",
+     "he": "ובכך העולם היה מתרעם אחרי החכמים שהם עושים כל מה שרוצים.",
+     "en": "And so the world would murmur after the Sages, saying they do whatever they wish."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:2:2",
+     "quote": "ובידינו לעשות חדש של תוספת השנה בין מלא ובין חסר",
+     "he": "רש״י: בידי בית הדין לעשות את חודש העיבור מלא או חסר; עיבור שאשתקד נעשה חסר, ולכן עכשיו אפשר לאחר בחודש מלא.",
+     "en": "Rashi: the court may make the added month full or deficient; last year's was made deficient, so now a full month can delay Tishrei."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:2:3",
+     "quote": "דיומא ופלגא היא חד יומא קרי ליה",
+     "he": "רש״י: ״יום אחד״ הוא באמת יום ומחצה, וקורא לו יום אחד.",
+     "en": "Rashi: the 'one day' is really a day and a half, and it is called one day."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:2:4",
+     "quote": "אחד יומא לא תמהי ולא מרנני",
+     "he": "רש״י: ביום אחד לא תמהים ולא מתרעמים.",
+     "en": "Rashi: over a single day people neither wonder nor murmur."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9a:2:1",
+     "quote": "ולא נראה עד יום ששי הרי דלא מקדים רק חד יומא",
+     "he": "תוספות מראים בדוגמה שהמולד ביום ה׳ ולא נראה עד יום ו׳, כך שהירח מקדים רק יום אחד.",
+     "en": "Tosafot give an example: the molad is Thursday and it is not seen until Friday, so it comes early by only one day."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9a:2:2",
+     "quote": "שיאריכו בשום פעם השנה יותר מז׳ מליאים",
+     "he": "תוספות: מי שסידרו לנו את העיבורים והקביעות לא רצו להאריך את השנה ביותר משבעה חודשים מלאים.",
+     "en": "Tosafot: those who arranged our intercalations and fixings did not want a year ever to be lengthened by more than seven full months."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9a:3",
+     "quote": "לקמן גבי עצרת כגון שהיתה",
+     "he": "רבינו גרשום: ״כדאמר רב משרשיא״ הוא מה שנאמר להלן גבי עצרת.",
+     "en": "Rabbeinu Gershom: 'as Rav Mesharshya said' refers to what is said below regarding Atzeret."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9a:7",
+     "quote": "טול עתה מילוי של חדש עיבור ותן לאחד מן החסירים",
+     "he": "רבינו גרשום מסביר את החשבון: נוטלים את מילויו של חודש העיבור ונותנים אותו לאחד החסרים, ועדיין נשאר יום אחד של חסרון.",
+     "en": "Rabbeinu Gershom explains the arithmetic: take the fullness of the added month and give it to one of the deficient months; one day of shortfall still remains."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מהרש״א",
+      "en": "Maharsha"
+     },
+     "ref": "Chidushei Halachot on Sanhedrin 10b:1",
+     "quote": "הא שמונה מעברין מוקמינן לה במסכת ערכין בשהיתה שנה שלפניה מעוברת",
+     "he": "המהרש״א מציין שבמסכת ערכין העמדנו שמונה מעוברים בשנה שהשנה שלפניה היתה מעוברת.",
+     "en": "The Maharsha notes that in Arakhin eight full months are established only where the previous year was a leap year."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 9a:12",
+     "quote": "ונמצא יחסר כנגד זה ז׳ שעות",
+     "he": "הרש״ש מסביר את חשבון השעות בדברי התוספות על ״כגון״.",
+     "en": "The Rashash works through the hour-count in Tosafot's comment on 'kegon'."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    3,
+    6
+   ],
+   "he": {
+    "title": "עולא: לא נראה לחסר יותר משמונה – ומדוע לא תשעה",
+    "gemara": "עולא אומר שהטעם שאין פוחתים מארבעה חדשים מעוברים הוא שלא נראה לחכמים לחסר יותר משמונה. הגמרא שואלת: מה שונה תשעה? אילו עושים תשעה חסרים, הירח מקדים שלושה ימים, והרי בשמונה גם מקדים שני ימים. והיא מתרצת כמו קודם: שנה שהשנה שלפניה מעוברת, ונשאר יום אחד שלא שמו אליו לב.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Ulla: it did not seem right to the Sages to make more than eight deficient – and why not nine",
+    "gemara": "Ulla says the reason for 'not fewer than four leap months' is that it did not seem right to the Sages to make more than eight deficient months. The Gemara asks what is different about nine: nine would make the moon come three days early, yet with eight it is already two days early. It answers as before: the previous year was a leap year, and a single day remains that people overlooked.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:4:1",
+     "quote": "וכי עבדת תלתא חסירין טפי מקדמת ליה לראש השנה ג׳ יומי",
+     "he": "רש״י: כשעושים שלושה חסרים נוספים מקדימים את ראש השנה שלושה ימים.",
+     "en": "Rashi: when three more deficient months are made, Rosh Hashanah is advanced by three days."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:5:1",
+     "quote": "אשתכח דמאחרת לראש השנה פלגא יומא",
+     "he": "רש״י: חודש העיבור שלשים יום ולמנין הלבנה כ״ט וחצי, ולכן מתאחר ראש השנה חצי יום והירח מקדים רק יום וחצי.",
+     "en": "Rashi: the added month has thirty days against the moon's twenty-nine and a half, so Rosh Hashanah is delayed half a day and the moon is early by only a day and a half."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9a:6:1",
+     "quote": "ואנן הוא דלאו אדעתין למימסר נפשין",
+     "he": "רש״י: הלבנה נראתה לבית הדין, אלא שאנו לא שמנו לב לטרוח ולראותה, ולכן אין מתרעמים.",
+     "en": "Rashi: the moon was in fact visible to the court; it is we who did not set our mind to going out to see it, so there is no murmuring."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9a:4:1",
+     "quote": "ובשביל ג׳ חסירים בצרי משתא שלש יומי",
+     "he": "תוספות: בכסדרן הקביעות ביום המולד, וכשחסרים שלושה חודשים נוספים השנה מתקצרת בשלושה ימים.",
+     "en": "Tosafot: in the regular order fixing falls on the molad, and with three more deficient months the year is shortened by three days."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9a:5:1",
+     "quote": "אין זה מקדים רק חד יומא",
+     "he": "תוספות: כשהמולד אשתקד היה בשעה כזו שהחשבון מוביל לראיה ביום ה׳, אין זה מקדים אלא יום אחד.",
+     "en": "Tosafot: where last year's molad was such that the count leads to sighting on Thursday, it is early by only one day."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9a:5",
+     "quote": "שג׳ ימים של ו׳ חסירין שנחסר מימי הלבנה",
+     "he": "רבינו גרשום: שלושה ימים הם מששת החסרים הנוספים שנחסרו מימי הלבנה.",
+     "en": "Rabbeinu Gershom: the three days come from the six extra deficient months taken from the moon's days."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9a:6",
+     "quote": "כי הוו ח׳ חסירין מייתרא תרי יומי",
+     "he": "רבינו גרשום: בשמונה חסרים הירח מקדים שני ימים.",
+     "en": "Rabbeinu Gershom: with eight deficient months the moon is two days early."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Rosh Hashanah 21a:8:1",
+     "quote": "אין פוחתין מד׳ חדשים מעוברין בשנה ולא יותר מח׳",
+     "he": "תוספות בראש השנה מביאים את המשנה בערכין ומציינים שהגמרא שם מעמידה אותה בשנה מעוברת, אבל בפשוטה יותר על שבעה.",
+     "en": "Tosafot in Rosh Hashanah cite the Mishnah in Arakhin and note that the Gemara there places it in a leap year; in an ordinary year not beyond seven."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 8:6",
+     "quote": "וּפְעָמִים יִהְיוּ שְׁנֵיהֶם חֲסֵרִים",
+     "he": "הרמב״ם בהלכות קידוש החודש: מרחשוון וכסלו פעמים שניהם מלאים, פעמים שניהם חסרים, ופעמים אחד חסר ואחד מלא.",
+     "en": "The Rambam in Sanctification of the New Month: Marcheshvan and Kislev are at times both full, at times both deficient, and at times one deficient and one full."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Niddah 30b:2",
+     "quote": "לשון עיכוב כמו איתרה סיהרא",
+     "he": "החכמת שלמה מציין ש״איתרה״ הוא לשון עיכוב, כמו ״איתרה סיהרא״ שבמסכת ערכין.",
+     "en": "The Chokhmat Shlomo notes that 'itra' is a term of delay, like 'itra sihara' in Arakhin."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 9a:2",
+     "quote": "עתיקא תלתא יומי",
+     "he": "היעב״ץ מגיה בדברי רש״י ״מייתרא סיהרא עתיקא תלתא יומי״.",
+     "en": "The Ya'avetz emends Rashi's comment to read 'mayitra sihara atika tlata yomei'."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    1,
+    6
+   ],
+   "he": {
+    "title": "מחלוקת רב הונא ועולא, ויום הנף ולאור עיבורו",
+    "gemara": "רב הונא ועולא נחלקים בעיבור שנה: האם הוא שלשים יום, או חודש (כרשב״ג). הגמרא מקשה על עולא מן הברייתא שעצרת חלה רק ביום הנף וראש השנה חל רק ביום הנף או לאור עיבורו. לעולא מתיישב; לרב הונא, שעושים מעוברים, אפשר ליפול ב״לאור אור עיבורו״. רב הונא משיב: גם לעולא לא ניחא, שהרי שבעה מעוברים עושים.",
+    "halakha": "המנחת חינוך כותב: ״קי״ל כרבנן דעושין שמנה מעוברין או שמנה חסירין״."
+   },
+   "en": {
+    "title": "The dispute of Rav Huna and Ulla; yom haneif and lor ibburo",
+    "gemara": "Rav Huna and Ulla differ over the length of an added month: thirty days, or a month as Rabban Shimon ben Gamliel says. The Gemara challenges Ulla from the baraita that Atzeret falls only on the day of the waving and Rosh Hashanah only on that day or the night after its added day. Ulla fits; for Rav Huna, who allows full months, 'the night after the night after' could occur. Rav Huna replies that Ulla's view is no better, since he makes seven full months.",
+    "halakha": "The Minchat Chinukh writes: 'we hold like the Rabbanan, who make eight full or eight deficient months.'"
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:1",
+     "quote": "רב הונא כרבן שמעון בן גמליאל",
+     "he": "רבינו גרשום: רב הונא סובר כרבן שמעון בן גמליאל, ועולא כתנא קמא.",
+     "en": "Rabbeinu Gershom: Rav Huna holds like Rabban Shimon ben Gamliel, and Ulla like the first Tanna."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:1:1",
+     "quote": "ועולא סבר לה כת״ק דלעולם שלשים",
+     "he": "רש״י: רב הונא מעמיד את המשנה בשני דברים וסובר כרשב״ג שפעמים כ״ט ופעמים שלשים, ועולא סובר כת״ק שלעולם שלשים.",
+     "en": "Rashi: Rav Huna explains the Mishnah in two ways, following Rashbag that an added month is sometimes twenty-nine and sometimes thirty; Ulla follows the first Tanna that it is always thirty."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 4:17",
+     "quote": "שֶׁחֹדֶשׁ הָעִבּוּר הָרְשׁוּת לְבֵית דִּין לְהוֹסִיפוֹ מָלֵא אוֹ חָסֵר",
+     "he": "הרמב״ם: חודש העיבור רשות לבית דין להוסיפו מלא או חסר.",
+     "en": "The Rambam: the added month is at the court's discretion to make full or deficient."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:2:1",
+     "quote": "וביום חמשים מתחיל השבוע",
+     "he": "רש״י: יום הנף הוא ט״ז בניסן שממנו מתחילים למנות חמשים, ויום חמשים מתחיל שבוע.",
+     "en": "Rashi: the day of waving is the sixteenth of Nisan, from which fifty are counted, and day fifty begins a new week."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:2:2",
+     "quote": "אור עיבורו שהוא לילה שבו מתעבר החדש",
+     "he": "רש״י מסביר ״לאור עיבורו״: הלילה שבו החדש מתעבר, כשעושים ר״ח יום ל״א.",
+     "en": "Rashi explains 'lor ibburo': the night on which the month is extended, when the thirty-first day becomes Rosh Chodesh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:3:1",
+     "quote": "לשלישי של פסח הוי ר״ה דהיינו לאור עיבורו",
+     "he": "רש״י: בסימן א״ת ב״ש ג״ר ראש השנה ביום השלישי של פסח, וזה לאור עיבורו.",
+     "en": "Rashi: by the mnemonic, Rosh Hashanah falls on the third day of Pesach, which is lor ibburo."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:6:1",
+     "quote": "אפילו לעולא דהא דלא עבדינן שמנה מליאין משום דקדים אתי סיהרא תרי יומי",
+     "he": "רש״י מסביר את תשובת רב הונא: גם לעולא שבעה מליאים עושים, כי אז הירח מקדים יום אחד בלבד.",
+     "en": "Rashi explains Rav Huna's reply: even Ulla makes seven full months, since then the moon is early by one day only."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:2",
+     "quote": "ביום הנפת העומר דכתיב ביה ממחרת השבת יניפנו הכהן",
+     "he": "רבינו גרשום: ״יום הנף״ הוא יום הנפת העומר.",
+     "en": "Rabbeinu Gershom: 'yom haneif' is the day of the omer's waving."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:8",
+     "quote": "אבל ז׳ מעוברין עבדינן",
+     "he": "רבינו גרשום: שמונה לא עושים, אבל שבעה מעוברים עושים.",
+     "en": "Rabbeinu Gershom: eight they do not make, but seven full months they do."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9b:3:1",
+     "quote": "פי׳ ליל שאחר עיבורו",
+     "he": "תוספות: ״לאור עיבורו״ הוא הלילה שאחר עיבורו, יום ל״א בניסן, שהוא יום ג׳ של פסח.",
+     "en": "Tosafot: 'lor ibburo' is the night after its added day, the thirty-first of Nisan, the third day of Pesach."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 309:1:1",
+     "quote": "ובפרט דהלכה קי״ל כרבנן דעושין שמנה מעוברין או שמנה חסירין",
+     "he": "המנחת חינוך: הלכה כרבנן שעושים שמונה מעוברים או שמונה חסרים, כמבואר בערכין.",
+     "en": "The Minchat Chinukh: the halakha follows the Rabbanan, who make eight full or eight deficient months, as explained in Arakhin."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Sanctification of the New Month 4:2:1",
+     "quote": "אבל לרשב״ג דס״ל דיכולין לעבר כ״ט יום",
+     "he": "הצפנת פענח: לפי רשב״ג שיכולים לעבר כ״ט יום, אפשר לעבר גם בשל תקופת ניסן.",
+     "en": "The Tzafnat Pa'neach: according to Rashbag, who holds one may intercalate twenty-nine days, one may also intercalate on account of the Nisan tekufah."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 9b:3",
+     "quote": "ק״ל דהא מ״מ יקשה דלדידהו מ״ל ג״כ לאור אור עיבורו",
+     "he": "הרש״ש מקשה שגם לאחרים יכול להיות ״לאור אור עיבורו״.",
+     "en": "The Rashash asks that even for Acherim 'the night after the night after lor ibburo' could occur."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    7,
+    11
+   ],
+   "he": {
+    "title": "״אחרים״ – אין בין ראש השנה לראש השנה אלא ארבעה ימים",
+    "gemara": "הגמרא מעמידה את הברייתא כאחרים האומרים שאין בין עצרת לעצרת אלא ארבעה ימים, ובשנה מעוברת חמשה. מקשה: לאחרים לא משכחת ביום הנף. מתרצת רב משרשיא: שנה מעוברת ועיבורה שלשים יום, מורידים חודש לבהדי חודש. רב אדא בר אהבה: ״אחרים״ בא להשמיענו שלא בעינן מצוה לקדש על פי הראייה. רבינא מקשה מיומא דשעי ויומא דתלתין שנין, ונדחה: כיון דליתיה בכל שתא לא חשיב.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "'Acherim' – only four days between Rosh Hashanah and Rosh Hashanah",
+    "gemara": "The Gemara places the baraita with Acherim, who say that there are only four days between Atzeret and Atzeret, five in a leap year. It asks that on Acherim's view the day of waving cannot occur. Rav Mesharshya answers: a leap year whose added month is thirty days, taking a month away together with a month. Rav Adda bar Ahava: the point is that there is no mitzvah to sanctify by sighting. Ravina objects from 'the day of hours' and 'the day of thirty years', answered: what is not in every year is not counted.",
+    "halakha": "הרמב״ם: ״אִם תִּמְצָא בֵּינֵיהֶם חֲמִשָּׁה יָמִים יִהְיוּ כְּסִדְרָן״ – כך קובעים אם חדשי השנה המעוברת חסרים, כסדרן או שלמים."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:7:1",
+     "quote": "אחרים הוא דלית להו מליאין וחסירין",
+     "he": "רש״י: אחרים הם שאין להם מלאים וחסרים, כי לדידהו כל החדשים כסדרן.",
+     "en": "Rashi: it is Acherim who have no full and deficient months, for in their view all months are in regular order."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:7:2",
+     "quote": "אם אירע ר״ה ביום ראשון יבא לשנה הבאה ליום חמישי",
+     "he": "רש״י: אם ראש השנה ביום ראשון, לשנה הבאה יהיה ביום חמישי, כי כולם כסדרן.",
+     "en": "Rashi: if Rosh Hashanah falls on Sunday, the next year it falls on Thursday, since all is in regular order."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:8:1",
+     "quote": "דהא בכסדרן מקלע לאור עיבורו",
+     "he": "רש״י: בכסדרן מגיעים תמיד ללאור עיבורו, ולכן ביום הנף לא משכחת.",
+     "en": "Rashi: in regular order it always lands on lor ibburo, so yom haneif cannot be found."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:9:1",
+     "quote": "ועביד ליה חסר לבהדי ירחא דעיבור",
+     "he": "רש״י: חודש של הקיץ עושים חסר כנגד חודש העיבור, כשם שעושים שבט ואדר הראשון מלאים יחד.",
+     "en": "Rashi: a summer month is made deficient against the added month, just as Shevat and the first Adar are made full together."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:10:1",
+     "quote": "אין מעברין את החדש לצורך",
+     "he": "רש״י: אם אחרים אמרו רק ״אין מעברין את החדש לצורך״, ממילא ידענו שבין זה לזה ארבעה.",
+     "en": "Rashi: had Acherim said only 'we do not intercalate the month for need', we would know there are four days between."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:10:2",
+     "quote": "משום דמצוה לקדש על פי עדים",
+     "he": "רש״י: ״הא קמשמע לן״ – לולא כן היינו סוברים שכשלא באו עדים ביום שלשים מעברים משום מצוה לקדש על פי עדים.",
+     "en": "Rashi: without this we would think that when no witnesses came on day thirty the month is extended because it is a mitzvah to sanctify by witnesses."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:11:1",
+     "quote": "דלשלש שנים טפי חד יומא",
+     "he": "רש״י: יומא דשעי – בכל שנה עודפות שמונה שעות, ולשלש שנים נוסף יום אחד.",
+     "en": "Rashi: 'the day of hours' – each year has eight extra hours, so that after three years there is one extra day."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:11:2",
+     "quote": "תמצא יום לשלשים שנה",
+     "he": "רש״י: ויומא דתלתין שנין – מן התתע״ו חלקים העודפים נצבר יום אחד לשלשים שנה.",
+     "en": "Rashi: 'the day of thirty years' – from the extra parts a day accumulates over thirty years."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9b:8:1",
+     "quote": "יש לנו לחסר חדש אחד מהשלימים של הקיץ",
+     "he": "תוספות: בשנה מעוברת ועיבורה שלשים יש לחסר חודש אחד מהשלמים של הקיץ, ולכן משכחת ביום הנף.",
+     "en": "Tosafot: in a leap year with a thirty-day added month, one of the summer's full months is made deficient, so yom haneif is found."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:10",
+     "quote": "דסבירא להו דלעולם אחד מלא ואחד חסר",
+     "he": "רבינו גרשום: אחרים סוברים שלעולם אחד מלא ואחד חסר, ולכן בין ר״ה לר״ה ארבעה ימים.",
+     "en": "Rabbeinu Gershom: Acherim hold that months are always one full, one deficient, so there are four days between Rosh Hashanah and Rosh Hashanah."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:14",
+     "quote": "הא קמ״ל דלא בעינן מצוה לקדש ע״פ הראייה",
+     "he": "רבינו גרשום: לא ממתינים לעדים אלא הולכים אחר החשבון.",
+     "en": "Rabbeinu Gershom: we do not wait for witnesses but follow the calculation."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Sukkah 54b:1",
+     "quote": "אחרים הוא דלית להו דחויים אלא לעולם סבר כולהו ירחי אחד מלא ואחד חסר",
+     "he": "רבינו חננאל: אחרים אינם סוברים בדחויים אלא כל החדשים אחד מלא ואחד חסר.",
+     "en": "Rabbeinu Chananel: Acherim hold no postponements, but all months are one full and one deficient."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Sukkah 54b:10:1",
+     "quote": "דקסבר אין מעברין את החדש לצורך וכולם הולכים לפי המולדות",
+     "he": "תוספות בסוכה: אחרים סוברים שאין מעברין את החדש לצורך וכולם הולכים לפי המולדות.",
+     "en": "Tosafot in Sukkah: Acherim hold that the month is not intercalated for need and all follow the molads."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Rosh Hashanah 20a:19:1",
+     "quote": "משום דליתיה בכל שנה לא קחשיב",
+     "he": "תוספות בראש השנה: על ״יומא דתלתין שנין״ משנה הגמרא שמה שאינו בכל שנה לא חשוב.",
+     "en": "Tosafot in Rosh Hashanah: on 'the day of thirty years' the Gemara answers that what is not in every year is not counted."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 8:8",
+     "quote": "אִם תִּמְצָא בֵּינֵיהֶם חֲמִשָּׁה יָמִים יִהְיוּ כְּסִדְרָן",
+     "he": "הרמב״ם: בשנה מעוברת אם יש חמשה ימים בין קביעות לקביעות החדשים כסדרן.",
+     "en": "The Rambam: in a leap year, if there are five days between the fixings, the months are in regular order."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פני יהושע",
+      "en": "Penei Yehoshua"
+     },
+     "ref": "Penei Yehoshua on Rosh Hashanah 18a:1",
+     "quote": "איכא למימר דלעיכובא לא בעינן לדחות החודש אבל מצוה איכא",
+     "he": "הפני יהושע: לאחרים אין עיכוב בדחיית החודש, אך יש מצוה לקדש על פי הראייה.",
+     "en": "The Penei Yehoshua: for Acherim there is no requirement to postpone the month, though there is a mitzvah to sanctify by sighting."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Rosh Hashanah 20a:1",
+     "quote": "דלאחרים עבור שנה ל׳ יום ודל ירחא לבהדי ירחא",
+     "he": "הרש״ש: לפי הגמרא בערכין, לאחרים עיבור שנה שלשים יום ומורידים חודש כנגד חודש.",
+     "en": "The Rashash: per the Gemara in Arakhin, for Acherim the added month is thirty days and a month is removed against a month."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 9b:1",
+     "quote": "הא קמ״ל דלא בעינן מצוה לקדש ע״פ הראייה",
+     "he": "הרש״ש מציין את דברי הגמרא על מצוה לקדש על פי הראייה ומפנה לדבריו במנחות.",
+     "en": "The Rashash notes the Gemara on the mitzvah of sanctifying by sighting and refers to his remarks in Menachot."
+    },
+    {
+     "who": {
+      "he": "חדושי הלכות",
+      "en": "Chidushei Halachot"
+     },
+     "ref": "Chidushei Halachot on Rosh Hashanah 20a:2",
+     "quote": "דפריך נמי התם יומא דתלתא שנין",
+     "he": "החדושי הלכות: בגמרא מקשים גם על יומא דתלתא שנין, שמצטברות שמונה שעות לשלש שנים.",
+     "en": "The Chidushei Halachot: the Gemara also asks from 'the day of three years', as eight hours accumulate over three years."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 309:1:1",
+     "quote": "דאף לאחרים משכחת לה דניסן ואייר יהיו חסירין",
+     "he": "המנחת חינוך: גם לאחרים משכחת שניסן ואייר שניהם חסרים בשנה מעוברת.",
+     "en": "The Minchat Chinukh: even for Acherim Nisan and Iyar can both be deficient in a leap year."
+    },
+    {
+     "who": {
+      "he": "ביאור על ספר המצוות לרס״ג",
+      "en": "Commentary on Sefer Hamitzvot of Rasag"
+     },
+     "ref": "Commentary on Sefer Hamitzvot of Rasag, Negative Commandments 157:4",
+     "quote": "דגם לדידהו בשנה מעוברת ניסן ואייר שניהם חסרין",
+     "he": "הביאור על ספר המצוות לרס״ג: לפי סוגיית ערכין, אפילו לאחרים בשנה מעוברת ניסן ואייר שניהם חסרים.",
+     "en": "The commentary on Rasag's Sefer Hamitzvot: per the Arakhin discussion, even for Acherim in a leap year Nisan and Iyar are both deficient."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    16
+   ],
+   "he": {
+    "title": "שמואל, נזיר ״כימות הלבנה״, ומעשה רבי בתשעה חסרים",
+    "gemara": "גם שמואל סובר כרב הונא: שנת לבנה לא פחותה מ-352 ולא יתרה על 356 יום, כשבשנים שהם מלאים ששה ובחסרים שנים. מקשים מברייתא של נזיר ״כימות הלבנה״ שמונה 354, ומשיבים שבנדרים הולכים אחר לשון בני אדם ורוב שנים. ואף רבי סובר כרב הונא: מעשה שעשה תשעה חסרים, ורבי שמעון בנו הציע שהיתה שנה מעוברת.",
+    "halakha": ""
+   },
+   "en": {
+    "title": "Shmuel, a nazir 'like the days of the moon', and Rabbi's nine deficient months",
+    "gemara": "Shmuel also holds like Rav Huna: a lunar year is not less than 352 nor more than 356 days. The Gemara objects from the baraita of a nazir 'like the days of the moon', who counts 354, and answers that in vows we follow people's language and most years. Rabbi too holds like Rav Huna: he once made nine deficient months, and his son Rabbi Shimon suggested it was a leap year.",
+    "halakha": ""
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sanctification of the New Month 6:4",
+     "quote": "שְׁלֹשׁ מֵאוֹת יוֹם וְאַרְבָּעָה וַחֲמִשִּׁים יוֹם",
+     "he": "הרמב״ם: שנה של לבנה שנים עשר חודש היא שלש מאות וחמשים וארבעה יום ועוד שעות וחלקים.",
+     "en": "The Rambam: a lunar year of twelve months is three hundred and fifty-four days plus hours and parts."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:12:1",
+     "quote": "דשמונה מליאין נמי עבדינן",
+     "he": "רש״י: שמואל סובר כרב הונא שגם שמונה מלאים עושים.",
+     "en": "Rashi: Shmuel holds like Rav Huna that eight full months are also made."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:13:1",
+     "quote": "נמצא שנה עודפת שני ימים על כסדרן והרי היא שנ״ו",
+     "he": "רש״י: אם שני חודשים מהחסרים נעשים מלאים השנה עודפת שני ימים והרי היא שנ״ו.",
+     "en": "Rashi: if two deficient months are made full the year exceeds the regular by two days and is 356."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:13:2",
+     "quote": "נמצאת שנה חסירה שני ימים מכסדרן והרי היא שנ״ב",
+     "he": "רש״י: אם שני מלאים נעשים חסרים השנה חסירה שני ימים והרי היא שנ״ב.",
+     "en": "Rashi: if two full months are made deficient the year is short by two days and is 352."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:14:1",
+     "quote": "מונה נזירות שס״ה",
+     "he": "רש״י: הנודר ״כימות החמה״ מונה נזירות שס״ה.",
+     "en": "Rashi: one who vows 'like the days of the sun' counts 365 days of nazirite."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 9b:16:3",
+     "quote": "לפי שהיה לאחר הלבנה שלשה ימים",
+     "he": "רש״י: רבי תמה כי הקדימו את הקביעות שלשה ימים.",
+     "en": "Rashi: Rabbi was amazed because the fixing had been advanced three days."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 9b:16:1",
+     "quote": "שמא שנה מעוברת היתה ועיבור שנה שלשים",
+     "he": "תוספות: רבי שמעון בנו הציע ששנה זו היתה מעוברת ועיבורה שלשים, ולכן התאחרה הקביעות.",
+     "en": "Tosafot: his son Rabbi Shimon suggested that this was a leap year with a thirty-day added month, so the fixing was delayed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:16",
+     "quote": "אלמא סבירא ליה לשמואל דעבדין בין ח׳ מעוברין בין ח׳ חסירין",
+     "he": "רבינו גרשום: שמואל סובר שעושים גם שמונה מעוברים וגם שמונה חסרים.",
+     "en": "Rabbeinu Gershom: Shmuel holds one makes both eight full and eight deficient months."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:17",
+     "quote": "מונה שס״ה נזירות כמנין ימות החמה",
+     "he": "רבינו גרשום מסביר שנזיר ״כימות החמה״ מונה שס״ה כמנין ימות החמה.",
+     "en": "Rabbeinu Gershom explains that a nazir 'like the sun's days' counts 365 like the sun's days."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 9b:18",
+     "quote": "והיינו פליגא אדעולא דאמר דלא עבדינן יותר מח׳ חסירין",
+     "he": "רבינו גרשום: זה חולק על עולא שאמר שלא עושים יותר משמונה חסרים.",
+     "en": "Rabbeinu Gershom: this disagrees with Ulla, who said not more than eight deficient months are made."
+    }
+   ],
+   "acharonim": []
+  }
+ ]
+}
