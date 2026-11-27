@@ -1,0 +1,1308 @@
+{
+ "ref": "Arakhin 10",
+ "date": "2026-11-27",
+ "he": {
+  "overview": "הדף פותח בסוף סיפור העיבור ואחר כך במשנה על מספר התקיעות וכלי השיר במקדש, ובגמרא על מחלוקת רבי יהודה ורבנן אם תקיעה תרועה ותקיעה הן אחת או שלוש. בהמשך שואלת הגמרא מדוע דווקא בשנים עשר ימים החליל מכה, ומגיעה לימים שהיחיד גומר בהם את ההלל ולשאלה מדוע אין אומרים הלל בשבת, בראש חודש, בראש השנה וביום הכיפורים ובפורים. בעמוד ב׳ באה ברייתא על כלי המקדש: האבוב, הצלצל, המכתשת, שילוח והרדוולים. הראשונים והאחרונים דנים בהפסקה בין התקיעות, בטעם ימי ההלל, בגדר שירה בכלי ובפה, ובמעמד הכלים שנפגמו ותוקנו.",
+  "title": "סיכום — ערכין י׳"
+ },
+ "en": {
+  "overview": "The daf opens with the end of a story about intercalating the year and then the mishna on the number of blasts and musical instruments in the Temple; the Gemara asks whether R' Yehudah and the Rabbanan differ on whether tekiah-teruah-tekiah is one blast or three. It then asks why the flute plays on twelve days, which leads to the eighteen days on which an individual completes Hallel, and to why Hallel is not said on Shabbat, Rosh Chodesh, Rosh Hashanah, Yom Kippur or Purim. Amud b brings a baraita on Temple vessels: the avuv, the tzaltzal, the makhtesh, the Shiloach and the hirdavlis. The Rishonim and Acharonim discuss pausing between blasts, the reason for the Hallel days, song with instruments versus with the mouth, and vessels that were damaged and repaired.",
+  "title": "Summary — Arakhin 10"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 6,
+   "anchors": [
+    "תקיעה תרועה ותקיעה חדא היא"
+   ],
+   "he": {
+    "term": "תקיעה־תרועה־תקיעה",
+    "explanation": "סדר שלוש הקולות בשופר ובחצוצרות. רבי יהודה רואה אותו כתקיעה אחת, ורבנן רואים בכל קול חיוב נפרד, ולכן מספר התקיעות במשנה שונה אצלם."
+   },
+   "en": {
+    "term": "Tekiah-teruah-tekiah",
+    "explanation": "The sequence of three sounds. R' Yehudah counts it as one blast, while the Rabbanan count each sound separately, so the mishna's totals differ in their view."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10a:5:1",
+    "quote": "ואין לך כל תרועה שאין תקיעה פשוטה לפניה ולאחריה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 7,
+   "anchors": [
+    "לפשוטה לפניה ופשוטה לאחריה"
+   ],
+   "he": {
+    "term": "פשוטה לפניה ולאחריה",
+    "explanation": "תקיעה פשוטה (ללא תרועה) שבאה לפני התרועה ואחריה. לפי הרבנן זה מה שלומדים מהפסוקים על תרועה."
+   },
+   "en": {
+    "term": "A plain blast before and after",
+    "explanation": "A plain tekiah before the teruah and after it. According to the Rabbanan, this is what the verses on teruah teach."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10a:7:2",
+    "quote": "דמהכא נפקא פשוטה לפניה דכתיב ותקעתם והדר תרועה"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 13,
+   "anchors": [
+    "היחיד גומר בהן את ההלל"
+   ],
+   "he": {
+    "term": "הלל שהיחיד גומר",
+    "explanation": "הימים שבהם כל אדם אומר הלל שלם, בהבדל מימים שבהם נוהגים לדלג חלקים ממנו."
+   },
+   "en": {
+    "term": "Days an individual completes Hallel",
+    "explanation": "The days on which every person says the complete Hallel, as distinct from days on which parts of it are skipped."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Berakhot 14a:4:1",
+    "quote": "שהוא חובה לכל אדם והם אחד ועשרים יום בשנה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 1,
+   "anchors": [
+    "חלוקין בקרבנותיהן"
+   ],
+   "he": {
+    "term": "חלוקין בקרבנותיהן",
+    "explanation": "ימי החג שבהם הקרבנות משתנים מיום ליום (מספר הפרים יורד), לעומת פסח שבו קרבנות כל הימים שווים."
+   },
+   "en": {
+    "term": "Differing sacrifices each day",
+    "explanation": "The days of Sukkot, when the offerings change from day to day (the number of bulls decreases), unlike Pesach, when every day has the same offerings."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10b:1:1",
+    "quote": "דפרי החג מתמעטין והולכין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 10,
+   "anchors": [
+    "היינוּ חליל היינוּ אבּוּב"
+   ],
+   "he": {
+    "term": "חליל ואבוב",
+    "explanation": "לפי רב פפא חליל ואבוב הם אותו כלי, ושמו חליל על שם קולו."
+   },
+   "en": {
+    "term": "Chalil and avuv",
+    "explanation": "According to Rav Pappa, chalil and avuv are the same instrument, called chalil for its sound."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10b:10:1",
+    "quote": "מתוק קולו לשמוע"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 11,
+   "anchors": [
+    "צלצול"
+   ],
+   "he": {
+    "term": "צלצל",
+    "explanation": "כלי נחושת מנגן שהיה במקדש; לפי רש״י שני כלים המוכים זה על זה."
+   },
+   "en": {
+    "term": "Tzaltzal",
+    "explanation": "A bronze musical instrument in the Temple; according to Rashi, two vessels struck against each other."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10b:11:3",
+    "quote": "שני כלים מכין זה ע\"ג זה וקולם דק"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 13,
+   "anchors": [
+    "נחושת ממורט"
+   ],
+   "he": {
+    "term": "נחושת ממורט",
+    "explanation": "לשון הפסוק על שני כלי הנחושת; רש״י מפרש ״דק״ ו״ממורק״ כמבנה הכלי."
+   },
+   "en": {
+    "term": "Polished bronze",
+    "explanation": "The verse's term for the two bronze vessels; Rashi explains the word as thin."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 10b:13:2",
+    "quote": "דק שיכולין לקפלו"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    4
+   ],
+   "he": {
+    "title": "מספר התקיעות וכלי השיר במקדש",
+    "gemara": "המשנה קובעת: לא פחות מעשרים ואחת תקיעות במקדש ולא יותר מארבעים ושמונה; לא פחות משני נבלים ולא יותר משישה; לא פחות משני חלילים ולא יותר משנים עשר. בשנים עשר ימים בשנה החליל מכה לפני המזבח, באבוב של קנה. נחלקו מי היו המנגנים: עבדי כהנים (ר״מ), ישראלים מיוחסים (ר׳ יוסי), או לוים (ר׳ חנינא).",
+    "halakha": "הרמב״ם מביא את המספרים: לא פחות משני נבלים ולא יותר משישה, ולא פחות משני חלילים ולא יותר משנים עשר."
+   },
+   "en": {
+    "title": "Number of blasts and instruments in the Temple",
+    "gemara": "The mishna: no fewer than twenty-one blasts in the Temple and no more than forty-eight; no fewer than two nevalim and no more than six; no fewer than two flutes and no more than twelve. On twelve days a year the flute plays before the altar, with a reed avuv. They disagree about who the players were: priests' slaves (R' Meir), men of pure lineage (R' Yosei) or Levites (R' Chanina).",
+    "halakha": "The Rambam gives the numbers: no fewer than two nevalim and no more than six, and no fewer than two flutes and no more than twelve."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:3:4",
+     "quote": "אם היו רוצין היו עושין",
+     "he": "רש״י: אין טעם למספר שישה, ואת י״ב החלילים אפשר לעשות כנגד י״ב הימים שהחליל מכה.",
+     "en": "Rashi: no reason is given for six; as for twelve flutes, they could be made to match the twelve days on which the flute plays."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:3:5",
+     "quote": "שהיו נקבים בחליל ומכה באצבעו על הנקב להנעים את הקול",
+     "he": "רש״י מפרש ״מכה״: היו נקבים בחליל והמנגן מכה באצבעו על הנקב להנעים את הקול.",
+     "en": "Rashi explains 'strikes': the flute had holes and the player struck the hole with his finger to sweeten the sound."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:3:8",
+     "quote": "כשהיה מגיע לסיום הנעימה היה האחד מן החלילים מאריך לאחר שתיקת האחר",
+     "he": "רש״י: ״מחלק״ הוא סיום; בסוף הנעימה היה חליל אחד מאריך אחרי ששתק האחר.",
+     "en": "Rashi: 'mechalek' means ending; at the end of the melody one flute held on after the other fell silent."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:4:4",
+     "quote": "כהנים היו נושאין בנותיהן שישראלים מיוחסין היו",
+     "he": "רש״י על דעת ר׳ יוסי: כהנים היו נושאים את בנותיהם, כי ישראלים מיוחסים היו.",
+     "en": "Rashi, on R' Yosei: priests married their daughters, since they were Israelites of pure lineage."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:9",
+     "quote": "עץ עשוי כמין נפה עגול",
+     "he": "רבינו גרשום מתאר את הנבל כעץ עשוי כמין נפה עגול ומתוח עליו כרס של כבש.",
+     "en": "Rabbeinu Gershom describes the nevel as a wooden frame like a round sieve with a lamb's innards stretched over it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:23",
+     "quote": "היה מאריך בקול האבוב יותר משאר מיני זמר",
+     "he": "רבינו גרשום: בסוף השיר היה מאריך בקול האבוב יותר משאר מיני זמר.",
+     "en": "Rabbeinu Gershom: at the end of the song he held the avuv's note longer than the other instruments."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:24",
+     "quote": "משאר אומות אותן מזמרין בכלי שיר",
+     "he": "רבינו גרשום מפרש שעבדי כהנים הם משאר אומות והם המנגנים בכלי שיר.",
+     "en": "Rabbeinu Gershom: the priests' slaves were from other nations, and they played the instruments."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10a:2:1",
+     "quote": "שלשה לפתיחת שערים ותשע לתמיד של שחר",
+     "he": "התוספות מפרשים (לפי סוכה) את עשרים ואחת התקיעות: שלוש לפתיחת שערים ותשע לתמיד של שחר.",
+     "en": "Tosafot, following Sukkah, break down the twenty-one blasts: three for opening the gates and nine for the morning tamid."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:4",
+     "quote": "וְאֵין פּוֹחֲתִין מִשְּׁנֵי נְבָלִים וְלֹא מוֹסִיפִין עַל שִׁשָּׁה",
+     "he": "הרמב״ם פוסק את מספר הנבלים והחלילים כמשנה.",
+     "en": "The Rambam states the numbers of nevalim and flutes as in the mishna."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:3",
+     "quote": "וַאֲחֵרִים הָיוּ עוֹמְדִים שָׁם מְנַגְּנִין בִּכְלֵי שִׁיר",
+     "he": "הרמב״ם: הלוים שרו בפה, ואחרים, לוים וישראלים מיוחסים, ניגנו בכלי שיר.",
+     "en": "The Rambam: the Levites sang with the mouth, while others, Levites and Israelites of pure lineage, played instruments."
+    },
+    {
+     "who": {
+      "he": "המאירי",
+      "en": "Meiri"
+     },
+     "ref": "Meiri on Sukkah 50a:2",
+     "quote": "חליל של קרבן דוחה שבת שעבודה היא",
+     "he": "המאירי: חליל של קרבן דוחה שבת.",
+     "en": "The Meiri: the flute of the offering overrides Shabbat."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:5:2",
+     "quote": "כשהיה מגיע לסיום הנעימה היה אחד מהחלילין מאריך לאחר שתיקת האחר",
+     "he": "הכסף משנה מביא את פירוש רש״י למשנה ״לא היה מחלק אלא באבוב יחידי״: חליל אחד מאריך אחרי שתיקת השני.",
+     "en": "The Kessef Mishneh brings Rashi's explanation of the mishna: one flute continues after the other falls silent."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    5,
+    11
+   ],
+   "he": {
+    "title": "תקיעה ותרועה: מחלוקת רבי יהודה ורבנן",
+    "gemara": "המשנה אינה כרבי יהודה, שלדעתו מספר התקיעות הוא שבע עד שש עשרה. רבי יהודה סבור שתקיעה תרועה ותקיעה הן אחת, מדכתיב ״ותקעתם תרועה״ ו״תרועה יתקעו״; הרבנן לומדים משם פשוטה לפניה ולאחריה, ומ״תתקעו ולא תריעו״ מוכיחים שהן נפרדות. הגמרא דנה בדברי רב כהנא ״אין בין תקיעה לתרועה ולא כלום״ ובדברי ר׳ יוחנן.",
+    "halakha": "התוספות כותבים שאסור להפסיק בין השברים לתקיעות."
+   },
+   "en": {
+    "title": "Tekiah and teruah: R' Yehudah and the Rabbanan",
+    "gemara": "The mishna does not follow R' Yehudah, who says seven to sixteen. R' Yehudah holds that tekiah-teruah-tekiah is one blast, from 'you shall blow a teruah' and 'they shall blow a teruah'; the Rabbanan learn from these a plain blast before and after, and from 'you shall blow but not sound a teruah' prove they are separate. The Gemara discusses Rav Kahana's 'there is nothing between a tekiah and a teruah' and R' Yochanan's ruling.",
+    "halakha": "Tosafot write that one may not pause between the shevarim and the tekiot."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:5:1",
+     "quote": "ואין לך כל תרועה שאין תקיעה פשוטה לפניה ולאחריה",
+     "he": "רש״י: לרבנן המשנה סופרת כל תקיעה וכל תרועה לעצמה, ולכל תרועה יש תקיעה לפניה ולאחריה; ר׳ יהודה סופר אותן כאחת.",
+     "en": "Rashi: according to the Rabbanan the mishna counts each tekiah and teruah separately, and every teruah has a tekiah before and after; R' Yehudah counts them as one."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:7:2",
+     "quote": "ולעולם כל חדא מצוה באנפי נפשה",
+     "he": "רש״י: לפי הרבנן כל אחת מצוה בפני עצמה.",
+     "en": "Rashi: according to the Rabbanan each is a separate mitzvah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:8:1",
+     "quote": "לסימן שיקהלו ולאו לשום מצוה",
+     "he": "רש״י מסביר את ״סימנא בעלמא״ של רבי יהודה: סימן שיתקהלו ולא לשם מצוה.",
+     "en": "Rashi explains R' Yehudah's 'merely a signal': a sign to gather, not for any mitzvah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:9:1",
+     "quote": "שלא ישהא ויפסיק בין פשוטה שלפניה לתרועה",
+     "he": "רש״י על ״ולא כלום״: שלא יפסיק בין הפשוטה לתרועה ובין התרועה לפשוטה, אלא בבת אחת.",
+     "en": "Rashi on 'nothing': one may not pause between the plain blast and the teruah, or between the teruah and the plain blast, but they come together."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:10:1",
+     "quote": "אלא שלא ישהה בינתיים יותר מדאי",
+     "he": "רש״י על ההו״א שגם לרבנן ״אין בין״: שלא ישהה בינתיים יותר מדאי.",
+     "en": "Rashi on the suggestion that even the Rabbanan could say it: one must not wait too long in between."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:15",
+     "quote": "קרי לתרועה תקיעה וקרי לתקיעה תרועה",
+     "he": "רבינו גרשום: הכתוב קורא לתרועה תקיעה ולתקיעה תרועה, ולכן הן אחת.",
+     "en": "Rabbeinu Gershom: the verse calls the teruah a tekiah and the tekiah a teruah, so they are one."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:18",
+     "quote": "אבל פורתא מצי מפסיק כרבנן",
+     "he": "רבינו גרשום: ״ולא כלום״ אינו מדויק; מפסיק מעט כרבנן, אך לא כמו שאמר ר׳ יוחנן.",
+     "en": "Rabbeinu Gershom: 'nothing' is not exact; one may pause a little, as the Rabbanan hold, though not as R' Yochanan said."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10a:5:1",
+     "quote": "לרבי יהודה דאמר ליכא תקיעות כי אם שבעה",
+     "he": "התוספות: לרבי יהודה יש רק שבע תקיעות, כי תקיעה־תרועה־תקיעה נחשבת אחת.",
+     "en": "Tosafot: according to R' Yehudah there are only seven blasts, since tekiah-teruah-tekiah counts as one."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10a:9:1",
+     "quote": "ומכאן נראה לר' דאסור להפסיק בין שברים לתקיעות",
+     "he": "התוספות (רבינו תם): מכאן שאסור להפסיק בין שברים לתקיעות.",
+     "en": "Tosafot (Rabbeinu Tam): from here it appears one may not pause between shevarim and tekiot."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Rosh Hashanah 34a:1",
+     "quote": "דקאמר לא תרועה לבדה קאמר אלא שלא יפסיק ביניהם",
+     "he": "הרשב״א מפרש את הסוגיה כאן: ״לא תרועה לבדה״ אלא שלא יפסיק ביניהם.",
+     "en": "The Rashba explains the passage here: it does not mean a teruah alone, but that one should not pause between them."
+    },
+    {
+     "who": {
+      "he": "מהרי״ק והרדב״ז",
+      "en": "Mahari Kurkus and Radbaz"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 7:5:2",
+     "quote": "ופסק כרבנן דסתם מתניתין דסברי תקיעה לחוד ותרועה לחוד ותקיעה לחוד",
+     "he": "מהרי״ק והרדב״ז: הרמב״ם פסק כרבנן, שתקיעה לחוד ותרועה לחוד.",
+     "en": "Mahari Kurkus/Radbaz: the Rambam ruled like the Rabbanan, that tekiah and teruah are separate."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 7:3",
+     "quote": "שָׁלֹשׁ תְּקִיעוֹת לִפְתִיחַת הַשְּׁעָרִים",
+     "he": "הרמב״ם: שלוש תקיעות לפתיחת השערים (תקיעה תרועה ותקיעה).",
+     "en": "The Rambam: three blasts for opening the gates (tekiah, teruah, tekiah)."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 10:5:1",
+     "quote": "תקיעה בפני עצמה ותרועה בפני עצמה",
+     "he": "התורה תמימה: מ״תתקעו ולא תריעו״ יוצא שתקיעה בפני עצמה ותרועה בפני עצמה.",
+     "en": "Torah Temimah: from 'blow but not sound a teruah' it follows that tekiah and teruah are each separate."
+    },
+    {
+     "who": {
+      "he": "כלי חמדה",
+      "en": "Keli Chemdah"
+     },
+     "ref": "Keli Chemdah on Torah, Pekudei 4:6",
+     "quote": "אמר רחמנא עביד פלגא דמצוה",
+     "he": "כלי חמדה דן בסוגיה ובקושיית ״עביד פלגא דמצוה״ וגרסת סוכה.",
+     "en": "Keli Chemdah discusses the passage and the objection of 'doing half of the mitzvah', and the Sukkah text."
+    },
+    {
+     "who": {
+      "he": "חכמת שלמה",
+      "en": "Chokhmat Shlomo"
+     },
+     "ref": "Chokhmat Shlomo on Sukkah 53b:2",
+     "quote": "אלמא תרועה היינו תקיעה",
+     "he": "חכמת שלמה דן בגרסת הסוגיה ״אלמא תרועה היינו תקיעה״ ובדברי מהרש״ל.",
+     "en": "Chokhmat Shlomo discusses the text 'so a teruah is a tekiah' and the Maharshal's deletion."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 10a:1",
+     "quote": "כצ\"ל ותיבת לכם למחוק",
+     "he": "הרש״ש מגיה: למחוק את המילה ״לכם״.",
+     "en": "The Rashash emends: delete the word 'lachem'."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 10a:3",
+     "quote": "תי' לכם נמחק",
+     "he": "יעב״ץ: המילה ״לכם״ נמחקת.",
+     "en": "Ya'avetz: the word 'lachem' is deleted."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    12,
+    1
+   ],
+   "he": {
+    "title": "שמונה עשר ימים שהיחיד גומר בהם את ההלל",
+    "gemara": "הגמרא שואלת מדוע דווקא בשנים עשר ימים החליל מכה: הואיל והיחיד גומר בהם את ההלל. ר׳ יוחנן משום ר״ש בן יהוצדק מונה שמונה עשר יום בארץ (שמונת ימי החג, שמונת ימי חנוכה, י״ט ראשון של פסח ושל עצרת) ועשרים ואחד בגולה. מדוע בחג כל יום ובפסח לא? כי בחג חלוקין בקרבנותיהן ובפסח לא.",
+    "halakha": "הרמב״ם: שמונה עשר יום בשנה מצוה לגמור בהם את ההלל."
+   },
+   "en": {
+    "title": "The eighteen days an individual completes Hallel",
+    "gemara": "The Gemara asks why the flute plays on exactly these twelve days: because an individual completes Hallel on them. R' Yochanan in the name of R' Shimon ben Yehotzadak counts eighteen days in Israel (eight of Sukkot, eight of Chanukah, first day of Pesach and of Shavuot) and twenty-one in the diaspora. Why every day of Sukkot but not Pesach? Because on Sukkot the offerings differ each day, and on Pesach they do not.",
+    "halakha": "The Rambam: on eighteen days of the year there is a mitzvah to complete Hallel."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10a:27",
+     "quote": "הואיל והיחיד גומר בהם את ההלל",
+     "he": "רבינו גרשום מפרש שזהו הטעם שהחליל מכה בימים אלה.",
+     "en": "Rabbeinu Gershom gives this as the reason the flute plays on these days."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10a:13:1",
+     "quote": "שמונה ימי חנוכה לא חשיב במתני' משום דליכא קרבן",
+     "he": "רש״י: חנוכה אינו מנוי במשנה כי אין בו קרבן.",
+     "en": "Rashi: Chanukah is not counted in the mishna because it has no offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:1:1",
+     "quote": "דפרי החג מתמעטין והולכין",
+     "he": "רש״י: בחג פרי החג מתמעטים והולכים, ולכן ״חלוקין״.",
+     "en": "Rashi: on Sukkot the bulls decrease daily, hence 'differing'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Taanit 28b:6:1",
+     "quote": "כלומר אפי' יחיד גומר בהן את ההלל",
+     "he": "רש״י בתענית: אפילו יחיד גומר בהן את ההלל, וערכין מפרש מדוע בחג כל יום.",
+     "en": "Rashi in Taanit: even an individual completes Hallel; Arakhin explains why every day of Sukkot."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10a:13:1",
+     "quote": "משום דלא הוי אלא במקדש לא חשיב ליה",
+     "he": "התוספות: ערב פסח לא נמנה כי אינו אלא במקדש.",
+     "en": "Tosafot: erev Pesach is not counted because it applies only with the Temple."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10a:13:2",
+     "quote": "אבל קורין אותו בדילוג",
+     "he": "התוספות: בשאר ימים אין גומרים אך קורים בדילוג.",
+     "en": "Tosafot: on other days they do not complete it but read it with skipping."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Sukkah 21a:2",
+     "quote": "מפני שימי החג חלוקין בקרבנותיו",
+     "he": "הר״ן מביא את ערכין: ימי החג חלוקין בקרבנותיו.",
+     "en": "The Ran cites Arakhin: the days of Sukkot differ in their offerings."
+    },
+    {
+     "who": {
+      "he": "הלכות גדולות",
+      "en": "Halakhot Gedolot"
+     },
+     "ref": "Halakhot Gedolot 15:16",
+     "quote": "משום דחג חלוקין קרבנותיו ופסח אין חלוקין קרבנותיו",
+     "he": "בה״ג מביא את הגמרא ומוסיף שהיחיד הוא כל מי שלא התאספו כל ישראל.",
+     "en": "Halakhot Gedolot cites the Gemara and adds on the meaning of 'individual'."
+    },
+    {
+     "who": {
+      "he": "ספר יראים",
+      "en": "Sefer Yereim"
+     },
+     "ref": "Sefer Yereim 262:1",
+     "quote": "ויומא דחג חלוקין קרבנותיו ופסח אין חלוק בקרבנותיו",
+     "he": "ספר יראים מביא את הסוגיה במנין י״ח ימים.",
+     "en": "Sefer Yereim brings the passage in counting eighteen days."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Scroll of Esther and Hanukkah 3:6",
+     "quote": "וּשְׁמוֹנָה עָשָׂר יוֹם בַּשָּׁנָה מִצְוָה לִגְמֹר בָּהֶן אֶת הַהַלֵּל",
+     "he": "הרמב״ם מונה שמונה עשר יום.",
+     "en": "The Rambam counts eighteen days."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מעשה רוקח",
+      "en": "Maaseh Rokeach"
+     },
+     "ref": "Maaseh Rokeach on Scroll of Esther and Hanukkah 3:6:2",
+     "quote": "משום דלא חזי אלא במקדש",
+     "he": "מעשה רוקח: ערב פסח אינו נחשב כי אינו אלא במקדש.",
+     "en": "Maaseh Rokeach: erev Pesach is not counted since it applies only in the Temple."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10a:1",
+     "quote": "חזר ופירש כדי לסדר בהם הסימן של אותיות",
+     "he": "בן יהוידע: חזר ופירט את הימים בגולה כדי לסדר סימן אותיות.",
+     "en": "Ben Yehoyada: the Gemara lists the diaspora days again to set out a letter mnemonic."
+    },
+    {
+     "who": {
+      "he": "נחלת יעקב",
+      "en": "Nachalat Ya'akov"
+     },
+     "ref": "Nachalat Ya'akov on Tractate Soferim 20:9:2",
+     "quote": "וכ\"ה להדיא במסכת ערכין",
+     "he": "נחלת יעקב מגיה את סופרים לפי ערכין.",
+     "en": "Nachalat Ya'akov emends Soferim to match Arakhin."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    9
+   ],
+   "he": {
+    "title": "למה אין אומרים הלל בשבת, בראש חודש, בראש השנה, ביום הכיפורים ובפורים",
+    "gemara": "שבת חלוקה בקרבנותיה ואינה נקראת מועד; ראש חודש נקרא מועד אך לא נתקדש בעשיית מלאכה, ו״השיר יהיה לכם כליל התקדש חג״; ראש השנה ויום הכיפורים — משום ר׳ אבהו: מלך יושב על כסא הדין וספרי חיים ומתים פתוחים. חנוכה ופורים: חנוכה משום נס; פורים — ר׳ יצחק: אין אומרים שירה על נס שבחוצה לארץ. רב נחמן בר יצחק מקשה ממצרים; רב נחמן: קריאתה זו היא הלילא; רבא: אכתי עבדי אחשוורוש אנן.",
+    "halakha": "הרמב״ם: בראש השנה וביום הכיפורים אין הלל, ולא תקנו הלל בפורים שקריאת המגילה היא ההלל."
+   },
+   "en": {
+    "title": "Why no Hallel on Shabbat, Rosh Chodesh, Rosh Hashanah, Yom Kippur and Purim",
+    "gemara": "Shabbat differs in its offerings but is not called a 'moed'; Rosh Chodesh is a 'moed' but is not sanctified with a ban on work, and 'the song shall be yours as on the night the festival is sanctified'; Rosh Hashanah and Yom Kippur — per R' Abahu: the King sits on the throne of judgment with the books of life and death open. Chanukah is said because of the miracle; for Purim R' Yitzchak says no song is said for a miracle outside Israel. Rav Nachman bar Yitzchak objects from Egypt; Rav Nachman: its reading is the Hallel; Rava: we are still servants of Achashverosh.",
+    "halakha": "The Rambam: there is no Hallel on Rosh Hashanah and Yom Kippur, and Hallel was not instituted on Purim since reading the Megillah is the Hallel."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:2",
+     "quote": "משאר ימי השבוע לימא הלל",
+     "he": "רבינו גרשום: שבת חלוקה בקרבנותיה משאר הימים, לימא הלל.",
+     "en": "Rabbeinu Gershom: Shabbat's offerings differ from other days, so it should have Hallel."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:3",
+     "quote": "ליגמר ביה הלל",
+     "he": "רבינו גרשום: ראש חודש שנקרא מועד — ליגמר בו הלל.",
+     "en": "Rabbeinu Gershom: Rosh Chodesh is called a moed, so Hallel should be completed on it."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:5",
+     "quote": "לא חלוק בקרבן ולא מקודש לחג ולא אסור בעשיית מלאכה",
+     "he": "רבינו גרשום על חנוכה: לא חלוק בקרבן ולא מקודש ולא אסור במלאכה.",
+     "en": "Rabbeinu Gershom on Chanukah: no differing offering, not sanctified, no ban on work."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:6",
+     "quote": "לומר שירה אפי' בחוצה לארץ",
+     "he": "רבינו גרשום: אחרי הגלות חזרו להיתר הראשון לומר שירה אפילו בחוצה לארץ.",
+     "en": "Rabbeinu Gershom: after the exile they returned to the original permission to say song even outside Israel."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:3:1",
+     "quote": "קרא עלי מועד",
+     "he": "רש״י: ראש חודש נקרא מועד שנאמר ״קרא עלי מועד״.",
+     "en": "Rashi: Rosh Chodesh is called a moed, as it says 'He called a moed upon me'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:3:3",
+     "quote": "מקודש - בעשיית מלאכה",
+     "he": "רש״י: ״מקודש״ הוא בעשיית מלאכה.",
+     "en": "Rashi: 'sanctified' means with a ban on work."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:8:1",
+     "quote": "קרייתה - קריאת המגילה",
+     "he": "רש״י: ״קרייתה״ היא קריאת המגילה.",
+     "en": "Rashi: 'its reading' is the reading of the Megillah."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10b:5:1",
+     "quote": "אבל לא קאמר מפני מה אין אנו אומרים שירה",
+     "he": "התוספות: משמע שמלאכי השרת אומרים שירה, ולכן בראש השנה אין לדלג.",
+     "en": "Tosafot: it implies the ministering angels do say song, so on Rosh Hashanah one does not skip."
+    },
+    {
+     "who": {
+      "he": "רא״ש",
+      "en": "Rosh"
+     },
+     "ref": "Rosh on Rosh Hashanah 4:14:2",
+     "quote": "מקיש ר\"ה לסוכות ומנין שנקרא חג שנאמר בכסה ליום חגינו",
+     "he": "הרא״ש מביא שר״ה נקרא חג.",
+     "en": "The Rosh cites that Rosh Hashanah is called a chag."
+    },
+    {
+     "who": {
+      "he": "הר״אה",
+      "en": "Chiddushei HaRa'ah"
+     },
+     "ref": "Chiddushei HaRa'ah on Berakhot 14a:3",
+     "quote": "וטעמא דשמונת ימי החג בכולהו גומרין את ההלל אמרינן בערכין",
+     "he": "הר״אה מביא את הטעם מערכין.",
+     "en": "The Ra'ah cites the reason from Arakhin."
+    },
+    {
+     "who": {
+      "he": "טור",
+      "en": "Tur"
+     },
+     "ref": "Tur, Orach Chayim 417:1",
+     "quote": "ר\"ח אינו אסור בעשיית מלאכה",
+     "he": "הטור מביא את הגמרא שר״ח אינו אסור בעשיית מלאכה.",
+     "en": "The Tur cites the Gemara that Rosh Chodesh has no ban on work."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Scroll of Esther and Hanukkah 3:6:1",
+     "quote": "ויש בהן עשה מדברי קבלה השיר יהיה לכם כליל התקדש חג",
+     "he": "הכסף משנה מביא השגת הראב״ד שיש בהן עשה מדברי קבלה.",
+     "en": "The Kessef Mishneh brings the Raavad's objection that there is a positive commandment from the Prophets."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "משנה ברורה",
+      "en": "Mishnah Berurah"
+     },
+     "ref": "Mishnah Berurah 422:12",
+     "quote": "וכל ההלל אין לקרוא משום דכתיב השיר יהיה לכם כליל התקדש חג",
+     "he": "משנה ברורה: ראש חודש קורים הלל בדילוג מפני שנאמר ״השיר יהיה לכם״.",
+     "en": "Mishnah Berurah: on Rosh Chodesh one reads Hallel with skipping, based on 'the song shall be yours'."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 10b:1",
+     "quote": "כדקאמר פ\"ק דר\"ה ג' ספרים נפתחין בר\"ה",
+     "he": "חידושי אגדות: ספרי חיים וספרי מתים — לפי ״ג׳ ספרים נפתחין בר״ה״.",
+     "en": "Chidushei Agadot: the books of life and death — per 'three books are opened on Rosh Hashanah'."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 10b:2",
+     "quote": "היינו שירת הלל",
+     "he": "חידושי אגדות: ״שירה״ כאן היא שירת הלל.",
+     "en": "Chidushei Agadot: 'song' here is Hallel."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 10b:3",
+     "quote": "יש לתת טעם זה לפי שכשנכנסו לא\"י נתקדשה",
+     "he": "חידושי אגדות נותן טעם לנס שבחוצה לארץ לפי קדושת ארץ ישראל.",
+     "en": "Chidushei Agadot offers a reason for the miracle outside Israel based on the holiness of Israel."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10b:1",
+     "quote": "גם נשמות המתים נדונין מי יחזור בגלגול",
+     "he": "בן יהוידע מפרש ״ספרי מתים״ כדין נשמות המתים.",
+     "en": "Ben Yehoyada explains 'books of the dead' as the judgment of souls of the dead."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10b:2",
+     "quote": "חכמים עשו חיזוק לדבריהם לדמותה לימים טובים דאורייתא",
+     "he": "בן יהוידע: חכמים חיזקו את חנוכה בדמותה לימים טובים דאורייתא.",
+     "en": "Ben Yehoyada: the Sages strengthened Chanukah by likening it to Torah festivals."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 10b:1",
+     "quote": "ק\"ל דהא בפסחים",
+     "he": "הרש״ש מקשה מפסחים.",
+     "en": "The Rashash raises a difficulty from Pesachim."
+    },
+    {
+     "who": {
+      "he": "לחם משנה",
+      "en": "Lechem Mishneh"
+     },
+     "ref": "Lechem Mishneh on Mishneh Torah, Scroll of Esther and Hanukkah 3:6:1",
+     "quote": "אבל השאר דמפקינן להו מהאי קרא הוא מן התורה",
+     "he": "לחם משנה: הלל של שאר ימים נלמד מהפסוק ולכן יש בו צד תורה.",
+     "en": "Lechem Mishneh: Hallel on the other days is derived from the verse, so it has a Torah aspect."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh, Kometz Mincha 284:1",
+     "quote": "דפוסק כר\"נ קרייתא זו הלולא",
+     "he": "מנחת חינוך: הרמב״ם בהל׳ מגילה פוסק כרב נחמן.",
+     "en": "Minchat Chinukh: the Rambam in Hilchot Megillah rules like Rav Nachman."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    10,
+    11
+   ],
+   "he": {
+    "title": "האבוב והצלצל",
+    "gemara": "פותח בחליל ומסיים באבוב; רב פפא: חליל הוא אבוב, שקולו חלי. הברייתא: האבוב היה בבית המקדש, חלק, דק, של קנה, מימות משה; צפוהו זהב ולא היה קולו ערב, וכשהסירוהו חזר. הצלצל של נחושת נפגם, הובאו אומנים מאלכסנדריה ותיקנוהו, ולא היה קולו ערב עד שהסירו תיקונו."
+   },
+   "en": {
+    "title": "The avuv and the tzaltzal",
+    "gemara": "He begins with the flute and ends with the avuv; Rav Pappa: chalil is avuv, whose sound is sweet. The baraita: the avuv in the Temple was smooth, thin, of reed, from the days of Moses; it was gold-plated and its sound was not pleasant, and after removal it was again. The bronze tzaltzal was damaged, artisans from Alexandria repaired it, and its sound was not pleasant until the repair was removed."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:10:1",
+     "quote": "מתוק קולו לשמוע",
+     "he": "רש״י: ״דחלי קליה״ — מתוק קולו לשמוע.",
+     "en": "Rashi: 'dachali kaleih' — its sound is sweet to hear."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:11:3",
+     "quote": "שני כלים מכין זה ע\"ג זה וקולם דק",
+     "he": "רש״י: הצלצל הוא שני כלים המוכים זה על זה.",
+     "en": "Rashi: the tzaltzal is two vessels struck against each other."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Sukkah 50b:4:1",
+     "quote": "שצפהו זהב ולא היה קולו ערב",
+     "he": "רש״י בסוכה מביא את ערכין: שצפהו זהב ולא היה קולו ערב.",
+     "en": "Rashi in Sukkah cites Arakhin: it was gold-plated and its sound was not pleasant."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Sukkah 50b:3:2",
+     "quote": "ואבוב היה במקדש מימות משה והוא של קנה",
+     "he": "רש״י בסוכה: האבוב היה מימות משה והוא של קנה.",
+     "en": "Rashi in Sukkah: the avuv was from Moses' time and of reed."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:7",
+     "quote": "צלצול. קורין צימבש",
+     "he": "רבינו גרשום: הצלצול קוראים לו צימבש.",
+     "en": "Rabbeinu Gershom: the tzaltzol is called a cymbal."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Sukkah 50b:3",
+     "quote": "פי' אבוב אי אפשר לעשותו ממיני מתכות",
+     "he": "רבינו חננאל מביא את ערכין: אי אפשר לעשות את האבוב ממתכות.",
+     "en": "Rabbeinu Chananel cites Arakhin: the avuv cannot be made of metals."
+    },
+    {
+     "who": {
+      "he": "מהרי״ק והרדב״ז",
+      "en": "Mahari Kurkus and Radbaz"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:5:3",
+     "quote": "אבל העולה מהתלמוד שאבוב וחליל דבר אחד, כי אבוב עצמו הוא החליל",
+     "he": "מהרי״ק: מהגמרא עולה שאבוב וחליל דבר אחד, והוא דן בפירוש הרמב״ם.",
+     "en": "Mahari Kurkus: from the Gemara, avuv and chalil are one, and he discusses the Rambam's commentary."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:5",
+     "quote": "וְלֹא הָיָה מְחַלֵּק אֶלָּא בְּאַבּוּב יְחִידִי",
+     "he": "הרמב״ם: לא היה מחלק אלא באבוב יחידי.",
+     "en": "The Rambam: he would not divide except with a single avuv."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Taanit 27a:4",
+     "quote": "אבוב היינו חליל כדאיתא בערכין",
+     "he": "הרש״ש: אבוב הוא חליל, כדאיתא בערכין.",
+     "en": "The Rashash: avuv is chalil, as stated in Arakhin."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 10b:3",
+     "quote": "ש\"מ אין כלי פגום פסול לשיר",
+     "he": "יעב״ץ: משמע שכלי פגום אינו פסול לשיר.",
+     "en": "Ya'avetz: this shows a damaged vessel is not invalid for song."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Yoma 20b:1",
+     "quote": "שהאבוב הוא כלי זמר חשוב קול ערב מימי משה",
+     "he": "חידושי אגדות: האבוב הוא כלי זמר חשוב, קולו ערב מימי משה.",
+     "en": "Chidushei Agadot: the avuv is an esteemed instrument with a pleasant sound from Moses' time."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10b:3",
+     "quote": "יש להקשות למה הוצרך לומר ארבע פעמים",
+     "he": "בן יהוידע שואל מדוע נאמר ארבע פעמים ״היה״.",
+     "en": "Ben Yehoyada asks why 'was' is said four times."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10b:4",
+     "quote": "לרמוז בזה על האדם שמוכיח או מורה הלכות לאחרים",
+     "he": "בן יהוידע: רמז על אדם המוכיח או מורה הלכות לאחרים.",
+     "en": "Ben Yehoyada: an allusion to a person who rebukes or teaches halakhot to others."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    12,
+    16
+   ],
+   "he": {
+    "title": "המכתשת, שני הכלים ושילוח",
+    "gemara": "מכתשת של נחושת הייתה מימות משה ופיטמה את הבשמים; נפגמה ותיקנוה, ולא פיטמה כמו שהייתה עד שהסירו תיקונה. שני הכלים נשתיירו ממקדש ראשון, ועליהם נאמר ״נחושת ממורט״ ו״כלי נחושת מוצהב שנים חמודות מזהב״. רב ושמואל נחלקו בשקילתם; רבי נתן: ״שניים״. שילוח היה מקלח כאיסר, הרחיבוהו ונתמעט, וחזרו וצמצמוהו."
+   },
+   "en": {
+    "title": "The makhtesh, the two vessels and the Shiloach",
+    "gemara": "A bronze mortar from Moses' time ground the spices; it was damaged and repaired, and no longer ground as before until the repair was removed. These two vessels survived from the First Temple, and of them it says 'burnished bronze' and 'two vessels of gleaming bronze, precious as gold'. Rav and Shmuel differ on their weight; R' Natan says 'shniyim'. The Shiloach flowed like an issar; it was widened and diminished, then narrowed again."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:12:1",
+     "quote": "והיה קולה צלול ומפטמת הבשמים יפה",
+     "he": "רש״י: קול המכתשת צלול והיא מפטמת הבשמים יפה.",
+     "en": "Rashi: the mortar's sound was clear and it ground the spices well."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:13:1",
+     "quote": "צלצל ומכתשת נחושת",
+     "he": "רש״י: שני הכלים הם צלצל ומכתשת.",
+     "en": "Rashi: the two vessels are the tzaltzal and the makhtesh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:15:1",
+     "quote": "שני צלצלים ושני מכתשות",
+     "he": "רש״י: ״שניים״ הם שני צלצלים ושני מכתשות.",
+     "en": "Rashi: 'shniyim' are two tzaltzalim and two makhtashot."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:16:1",
+     "quote": "פי המעיין שהוא נובע שם רחב כאיסר",
+     "he": "רש״י: פי המעיין רחב כאיסר.",
+     "en": "Rashi: the spring's mouth was as wide as an issar."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:9",
+     "quote": "נשתיירו ממקדש ראשון. מן המשכן",
+     "he": "רבינו גרשום: נשתיירו מהמשכן.",
+     "en": "Rabbeinu Gershom: they remained from the Mishkan."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:12",
+     "quote": "ב' מכתשות וב' צלצלים",
+     "he": "רבינו גרשום: ״שניים״ — שתי מכתשות ושני צלצלים.",
+     "en": "Rabbeinu Gershom: 'shniyim' — two mortars and two tzaltzalim."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10b:12:1",
+     "quote": "ונראה לר\"י דה\"ג ועליהם אמר קרא נחשת ממורט",
+     "he": "התוספות: הגרסה ״ועליהם אמר קרא״ ולא ״דוד״.",
+     "en": "Tosafot: the text should read 'and of them the verse said', not 'David'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Shevuot 11a:8:1",
+     "quote": "תימה אי מכתשת מיקדשא קדושת הגוף",
+     "he": "התוספות בשבועות מקשים על המכתשת מערכין.",
+     "en": "Tosafot in Shevuot ask about the mortar from Arakhin."
+    },
+    {
+     "who": {
+      "he": "משנה למלך",
+      "en": "Mishneh LaMelech"
+     },
+     "ref": "Mishneh LaMelech on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 1:14:1",
+     "quote": "והטעם הוא משום דמיחזי כעניות ואין עניות במקום עשירות",
+     "he": "משנה למלך: טעם הדין שכלי שניקב — מראית עניות; ומקשה מהמכתשת.",
+     "en": "Mishneh LaMelech: the reason for the law on damaged vessels is the appearance of poverty; he raises the mortar as a difficulty."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 10b:2",
+     "quote": "הוא במלכים א' ז'",
+     "he": "הרש״ש: ״נחושת ממורט״ הוא במלכים א׳ ז׳.",
+     "en": "The Rashash: 'burnished bronze' is in I Kings 7."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 10b:3",
+     "quote": "והוא בעזרא ח'",
+     "he": "הרש״ש: ״וכלי נחושת מוצהב״ הוא בעזרא ח׳.",
+     "en": "The Rashash: 'gleaming bronze vessels' is in Ezra 8."
+    },
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 10b:4",
+     "quote": "נחושת ממורט נחושת מרוק",
+     "he": "יעב״ץ מגיה את הפסוקים.",
+     "en": "Ya'avetz emends the verses."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 10b:7",
+     "quote": "שאין מושחין את המלכים אלא על המעיין",
+     "he": "חידושי אגדות: מלכים נמשחים על המעיין.",
+     "en": "Chidushei Agadot: kings are anointed at a spring."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות",
+      "en": "Chidushei Agadot"
+     },
+     "ref": "Chidushei Agadot on Arakhin 10b:5",
+     "quote": "צ\"ע בהנהו תרי קראי דמלכים וד\"ה",
+     "he": "חידושי אגדות מעיר על שני הפסוקים.",
+     "en": "Chidushei Agadot notes a difficulty with the two verses."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 10b:7",
+     "quote": "כל זה היה בהשגחה מן השמים",
+     "he": "בן יהוידע: כל זה בהשגחה מן השמים.",
+     "en": "Ben Yehoyada: all this was by Divine providence."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 95:2:1",
+     "quote": "דתיקון השחזתם ניכר",
+     "he": "מנחת חינוך דן בדין כלי שנפגם.",
+     "en": "Minchat Chinukh discusses the law of a damaged vessel."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    17,
+    18
+   ],
+   "he": {
+    "title": "הרדוולים והמגריפה",
+    "gemara": "רבן שמעון בן גמליאל: הרדוולים לא היה במקדש; אביי: טבלא גורגדנא, שקולו ערב ומערבב את הנעימה. רב מתנה בשם שמואל: מגריפה הייתה במקדש (הדף נקטע)."
+   },
+   "en": {
+    "title": "The hirdavlis and the magreifa",
+    "gemara": "Rabban Shimon ben Gamliel: the hirdavlis was not in the Temple; Abaye: a gourd-drum, since its sound is pleasant and mixes up the melody. Rav Matna in Shmuel's name: a magreifa was in the Temple (the daf breaks off)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 10b:15",
+     "quote": "ומערבב את הנעימה",
+     "he": "רבינו גרשום: מערבב את נעימת השיר.",
+     "en": "Rabbeinu Gershom: it mixes up the melody of the song."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:17:2",
+     "quote": "כשהיה קול זה מסיים",
+     "he": "רש״י: כשהיה קול זה מסיים.",
+     "en": "Rashi: when this sound ended."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 10b:18:1",
+     "quote": "שבה גורפין את דשן המזבח",
+     "he": "רש״י: המגריפה — שבה גורפין את דשן המזבח.",
+     "en": "Rashi: the magreifa — with which the altar's ashes were scooped."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10b:18:1",
+     "quote": "אחת לדשן ואחת של שיר",
+     "he": "התוספות: שני מיני מגריפות, אחת לדשן ואחת של שיר.",
+     "en": "Tosafot: there were two kinds of magreifa, one for ashes and one for song."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 10b:17:1",
+     "quote": "והם מיני כלי זמר",
+     "he": "התוספות: הרדוולים הם מיני כלי זמר.",
+     "en": "Tosafot: hirdavlin are kinds of musical instruments."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Bereshit Rabbah 50:9:3",
+     "quote": "לא היה במקדש שלא לערבב את הנעימה",
+     "he": "רש״י בבראשית רבה מביא את המשנה בערכין.",
+     "en": "Rashi on Bereshit Rabbah cites the mishna in Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "עץ יוסף",
+      "en": "Etz Yosef"
+     },
+     "ref": "Etz Yosef on Bereishit Rabbah 50:9:7",
+     "quote": "לא היו במקדש שלא לערבב את הנעימה",
+     "he": "עץ יוסף: הדרבולין כלי זמר שלא היו במקדש.",
+     "en": "Etz Yosef: the hardavlin are instruments that were not in the Temple."
+    }
+   ]
+  }
+ ]
+}
