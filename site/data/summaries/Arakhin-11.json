@@ -1,0 +1,1859 @@
+{
+ "ref": "Arakhin 11",
+ "date": "2026-11-28",
+ "he": {
+  "overview": "הדף עוסק בשירת הלוים במקדש. בעמוד א׳ מתחילה הגמרא במגריפה ובגוזמא שבברייתא, ואחר כך דנה מי עמד על הדוכן (עבדים, לוים או ישראלים), אם עיקר שירה בפה, אם השיר מעכב את הקרבן, וממה לומדים שהשירה מן התורה — ״ושרת בשם ה׳״, ״בשמחה ובטוב לבב״, ו״אין אומרים שירה אלא על היין״. בעמוד ב׳ הגמרא מסיימת את הדרשות, דנה בלוי שעבד עבודת כהן ובמשורר ששיער, ושואלת אם עולת נדבת ציבור טעונה שירה — מחזקיהו, מחורבן הבית ומ״על עולותיכם ועל זבחי שלמיכם״. הראשונים והאחרונים מבארים את פרטי הדרשות, את ההבדל בין שירה בפה לכלי, ואת הפסיקה בסוגיות אלה.",
+  "title": "סיכום — ערכין י״א"
+ },
+ "en": {
+  "overview": "The daf deals with the Levites' song in the Temple. On amud a the Gemara begins with the magrefa and the exaggeration in the baraita, then discusses who stood on the platform (slaves, Levites or Israelites), whether the main song is by mouth, whether song holds up the offering, and what teaches that song is from the Torah — 'he shall serve in the name', 'with joy and gladness of heart', and 'song is said only over wine'. On amud b the Gemara finishes the derivations, discusses a Levite who did a kohen's service and a singer who acted as a gatekeeper, and asks whether a public free-will burnt offering requires song — from Hizkiyahu, from the destruction of the Temple, and from 'over your burnt offerings and your peace offerings'. The Rishonim and Acharonim explain the details of the derivations, the difference between song by mouth and by instrument, and the rulings in these sugyot.",
+  "title": "Summary — Arakhin 11"
+ },
+ "musagim": [
+  {
+   "amud": "a",
+   "line": 1,
+   "anchors": [
+    "מתניתא גוזמא"
+   ],
+   "he": {
+    "term": "גוזמא",
+    "explanation": "הגזמה — דיבור שמגדיל את המספר כדי להמחיש, ואינו נאמר כמשמעו. כאן רב נחמן בר יצחק מסמן שהמספר ״אלף״ שבברייתא הוא גוזמא, ו״מאה״ הוא המספר האמיתי."
+   },
+   "en": {
+    "term": "Gozma (exaggeration)",
+    "explanation": "Gozma — exaggeration, speech that enlarges a number for effect and is not meant literally. Here Rav Nachman bar Yitzchak marks the baraita's 'a thousand' as gozma, with 'a hundred' the true figure."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 11a:1:3",
+    "quote": "דרך משניות לשנות גוזמא"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 4,
+   "anchors": [
+    "מדוכן"
+   ],
+   "he": {
+    "term": "מעלין מדוכן",
+    "explanation": "הדוכן הוא הבמה שעליה עמדו הלוים בשעת השירה. ״מעלין מדוכן״ — אם מי שעמד שם נחשב לוי, כך שמעלים אותו ליוחסין (נישואין לכהונה) ולמעשרות (קבלת מעשר ראשון)."
+   },
+   "en": {
+    "term": "Ma'alin miduchan (raising from the platform)",
+    "explanation": "The duchan is the platform on which the Levites stood while singing. 'Raising from the platform' asks whether one who stood there is considered a Levite, so that he is raised for lineage (marriage into the priesthood) and for tithes (receiving first tithe)."
+   },
+   "source": {
+    "who": {
+     "he": "תוספות",
+     "en": "Tosafot"
+    },
+    "ref": "Tosafot on Sukkah 51a:5:1",
+    "quote": "ראוהו עומד על הדוכן עם הלוים אין צריך לבדוק"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 2,
+   "anchors": [
+    "עיקר שירה בפה"
+   ],
+   "he": {
+    "term": "עיקר שירה בפה",
+    "explanation": "הדעה שהשירה העיקרית של הקרבן היא שיר הפה של הלוים, והכלים רק ״לבסומי קלא״ — להמתיק את הקול. לפי הדעה החולקת העיקר הוא הכלי, ואז נדרשים לוים."
+   },
+   "en": {
+    "term": "Ikar shira bapeh (the main song is by mouth)",
+    "explanation": "The view that the essential song of the offering is the Levites' vocal song, with instruments only 'to sweeten the sound'. On the opposing view the instrument is essential, and Levites are then required."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:3",
+    "quote": "שֶׁעִקַּר הַשִּׁירָה שֶׁהִיא עֲבוֹדָתָם בַּפֶּה. וַאֲחֵרִים"
+   }
+  },
+  {
+   "amud": "a",
+   "line": 14,
+   "anchors": [
+    "אין אומרים שירה אלא על היין"
+   ],
+   "he": {
+    "term": "אין אומרים שירה אלא על היין",
+    "explanation": "הכלל שהשירה של הלוים נאמרת בשעת ניסוך היין שמקריבים עם הקרבן, ולא בלי ניסוך. הגמרא מביאה אותו בשם רבי יונתן ממה שנאמר ״המשמח אלהים ואנשים״."
+   },
+   "en": {
+    "term": "Song only over wine",
+    "explanation": "The rule that the Levites' song is said at the wine libation brought with the offering, and not without it. The Gemara brings it in the name of Rabbi Yonatan from the phrase 'which gladdens God and men'."
+   },
+   "source": {
+    "who": {
+     "he": "רבינו גרשום",
+     "en": "Rabbeinu Gershom"
+    },
+    "ref": "Rabbeinu Gershom on Arakhin 11a:17",
+    "quote": "אלא על היין בשעת ניסוך היין"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 9,
+   "anchors": [
+    "עולת נדבת ציבור"
+   ],
+   "he": {
+    "term": "עולת נדבת ציבור",
+    "explanation": "עולה שהציבור מתנדב להקריב, לעומת עולות החובה כמו התמיד והמוספים. רש״י נותן דוגמה: ״קיץ המזבח״ שבא מהשופרות שמניחים בהן מעות מותר חטאת ואשם."
+   },
+   "en": {
+    "term": "Olat nedavat tzibbur (public free-will burnt offering)",
+    "explanation": "A burnt offering the public volunteers to bring, as opposed to obligatory ones like the tamid and musafim. Rashi gives an example: the 'altar-summer-fruit' funded from the collection horns of money left over from sin- and guilt-offerings."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 11b:9:1",
+    "quote": "כגון קיץ המזבח הבא מן"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 17,
+   "anchors": [
+    "מוצאי שביעית"
+   ],
+   "he": {
+    "term": "מוצאי שביעית",
+    "explanation": "השנה שאחרי שנת שמיטה. הגמרא מוסרת שחורבן בית ראשון היה בתשעה באב, במוצאי שבת, במוצאי שביעית ובמשמרת יהויריב. הרמב״ם מונה שנת חורבן בית ראשון כמוצאי שביעית."
+   },
+   "en": {
+    "term": "Motza'ei shevi'it (the year after Shemitta)",
+    "explanation": "The year after a Shemitta year. The Gemara reports that the first Temple was destroyed on the Ninth of Av, the night after Shabbat, in the year after Shemitta, and in the watch of Yehoyariv. The Rambam counts the year of the first destruction as the year after a Shemitta."
+   },
+   "source": {
+    "who": {
+     "he": "רמב״ם",
+     "en": "Rambam"
+    },
+    "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 10:3",
+    "quote": "שֶׁחָרַב הַבַּיִת בָּרִאשׁוֹנָה מוֹצָאֵי שְׁבִיעִית הָיְתָה"
+   }
+  },
+  {
+   "amud": "b",
+   "line": 6,
+   "anchors": [
+    "הגפת דלתות"
+   ],
+   "he": {
+    "term": "הגפת דלתות",
+    "explanation": "סגירת דלתות המקדש, שהיתה עבודת השוערים. ר׳ יוחנן בן גודגדא, שוער, מבקש מר׳ יהושע בן חנניה, מן המשוררים, שלא יסייע בכך."
+   },
+   "en": {
+    "term": "Hagafat delatot (closing the doors)",
+    "explanation": "Closing the doors of the Temple, which was the gatekeepers' service. Rabbi Yochanan ben Gudgada, a gatekeeper, tells Rabbi Yehoshua ben Chananya, one of the singers, not to help with it."
+   },
+   "source": {
+    "who": {
+     "he": "רש״י",
+     "en": "Rashi"
+    },
+    "ref": "Rashi on Arakhin 11b:6:1",
+    "quote": "משורר ששוער במיתה כשהוא מגיף לבדו וגזרו רבנן במסייע"
+   }
+  }
+ ],
+ "topics": [
+  {
+   "amud": "a",
+   "lines": [
+    1,
+    1
+   ],
+   "he": {
+    "title": "המגריפה: ״עשרה נקבים״ ו״מתניתא גוזמא״",
+    "gemara": "הגמרא מתארת את המגריפה, כלי שנשמע ממנו קול גדול במקדש: עשרה נקבים היו בה, וכל נקב מוציא עשרה מיני זמר, ובסך הכול מאה. ברייתא מתארת אותה כאמה על אמה עם קתא היוצאת ממנה, עשרה נקבים וכל אחד מוציא מאה מיני זמר, ובסך הכול אלף. רב נחמן בר יצחק נותן סימן: ״מתניתא גוזמא״ — המספר של הברייתא הוא הגזמה."
+   },
+   "en": {
+    "title": "The magrefa: 'ten holes' and 'the baraita is exaggeration'",
+    "gemara": "The Gemara describes the magrefa, an instrument heard throughout the Temple: it had ten holes, each producing ten kinds of sound, a hundred in all. A baraita describes it as a cubit by a cubit with a handle, ten holes each producing a hundred kinds, a thousand in all. Rav Nachman bar Yitzchak gives a mnemonic: 'the baraita is exaggeration' (gozma)."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:1:1",
+     "quote": "ובכל נקב היה קנה אחד ובכל קנה וקנה היו בו י' נקבים ובכל",
+     "he": "רש״י מפרש איך הגיעו למאה: בכל נקב היה קנה אחד, ובכל קנה עשרה נקבים, וכל נקב של קנה הוציא מין זמר אחד.",
+     "en": "Rashi explains how the hundred comes about: each hole had one pipe, each pipe had ten holes, and each pipe-hole produced one kind of sound."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:1:3",
+     "quote": "דרך משניות לשנות גוזמא",
+     "he": "רש״י: דרכן של משניות לשנות בלשון גוזמא, ומביא דוגמאות מפרק גיד הנשה בחולין.",
+     "en": "Rashi: it is the way of mishnayot to teach in exaggeration, and he brings examples from the chapter Gid HaNasheh in Chullin."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:2",
+     "quote": "המשנה החיצונה מוטעת לעולם:",
+     "he": "רבינו גרשום קורא לברייתא ״המשנה החיצונה״ וכותב שהיא ״מוטעת״.",
+     "en": "Rabbeinu Gershom calls the baraita 'the external mishna' and says it is 'mistaken'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:1",
+     "quote": "בקתה שחלולה היתה כולה:",
+     "he": "רבינו גרשום מפרש את ״קתא״: היא היתה חלולה כולה.",
+     "en": "Rabbeinu Gershom explains the 'kata' (handle): it was hollow throughout."
+    },
+    {
+     "who": {
+      "he": "רבינו חננאל",
+      "en": "Rabbeinu Chananel"
+     },
+     "ref": "Rabbeinu Chananel on Sukkah 53a:1",
+     "quote": "מדברי שניהם המגריפה היתה מוציאה אלף מיני זמר",
+     "he": "רבינו חננאל בסוכה מביא את הדיון בערכין בשתי לשונות — עשרה נקבים וכל אחד מאה מינים, או מאה נקבים וכל אחד עשרה מינים — ומסיים שלפי שניהם היתה המגריפה מוציאה אלף מיני זמר.",
+     "en": "Rabbeinu Chananel, in Sukkah, brings this discussion in two versions — ten holes of a hundred kinds each, or a hundred holes of ten kinds each — and concludes that by both the magrefa produced a thousand kinds of sound."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Tamid 3:8:1",
+     "quote": "שכאו\"א מוציא י' מיני זמר נמצאת כולה מוציאה ק' מיני זמר.",
+     "he": "התוספות יום טוב בתמיד מביא את הברייתא של אלף שהגמרא בערכין אמרה עליה שהיא גוזמא, ואת הגרסה של רב מתנא בשם שמואל שבה כל נקב מוציא עשרה מינים וכולה מאה.",
+     "en": "Tosafot Yom Tov on Tamid brings the baraita of a thousand, which the Gemara in Arakhin calls exaggeration, and the version of Rav Matna in the name of Shmuel in which each hole produces ten kinds and the whole a hundred."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות (מהרש״א)",
+      "en": "Chidushei Agadot (Maharsha)"
+     },
+     "ref": "Chidushei Agadot on Arakhin 11a:1",
+     "quote": "היה נראה לפרש דהיינו דכתיב עלי",
+     "he": "המהרש״א: היה נראה לפרש שזה הפסוק ״עלי עשור״, שנקרא כך על שם עשרה נקבים ועשרה מיני זמר, אך לקמן נאמר שכינור לעתיד לבוא יהיו בו עשר נימין.",
+     "en": "The Maharsha: it seemed that this explains the verse 'alei asor', named for the ten holes and ten kinds of sound; but later the Gemara says the lyre of the future will have ten strings."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    2,
+    5
+   ],
+   "he": {
+    "title": "עבדים, לוים וישראלים על הדוכן: ״עיקר שירה בפה״",
+    "gemara": "המשנה נחלקת אם המשוררים היו עבדי כהנים, לוים או ישראלים מיוחסים. הגמרא שואלת אם המחלוקת היא אם עיקר שירה בפה (ואז הכלי רק ״לבסומי קלא״ ודי בעבדים) או בכלי (ואז צריך לוים), ודוחה: לדברי כולם עיקר שירה בפה, והמחלוקת היא אם ״מעלין מדוכן״ ליוחסין ולמעשרות. מי שאמר עבדים — לא לזה ולא לזה; לוים — לשניהם; ישראלים — ליוחסין ולא למעשרות.",
+    "halakha": "הרמב״ם (כלי המקדש ג:ג): ״אין אומרים שירה אלא בפה בלא כלי שעיקר השירה שהיא עבודתם בפה״, ואחרים מנגנים בכלי שיר — מהם לוים ומהם ישראלים מיוחסים — ו״אין עולה על הדוכן אלא מיוחס״."
+   },
+   "en": {
+    "title": "Slaves, Levites and Israelites on the platform: 'the main song is by mouth'",
+    "gemara": "The mishna disputes whether the singers were slaves of kohanim, Levites or Israelites of confirmed lineage. The Gemara asks whether the dispute is whether the main song is by mouth (so the instrument only 'sweetens the voice' and slaves suffice) or by instrument (so Levites are needed), and rejects this: all agree the main song is by mouth, and the dispute is whether one 'raises from the platform' for lineage and for tithes. Whoever said slaves: neither; Levites: both; Israelites: lineage but not tithes.",
+    "halakha": "Rambam (Vessels of the Sanctuary 3:3): 'song is said only by mouth, without an instrument, because the essential song, their service, is by mouth'; others played instruments there, some Levites and some Israelites of confirmed lineage, and 'only one of confirmed lineage goes up on the platform'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:3:1",
+     "quote": "דכ\"ע עיקר שירה בפה:",
+     "he": "רש״י: רבי יוסי שאמר שישראלים מיוחסים היו — מה סבר? אלא לדברי הכול עיקר שירה בפה.",
+     "en": "Rashi: what does Rabbi Yosi, who said they were Israelites of confirmed lineage, hold? Rather, all agree the main song is by mouth."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:5:1",
+     "quote": "דמחזקינן ליה בחזקת לוי:",
+     "he": "רש״י מפרש ״בין למעשרות״: מחזיקים אותו בחזקת לוי.",
+     "en": "Rashi on 'for tithes': we presume him to be a Levite."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:3",
+     "quote": "שהיו הלוים אומרים בפיהם הוא עיקר שירה:",
+     "he": "רבינו גרשום: השיר שהיו הלוים אומרים בפיהם הוא עיקר השירה.",
+     "en": "Rabbeinu Gershom: the song the Levites said with their mouths is the main song."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:5",
+     "quote": "ומעלין ליוחסין ומחלקין להן מעשר:",
+     "he": "רבינו גרשום על מי שאמר לוים: מעלים אותם לייחוס וגם נותנים להם מעשר, ואין מדייקים אם היו משוררים בכלי או בפה.",
+     "en": "Rabbeinu Gershom on the view that they were Levites: they are raised for lineage and are given tithe, and one does not examine whether they sang with instruments or by mouth."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:6",
+     "quote": "משום הכי בעינן משיאין",
+     "he": "רבינו גרשום על מי שאמר ישראלים: מעלים ליוחסין, ולכן צריך שיהיו מיוחסים ״משיאין לכהונה״.",
+     "en": "Rabbeinu Gershom on the view that they were Israelites: they are raised for lineage, which is why they must be of the kind who may marry into the priesthood."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11a:4:1",
+     "quote": "ודאי תנאי דמתניתין אית להו עיקר שירה בפה",
+     "he": "תוספות מקשים מסוכה: אם עיקר שירה בפה, איך המשנה אומרת שהחליל מכה י״ב יום? ותירצו שתנאי המשנה סוברים עיקר שירה בפה, ויש תנא (רבי יוסי בר יהודה) שאומר ששיר בכלי דוחה שבת ויום טוב.",
+     "en": "Tosafot ask from Sukkah: if the main song is by mouth, how does the mishna say the flute plays twelve days? They answer that the tannaim of our mishna hold the main song is by mouth, while another tanna (Rabbi Yosi bar Yehuda) says song with an instrument overrides Shabbat and Yom Tov."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Sukkah 51a:5:1",
+     "quote": "ראוהו עומד על הדוכן עם הלוים אין צריך לבדוק",
+     "he": "תוספות בסוכה מביאים את פירוש הקונטרס ל״מעלין מדוכן״: מי שראוהו עומד על הדוכן עם הלוים אין צריך לבדוק אחריו, והם מציינים שערכין תואם לפירוש זה.",
+     "en": "Tosafot in Sukkah bring the Kuntres's explanation of 'raising from the platform': one seen standing on the platform with the Levites need not be investigated, and they note that Arakhin fits this explanation."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Sukkah 50b:2:2",
+     "quote": "שיר שלו נמי דוחה שבת:",
+     "he": "רש״י בסוכה על רבי יוסי: אם עיקר השיר הוא בכלי, הרי זו עבודה, וכשם שהתמיד דוחה שבת כך השיר שלו דוחה שבת.",
+     "en": "Rashi in Sukkah on Rabbi Yosi: if the main song is with an instrument it is a service, and just as the tamid overrides Shabbat, so does its song."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:3",
+     "quote": "וְאֵין אוֹמְרִין שִׁירָה אֶלָּא בַּפֶּה בְּלֹא כְּלִי",
+     "he": "הרמב״ם פוסק שאין אומרים שירה אלא בפה בלא כלי, ואחרים מנגנים בכלי שיר ואינם עולים למניין י״ב הלוים.",
+     "en": "The Rambam rules that song is said only by mouth without an instrument, while others play instruments and are not counted among the twelve Levites."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Arakhin 2:4:1",
+     "quote": "מ\"ד לוים היו קסבר מעלין מדוכן בין ליוחסין בין למעשרות.",
+     "he": "התוספות יום טוב מעיר שבמשנה פירשו ״לוים היו״ כמי שמעלין לפי מעשרות בלבד, ואילו בגמרא מי שאמר לוים סבר מעלין מדוכן גם ליוחסין וגם למעשרות.",
+     "en": "Tosafot Yom Tov notes that the commentators on the mishna explain 'they were Levites' as raising for tithes only, whereas in the Gemara the one who said Levites holds one raises from the platform both for lineage and for tithes."
+    },
+    {
+     "who": {
+      "he": "מנחת חינוך",
+      "en": "Minchat Chinukh"
+     },
+     "ref": "Minchat Chinukh 394:1:1",
+     "quote": "ומבואר בערכין דעיקר שירה למ\"ד הן בפה וכן בכלי הוא דוקא בלוים.",
+     "he": "המנחת חינוך: מבואר בערכין שעיקר השירה, בין למי שאומר שהיא בפה ובין למי שאומר שהיא בכלי, היא דווקא בלוים.",
+     "en": "Minchat Chinukh: it is clear from Arakhin that the main song, whether one holds it is by mouth or by instrument, is specifically by Levites."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Taanit 27a:8",
+     "quote": "שיר הפה דהוא עיקר וודאי אינו אלא",
+     "he": "הרש״ש בתענית: שיר הפה, שהוא העיקר, ודאי הוא רק בלוים, כפי שמוכח מהפסוקים שהגמרא בערכין מביאה.",
+     "en": "Rashash on Taanit: the song of the mouth, which is the main one, is surely only by Levites, as the verses the Gemara brings in Arakhin show."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    6,
+    8
+   ],
+   "he": {
+    "title": "״השיר מעכב את הקרבן״ — מחלוקת ר׳ מאיר וחכמים",
+    "gemara": "ברייתא: השיר מעכב את הקרבן לדברי רבי מאיר, וחכמים אומרים שאינו מעכב. טעמו של רבי מאיר: הפסוק ״ואתנה את הלוים... ולכפר על בני ישראל״ — כשם שהכפרה מעכבת כך השירה. חכמים: הפסוק הזה נצרך לדרשת רבי אלעזר, שכשם שהכפרה ביום כך השירה ביום.",
+    "halakha": "הצפנת פענח (הלכות עבודה זרה ג:ג): ״ואנן קיי״ל בשיר דאין מעכב הקרבן״, אך הכלים צריכים להיות."
+   },
+   "en": {
+    "title": "'The song holds up the offering' — Rabbi Meir and the Sages",
+    "gemara": "A baraita: the song holds up the offering according to Rabbi Meir, while the Sages say it does not. Rabbi Meir's reason: the verse 'I have given the Levites... to atone for the children of Israel' — as atonement holds up the offering, so does song. The Sages: that verse is needed for Rabbi Elazar's teaching, that as atonement is by day, so is song.",
+    "halakha": "Tzafnat Pa'neach (Foreign Worship 3:3): 'we hold that the song does not hold up the offering', though the instruments must be there."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11a:6:1",
+     "quote": "שיר מעכב את הקרבן היינו ניסוך שאם אין שירה אין",
+     "he": "תוספות מקשים: השיר נאמר בשעת הניסוך, והניסוך אינו מעכב את הקרבן (אדם מביא זבחו היום ונסכים אחר כך), ומפרשים ש״השיר מעכב״ הוא שאם אין שירה אין ניסוך.",
+     "en": "Tosafot ask: the song is at the libation, and the libation does not hold up the offering (one may bring the offering today and the libations days later); they explain that 'the song holds it up' means that without song there is no libation."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:7:1",
+     "quote": "ולוים משוררים הם:",
+     "he": "רש״י על ״ואתנה את הלוים״: הלוים הם משוררים.",
+     "en": "Rashi on 'I have given the Levites': the Levites are the singers."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:9",
+     "quote": "מתן דמים מעכבת אף שירה דלוים מעכבת.",
+     "he": "רבינו גרשום מפרש את הלימוד של רבי מאיר: כשם שמתן דמים מעכבת כך שירת הלוים מעכבת.",
+     "en": "Rabbeinu Gershom explains Rabbi Meir's derivation: as the giving of blood holds up the offering, so does the Levites' song."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:10",
+     "quote": "דמה כפרה ביום דכתיב ביום צוותו:",
+     "he": "רבינו גרשום על חכמים: הפסוק נצרך כדי ללמד שכמו שהכפרה ביום, שנאמר ״ביום צוותו״, כך השירה.",
+     "en": "Rabbeinu Gershom on the Sages: the verse is needed to teach that as atonement is by day, as it says 'on the day He commanded', so is the song."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Taanit 27a:6:2",
+     "quote": "פלוגתא בשילהי מסכת סוכה",
+     "he": "רש״י בתענית: אם כלי שיר מעכבים את הקרבן — זו מחלוקת המפורשת בסוף סוכה ובערכין.",
+     "en": "Rashi in Taanit: whether instruments hold up the offering is a dispute explained at the end of Sukkah and in Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "הגהות יעב״ץ",
+      "en": "Haggahot Ya'avetz"
+     },
+     "ref": "Haggahot Ya'avetz on Arakhin 11a:2",
+     "quote": "הי' לכאורה נראה דלק\"מ שהכא בקרבן צבור שקרבו נסכים",
+     "he": "היעב״ץ על קושיית התוספות: היה נראה שאין קושיה, כי כאן מדובר בקרבן ציבור שהקריבו עמו נסכים.",
+     "en": "The Ya'avetz on Tosafot's question: it seemed there is no difficulty, since this speaks of a public offering that was brought with libations."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11a:6",
+     "quote": "לפנינו הגי' שם עשרה.",
+     "he": "הרש״ש מעיר על דברי התוספות ״מכאן עד ארבעה ימים״ שבגרסתנו שם כתוב עשרה.",
+     "en": "The Rashash notes that in Tosafot's 'four days', our text there reads ten."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Taanit 27a:1",
+     "quote": "ומשמע מיהא דלכ\"ע השיר מעכב הקרבן והוא כר\"מ בערכין",
+     "he": "הרש״ש בתענית: מדברי רש״י משמע שלכולי עלמא השיר מעכב את הקרבן, כרבי מאיר בערכין.",
+     "en": "Rashash in Taanit: from Rashi it seems that all agree the song holds up the offering, like Rabbi Meir in Arakhin."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Avodah Zarah 47a:3",
+     "quote": "איתא דר\"מ ס\"ל כן וחכמים פליגי עליה",
+     "he": "הרש״ש בעבודה זרה: רק בערכין נאמר שרבי מאיר סבור שהשיר מעכב וחכמים חולקים עליו.",
+     "en": "Rashash in Avodah Zarah: only in Arakhin is it said that Rabbi Meir holds so, and the Sages disagree."
+    },
+    {
+     "who": {
+      "he": "צפנת פענח",
+      "en": "Tzafnat Pa'neach"
+     },
+     "ref": "Tzafnat Pa'neach on Mishneh Torah, Foreign Worship and Customs of the Nations 3:3:2",
+     "quote": "ואנן קיי\"ל בשיר דאין מעכב הקרבן",
+     "he": "הצפנת פענח: אף שזו מחלוקת, אנו פוסקים ששיר אינו מעכב את הקרבן, אך מכל מקום הכלים והלוים צריכים להיות.",
+     "en": "Tzafnat Pa'neach: though this is a dispute, we hold that song does not hold up the offering, yet the instruments and the Levites must be there."
+    },
+    {
+     "who": {
+      "he": "תורה תמימה",
+      "en": "Torah Temimah"
+     },
+     "ref": "Torah Temimah on Torah, Numbers 8:19:2",
+     "quote": "מה כפרה ביום אף שירה ביום",
+     "he": "התורה תמימה על ״ולכפר על בני ישראל״: רבי אלעזר דורש שכשם שהכפרה ביום כך השירה ביום.",
+     "en": "Torah Temimah on 'to atone for the children of Israel': Rabbi Elazar derives that as atonement is by day, so is song."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    9,
+    13
+   ],
+   "he": {
+    "title": "מנין לעיקר שירה מן התורה: ״ושרת בשם ה׳״ ו״בשמחה ובטוב לבב״",
+    "gemara": "שמואל לומד עיקר שירה מ״ושרת בשם ה׳ אלהיו״ — איזו שירות שבשם? זו שירה. הגמרא מקשה: אולי נשיאת כפיים, ומשיבה שנאמר ״לשרתו ולברך בשמו״ ומכלל שברכת כהנים אינה שירות. רב מתנה לומד מ״תחת אשר לא עבדת... בשמחה ובטוב לבב״; הגמרא מקשה ״דברי תורה״ ו״ביכורים״ ומשיבה ״משמחי לב״ אקרי ו״טוב לבב״ לא אקרי. רב מתנה לומד גם שביכורים טעונים שירה מגזרה שווה ״טוב״ ״טוב״.",
+    "halakha": "הרמב״ם (כלי המקדש ג:ב) פוסק מדרשת שמואל שהלוים משוררים על הקרבן בכל יום: ״אי זהו שירות שהוא בשם ה׳ הוי אומר זו שירה״; ובביכורים (ד:א): ״כל המביא ביכורים טעון קרבן ושיר ותנופה ולינה״."
+   },
+   "en": {
+    "title": "Where is song from the Torah: 'to serve in the name of the Lord' and 'with joy and gladness of heart'",
+    "gemara": "Shmuel learns the essential song from 'and he shall serve in the name of the Lord his God': what service is 'in a name'? Song. The Gemara asks: perhaps it is the priestly blessing; it answers that 'to serve Him and to bless in His name' implies the priestly blessing is not 'service'. Rav Matna learns it from 'because you did not serve... with joy and gladness of heart'; the Gemara asks: perhaps Torah or first-fruits; it answers that Torah is called 'gladdening the heart' but not 'good of heart', and Rav Matna also derives that first-fruits require song, from the analogy of 'good' and 'good'.",
+    "halakha": "Rambam (Vessels of the Sanctuary 3:2) rules from Shmuel's derivation that the Levites sing over the offering every day: 'what service is in the name of the Lord? Say: this is song'; and on first-fruits (4:1): 'whoever brings first-fruits requires an offering, song, waving and lodging'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:9:1",
+     "quote": "שמזכירין בו שם שמים:",
+     "he": "רש״י: ״שבשם״ — שמזכירים בו שם שמים; ועל דברי רב מתנה הוא כותב שאין אדם שר שירה אלא מתוך שמחה וטוב לב.",
+     "en": "Rashi: 'in a name' means the Name of Heaven is mentioned in it; and on Rav Matna he writes that one sings only out of joy and gladness of heart."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:12",
+     "quote": "זה שירה. אזכרות שבמזמורים",
+     "he": "רבינו גרשום: ״זו שירה״ — האזכרות שיש במזמורים.",
+     "en": "Rabbeinu Gershom: 'this is song' — the mentions of the Name in the psalms."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:13",
+     "quote": "דפשטיה דהאי קרא בכהנים כתיב",
+     "he": "רבינו גרשום על ״ואימא נשיאות כפים״: ברכת כהנים יש בה הזכרת השם, ופשט הפסוק נאמר בכהנים.",
+     "en": "Rabbeinu Gershom on 'perhaps the priestly blessing': it has the mention of the Name, and the plain sense of the verse was said of kohanim."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Deuteronomy 10:8:4",
+     "quote": "הַכֹּהֲנִים, וְהוּא נְשִׂיאַת כַּפַּיִם",
+     "he": "רש״י בחומש מפרש ״לשרתו ולברך בשמו״ ככהנים, והוא נשיאת כפיים, ומפנה לערכין י״א.",
+     "en": "Rashi on the Torah explains 'to serve Him and to bless in His name' as the kohanim, namely the raising of hands, and refers to Arakhin 11."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:14",
+     "quote": "דכתיב עבדי ירונו מטוב",
+     "he": "רבינו גרשום מביא לדברי רב מתנה את הפסוק ״עבדי ירונו מטוב לב״.",
+     "en": "Rabbeinu Gershom brings for Rav Matna's derivation the verse 'My servants shall sing for gladness of heart'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11a:11:1",
+     "quote": "טוב הסמוך ללב לא איקרי",
+     "he": "תוספות מקשים מ״לקח טוב נתתי לכם״ ומתרצים ש״טוב״ לגבי תורה אינו הסמוך ללב.",
+     "en": "Tosafot ask from 'I have given you a good teaching' and answer that 'good' said of Torah is not the one attached to 'heart'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:12:1",
+     "quote": "וה\"ק קרא תחת אשר לא הבאת",
+     "he": "רש״י על ״ואימא ביכורים״: כך יהיה פירוש הפסוק — תחת אשר לא הבאת ביכורים.",
+     "en": "Rashi on 'perhaps first-fruits': the verse would then mean 'because you did not bring first-fruits'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:15",
+     "quote": "טוב לבב לא איקרי. לא תורה ולא",
+     "he": "רבינו גרשום: ״טוב לבב״ לא נקרא לא התורה ולא הביכורים.",
+     "en": "Rabbeinu Gershom: neither Torah nor first-fruits is called 'good of heart'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:13:2",
+     "quote": "כתיב הכא בכל הטוב וכתיב בשירה",
+     "he": "רש״י על גזרה שווה ״טוב״ ״טוב״: כאן נאמר ״בכל הטוב״ ובשירה נאמר ״בשמחה ובטוב לבב״.",
+     "en": "Rashi on the analogy of 'good' and 'good': here it says 'with all the good' and regarding song it says 'with joy and gladness of heart'."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:13:1",
+     "quote": "שאומרים ארוממך ה' כי דליתני",
+     "he": "רש״י: ביכורים טעונים שירה — שאומרים ״ארוממך ה׳ כי דליתני״, כמו שנשנה במשנה בביכורים.",
+     "en": "Rashi: first-fruits require song — they say 'I will exalt You, Lord, for You have lifted me up', as taught in the mishna in Bikkurim."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11a:13:1",
+     "quote": "אמאי לא מקשה ליה בהדיא מן המשנה",
+     "he": "תוספות תמהים למה הגמרא לא מקשה בפירוש מן המשנה בביכורים.",
+     "en": "Tosafot wonder why the Gemara does not ask directly from the mishna in Bikkurim."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 4:1",
+     "quote": "טָעוּן קָרְבָּן וְשִׁיר וּתְנוּפָה וְלִינָה.",
+     "he": "הרמב״ם: כל המביא ביכורים טעון קרבן, שיר, תנופה ולינה.",
+     "en": "Rambam: whoever brings first-fruits requires an offering, song, waving and lodging."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:2",
+     "quote": "אֵי זֶהוּ שֵׁרוּת שֶׁהוּא בְּשֵׁם ה' הֱוֵי אוֹמֵר זוֹ",
+     "he": "הרמב״ם מביא את דרשת שמואל כמקור לכך שיהיו מהלוים משוררים על הקרבן בכל יום.",
+     "en": "Rambam brings Shmuel's derivation as the source that some of the Levites are singers over the offering every day."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:2:2",
+     "quote": "עד הוי אומר זו שירה.",
+     "he": "הכסף משנה מציין שמקור דברי הרמב״ם על משוררים הוא בפרק שני של ערכין.",
+     "en": "Kessef Mishneh notes that the source for the Rambam's words about singers is the second chapter of Arakhin."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "מלבי״ם",
+      "en": "Malbim"
+     },
+     "ref": "Malbim on Numbers 18:2:3",
+     "quote": "בשיר על הדוכן שנקרא בשם שירות",
+     "he": "המלבי״ם: השירות המיוחדת ללוים היא השיר על הדוכן, שנקרא ״שירות״, כפי שלמדו בערכין.",
+     "en": "Malbim: the service special to the Levites is song on the platform, which is called 'service', as learned in Arakhin."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11a:1",
+     "quote": "נמצא השם נשלם בשניהם ולכך",
+     "he": "הבן יהוידע מסביר ברמז: ״שירה״ ו״עבודה״ יחד משלימים את השם, ולכן בשעת עבודה צריך לעשות שירה.",
+     "en": "Ben Yehoyada explains by allusion: 'shira' and 'avoda' together complete the Name, which is why song is needed at the time of service."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות (מהרש״א)",
+      "en": "Chidushei Agadot (Maharsha)"
+     },
+     "ref": "Chidushei Agadot on Arakhin 11a:2",
+     "quote": "והקפיד הכתוב על עבודת השירה בעונש",
+     "he": "המהרש״א על ״תחת אשר לא עבדת״: הכתוב הקפיד על עבודת השירה בעונש.",
+     "en": "The Maharsha on 'because you did not serve': Scripture was strict about the service of song, with a punishment."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11a:7",
+     "quote": "יש לפרשו בדיעבד אבל קשה דמשמע דלכתחלה מביאין",
+     "he": "הרש״ש על התוספות בענין משקין בביכורים: אפשר לפרש בדיעבד, אך קשה שמשמע שלכתחילה מביאים.",
+     "en": "Rashash on Tosafot's discussion of liquids as first-fruits: it can be explained as after the fact, but it is difficult, since it implies one brings them at the outset."
+    }
+   ]
+  },
+  {
+   "amud": "a",
+   "lines": [
+    14,
+    15
+   ],
+   "he": {
+    "title": "״אין אומרים שירה אלא על היין״",
+    "gemara": "רבי שמואל בר נחמני בשם רבי יונתן: אין אומרים שירה אלא על היין, מדכתיב ״החדלתי את תירושי המשמח אלהים ואנשים״. הגמרא מקשה שהביכורים טעונים שירה, ומשיבה שמשקים אינם בכלל ביכורים — אך מי שהביא ענבים ודרכן, מנין? ״תביא״."
+   },
+   "en": {
+    "title": "'Song is said only over wine'",
+    "gemara": "Rabbi Shmuel bar Nachmani in the name of Rabbi Yonatan: song is said only over wine, as it says 'I have left my wine, which gladdens God and men'. The Gemara asks that first-fruits require song, and answers that liquids are not brought as first-fruits — but if one brought grapes and pressed them, from where? 'You shall bring'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11a:17",
+     "quote": "אלא על היין בשעת ניסוך היין",
+     "he": "רבינו גרשום: אין הלוים אומרים שירה אלא על היין בשעת ניסוך היין.",
+     "en": "Rabbeinu Gershom: the Levites say song only over wine, at the time of the wine libation."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Menachot 44b:9:1",
+     "quote": "על הנסכים אומרים שירה",
+     "he": "רש״י במנחות: על הנסכים אומרים הלוים שירה, כמבואר בערכין.",
+     "en": "Rashi in Menachot: the Levites say song over the libations, as explained in Arakhin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:15:2",
+     "quote": "לעזרה לביכורים ודרכן מנין שיצא ת\"ל",
+     "he": "רש״י: הביא ענבים לעזרה לביכורים ודרכן — מנין שיצא ידי ביכורים.",
+     "en": "Rashi: one brought grapes to the Temple court as first-fruits and pressed them — from where that he has fulfilled first-fruits."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Pesachim 64a:14:1",
+     "quote": "קשה לר\"י דאמרינן בפ' אין נערכין בערכין",
+     "he": "תוספות בפסחים: קשה לרבי יצחק שבערכין אמרו שאין אומרים שירה אלא על היין, והרי בשחיטת הפסח יש שירה בלא נסכים.",
+     "en": "Tosafot in Pesachim: Ri finds it difficult that in Arakhin they said song is only over wine, yet at the slaughter of the Pesach there is song without libations."
+    },
+    {
+     "who": {
+      "he": "רשב״א",
+      "en": "Rashba"
+     },
+     "ref": "Rashba on Rosh Hashanah 30b:1",
+     "quote": "קיימא לן שאין אומרים שירה אלא על היין כדאיתא בפרק שני",
+     "he": "הרשב״א בראש השנה: ״קיימא לן שאין אומרים שירה אלא על היין״, כמבואר בפרק שני של ערכין.",
+     "en": "Rashba in Rosh Hashanah: 'we hold that song is said only over wine', as in the second chapter of Arakhin."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 2:4",
+     "quote": "אֵין מְבִיאִין בִּכּוּרִים מַשְׁקִין חוּץ מִזֵּיתִים וַעֲנָבִים בִּלְבַד שֶׁנֶּאֱמַר",
+     "he": "הרמב״ם: אין מביאים ביכורים משקים חוץ מזיתים וענבים בלבד.",
+     "en": "Rambam: one does not bring liquids as first-fruits, except for olives and grapes only."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "פתח עינים",
+      "en": "Petach Einayim"
+     },
+     "ref": "Petach Einayim on Berakhot 35a:3",
+     "quote": "שאין אומרים הלויים שיר של קרבן במקדש אלא על היין כשמנסכין נסכי",
+     "he": "הפתח עינים: רש״י כתב שאין הלוים אומרים שיר של קרבן במקדש אלא על היין כשמנסכים נסכי מזבח.",
+     "en": "Petach Einayim: Rashi wrote that the Levites say the song of an offering in the Temple only over wine, when the altar libations are poured."
+    },
+    {
+     "who": {
+      "he": "תוספות יום טוב",
+      "en": "Tosafot Yom Tov"
+     },
+     "ref": "Tosafot Yom Tov on Mishnah Tamid 7:3:5",
+     "quote": "כדי שידעו הלוים וידברו בשיר.",
+     "he": "התוספות יום טוב בתמיד: הסודרים מניפים כשהכהן מנסך כדי שידעו הלוים ויאמרו שיר, ומביא את דברי רבי שמואל בר נחמני.",
+     "en": "Tosafot Yom Tov on Tamid: the signalers wave when the kohen pours, so that the Levites know and sing, and he brings Rabbi Shmuel bar Nachmani's words."
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 473:7:5",
+     "quote": "כדי לומר שירה על היין כמ\"ש בערכין י\"א",
+     "he": "הגר״א בשולחן ערוך אורח חיים: כדי לומר שירה על היין, כמו שנאמר בערכין י״א ע״א.",
+     "en": "The Vilna Gaon on Shulchan Arukh: in order to say song over the wine, as stated in Arakhin 11a."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Taanit 4:5:10:1",
+     "quote": "שבשעת ניסוך היין הלוים אומרים השיר",
+     "he": "מראה הפנים בירושלמי: הרמב״ם בהלכות תמידים כתב ששעת ניסוך היין היא שבה הלוים אומרים את השיר.",
+     "en": "Mareh HaPanim on the Yerushalmi: the Rambam in the laws of daily offerings wrote that at the pouring of the wine the Levites say the song."
+    },
+    {
+     "who": {
+      "he": "אור שמח",
+      "en": "Ohr Sameach"
+     },
+     "ref": "Ohr Sameach on Mishneh Torah, Paschal Offering 1:12:1",
+     "quote": "הוא במקום שיש נסכים הא בפסח היו אומרים בעת",
+     "he": "האור שמח: הכלל שאין אומרים שירה אלא על היין הוא במקום שיש נסכים; בפסח היו אומרים שירה בעת שחיטתו.",
+     "en": "Ohr Sameach: the rule that song is said only over wine applies where there are libations; at the Pesach they said song at its slaughter."
+    }
+   ]
+  },
+  {
+   "amud": "ab",
+   "lines": [
+    16,
+    1
+   ],
+   "he": {
+    "title": "עוד מקורות לשירה מן התורה: ״ישור במשא״, ״עבודת עבודה״, ״שאו זמרה״",
+    "gemara": "הגמרא מביאה עוד דרשות לעיקר שירה: חזקיה — ״ישור במשא״, אל תקרי ״ישור״ אלא ״ישיר״; רבי יוחנן — ״לעבוד עבודת עבודה״, עבודה שצריכה עבודה; רבי יצחק — ״שאו זמרה״; רב נחמן בר יצחק — ״ישאו קולם״ ו״צהלו מים״; התנא — ״בכתף ישאו״; חנניא — ״משה ידבר והאלהים יעננו בקול״, על עסקי קול; רב אשי — ״להשמיע קול אחד״."
+   },
+   "en": {
+    "title": "More sources for song from the Torah: 'yasor bamassa', 'avodat avoda', 'se'u zimra'",
+    "gemara": "The Gemara brings further derivations for the essential song: Chizkiya — 'yasor bamassa', do not read 'yasor' but 'yashir'; Rabbi Yochanan — 'to do the service of service', a service that needs a service; Rabbi Yitzchak — 'raise a song'; Rav Nachman bar Yitzchak — 'they shall lift up their voice' and 'they cry out from the sea'; the Tanna — 'on the shoulder they shall bear'; Chananya — 'Moshe spoke and God answered him in a voice', concerning matters of voice; Rav Ashi — 'to make one sound be heard'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:16:1",
+     "quote": "אשכחן שירת לוים מן התורה",
+     "he": "רש״י: מצאנו שירת לוים מן התורה ב״ישור במשא״ — נשיאת קול בשיר.",
+     "en": "Rashi: we find the Levites' song from the Torah in 'yasor bamassa' — a raising of the voice in song."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11a:16:1",
+     "quote": "בעי לאשכוחי דשירה מן התורה",
+     "he": "תוספות: יש הרבה פסוקים בדברי הימים על בני פלוני משוררים, אך רצו למצוא שהשירה מן התורה ולכן דייקו מפסוק זה.",
+     "en": "Tosafot: there are many verses in Chronicles about sons of so-and-so being singers, but he wanted to find that song is from the Torah, so he inferred from this verse."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:17:2",
+     "quote": "צריך עבודת קרבן שאינו נאמר אלא על היין של נסכי",
+     "he": "רש״י על ״עבודה שצריכה עבודה״: השירה צריכה עבודת קרבן, והיא נאמרת רק על יין נסכי הקרבן.",
+     "en": "Rashi on 'a service that needs a service': song depends on the service of the offering, and it is said only over the wine of the libations."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Numbers 4:47:1",
+     "quote": "הִיא הַשִּׁיר בִּמְצִלְתַּיִם וְכִנּוֹרוֹת, שֶׁהִיא",
+     "he": "רש״י בחומש: ״עבודת עבודה״ היא השיר במצלתיים וכינורות, שהיא עבודה לעבודה אחרת.",
+     "en": "Rashi on the Torah: 'service of service' is the song with cymbals and lyres, which is a service for another service."
+    },
+    {
+     "who": {
+      "he": "הדר זקנים",
+      "en": "Hadar Zekenim"
+     },
+     "ref": "Hadar Zekenim on Torah, Numbers 4:47:1",
+     "quote": "שאין עושין הלויים שיר אלא בשעת",
+     "he": "ההדר זקנים: בערכין דורשים ״עבודה שצריכה עבודה״ על השיר, שהלוים אינם עושים שיר אלא בשעת נסכים.",
+     "en": "Hadar Zekenim: in Arakhin they expound 'a service that needs a service' as song, since the Levites make song only at the time of libations."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:18:1",
+     "quote": "יצהלו בשיר בית המקדש יותר מצהלת ים סוף:",
+     "he": "רש״י על ״צהלו מים״: יצהלו בשיר בית המקדש יותר מצהלת ים סוף.",
+     "en": "Rashi on 'they cry out from the sea': the Temple will cry out in song more than the exultation at the Red Sea."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11a:19:1",
+     "quote": "לעיקר שירה מן התורה:",
+     "he": "רש״י: התנא מביא את הפסוק הזה כמקור לעיקר שירה מן התורה.",
+     "en": "Rashi: the Tanna brings this verse as the source for the essential song from the Torah."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:1:1",
+     "quote": "שהיה מצוהו לשורר לפי שמשה לוי",
+     "he": "רש״י על ״על עסקי קול״: הקב״ה ציווה את משה לשורר, מפני שמשה לוי היה.",
+     "en": "Rashi on 'concerning matters of voice': He commanded him to sing, because Moshe was a Levite."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:1:1",
+     "quote": "כתיב ותקעתם בחצוצרות על עולותיכם אלמא איכא",
+     "he": "תוספות על ״ויהי כאחד למחצצרים״: נאמר ״ותקעתם בחצוצרות על עולותיכם״, ומכאן שיש שירה.",
+     "en": "Tosafot on 'as one for the trumpeters': it says 'you shall sound the trumpets over your burnt offerings', so there is song."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:1",
+     "quote": "בשעה שהיה משה משורר שהוא",
+     "he": "רבינו גרשום: בשעה שהיה משה משורר, שהוא לוי, ענה לו האלהים בקול.",
+     "en": "Rabbeinu Gershom: when Moshe was singing, he being a Levite, God answered him in a voice."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11a:2",
+     "quote": "שצריכה עבודה אחרת שהיא שירה בכנור",
+     "he": "הבן יהוידע: ״עבודה שצריכה עבודה״ — שירה בפה שצריכה עבודה אחרת, שהיא שירה בכנור.",
+     "en": "Ben Yehoyada: 'a service that needs a service' — song by mouth that needs another service, which is song with a lyre."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11a:3",
+     "quote": "דקאי בלויים ומפרש 'יִשָּׂאוּ' לשון שירה",
+     "he": "הבן יהוידע: התנא לומד מ״לבני קהת״ שמדבר בלוים, ומפרש ״ישאו״ לשון שירה על סמך ״שאו זמרה״.",
+     "en": "Ben Yehoyada: the Tanna learns from 'to the sons of Kehat', which speaks of Levites, and explains 'yisa'u' as song based on 'se'u zimra'."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות (מהרש״א)",
+      "en": "Chidushei Agadot (Maharsha)"
+     },
+     "ref": "Chidushei Agadot on Arakhin 11a:4",
+     "quote": "יצהלו מים דהיינו בניסוך המים בחג",
+     "he": "המהרש״א: ״יצהלו מים״ הוא ניסוך המים בחג, ושם היתה שירה בלא יין.",
+     "en": "The Maharsha: 'they cry out from the sea' refers to the water libation on Sukkot, where there was song without wine."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11a:5",
+     "quote": "ונ\"ל דיליף מן בגאון כמו שפרש\"י בפ' בחוקותי",
+     "he": "הרש״ש על רש״י ״בית המקדש״: נראה שלמד זאת מ״בגאון״, כפי שפירש רש״י בפרשת בחוקותי.",
+     "en": "Rashash on Rashi's 'the Temple': it seems he learned it from 'in majesty', as Rashi explained in Parashat Bechukotai."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11b:1",
+     "quote": "דהאלקים ענהו למשה רבינו ע\"ה בשביל מצות הקול שיש",
+     "he": "הבן יהוידע: האלהים ענה למשה בשביל מצוות הקול של הלוים.",
+     "en": "Ben Yehoyada: God answered Moshe on account of the commandment of voice that the Levites have."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    2,
+    8
+   ],
+   "he": {
+    "title": "לוי בעבודת כהן, כהן בעבודת לוי, ו״משורר ששיער״",
+    "gemara": "רבי יונתן לומד מ״ולא ימותו גם הם גם אתם״ — כמו שאתם בעבודת מזבח כך הם בעבודת מזבח (שירה). ברייתא: אתם בשלהם והם בשלכם — במיתה; הם בשלהם — באזהרה. אביי: נקטינן, משורר ששיער בשל חבירו במיתה. הגמרא מקשה מברייתא שאומרת ״אינן במיתה אלא באזהרה״, ומתרצת שהם חלוקים בתנאים — רבי יהושע בן חנניה ורבי יוחנן בן גודגדא, בענין הגפת דלתות — אם מיתה היא וגזרו על המסייע, או אזהרה ולא גזרו.",
+    "halakha": "הרמב״ם (כלי המקדש ג:יא): ״לוים שעבדו עבודת הכהנים או שסיע לוי במלאכה שאינה מלאכתו חייבין מיתה בידי שמים״; ורדב״ז: ״ופסק רבינו כאביי דאיכא תנא דמסייע ליה״."
+   },
+   "en": {
+    "title": "A Levite in a kohen's service, a kohen in a Levite's, and 'a singer who served as a gatekeeper'",
+    "gemara": "Rabbi Yonatan learns from 'so that they die not, neither they nor you' — as you are in the altar service, so they are in the altar service (song). A baraita: you in theirs and they in yours — death; they in their own — a warning. Abaye: we hold that a singer who did the gatekeeper's work of another is liable to death. The Gemara objects from a baraita saying 'only a warning', and resolves it as a dispute of tannaim — Rabbi Yehoshua ben Chananya and Rabbi Yochanan ben Gudgada, regarding closing the doors — whether it is death and they decreed also for one who helps, or a warning and they did not decree.",
+    "halakha": "Rambam (Vessels of the Sanctuary 3:11): 'Levites who did the service of the kohanim, or a Levite who helped in work that is not his own, are liable to death at the hands of Heaven'; and the Radbaz: 'our teacher ruled like Abaye, since a tanna supports him'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:2:1",
+     "quote": "ולא משכחת לוים כשרים בעבודת מזבח אלא",
+     "he": "רש״י: אין מוצאים לוים כשרים בעבודת מזבח אלא בשיר.",
+     "en": "Rashi: one finds no Levites fit for the altar service except in song."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:2",
+     "quote": "אף הם בעבודת מזבח. שירה בשעת",
+     "he": "רבינו גרשום: ״אף הם בעבודת מזבח״ — שירה בשעת קרבן.",
+     "en": "Rabbeinu Gershom: 'so they in the altar service' — song at the time of the offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:3:1",
+     "quote": "הכהנים שנכנסו בעבודת לוים כגון ששררו:",
+     "he": "רש״י: ״אתם בשלהם״ — הכהנים שנכנסו בעבודת לוים, כגון ששוררו.",
+     "en": "Rashi: 'you in theirs' — kohanim who entered the Levites' service, such as by singing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:3:2",
+     "quote": "לוי שעבד על המזבח ככהן:",
+     "he": "רש״י: ״והם בשלכם״ — לוי שעבד על המזבח ככהן.",
+     "en": "Rashi: 'and they in yours' — a Levite who served at the altar like a kohen."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:3:3",
+     "quote": "כגון לוי משורר שהגיף דלתות ולוי משוער שאמר",
+     "he": "רש״י: ״הם בשלהם״ — כגון לוי משורר שהגיף דלתות ולוי שוער שאמר שיר, כי הלוים היו מחולקים, זה לשער וזה לשיר.",
+     "en": "Rashi: 'they in their own' — such as a singing Levite who closed doors and a gatekeeper Levite who sang, since the Levites were divided, some for gates and some for song."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:3:4",
+     "quote": "לא אתפרש לן:",
+     "he": "רש״י על ״אלא באזהרה״: לא התפרש לנו מקור האזהרה.",
+     "en": "Rashi on 'only a warning': the source of the warning has not been explained to us."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:5:2",
+     "quote": "לשמור משמרת ועבודה לא יעבוד",
+     "he": "תוספות: רש״י כתב שלא ידע מהיכן האזהרה, ורבינו מנחם פירש מ״לשמור משמרת ועבודה לא יעבוד״ ו״ככה תעשה ללוים במשמרותם״.",
+     "en": "Tosafot: Rashi wrote that he did not know the source of the warning, and Rabbeinu Menachem explained it from 'to keep the watch, and service he shall not serve' and 'so shall you do to the Levites in their watches'."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:5:1",
+     "quote": "כתיב משפחות שהיו משוערים ומשפחות שהיו",
+     "he": "תוספות: בדברי הימים נאמר שהיו משפחות משוערים ומשפחות משוררים.",
+     "en": "Tosafot: Chronicles says there were families of gatekeepers and families of singers."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:4",
+     "quote": "שוער ששרר או משורר ששיער אינן אלא באזהרה",
+     "he": "רבינו גרשום: שוער ששרר או משורר ששער אינם אלא באזהרה בלאו.",
+     "en": "Rabbeinu Gershom: a gatekeeper who sang or a singer who served as a gatekeeper is only under a negative warning."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:4:1",
+     "quote": "משכחת תנא אחרינא דקאי",
+     "he": "רש״י על אביי: אין לו את המשנה שלמעלה, אך נמצא תנא אחר שסובר כמותו.",
+     "en": "Rashi on Abaye: he does not hold the mishna above, but another tanna is found who holds like him."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:6:1",
+     "quote": "משורר ששוער במיתה כשהוא מגיף לבדו וגזרו רבנן במסייע",
+     "he": "רש״י: יוחנן בן גודגדא סבר ששוער ששורר במיתה כשהוא מגיף לבדו, וגזרו חכמים גם במסייע; ורבי יהושע סבר אפילו כשעושה לבדו אינו אלא באזהרה.",
+     "en": "Rashi: Yochanan ben Gudgada held that a singer who acted as gatekeeper is liable to death when he closes alone, and the rabbis decreed also for one who helps; Rabbi Yehoshua held that even when he does it alone it is only a warning."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:7",
+     "quote": "דבמיתה הוו וגזרו רבנן דלא מסייע",
+     "he": "רבינו גרשום: לפי יוחנן בן גודגדא זה במיתה, וגזרו חכמים שלא יסייע שמא יעשה לבדו.",
+     "en": "Rabbeinu Gershom: according to Yochanan ben Gudgada this is death, and the rabbis decreed that he not help, lest he do it alone."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:7:1",
+     "quote": "אם משוער לבדו וגזרו בו רבנן מסייע עם",
+     "he": "תוספות: לפי המאן דאמר מיתה, זה כשהשוער עושה לבדו, וגזרו חכמים גם במסייע עם אחר.",
+     "en": "Tosafot: for the one who says death, it is when the gatekeeper does it alone, and the rabbis decreed also for one who helps another."
+    },
+    {
+     "who": {
+      "he": "ר״ן",
+      "en": "Ran"
+     },
+     "ref": "Ran on Kiddushin 10b:9",
+     "quote": "היינו רבי יהושע בן חנניה שהיה לוי כדמוכח",
+     "he": "הר״ן בקידושין: ״יהושע״ הוא רבי יהושע בן חנניה שהיה לוי, כפי שמוכח בערכין.",
+     "en": "The Ran in Kiddushin: 'Yehoshua' is Rabbi Yehoshua ben Chananya, who was a Levite, as is proven in Arakhin."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Eruvin 6b:8:1",
+     "quote": "מגופות כמו הגפת דלתות",
+     "he": "רש״י בעירובין: ״מגופות״ כמו ״הגפת דלתות״ בערכין.",
+     "en": "Rashi in Eruvin: 'magufot' is like 'hagafat delatot' in Arakhin."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:11",
+     "quote": "אוֹ שֶׁסִּיֵּעַ לֵוִי בִּמְלָאכָה שֶׁאֵינָהּ מְלַאכְתּוֹ חַיָּבִין מִיתָה בִּידֵי",
+     "he": "הרמב״ם פוסק שלוי שסייע במלאכה שאינה שלו חייב מיתה בידי שמים.",
+     "en": "The Rambam rules that a Levite who helped in work that is not his is liable to death at the hands of Heaven."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:9:4",
+     "quote": "אמר אביי נקטינן משורר ששיער בשל חבירו",
+     "he": "הכסף משנה מביא את כל הסוגיא כמקור לדברי הרמב״ם שהלוים מוזהרים על עבודת המזבח.",
+     "en": "Kessef Mishneh brings the whole sugya as the source for the Rambam's rule that Levites are warned against the altar service."
+    },
+    {
+     "who": {
+      "he": "מהר״י קורקוס והרדב״ז",
+      "en": "Mahari Kurkus and Radbaz"
+     },
+     "ref": "Commentary of Mahari Kurkus and Radbaz on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:10:1",
+     "quote": "ופסק רבינו כאביי דאיכא תנא דמסייע ליה:",
+     "he": "הרדב״ז: הרמב״ם פסק כאביי, כי יש תנא שמסייע לו.",
+     "en": "The Radbaz: the Rambam ruled like Abaye, because there is a tanna who supports him."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Negative Commandments 297:1",
+     "quote": "שלא לעבוד עבודת כהנים כך הכהנים",
+     "he": "הסמ״ג: כשם שהלוים מוזהרים שלא לעבוד עבודת כהנים, כך הכהנים מוזהרים שלא לעבוד עבודת הלוים.",
+     "en": "Semag: as the Levites are warned not to do the kohanim's service, so the kohanim are warned not to do the Levites' service."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "תועפות ראם",
+      "en": "Toafot Re'em"
+     },
+     "ref": "Toafot Re'em 356:2",
+     "quote": "כתב ומשורר ששיער במיתה והיינו דס\"ל כאביי דאילו",
+     "he": "התועפות ראם: רש״י בבבא מציעא כתב ״ומשורר ששיער במיתה״, והיינו שסובר כאביי.",
+     "en": "Toafot Re'em: Rashi in Bava Metzia wrote 'and a singer who served as gatekeeper is liable to death', which means he holds like Abaye."
+    },
+    {
+     "who": {
+      "he": "אור החיים",
+      "en": "Or HaChaim"
+     },
+     "ref": "Or HaChaim on Numbers 18:3:2",
+     "quote": "אַתֶּם בְּשֶׁלָּהֶם וְהֵם בְּשֶׁלָּכֶם בְּמִיתָה, הֵם",
+     "he": "האור החיים על ״גם הם גם אתם״ מביא את לשון הגמרא בערכין על הברייתא.",
+     "en": "Or HaChaim on 'neither they nor you' brings the Gemara's wording in Arakhin on this baraita."
+    },
+    {
+     "who": {
+      "he": "מראית העין",
+      "en": "Marit HaAyin"
+     },
+     "ref": "Marit HaAyin on Arakhin 11b:1",
+     "quote": "והר\"ן ס\"פ הנזיקין כתב נקטינן הלכה",
+     "he": "מראית העין: הר״ן בסוף נזיקין כתב ״נקטינן״ הלכה למעשה.",
+     "en": "Marit HaAyin: the Ran at the end of Nezikin wrote that 'nakitinan' is the practical halakha."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11b:2",
+     "quote": "נראה גם מהכא יליף שירה דלויים בפה",
+     "he": "הבן יהוידע: גם מכאן לומדים ששירת הלוים בפה, כי לכהנים יש שני מיני עבודה — בידים ובפה (ברכת כהנים).",
+     "en": "Ben Yehoyada: from here too we learn that the Levites' song is by mouth, since kohanim have two kinds of service — by hand and by mouth (the priestly blessing)."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11b:4",
+     "quote": "אם כוונתו לפסוק יו\"ד דאותו קאפיטול.",
+     "he": "הרש״ש על רש״י ״הכתיב חדא זימנא״: אם כוונתו לפסוק עשירי באותו פרק, הרי כתוב קודם ״ושמרו את כהונתם״.",
+     "en": "Rashash on Rashi's 'it is written once': if he means the tenth verse in that chapter, 'they shall keep their priesthood' is written earlier."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    9,
+    15
+   ],
+   "he": {
+    "title": "עולת נדבת ציבור וחזקיהו: האם טעונה שירה?",
+    "gemara": "רבי אבין שואל אם עולת נדבת ציבור טעונה שירה. הגמרא מנסה להוכיח מחזקיהו (״ובעת החל העולה החל שיר ה׳״): למה היה צריך להימלך? רב יוסף: עולת ראש חודש; אביי דוחה מ״ט״ז לחודש הראשון״; רמי בריה דרב ייבא: כבש הבא עם העומר; רב אויא מקשה מהפסח והמצה; רב אשי: ״מידי דהוה אשליחא דצבורא דממליך״ — שהוא נוטל רשות, ואפילו עולת חובה.",
+    "halakha": "הרמב״ם (תמידין ומוספין ו:ח): ״אין אומרים שירה אלא על עולות הצבור וזבחי שלמיהם האמורין בתורה. אבל עולות נדבה שמקריבין ממותר תרומת הלשכה אף על פי שהן של צבור אין אומרים עליהן שירה״."
+   },
+   "en": {
+    "title": "A public free-will burnt offering and Hizkiyahu: does it require song?",
+    "gemara": "Rabbi Avin asks whether a public free-will burnt offering requires song. The Gemara tries to prove it from Hizkiyahu ('when the burnt offering began, the song of the Lord began'): why did he need to consult? Rav Yosef: the Rosh Chodesh offering; Abaye refutes from 'on the sixteenth of the first month'; Rami son of Rav Yeiva: the lamb brought with the omer; Rav Avya asks from the Pesach and the matza; Rav Ashi: 'like a communal prayer leader who asks permission' — he takes leave, and even for an obligatory burnt offering.",
+    "halakha": "Rambam (Daily Offerings 6:8): 'song is said only over the public burnt offerings and their peace offerings stated in the Torah. But free-will burnt offerings brought from the surplus of the chamber's donation, though they are public, no song is said over them'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:9:1",
+     "quote": "כגון קיץ המזבח הבא מן",
+     "he": "רש״י: עולת נדבת ציבור היא כגון קיץ המזבח, שבא מהשופרות שנותנים בהן מעות מותר חטאת ומותר אשם.",
+     "en": "Rashi: a public free-will burnt offering is, for example, the 'altar-summer-fruit' that comes from the collection horns into which they put the money left over from sin- and guilt-offerings."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:9:1",
+     "quote": "אבל דיחיד אפי' חובתו אין טעונה",
+     "he": "תוספות: עולת נדבת ציבור היא כגון עולת קיץ; אבל של יחיד, אפילו חובתו, אינה טעונה נסכים.",
+     "en": "Tosafot: a public free-will burnt offering is such as the 'summer-fruit' offering; but an individual's, even his obligatory one, does not require libations."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:10",
+     "quote": "שנעשה להן נס ונתנדבו להביא עולה",
+     "he": "רבינו גרשום: עולת נדבת ציבור היא שנעשה להם נס ונתנדבו להביא עולה.",
+     "en": "Rabbeinu Gershom: a public free-will burnt offering is one where a miracle happened to them and they donated to bring a burnt offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:10:1",
+     "quote": "משמע שהיה נמלך:",
+     "he": "רש״י על ״ויאמר חזקיהו״: משמע שהיה נמלך.",
+     "en": "Rashi on 'and Hizkiyahu said': it implies he was consulting."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:10:2",
+     "quote": "שהורו לו ב\"ד לשורר:",
+     "he": "רש״י: ״החל שיר ה׳״ — שהורו לו בית דין לשורר.",
+     "en": "Rashi: 'the song of the Lord began' — the court instructed him to sing."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:15",
+     "quote": "למה לי אימלוכי בחזקיהו",
+     "he": "רבינו גרשום: אם ידעו שצריך שיר, למה היה צריך להימלך בחזקיהו?",
+     "en": "Rabbeinu Gershom: if they knew it needed song, why was there a need to consult in Hizkiyahu?"
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:16",
+     "quote": "אלמא לאו ר\"ח הוא:",
+     "he": "רבינו גרשום על ״ביום ששה עשר לחודש הראשון״: מכאן שאין זה ראש חודש.",
+     "en": "Rabbeinu Gershom on 'on the sixteenth day of the first month': so it was not Rosh Chodesh."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:13:1",
+     "quote": "דהוא עולת חובה בי\"ו בניסן:",
+     "he": "רש״י: כבש הבא עם העומר הוא עולת חובה בט״ז בניסן.",
+     "en": "Rashi: the lamb that comes with the omer is an obligatory burnt offering on the sixteenth of Nisan."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:13:1",
+     "quote": "מאי ס\"ד דהא אתמול הקריבו תמידין ומוספין",
+     "he": "תוספות תמהים: מה עלה על דעתם? הרי אתמול הקריבו תמידים ומוספים — ולמה לא נמלכו אלא ממוסף ט״ז בניסן.",
+     "en": "Tosafot are puzzled: what did they think? Yesterday they brought the tamidim and musafim — why did they consult only about the musaf of the sixteenth of Nisan?"
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:13:2",
+     "quote": "וקשה לרש\"י דבדברי הימים כתיב האי קרא",
+     "he": "תוספות מקשים על רש״י: בדברי הימים נכתב פסוק זה לפני ״ויועץ המלך לעשות הפסח בחדש השני״.",
+     "en": "Tosafot ask against Rashi: in Chronicles this verse is written before 'the king took counsel to make the Pesach in the second month'."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:17",
+     "quote": "ולמה להו למיבעי וליחזו היכי עבוד פסח",
+     "he": "רבינו גרשום מביא את קושיית רב אויא: למה להם לשאול — הרי יראו איך עשו פסח בי״ד ואכלו מצה.",
+     "en": "Rabbeinu Gershom brings Rav Avya's question: why would they ask — let them see how they did the Pesach on the fourteenth and ate matza."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:15:1",
+     "quote": "אלא רשותא הוא דקא נסיב:",
+     "he": "רש״י: ההימלכות אינה מפני ספק אם הוקבע ראש חודש בזמנו, אלא נטילת רשות.",
+     "en": "Rashi: the consultation is not because of doubt whether Rosh Chodesh was fixed on time, but taking permission."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:15:3",
+     "quote": "עולת תמיד שבכל יום ויום",
+     "he": "רש״י על ״אפילו תימא עולת חובה״: עולת תמיד שבכל יום.",
+     "en": "Rashi on 'even say an obligatory burnt offering': the daily tamid offering."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:15:1",
+     "quote": "ולעולם לא תפשוט דנימא דכבש הבא עם העומר",
+     "he": "תוספות על תשובת רב אשי: אין להוכיח שהיה כבש הבא עם העומר.",
+     "en": "Tosafot on Rav Ashi's answer: one cannot conclude that it was the lamb brought with the omer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:19",
+     "quote": "משום כבודו של מלך נטלו רשות",
+     "he": "רבינו גרשום: כמו שליח ציבור שנוטל רשות, כך נטלו רשות מהמלך משום כבודו.",
+     "en": "Rabbeinu Gershom: like a prayer leader who takes permission, they took permission from the king out of respect for him."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Daily Offerings and Additional Offerings 6:8",
+     "quote": "אֵין אוֹמְרִין שִׁירָה אֶלָּא עַל עוֹלוֹת הַצִּבּוּר וְזִבְחֵי",
+     "he": "הרמב״ם פוסק שאין אומרים שירה אלא על עולות הציבור ושלמיהם.",
+     "en": "The Rambam rules that song is said only over the public burnt offerings and their peace offerings."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11b:5",
+     "quote": "ואמאי לא אימלך ממוסף ט\"ז",
+     "he": "הרש״ש על התוספות: ולמה לא נמלכו ממוסף ט״ז בניסן.",
+     "en": "Rashash on Tosafot: and why did they not consult about the musaf of the sixteenth of Nisan?"
+    },
+    {
+     "who": {
+      "he": "ביאור הגר״א",
+      "en": "Beur HaGra"
+     },
+     "ref": "Beur HaGra on Shulchan Arukh, Orach Chayim 53:15:1",
+     "quote": "מידי דהוי אשליחא דצבורא דצריך",
+     "he": "הגר״א מביא את דברי רב אשי בערכין לעניין שליח ציבור שצריך להימלך.",
+     "en": "The Vilna Gaon brings Rav Ashi's words in Arakhin regarding a prayer leader who needs to ask permission."
+    },
+    {
+     "who": {
+      "he": "בנין ציון",
+      "en": "Binyan Tziyon"
+     },
+     "ref": "Binyan Tziyon 174:3",
+     "quote": "שאין לאדם להתפלל לפני הצבור אם לא שהצבור נתנו לו",
+     "he": "בנין ציון על הדמיון לשליח ציבור: פשוט שאין אדם מתפלל לפני הציבור אם לא נתנו לו רשות.",
+     "en": "Binyan Tziyon on the comparison to a prayer leader: it is plain that one may not pray before the congregation unless they gave him permission."
+    },
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Daily Offerings and Additional Offerings 6:8:1",
+     "quote": "איבעיא אם עולת נדבת צבור טעון שירה ואסיקנא",
+     "he": "הכסף משנה בתמידין ומוספין מביא את הבעיה בערכין ואת מסקנתה כמקור להלכה.",
+     "en": "Kessef Mishneh on the daily offerings brings the question in Arakhin and its conclusion as the source for the halakha."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    16,
+    21
+   ],
+   "he": {
+    "title": "״מגלגלין זכות ליום זכאי״ וחורבן הבית: איזו שירה אמרו?",
+    "gemara": "רבי יוסי: מגלגלין זכות ליום זכאי וחובה ליום חייב. כשחרב הבית בראשונה היה תשעה באב, מוצאי שבת, מוצאי שביעית, משמרת יהויריב, והלוים אמרו ״וישב עליהם את אונם״. הגמרא שואלת איזו שירה היתה — לא עולת חובה, כי בי״ז בתמוז בטל התמיד; אלא עולת נדבה. דוחה: ״בן בקר בעלמא אתרמי להו״. רבא: שירת היום היתה ״לה׳ הארץ ומלואה״, ו״אילייא בעלמא״ נפל בפיהם. ״עומדין על דוכנן״ — כריש לקיש שאומר שלא על הקרבן; ואם כן גם בעולת נדבה? ״נפיק מינה חורבא״."
+   },
+   "en": {
+    "title": "'Merit is rolled to a day of merit' and the Destruction: which song did they say?",
+    "gemara": "Rabbi Yosi: merit is rolled to a day of merit and guilt to a day of guilt. When the Temple was first destroyed it was the Ninth of Av, the night after Shabbat, the year after Shemitta, the watch of Yehoyariv, and the Levites said 'He brought back on them their iniquity'. The Gemara asks which song this was — not an obligatory burnt offering, since on the seventeenth of Tammuz the tamid ceased; so a free-will one. It rejects this: 'a bull happened to come to them'. Rava: the song of the day was 'The earth is the Lord's', and 'a dirge' simply fell into their mouths. 'Standing on their platform' — like Reish Lakish, who says one may sing not over the offering; but then also for a free-will burnt offering? 'It would lead to ruin'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:16:1",
+     "quote": "בניסן נגאלו בניסן עתידין להיגאל:",
+     "he": "רש״י על ״זכות ליום זכאי״: בניסן נגאלו ובניסן עתידים להיגאל.",
+     "en": "Rashi on 'merit to a day of merit': in Nisan they were redeemed, and in Nisan they will be redeemed."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:17:3",
+     "quote": "פסוק הוא בתהלים במזמור אל נקמות",
+     "he": "רש״י: ״וישב עליהם את אונם״ — פסוק בתהלים במזמור ״אל נקמות ה׳״.",
+     "en": "Rashi: 'He brought back on them their iniquity' — a verse in Psalms in the psalm 'God of vengeance'."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 10:3",
+     "quote": "שֶׁחָרַב הַבַּיִת בָּרִאשׁוֹנָה מוֹצָאֵי שְׁבִיעִית הָיְתָה",
+     "he": "הרמב״ם בהלכות שמיטה ויובל: השנה שבה חרב הבית בראשונה היתה מוצאי שביעית ושנת שלושים ושש ליובל.",
+     "en": "Rambam in the laws of Shemitta and Yovel: the year the Temple was first destroyed was the year after a Shemitta and the thirty-sixth year of the Jubilee."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:18:1",
+     "quote": "שלא היו להם כבשים מחמת שהיו צרים",
+     "he": "רש״י: ״בטל התמיד״ — שלא היו להם כבשים מפני שהיו צרים על ירושלים.",
+     "en": "Rashi: 'the tamid ceased' — they had no lambs because besiegers were encamped against Jerusalem."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:22",
+     "quote": "בטל התמיד. שלא היה להם",
+     "he": "רבינו גרשום: בטל התמיד כי לא היה להם עוד בהמה להקריב.",
+     "en": "Rabbeinu Gershom: the tamid ceased because they had no more animals to offer."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:23",
+     "quote": "שמצאו בהמה והקריבוה עולת נדבה:",
+     "he": "רבינו גרשום: ״דאית רמיא להו״ — שמצאו בהמה והקריבוה עולת נדבה.",
+     "en": "Rabbeinu Gershom: 'a bull happened to them' — they found an animal and offered it as a free-will burnt offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:19:2",
+     "quote": "שאינו ראוי לתמיד וראוי לעולת נדבה:",
+     "he": "רש״י: בן בקר שאינו ראוי לתמיד אך ראוי לעולת נדבה.",
+     "en": "Rashi: a young bull, not fit for the tamid but fit for a free-will burnt offering."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:20:1",
+     "quote": "שהוא שיר של רביעי בשבת:",
+     "he": "רש״י: הפסוק במזמור ״אל נקמות ה׳״ הוא שיר של יום רביעי.",
+     "en": "Rashi: the verse in the psalm 'God of vengeance' is the song of Wednesday."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:24",
+     "quote": "אלא לאו משום שיר ממש אמרו",
+     "he": "רבינו גרשום: לא אמרו אותו משום שיר ממש.",
+     "en": "Rabbeinu Gershom: they did not say it as real song."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:25",
+     "quote": "אלא איליא בעלמא. קינה נזדמנה",
+     "he": "רבינו גרשום: ״אילייא״ — קינה שנזדמנה בפיהם.",
+     "en": "Rabbeinu Gershom: 'ilya' — a dirge that happened into their mouths."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:20:1",
+     "quote": "ואם עולת קיץ טעונה שירה היינו שיר שאמרו בתמיד של",
+     "he": "תוספות: אם עולת קיץ טעונה שירה, היינו השיר שאמרו בתמיד של שחר באותו יום.",
+     "en": "Tosafot: if the 'summer-fruit' burnt offering requires song, it is the song they said at the morning tamid that day."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:21:3",
+     "quote": "דהא דר\"ל רשות הוא",
+     "he": "רש״י על ״נפיק מינה חורבא״: דברי ריש לקיש רשות הם, ואם כך בעולת נדבה יבואו לומר שגם בחובה זה רשות.",
+     "en": "Rashi on 'it would lead to ruin': Reish Lakish's words are optional, and one would come to say that for an obligatory burnt offering too it is optional."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:27",
+     "quote": "אלא סבירא ליה כריש לקיש דאומר שירה שלא",
+     "he": "רבינו גרשום: סבור כריש לקיש שאומר שירה שלא על הקרבן.",
+     "en": "Rabbeinu Gershom: he holds like Reish Lakish, who says song not over the offering."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "חידושי אגדות (מהרש״א)",
+      "en": "Chidushei Agadot (Maharsha)"
+     },
+     "ref": "Chidushei Agadot on Arakhin 11b:1",
+     "quote": "והוא דחוק דה\"ל להזכירו כמו שזכר ליום (חובה)",
+     "he": "המהרש״א מקשה על פירוש רש״י ״זכות ליום זכאי״: זה דחוק, שהיה לו להזכיר זכות כמו שהזכיר יום חובה.",
+     "en": "The Maharsha objects to Rashi's explanation of 'merit to a day of merit': it is forced, since it should have mentioned a merit as it mentioned a day of guilt."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11b:3",
+     "quote": "כפי סדר העיבור יום שחל בו תשעה באב יחול בו יום טוב",
+     "he": "הבן יהוידע: לפי סדר העיבור, היום שחל בו תשעה באב חל בו יום טוב ראשון של פסח.",
+     "en": "Ben Yehoyada: according to the order of intercalation, the day on which the Ninth of Av falls is the day on which the first day of Pesach falls."
+    },
+    {
+     "who": {
+      "he": "חידושי אגדות (מהרש״א)",
+      "en": "Chidushei Agadot (Maharsha)"
+     },
+     "ref": "Chidushei Agadot on Arakhin 11b:2",
+     "quote": "מלשון הכפול על חורבן בית ראשון וחורבן בית",
+     "he": "המהרש״א על ״יצמיתם יצמיתם״: מלשון הכפול, על חורבן בית ראשון וחורבן בית שני.",
+     "en": "The Maharsha on 'yatzmitem yatzmitem': from the doubled expression, referring to the destruction of the first and second Temples."
+    },
+    {
+     "who": {
+      "he": "בן יהוידע",
+      "en": "Ben Yehoyada"
+     },
+     "ref": "Ben Yehoyada on Arakhin 11b:4",
+     "quote": "נמצא סיימו באותיות 'תם' של תיבת",
+     "he": "הבן יהוידע על ״ולא הספיקו לומר ה׳ אלהינו״: נמצא שסיימו באותיות ״תם״ של ״יצמיתם״, להורות שתמה זכות אבות.",
+     "en": "Ben Yehoyada on 'they did not manage to say the Lord our God': they ended with the letters 'tam' of 'yatzmitem', indicating that the merit of the fathers had ended."
+    },
+    {
+     "who": {
+      "he": "מתנות כהונה",
+      "en": "Matnot Kehunah"
+     },
+     "ref": "Matnot Kehunah on Eichah Rabbah 2:4:59",
+     "quote": "איליא בעלמא הוא דנפל בפומייהו ופירש\"י קינה:",
+     "he": "מתנות כהונה: ״אילייא בעלמא נפל בפומייהו״, ורש״י פירש קינה.",
+     "en": "Matnot Kehunah: 'a dirge simply fell into their mouths', and Rashi explained it as a lament."
+    },
+    {
+     "who": {
+      "he": "מראה הפנים",
+      "en": "Mareh HaPanim"
+     },
+     "ref": "Mareh HaPanim on Jerusalem Talmud Taanit 4:5:10:1",
+     "quote": "וזהו כדר\"ל דהכא:",
+     "he": "מראה הפנים בירושלמי: הדברים כשיטת ריש לקיש שבערכין.",
+     "en": "Mareh HaPanim on the Yerushalmi: this is like Reish Lakish here."
+    }
+   ]
+  },
+  {
+   "amud": "b",
+   "lines": [
+    22,
+    23
+   ],
+   "he": {
+    "title": "״על עולותיכם ועל זבחי שלמיכם״: מסקנת הבעיה",
+    "gemara": "רב מרי בריה דרב כהנא שנה: ״ותקעתם בחצוצרות על עולותיכם ועל זבחי שלמיכם״ — מה עולה קדש קדשים, אף שלמים קדש קדשים; ומה שלמים קבוע להם זמן, אף עולה קבוע לה זמן — ולכן עולת נדבה אינה טעונה שירה.",
+    "halakha": "הרמב״ם (כלי המקדש ג:ב): ״ומתי אומר שירה על כל עולות הצבור החובה ועל שלמי עצרת בעת נסוך היין. אבל עולות נדבה שמקריבין הצבור לקיץ למזבח... אין אומרין עליהן שירה״."
+   },
+   "en": {
+    "title": "'Over your burnt offerings and your peace offerings': the conclusion",
+    "gemara": "Rav Mari son of Rav Kahana taught: 'you shall sound the trumpets over your burnt offerings and over your peace offerings' — as the burnt offering is most holy, so the peace offerings are most holy; and as the peace offerings have a fixed time, so the burnt offering has a fixed time — so a free-will burnt offering does not require song.",
+    "halakha": "Rambam (Vessels of the Sanctuary 3:2): 'when is song said? Over all the obligatory public burnt offerings and over the peace offerings of Shavuot, at the time of the wine libation. But free-will burnt offerings that the public brings for the altar's summer-fruit... no song is said over them'."
+   },
+   "rishonim": [
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:22:2",
+     "quote": "מקיש עולה לשלמים ושלמים לעולה לענין שיר:",
+     "he": "רש״י: הפסוק מקיש עולה לשלמים ושלמים לעולה לענין שיר.",
+     "en": "Rashi: the verse compares burnt offering to peace offering, and peace offering to burnt offering, regarding song."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Arakhin 11b:23:1",
+     "quote": "ואין לך שלמים קדשי קדשים אלא כבשי",
+     "he": "רש״י: אין שלמים קדשי קדשים אלא כבשי עצרת; ו״קבוע לה זמן״ בא לאפוקי נדבת ציבור.",
+     "en": "Rashi: the only peace offerings that are most holy are the lambs of Shavuot; and 'a fixed time' excludes a public free-will offering."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:31",
+     "quote": "שקבוע להן זמן. בעצרת:",
+     "he": "רבינו גרשום: ״שקבוע להן זמן״ — בעצרת.",
+     "en": "Rabbeinu Gershom: 'that have a fixed time' — on Shavuot."
+    },
+    {
+     "who": {
+      "he": "רבינו גרשום",
+      "en": "Rabbeinu Gershom"
+     },
+     "ref": "Rabbeinu Gershom on Arakhin 11b:32",
+     "quote": "היינו כל עולות חובות וקא ממעט מהכא עולה נדבה:",
+     "he": "רבינו גרשום: ״אף עולה שקבוע לה זמן״ היינו כל עולות החובה, ומכאן ממעטים עולת נדבה.",
+     "en": "Rabbeinu Gershom: 'so a burnt offering with a fixed time' means all obligatory burnt offerings, and from here a free-will burnt offering is excluded."
+    },
+    {
+     "who": {
+      "he": "תוספות",
+      "en": "Tosafot"
+     },
+     "ref": "Tosafot on Arakhin 11b:22:1",
+     "quote": "והא ברייתא איתא נמי בזבחים בפ' איזהו",
+     "he": "תוספות: הברייתא הזו נמצאת גם בזבחים בפרק איזהו מקומן, אך שם חסר ״ומה שלמים שקבוע להם זמן״.",
+     "en": "Tosafot: this baraita is also in Zevachim, chapter Eizehu Mekoman, but there 'and as the peace offerings have a fixed time' is missing."
+    },
+    {
+     "who": {
+      "he": "רש״י",
+      "en": "Rashi"
+     },
+     "ref": "Rashi on Numbers 10:10:1",
+     "quote": "בְּקָרְבַּן צִבּוּר הַכָּתוּב מְדַבֵּר",
+     "he": "רש״י בחומש: ״על עולותיכם״ — בקרבן ציבור הכתוב מדבר.",
+     "en": "Rashi on the Torah: 'over your burnt offerings' — Scripture speaks of a public offering."
+    },
+    {
+     "who": {
+      "he": "ספר מצוות גדול",
+      "en": "Sefer Mitzvot Gadol"
+     },
+     "ref": "Sefer Mitzvot Gadol, Positive Commandments 169:1",
+     "quote": "אבל עולות נדבה שמקדימין הציבור לקיץ המזבח",
+     "he": "הסמ״ג: אין אומרים שירה על עולות נדבה שמקדימים הציבור לקיץ המזבח.",
+     "en": "Semag: no song is said over free-will burnt offerings that the public offers early for the altar's summer-fruit."
+    },
+    {
+     "who": {
+      "he": "רמב״ם",
+      "en": "Rambam"
+     },
+     "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 3:2",
+     "quote": "וְעַל שַׁלְמֵי עֲצֶרֶת בְּעֵת נִסּוּךְ הַיַּיִן.",
+     "he": "הרמב״ם: אומרים שירה על כל עולות הציבור החובה ועל שלמי עצרת בעת ניסוך היין.",
+     "en": "Rambam: song is said over all the obligatory public burnt offerings and over the peace offerings of Shavuot at the time of the wine libation."
+    }
+   ],
+   "acharonim": [
+    {
+     "who": {
+      "he": "כסף משנה",
+      "en": "Kessef Mishneh"
+     },
+     "ref": "Kessef Mishneh on Mishneh Torah, Vessels of the Sanctuary and Those who Serve Therein 3:2:3",
+     "quote": "ואסיקנא ת\"ש דתני רב מרי בריה דרב",
+     "he": "הכסף משנה: מסקנת הבעיה היא ״ת״ש דתני רב מרי בריה דרב כהנא״, והוא מביא את פירוש רש״י.",
+     "en": "Kessef Mishneh: the conclusion of the question is 'come hear, as Rav Mari son of Rav Kahana taught', and he brings Rashi's explanation."
+    },
+    {
+     "who": {
+      "he": "גור אריה",
+      "en": "Gur Aryeh"
+     },
+     "ref": "Gur Aryeh on Bamidbar 10:10:1",
+     "quote": "בקרבן ציבור הכתוב מדבר.",
+     "he": "הגור אריה: בקרבן ציבור הכתוב מדבר, ובערכין לומדים בהיקש שעולה ושלמים קדשי קדשים.",
+     "en": "Gur Aryeh: Scripture speaks of a public offering, and in Arakhin they learn by analogy that the burnt offering and peace offerings are most holy."
+    },
+    {
+     "who": {
+      "he": "רש״ש",
+      "en": "Rashash"
+     },
+     "ref": "Rashash on Arakhin 11b:6",
+     "quote": "וכן היה שונה אותה ר\"מ והכא והתם תני מה שהיה",
+     "he": "הרש״ש על התוספות: כך שנה אותה ר׳ מאיר, ובכל מקום שנה את הצריך לו.",
+     "en": "Rashash on Tosafot: so Rabbi Meir taught it, and in each place he taught what he needed from it."
+    }
+   ]
+  }
+ ]
+}
